@@ -1,0 +1,33 @@
+[project]
+name = "peloton-iq"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.12.*"
+dependencies = [
+    "anthropic>=0.99.0",
+    "httpx>=0.28.1",
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "langchain>=1.2.17",
+    "langchain-anthropic>=1.4.3",
+    "langgraph>=1.1.10",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "procyclingstats>=0.2.8",
+    "python-dotenv>=1.2.2",
+    "qdrant-client>=1.17.1",
+    "rank-bm25>=0.2.2",
+    "rapidfuzz>=3.14.5",
+    "sentence-transformers>=5.4.1",
+    "torch>=2.5.1",
+    "wikipedia-api>=0.14.1",
+]
+
+[tool.uv.sources]
+torch = { url = "https://download.pytorch.org/whl/cpu/torch-2.5.1%2Bcpu-cp312-cp312-win_amd64.whl" }
+
+[dependency-groups]
+dev = [
+    "isort>=8.0.1",
+]

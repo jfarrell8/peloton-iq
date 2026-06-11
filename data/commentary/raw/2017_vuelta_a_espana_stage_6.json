@@ -1,0 +1,39 @@
+{
+  "label": "2017 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-24",
+  "stage": 6,
+  "video": {
+    "video_id": "o7aH4fuEOng",
+    "title": "Inside The AG2R La Mondiale Mechanic&#39;s Truck | La Vuelta A España 2017",
+    "url": "https://youtube.com/watch?v=o7aH4fuEOng",
+    "channel": "GCN",
+    "published": "2017-08-28T11:00:07Z",
+    "match_score": 43.33,
+    "all_candidates": [
+      {
+        "video_id": "7wAD6CY588E",
+        "title": "Cutting Edge Time Trial Tech | Vuelta A España 2017",
+        "channel": "GCN",
+        "published": "2017-09-05T10:00:01Z",
+        "match_score": 28.33
+      },
+      {
+        "video_id": "o7aH4fuEOng",
+        "title": "Inside The AG2R La Mondiale Mechanic&#39;s Truck | La Vuelta A España 2017",
+        "channel": "GCN",
+        "published": "2017-08-28T11:00:07Z",
+        "match_score": 43.33
+      },
+      {
+        "video_id": "w7DHIOxHu5c",
+        "title": "3 Reasons Why You Will Inevitably Ride An E-bike | The GCN Show Ep. 243",
+        "channel": "GCN",
+        "published": "2017-09-05T18:54:24Z",
+        "match_score": 1.67
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

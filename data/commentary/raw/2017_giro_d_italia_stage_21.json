@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-28",
+  "stage": 21,
+  "video": {
+    "video_id": "kCJhXE99Q58",
+    "title": "How Did Tom Dumoulin Win The 2017 Giro d&#39;Italia ? | The GCN Show Ep. 229",
+    "url": "https://youtube.com/watch?v=kCJhXE99Q58",
+    "channel": "GCN",
+    "published": "2017-05-30T19:11:28Z",
+    "match_score": 55.38,
+    "all_candidates": [
+      {
+        "video_id": "kCJhXE99Q58",
+        "title": "How Did Tom Dumoulin Win The 2017 Giro d&#39;Italia ? | The GCN Show Ep. 229",
+        "channel": "GCN",
+        "published": "2017-05-30T19:11:28Z",
+        "match_score": 55.38
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "transcript_error:\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=kCJhXE99Q58! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

@@ -1,0 +1,47 @@
+{
+  "label": "2017 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-01",
+  "stage": 1,
+  "video": {
+    "video_id": "cpmpIlEzzg8",
+    "title": "Geraint Thomas wins Stage 1 Time Trial at 2017 Tour de France",
+    "url": "https://youtube.com/watch?v=cpmpIlEzzg8",
+    "channel": "NBC Sports",
+    "published": "2017-07-01T21:20:58Z",
+    "match_score": 130.0,
+    "all_candidates": [
+      {
+        "video_id": "2ga6dtsznxw",
+        "title": "2017 Tour de France: Stage 1 Recap",
+        "channel": "NBC Sports",
+        "published": "2017-07-03T01:12:25Z",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "AjTvTCRRhfw",
+        "title": "Tony Gallopin rips suit in TDF Stage 1 crash",
+        "channel": "NBC Sports",
+        "published": "2017-07-01T21:10:17Z",
+        "match_score": 100.71
+      },
+      {
+        "video_id": "cpmpIlEzzg8",
+        "title": "Geraint Thomas wins Stage 1 Time Trial at 2017 Tour de France",
+        "channel": "NBC Sports",
+        "published": "2017-07-01T21:20:58Z",
+        "match_score": 130.0
+      }
+    ]
+  },
+  "transcript": {
+    "snippet_count": 14,
+    "raw_chars": 454,
+    "clean_chars": 454,
+    "duration_mins": 0.6,
+    "clean_text": "not disastrous he keeps himself within touch But Here Comes Gan Thomas with a new best time of 16 minutes and 4 seconds we saw no images of him and he has gone 7 Seconds quicker than his teammate missil kenka So within the top four there are three Riders from Team Sky reinforcing the strength of that team and through is still to come he's not only gone under the time he's gone under the radar completely third best at the intermediate 3 seconds behind",
+    "preview_start": "not disastrous he keeps himself within touch But Here Comes Gan Thomas with a new best time of 16 minutes and 4 seconds we saw no images of him and he has gone 7 Seconds quicker than his teammate missil kenka So within the top four there are three Riders from Team Sky reinforcing the strength of that team and through is still to come he's not only gone under the time he's gone under the radar completely third best at the intermediate 3 seconds behind",
+    "preview_end": "not disastrous he keeps himself within touch But Here Comes Gan Thomas with a new best time of 16 minutes and 4 seconds we saw no images of him and he has gone 7 Seconds quicker than his teammate missil kenka So within the top four there are three Riders from Team Sky reinforcing the strength of that team and through is still to come he's not only gone under the time he's gone under the radar completely third best at the intermediate 3 seconds behind"
+  },
+  "status": "transcript_saved"
+}

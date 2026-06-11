@@ -1,0 +1,47 @@
+{
+  "label": "2017 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-16",
+  "stage": 10,
+  "video": {
+    "video_id": "pTJ-QBi1gvk",
+    "title": "What Are The Giro d&#39;Italia Leader&#39;s Jerseys? | Road Racing Explained",
+    "url": "https://youtube.com/watch?v=pTJ-QBi1gvk",
+    "channel": "GCN",
+    "published": "2017-05-22T15:42:59Z",
+    "match_score": 20.38,
+    "all_candidates": [
+      {
+        "video_id": "pTJ-QBi1gvk",
+        "title": "What Are The Giro d&#39;Italia Leader&#39;s Jerseys? | Road Racing Explained",
+        "channel": "GCN",
+        "published": "2017-05-22T15:42:59Z",
+        "match_score": 20.38
+      },
+      {
+        "video_id": "6s9XhyWPtv0",
+        "title": "Martyn Ashton Special Episode | Ask GCN Anything Cycling",
+        "channel": "GCN",
+        "published": "2017-05-19T15:30:00Z",
+        "match_score": -5.38
+      },
+      {
+        "video_id": "kCJhXE99Q58",
+        "title": "How Did Tom Dumoulin Win The 2017 Giro d&#39;Italia ? | The GCN Show Ep. 229",
+        "channel": "GCN",
+        "published": "2017-05-30T19:11:28Z",
+        "match_score": 20.38
+      }
+    ]
+  },
+  "transcript": {
+    "snippet_count": 73,
+    "raw_chars": 3017,
+    "clean_chars": 2973,
+    "duration_mins": 2.8,
+    "clean_text": "- The pink jersey is known by locals as the Maglia Rosa. And it is awarded each day to the leader of the Giro d'Italia, in the general classification by time, or, GC. Under normal circumstances, that means that the rider who has completed the stages that far, in the shortest amount of time, will be wearing the pink jersey. But, it can be a little more complicated than that. Reason being, that there are ten, six, and four bonus seconds respectively, for the first three riders across the finish line, at each of the mass-start road stages. And there are also three, two and one seconds available, for the first three riders across one of the intermediate sprints each day. Those bonus seconds are taken off a rider's cumulative time, and what that means is, that in theory at least, you could win the Giro d'Italia general classification without covering the course in the shortest amount of time. The white jersey, or Maglia Bianco, is awarded to the best young rider in the overall classification of the Giro, and it's calculated in exactly the same way as the pink jersey. In the 2017 edition of the race, riders eligible will need to be born on or after the first of January, 1992. The Maglia Ciclamino is awarded daily to the leader of the Points classification. Each stage finished will be allocated a certain number of points, depending on the type of stage. And also dependent on that, is how far the points go down to. So, this is a competition which is weighted towards the sprinters, because it is seen as a competition for them. To give you an example, a flat stage will give the winner 50 points, and those points will gradually go down to 15th place. On the other hand, a time trial, or one of the high mountains stages, the winner will get 15 points, and only the top 10 will get a point. There are also points available at the two intermediate sprints each day, which count towards this classification. Again, they are weighted towards the flatter stages. The Maglia Azzura, or blue jersey, is the climbers competition. Each climb along the route is given a difficulty rating by the organisers, from category 1 to category 4, with the harder the climb being deemed, the more points being on offer. So, for example, if you are the first over the top in the category 1 climb, you will receive 35 points. If you are first over the top of the category 4 climb, you will receive just three points. The highest point at the Giro d'Italia each year that has a different category all together, it is called the Cima Coppi. And if you are over the top of this one first, you are going to receive a whopping 45 points. The person awarded the jersey at the end of each stage, will simply be the rider who has accumulated the most points to that point in the race. One thing to bear in mind, though, is that riders can be docked seconds or points in one of those competitions for various rule infringements. So that can have an impact on the overall classifications.",
+    "preview_start": "- The pink jersey is known by locals as the Maglia Rosa. And it is awarded each day to the leader of the Giro d'Italia, in the general classification by time, or, GC. Under normal circumstances, that means that the rider who has completed the stages that far, in the shortest amount of time, will be wearing the pink jersey. But, it can be a little more complicated than that. Reason being, that there are ten, six, and four bonus seconds respectively, for the first three riders across the finish li",
+    "preview_end": "ifferent category all together, it is called the Cima Coppi. And if you are over the top of this one first, you are going to receive a whopping 45 points. The person awarded the jersey at the end of each stage, will simply be the rider who has accumulated the most points to that point in the race. One thing to bear in mind, though, is that riders can be docked seconds or points in one of those competitions for various rule infringements. So that can have an impact on the overall classifications."
+  },
+  "status": "transcript_saved"
+}

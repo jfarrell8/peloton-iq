@@ -1,0 +1,60 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-05",
+  "stage": 2,
+  "video": {
+    "video_id": "4dh8r8EkwSE",
+    "title": "Thrilling sprint for points in Stage 2 of Tour de France",
+    "url": "https://youtube.com/watch?v=4dh8r8EkwSE",
+    "channel": "NBC Sports",
+    "published": "2017-07-02T13:17:10Z",
+    "match_score": 41.43,
+    "all_candidates": [
+      {
+        "video_id": "4dh8r8EkwSE",
+        "title": "Thrilling sprint for points in Stage 2 of Tour de France",
+        "channel": "NBC Sports",
+        "published": "2017-07-02T13:17:10Z",
+        "match_score": 41.43
+      },
+      {
+        "video_id": "XyXYl-X3-yI",
+        "title": "Tour de France 2017: Stage 4 ends in chaos with two massive crashes | NBC Sports",
+        "channel": "NBC Sports",
+        "published": "2017-07-04T17:05:44Z",
+        "match_score": 16.43
+      },
+      {
+        "video_id": "haLgLaKvAvM",
+        "title": "Tour de France 2017: After Valverde crash, TDF must become safer | NBC Sports",
+        "channel": "NBC Sports",
+        "published": "2017-07-01T21:16:14Z",
+        "match_score": 16.43
+      },
+      {
+        "video_id": "aYSajHVMQFo",
+        "title": "Hammer Sprint Explained \u2013 GCN Live Racing",
+        "channel": "GCN",
+        "published": "2017-06-03T12:13:23Z",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "hJBQrF8sWfk",
+        "title": "Top 5 Race Across America (RAAM) Facts",
+        "channel": "GCN",
+        "published": "2017-06-08T11:00:02Z",
+        "match_score": -6.67
+      },
+      {
+        "video_id": "EoqEwAmZ9vs",
+        "title": "6 Brand New Road Bikes | Prototype Bike Tech",
+        "channel": "GCN",
+        "published": "2017-06-15T15:39:38Z",
+        "match_score": -41.67
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "transcript_error:\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=4dh8r8EkwSE! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+}

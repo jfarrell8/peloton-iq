@@ -1,0 +1,39 @@
+{
+  "label": "2017 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-05",
+  "stage": 16,
+  "video": {
+    "video_id": "7wAD6CY588E",
+    "title": "Cutting Edge Time Trial Tech | Vuelta A España 2017",
+    "url": "https://youtube.com/watch?v=7wAD6CY588E",
+    "channel": "GCN",
+    "published": "2017-09-05T10:00:01Z",
+    "match_score": 88.33,
+    "all_candidates": [
+      {
+        "video_id": "7wAD6CY588E",
+        "title": "Cutting Edge Time Trial Tech | Vuelta A España 2017",
+        "channel": "GCN",
+        "published": "2017-09-05T10:00:01Z",
+        "match_score": 88.33
+      },
+      {
+        "video_id": "6Vluf5t-Ht4",
+        "title": "How Did Chris Froome Win The Vuelta A España? | The GCN Show Ep. 244",
+        "channel": "GCN",
+        "published": "2017-09-12T17:29:52Z",
+        "match_score": 28.33
+      },
+      {
+        "video_id": "YE7rN6nWr2k",
+        "title": "Romain Bardet&#39;s Factor Slick Time Trial Pro Bike | Vuelta A España 2017",
+        "channel": "GCN",
+        "published": "2017-09-02T10:00:02Z",
+        "match_score": 63.33
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

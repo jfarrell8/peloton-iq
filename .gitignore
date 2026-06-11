@@ -9,3 +9,10 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+models/*.pkl
+models/*.csv
+data/processed/rider_features.csv
+data/processed/model_df.csv
+
+qdrant_storage/

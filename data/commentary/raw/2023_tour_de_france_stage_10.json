@@ -1,0 +1,88 @@
+{
+  "label": "2023 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-11",
+  "stage": 10,
+  "video": {
+    "video_id": "bp-OaupDuxQ",
+    "title": "An Intense Day Of Racing On Brutal Terrain! | Tour De France 2023 Highlights - Stage 10",
+    "url": "https://youtube.com/watch?v=bp-OaupDuxQ",
+    "channel": "GCN Racing",
+    "published": "2023-07-11 16:38:48+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "bp-OaupDuxQ",
+        "title": "An Intense Day Of Racing On Brutal Terrain! | Tour De France 2023 Highlights - Stage 10",
+        "channel": "GCN Racing",
+        "published": "2023-07-11 16:38:48+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "BNESBh1edV0",
+        "title": "Fear Of Crosswinds Keeps Sprint Teams Alert! | Tour De France 2023 Highlights - Stage 11",
+        "channel": "GCN Racing",
+        "published": "2023-07-12 16:57:24+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "7YH9SyrdUjQ",
+        "title": "Huge Summit Finish On Bastille Day! | Tour De France 2023 Highlights - Stage 13",
+        "channel": "GCN Racing",
+        "published": "2023-07-14 16:37:46+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "37PGkZWyE_4",
+        "title": "A Day Of Ascents Creates Opportunities For The Puncheurs | Tour De France 2023 Highlights - Stage 12",
+        "channel": "GCN Racing",
+        "published": "2023-07-13 17:13:41+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "IFXSdu_htvE",
+        "title": "Eruptions Up The Puy De Dôme! | Tour De France 2023 Highlights - Stage 9",
+        "channel": "GCN Racing",
+        "published": "2023-07-09 17:59:11+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "FZCv1h5_zBc",
+        "title": "Uphill Finish Sees Strong Sprinters Battle It Out! | Tour De France 2023 Highlights - Stage 8",
+        "channel": "GCN Racing",
+        "published": "2023-07-08 17:17:42+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "FcwsbeCMai4",
+        "title": "Inside story behind Pello Bilbao’s MEMORABLE victory at stage 10 of the 2023 Tour de France 🇫🇷❤️",
+        "channel": "TNT Sports Cycling",
+        "published": "2024-04-19 11:00:24+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "r703iGbkfVU",
+        "title": "The Race Of Truth For The GC Fight! | Tour De France 2023 Highlights - Stage 16",
+        "channel": "GCN Racing",
+        "published": "2023-07-18 17:29:19+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "ZKMFitcHQ4M",
+        "title": "Racing Explodes In The Mountains! 🏔️ | Tour De France 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-07-06 16:58:11+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "SGjP4EXJBfc",
+        "title": "A Fast & Ferocious Finish Into Bordeaux | Tour De France 2023 Highlights - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-07-07 16:37:24+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

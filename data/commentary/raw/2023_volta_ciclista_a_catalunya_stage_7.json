@@ -1,0 +1,88 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-26",
+  "stage": 7,
+  "video": {
+    "video_id": "W5j7mjnxwPo",
+    "title": "Punchy Circuit Provides Launchpad For Attacks! | Volta A Catalunya 2023 Highlights - Stage 7",
+    "url": "https://youtube.com/watch?v=W5j7mjnxwPo",
+    "channel": "GCN Racing",
+    "published": "2023-03-26 13:10:20+00:00",
+    "match_score": 137.31,
+    "all_candidates": [
+      {
+        "video_id": "W5j7mjnxwPo",
+        "title": "Punchy Circuit Provides Launchpad For Attacks! | Volta A Catalunya 2023 Highlights - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-03-26 13:10:20+00:00",
+        "match_score": 137.31
+      },
+      {
+        "video_id": "vZc3uwmsJcU",
+        "title": "Explosive Racing As GC Favourites Go On The Attack | Volta A Catalunya 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-03-25 17:19:38+00:00",
+        "match_score": 87.31
+      },
+      {
+        "video_id": "4Kes8UqRkHg",
+        "title": "Evenepoel & Roglič Go Head-To-Head! | Volta A Catalunya 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-03-24 17:24:56+00:00",
+        "match_score": 71.35
+      },
+      {
+        "video_id": "05WpTz2vLmw",
+        "title": "Tight Finish After Frantic Sprint | Volta A Catalunya 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-03-23 17:12:52+00:00",
+        "match_score": 71.35
+      },
+      {
+        "video_id": "vVY87qluj6o",
+        "title": "Battle Of The Favourites On La Molina! | Volta A Catalunya 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-03-22 18:11:06+00:00",
+        "match_score": 53.27
+      },
+      {
+        "video_id": "2oOpb89lGYA",
+        "title": "Summit Finish Gives Early Test For Favourites! | Volta A Catalunya 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-03-21 17:38:44+00:00",
+        "match_score": 51.35
+      },
+      {
+        "video_id": "a2u-6Vj_888",
+        "title": "Favourites Clash On Opening Day! | Volta A Catalunya 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-03-20 17:32:59+00:00",
+        "match_score": 51.35
+      },
+      {
+        "video_id": "2xCFzVcmuMA",
+        "title": "Dramatic Finale Leads To GC Shakeup! | Volta A La Comunitat Valenciana 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-02-05 18:09:37+00:00",
+        "match_score": 35.38
+      },
+      {
+        "video_id": "1hLjaVzk8UY",
+        "title": "Uphill Sprint Decides Queen Stage | Volta A La Comunitat Valenciana 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-02-04 18:08:13+00:00",
+        "match_score": 35.38
+      },
+      {
+        "video_id": "Sj3vkXEQajk",
+        "title": "Nail-Biting Finale Down To The Line! | Volta A La Comunitat Valenciana 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-02-03 17:08:52+00:00",
+        "match_score": 35.38
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

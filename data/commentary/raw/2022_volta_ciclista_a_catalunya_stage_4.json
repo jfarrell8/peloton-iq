@@ -1,0 +1,88 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-24",
+  "stage": 4,
+  "video": {
+    "video_id": "7BYz1e5WOMI",
+    "title": "A Tight GC Fight On The Queen Stage | Volta A Catalunya 2022 Stage 4 Highlights",
+    "url": "https://youtube.com/watch?v=7BYz1e5WOMI",
+    "channel": "GCN Racing",
+    "published": "2022-03-24 17:33:27+00:00",
+    "match_score": 137.31,
+    "all_candidates": [
+      {
+        "video_id": "7BYz1e5WOMI",
+        "title": "A Tight GC Fight On The Queen Stage | Volta A Catalunya 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-24 17:33:27+00:00",
+        "match_score": 137.31
+      },
+      {
+        "video_id": "kNACP7XgmcA",
+        "title": "Sprint Finish On The Longest Stage! | Volta A Catalunya 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-25 18:01:26+00:00",
+        "match_score": 87.31
+      },
+      {
+        "video_id": "QbobzCLog18",
+        "title": "Summit Finish In The Snow! | Volta A Catalunya 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-23 18:16:59+00:00",
+        "match_score": 86.35
+      },
+      {
+        "video_id": "EWHrnI7hkMU",
+        "title": "Chaotic Lead-Out Leads To Wide-Open Sprint | Volta A La Comunitat Valenciana 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-05 19:25:22+00:00",
+        "match_score": 75.38
+      },
+      {
+        "video_id": "ILrhHbnAs34",
+        "title": "Attack After Attack On Punchy Final Stage | Volta A Catalunya 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-27 13:51:11+00:00",
+        "match_score": 72.31
+      },
+      {
+        "video_id": "TjYciNb0yHM",
+        "title": "Big GC Gaps Open On Long Time Trial | Volta Ao Algarve 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-19 19:38:35+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "iGc_5Pkd0pc",
+        "title": "Epic Breakaway Win Shakes Up GC! | Volta A Catalunya 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-26 17:44:17+00:00",
+        "match_score": 71.35
+      },
+      {
+        "video_id": "os8A5UnJAms",
+        "title": "Uphill Sprint To The Line! | Volta A Catalunya 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-21 17:13:59+00:00",
+        "match_score": 71.35
+      },
+      {
+        "video_id": "yPxqEFz_W0U",
+        "title": "Crosswinds & Crashes In Chaotic Finale | Volta A Catalunya 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-22 17:10:47+00:00",
+        "match_score": 71.35
+      },
+      {
+        "video_id": "FCvvvEOqtSU",
+        "title": "Volta A La Comunitat Valenciana 2022 | Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-02 18:09:17+00:00",
+        "match_score": 35.56
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

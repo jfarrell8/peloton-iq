@@ -1,0 +1,88 @@
+{
+  "label": "2023 Classic Brugge-De Panne",
+  "race_name": "Classic Brugge-De Panne",
+  "race_date": "2023-03-22",
+  "stage": null,
+  "video": {
+    "video_id": "0_e6O0bzI8c",
+    "title": "Sprinters Go On The Attack! | Classic Brugge-De Panne 2023 Highlights - Men",
+    "url": "https://youtube.com/watch?v=0_e6O0bzI8c",
+    "channel": "GCN Racing",
+    "published": "2023-03-22 17:26:38+00:00",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "0_e6O0bzI8c",
+        "title": "Sprinters Go On The Attack! | Classic Brugge-De Panne 2023 Highlights - Men",
+        "channel": "GCN Racing",
+        "published": "2023-03-22 17:26:38+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "blOyjW24_20",
+        "title": "Pog, MVDP & WVA Clash Over The Cobbles! | E3 Saxo Classic 2023 Highlights",
+        "channel": "GCN Racing",
+        "published": "2023-03-24 17:57:37+00:00",
+        "match_score": 75.87
+      },
+      {
+        "video_id": "MUUbnBTtGbs",
+        "title": "Carnage In The Crosswinds!  | Classic Brugge-De Panne 2023 Highlights - Women",
+        "channel": "GCN Racing",
+        "published": "2023-03-23 17:51:30+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "krZ_5VkyfVw",
+        "title": "Big Hitters Battle It Out In Baltimore! | Maryland Cycling Classic 2023 Highlights",
+        "channel": "GCN Racing",
+        "published": "2023-09-04 09:29:28+00:00",
+        "match_score": 40.87
+      },
+      {
+        "video_id": "KbOseFY458E",
+        "title": "Sprinters Battle In Tight Final Showdown! | BEMER Cyclassics 2023 Highlights",
+        "channel": "GCN Racing",
+        "published": "2023-08-20 14:59:47+00:00",
+        "match_score": 40.87
+      },
+      {
+        "video_id": "h9qrRy6OiXM",
+        "title": "E3 Saxo Classic 2023 served up an ALL TIME sprint finale 🔥 #cycling #pogacar #vanderpoel",
+        "channel": "TNT Sports Cycling",
+        "published": "2024-03-21 11:30:35+00:00",
+        "match_score": 34.13
+      },
+      {
+        "video_id": "C7tm1msykt8",
+        "title": "The Ardennes Classics Begin! | De Brabantse Pijl 2023 Highlights - Women",
+        "channel": "GCN Racing",
+        "published": "2023-04-12 14:16:48+00:00",
+        "match_score": 14.13
+      },
+      {
+        "video_id": "ambzoQhUInk",
+        "title": "The Cobbled Classics Begin! | Omloop Het Nieuwsblad & Kuurne-Brussel-Kuurne 2023 Preview",
+        "channel": "GCN Racing",
+        "published": "2023-02-22 10:11:15+00:00",
+        "match_score": 6.96
+      },
+      {
+        "video_id": "IohtvliKAlQ",
+        "title": "Liverpool v. Tottenham Hotspur (FULL MATCH) | 4/30/2023 | Premier League Classics | NBC Sports",
+        "channel": "NBC Sports",
+        "published": "2025-04-24 22:00:06+00:00",
+        "match_score": -37.5
+      },
+      {
+        "video_id": "rCIqVyxU11A",
+        "title": "Arsenal v. Manchester United (FULL MATCH) | 1/22/2023 | Premier League Classics | NBC Sports",
+        "channel": "NBC Sports",
+        "published": "2025-03-01 22:00:06+00:00",
+        "match_score": -37.5
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

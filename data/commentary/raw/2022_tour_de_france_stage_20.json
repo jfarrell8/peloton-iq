@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-23",
+  "stage": 20,
+  "video": {
+    "video_id": "lLEhg8nidQU",
+    "title": "Dominant Time Trial Performance! | Tour De France 2022 Stage 20 Highlights",
+    "url": "https://youtube.com/watch?v=lLEhg8nidQU",
+    "channel": "GCN Racing",
+    "published": "2022-07-23 17:42:08+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "lLEhg8nidQU",
+        "title": "Dominant Time Trial Performance! | Tour De France 2022 Stage 20 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-23 17:42:08+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "zOIGJ5EDu4w",
+        "title": "Sprint Showdown On The Champs-Élysées!  | Tour De France 2022 Stage 21 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-24 19:38:01+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "qSf3oxzoHLc",
+        "title": "Attack Or Be Attacked! | Tour De France 2022 Stage 19 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-22 17:18:27+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "rFCOYHNk9Qo",
+        "title": "Vingegaard & Van Aert Bury Pogačar On Hautacam! | Tour De France 2022 Stage 18 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-21 17:47:12+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "BoNVctYk3qw",
+        "title": "GC Favourites Duel In The Pyrenees | Tour De France 2022 Stage 17 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-20 16:26:33+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "noYBaJV4vas",
+        "title": "Who Will Take Race's First Yellow Jersey? | Tour De France Femmes Avec Zwift 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-24 15:53:42+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "Odj5DC7HxPU",
+        "title": "Attacking Into The Pyrenees!  | Tour De France 2022 Stage 16 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-19 16:28:23+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "LVzEryD87VY",
+        "title": "Long Hot Day Full Of Drama! | Tour De France 2022 Stage 15 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-17 16:59:41+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "Q7mwYjfY4xA",
+        "title": "Breakaway Brilliance & GC Gaps | Tour De France 2022 Stage 14 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-16 17:01:31+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "R1nC7wVX84w",
+        "title": "The Comeback Queen Strikes in Épernay! | Tour De France Femmes Avec Zwift 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-26 16:50:18+00:00",
+        "match_score": 50.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

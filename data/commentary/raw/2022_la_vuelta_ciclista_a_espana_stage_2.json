@@ -1,0 +1,88 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 2",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-20",
+  "stage": 2,
+  "video": {
+    "video_id": "8Cd1GOCRCio",
+    "title": "Flat Stage Leads To A Technical Finish! | Vuelta A España 2022 Stage 2 Highlights",
+    "url": "https://youtube.com/watch?v=8Cd1GOCRCio",
+    "channel": "GCN Racing",
+    "published": "2022-08-20 16:51:50+00:00",
+    "match_score": 134.81,
+    "all_candidates": [
+      {
+        "video_id": "8Cd1GOCRCio",
+        "title": "Flat Stage Leads To A Technical Finish! | Vuelta A España 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-20 16:51:50+00:00",
+        "match_score": 134.81
+      },
+      {
+        "video_id": "IfTbOjLIlPI",
+        "title": "Battle For Red Starts With Team Time Trial | Vuelta A España 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-19 20:20:38+00:00",
+        "match_score": 84.81
+      },
+      {
+        "video_id": "XggUyZl-Vq8",
+        "title": "Longest & Flattest Stage Leads To Fast Finish! | Vuelta A España 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-21 16:44:32+00:00",
+        "match_score": 83.89
+      },
+      {
+        "video_id": "bLna1r9zIdM",
+        "title": "Huge Day Of Climbing On Final Mountain Stage! | Vuelta A España 2022 Stage 20 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-10 17:32:25+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "2XBAZtHm2Gg",
+        "title": "Final Sprint Showdown In Madrid | Vuelta A España 2022 Stage 21 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-11 20:45:49+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "1zyQJsNJHWI",
+        "title": "Climbing Masterclass Leads To Big Win | Ceratizit Challenge By La Vuelta 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-08 18:50:33+00:00",
+        "match_score": 73.89
+      },
+      {
+        "video_id": "LUekDaAoO54",
+        "title": "Favourites Face Brutal Cobbled Climb | Vuelta A Andalucía 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-17 17:16:19+00:00",
+        "match_score": 72.96
+      },
+      {
+        "video_id": "noTJSWVNkJE",
+        "title": "Steep Basque Climbs Make For Intense Racing!  | Vuelta A España 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-23 17:11:03+00:00",
+        "match_score": 69.81
+      },
+      {
+        "video_id": "02IiShGAT4Y",
+        "title": "Riders Battle It Out In Bilbao | Vuelta A España 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-24 18:22:49+00:00",
+        "match_score": 50.74
+      },
+      {
+        "video_id": "HeJsdXOfozI",
+        "title": "Big GC Showdown On First Summit Finish | Vuelta A España 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-25 17:36:58+00:00",
+        "match_score": 48.89
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

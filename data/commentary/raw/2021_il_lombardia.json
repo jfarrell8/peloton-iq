@@ -1,0 +1,46 @@
+{
+  "label": "2021 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2021-10-09",
+  "stage": null,
+  "video": {
+    "video_id": "_64Dxwzh9tk",
+    "title": "Il Lombardia 2021 Highlights | Who Will Win The Final Monument Of The Road Cycling Season?",
+    "url": "https://youtube.com/watch?v=_64Dxwzh9tk",
+    "channel": "GCN Racing",
+    "published": "2021-10-09 16:03:58+00:00",
+    "match_score": 130.0,
+    "all_candidates": [
+      {
+        "video_id": "_64Dxwzh9tk",
+        "title": "Il Lombardia 2021 Highlights | Who Will Win The Final Monument Of The Road Cycling Season?",
+        "channel": "GCN Racing",
+        "published": "2021-10-09 16:03:58+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "M4xPWczkoGo",
+        "title": "2021 🏆 2022 🏆 2023 🏆 | Pogačar The King Of Lombardia! 🍂🇮🇹",
+        "channel": "GCN Racing",
+        "published": "2023-10-07 21:00:11+00:00",
+        "match_score": -19.17
+      },
+      {
+        "video_id": "VR3z0SSkL-Y",
+        "title": "POGAČAR ON TOP OF THE WORLD 🌍 OTD in 2021 Tadej Pogačar won his first Il Lombardia title 🔥",
+        "channel": "TNT Sports Cycling",
+        "published": "2024-10-09 09:57:39+00:00",
+        "match_score": -60.0
+      },
+      {
+        "video_id": "U_VFjuAMddo",
+        "title": "The start of an autumn dynasty 🍂 Tadej Pogacar won the first of four consecutive Lombardia’s in 2021",
+        "channel": "TNT Sports Cycling",
+        "published": "2025-10-06 12:47:22+00:00",
+        "match_score": -104.17
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

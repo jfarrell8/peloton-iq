@@ -1,0 +1,88 @@
+{
+  "label": "2023 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-06",
+  "stage": 6,
+  "video": {
+    "video_id": "ZKMFitcHQ4M",
+    "title": "Racing Explodes In The Mountains! 🏔️ | Tour De France 2023 Highlights - Stage 6",
+    "url": "https://youtube.com/watch?v=ZKMFitcHQ4M",
+    "channel": "GCN Racing",
+    "published": "2023-07-06 16:58:11+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "ZKMFitcHQ4M",
+        "title": "Racing Explodes In The Mountains! 🏔️ | Tour De France 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-07-06 16:58:11+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "SGjP4EXJBfc",
+        "title": "A Fast & Ferocious Finish Into Bordeaux | Tour De France 2023 Highlights - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-07-07 16:37:24+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "Zus-UR-t_vo",
+        "title": "Surprise Attacks As The Peloton Enters The Pyrenees | Tour De France 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-07-05 17:12:20+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "IFXSdu_htvE",
+        "title": "Eruptions Up The Puy De Dôme! | Tour De France 2023 Highlights - Stage 9",
+        "channel": "GCN Racing",
+        "published": "2023-07-09 17:59:11+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "o7sw890VMgQ",
+        "title": "First Chance For The Sprinters! | Tour De France 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-07-03 17:45:39+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "UFFdxDgCP2s",
+        "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-07-04 17:18:04+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "FZCv1h5_zBc",
+        "title": "Uphill Finish Sees Strong Sprinters Battle It Out! | Tour De France 2023 Highlights - Stage 8",
+        "channel": "GCN Racing",
+        "published": "2023-07-08 17:17:42+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "am32hjpz8Xw",
+        "title": "Technical Finale Tests The Sprinters! | UAE Tour 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-02-25 13:44:59+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "3lrdr4V0bo4",
+        "title": "Cycling In Mourning After The Death Of Gino Mäder | Tour De Suisse 2023 Men - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-06-16 16:44:31+00:00",
+        "match_score": 71.07
+      },
+      {
+        "video_id": "Ro_SD7RloFA",
+        "title": "Fireworks From Yellow Jersey Favourites! | Tour De France 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-07-02 17:02:36+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

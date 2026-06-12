@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-27",
+  "stage": 1,
+  "video": {
+    "video_id": "NINBrwqEiwI",
+    "title": "Last Gasp Finish Up Thrilling Final Ramp | Tour De Romandie 2022 Stage 1 Highlights",
+    "url": "https://youtube.com/watch?v=NINBrwqEiwI",
+    "channel": "GCN Racing",
+    "published": "2022-04-27 17:08:17+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "NINBrwqEiwI",
+        "title": "Last Gasp Finish Up Thrilling Final Ramp | Tour De Romandie 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-27 17:08:17+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "YQ-zT9tM6wo",
+        "title": "Fast Run-In To First Bunch Sprint | Tour De Romandie 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-28 16:41:44+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "83snv27Xbl8",
+        "title": "Technical TT Decides First Race Leader! | Tour De Romandie 2022 Prologue Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-26 17:16:01+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "85uOfS3Gib0",
+        "title": "Long Mountain Finish On The Queen Stage! | Tour De Romandie 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-30 15:24:14+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "PxBF-gAI1BI",
+        "title": "Reduced Bunch Sprint After Punchy Finale | Tour De Romandie 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-29 17:04:59+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "78DcSvhF1W0",
+        "title": "Vingagaard Cracks Pogačar To Take Yellow! | Tour De France 2022 Stage 11 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-13 16:44:53+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "rFCOYHNk9Qo",
+        "title": "Vingegaard & Van Aert Bury Pogačar On Hautacam! | Tour De France 2022 Stage 18 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-21 17:47:12+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "BoNVctYk3qw",
+        "title": "GC Favourites Duel In The Pyrenees | Tour De France 2022 Stage 17 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-20 16:26:33+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "qSf3oxzoHLc",
+        "title": "Attack Or Be Attacked! | Tour De France 2022 Stage 19 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-22 17:18:27+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "-_CoBuALoWI",
+        "title": "Fighting For Yellow In Megève! | Tour De France 2022 Stage 10 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-12 16:33:46+00:00",
+        "match_score": 78.75
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

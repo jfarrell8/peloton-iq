@@ -1,0 +1,88 @@
+{
+  "label": "2023 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-22",
+  "stage": 20,
+  "video": {
+    "video_id": "S_nZsYgeyFA",
+    "title": "Final Chance For Some In Last Mountain Test | Tour De France 2023 Highlights - Stage 20",
+    "url": "https://youtube.com/watch?v=S_nZsYgeyFA",
+    "channel": "GCN Racing",
+    "published": "2023-07-22 17:19:14+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "S_nZsYgeyFA",
+        "title": "Final Chance For Some In Last Mountain Test | Tour De France 2023 Highlights - Stage 20",
+        "channel": "GCN Racing",
+        "published": "2023-07-22 17:19:14+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "CktGmaVTpKo",
+        "title": "The Final Stage On The Iconic Champs Élysées! | Tour De France 2023 Highlights - Stage 21",
+        "channel": "GCN Racing",
+        "published": "2023-07-23 19:30:31+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "wniEJBRzyo4",
+        "title": "Punchy Profile Produces Fast Day Of Racing! | Tour De France 2023 Highlights - Stage 19",
+        "channel": "GCN Racing",
+        "published": "2023-07-21 16:53:31+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "_gyxKNDvHOg",
+        "title": "Battle Of The Breakaway | Tour De France 2023 Highlights - Stage 18",
+        "channel": "GCN Racing",
+        "published": "2023-07-20 17:35:59+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "nTGWORHukVo",
+        "title": "GC Battle Explodes In High Mountains Of The Queen Stage! | Tour De France 2023 Highlights - Stage 17",
+        "channel": "GCN Racing",
+        "published": "2023-07-19 17:18:34+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "Qft5TDP_j_w",
+        "title": "Final Climb Challenge For Sprinters! | Tour De France Femmes Avec Zwift 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-07-23 15:19:26+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "r703iGbkfVU",
+        "title": "The Race Of Truth For The GC Fight! | Tour De France 2023 Highlights - Stage 16",
+        "channel": "GCN Racing",
+        "published": "2023-07-18 17:29:19+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "Ha6uBNWZw_I",
+        "title": "Summit Finish Draws The Second Week To A Close! | Tour De France 2023 Highlights - Stage 15",
+        "channel": "GCN Racing",
+        "published": "2023-07-16 17:44:18+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "yE-bFLEdlDI",
+        "title": "Big Alpine Day With Hair-Raising Descent To Finish! | Tour De France 2023 Highlights - Stage 14",
+        "channel": "GCN Racing",
+        "published": "2023-07-15 17:41:02+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "GLe2f726plA",
+        "title": "Big Day For The Puncheurs! | Tour De France Femmes Avec Zwift 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-07-24 17:30:17+00:00",
+        "match_score": 50.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

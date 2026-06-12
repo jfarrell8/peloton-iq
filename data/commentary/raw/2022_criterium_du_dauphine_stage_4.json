@@ -1,0 +1,88 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-08",
+  "stage": 4,
+  "video": {
+    "video_id": "7kprQ6_y6Ts",
+    "title": "Contenders Face Long TT Challenge | Critérium Du Dauphiné 2022 Stage 4 Highlights",
+    "url": "https://youtube.com/watch?v=7kprQ6_y6Ts",
+    "channel": "GCN Racing",
+    "published": "2022-06-08 16:21:55+00:00",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "7kprQ6_y6Ts",
+        "title": "Contenders Face Long TT Challenge | Critérium Du Dauphiné 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-08 16:21:55+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "fBAyRosie8w",
+        "title": "GC Favourites Show Their Cards! | Critérium Du Dauphiné 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-07 15:56:20+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "WoRaMfuz1Rs",
+        "title": "Can Breakaway Survive In Tense Finale? | Critérium Du Dauphiné 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-09 16:05:19+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "2QpW4NCRMGY",
+        "title": "Sprinters Try To Cling On Over Final Climb | Tour De Suisse 2022 Men's Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-15 16:59:40+00:00",
+        "match_score": 85.71
+      },
+      {
+        "video_id": "f-M_P_AzcCE",
+        "title": "Tense Finale Upsets Stage Favourites! | Critérium Du Dauphiné 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-06 15:59:33+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "9dpLmW4mIyc",
+        "title": "GC Race Ignites In The Alps | Critérium Du Dauphiné 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-11 17:01:47+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "JuAghq1_Wfs",
+        "title": "The Last Test Before The High Mountains! | Critérium Du Dauphiné 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-10 15:20:26+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "J5NeBepf1zE",
+        "title": "A Day For The Breakaway Or The Sprinters? | Critérium Du Dauphiné 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-05 14:20:41+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "kHwXTULzfGE",
+        "title": "Explosive Racing Up Mount Etna! | Giro D'Italia 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-10 17:03:07+00:00",
+        "match_score": 71.9
+      },
+      {
+        "video_id": "Om7dXwMxmBE",
+        "title": "Delight Or Heartbreak For Thibaut Pinot? | Tour Of The Alps 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-21 14:54:18+00:00",
+        "match_score": 70.71
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

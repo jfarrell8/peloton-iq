@@ -1,0 +1,46 @@
+{
+  "label": "2022 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2022-03-05",
+  "stage": null,
+  "video": {
+    "video_id": "IJOmkyKgLZw",
+    "title": "The FREAKIEST Crash We've Ever Seen In Cycling! | Strade Bianche 2022 Men's Highlights",
+    "url": "https://youtube.com/watch?v=IJOmkyKgLZw",
+    "channel": "GCN Racing",
+    "published": "2022-03-05 17:00:53+00:00",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "IJOmkyKgLZw",
+        "title": "The FREAKIEST Crash We've Ever Seen In Cycling! | Strade Bianche 2022 Men's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-05 17:00:53+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "YKOL58SoWbA",
+        "title": "Sprint Showdown In Siena! | Strade Bianche 2022 Women's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-05 15:00:33+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "4HVyBB6S6FQ",
+        "title": "Strade Bianche 2022 | The Big GCN Racing Preview!",
+        "channel": "GCN Racing",
+        "published": "2022-03-02 16:49:28+00:00",
+        "match_score": 55.0
+      },
+      {
+        "video_id": "2EHc3dVqCQU",
+        "title": "Crashes don’t come more 𝘿𝙍𝘼𝙈𝘼𝙏𝙄𝘾 than Alaphilippe's at 2022 Strade Bianche 😳 #cycling",
+        "channel": "TNT Sports Cycling",
+        "published": "2025-03-07 09:58:42+00:00",
+        "match_score": -75.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

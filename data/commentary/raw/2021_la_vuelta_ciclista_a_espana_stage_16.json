@@ -1,0 +1,88 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 16",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-31",
+  "stage": 16,
+  "video": {
+    "video_id": "TaSmJGNy98A",
+    "title": "La Vuelta 2021 Stage 16 Highlights",
+    "url": "https://youtube.com/watch?v=TaSmJGNy98A",
+    "channel": "GCN Racing",
+    "published": "2021-08-31 16:39:24+00:00",
+    "match_score": 134.89,
+    "all_candidates": [
+      {
+        "video_id": "TaSmJGNy98A",
+        "title": "La Vuelta 2021 Stage 16 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-08-31 16:39:24+00:00",
+        "match_score": 134.89
+      },
+      {
+        "video_id": "1SmfH7_TPys",
+        "title": "La Vuelta 2021 Stage 17 Highlights | Fight On The Covadonga!",
+        "channel": "GCN Racing",
+        "published": "2021-09-01 16:24:48+00:00",
+        "match_score": 84.89
+      },
+      {
+        "video_id": "NtYkt6hThko",
+        "title": "La Vuelta 2021 Stage 14 Highlights | Up To The Mountains!",
+        "channel": "GCN Racing",
+        "published": "2021-08-28 17:19:43+00:00",
+        "match_score": 69.89
+      },
+      {
+        "video_id": "vH3Qzxoi4Hw",
+        "title": "La Vuelta 2021 Stage 19 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-09-03 16:20:18+00:00",
+        "match_score": 69.89
+      },
+      {
+        "video_id": "6COafwYIOsU",
+        "title": "La Vuelta 2021 Stage 15 Highlights | Breakaways And GC Action In The Mountains",
+        "channel": "GCN Racing",
+        "published": "2021-08-29 16:03:46+00:00",
+        "match_score": 69.89
+      },
+      {
+        "video_id": "cXGMYocHWjs",
+        "title": "Last Big Day For The GC Battle! | La Vuelta 2021 Stage 18 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-09-02 17:13:51+00:00",
+        "match_score": 68.89
+      },
+      {
+        "video_id": "yv-xhCx9pWA",
+        "title": "La Vuelta 2021 Stage 21 Highlights | Can Roglic Win His Third La Vuelta Title?",
+        "channel": "GCN Racing",
+        "published": "2021-09-05 20:22:27+00:00",
+        "match_score": 50.12
+      },
+      {
+        "video_id": "cb1g6_rqDmg",
+        "title": "La Vuelta 2021 Stage 20 Highlights | Final Road Stage For GC Challengers",
+        "channel": "GCN Racing",
+        "published": "2021-09-04 16:55:26+00:00",
+        "match_score": 49.89
+      },
+      {
+        "video_id": "Y8hvKVxXG0U",
+        "title": "La Vuelta 2021 Stage 13 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-08-27 16:57:30+00:00",
+        "match_score": 49.89
+      },
+      {
+        "video_id": "tKPPeSBK8EY",
+        "title": "La Vuelta 2021 Stage 12 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-08-26 17:05:10+00:00",
+        "match_score": 49.89
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

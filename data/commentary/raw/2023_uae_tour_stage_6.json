@@ -1,0 +1,88 @@
+{
+  "label": "2023 UAE Tour Stage 6",
+  "race_name": "UAE Tour",
+  "race_date": "2023-02-25",
+  "stage": 6,
+  "video": {
+    "video_id": "am32hjpz8Xw",
+    "title": "Technical Finale Tests The Sprinters! | UAE Tour 2023 Highlights - Stage 6",
+    "url": "https://youtube.com/watch?v=am32hjpz8Xw",
+    "channel": "GCN Racing",
+    "published": "2023-02-25 13:44:59+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "am32hjpz8Xw",
+        "title": "Technical Finale Tests The Sprinters! | UAE Tour 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-02-25 13:44:59+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "bYg9anMxh6g",
+        "title": "GC Battle On Jebel Hafeet | UAE Tour 2023 Highlights - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-02-26 13:47:25+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "avSPAMa9jrE",
+        "title": "Sprint Finish Chaos! | UAE Tour 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-02-24 15:03:50+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "CGTw-oKH7gc",
+        "title": "Sprint Showdown In Dubai! | UAE Tour 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-02-23 14:50:09+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "KG8P7dfQXiQ",
+        "title": "Summit Finish On Jebel Jais! | UAE Tour 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-02-22 14:37:08+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "ZKMFitcHQ4M",
+        "title": "Racing Explodes In The Mountains! 🏔️ | Tour De France 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-07-06 16:58:11+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "3lrdr4V0bo4",
+        "title": "Cycling In Mourning After The Death Of Gino Mäder | Tour De Suisse 2023 Men - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-06-16 16:44:31+00:00",
+        "match_score": 70.62
+      },
+      {
+        "video_id": "Nss6VmW0jRA",
+        "title": "Teams Go Head-To-Head Against The Clock | UAE Tour 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-02-21 13:52:10+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "4yBIuiOmD14",
+        "title": "Crosswind Chaos & The Closest Finish Ever? | UAE Tour 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-02-20 15:30:06+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "IBQj0pReBs0",
+        "title": "Last Chance For The Sprinters! | Tour De France Femmes Avec Zwift 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-07-28 16:58:31+00:00",
+        "match_score": 45.62
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

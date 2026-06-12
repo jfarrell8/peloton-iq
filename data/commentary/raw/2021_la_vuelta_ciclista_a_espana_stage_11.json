@@ -1,0 +1,88 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 11",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-25",
+  "stage": 11,
+  "video": {
+    "video_id": "iX35gznI4Sg",
+    "title": "La Vuelta 2021 Stage 11 Highlights",
+    "url": "https://youtube.com/watch?v=iX35gznI4Sg",
+    "channel": "GCN Racing",
+    "published": "2021-08-25 16:52:21+00:00",
+    "match_score": 134.89,
+    "all_candidates": [
+      {
+        "video_id": "iX35gznI4Sg",
+        "title": "La Vuelta 2021 Stage 11 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-08-25 16:52:21+00:00",
+        "match_score": 134.89
+      },
+      {
+        "video_id": "tKPPeSBK8EY",
+        "title": "La Vuelta 2021 Stage 12 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-08-26 17:05:10+00:00",
+        "match_score": 84.89
+      },
+      {
+        "video_id": "TkBy8t_eth8",
+        "title": "La Vuelta 2021 Stage 10 Highlights | Big Breakaway, Roglič Crashes, & A Change In Red!",
+        "channel": "GCN Racing",
+        "published": "2021-08-24 16:41:22+00:00",
+        "match_score": 84.89
+      },
+      {
+        "video_id": "Bq_oZPPyiWs",
+        "title": "La Vuelta 2021 Stage 9 Highlights | Climbers Do Battle On The Alto De Velefique",
+        "channel": "GCN Racing",
+        "published": "2021-08-22 16:36:59+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "Y8hvKVxXG0U",
+        "title": "La Vuelta 2021 Stage 13 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-08-27 16:57:30+00:00",
+        "match_score": 69.89
+      },
+      {
+        "video_id": "NtYkt6hThko",
+        "title": "La Vuelta 2021 Stage 14 Highlights | Up To The Mountains!",
+        "channel": "GCN Racing",
+        "published": "2021-08-28 17:19:43+00:00",
+        "match_score": 69.89
+      },
+      {
+        "video_id": "jdINZRHR6XY",
+        "title": "5 Things We Learnt From The First Week Of La Vuelta 2021 | GCN Racing News Show",
+        "channel": "GCN Racing",
+        "published": "2021-08-23 13:37:43+00:00",
+        "match_score": 62.96
+      },
+      {
+        "video_id": "Tf_jOcrocJM",
+        "title": "La Vuelta 2021 Stage 6 Highlights | Can The Breakaway Survive?",
+        "channel": "GCN Racing",
+        "published": "2021-08-19 16:46:08+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "CA-LuwJMivo",
+        "title": "La Vuelta 2021 Stage 8 Highlights | Another Fantastic Day For The Sprinters!",
+        "channel": "GCN Racing",
+        "published": "2021-08-21 16:47:09+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "PS755VYjNTY",
+        "title": "La Vuelta 2021 Stage 7 Highlights | Tug Of War On The Balcón de Alicante!",
+        "channel": "GCN Racing",
+        "published": "2021-08-20 17:07:54+00:00",
+        "match_score": 50.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

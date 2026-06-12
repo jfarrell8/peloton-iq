@@ -1,0 +1,88 @@
+{
+  "label": "2022 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-27",
+  "stage": 19,
+  "video": {
+    "video_id": "hk9kKB_pCjA",
+    "title": "Breakaway Delight & Late Attacks | Giro D'Italia 2022 Stage 19 Highlights",
+    "url": "https://youtube.com/watch?v=hk9kKB_pCjA",
+    "channel": "GCN Racing",
+    "published": "2022-05-27 16:45:04+00:00",
+    "match_score": 160.0,
+    "all_candidates": [
+      {
+        "video_id": "hk9kKB_pCjA",
+        "title": "Breakaway Delight & Late Attacks | Giro D'Italia 2022 Stage 19 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-27 16:45:04+00:00",
+        "match_score": 160.0
+      },
+      {
+        "video_id": "hWPJgytch0s",
+        "title": "Drama In The High Mountains! | Giro D'Italia 2022 Stage 20 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-28 16:57:53+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "qaqkdmNIbQ8",
+        "title": "Can Breakaway Deny The Sprinters? | Giro D'Italia 2022 Stage 18 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-26 17:00:52+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "TM78cXNkcFU",
+        "title": "Any GC Changes On Final Stage TT? | Giro D'Italia 2022 Stage 21 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-29 17:12:49+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "b8cQAJt0d9o",
+        "title": "Breakaway Brilliance In The Mountains | Giro D'Italia 2022 Stage 17 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-25 17:06:51+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "LH-4p7QNjpg",
+        "title": "Some Brutal Climbing On The Queen Stage! | Giro D'Italia 2022 Stage 16 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-24 17:35:45+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "d_sIf8XqgYQ",
+        "title": "Sprinters Vs Breakaway In Exciting Finale | Giro D'Italia 2022 Stage 13 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-20 17:28:51+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "uw343tMuf1Y",
+        "title": "Tough Mountain Test! | Giro D'Italia 2022 Stage 15 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-22 17:10:18+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "DNzw7NtfVog",
+        "title": "GC Shake-Up On Relentless Day Of Racing | Giro D'Italia 2022 Stage 14 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-21 17:10:24+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "LHR9xNUbGyU",
+        "title": "Who Will Win The First Sprint Showdown? | Giro D'Italia 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-08 17:26:37+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

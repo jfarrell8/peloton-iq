@@ -1,0 +1,88 @@
+{
+  "label": "2020 Paris - Nice Stage 7",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-14",
+  "stage": 7,
+  "video": {
+    "video_id": "IhR0jZiZPHs",
+    "title": "Paris-Nice 2020 Stage \u00c9TAPE 7 HIGHLIGHTS R\u00c9SUM\u00c9 | Nice - Valdeblore La Colmiane",
+    "url": "https://youtube.com/watch?v=IhR0jZiZPHs",
+    "channel": "GCN Racing",
+    "published": "2020-03-14 15:53:54+00:00",
+    "match_score": 132.73,
+    "all_candidates": [
+      {
+        "video_id": "IhR0jZiZPHs",
+        "title": "Paris-Nice 2020 Stage \u00c9TAPE 7 HIGHLIGHTS R\u00c9SUM\u00c9 | Nice - Valdeblore La Colmiane",
+        "channel": "GCN Racing",
+        "published": "2020-03-14 15:53:54+00:00",
+        "match_score": 132.73
+      },
+      {
+        "video_id": "ZgFdQe5zeIM",
+        "title": "Paris-Nice 2020 Stage 7 HIGHLIGHTS | Valdeblore La Colmiane Summit Finish",
+        "channel": "GCN Racing",
+        "published": "2020-03-14 15:06:15+00:00",
+        "match_score": 132.73
+      },
+      {
+        "video_id": "r6SiK-pqKho",
+        "title": "Paris-Nice 2020 Stage \u00c9TAPE 6 HIGHLIGHTS R\u00c9SUM\u00c9 | Sorgues - Apt",
+        "channel": "GCN Racing",
+        "published": "2020-03-13 18:17:45+00:00",
+        "match_score": 82.73
+      },
+      {
+        "video_id": "ZisQ1nFBYTg",
+        "title": "Paris-Nice 2020 Stage \u00c9TAPE 3 HIGHLIGHTS R\u00c9SUM\u00c9 |  | Chalette-Sur-Loing - La Ch\u00e2tre",
+        "channel": "GCN Racing",
+        "published": "2020-03-13 12:45:05+00:00",
+        "match_score": 82.73
+      },
+      {
+        "video_id": "0xyWzyS5o3w",
+        "title": "Paris-Nice 2020 Stage 6 HIGHLIGHTS | Sorgues - Apt",
+        "channel": "GCN Racing",
+        "published": "2020-03-13 17:17:16+00:00",
+        "match_score": 82.73
+      },
+      {
+        "video_id": "aGzqp4FtnRs",
+        "title": "Paris-Nice 2020 Stage \u00c9TAPE 2 HIGHLIGHTS R\u00c9SUM\u00c9 | Chevreuse - Chalette-Sur-Loing",
+        "channel": "GCN Racing",
+        "published": "2020-03-13 12:38:55+00:00",
+        "match_score": 82.73
+      },
+      {
+        "video_id": "U0qSec2Ld5o",
+        "title": "Paris-Nice 2020 Stage \u00c9TAPE 1 HIGHLIGHTS R\u00c9SUM\u00c9 | Plaisir - Plaisir",
+        "channel": "GCN Racing",
+        "published": "2020-03-13 12:23:34+00:00",
+        "match_score": 82.73
+      },
+      {
+        "video_id": "epwLNbrfA3g",
+        "title": "Paris-Nice 2020 Stage 5 HIGHLIGHTS | Gannat - La C\u00f4te-Saint-Andr\u00e9",
+        "channel": "GCN Racing",
+        "published": "2020-03-12 17:02:06+00:00",
+        "match_score": 67.73
+      },
+      {
+        "video_id": "zXsQtWNamww",
+        "title": "Paris-Nice 2020 Stage \u00c9TAPE 5 HIGHLIGHTS | R\u00c9SUM\u00c9 Gannat - La C\u00f4te-Saint-Andr\u00e9",
+        "channel": "GCN Racing",
+        "published": "2020-03-12 17:17:36+00:00",
+        "match_score": 67.73
+      },
+      {
+        "video_id": "rJGVLe7ohGo",
+        "title": "Paris-Nice 2020 Stage 4 HIGHLIGHTS | Individual Time Trial - Saint Amand Montrond",
+        "channel": "GCN Racing",
+        "published": "2020-03-11 17:25:02+00:00",
+        "match_score": 67.73
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "transcript_error:ip_blocked"
+}

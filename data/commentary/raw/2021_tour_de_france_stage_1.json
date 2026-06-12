@@ -1,0 +1,88 @@
+{
+  "label": "2021 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-26",
+  "stage": 1,
+  "video": {
+    "video_id": "8u8SCv6qI-M",
+    "title": "Fan Causes HUGE Crash That Wipes Out Entire Peloton! | Tour de France 2021 Stage 1 Highlights",
+    "url": "https://youtube.com/watch?v=8u8SCv6qI-M",
+    "channel": "GCN Racing",
+    "published": "2021-06-26 16:15:44+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "8u8SCv6qI-M",
+        "title": "Fan Causes HUGE Crash That Wipes Out Entire Peloton! | Tour de France 2021 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-06-26 16:15:44+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "weCpgz2Om4c",
+        "title": "La Course by Le Tour de France 2021 Highlights | Can Lizzie Deignan Repeat Her 2020 Win?",
+        "channel": "GCN Racing",
+        "published": "2021-06-26 11:36:21+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "DR__YdMtm-k",
+        "title": "Tour de France 2021 Stage 2 Highlights | Mathieu Van Der Poel Takes Yellow!",
+        "channel": "GCN Racing",
+        "published": "2021-06-27 16:47:58+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "Lou_5_FxJOQ",
+        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
+        "channel": "GCN Racing",
+        "published": "2021-07-15 16:33:10+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "ZvTEmEWJcWs",
+        "title": "Tour de France 2021 Stage 10 Highlights | Another Big Win In The Fight For Green",
+        "channel": "GCN Racing",
+        "published": "2021-07-06 16:54:51+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "NgBx2V7fFb8",
+        "title": "Tour de France 2021 Stage 11 Highlights | Cracks Start To Show & A Surprise Winner On Mont Ventoux",
+        "channel": "GCN Racing",
+        "published": "2021-07-07 16:44:06+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "UFeZ8wwgJpc",
+        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
+        "channel": "GCN Racing",
+        "published": "2021-07-11 16:54:14+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "khNB4kSu1bk",
+        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
+        "channel": "GCN Racing",
+        "published": "2021-07-16 16:26:55+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "_NIaEwGWhWU",
+        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
+        "channel": "GCN Racing",
+        "published": "2021-07-14 16:30:32+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "JZk6a1Z7Csk",
+        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
+        "channel": "GCN Racing",
+        "published": "2021-07-13 16:41:29+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

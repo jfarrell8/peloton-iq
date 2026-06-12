@@ -1,0 +1,46 @@
+{
+  "label": "2022 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2022-10-08",
+  "stage": null,
+  "video": {
+    "video_id": "uOOjzWPPmB4",
+    "title": "The Season Ends With Fireworks In Como! | Il Lombardia 2022 Highlights",
+    "url": "https://youtube.com/watch?v=uOOjzWPPmB4",
+    "channel": "GCN Racing",
+    "published": "2022-10-08 16:09:46+00:00",
+    "match_score": 130.0,
+    "all_candidates": [
+      {
+        "video_id": "uOOjzWPPmB4",
+        "title": "The Season Ends With Fireworks In Como! | Il Lombardia 2022 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-10-08 16:09:46+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "M4xPWczkoGo",
+        "title": "2021 🏆 2022 🏆 2023 🏆 | Pogačar The King Of Lombardia! 🍂🇮🇹",
+        "channel": "GCN Racing",
+        "published": "2023-10-07 21:00:11+00:00",
+        "match_score": 60.83
+      },
+      {
+        "video_id": "uLu2LjpNOZE",
+        "title": "“TIME WAITS FOR NO ONE!” ⏳ OTD in 2022: Pogačar claimed his second of three wins at Il Lombardia!",
+        "channel": "TNT Sports Cycling",
+        "published": "2024-10-08 17:02:07+00:00",
+        "match_score": -20.0
+      },
+      {
+        "video_id": "iuxXaj_RpwE",
+        "title": "When Tadej Pogacar won his second Giro di Lombardia in 2022 🤩🎞️",
+        "channel": "TNT Sports Cycling",
+        "published": "2025-10-09 10:22:48+00:00",
+        "match_score": -62.08
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

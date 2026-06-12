@@ -1,0 +1,88 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 2",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-27",
+  "stage": 2,
+  "video": {
+    "video_id": "DuY3ASWNKQ8",
+    "title": "Weather Wreaks Havoc In Barcelona | Vuelta A España 2023 Highlights - Stage 2",
+    "url": "https://youtube.com/watch?v=DuY3ASWNKQ8",
+    "channel": "GCN Racing",
+    "published": "2023-08-27 17:17:27+00:00",
+    "match_score": 135.74,
+    "all_candidates": [
+      {
+        "video_id": "DuY3ASWNKQ8",
+        "title": "Weather Wreaks Havoc In Barcelona | Vuelta A España 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-08-27 17:17:27+00:00",
+        "match_score": 135.74
+      },
+      {
+        "video_id": "zSdkH4fCxFY",
+        "title": "GC Battle Gets Underway! | Vuelta A España 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-08-28 17:32:39+00:00",
+        "match_score": 84.81
+      },
+      {
+        "video_id": "t_cFgJuREVE",
+        "title": "Rain Causes Chaos In Opening TTT | Vuelta A España 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-08-26 20:21:08+00:00",
+        "match_score": 83.89
+      },
+      {
+        "video_id": "3QtyYy8Gx6s",
+        "title": "La Vuelta Concludes With A Nail-Biting Finale! | Vuelta A España 2023 Highlights - Stage 21",
+        "channel": "GCN Racing",
+        "published": "2023-09-17 20:22:56+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "S8n3yRpNVq0",
+        "title": "A Brutal Stage Of Climbing Produces A Thrilling Finale! | Vuelta A España 2023 Highlights - Stage 20",
+        "channel": "GCN Racing",
+        "published": "2023-09-16 16:52:15+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "SJUX3hS3YDE",
+        "title": "A Day For The Sprinters To Test Their Legs! | La Vuelta Femenina 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-05-02 16:58:39+00:00",
+        "match_score": 72.96
+      },
+      {
+        "video_id": "RI1cxUAynec",
+        "title": "Chaotic Finale As Sprinters Battle It Out! | Vuelta A España 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-08-29 16:48:37+00:00",
+        "match_score": 68.89
+      },
+      {
+        "video_id": "-jIhlLFMWu0",
+        "title": "A Day For The Breakaway Or The Sprinters? | Vuelta A España 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-08-30 16:59:22+00:00",
+        "match_score": 68.89
+      },
+      {
+        "video_id": "zTyY7E0wVto",
+        "title": "Crosswind Chaos & A Savage Finale! | Vuelta A España 2023 Highlights - Stage 9",
+        "channel": "GCN Racing",
+        "published": "2023-09-03 16:57:50+00:00",
+        "match_score": 49.81
+      },
+      {
+        "video_id": "LixOE3EhAwk",
+        "title": "Brutal Climb To Test Climbers Before The Line! | Vuelta A España 2023 Highlights - Stage 8",
+        "channel": "GCN Racing",
+        "published": "2023-09-02 16:53:49+00:00",
+        "match_score": 49.81
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

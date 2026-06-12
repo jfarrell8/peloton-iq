@@ -1,0 +1,32 @@
+{
+  "label": "2022 Dwars door Vlaanderen",
+  "race_name": "Dwars door Vlaanderen",
+  "race_date": "2022-03-30",
+  "stage": null,
+  "video": {
+    "video_id": "_58pUrumqCg",
+    "title": "Epic Finale In Last Race Before De Ronde! | Dwars Door Vlaanderen 2022 Men's Highlights",
+    "url": "https://youtube.com/watch?v=_58pUrumqCg",
+    "channel": "GCN Racing",
+    "published": "2022-03-30 16:39:36+00:00",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "_58pUrumqCg",
+        "title": "Epic Finale In Last Race Before De Ronde! | Dwars Door Vlaanderen 2022 Men's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-30 16:39:36+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "3g4ioFdn00c",
+        "title": "Bunch Sprint In Final Outing Before Flanders! | Dwars Door Vlaanderen 2022 Women's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-30 17:08:24+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

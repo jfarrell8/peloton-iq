@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-05-01",
+  "stage": 5,
+  "video": {
+    "video_id": "RaqdUGV1JeM",
+    "title": "Final GC Comes Down To Tough Uphill TT! | Tour De Romandie 2022 Stage 5 Highlights",
+    "url": "https://youtube.com/watch?v=RaqdUGV1JeM",
+    "channel": "GCN Racing",
+    "published": "2022-05-01 15:27:01+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "RaqdUGV1JeM",
+        "title": "Final GC Comes Down To Tough Uphill TT! | Tour De Romandie 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-01 15:27:01+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "85uOfS3Gib0",
+        "title": "Long Mountain Finish On The Queen Stage! | Tour De Romandie 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-30 15:24:14+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "PxBF-gAI1BI",
+        "title": "Reduced Bunch Sprint After Punchy Finale | Tour De Romandie 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-29 17:04:59+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "YQ-zT9tM6wo",
+        "title": "Fast Run-In To First Bunch Sprint | Tour De Romandie 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-28 16:41:44+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "qqQ_GC6EBK4",
+        "title": "Carnage On The Cobblestones! | Tour De France 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-06 16:10:01+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "xqUEmNn-3AA",
+        "title": "GC Gaps & A New Race Leader | Tour De Suisse 2022 Men's Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-16 16:36:57+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "voKW7vUOre0",
+        "title": "Race Blown Apart On Tough Summit Finish | Tour Of Scandinavia 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-13 13:31:57+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "L5Va_YjcRxU",
+        "title": "Small Bunch Contests Chaotic Finale | Tour Of Britain 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-08 16:52:44+00:00",
+        "match_score": 74.06
+      },
+      {
+        "video_id": "tN9vNulw7SQ",
+        "title": "Welcome Back... 2014? | Tour Of The Alps 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-22 15:26:44+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "XZQA9V2vyCc",
+        "title": "Raw Power Wins After Technical Run-In! | UAE Tour 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-24 14:33:47+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

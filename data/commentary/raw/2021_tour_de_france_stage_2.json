@@ -1,0 +1,88 @@
+{
+  "label": "2021 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-27",
+  "stage": 2,
+  "video": {
+    "video_id": "DR__YdMtm-k",
+    "title": "Tour de France 2021 Stage 2 Highlights | Mathieu Van Der Poel Takes Yellow!",
+    "url": "https://youtube.com/watch?v=DR__YdMtm-k",
+    "channel": "GCN Racing",
+    "published": "2021-06-27 16:47:58+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "DR__YdMtm-k",
+        "title": "Tour de France 2021 Stage 2 Highlights | Mathieu Van Der Poel Takes Yellow!",
+        "channel": "GCN Racing",
+        "published": "2021-06-27 16:47:58+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "H7D-K5Hb5e0",
+        "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
+        "channel": "GCN Racing",
+        "published": "2021-06-28 16:32:57+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "8u8SCv6qI-M",
+        "title": "Fan Causes HUGE Crash That Wipes Out Entire Peloton! | Tour de France 2021 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-06-26 16:15:44+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "weCpgz2Om4c",
+        "title": "La Course by Le Tour de France 2021 Highlights | Can Lizzie Deignan Repeat Her 2020 Win?",
+        "channel": "GCN Racing",
+        "published": "2021-06-26 11:36:21+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "HsQ-aZeYlBk",
+        "title": "Alaphilippe & Van Der Poel Deliver Dream Tour de France 2021 Opening Weekend | GCN Racing News Show",
+        "channel": "GCN Racing",
+        "published": "2021-06-28 14:07:05+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "3PeuXUd6yHE",
+        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
+        "channel": "GCN Racing",
+        "published": "2021-07-18 18:57:54+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "JDqt96CevYc",
+        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
+        "channel": "GCN Racing",
+        "published": "2021-07-17 17:03:43+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "es4zyFv3X-A",
+        "title": "Tour de France 2021 Stage 5 Highlights | Van Der Poel Hangs On To Yellow Despite Surging Pogačar!",
+        "channel": "GCN Racing",
+        "published": "2021-06-30 16:29:54+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "8xnF0CW7EaQ",
+        "title": "Tour de France 2021 Stage 4 Highlights | Mark Cavendish Is Back!",
+        "channel": "GCN Racing",
+        "published": "2021-06-29 16:01:24+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "v8cUOUjP9mg",
+        "title": "Tour de France 2021 | Team Presentation #TDF2021",
+        "channel": "GCN Racing",
+        "published": "2021-06-24 18:14:13+00:00",
+        "match_score": 75.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

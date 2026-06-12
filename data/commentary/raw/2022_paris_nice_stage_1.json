@@ -1,0 +1,81 @@
+{
+  "label": "2022 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-06",
+  "stage": 1,
+  "video": {
+    "video_id": "gfChNYbtv50",
+    "title": "Dominant Team Performance! | Paris-Nice 2022 Stage 1 Highlights",
+    "url": "https://youtube.com/watch?v=gfChNYbtv50",
+    "channel": "GCN Racing",
+    "published": "2022-03-06 18:18:28+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "gfChNYbtv50",
+        "title": "Dominant Team Performance! | Paris-Nice 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-06 18:18:28+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "D-TktPwLd2k",
+        "title": "Thrilling Finale On Stage 1 of Paris-Nice 2022! #shorts",
+        "channel": "GCN Racing",
+        "published": "2022-03-06 17:14:37+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "nmfvtZaVPYI",
+        "title": "A Day For The Sprinters! | Paris-Nice 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-07 19:01:49+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "3_dAgexcvPk",
+        "title": "Punchy Finish After Hard Day Of Racing | Paris-Nice 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-08 17:19:39+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "hWe1RWiQ-Qo",
+        "title": "TT Day With A Steep Final Ramp | Paris-Nice 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-09 16:32:03+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "XfvO7YoZbdE",
+        "title": "A Nail-biting Finale For The Race To The Sun! | Paris-Nice 2022 Stage 8 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-13 17:22:48+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "mYHhzesO4hE",
+        "title": "Breakaway Brilliance! | Paris-Nice 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-10 16:40:32+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "0kn4Funh7V0",
+        "title": "Strongest Climbers Go Head To Head On Queen Stage | Paris-Nice 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-12 15:09:00+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "EZJmzwOlnpU",
+        "title": "Holding Off The Bunch! | Paris-Nice 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-11 16:33:29+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

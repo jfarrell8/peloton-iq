@@ -1,0 +1,67 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-11",
+  "stage": 5,
+  "video": {
+    "video_id": "c1R1abfL5IQ",
+    "title": "A Day Of Punchy Climbs! | Tirreno-Adriatico 2022 Stage 5 Highlights",
+    "url": "https://youtube.com/watch?v=c1R1abfL5IQ",
+    "channel": "GCN Racing",
+    "published": "2022-03-11 17:23:17+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "c1R1abfL5IQ",
+        "title": "A Day Of Punchy Climbs! | Tirreno-Adriatico 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-11 17:23:17+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "F5qv5M3-odo",
+        "title": "GC Battle On Steep, Snow-Covered Climb | Tirreno-Adriatico 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-12 17:06:28+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "B0vCoGhCu1A",
+        "title": "GC Showdown In Punchy Finale | Tirreno-Adriatico 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-10 17:37:18+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "ESqKusQGMvw",
+        "title": "Technical Finish For The Sprinters On The Last Stage | Tirreno-Adriatico 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-13 15:24:26+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "tdiQXLVZG1w",
+        "title": "Sprinters Take On Technical Cobbled Finale | Tirreno-Adriatico 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-09 17:56:51+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "G_k3GG85MCc",
+        "title": "Sprinters Do Battle! | Tirreno-Adriatico 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-08 18:04:11+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "k7mzhOMvABM",
+        "title": "Leader's Jersey Up For Grabs In Opening Time Trial | Tirreno-Adriatico 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-07 18:25:23+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

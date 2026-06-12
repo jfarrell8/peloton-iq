@@ -1,0 +1,46 @@
+{
+  "label": "2021 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2021-10-03",
+  "stage": null,
+  "video": {
+    "video_id": "wR1TDpyblpE",
+    "title": "Men's Paris-Roubaix 2021 - Highlights",
+    "url": "https://youtube.com/watch?v=wR1TDpyblpE",
+    "channel": "GCN Racing",
+    "published": "2021-10-03 16:32:22+00:00",
+    "match_score": 130.0,
+    "all_candidates": [
+      {
+        "video_id": "wR1TDpyblpE",
+        "title": "Men's Paris-Roubaix 2021 - Highlights",
+        "channel": "GCN Racing",
+        "published": "2021-10-03 16:32:22+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "G8cb97FqUto",
+        "title": "The Hell Of The North Is Finally Back! | 2021 Paris-Roubaix Preview Show",
+        "channel": "GCN Racing",
+        "published": "2021-09-30 11:15:01+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "dZ93tlzzrqM",
+        "title": "BRUTAL! 😮 2021 Paris-Roubaix vibes, anyone? Paris-Tours serving up challenging conditions! 🌧️",
+        "channel": "TNT Sports Cycling",
+        "published": "2024-10-06 15:01:10+00:00",
+        "match_score": -60.0
+      },
+      {
+        "video_id": "WlsLTLIz7-8",
+        "title": "How good was the 2021 edition of Paris-Roubaix where Sonny Colbrelli delivered the emotion! 🔥",
+        "channel": "TNT Sports Cycling",
+        "published": "2025-02-26 10:54:32+00:00",
+        "match_score": -100.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

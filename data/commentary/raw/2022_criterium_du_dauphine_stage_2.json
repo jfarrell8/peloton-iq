@@ -1,0 +1,88 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-06",
+  "stage": 2,
+  "video": {
+    "video_id": "f-M_P_AzcCE",
+    "title": "Tense Finale Upsets Stage Favourites! | Critérium Du Dauphiné 2022 Stage 2 Highlights",
+    "url": "https://youtube.com/watch?v=f-M_P_AzcCE",
+    "channel": "GCN Racing",
+    "published": "2022-06-06 15:59:33+00:00",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "f-M_P_AzcCE",
+        "title": "Tense Finale Upsets Stage Favourites! | Critérium Du Dauphiné 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-06 15:59:33+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "J5NeBepf1zE",
+        "title": "A Day For The Breakaway Or The Sprinters? | Critérium Du Dauphiné 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-05 14:20:41+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "fBAyRosie8w",
+        "title": "GC Favourites Show Their Cards! | Critérium Du Dauphiné 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-07 15:56:20+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "tqCPiDdyXKs",
+        "title": "Late Attacking On A Punchy Parcours! | Tour De Suisse 2022 Men's Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-13 16:30:17+00:00",
+        "match_score": 85.71
+      },
+      {
+        "video_id": "WoRaMfuz1Rs",
+        "title": "Can Breakaway Survive In Tense Finale? | Critérium Du Dauphiné 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-09 16:05:19+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "7kprQ6_y6Ts",
+        "title": "Contenders Face Long TT Challenge | Critérium Du Dauphiné 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-08 16:21:55+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "nmfvtZaVPYI",
+        "title": "A Day For The Sprinters! | Paris-Nice 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-07 19:01:49+00:00",
+        "match_score": 73.1
+      },
+      {
+        "video_id": "G_k3GG85MCc",
+        "title": "Sprinters Do Battle! | Tirreno-Adriatico 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-08 18:04:11+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "Ogj_BqjfLbo",
+        "title": "Sprinters Escape Late Crash To Battle For Win | Arctic Race Of Norway 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-12 14:56:34+00:00",
+        "match_score": 72.16
+      },
+      {
+        "video_id": "4V-feb_tJLY",
+        "title": "Chaotic Finale Ends In Bunch Sprint | Tour De France 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-02 16:52:36+00:00",
+        "match_score": 71.9
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

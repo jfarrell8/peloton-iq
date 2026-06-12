@@ -1,0 +1,39 @@
+{
+  "label": "2023 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2023-10-07",
+  "stage": null,
+  "video": {
+    "video_id": "vmerYpf_hmk",
+    "title": "Superstar Climbers Clash In The Year's Final Monument | Il Lombardia 2023 Highlights",
+    "url": "https://youtube.com/watch?v=vmerYpf_hmk",
+    "channel": "GCN Racing",
+    "published": "2023-10-07 16:14:42+00:00",
+    "match_score": 130.0,
+    "all_candidates": [
+      {
+        "video_id": "vmerYpf_hmk",
+        "title": "Superstar Climbers Clash In The Year's Final Monument | Il Lombardia 2023 Highlights",
+        "channel": "GCN Racing",
+        "published": "2023-10-07 16:14:42+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "M4xPWczkoGo",
+        "title": "2021 🏆 2022 🏆 2023 🏆 | Pogačar The King Of Lombardia! 🍂🇮🇹",
+        "channel": "GCN Racing",
+        "published": "2023-10-07 21:00:11+00:00",
+        "match_score": 120.83
+      },
+      {
+        "video_id": "sN-_DR5w17c",
+        "title": "Thrilling Mini Il Lombardia! | Giro D'Italia 2023 Highlights - Stage 15",
+        "channel": "GCN Racing",
+        "published": "2023-05-21 16:53:27+00:00",
+        "match_score": 70.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

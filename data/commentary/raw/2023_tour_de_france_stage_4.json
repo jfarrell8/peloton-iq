@@ -1,0 +1,88 @@
+{
+  "label": "2023 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-04",
+  "stage": 4,
+  "video": {
+    "video_id": "UFFdxDgCP2s",
+    "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
+    "url": "https://youtube.com/watch?v=UFFdxDgCP2s",
+    "channel": "GCN Racing",
+    "published": "2023-07-04 17:18:04+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "UFFdxDgCP2s",
+        "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-07-04 17:18:04+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Zus-UR-t_vo",
+        "title": "Surprise Attacks As The Peloton Enters The Pyrenees | Tour De France 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-07-05 17:12:20+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "o7sw890VMgQ",
+        "title": "First Chance For The Sprinters! | Tour De France 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-07-03 17:45:39+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "SGjP4EXJBfc",
+        "title": "A Fast & Ferocious Finish Into Bordeaux | Tour De France 2023 Highlights - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-07-07 16:37:24+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "ZKMFitcHQ4M",
+        "title": "Racing Explodes In The Mountains! 🏔️ | Tour De France 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-07-06 16:58:11+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "Ro_SD7RloFA",
+        "title": "Fireworks From Yellow Jersey Favourites! | Tour De France 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-07-02 17:02:36+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "9aexj2462yw",
+        "title": "Steep Climbs In The Basque Country To Start The Race! | Tour De France 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-07-01 16:59:22+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "UTsghf4DpQE",
+        "title": "GC Battle On The Final Climb! | Tour De Suisse 2023 Highlights Men - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-06-14 15:32:40+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "kixZ4M_UllY",
+        "title": "Wind Causes Chaos On Penultimate Stage! | Tour Down Under 2023 Highlights - Men's Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-01-21 06:13:26+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "CVmA1i6ZxSw",
+        "title": "A Close Battle From The Sprinters! | Renewi Tour 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-08-26 16:40:28+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

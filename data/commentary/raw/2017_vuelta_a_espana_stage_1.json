@@ -3,37 +3,7 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-08-19",
   "stage": 1,
-  "video": {
-    "video_id": "S65hQMm-Dn8",
-    "title": "GCN&#39;s Top 10 Riders To Watch At The Vuelta A España 2017",
-    "url": "https://youtube.com/watch?v=S65hQMm-Dn8",
-    "channel": "GCN",
-    "published": "2017-08-19T10:00:04Z",
-    "match_score": 88.33,
-    "all_candidates": [
-      {
-        "video_id": "NNiAVrOdMUg",
-        "title": "Team Time Trial Preparation With BMC Racing Team | Vuelta a España 2017",
-        "channel": "GCN",
-        "published": "2017-08-18T16:00:03Z",
-        "match_score": 78.33
-      },
-      {
-        "video_id": "S65hQMm-Dn8",
-        "title": "GCN&#39;s Top 10 Riders To Watch At The Vuelta A España 2017",
-        "channel": "GCN",
-        "published": "2017-08-19T10:00:04Z",
-        "match_score": 88.33
-      },
-      {
-        "video_id": "t_dhoVlnHWY",
-        "title": "GCN&#39;s Vuelta A España Stage 1 Preview | Nîmes Team Time Trial",
-        "channel": "GCN",
-        "published": "2017-08-17T10:00:06Z",
-        "match_score": 68.33
-      }
-    ]
-  },
+  "video": null,
   "transcript": null,
-  "status": "video_found"
+  "status": "no_video_found"
 }

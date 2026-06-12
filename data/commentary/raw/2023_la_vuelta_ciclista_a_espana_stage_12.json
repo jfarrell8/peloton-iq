@@ -1,0 +1,88 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 12",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-07",
+  "stage": 12,
+  "video": {
+    "video_id": "W1FijSBREvQ",
+    "title": "A Long Day Waiting For The Sprint Teams To Pounce! | Vuelta A España 2023 Highlights - Stage 12",
+    "url": "https://youtube.com/watch?v=W1FijSBREvQ",
+    "channel": "GCN Racing",
+    "published": "2023-09-07 16:47:04+00:00",
+    "match_score": 133.89,
+    "all_candidates": [
+      {
+        "video_id": "W1FijSBREvQ",
+        "title": "A Long Day Waiting For The Sprint Teams To Pounce! | Vuelta A España 2023 Highlights - Stage 12",
+        "channel": "GCN Racing",
+        "published": "2023-09-07 16:47:04+00:00",
+        "match_score": 133.89
+      },
+      {
+        "video_id": "L4JmO0q9_xw",
+        "title": "The Tourmalet Takes Some Big Victims! | Vuelta A España 2023 Highlights - Stage 13",
+        "channel": "GCN Racing",
+        "published": "2023-09-08 17:43:13+00:00",
+        "match_score": 84.81
+      },
+      {
+        "video_id": "_wXkrNVgnOE",
+        "title": "Breakaway Battle On La Laguna Negra! | Vuelta A España 2023 Highlights - Stage 11",
+        "channel": "GCN Racing",
+        "published": "2023-09-06 16:32:04+00:00",
+        "match_score": 84.81
+      },
+      {
+        "video_id": "H78XIw2FW_E",
+        "title": "A Day Of Attrition Before The Final Rest Day! | Vuelta A España 2023 Highlights - Stage 15",
+        "channel": "GCN Racing",
+        "published": "2023-09-10 16:46:52+00:00",
+        "match_score": 69.81
+      },
+      {
+        "video_id": "ACPFRI1ylP0",
+        "title": "Can The GC Men Beat The Time Trial Specialists?! | Vuelta A España 2023 Highlights - Stage 10",
+        "channel": "GCN Racing",
+        "published": "2023-09-05 17:09:38+00:00",
+        "match_score": 69.81
+      },
+      {
+        "video_id": "Za6fZFKHElE",
+        "title": "Redemption In The Pyrenees! | Vuelta A España 2023 Highlights - Stage 14",
+        "channel": "GCN Racing",
+        "published": "2023-09-09 16:53:34+00:00",
+        "match_score": 68.89
+      },
+      {
+        "video_id": "bYnhWg3jVyQ",
+        "title": "Teamwork Makes The Dream Work! | Vuelta A España 2023 Highlights - Stage 18",
+        "channel": "GCN Racing",
+        "published": "2023-09-14 17:11:49+00:00",
+        "match_score": 49.81
+      },
+      {
+        "video_id": "Pcovc3OUr2E",
+        "title": "Fast & Furious Racing With A Steep Climb To The Line! | Vuelta A España 2023 Highlights - Stage 16",
+        "channel": "GCN Racing",
+        "published": "2023-09-12 16:54:37+00:00",
+        "match_score": 49.81
+      },
+      {
+        "video_id": "zTyY7E0wVto",
+        "title": "Crosswind Chaos & A Savage Finale! | Vuelta A España 2023 Highlights - Stage 9",
+        "channel": "GCN Racing",
+        "published": "2023-09-03 16:57:50+00:00",
+        "match_score": 49.81
+      },
+      {
+        "video_id": "LixOE3EhAwk",
+        "title": "Brutal Climb To Test Climbers Before The Line! | Vuelta A España 2023 Highlights - Stage 8",
+        "channel": "GCN Racing",
+        "published": "2023-09-02 16:53:49+00:00",
+        "match_score": 49.81
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

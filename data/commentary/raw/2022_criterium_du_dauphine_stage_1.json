@@ -1,0 +1,88 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-05",
+  "stage": 1,
+  "video": {
+    "video_id": "J5NeBepf1zE",
+    "title": "A Day For The Breakaway Or The Sprinters? | Critérium Du Dauphiné 2022 Stage 1 Highlights",
+    "url": "https://youtube.com/watch?v=J5NeBepf1zE",
+    "channel": "GCN Racing",
+    "published": "2022-06-05 14:20:41+00:00",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "J5NeBepf1zE",
+        "title": "A Day For The Breakaway Or The Sprinters? | Critérium Du Dauphiné 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-05 14:20:41+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "f-M_P_AzcCE",
+        "title": "Tense Finale Upsets Stage Favourites! | Critérium Du Dauphiné 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-06 15:59:33+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "7kprQ6_y6Ts",
+        "title": "Contenders Face Long TT Challenge | Critérium Du Dauphiné 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-08 16:21:55+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "fBAyRosie8w",
+        "title": "GC Favourites Show Their Cards! | Critérium Du Dauphiné 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-07 15:56:20+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "BoNVctYk3qw",
+        "title": "GC Favourites Duel In The Pyrenees | Tour De France 2022 Stage 17 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-20 16:26:33+00:00",
+        "match_score": 73.1
+      },
+      {
+        "video_id": "cgyqfKQ6w9Q",
+        "title": "Sprinters Vs Puncheurs Fight For The First Maglia Rosa! | Giro D'Italia 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-06 17:12:10+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "lXTV8lw5qTg",
+        "title": "A Day For The Sprinters | Giro Donne 2022 Stage 10 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-10 13:53:05+00:00",
+        "match_score": 71.9
+      },
+      {
+        "video_id": "VQg3HaFrjMA",
+        "title": "Exciting Mountain Sprint In Scotland | Tour Of Britain 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-04 16:50:37+00:00",
+        "match_score": 71.9
+      },
+      {
+        "video_id": "ZwKNaMwuIB8",
+        "title": "Chaos & Controversy After A Long Day In The Sun | Vuelta A España 2022 Stage 16 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-06 17:50:58+00:00",
+        "match_score": 71.9
+      },
+      {
+        "video_id": "d_sIf8XqgYQ",
+        "title": "Sprinters Vs Breakaway In Exciting Finale | Giro D'Italia 2022 Stage 13 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-20 17:28:51+00:00",
+        "match_score": 70.81
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

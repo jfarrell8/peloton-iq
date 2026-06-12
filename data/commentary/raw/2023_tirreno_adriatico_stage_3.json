@@ -1,0 +1,67 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-08",
+  "stage": 3,
+  "video": {
+    "video_id": "e53VzmM5uFM",
+    "title": "Crosswind Chaos Late On! | Tirreno-Adriatico 2023 Highlights - Stage 3",
+    "url": "https://youtube.com/watch?v=e53VzmM5uFM",
+    "channel": "GCN Racing",
+    "published": "2023-03-08 18:30:53+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "e53VzmM5uFM",
+        "title": "Crosswind Chaos Late On! | Tirreno-Adriatico 2023 Highlights - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-03-08 18:30:53+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "NxQTY4VoBFY",
+        "title": "Relentless Attacking As Big Stars Struggle! | Tirreno-Adriatico 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-03-09 16:24:35+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "n873f3EHQlI",
+        "title": "Big Names Fights For The Win! | Tirreno-Adriatico 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-03-07 16:23:09+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "y0gd9lgQcT0",
+        "title": "Huge Day Of Racing Makes Hard Work For GC Leaders! | Tirreno-Adriatico 2023 Highlights - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-03-11 16:58:26+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "PmyezAcjGBY",
+        "title": "Brutal Winds Cause Chaos For Breakaway! | Tirreno-Adriatico 2023 Highlights - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-03-10 16:59:54+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "r88plFK4mTw",
+        "title": "All Four Seasons As Riders Tackle Flat TT! | Tirreno-Adriatico 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-03-06 16:39:08+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "9cTP6664lO4",
+        "title": "Sprint Stars Battle For The Win | Tirreno-Adriatico 2023 Highlights - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-03-12 16:27:38+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

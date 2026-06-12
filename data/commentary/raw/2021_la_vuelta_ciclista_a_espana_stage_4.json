@@ -1,0 +1,88 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 4",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-17",
+  "stage": 4,
+  "video": {
+    "video_id": "Selwqttioq8",
+    "title": "La Vuelta 2021 Stage 4 Highlights | A Punchy Finish For The Sprinters!",
+    "url": "https://youtube.com/watch?v=Selwqttioq8",
+    "channel": "GCN Racing",
+    "published": "2021-08-17 16:57:21+00:00",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "Selwqttioq8",
+        "title": "La Vuelta 2021 Stage 4 Highlights | A Punchy Finish For The Sprinters!",
+        "channel": "GCN Racing",
+        "published": "2021-08-17 16:57:21+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "CPjUXuYCw7E",
+        "title": "La Vuelta 2021 Stage 5 Highlights | A Close Sprint, A Big Crash, And A New Rider In Red!",
+        "channel": "GCN Racing",
+        "published": "2021-08-18 16:47:52+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "aUpQDnPnyx4",
+        "title": "La Vuelta 2021 Stage 3 Highlights | First Mountain Top Finish!",
+        "channel": "GCN Racing",
+        "published": "2021-08-16 17:02:44+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "PS755VYjNTY",
+        "title": "La Vuelta 2021 Stage 7 Highlights | Tug Of War On The Balcón de Alicante!",
+        "channel": "GCN Racing",
+        "published": "2021-08-20 17:07:54+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "Tf_jOcrocJM",
+        "title": "La Vuelta 2021 Stage 6 Highlights | Can The Breakaway Survive?",
+        "channel": "GCN Racing",
+        "published": "2021-08-19 16:46:08+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "7uqZLW1tK18",
+        "title": "La Vuelta 2021 Stage 2 Highlights | Sprinters Battle For Green Jersey",
+        "channel": "GCN Racing",
+        "published": "2021-08-15 17:03:44+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "NJPyqcvWRT4",
+        "title": "La Vuelta 2021 Stage 1 Highlights | First Red Jersey Up For Grabs!",
+        "channel": "GCN Racing",
+        "published": "2021-08-14 20:17:22+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "Bq_oZPPyiWs",
+        "title": "La Vuelta 2021 Stage 9 Highlights | Climbers Do Battle On The Alto De Velefique",
+        "channel": "GCN Racing",
+        "published": "2021-08-22 16:36:59+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "CA-LuwJMivo",
+        "title": "La Vuelta 2021 Stage 8 Highlights | Another Fantastic Day For The Sprinters!",
+        "channel": "GCN Racing",
+        "published": "2021-08-21 16:47:09+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "TkBy8t_eth8",
+        "title": "La Vuelta 2021 Stage 10 Highlights | Big Breakaway, Roglič Crashes, & A Change In Red!",
+        "channel": "GCN Racing",
+        "published": "2021-08-24 16:41:22+00:00",
+        "match_score": 49.89
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

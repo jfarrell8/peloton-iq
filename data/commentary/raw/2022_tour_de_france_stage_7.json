@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-08",
+  "stage": 7,
+  "video": {
+    "video_id": "ZfJhADz7SCA",
+    "title": "Agonisingly Steep Ramps On First Summit Finish! | Tour De France 2022 Stage 7 Highlights",
+    "url": "https://youtube.com/watch?v=ZfJhADz7SCA",
+    "channel": "GCN Racing",
+    "published": "2022-07-08 16:16:43+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "ZfJhADz7SCA",
+        "title": "Agonisingly Steep Ramps On First Summit Finish! | Tour De France 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-08 16:16:43+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "OadYigHeCxI",
+        "title": "Big Names Battle On Tough Final Ramp | Tour De France 2022 Stage 8 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-09 16:47:46+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "VGfva2H9p2s",
+        "title": "GC Skirmish After Incredible Day Of Racing | Tour De France 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-07 16:11:37+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "kpXWioIU14g",
+        "title": "Break Vs Chasers In Thrilling Finale! | Tour De France 2022 Stage 9 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-10 16:48:25+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "qqQ_GC6EBK4",
+        "title": "Carnage On The Cobblestones! | Tour De France 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-06 16:10:01+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "wQqEs6W8EN4",
+        "title": "Wout Van Aert Masterclass In Calais! | Tour De France 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-05 16:34:18+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "zANKKMkmShk",
+        "title": "GC Shakeup Ahead Of Crucial TT | Tour De Suisse 2022 Men's Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-18 15:47:44+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "QlVst91xuDU",
+        "title": "Spectacular Finale On Jebel Hafeet! | UAE Tour 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-26 14:53:03+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "-_CoBuALoWI",
+        "title": "Fighting For Yellow In Megève! | Tour De France 2022 Stage 10 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-12 16:33:46+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "bXV7o6V1WCM",
+        "title": "Chaotic Day Of Fast-Paced Racing! | Tour De France 2022 Stage 13 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-15 17:00:45+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

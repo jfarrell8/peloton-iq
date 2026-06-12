@@ -1,0 +1,88 @@
+{
+  "label": "2022 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-11",
+  "stage": 5,
+  "video": {
+    "video_id": "nuT0MYWbkAQ",
+    "title": "Can Sprinters Survive Tough Climb? | Giro D'Italia 2022 Stage 5 Highlights",
+    "url": "https://youtube.com/watch?v=nuT0MYWbkAQ",
+    "channel": "GCN Racing",
+    "published": "2022-05-11 16:49:38+00:00",
+    "match_score": 160.0,
+    "all_candidates": [
+      {
+        "video_id": "nuT0MYWbkAQ",
+        "title": "Can Sprinters Survive Tough Climb? | Giro D'Italia 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-11 16:49:38+00:00",
+        "match_score": 160.0
+      },
+      {
+        "video_id": "hE-O0_B3fkQ",
+        "title": "Epic Photo Finish As Sprinters Battle | Giro D'Italia 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-12 17:46:02+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "kHwXTULzfGE",
+        "title": "Explosive Racing Up Mount Etna! | Giro D'Italia 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-10 17:03:07+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "zAUzHrpSJok",
+        "title": "Big Names Battle In The Breakaway | Giro D'Italia 2022 Stage 8 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-14 16:55:43+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "LHR9xNUbGyU",
+        "title": "Who Will Win The First Sprint Showdown? | Giro D'Italia 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-08 17:26:37+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "lfbaGdtpTh0",
+        "title": "Huge Day Of Non-Stop Exciting Racing! | Giro D'Italia 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-13 16:52:23+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "Po3s6ImsP54",
+        "title": "Will The Sprinters Control The Break? | Giro Donne 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-05 14:28:26+00:00",
+        "match_score": 86.54
+      },
+      {
+        "video_id": "cgyqfKQ6w9Q",
+        "title": "Sprinters Vs Puncheurs Fight For The First Maglia Rosa! | Giro D'Italia 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-06 17:12:10+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "5CbRa2nroKw",
+        "title": "GC Leaders Fight It Out On First Mountain Finish! | Giro D'Italia 2022 Stage 9 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-15 17:32:24+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "IjwiRmwxSbk",
+        "title": "Technical TT Tests GC Leaders Form | Giro D'Italia 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-05-07 16:39:05+00:00",
+        "match_score": 75.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

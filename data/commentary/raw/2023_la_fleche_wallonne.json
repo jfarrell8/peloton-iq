@@ -1,0 +1,32 @@
+{
+  "label": "2023 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2023-04-19",
+  "stage": null,
+  "video": {
+    "video_id": "yu0EWM2FCgU",
+    "title": "The Toughest Final Kilometre In Pro Cycling?! | La Flèche Wallonne 2023 Highlights - Men",
+    "url": "https://youtube.com/watch?v=yu0EWM2FCgU",
+    "channel": "GCN Racing",
+    "published": "2023-04-19 15:47:40+00:00",
+    "match_score": 113.61,
+    "all_candidates": [
+      {
+        "video_id": "yu0EWM2FCgU",
+        "title": "The Toughest Final Kilometre In Pro Cycling?! | La Flèche Wallonne 2023 Highlights - Men",
+        "channel": "GCN Racing",
+        "published": "2023-04-19 15:47:40+00:00",
+        "match_score": 113.61
+      },
+      {
+        "video_id": "8LhRH5UQh0E",
+        "title": "Domination On The Mur de Huy! | La Flèche Wallonne 2023 Highlights - Women",
+        "channel": "GCN Racing",
+        "published": "2023-04-19 12:20:45+00:00",
+        "match_score": 83.61
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

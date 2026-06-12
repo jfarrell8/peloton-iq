@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-13",
+  "stage": 2,
+  "video": {
+    "video_id": "tqCPiDdyXKs",
+    "title": "Late Attacking On A Punchy Parcours! | Tour De Suisse 2022 Men's Stage 2 Highlights",
+    "url": "https://youtube.com/watch?v=tqCPiDdyXKs",
+    "channel": "GCN Racing",
+    "published": "2022-06-13 16:30:17+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "tqCPiDdyXKs",
+        "title": "Late Attacking On A Punchy Parcours! | Tour De Suisse 2022 Men's Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-13 16:30:17+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "eq-ErfDU2Gc",
+        "title": "A Long-Awaited Return To The Top Step! | Tour De Suisse 2022 Men's Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-14 16:37:39+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "OIhWigUnhMw",
+        "title": "Attacking Finale On The Opening Day | Tour De Suisse 2022 Men's Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-12 16:54:07+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "xqUEmNn-3AA",
+        "title": "GC Gaps & A New Race Leader | Tour De Suisse 2022 Men's Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-16 16:36:57+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "2QpW4NCRMGY",
+        "title": "Sprinters Try To Cling On Over Final Climb | Tour De Suisse 2022 Men's Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-15 16:59:40+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "4V-feb_tJLY",
+        "title": "Chaotic Finale Ends In Bunch Sprint | Tour De France 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-02 16:52:36+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "lLEhg8nidQU",
+        "title": "Dominant Time Trial Performance! | Tour De France 2022 Stage 20 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-23 17:42:08+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "zOIGJ5EDu4w",
+        "title": "Sprint Showdown On The Champs-Élysées!  | Tour De France 2022 Stage 21 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-24 19:38:01+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "YQ-zT9tM6wo",
+        "title": "Fast Run-In To First Bunch Sprint | Tour De Romandie 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-28 16:41:44+00:00",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "8F22qHc_oXw",
+        "title": "Uphill Battle For The Line! | Tour Of Sicily 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-13 15:35:27+00:00",
+        "match_score": 74.29
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

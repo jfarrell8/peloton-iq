@@ -1,0 +1,88 @@
+{
+  "label": "2022 UAE Tour Stage 5",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-24",
+  "stage": 5,
+  "video": {
+    "video_id": "XZQA9V2vyCc",
+    "title": "Raw Power Wins After Technical Run-In! | UAE Tour 2022 Stage 5 Highlights",
+    "url": "https://youtube.com/watch?v=XZQA9V2vyCc",
+    "channel": "GCN Racing",
+    "published": "2022-02-24 14:33:47+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "XZQA9V2vyCc",
+        "title": "Raw Power Wins After Technical Run-In! | UAE Tour 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-24 14:33:47+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "mcVAyH1FhyI",
+        "title": "Breakaway Stretches The Race! | UAE Tour 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-25 14:37:42+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "sexqqO4792M",
+        "title": "Sprint To The Summit! | UAE Tour 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-23 16:17:26+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "QlVst91xuDU",
+        "title": "Spectacular Finale On Jebel Hafeet! | UAE Tour 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-26 14:53:03+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "VKqYn6qqBpo",
+        "title": "Sprinters Keep Powder Dry For Final Dash | UAE Tour 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-21 15:23:01+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "UlvTsxW6MA8",
+        "title": "Over 55 Km/h On An Out & Back Time Trial | UAE Tour 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-22 16:43:53+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "zYBmLiOlN7E",
+        "title": "Sprinters Fight For Supremacy On Final Stage | Saudi Tour 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-05 14:52:56+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "L5Va_YjcRxU",
+        "title": "Small Bunch Contests Chaotic Finale | Tour Of Britain 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-08 16:52:44+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "qqQ_GC6EBK4",
+        "title": "Carnage On The Cobblestones! | Tour De France 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-06 16:10:01+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "xqUEmNn-3AA",
+        "title": "GC Gaps & A New Race Leader | Tour De Suisse 2022 Men's Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-16 16:36:57+00:00",
+        "match_score": 75.62
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

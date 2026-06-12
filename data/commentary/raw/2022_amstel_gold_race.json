@@ -1,0 +1,39 @@
+{
+  "label": "2022 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2022-04-10",
+  "stage": null,
+  "video": {
+    "video_id": "vihJ5BCghxw",
+    "title": "The Closest Finish... Since Last Year! | Amstel Gold Race 2022 Men's Highlights",
+    "url": "https://youtube.com/watch?v=vihJ5BCghxw",
+    "channel": "GCN Racing",
+    "published": "2022-04-10 17:12:11+00:00",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "vihJ5BCghxw",
+        "title": "The Closest Finish... Since Last Year! | Amstel Gold Race 2022 Men's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-10 17:12:11+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "OnraryRYUpk",
+        "title": "Late Attacks As Favourites Go Head-To-Head | Amstel Gold Race 2022 Women's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-10 13:26:59+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "3XxjKllm35g",
+        "title": "U.S. figure skating team receives 2022 Beijing gold at the Paris Olympics | NBC Sports",
+        "channel": "NBC Sports",
+        "published": "2024-08-08 08:43:59+00:00",
+        "match_score": -37.5
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-03",
+  "stage": 3,
+  "video": {
+    "video_id": "b6aYipbilfw",
+    "title": "Nervous Finale Leads To Second Bunch Sprint | Tour De France 2022 Stage 3 Highlights",
+    "url": "https://youtube.com/watch?v=b6aYipbilfw",
+    "channel": "GCN Racing",
+    "published": "2022-07-03 16:41:52+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "b6aYipbilfw",
+        "title": "Nervous Finale Leads To Second Bunch Sprint | Tour De France 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-03 16:41:52+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "4V-feb_tJLY",
+        "title": "Chaotic Finale Ends In Bunch Sprint | Tour De France 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-02 16:52:36+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "wQqEs6W8EN4",
+        "title": "Wout Van Aert Masterclass In Calais! | Tour De France 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-05 16:34:18+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "qqQ_GC6EBK4",
+        "title": "Carnage On The Cobblestones! | Tour De France 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-06 16:10:01+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "Y-DnwVSS-vo",
+        "title": "Surprise In The Opening TT | Tour De France 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-01 18:15:28+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "PxBF-gAI1BI",
+        "title": "Reduced Bunch Sprint After Punchy Finale | Tour De Romandie 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-29 17:04:59+00:00",
+        "match_score": 79.64
+      },
+      {
+        "video_id": "fL1hLT9LoNc",
+        "title": "Battle For The Podium | Tour De La Provence 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-13 17:04:27+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "eq-ErfDU2Gc",
+        "title": "A Long-Awaited Return To The Top Step! | Tour De Suisse 2022 Men's Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-14 16:37:39+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "2Wf4WOw-H1w",
+        "title": "Can Anyone Beat Vos? | Tour Of Scandinavia 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-11 18:02:05+00:00",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "N4Spq--2FZs",
+        "title": "Torrential Rain & A Nail-Biting Finish! | Tour Of Britain 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-06 16:44:55+00:00",
+        "match_score": 74.29
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

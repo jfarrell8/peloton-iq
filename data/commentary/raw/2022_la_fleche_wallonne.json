@@ -1,0 +1,32 @@
+{
+  "label": "2022 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2022-04-20",
+  "stage": null,
+  "video": {
+    "video_id": "3ZhR0QVdOEo",
+    "title": "Puncheurs Battle It Out On 26% Mur De Huy | La Flèche Wallonne 2022 Men's Highlights",
+    "url": "https://youtube.com/watch?v=3ZhR0QVdOEo",
+    "channel": "GCN Racing",
+    "published": "2022-04-20 16:20:57+00:00",
+    "match_score": 113.61,
+    "all_candidates": [
+      {
+        "video_id": "3ZhR0QVdOEo",
+        "title": "Puncheurs Battle It Out On 26% Mur De Huy | La Flèche Wallonne 2022 Men's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-20 16:20:57+00:00",
+        "match_score": 113.61
+      },
+      {
+        "video_id": "HUhAnZFCWc4",
+        "title": "Favourites Rip It Up Over Brutal Ardennes Climbs | La Flèche Wallonne 2022 Women's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-20 12:10:12+00:00",
+        "match_score": 83.61
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

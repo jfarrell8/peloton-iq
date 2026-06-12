@@ -1,0 +1,88 @@
+{
+  "label": "2022 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-15",
+  "stage": 13,
+  "video": {
+    "video_id": "bXV7o6V1WCM",
+    "title": "Chaotic Day Of Fast-Paced Racing! | Tour De France 2022 Stage 13 Highlights",
+    "url": "https://youtube.com/watch?v=bXV7o6V1WCM",
+    "channel": "GCN Racing",
+    "published": "2022-07-15 17:00:45+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "bXV7o6V1WCM",
+        "title": "Chaotic Day Of Fast-Paced Racing! | Tour De France 2022 Stage 13 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-15 17:00:45+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Q7mwYjfY4xA",
+        "title": "Breakaway Brilliance & GC Gaps | Tour De France 2022 Stage 14 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-16 17:01:31+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "Nlzpmt2VQgk",
+        "title": "Fireworks On Alpe d’Huez! | Tour De France 2022 Stage 12 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-14 18:09:49+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "LVzEryD87VY",
+        "title": "Long Hot Day Full Of Drama! | Tour De France 2022 Stage 15 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-17 16:59:41+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "-_CoBuALoWI",
+        "title": "Fighting For Yellow In Megève! | Tour De France 2022 Stage 10 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-12 16:33:46+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "78DcSvhF1W0",
+        "title": "Vingagaard Cracks Pogačar To Take Yellow! | Tour De France 2022 Stage 11 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-13 16:44:53+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "Odj5DC7HxPU",
+        "title": "Attacking Into The Pyrenees!  | Tour De France 2022 Stage 16 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-19 16:28:23+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "rFCOYHNk9Qo",
+        "title": "Vingegaard & Van Aert Bury Pogačar On Hautacam! | Tour De France 2022 Stage 18 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-21 17:47:12+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "qSf3oxzoHLc",
+        "title": "Attack Or Be Attacked! | Tour De France 2022 Stage 19 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-22 17:18:27+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "kpXWioIU14g",
+        "title": "Break Vs Chasers In Thrilling Finale! | Tour De France 2022 Stage 9 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-10 16:48:25+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

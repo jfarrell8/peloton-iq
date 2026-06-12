@@ -1,0 +1,67 @@
+{
+  "label": "2021 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-28",
+  "stage": 19,
+  "video": {
+    "video_id": "I1ht-V1hd0w",
+    "title": "How Egan Bernal Won The 2021 Giro d'Italia | GCN's Racing News Show",
+    "url": "https://youtube.com/watch?v=I1ht-V1hd0w",
+    "channel": "GCN Racing",
+    "published": "2021-05-31 12:28:42+00:00",
+    "match_score": 90.0,
+    "all_candidates": [
+      {
+        "video_id": "I1ht-V1hd0w",
+        "title": "How Egan Bernal Won The 2021 Giro d'Italia | GCN's Racing News Show",
+        "channel": "GCN Racing",
+        "published": "2021-05-31 12:28:42+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "QJBj3SOp80s",
+        "title": "'Chop Chop!' | A Keen Fan Encourages Egan Bernal On The Passo Giau | Giro d'Italia 2021",
+        "channel": "GCN Racing",
+        "published": "2021-05-26 11:52:54+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "Vte_0rMzEgI",
+        "title": "How Hard Is Pro Bike Racing? | Exclusive Insights From EF Nippo At The 2021 Giro d'Italia",
+        "channel": "GCN",
+        "published": "2021-05-27 15:13:32+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "mSoXUZnk7SE",
+        "title": "'Well held!' Gorka Izagirre almost crashes into a van! | Giro d'Italia 2021",
+        "channel": "GCN Racing",
+        "published": "2021-05-24 17:30:06+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "KYmk8aJqwUE",
+        "title": "5 Things We've Learnt From The First Week Of The 2021 Giro d'Italia",
+        "channel": "GCN Racing",
+        "published": "2021-05-17 14:12:38+00:00",
+        "match_score": 55.0
+      },
+      {
+        "video_id": "iWyp0UN6T7Q",
+        "title": "Giro d'Italia 2021 Route First Look | The Toughest Grand Tour Of The Year?",
+        "channel": "GCN Racing",
+        "published": "2021-02-24 16:30:02+00:00",
+        "match_score": 55.0
+      },
+      {
+        "video_id": "0FVJQcC6VeU",
+        "title": "2021 Giro d'Italia Preview | The First Grand Tour Of The Year!",
+        "channel": "GCN Racing",
+        "published": "2021-05-04 18:57:21+00:00",
+        "match_score": 25.0
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "transcript_error:ip_blocked"
+}

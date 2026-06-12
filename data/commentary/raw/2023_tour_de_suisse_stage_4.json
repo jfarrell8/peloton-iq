@@ -1,0 +1,88 @@
+{
+  "label": "2023 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-14",
+  "stage": 4,
+  "video": {
+    "video_id": "UTsghf4DpQE",
+    "title": "GC Battle On The Final Climb! | Tour De Suisse 2023 Highlights Men - Stage 4",
+    "url": "https://youtube.com/watch?v=UTsghf4DpQE",
+    "channel": "GCN Racing",
+    "published": "2023-06-14 15:32:40+00:00",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "UTsghf4DpQE",
+        "title": "GC Battle On The Final Climb! | Tour De Suisse 2023 Highlights Men - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-06-14 15:32:40+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "zWYXtvxazRU",
+        "title": "Climbing Exhibition & A GC Reshuffle! | Tour De Suisse 2023 Highlights Men - Stage 5",
+        "channel": "GCN Racing",
+        "published": "2023-06-15 16:26:19+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "NNWc5Oanu3o",
+        "title": "Rain-Soaked Mountain Finish Shows Who's In Form! | Tour De Suisse 2023 Highlights Men - Stage 3",
+        "channel": "GCN Racing",
+        "published": "2023-06-13 16:22:23+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "-tasFekE2Ec",
+        "title": "Racing Resumes For Final 25km | Tour De Suisse 2023 Highlights Men - Stage 7",
+        "channel": "GCN Racing",
+        "published": "2023-06-17 16:26:21+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "neB22eS4DjM",
+        "title": "A Flat TT To Kick Off The Racing! | Tour De Suisse 2023 Highlights Men - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-06-11 16:33:47+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "mRBNriWPLf8",
+        "title": "Sprint Showdown Followed By Wild Celebrations! | Tour De Suisse 2023 Highlights Men - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-06-12 16:19:14+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "UFFdxDgCP2s",
+        "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-07-04 17:18:04+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "kixZ4M_UllY",
+        "title": "Wind Causes Chaos On Penultimate Stage! | Tour Down Under 2023 Highlights - Men's Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-01-21 06:13:26+00:00",
+        "match_score": 76.07
+      },
+      {
+        "video_id": "3lrdr4V0bo4",
+        "title": "Cycling In Mourning After The Death Of Gino Mäder | Tour De Suisse 2023 Men - Stage 6",
+        "channel": "GCN Racing",
+        "published": "2023-06-16 16:44:31+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "CGTw-oKH7gc",
+        "title": "Sprint Showdown In Dubai! | UAE Tour 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-02-23 14:50:09+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

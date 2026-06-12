@@ -1,0 +1,88 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-11",
+  "stage": 7,
+  "video": {
+    "video_id": "9dpLmW4mIyc",
+    "title": "GC Race Ignites In The Alps | Critérium Du Dauphiné 2022 Stage 7 Highlights",
+    "url": "https://youtube.com/watch?v=9dpLmW4mIyc",
+    "channel": "GCN Racing",
+    "published": "2022-06-11 17:01:47+00:00",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "9dpLmW4mIyc",
+        "title": "GC Race Ignites In The Alps | Critérium Du Dauphiné 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-11 17:01:47+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "JuAghq1_Wfs",
+        "title": "The Last Test Before The High Mountains! | Critérium Du Dauphiné 2022 Stage 6 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-10 15:20:26+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "rR_5wWPT_P4",
+        "title": "Dominance At The Top Of The GC! | Critérium Du Dauphiné 2022 Stage 8 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-12 16:23:35+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "zANKKMkmShk",
+        "title": "GC Shakeup Ahead Of Crucial TT | Tour De Suisse 2022 Men's Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-18 15:47:44+00:00",
+        "match_score": 85.71
+      },
+      {
+        "video_id": "WoRaMfuz1Rs",
+        "title": "Can Breakaway Survive In Tense Finale? | Critérium Du Dauphiné 2022 Stage 5 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-09 16:05:19+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "7kprQ6_y6Ts",
+        "title": "Contenders Face Long TT Challenge | Critérium Du Dauphiné 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-08 16:21:55+00:00",
+        "match_score": 77.62
+      },
+      {
+        "video_id": "ZfJhADz7SCA",
+        "title": "Agonisingly Steep Ramps On First Summit Finish! | Tour De France 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-08 16:16:43+00:00",
+        "match_score": 70.71
+      },
+      {
+        "video_id": "ESqKusQGMvw",
+        "title": "Technical Finish For The Sprinters On The Last Stage | Tirreno-Adriatico 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-13 15:24:26+00:00",
+        "match_score": 70.71
+      },
+      {
+        "video_id": "tMhbIaU4-1M",
+        "title": "Huge Climb Provides Challenge For Sprinters!  | Vuelta A España 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-26 16:33:09+00:00",
+        "match_score": 70.71
+      },
+      {
+        "video_id": "tqCPiDdyXKs",
+        "title": "Late Attacking On A Punchy Parcours! | Tour De Suisse 2022 Men's Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-13 16:30:17+00:00",
+        "match_score": 65.71
+      }
+    ]
+  },
+  "transcript": null,
+  "status": "video_found"
+}

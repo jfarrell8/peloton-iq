@@ -14,5 +14,7 @@ models/*.pkl
 models/*.csv
 data/processed/rider_features.csv
 data/processed/model_df.csv
+data/tests/model_df.csv
+data/archived_processed/model_df.csv
 
 qdrant_storage/

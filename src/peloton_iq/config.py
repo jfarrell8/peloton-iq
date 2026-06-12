@@ -39,6 +39,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR            = PROJECT_ROOT / "data"
 DATA_RAW_DIR        = DATA_DIR / "raw"
 DATA_PROCESSED_DIR  = DATA_DIR / "processed"
+TEST_OUTPUTS_DIR    = DATA_DIR / "tests"
 
 # Commentary
 COMMENTARY_DIR          = DATA_DIR / "commentary"
@@ -53,9 +54,13 @@ MODELS_DIR = PROJECT_ROOT / "models"
 RACE_RESULTS_PATH    = DATA_RAW_DIR / "race_results_2017_2023.csv"
 COURSE_DATA_PATH     = DATA_RAW_DIR / "structured_course_data.csv"
 MERGED_RACES_PATH    = DATA_PROCESSED_DIR / "merged_uci_races.csv"
+TEST_MERGED_RACES_PATH = TEST_OUTPUTS_DIR / "merged_uci_races.csv"
 COURSE_CLEAN_PATH    = DATA_PROCESSED_DIR / "course_data_clean.csv"
+TEST_COURSE_CLEAN_PATH = TEST_OUTPUTS_DIR / "course_data_clean.csv"
 RIDER_FEATURES_PATH  = DATA_PROCESSED_DIR / "rider_features.csv"
+TEST_RIDER_FEATURES_PATH = TEST_OUTPUTS_DIR / "rider_features.csv"
 MODEL_DF_PATH        = DATA_PROCESSED_DIR / "model_df.csv"
+TEST_MODEL_DF_PATH   = TEST_OUTPUTS_DIR / "model_df.csv"
 TIER_PREDICTOR_PATH  = MODELS_DIR / "tier_predictor.pkl"
 YOUTUBE_CACHE_PATH   = COMMENTARY_CACHE_DIR / "all_channel_videos.parquet"
 

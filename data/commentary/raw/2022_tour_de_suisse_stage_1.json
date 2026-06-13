@@ -41,14 +41,14 @@
       },
       {
         "video_id": "rFCOYHNk9Qo",
-        "title": "Vingegaard & Van Aert Bury Pogačar On Hautacam! | Tour De France 2022 Stage 18 Highlights",
+        "title": "Vingegaard & Van Aert Bury Poga\u010dar On Hautacam! | Tour De France 2022 Stage 18 Highlights",
         "channel": "GCN Racing",
         "published": "2022-07-21 17:47:12+00:00",
         "match_score": 76.07
       },
       {
         "video_id": "78DcSvhF1W0",
-        "title": "Vingagaard Cracks Pogačar To Take Yellow! | Tour De France 2022 Stage 11 Highlights",
+        "title": "Vingagaard Cracks Poga\u010dar To Take Yellow! | Tour De France 2022 Stage 11 Highlights",
         "channel": "GCN Racing",
         "published": "2022-07-13 16:44:53+00:00",
         "match_score": 76.07
@@ -76,7 +76,7 @@
       },
       {
         "video_id": "-_CoBuALoWI",
-        "title": "Fighting For Yellow In Megève! | Tour De France 2022 Stage 10 Highlights",
+        "title": "Fighting For Yellow In Meg\u00e8ve! | Tour De France 2022 Stage 10 Highlights",
         "channel": "GCN Racing",
         "published": "2022-07-12 16:33:46+00:00",
         "match_score": 76.07
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:ip_blocked"
 }

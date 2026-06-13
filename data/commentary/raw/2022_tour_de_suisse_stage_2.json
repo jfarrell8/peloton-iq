@@ -62,7 +62,7 @@
       },
       {
         "video_id": "zOIGJ5EDu4w",
-        "title": "Sprint Showdown On The Champs-Élysées!  | Tour De France 2022 Stage 21 Highlights",
+        "title": "Sprint Showdown On The Champs-\u00c9lys\u00e9es!  | Tour De France 2022 Stage 21 Highlights",
         "channel": "GCN Racing",
         "published": "2022-07-24 19:38:01+00:00",
         "match_score": 76.07
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:ip_blocked"
 }

@@ -1,0 +1,22 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-05",
+  "stage": 2,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BUHURT Tom won intermediate sprint ahead of FINNY Taylor by exploiting slipstream advantage on wet roads where handling risks deterred full sprinting.",
+    "winner": "BUHURT Tom",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BUHURT exploited slipstream from leadout rider on flat wet surface while FINNY opened early and lost traction.",
+      "BALLERINI rode defensively to protect breakaway rhythm rather than contest sprint despite omnium pedigree showing team priority."
+    ],
+    "rider_signals": {
+      "FINNY Taylor": "negative: rear wheel skipped on white line during sprint effort revealing bike handling vulnerability in wet conditions",
+      "BALLERINI Davide": "neutral: former omnium champion declined to contest intermediate sprint to maintain break tempo for Astana tactics"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-13T12:15:42.687500+00:00"
+}

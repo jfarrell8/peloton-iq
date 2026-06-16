@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-04",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "3aFO5waMRB0",
+    "title": "The breakaway is caught - Stage 1 (Chatou / Meudon) - Paris-Nice 2018",
+    "published": "2018-03-04 15:42:52+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=3aFO5waMRB0",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "3aFO5waMRB0",
+        "title": "The breakaway is caught - Stage 1 (Chatou / Meudon) - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 15:42:52+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "wr2asY76Vq8",
+        "title": "The escapees at the top of the Côte de Méridon - Stage 1 (Chatou / Meudon) - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 15:38:11+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Mtc7yme5qUg",
+        "title": "Résumé Flash - Étape 1 (Chatou / Meudon)  - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 19:20:01+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "tcAnz4GDz98",
+        "title": "The breakaway riders in the Côte des 17 tournants hill - Stage 1 (Chatou / Meudon) - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 15:33:53+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "EYkyZX4MA3I",
+        "title": "Summary - Stage 1 (Chatou / Meudon) - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 18:49:53+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Rk-LkhmyuDI",
+        "title": "Slow Mo Sprint by Tissot - Stage 1 (Chatou / Meudon) - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 16:12:09+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "vmaK0GKJ2KU",
+        "title": "Résumé - Étape 1 (Chatou / Meudon)  - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 17:50:04+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "PeIy2_m6R1I",
+        "title": "Flash Summary - Stage 1 (Chatou / Meudon)  - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 19:20:33+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "IXzymu3liGM",
+        "title": "Last Kilometer - Stage 1 (Chatou / Meudon)  - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-04 16:01:39+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "0A0ktsS0q3M",
+        "title": "Résumé Flash - Étape 2 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-05 18:15:04+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

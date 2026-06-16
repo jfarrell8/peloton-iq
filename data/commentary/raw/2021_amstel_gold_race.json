@@ -3,7 +3,37 @@
   "race_name": "Amstel Gold Race",
   "race_date": "2021-04-18",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "JyeLZvLN1M4",
+    "title": "Amstel Gold Race 2021 | Elite Men | Highlights | Cycling | Eurosport",
+    "published": "2021-04-18 19:56:36+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=JyeLZvLN1M4",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "JyeLZvLN1M4",
+        "title": "Amstel Gold Race 2021 | Elite Men | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-18 19:56:36+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "CZFsthnntZo",
+        "title": "Amstel Gold Race 2021 Preview | The Return Of The Ardennes!",
+        "channel": "GCN Racing",
+        "published": "2021-04-15 16:11:35+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "GAiy_8GF2_I",
+        "title": "Amstel Gold Race 2021 | Elite Women | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-18 22:26:15+00:00",
+        "match_score": -80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

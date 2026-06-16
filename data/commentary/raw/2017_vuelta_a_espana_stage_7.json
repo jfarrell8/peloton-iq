@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-08-25",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "ShkU1n1tKMc",
+    "title": "GoPro Highlights - Stage 7 - La Vuelta 2017",
+    "published": "2017-08-25 19:21:39+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=ShkU1n1tKMc",
+    "match_score": 183.46,
+    "all_candidates": [
+      {
+        "video_id": "ShkU1n1tKMc",
+        "title": "GoPro Highlights - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 19:21:39+00:00",
+        "match_score": 183.46
+      },
+      {
+        "video_id": "-79sRRyfltQ",
+        "title": "Last kilometer - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 15:46:10+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "TQGUPwqdNkE",
+        "title": "Sky leads the peloton - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 13:59:17+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "CTNCdDTuNKc",
+        "title": "13 km to go - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 15:25:51+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "UTu5jmVl060",
+        "title": "The gap is increasing - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 13:21:48+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "STmwr19Swcg",
+        "title": "Summary - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 17:28:53+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "21z8Dnt1JrA",
+        "title": "Résumé - Étape 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 17:01:09+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "eC73kiVMh-I",
+        "title": "Intermediate sprint - Stage 7 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-25 15:15:38+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "nN-bMufaT1Y",
+        "title": "GoPro Highlights - Stage 6 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-24 19:41:04+00:00",
+        "match_score": 133.46
+      },
+      {
+        "video_id": "oApDWBq-jpA",
+        "title": "GoPro Highlights - Stage 8 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-26 22:40:25+00:00",
+        "match_score": 133.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

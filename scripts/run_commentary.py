@@ -253,6 +253,14 @@ def parse_args() -> argparse.Namespace:
         "--status", action="store_true",
         help="Print pipeline status and exit",
     )
+    parser.add_argument(
+        "--fetch-nbc-older", action="store_true",
+        help="Fetch older NBC Sports videos (pre-2021) by skipping playlist pages",
+    )
+    parser.add_argument(
+        "--nbc-skip-pages", type=int, default=400,
+        help="Number of playlist pages to skip before collecting (default: 400 = ~20,000 videos)",
+    )
     return parser.parse_args()
 
 
@@ -268,6 +276,34 @@ def main() -> None:
 
     # Status at start
     show_status()
+
+    # NBC older fetch — run before cache refresh so new videos are included
+    if args.fetch_nbc_older:
+        section("NBC SPORTS — Fetch Older Videos")
+        from peloton_iq.commentary.youtube import YouTubeCacheManager
+        mgr = YouTubeCacheManager()
+        cache_df = mgr.merge_nbc_older_into_cache(skip_pages=args.nbc_skip_pages)
+        log.info("Cache now contains %d videos", len(cache_df) if cache_df is not None else 0)
+        if not hasattr(args, "rebuild_cache"):
+            args.rebuild_cache = False
+        # Skip the normal cache refresh since we just updated it
+        section("STEP 2 — Local Video Matching (zero quota)")
+        race_index = build_race_index()
+        step_local_matching(cache_df, race_index)
+        if not args.skip_transcripts:
+            step_fetch_transcripts(
+                race_index=race_index,
+                cache_df=cache_df,
+                max_transcripts=args.max_transcripts,
+                delay_seconds=args.delay,
+            )
+        if args.extract:
+            step_extract(max_extractions=args.max_extractions)
+        show_status()
+        log.info("=" * 60)
+        log.info("  COMMENTARY PIPELINE COMPLETE  (%.1fs total)", time.time() - t0)
+        log.info("=" * 60)
+        return
 
     # Build race index
     race_index = build_race_index()

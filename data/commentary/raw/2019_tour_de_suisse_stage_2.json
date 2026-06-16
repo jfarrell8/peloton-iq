@@ -3,7 +3,86 @@
   "race_name": "Tour de Suisse",
   "race_date": "2019-06-16",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "NYGJt5jXjfE",
+    "title": "Tour de Suisse 2019: Stage 2 highlights",
+    "published": "2019-06-16 18:25:07+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=NYGJt5jXjfE",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "NYGJt5jXjfE",
+        "title": "Tour de Suisse 2019: Stage 2 highlights",
+        "channel": "Velon",
+        "published": "2019-06-16 18:25:07+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "NhdYZx6dOrM",
+        "title": "Tour de Suisse 2019: Stage 1 highlights",
+        "channel": "Velon",
+        "published": "2019-06-15 21:58:44+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "_J2F5e_t4iY",
+        "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
+        "channel": "Velon",
+        "published": "2019-06-17 17:23:18+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "_5rhBF-l8PQ",
+        "title": "Tour de Romandie 2019 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-02 16:52:49+00:00",
+        "match_score": 78.18
+      },
+      {
+        "video_id": "mRONUvJn2Nk",
+        "title": "Tour de Romandie 2019 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-03 15:58:41+00:00",
+        "match_score": 78.18
+      },
+      {
+        "video_id": "eqmD6oXw-co",
+        "title": "Tour of Utah 2019 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-08-15 18:30:01+00:00",
+        "match_score": 75.22
+      },
+      {
+        "video_id": "5ctj4k3UZvE",
+        "title": "Tour of Guangxi 2019: Stage 2 Highlights",
+        "channel": "Velon",
+        "published": "2019-10-18 07:46:53+00:00",
+        "match_score": 74.58
+      },
+      {
+        "video_id": "SM6i3PTR358",
+        "title": "Tour of Guangxi 2019: Stage 2 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2019-10-18 13:19:08+00:00",
+        "match_score": 74.58
+      },
+      {
+        "video_id": "zyQ30fddcvE",
+        "title": "Tour of Britain 2019 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-09-09 14:45:01+00:00",
+        "match_score": 74.0
+      },
+      {
+        "video_id": "0hwzc_7nWaQ",
+        "title": "UAE Tour 2019 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-25 16:35:23+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

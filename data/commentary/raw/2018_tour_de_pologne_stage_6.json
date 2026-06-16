@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2018-08-09",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "YlZpW7oedMY",
+    "title": "Tour of Guangxi 2018: Stage 6 - extended highlights",
+    "published": "2018-10-22 03:49:49+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=YlZpW7oedMY",
+    "match_score": 89.81,
+    "all_candidates": [
+      {
+        "video_id": "Dymn6EjIxrg",
+        "title": "Tour de Pologne 2018 | Stage 6 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-10 10:19:03+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "o_f1fpskA5E",
+        "title": "Tour de Pologne 2018 | Stage 5 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-08 15:53:57+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "DyT3bbDMQfY",
+        "title": "Tour of Utah 2018 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-08-09 21:30:01+00:00",
+        "match_score": 94.29
+      },
+      {
+        "video_id": "VW8JtnpPjFc",
+        "title": "Tour of Utah 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-09 08:45:52+00:00",
+        "match_score": 94.29
+      },
+      {
+        "video_id": "YlZpW7oedMY",
+        "title": "Tour of Guangxi 2018: Stage 6 - extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-22 03:49:49+00:00",
+        "match_score": 89.81
+      },
+      {
+        "video_id": "f2DgmdU4NHM",
+        "title": "Tour of Utah 2018 | Stage 6 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-13 09:36:30+00:00",
+        "match_score": 89.29
+      },
+      {
+        "video_id": "aes2_yhzZlE",
+        "title": "Tour of Utah 2018 | Stage 6 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-08-13 22:30:01+00:00",
+        "match_score": 89.29
+      },
+      {
+        "video_id": "gXPMh7bky6M",
+        "title": "Tour of Utah 2018 | Stage 1 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-08 15:34:36+00:00",
+        "match_score": 84.29
+      },
+      {
+        "video_id": "5OcfPOXP9ok",
+        "title": "Tour of Utah 2018 | Stage 3 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-10 14:37:36+00:00",
+        "match_score": 84.29
+      },
+      {
+        "video_id": "6IUJgiKJ_mE",
+        "title": "Tour of Utah 2018 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-08-08 19:00:00+00:00",
+        "match_score": 84.29
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

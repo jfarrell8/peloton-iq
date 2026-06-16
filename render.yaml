@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: peloton-iq
+    runtime: python
+    buildCommand: pip install uv && uv pip install --system -e ".[api]"
+    startCommand: uvicorn peloton_iq.api.app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHONPATH
+        value: src
+      - key: PELOTON_ANTHROPIC_API_KEY
+        sync: false   # set in Render dashboard
+      - key: PELOTON_QDRANT_URL
+        sync: false   # set in Render dashboard (Qdrant Cloud URL)
+      - key: PELOTON_LOG_LEVEL
+        value: INFO

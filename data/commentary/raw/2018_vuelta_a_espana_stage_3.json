@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2018-08-27",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "QhgXX7N_Zyw",
+    "title": "Aerial - Stage 3 - La Vuelta 2018",
+    "published": "2018-08-27 14:00:39+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=QhgXX7N_Zyw",
+    "match_score": 163.46,
+    "all_candidates": [
+      {
+        "video_id": "QhgXX7N_Zyw",
+        "title": "Aerial - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 14:00:39+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "-ZgPd9tRuFc",
+        "title": "Polka-dot jersey - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 13:27:41+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "K4gj943a0W4",
+        "title": "Breakaway - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 13:24:19+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "zyFIFTiQK8w",
+        "title": "Onboard camera - Sequence of the day - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 18:19:42+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "0UxXBKG6goE",
+        "title": "Onboard camera - Sequence of the day (FINISH) - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 18:22:40+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "MLOWizb7mNU",
+        "title": "Résumé - Étape 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 17:46:32+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "a8TYC7Nq_KY",
+        "title": "Summary - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 18:06:46+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "SNNHmPmLlFQ",
+        "title": "Last kilometer - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 17:13:57+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "zkUjbOe79t8",
+        "title": "Breakaway ends - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 17:10:36+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "9aeqkDSSp4w",
+        "title": "Mijas - Stage 3 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-27 17:05:46+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

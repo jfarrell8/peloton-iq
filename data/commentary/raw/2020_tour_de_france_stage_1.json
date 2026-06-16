@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-08-29",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "qKY3S57-Cdk",
+    "title": "Tour de France 2020: Stage 1 on-bike highlights",
+    "published": "2020-08-29 19:15:31+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=qKY3S57-Cdk",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "qKY3S57-Cdk",
+        "title": "Tour de France 2020: Stage 1 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-08-29 19:15:31+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "_b5bKuW9pjY",
+        "title": "Kristoff wins stage 1 and gets the first yellow jersey! |  Stage 1 | Tour de France 2020 | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-08-29 19:33:42+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "bjkpy--_H2g",
+        "title": "Virtual Tour de France 2020 - Stage 1 : Highlights",
+        "channel": "Tour de France",
+        "published": "2020-07-04 18:24:05+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "KtHf_baxvSE",
+        "title": "Tour de France 2020: John Degenkolb on his Stage 1 crash",
+        "channel": "Velon",
+        "published": "2020-08-30 15:21:37+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "nw9-QpXlP4k",
+        "title": "Tour de France 2020 : Étape 2 - La tortue d’Hermann",
+        "channel": "Tour de France",
+        "published": "2020-08-30 12:00:13+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "By3ua_Jo5YQ",
+        "title": "#TDF2020 Le Tour de France for newbies",
+        "channel": "Tour de France",
+        "published": "2020-08-28 10:17:25+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "xtrGwDoFZx0",
+        "title": "#TDF2020 Le Tour de France pour les débutants",
+        "channel": "Tour de France",
+        "published": "2020-08-28 10:14:41+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "Efm4cBX_dOY",
+        "title": "Tour de France 2020 - Étape 10 vue du ciel / Stage 10 from the sky :  Île d'Oléron - Île de Ré",
+        "channel": "Tour de France",
+        "published": "2020-07-07 08:27:25+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "2w2Ev-FNcmE",
+        "title": "Tour de France 2020 - Étape 15 vue du ciel / Stage 15 from the sky : Lyon - Grand Colombier",
+        "channel": "Tour de France",
+        "published": "2020-07-12 08:00:01+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "yPNPq2OR2ME",
+        "title": "Tour de France 2020 - Étape 1 vue du ciel / Stage 1 from the sky : Nice",
+        "channel": "Tour de France",
+        "published": "2020-06-29 14:32:53+00:00",
+        "match_score": 115.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

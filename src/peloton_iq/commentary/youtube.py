@@ -34,10 +34,16 @@ log = logging.getLogger(__name__)
 
 # Channel priority tiers — higher = better match candidate
 CHANNEL_TIER = {
-    "NBC Sports":         3,
-    "GCN Racing":         2,
-    "TNT Sports Cycling": 1,
-    "GCN":                1,
+    'NBC Sports':         4,
+    'GCN Racing':         1,
+    'TNT Sports Cycling': 2,
+    'Tour de France':     4,   # official — TdF stages only
+    "Giro d'Italia":     4,   # official — Giro stages only
+    'La Vuelta':          4,   # official — Vuelta stages only
+    'Tour Down Under': 4,
+    'inCycle': 2,
+    'Velon': 2,
+    'TNT Sports': 2,
 }
 
 # Races where NBC Sports is strongly preferred
@@ -262,3 +268,113 @@ class YouTubeCacheManager:
         if not df.empty:
             df["published"] = pd.to_datetime(df["published"], utc=True)
         return df
+
+    def fetch_nbc_older(self, skip_pages: int = 400) -> pd.DataFrame:
+        """
+        Fetch older NBC Sports videos by skipping past the most recent
+        pages (already in cache) and collecting from there onwards.
+
+        The standard playlist pull captures the most recent ~20,000 videos
+        (400 pages × 50 results). NBC Sports has ~44,000 total, so the
+        oldest ~24,000 are unreachable via a standard pull.
+
+        This method skips to page `skip_pages` in the playlist and
+        fetches everything from that point onwards — effectively getting
+        the older half of the catalog.
+
+        Quota cost: ~900 units total (400 skip + 500 fetch × 1 unit/page).
+
+        Args:
+            skip_pages: Number of pages to skip before collecting.
+                        Default 400 = skip the most recent 20,000 videos
+                        already in your cache.
+
+        Returns:
+            DataFrame of older videos, ready to merge into the cache.
+        """
+        nbc_channel = next(
+            (c for c in self._channels if c["name"] == "NBC Sports"), None
+        )
+        if not nbc_channel:
+            log.error("NBC Sports not found in channel registry")
+            return pd.DataFrame()
+
+        playlist_id = self._get_upload_playlist(nbc_channel["id"])
+        if not playlist_id:
+            log.error("Could not get NBC Sports upload playlist")
+            return pd.DataFrame()
+
+        # Phase 1 — skip forward to the right position
+        log.info("NBC older fetch: skipping %d pages (this takes ~2 mins)...", skip_pages)
+        page_token = None
+        for i in range(skip_pages):
+            resp = self._fetch_playlist_page(playlist_id, page_token)
+            page_token = resp.get("nextPageToken")
+            if not page_token:
+                log.warning("Playlist ended at page %d — only %d pages exist", i, i)
+                return pd.DataFrame()
+            if i % 100 == 0 and i > 0:
+                log.info("  Skipped %d pages...", i)
+            time.sleep(0.05)
+
+        # Phase 2 — collect from here onwards
+        log.info("Collecting older NBC Sports videos from page %d onwards...", skip_pages)
+        rows  = []
+        pages = 0
+        while pages < 500:
+            resp   = self._fetch_playlist_page(playlist_id, page_token)
+            pages += 1
+            for item in resp.get("items", []):
+                s      = item["snippet"]
+                vid_id = s.get("resourceId", {}).get("videoId")
+                if not vid_id or s.get("title") == "Private video":
+                    continue
+                rows.append({
+                    "video_id":   vid_id,
+                    "title":      s["title"],
+                    "published":  s["publishedAt"],
+                    "channel":    "NBC Sports",
+                    "channel_id": nbc_channel["id"],
+                })
+            page_token = resp.get("nextPageToken")
+            if not page_token:
+                break
+            time.sleep(0.1)
+
+        df = pd.DataFrame(rows)
+        if not df.empty:
+            df["published"] = pd.to_datetime(df["published"], utc=True)
+        log.info(
+            "NBC older fetch complete: %d videos from pages %d-%d",
+            len(df), skip_pages, skip_pages + pages,
+        )
+        return df
+
+    def merge_nbc_older_into_cache(self, skip_pages: int = 400) -> pd.DataFrame:
+        """
+        Convenience method: fetch older NBC videos and merge into existing cache.
+
+        Returns the updated cache DataFrame.
+        """
+        if not self._cache_path.exists():
+            log.error("No cache found — run build_cache() first")
+            return pd.DataFrame()
+
+        existing  = pd.read_parquet(self._cache_path)
+        nbc_older = self.fetch_nbc_older(skip_pages=skip_pages)
+
+        if nbc_older.empty:
+            log.info("No older NBC videos found")
+            return existing
+
+        merged = (
+            pd.concat([existing, nbc_older], ignore_index=True)
+            .drop_duplicates("video_id")
+            .reset_index(drop=True)
+        )
+        merged.to_parquet(self._cache_path)
+        log.info(
+            "Cache updated: %d → %d (+%d NBC older videos)",
+            len(existing), len(merged), len(merged) - len(existing),
+        )
+        return merged

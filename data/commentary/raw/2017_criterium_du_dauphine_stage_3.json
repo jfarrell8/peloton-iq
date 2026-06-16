@@ -3,52 +3,7 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-06",
   "stage": 3,
-  "video": {
-    "video_id": "4AYZrDm5iJk",
-    "title": "Hammer Chase Explained – GCN Live Racing",
-    "url": "https://youtube.com/watch?v=4AYZrDm5iJk",
-    "channel": "GCN",
-    "published": "2017-06-04T10:25:42Z",
-    "match_score": 35.0,
-    "all_candidates": [
-      {
-        "video_id": "XyXYl-X3-yI",
-        "title": "Tour de France 2017: Stage 4 ends in chaos with two massive crashes | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-04T17:05:44Z",
-        "match_score": 16.43
-      },
-      {
-        "video_id": "4dh8r8EkwSE",
-        "title": "Thrilling sprint for points in Stage 2 of Tour de France",
-        "channel": "NBC Sports",
-        "published": "2017-07-02T13:17:10Z",
-        "match_score": 1.43
-      },
-      {
-        "video_id": "haLgLaKvAvM",
-        "title": "Tour de France 2017: After Valverde crash, TDF must become safer | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-01T21:16:14Z",
-        "match_score": 16.43
-      },
-      {
-        "video_id": "4AYZrDm5iJk",
-        "title": "Hammer Chase Explained – GCN Live Racing",
-        "channel": "GCN",
-        "published": "2017-06-04T10:25:42Z",
-        "match_score": 35.0
-      }
-    ]
-  },
-  "transcript": {
-    "snippet_count": 18,
-    "raw_chars": 722,
-    "clean_chars": 679,
-    "duration_mins": 0.8,
-    "clean_text": "- The Hammer Chase. The final Hammer Chase uses an extended version of the course used for the Hammer Sprint, at 14.9 kilometers long, which the teams will cover three times, giving a total distance of 45.7 kilometers. This will be the battleground for Sunday's deciding race. The teams will ride time trial bikes and have to stay in team formation, with no drafting allowed should they catch each other. Starting positions will be determined by the leaderboard after the first two days. A pulsating, thrilling pursuit will then ensue, where the teams chase each other toward the finish line. Whichever team crosses it first will win the first ever Hammer race. Expect fireworks.",
-    "preview_start": "- The Hammer Chase. The final Hammer Chase uses an extended version of the course used for the Hammer Sprint, at 14.9 kilometers long, which the teams will cover three times, giving a total distance of 45.7 kilometers. This will be the battleground for Sunday's deciding race. The teams will ride time trial bikes and have to stay in team formation, with no drafting allowed should they catch each other. Starting positions will be determined by the leaderboard after the first two days. A pulsating,",
-    "preview_end": "ng a total distance of 45.7 kilometers. This will be the battleground for Sunday's deciding race. The teams will ride time trial bikes and have to stay in team formation, with no drafting allowed should they catch each other. Starting positions will be determined by the leaderboard after the first two days. A pulsating, thrilling pursuit will then ensue, where the teams chase each other toward the finish line. Whichever team crosses it first will win the first ever Hammer race. Expect fireworks."
-  },
-  "status": "transcript_saved"
+  "video": null,
+  "transcript": null,
+  "status": "no_video_found"
 }

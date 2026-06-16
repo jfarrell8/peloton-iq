@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2017-08-02",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "MGVh5g6Yp_o",
+    "title": "Tour of Taihu Lake 2017 - Stage 5 - Full Race",
+    "published": "2017-10-15 06:28:56+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=MGVh5g6Yp_o",
+    "match_score": 77.29,
+    "all_candidates": [
+      {
+        "video_id": "MGVh5g6Yp_o",
+        "title": "Tour of Taihu Lake 2017 - Stage 5 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-15 06:28:56+00:00",
+        "match_score": 77.29
+      },
+      {
+        "video_id": "JrjWuLa5vag",
+        "title": "Tour of Guangxi 2017 Stage 5: TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 22:37:22+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "icdRnkKEyz4",
+        "title": "Tour of Guangxi 2017 | Stage 5 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-23 13:38:02+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "n1zKCgipdzM",
+        "title": "Highlights of BikeExchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 09:22:58+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "wAMgGK6dnNk",
+        "title": "Bolle Play Of The Day | Bike Exchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 04:54:00+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "t2NSFl7DGDc",
+        "title": "iiNet Sprint 1 | Bike Exchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 02:21:46+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "McidbQrfIRM",
+        "title": "Fan Cam | Bike Exchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 03:05:52+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "fbBT5hCasQc",
+        "title": "Final stages | Bike Exchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 04:31:36+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "KlYnoyGIg8w",
+        "title": "Subaru KOM | Bike Exchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 03:58:16+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "S2Qb6Ownc8s",
+        "title": "iiNet Sprint 2 | Bike Exchange Stage 5 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-21 03:19:20+00:00",
+        "match_score": 65.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

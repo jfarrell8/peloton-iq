@@ -3,7 +3,86 @@
   "race_name": "BinckBank Tour",
   "race_date": "2019-08-12",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "0i9QQyE7dwo",
+    "title": "BinckBank Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+    "published": "2019-08-12 15:33:03+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=0i9QQyE7dwo",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "0i9QQyE7dwo",
+        "title": "BinckBank Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-12 15:33:03+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "9yzwNAvbVO4",
+        "title": "Tour of Utah 2019 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-08-14 18:30:01+00:00",
+        "match_score": 106.11
+      },
+      {
+        "video_id": "0WleWDN4XTI",
+        "title": "BinckBank Tour 2019 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-13 16:43:13+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "LOgogZ0QkjQ",
+        "title": "Tour of Utah 2019 | Prologue Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-08-13 18:30:00+00:00",
+        "match_score": 81.11
+      },
+      {
+        "video_id": "TwMvu6o1Ghc",
+        "title": "BinckBank Tour 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-14 16:09:40+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "9noLNGPM_LQ",
+        "title": "BinckBank Tour 2019 | Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-15 16:44:08+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "Kr08H3uG4bE",
+        "title": "UAE Tour 2019 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-02-25 12:54:52+00:00",
+        "match_score": 73.64
+      },
+      {
+        "video_id": "G6_-s5GlWSE",
+        "title": "UAE Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-25 11:54:19+00:00",
+        "match_score": 73.64
+      },
+      {
+        "video_id": "ERXd2AjpBj4",
+        "title": "Tour de France 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-07-06 18:19:15+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "t-zcO5TDVvM",
+        "title": "Tour de France 2019 | Stage 11 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-07-17 16:40:10+00:00",
+        "match_score": 71.11
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

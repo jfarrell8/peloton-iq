@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-18",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "9NawUDWHzYo",
+    "title": "Giro d'Italia 2019 | Stage 8 | Highlights",
+    "published": "2019-05-18 16:21:25+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=9NawUDWHzYo",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "9NawUDWHzYo",
+        "title": "Giro d'Italia 2019 | Stage 8 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-18 16:21:25+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "lTgOEg8Xrbw",
+        "title": "Giro d'Italia 2019 | Stage 8 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-18 15:41:31+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "sUMJHrn95LQ",
+        "title": "Giro d'Italia 2019 | Stage 8 | Inteviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-18 16:28:01+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "e69HgObEoOU",
+        "title": "Giro d'Italia 2019 | Stage 8 Start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-18 10:49:15+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "ISodIr5QAB0",
+        "title": "Giro d'Italia 2019 | Stage 8 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-18 07:00:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "UuDrc7ALb20",
+        "title": "Giro d'Italia 2019 | Stage 8 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-18 17:35:41+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "gJ3Ln6dwvt4",
+        "title": "Giro d'Italia 2019 | Stage 7 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-17 16:08:21+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "JivMRLK8qMw",
+        "title": "Giro d'Italia 2019 | Stage 9 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-19 16:27:26+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "3Q15ctAOpXQ",
+        "title": "Giro d’Italia 2019 | Stage 8 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-18 15:54:57+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "0xNeh2DhHBI",
+        "title": "The Breakaway: Stage 8 Analysis | Giro d’Italia 2019 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-18 16:11:59+00:00",
+        "match_score": 138.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

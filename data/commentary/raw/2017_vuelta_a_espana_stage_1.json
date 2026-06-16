@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-08-19",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "13nLJQeF3b4",
+    "title": "GoPro Highlights - Stage 1 - La Vuelta 2017",
+    "published": "2017-08-19 23:29:07+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=13nLJQeF3b4",
+    "match_score": 183.46,
+    "all_candidates": [
+      {
+        "video_id": "13nLJQeF3b4",
+        "title": "GoPro Highlights - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 23:29:07+00:00",
+        "match_score": 183.46
+      },
+      {
+        "video_id": "YP-jhTeCRv0",
+        "title": "Near live - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 16:06:20+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "-_V-jb1FfuI",
+        "title": "Résumé - Étape 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 18:39:34+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "4y6zcIQpEV0",
+        "title": "Near live - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 16:52:12+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "V2jGEIfUd7I",
+        "title": "BMC's last kilometer - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 17:35:48+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "6JtwXrHdits",
+        "title": "Summary - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 19:22:03+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "OWNcJjpe0kY",
+        "title": "Near live - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 15:37:37+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "YNzsHYVPR1o",
+        "title": "Near live - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 16:32:58+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "dpiSJ2jDYbQ",
+        "title": "GoPro Highlights - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 19:01:31+00:00",
+        "match_score": 133.46
+      },
+      {
+        "video_id": "gIR3j2NEBeA",
+        "title": "GoPro Highlights - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 23:36:17+00:00",
+        "match_score": 123.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

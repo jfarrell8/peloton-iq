@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2021-03-13",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "pjTVCjxCIP8",
+    "title": "Paris-Nice 2021 - Découvrez l'étape 7",
+    "published": "2021-01-06 10:30:12+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=pjTVCjxCIP8",
+    "match_score": 75.0,
+    "all_candidates": [
+      {
+        "video_id": "pjTVCjxCIP8",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 7",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:12+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "utlQBkQE5XU",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 5",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:15+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "GGXwxr40T04",
+        "title": "Paris-Nice 2021 - Découvrez le parcours / Discover the route",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:02+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "oBgDWboEWCw",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 1",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:10+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "p8JPQvT_nW4",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 6",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:07+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "bMnuJnIN14s",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 4",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:04+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "6Ln0ifkWgIM",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 2",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:00+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "P2qKD4MyDaE",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 8",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:01+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "BltnHQxwjvs",
+        "title": "Paris-Nice 2021 - Découvrez l'étape 3",
+        "channel": "Tour de France",
+        "published": "2021-01-06 10:30:00+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "roX3uOW4G-g",
+        "title": "Paris-Nice 2021 Preview | Who Will Win The Race To The Sun?",
+        "channel": "GCN Racing",
+        "published": "2021-03-05 16:27:13+00:00",
+        "match_score": 5.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

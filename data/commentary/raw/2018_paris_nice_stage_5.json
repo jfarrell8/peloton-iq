@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-08",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "oxCI2gj6Q1U",
+    "title": "Last Kilometer - Stage 5 - Paris-Nice 2018",
+    "published": "2018-03-08 16:41:47+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=oxCI2gj6Q1U",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "oxCI2gj6Q1U",
+        "title": "Last Kilometer - Stage 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 16:41:47+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "PywUWmQ13v4",
+        "title": "Flash Summary - Stage 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 17:22:16+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "56aF5zpCSmM",
+        "title": "Résumé - Étape 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 17:17:40+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "W1kshyuFP9Y",
+        "title": "Two in the lead - Stage 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 16:41:03+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "fpH4CIZDZtU",
+        "title": "Résumé Flash - Étape 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 17:10:30+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "UTmeP0z8iBE",
+        "title": "20 kilometers to go - Stage 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 16:40:51+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "m3jAZF-vDDg",
+        "title": "Summary - Stage 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 18:08:20+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "thX6kON5NZc",
+        "title": "Luis León Sánchez - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:10:06+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "CQPDBnSinAA",
+        "title": "Summary - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 17:22:19+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "sWPSUaEdvTw",
+        "title": "David de la Cruz - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:00:48+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

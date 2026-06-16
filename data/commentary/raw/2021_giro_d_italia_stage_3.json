@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2021-05-10",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "svkjSlFfEbc",
+    "title": "Giro d’Italia 2021 | Stage 3 | Highlights",
+    "published": "2021-05-10 17:46:03+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=svkjSlFfEbc",
+    "match_score": 193.08,
+    "all_candidates": [
+      {
+        "video_id": "svkjSlFfEbc",
+        "title": "Giro d’Italia 2021 | Stage 3 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 17:46:03+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "eGOtQlAL4II",
+        "title": "Giro d’Italia 2021 | Stage 3 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 17:50:02+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "sSV9ssQ_SZ0",
+        "title": "Giro d'Italia 2021 | Stage 3 Press Conference",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 16:07:01+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "cwqWaFvfhmc",
+        "title": "Giro d'Italia 2021 | Stage 3 | Risotto, Stafforella, asparagi e nocciole",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 10:00:13+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Er9vgS41OqY",
+        "title": "Giro d’Italia 2021 | The Route | Stage 3",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 07:00:07+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "hLVNByp6CE8",
+        "title": "Giro d’Italia 2021 | Stage 3 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 15:27:43+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "2WOhAFjjDp4",
+        "title": "On-Bike Highlights from Stage 3 Giro d'Italia 2021",
+        "channel": "Velon",
+        "published": "2021-05-10 19:02:43+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "DEKe9WIL5_I",
+        "title": "Giro d’Italia 2021 | Stage 2 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 18:28:51+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "YpVFzu9-ssw",
+        "title": "Giro d’Italia 2021 | Stage 2 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 18:16:10+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "RLuQsivHkTs",
+        "title": "Giro d’Italia 2021 | Stage 3 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-10 17:06:35+00:00",
+        "match_score": 143.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tour de Romandie",
   "race_date": "2017-04-28",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "HvDdEOgHpxY",
+    "title": "Tour of Taihu Lake 2017 - Stage 3 - Full Race",
+    "published": "2017-10-13 05:41:59+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=HvDdEOgHpxY",
+    "match_score": 77.81,
+    "all_candidates": [
+      {
+        "video_id": "HvDdEOgHpxY",
+        "title": "Tour of Taihu Lake 2017 - Stage 3 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-13 05:41:59+00:00",
+        "match_score": 77.81
+      },
+      {
+        "video_id": "DhUR0eOggOM",
+        "title": "Tour of Guangxi 2017 | Stage 3 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-21 11:58:54+00:00",
+        "match_score": 74.52
+      },
+      {
+        "video_id": "cjHdX8nj0p0",
+        "title": "Tour of Guangxi 2017: Stage 3 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 21:26:12+00:00",
+        "match_score": 74.52
+      },
+      {
+        "video_id": "cRUbf6W4WFg",
+        "title": "Tour of Alberta 2017 - Stage 3 Highlights",
+        "channel": "inCycle",
+        "published": "2017-09-04 11:11:29+00:00",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "lPj67KYOqpY",
+        "title": "Abu Dhabi Tour 2017: Stage 3 TV highlights",
+        "channel": "Velon",
+        "published": "2017-02-26 05:05:09+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "y5kzmcl4zaw",
+        "title": "Abu Dhabi Tour 2017: Stage 3 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-02-25 20:05:03+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "wjeYNKhNzfM",
+        "title": "Tour of Guangxi 2017 | Fernando Gaviria wins Stage 3",
+        "channel": "Velon",
+        "published": "2017-10-21 09:29:13+00:00",
+        "match_score": 69.52
+      },
+      {
+        "video_id": "HgJ126MFNBs",
+        "title": "Latour and Combaud leading - Stage 3 (Chablis / Chalon-sur-Saône) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-07 16:05:16+00:00",
+        "match_score": 67.19
+      },
+      {
+        "video_id": "AdwfFoEIdTU",
+        "title": "iiNet Sprint 2 | Hansgrohe Stage 3 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-19 02:42:40+00:00",
+        "match_score": 66.13
+      },
+      {
+        "video_id": "dfsKHtlzBgI",
+        "title": "Subaru KOM | Hansgrohe Stage 3 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-19 01:59:36+00:00",
+        "match_score": 66.13
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

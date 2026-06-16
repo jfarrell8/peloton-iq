@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-06-02",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "Q36xHM_T5yI",
+    "title": "2021 Critérium du Dauphiné  - Stage 4 Highlights | Cycling | Eurosport",
+    "published": "2021-06-02 17:02:45+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=Q36xHM_T5yI",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "Q36xHM_T5yI",
+        "title": "2021 Critérium du Dauphiné  - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-02 17:02:45+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "rHQVBvXWD9U",
+        "title": "#Dauphiné 2021 - Stage 4 - Highlights: The right mix for Lutsenko",
+        "channel": "Tour de France",
+        "published": "2021-06-02 17:07:05+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "z-BLp980Pkk",
+        "title": "#Dauphiné 2021- Stage 4 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-06-02 14:20:15+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "Ta8UhpLlDAA",
+        "title": "#Dauphiné 2021 - Stage 4 - LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-02 16:04:49+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "QZN3DaRKArw",
+        "title": "#Dauphiné 2021- Stage 4 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-02 16:15:21+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "l65NpbDD1Mk",
+        "title": "#Dauphiné 2021 - Étape 4 - Résumé: Lutsenko, le bon alliage",
+        "channel": "Tour de France",
+        "published": "2021-06-02 16:54:03+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "arbLjYI1DBk",
+        "title": "2021 Critérium du Dauphiné  - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-03 15:49:51+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "44_SeXKhBuE",
+        "title": "2021 Critérium du Dauphiné  - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-01 15:31:30+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "kXMFd9e-vhs",
+        "title": "Tour de Suisse 2021: Stage 4 Full Highlights",
+        "channel": "Velon",
+        "published": "2021-06-09 17:21:57+00:00",
+        "match_score": 86.43
+      },
+      {
+        "video_id": "Gc8pk7PAj-w",
+        "title": "Tour de Suisse 2021: Stage 4 On-bike Highlights",
+        "channel": "Velon",
+        "published": "2021-06-09 18:10:30+00:00",
+        "match_score": 86.43
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-07",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "thX6kON5NZc",
+    "title": "Luis León Sánchez - Stage 4 - Paris-Nice 2018",
+    "published": "2018-03-07 15:10:06+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=thX6kON5NZc",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "thX6kON5NZc",
+        "title": "Luis León Sánchez - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:10:06+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "JmRO-uGcBr0",
+        "title": "Julian Alaphilippe - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:09:52+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "CQPDBnSinAA",
+        "title": "Summary - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 17:22:19+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "FfjA-65Nfv4",
+        "title": "Flash Summary - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 17:38:13+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "1uuRkVyeQ1k",
+        "title": "Jakob Fuglsang - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 14:54:12+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "sWPSUaEdvTw",
+        "title": "David de la Cruz - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:00:48+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "RQZflKSZNiY",
+        "title": "Résumé - Étape 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 16:56:43+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "NswtCa5iBNk",
+        "title": "Résumé Flash - Étape 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 17:07:52+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "qmtEIQVsZzA",
+        "title": "Wout Poels - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:39:06+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "luXzLzKw3k0",
+        "title": "Luis León Sánchez arrival - Stage 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 15:39:22+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

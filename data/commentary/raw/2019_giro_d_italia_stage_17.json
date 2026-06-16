@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-29",
   "stage": 17,
-  "video": null,
+  "video": {
+    "video_id": "D6b7on6AYuQ",
+    "title": "Giro d'Italia 2019 | Stage 17 | Highlights",
+    "published": "2019-05-29 16:14:56+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=D6b7on6AYuQ",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "D6b7on6AYuQ",
+        "title": "Giro d'Italia 2019 | Stage 17 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 16:14:56+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "zVBaI2Xf62U",
+        "title": "Giro d'Italia 2019 | Stage 17 | Last km",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 16:13:43+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "g_ZNSiEGEuc",
+        "title": "Giro d'Italia 2019 | Stage 17 | Carovana",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 11:52:05+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Bm85YRQiSaE",
+        "title": "Giro d'Italia 2019 | Stage 17 | Pre-start inverviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 15:45:14+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "BcaxKRo63Cg",
+        "title": "Giro d'Italia 2019 | Stage 17 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 17:55:45+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "BoekLMia1vA",
+        "title": "Giro d'Italia 2019 | Stage 17 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 11:17:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "IqW1TcHXKdA",
+        "title": "Giro d'Italia 2019 | Stage 17 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 07:00:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Z27rV7QQOUU",
+        "title": "Giro d'Italia 2019 | Stage 18 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-30 16:04:55+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "8ctOp3wCc3Y",
+        "title": "Giro d'Italia 2019 | Stage 16 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-28 17:55:05+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "FE7RkGbxycE",
+        "title": "Giro d'Italia 2019 | stage 17 | Interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-29 16:56:13+00:00",
+        "match_score": 145.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

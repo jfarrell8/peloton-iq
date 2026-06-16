@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2018-08-26",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "XVjmrBzkxo4",
+    "title": "Aereal - Stage 2 - La Vuelta 2018",
+    "published": "2018-08-26 20:19:57+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=XVjmrBzkxo4",
+    "match_score": 163.46,
+    "all_candidates": [
+      {
+        "video_id": "XVjmrBzkxo4",
+        "title": "Aereal - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:19:57+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "uiSnEmU5ZEI",
+        "title": "Bottles - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:21:47+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "U4gTI0GRCUA",
+        "title": "Attacks - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:23:03+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "ZjNWjO6tjLE",
+        "title": "Slow motion - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:23:51+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "WxZnmuhJAvs",
+        "title": "Peloton - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:15:00+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "0QvXL3tN728",
+        "title": "Leaders - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:15:51+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "SGZY3cdSLJA",
+        "title": "Breakaway KO - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:25:37+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "OndauCSqq94",
+        "title": "Last kilometer - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:31:22+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "y5SzvOevCLk",
+        "title": "Summary - Stage 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 20:53:58+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "doTlsWbwu7g",
+        "title": "Résumé - Étape 2 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-08-26 21:02:44+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

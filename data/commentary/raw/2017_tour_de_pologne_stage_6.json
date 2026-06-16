@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2017-08-03",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "RRb1tiIERyM",
+    "title": "Tour of Taihu Lake 2017 - Stage 6 - Full Race",
+    "published": "2017-10-16 05:43:42+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=RRb1tiIERyM",
+    "match_score": 77.29,
+    "all_candidates": [
+      {
+        "video_id": "RRb1tiIERyM",
+        "title": "Tour of Taihu Lake 2017 - Stage 6 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-16 05:43:42+00:00",
+        "match_score": 77.29
+      },
+      {
+        "video_id": "ebFtgAxrqPc",
+        "title": "Tour of Guangxi 2017: Stage 6 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-07 00:05:07+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "8zHfuJE-RAE",
+        "title": "Tour of Guangxi 2017 | Stage 6 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-24 13:25:47+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "4eoOjrBn9SQ",
+        "title": "Subaru KOM | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 04:03:34+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "-0PAysyUHW0",
+        "title": "Subaru KOM 2 | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 04:32:49+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "aJEVXvEsei0",
+        "title": "Final stages | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 05:03:53+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "PGxZLavJ5W0",
+        "title": "Bolle Play Of The Day | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 05:34:30+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "6Ddzsx8TQD0",
+        "title": "Fan Cam | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 02:47:55+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "X9G8gwQnr1E",
+        "title": "iiNet Sprint 1 | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 03:54:07+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "DHD34qKB4O8",
+        "title": "iiNet Sprint 2 | Be Safe Be Seen MAC Stage 6 | 2017 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2017-01-22 04:17:18+00:00",
+        "match_score": 65.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

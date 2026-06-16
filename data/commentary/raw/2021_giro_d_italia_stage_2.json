@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2021-05-09",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "YpVFzu9-ssw",
+    "title": "Giro d’Italia 2021 | Stage 2 | Highlights",
+    "published": "2021-05-09 18:16:10+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=YpVFzu9-ssw",
+    "match_score": 193.08,
+    "all_candidates": [
+      {
+        "video_id": "YpVFzu9-ssw",
+        "title": "Giro d’Italia 2021 | Stage 2 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 18:16:10+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "DEKe9WIL5_I",
+        "title": "Giro d’Italia 2021 | Stage 2 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 18:28:51+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "k8rwmCt543w",
+        "title": "Giro d'Italia 2021 | Stage 2 | Sashimi di Trota",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 10:00:32+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Oi60Z5RowLQ",
+        "title": "Giro d'Italia 2021 | Stage 2 | GPM Vincenzo Albanese",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 13:50:05+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "GbwQJ_oI0i0",
+        "title": "Giro d’Italia 2021 | Stage 2 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 15:55:55+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "lAK2S1dctos",
+        "title": "Giro d’Italia 2021 | The Route | Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-09 07:00:17+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "RjjJWNkq4iU",
+        "title": "On-bike highlights from Stage 2 Giro d'Italia 2021",
+        "channel": "Velon",
+        "published": "2021-05-09 20:53:23+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "-yW-_EJY-r8",
+        "title": "Highlights of Giro d'Italia 2021 Stage 2",
+        "channel": "Velon",
+        "published": "2021-05-09 17:29:54+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "1gbLS3OV840",
+        "title": "Giro d’Italia 2021 | Stage 1 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 18:49:48+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "j0vmsGaMblc",
+        "title": "Giro d’Italia 2021 | Stage 1 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 18:47:42+00:00",
+        "match_score": 143.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

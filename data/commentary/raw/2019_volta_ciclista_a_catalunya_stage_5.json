@@ -3,7 +3,86 @@
   "race_name": "Volta Ciclista a Catalunya",
   "race_date": "2019-03-29",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "ycz_-zZ3Ivw",
+    "title": "Never Write-Off Michael Matthews | Can He Win a 2019 Spring Classic? | inCycle",
+    "published": "2019-03-29 20:00:03+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=ycz_-zZ3Ivw",
+    "match_score": 85.58,
+    "all_candidates": [
+      {
+        "video_id": "ycz_-zZ3Ivw",
+        "title": "Never Write-Off Michael Matthews | Can He Win a 2019 Spring Classic? | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-29 20:00:03+00:00",
+        "match_score": 85.58
+      },
+      {
+        "video_id": "O5qknhT8SHY",
+        "title": "Velon's 2019 Team Quiz: Deceuninck - Quick-Step Cycling Team",
+        "channel": "Velon",
+        "published": "2019-03-28 16:38:37+00:00",
+        "match_score": 75.71
+      },
+      {
+        "video_id": "GlmEufrfDqY",
+        "title": "Vuelta a Valencia 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-10 16:53:10+00:00",
+        "match_score": 72.79
+      },
+      {
+        "video_id": "vVK4KM01EKw",
+        "title": "BinckBank Tour 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-16 18:07:51+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "621mSvH0fK0",
+        "title": "Giro d’Italia 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-15 19:29:30+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "1GzYahbkzoY",
+        "title": "Tour de Romandie 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-05 14:41:31+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "0QlL-vszVMA",
+        "title": "Tour de France 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-07-10 16:56:19+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "zwVjd0qysgQ",
+        "title": "Paris-Nice 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-15 10:46:08+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "Z89C93CPNQk",
+        "title": "Critérium du Dauphiné 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-06-13 17:08:15+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "r5dOMxQg-rU",
+        "title": "Vuelta a España 2019 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-28 17:37:23+00:00",
+        "match_score": 71.54
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

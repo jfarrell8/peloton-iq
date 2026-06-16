@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-14",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "iPDanBuDKOs",
+    "title": "Neutralised stage - Stage 8 - Tour de France 2018",
+    "published": "2018-07-14 09:39:19+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=iPDanBuDKOs",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "iPDanBuDKOs",
+        "title": "Neutralised stage - Stage 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 09:39:19+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "v-eEMS3C5po",
+        "title": "Presentation - Stage 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 05:00:03+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Pg2fym7vFF0",
+        "title": "Présentation - Étape 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 05:00:01+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "pbJvKmFTWXA",
+        "title": "La minute Maillot Jaune LCL - Étape 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 16:01:50+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Kz_oqyqS_YY",
+        "title": "Résumé - Étape 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 16:02:22+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "pfb8cDxCXAk",
+        "title": "Summary - Stage 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 16:26:52+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "uM7wGCrSi5E",
+        "title": "French cavalry on the Tour - Stage 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 11:22:59+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "AvR_W5gD6bw",
+        "title": "La minute Maillot Blanc Krys - Étape 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 16:48:46+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "sGXD2ddVoiA",
+        "title": "La minute Maillot à pois Carrefour - Étape 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 17:00:54+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "LI5MUTrg8CU",
+        "title": "Onboard camera - Sequence of the day - Stage 8 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-14 17:00:54+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

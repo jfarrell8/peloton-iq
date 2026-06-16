@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2019-03-10",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "EEZFlZaJWYE",
+    "title": "Yellow Jersey Minute - Stage 1 - Paris-Nice 2019",
+    "published": "2019-03-10 15:25:03+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=EEZFlZaJWYE",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "EEZFlZaJWYE",
+        "title": "Yellow Jersey Minute - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 15:25:03+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "whJ32LD-N0Y",
+        "title": "Résumé - Étape 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 16:47:20+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "hArEMvE4WKQ",
+        "title": "Summary - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 16:48:33+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "-3QXjr4rvcU",
+        "title": "Paris-Nice 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-11 12:45:27+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "m_ZrE7aes6s",
+        "title": "Near Live Video - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 13:05:51+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "-q3yee-Q8pM",
+        "title": "Offroads - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 13:07:40+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "CK-8iWFXTuI",
+        "title": "Straight Lines - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 13:17:18+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Q2B8HP-fnvw",
+        "title": "Crash on day one - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 13:25:59+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "P8HfZGQoQa0",
+        "title": "Pony Race - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 13:56:45+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "uPPW08yV2xE",
+        "title": "Sky Upfront - Stage 1 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-10 13:57:56+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

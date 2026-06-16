@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2022-08-02",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "wQqEs6W8EN4",
+    "title": "Wout Van Aert Masterclass In Calais! | Tour De France 2022 Stage 4 Highlights",
+    "published": "2022-07-05 16:34:18+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=wQqEs6W8EN4",
+    "match_score": 76.67,
+    "all_candidates": [
+      {
+        "video_id": "wQqEs6W8EN4",
+        "title": "Wout Van Aert Masterclass In Calais! | Tour De France 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-05 16:34:18+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "85uOfS3Gib0",
+        "title": "Long Mountain Finish On The Queen Stage! | Tour De Romandie 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-30 15:24:14+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "2QpW4NCRMGY",
+        "title": "Sprinters Try To Cling On Over Final Climb | Tour De Suisse 2022 Men's Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-15 16:59:40+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "Om7dXwMxmBE",
+        "title": "Delight Or Heartbreak For Thibaut Pinot? | Tour Of The Alps 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-21 14:54:18+00:00",
+        "match_score": 73.33
+      },
+      {
+        "video_id": "UfxJuC3mb0E",
+        "title": "Decisive Showdown On 20% Climb | Saudi Tour 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-04 14:03:07+00:00",
+        "match_score": 73.33
+      },
+      {
+        "video_id": "sexqqO4792M",
+        "title": "Sprint To The Summit! | UAE Tour 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-23 16:17:26+00:00",
+        "match_score": 73.33
+      },
+      {
+        "video_id": "dp24RgA6oIo",
+        "title": "Final GC Decided On Mount Etna! | Tour Of Sicily 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-04-15 15:06:49+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "VYfT7YAh7Xc",
+        "title": "Nervous Racing As Break Fights For Victory!  | Tour Of Scandinavia 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-12 17:20:02+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "YZ9ynIgqp30",
+        "title": "Late Attack In The Finale Causes Split | Tour Of Britain 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-09-07 16:56:55+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "Q-zvd5OMjo4",
+        "title": "Riders Left In The Dust On The Gravel | Tour De France Femmes Avec Zwift 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-27 16:13:07+00:00",
+        "match_score": 61.67
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

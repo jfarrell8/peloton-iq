@@ -3,7 +3,86 @@
   "race_name": "Benelux Tour",
   "race_date": "2021-09-03",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "DnNLg3lEPjU",
+    "title": "2021 Baloise Belgium Tour - Stage 5 | Highlights | Cycling | Eurosport",
+    "published": "2021-06-13 15:54:15+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=DnNLg3lEPjU",
+    "match_score": 78.75,
+    "all_candidates": [
+      {
+        "video_id": "DnNLg3lEPjU",
+        "title": "2021 Baloise Belgium Tour - Stage 5 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-13 15:54:15+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "spcm9gKmX1Q",
+        "title": "UAE Tour 2021 highlights: Mountain battle on Stage 5",
+        "channel": "Velon",
+        "published": "2021-02-25 15:33:34+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "qbbNLOGP_8w",
+        "title": "UAE Tour 2021 - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-02-25 17:43:05+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "XBGu4vdfN1s",
+        "title": "UAE Tour 2021 | Stage 5 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-02-26 13:00:09+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "dztELNregXU",
+        "title": "Tour de Romandie 2021 - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-05 09:00:11+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "-boFcPg3VxA",
+        "title": "Tour de France 2021: Stage 5 Highlights",
+        "channel": "Velon",
+        "published": "2021-06-30 18:42:14+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "dht-dwRRdRg",
+        "title": "Tour de France 2021: Stage 5 On-bike highlights",
+        "channel": "Velon",
+        "published": "2021-06-30 17:15:28+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "untpVsviyzU",
+        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-15 14:54:11+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "tEtJdRs_mww",
+        "title": "Tour de Suisse 2021: Stage 5 On-bike highlights",
+        "channel": "Velon",
+        "published": "2021-06-10 18:23:07+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "On8T5aw6sNE",
+        "title": "Tour de Suisse 2021: Stage 5 Full Highlights",
+        "channel": "Velon",
+        "published": "2021-06-10 17:01:15+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

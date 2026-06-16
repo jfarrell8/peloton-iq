@@ -3,7 +3,86 @@
   "race_name": "Itzulia Basque Country",
   "race_date": "2019-04-10",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "caNGrKBe42c",
+    "title": "How The Race Was Won | Tour of Flanders 2019 Highlights | Cycling | Eurosport",
+    "published": "2019-04-09 09:22:30+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=caNGrKBe42c",
+    "match_score": 80.23,
+    "all_candidates": [
+      {
+        "video_id": "caNGrKBe42c",
+        "title": "How The Race Was Won | Tour of Flanders 2019 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-04-09 09:22:30+00:00",
+        "match_score": 80.23
+      },
+      {
+        "video_id": "x9pp0mWH5jQ",
+        "title": "Il Giro di Sicilia 2019 | Best of Stage 3",
+        "channel": "Giro d'Italia",
+        "published": "2019-04-05 16:45:02+00:00",
+        "match_score": 76.36
+      },
+      {
+        "video_id": "YrOTI1Q1M1k",
+        "title": "UAE Tour 2019 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-02-27 13:00:08+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "Iz02N2AuAk4",
+        "title": "UAE Tour 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-26 14:25:46+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "Iv8jj5ahH9A",
+        "title": "Giro d’Italia 2019 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-14 09:25:50+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "YmWHn8-j72g",
+        "title": "Giro d’Italia 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-13 16:45:30+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "OMY6TS6kudI",
+        "title": "Tour de Romandie 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-03 16:22:18+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "X6F6suf4O3I",
+        "title": "Tour de Romandie 2019 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-04 15:27:49+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "eF97QRmMxys",
+        "title": "UAE Tour 2019: Alejandro Valverde storms Jebel Hafeet on Stage 3",
+        "channel": "Velon",
+        "published": "2019-02-26 16:02:13+00:00",
+        "match_score": 66.67
+      },
+      {
+        "video_id": "VCopMDHcJrY",
+        "title": "Arctic Race Of Norway 2019 Stage 3 Highlights: Sortland - Storheia Summit Finish | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-17 18:14:28+00:00",
+        "match_score": 66.63
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

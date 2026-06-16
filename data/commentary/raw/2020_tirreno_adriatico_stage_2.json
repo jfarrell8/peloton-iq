@@ -3,7 +3,86 @@
   "race_name": "Tirreno Adriatico",
   "race_date": "2020-09-08",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "da28tk3qU1A",
+    "title": "Tirreno Adriatico 2020 - Stage 2 Highlights | Cycling | Eurosport",
+    "published": "2020-09-08 19:16:09+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=da28tk3qU1A",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "da28tk3qU1A",
+        "title": "Tirreno Adriatico 2020 - Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-08 19:16:09+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "XdAfJHUdCSU",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 2 Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-08 16:21:21+00:00",
+        "match_score": 138.53
+      },
+      {
+        "video_id": "djVkC_Yeueo",
+        "title": "Tirreno-Adriatico 2020 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-09-09 11:00:10+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "9knkh_Xxqmo",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 2 Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-08 16:44:41+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "a0E579xGaXY",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 2 Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-08 16:14:52+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "OxOYPyZ1YMY",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 2 - The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-08 11:38:36+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "AslFev9MmFg",
+        "title": "Tirreno-Adriatico EOLO 2020 |  Stage 2 The Route",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-08 06:38:52+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "WKDKeUIcsDs",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 2 Interviews Post-Race",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-08 16:27:24+00:00",
+        "match_score": 103.53
+      },
+      {
+        "video_id": "ii9mAMgOXg8",
+        "title": "Tirreno-Adriatico 2020 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-09-08 11:00:09+00:00",
+        "match_score": 103.53
+      },
+      {
+        "video_id": "eAdzYgfOGbQ",
+        "title": "Tirreno Adriatico 2020 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-09 17:41:01+00:00",
+        "match_score": 95.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

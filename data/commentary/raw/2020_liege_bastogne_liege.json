@@ -3,7 +3,86 @@
   "race_name": "Liege-Bastogne-Liege",
   "race_date": "2020-10-04",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "nxqBfMiotFk",
+    "title": "Liège-Bastogne-Liège Men's 2020 - Highlights | Cycling | Eurosport",
+    "published": "2020-10-04 18:46:19+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=nxqBfMiotFk",
+    "match_score": 112.5,
+    "all_candidates": [
+      {
+        "video_id": "nxqBfMiotFk",
+        "title": "Liège-Bastogne-Liège Men's 2020 - Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-04 18:46:19+00:00",
+        "match_score": 112.5
+      },
+      {
+        "video_id": "Rl5P3kq9msY",
+        "title": "Highlights - Liège-Bastogne-Liège 2020",
+        "channel": "Tour de France",
+        "published": "2020-10-04 18:19:14+00:00",
+        "match_score": 107.5
+      },
+      {
+        "video_id": "G9juEMBTWZQ",
+        "title": "Last Kilometer - Liège-Bastogne-Liège 2020",
+        "channel": "Tour de France",
+        "published": "2020-10-04 15:25:26+00:00",
+        "match_score": 102.5
+      },
+      {
+        "video_id": "wOKiuXxG5o0",
+        "title": "Résumé - Liège-Bastogne-Liège 2020",
+        "channel": "Tour de France",
+        "published": "2020-10-04 17:40:40+00:00",
+        "match_score": 102.5
+      },
+      {
+        "video_id": "2PmATGzzJ54",
+        "title": "Giro d'Italia 2020 - Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-04 20:55:45+00:00",
+        "match_score": 100.0
+      },
+      {
+        "video_id": "sO2WlsrrPSw",
+        "title": "Giro d'Italia 2020 - Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-04 15:14:18+00:00",
+        "match_score": 100.0
+      },
+      {
+        "video_id": "hagDE1GxIZw",
+        "title": "BinckBank Tour 2020 - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-03 17:30:01+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "BflxgC5CEpA",
+        "title": "Giro d'Italia 2020 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-05 16:18:17+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "h_U8KOmJZX0",
+        "title": "Martina Trevisan vs Kiki Bertens | Roland Garros 2020 - Round 4  Highlights | Tennis | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-05 11:57:30+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "soDyXEmxUQ8",
+        "title": "Alexander Zverev vs Marco Cecchinato | Roland Garros 2020 - Round 3 Highlights | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-03 09:38:48+00:00",
+        "match_score": 90.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

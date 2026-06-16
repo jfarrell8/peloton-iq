@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-04",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "pXmolfvyKP8",
+    "title": "Tour de France 2020 : Étape 7 - Le cheval de Przewalski",
+    "published": "2020-09-04 12:00:14+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=pXmolfvyKP8",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "pXmolfvyKP8",
+        "title": "Tour de France 2020 : Étape 7 - Le cheval de Przewalski",
+        "channel": "Tour de France",
+        "published": "2020-09-04 12:00:14+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "AwNrWPlRcFI",
+        "title": "Tour de France 2020: Stage 7 highlights",
+        "channel": "Velon",
+        "published": "2020-09-04 17:11:36+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "u_c-nIHU-ug",
+        "title": "Tour de France 2020: Stage 7 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-04 17:34:08+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "eGKe2K_v5-Y",
+        "title": "Tour de France 2020: Wout van Aert does it again on Stage 7",
+        "channel": "Velon",
+        "published": "2020-09-04 15:37:10+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "-Xq9sC-zliw",
+        "title": "Tour de France 2020 : Étape 8 - Parc national des Pyrénées",
+        "channel": "Tour de France",
+        "published": "2020-09-05 12:00:00+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "Po2ubO0ENL0",
+        "title": "Tour de France 2020 : Étape 6 - Parc national des Cévennes Réserve de biosphère",
+        "channel": "Tour de France",
+        "published": "2020-09-03 12:00:12+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "CkB0rBHr9JQ",
+        "title": "#TDF2020 - Stage 8 - Peters scores first Tour de France victory",
+        "channel": "Tour de France",
+        "published": "2020-09-05 17:26:46+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "-aSjxxWShOc",
+        "title": "Tour de France 2020 - Étape 7 vue du ciel / Stage 7 from the sky : Millau - Lavaur",
+        "channel": "Tour de France",
+        "published": "2020-07-03 07:56:05+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "2Ma3E52YmnA",
+        "title": "Tour de France 2020 : Étape 9 - L’arum d’Italie",
+        "channel": "Tour de France",
+        "published": "2020-09-06 12:00:00+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "DJqEEp4JYJ8",
+        "title": "Tour de France 2020 : Étape 4 - Le tétras Lyre",
+        "channel": "Tour de France",
+        "published": "2020-09-01 12:00:05+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

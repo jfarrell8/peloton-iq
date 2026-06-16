@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2021-05-08",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "j0vmsGaMblc",
+    "title": "Giro d’Italia 2021 | Stage 1 | Highlights",
+    "published": "2021-05-08 18:47:42+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=j0vmsGaMblc",
+    "match_score": 193.08,
+    "all_candidates": [
+      {
+        "video_id": "j0vmsGaMblc",
+        "title": "Giro d’Italia 2021 | Stage 1 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 18:47:42+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "1gbLS3OV840",
+        "title": "Giro d’Italia 2021 | Stage 1 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 18:49:48+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "7CKe3TJk6bU",
+        "title": "Giro d'Italia 2021 | Stage 1 | Carbonara Au Koque",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 10:00:06+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "SYiQnsI6XLc",
+        "title": "Giro d'Italia 2021 | Stage 1 | Matthias Brändle Arrival",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 13:38:26+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "g5VllFbsqQE",
+        "title": "Giro d'Italia 2021 | Stage 1 | Edoardo Affini Arrival",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 15:10:33+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "X6I29qB8dHU",
+        "title": "Giro d’Italia 2021 | The Route | Stage 1",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 07:00:09+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "c45sBIvAXbE",
+        "title": "Giro d’Italia 2021 | Stage 1 | Last Km Filippo Ganna",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 15:53:03+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "z_GluVh4WJk",
+        "title": "Giro d'Italia 2021: Stage 1 on-bike highlights",
+        "channel": "Velon",
+        "published": "2021-05-08 21:41:47+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "9qwE_vYjUq0",
+        "title": "Giro d'Italia 2021: Stage 1 highlights",
+        "channel": "Velon",
+        "published": "2021-05-08 17:37:29+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "dA6ZR2x1ANw",
+        "title": "Giro d’Italia 2021 | Stage 1 | Filippo Ganna Interview post race",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-08 16:03:06+00:00",
+        "match_score": 143.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

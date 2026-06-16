@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2018-09-13",
   "stage": 18,
-  "video": null,
+  "video": {
+    "video_id": "pXwHABPHX-4",
+    "title": "Résumé - Étape 18 - La Vuelta 2018",
+    "published": "2018-09-13 17:57:12+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=pXwHABPHX-4",
+    "match_score": 163.46,
+    "all_candidates": [
+      {
+        "video_id": "pXwHABPHX-4",
+        "title": "Résumé - Étape 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 17:57:12+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "cwHsz-9tQBs",
+        "title": "Summary - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 18:00:33+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "Ork6OAV8jFQ",
+        "title": "SPRINT | Onboard camera - Sequence of the day - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 18:01:06+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "aH8y_jiRVeI",
+        "title": "Will the breakaway arrive? - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 14:39:28+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "X9tFVm-qBAM",
+        "title": "Maillots - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 15:05:41+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "jeDhKAgl4PM",
+        "title": "Lleida - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 15:09:04+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "wH1MjTWLl5k",
+        "title": "Onboard camera - Sequence of the day - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 15:45:14+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "VHMQ8E5QiVE",
+        "title": "Breakaway - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 13:36:27+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "C_za5J33u_E",
+        "title": "Landscape - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 13:38:12+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "dIpqcDSQJlc",
+        "title": "Bottles for everyone - Stage 18 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-13 13:39:05+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-06-01",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "44_SeXKhBuE",
+    "title": "2021 Critérium du Dauphiné  - Stage 3 Highlights | Cycling | Eurosport",
+    "published": "2021-06-01 15:31:30+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=44_SeXKhBuE",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "44_SeXKhBuE",
+        "title": "2021 Critérium du Dauphiné  - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-01 15:31:30+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "_l7vshzO0gg",
+        "title": "#Dauphiné 2021 - Stage 3 - Highlights: Colbrelli finally takes his turn",
+        "channel": "Tour de France",
+        "published": "2021-06-01 16:28:46+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "DuPlZ_LnaSU",
+        "title": "#Dauphiné 2021- Stage 3 - Antargaz Most Agressive Rider Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-01 15:52:35+00:00",
+        "match_score": 122.2
+      },
+      {
+        "video_id": "CA8xEZLnSRk",
+        "title": "#Dauphiné 2021 - Stage 3 - LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-01 15:57:24+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "sZeiEpKCCtA",
+        "title": "#Dauphiné 2021- Stage 3 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-06-01 14:36:47+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "62aoH7LARmU",
+        "title": "#Dauphiné 2021 - Étape 3 - Résumé: Colbrelli sans trembler",
+        "channel": "Tour de France",
+        "published": "2021-06-01 15:44:01+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "9FCIPPYkRes",
+        "title": "#Dauphiné 2021- Stage 3 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-01 15:45:14+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "NPGjltY_P2I",
+        "title": "2021 Critérium du Dauphiné  - Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-31 19:39:03+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "tyxtOChjXzI",
+        "title": "2021 Critérium du Dauphiné  - Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-31 12:27:49+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "Q36xHM_T5yI",
+        "title": "2021 Critérium du Dauphiné  - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-02 17:02:45+00:00",
+        "match_score": 92.62
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

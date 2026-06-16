@@ -3,7 +3,72 @@
   "race_name": "Paris-Roubaix",
   "race_date": "2022-04-17",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "7ogIDSvI2DE",
+    "title": "All day attacks! Paris-Roubaix 2022 Highlights | The Hell of the North",
+    "published": "2022-04-17 18:51:41+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=7ogIDSvI2DE",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "7ogIDSvI2DE",
+        "title": "All day attacks! Paris-Roubaix 2022 Highlights | The Hell of the North",
+        "channel": "Velon",
+        "published": "2022-04-17 18:51:41+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "DAvdou3K8FQ",
+        "title": "Paris-Roubaix Men's Elite 2022 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2022-04-17 17:06:27+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "niTTG82Ffg0",
+        "title": "Total chaos at the Hell of the North! Paris-Roubaix 2022 On-Bike Bike Highlights",
+        "channel": "Velon",
+        "published": "2022-04-18 08:51:00+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "pVGWIIIKEFU",
+        "title": "A shocking moment involving Yves Lampaert and a spectator at Paris-Roubaix 2022 😳💥 #cycling",
+        "channel": "TNT Sports Cycling",
+        "published": "2025-04-09 09:30:30+00:00",
+        "match_score": -55.0
+      },
+      {
+        "video_id": "X1zapA8apvg",
+        "title": "Incredible solo victory! Paris-Roubaix Femmes 2022 Highlights",
+        "channel": "Velon",
+        "published": "2022-04-16 18:43:53+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "soLbC2SQwAw",
+        "title": "Winning Paris-Roubaix with a GoPro on your bike! Paris-Roubaix Femmes 2022 On-Bike highlights!",
+        "channel": "Velon",
+        "published": "2022-04-16 19:11:18+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "WErdDGErLZI",
+        "title": "Paris-Roubaix Femmes 2022 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2022-04-16 16:55:26+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "T1t3ux9uUm8",
+        "title": "A shocking moment involving Yves Lampaert and a spectator at Paris-Roubaix 2022 😳💥 #parisroubaix",
+        "channel": "TNT Sports Cycling",
+        "published": "2026-04-07 09:15:43+00:00",
+        "match_score": -95.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

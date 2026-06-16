@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2020-10-27",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "mXW-Xp_WsRo",
+    "title": "Vuelta a España 2020: Stage 7 highlights",
+    "published": "2020-10-27 20:36:46+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=mXW-Xp_WsRo",
+    "match_score": 143.33,
+    "all_candidates": [
+      {
+        "video_id": "mXW-Xp_WsRo",
+        "title": "Vuelta a España 2020: Stage 7 highlights",
+        "channel": "Velon",
+        "published": "2020-10-27 20:36:46+00:00",
+        "match_score": 143.33
+      },
+      {
+        "video_id": "LOwaD5MgKtg",
+        "title": "Vuelta a España 2020: Mike Woods wins Stage 7",
+        "channel": "Velon",
+        "published": "2020-10-27 17:06:04+00:00",
+        "match_score": 138.33
+      },
+      {
+        "video_id": "GQfzEQ13d44",
+        "title": "Vuelta a España 2020: Stage 7 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-10-28 15:54:31+00:00",
+        "match_score": 133.33
+      },
+      {
+        "video_id": "2U9KmRQwqaI",
+        "title": "Vuelta a España 2020: Stage 8 highlights",
+        "channel": "Velon",
+        "published": "2020-10-28 19:05:19+00:00",
+        "match_score": 93.33
+      },
+      {
+        "video_id": "MB2Ba3wJ8MA",
+        "title": "Vuelta a España 2020: Stage 6 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-10-26 08:16:04+00:00",
+        "match_score": 93.33
+      },
+      {
+        "video_id": "wsiU7V_ptYU",
+        "title": "Vuelta a España 2020: Primoz Roglic celebrates Stage 8 win",
+        "channel": "Velon",
+        "published": "2020-10-28 17:22:54+00:00",
+        "match_score": 88.33
+      },
+      {
+        "video_id": "w8jSMEYxPEI",
+        "title": "Vuelta a España 2020: Stage 5 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-10-25 17:52:31+00:00",
+        "match_score": 78.33
+      },
+      {
+        "video_id": "X5FYz9HtT3c",
+        "title": "Vuelta a España 2020: Stage 6 highlights",
+        "channel": "Velon",
+        "published": "2020-10-25 20:02:55+00:00",
+        "match_score": 78.33
+      },
+      {
+        "video_id": "nfTk-U2P_JE",
+        "title": "Vuelta a España 2020: Stage 3 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-10-25 17:52:10+00:00",
+        "match_score": 78.33
+      },
+      {
+        "video_id": "S8o6BIWQpyQ",
+        "title": "Vuelta a España 2020: Stage 5 highlights",
+        "channel": "Velon",
+        "published": "2020-10-24 18:38:16+00:00",
+        "match_score": 78.33
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

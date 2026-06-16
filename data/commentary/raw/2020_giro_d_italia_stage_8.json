@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-10",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "LDQGpwG5p5E",
+    "title": "Giro d'Italia 2020 | Stage 8 | Highlights",
+    "published": "2020-10-10 15:53:05+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=LDQGpwG5p5E",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "LDQGpwG5p5E",
+        "title": "Giro d'Italia 2020 | Stage 8 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 15:53:05+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "OVzKE8tpQWw",
+        "title": "Giro d'Italia 2020 | Stage 8 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 11:29:51+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "cAZG7SgKZyk",
+        "title": "Giro d'Italia 2020 | Stage 8 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 14:49:48+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "S37CVpVJ7A4",
+        "title": "Giro d'Italia 2020 | Stage 8 | Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 16:30:22+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "E5tKyeddzIA",
+        "title": "Giro d'Italia 2020 | Stage 9 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 15:58:53+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "ai7FbuspVT0",
+        "title": "Giro d'Italia 2020 | Stage 8 | Interviews pre stage",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 11:32:17+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "VrpbNflrWtA",
+        "title": "Giro d'Italia 2020 | Stage 8 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 15:54:38+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "WQCPABLgq20",
+        "title": "Giro d'Italia 2020 - Stage 8 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-10 18:33:39+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "t_QWJSeT7r4",
+        "title": "Giro d'Italia 2020 | Stage 7 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-09 14:54:23+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "0FhGaiNrptE",
+        "title": "Giro d'Italia 2020 | Buongiorno Giro 8",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 06:30:00+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

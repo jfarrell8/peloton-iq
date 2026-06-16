@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-07",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "B-jKFICcF0U",
+    "title": "Tour of Guangxi 2018: Stage 1 extended highlights",
+    "published": "2018-10-17 10:31:39+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=B-jKFICcF0U",
+    "match_score": 90.38,
+    "all_candidates": [
+      {
+        "video_id": "37UVTaWoAkc",
+        "title": "Bird's-eye view of the sprint  - Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 14:18:24+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "ltpHp_ePDyY",
+        "title": "Landscapes of the day - Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 15:47:06+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "pjG6tX2JBAo",
+        "title": "Onboard camera - Chris Froome crashes - Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 15:35:26+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "rCNJCv-uR-4",
+        "title": "La minute Maillot à pois Carrefour - Étape 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 15:33:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "0cQZvWo4aec",
+        "title": "Flash Summary - Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 15:10:23+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "CR6p81GgEhY",
+        "title": "Summary - Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 15:32:17+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "6vnF5M9L-lQ",
+        "title": "Saint-Gilles-Croix-De-Vie  - Étape 1 / Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 10:56:08+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "49yoNEOA1PM",
+        "title": "La minute Maillot Blanc Krys - Étape 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 15:25:23+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "8FtbbXJCP54",
+        "title": "The first breakaway - Stage 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 09:14:14+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "otSa4lTn6YM",
+        "title": "Mag du jour : Vendée Terre de Vélo - Étape 1 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-07 09:30:55+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

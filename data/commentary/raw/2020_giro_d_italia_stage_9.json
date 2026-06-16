@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-11",
   "stage": 9,
-  "video": null,
+  "video": {
+    "video_id": "E5tKyeddzIA",
+    "title": "Giro d'Italia 2020 | Stage 9 | Highlights",
+    "published": "2020-10-11 15:58:53+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=E5tKyeddzIA",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "E5tKyeddzIA",
+        "title": "Giro d'Italia 2020 | Stage 9 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 15:58:53+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "Z4QLFWN3gPI",
+        "title": "Giro d'Italia 2020 | Stage 9 | Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 16:32:50+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "1InNeqlB4Zo",
+        "title": "Giro d'Italia 2020 | Stage 9 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 09:55:33+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "dHqf6sVD1Nw",
+        "title": "Giro d'Italia 2020 | Stage 9 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 14:53:45+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "LDQGpwG5p5E",
+        "title": "Giro d'Italia 2020 | Stage 8 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-10 15:53:05+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "1o5ER7sdHZE",
+        "title": "Giro d'Italia 2020 - Stage 9 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-11 16:24:07+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "kWOI8oF0dk8",
+        "title": "Giro d'Italia 2020 | Stage 9 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 16:14:10+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "dA4evBSu_io",
+        "title": "Giro d'Italia 2020 | Stage 9 | Interviews pre stage",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 11:39:16+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "eYgiycudU-g",
+        "title": "Giro E 2020 | Tappa 9",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-14 12:43:03+00:00",
+        "match_score": 138.89
+      },
+      {
+        "video_id": "bflxFPChBJw",
+        "title": "Giro d'Italia 2020 | Buongiorno Giro 9",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-11 06:30:04+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Paris - Roubaix",
   "race_date": "2018-04-08",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "yu_FvdPy_bk",
+    "title": "2018 Paris-Roubaix onboard highlights",
+    "published": "2018-04-08 19:34:00+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=yu_FvdPy_bk",
+    "match_score": 111.67,
+    "all_candidates": [
+      {
+        "video_id": "yu_FvdPy_bk",
+        "title": "2018 Paris-Roubaix onboard highlights",
+        "channel": "Velon",
+        "published": "2018-04-08 19:34:00+00:00",
+        "match_score": 111.67
+      },
+      {
+        "video_id": "NsSv0bVzXDY",
+        "title": "Paris-Roubaix 2018 | Finish Line Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-09 09:29:36+00:00",
+        "match_score": 103.21
+      },
+      {
+        "video_id": "jVPD_f-xWKY",
+        "title": "Flash Summary - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 16:33:40+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "bVqtY9tKANI",
+        "title": "Onboard camera - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 19:11:56+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "NKqtCMT3BMA",
+        "title": "Best of (Français) - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 18:15:51+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "w4DzDxKIxYQ",
+        "title": "Départ fictif à Compiègne - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 09:15:49+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "CFL7ztOse9Q",
+        "title": "Attaque de Van Avermaet - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 14:05:00+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "L8KX_GA5XO8",
+        "title": "Trouée d'Arenberg - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 13:04:59+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "Va0e7BV6qEY",
+        "title": "Last Kilometer - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 15:23:08+00:00",
+        "match_score": 101.67
+      },
+      {
+        "video_id": "W4sP-Xy87wQ",
+        "title": "Sagan et Dillier sur les pavés - Paris-Roubaix 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-08 15:04:11+00:00",
+        "match_score": 101.67
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-06",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "6aSic2if9IA",
+    "title": "Giro d'Italia 2020 | Stage 4 | Highlights",
+    "published": "2020-10-06 15:34:43+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=6aSic2if9IA",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "6aSic2if9IA",
+        "title": "Giro d'Italia 2020 | Stage 4 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-06 15:34:43+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "QND0FplveXU",
+        "title": "Giro d'Italia 2020 | Stage 4 | Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-06 15:58:30+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "_UB1CnVtJoE",
+        "title": "Giro d'Italia 2020 | Stage 4 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-06 14:19:53+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "PksgqBlAfoQ",
+        "title": "Giro d'Italia 2020 | Stage 4 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-06 11:50:24+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "oXcC6NuvrwM",
+        "title": "Giro d'Italia 2020 | Interviews Pre Race | Stage 4",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-06 10:44:07+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "b3NOUNKFMiQ",
+        "title": "Giro d'Italia 2020 - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-06 15:53:46+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Z3oDHRKM2Xc",
+        "title": "Giro d'Italia 2020 | Stage 3 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-05 15:49:09+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "muhml64XqTU",
+        "title": "Giro d'Italia 2020 | Interviews Post Race | Stage 4",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-06 16:22:13+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "rBJlFX0Hbx4",
+        "title": "Giro d'Italia 2020 | Stage 5 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-07 15:39:58+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "cjRRmuwD_d4",
+        "title": "Giro-E 2020 | Tappa 4",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-08 08:34:12+00:00",
+        "match_score": 137.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

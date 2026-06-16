@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2018-09-01",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "C9WNivM_AyQ",
+    "title": "Résumé - Étape 8 - La Vuelta 2018",
+    "published": "2018-09-01 17:48:19+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=C9WNivM_AyQ",
+    "match_score": 163.46,
+    "all_candidates": [
+      {
+        "video_id": "C9WNivM_AyQ",
+        "title": "Résumé - Étape 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 17:48:19+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "LqdHEM2mMME",
+        "title": "Bottles - Sequence of the day - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 17:09:16+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "hmi5MOk3P0s",
+        "title": "Summary - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 17:32:22+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "9UNSJ40fTCc",
+        "title": "A. Duchesne - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 13:39:31+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "fuR8j1vdnto",
+        "title": "Heat - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 14:18:53+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "kFnEG_Rzg8I",
+        "title": "Sprint - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 13:30:15+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "OykbujbXgA4",
+        "title": "Onboard camera - Sequence of the day - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 17:03:14+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "z9XKKUFeXx8",
+        "title": "Last kilometer - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 15:27:42+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "8W3_X0Ska3Y",
+        "title": "Banana - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 13:16:01+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "rhst6SXQvWU",
+        "title": "Straight - Stage 8 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-01 13:12:31+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

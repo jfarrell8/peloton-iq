@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-06",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "Ou2Jb_DTI7U",
+    "title": "Résumé Flash - Étape 3 - Paris-Nice 2018",
+    "published": "2018-03-06 16:40:34+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=Ou2Jb_DTI7U",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "Ou2Jb_DTI7U",
+        "title": "Résumé Flash - Étape 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 16:40:34+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "l0ZY6BpGkPM",
+        "title": "Flash Summary - Stage 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 17:01:34+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "rOgWbYDCmt4",
+        "title": "Résumé - Étape 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 17:42:52+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "dGGIOY_mkio",
+        "title": "Summary - Stage 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 18:12:43+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "vDNJPUeExLA",
+        "title": "Last Kilometer - Stage 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 15:56:45+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "d-OrcrDUnWA",
+        "title": "Three men in front - Stage 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 15:31:49+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "2usY1irkgeY",
+        "title": "The end of the breakaway for Fabien Grellier - Stage 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 15:07:39+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "DUVin5vIyAI",
+        "title": "Back in the pack - Stage 3 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-06 14:58:20+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "NswtCa5iBNk",
+        "title": "Résumé Flash - Étape 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 17:07:52+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "RQZflKSZNiY",
+        "title": "Résumé - Étape 4 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-07 16:56:43+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

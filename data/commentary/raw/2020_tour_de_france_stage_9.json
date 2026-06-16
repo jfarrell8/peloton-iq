@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-06",
   "stage": 9,
-  "video": null,
+  "video": {
+    "video_id": "2Ma3E52YmnA",
+    "title": "Tour de France 2020 : Étape 9 - L’arum d’Italie",
+    "published": "2020-09-06 12:00:00+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=2Ma3E52YmnA",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "2Ma3E52YmnA",
+        "title": "Tour de France 2020 : Étape 9 - L’arum d’Italie",
+        "channel": "Tour de France",
+        "published": "2020-09-06 12:00:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "uua3NX9U7oA",
+        "title": "Tour de France 2020: Stage 9 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-06 17:29:43+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "_OCEqL1B1gc",
+        "title": "Tour de France 2020: Stage 9 highlights",
+        "channel": "Velon",
+        "published": "2020-09-06 16:28:32+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Eugqxvm6rLQ",
+        "title": "Tour de France 2020: A simply thrilling finish to Stage 9",
+        "channel": "Velon",
+        "published": "2020-09-06 14:53:46+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "SlLrE5BzBAM",
+        "title": "Adam Yates loses yellow jersey to Primoz Roglic! | Stage 9 | Tour de France 2020 | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-06 18:56:45+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "CkB0rBHr9JQ",
+        "title": "#TDF2020 - Stage 8 - Peters scores first Tour de France victory",
+        "channel": "Tour de France",
+        "published": "2020-09-05 17:26:46+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "-Xq9sC-zliw",
+        "title": "Tour de France 2020 : Étape 8 - Parc national des Pyrénées",
+        "channel": "Tour de France",
+        "published": "2020-09-05 12:00:00+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "NTPWEz67O6k",
+        "title": "Tour de France 2020: Sam Bennett sprints to first win on Stage 9",
+        "channel": "Velon",
+        "published": "2020-09-08 16:06:42+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "YGhT0whsYqs",
+        "title": "Tour de France 2020 - Étape 9 vue du ciel / Stage 9 from the sky : Pau - Laruns",
+        "channel": "Tour de France",
+        "published": "2020-07-05 07:00:05+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "Po2ubO0ENL0",
+        "title": "Tour de France 2020 : Étape 6 - Parc national des Cévennes Réserve de biosphère",
+        "channel": "Tour de France",
+        "published": "2020-09-03 12:00:12+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

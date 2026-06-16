@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2018-05-26",
   "stage": 20,
-  "video": null,
+  "video": {
+    "video_id": "27aigukokfo",
+    "title": "Giro d'Italia 2018 - Stage 20 - The highlights",
+    "published": "2018-05-26 16:18:34+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=27aigukokfo",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "27aigukokfo",
+        "title": "Giro d'Italia 2018 - Stage 20 - The highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-26 16:18:34+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "fuuy3m5LbTo",
+        "title": "Giro d'Italia 2018 - Stage 19 - The highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-25 18:05:55+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "SGKEonV-K8Q",
+        "title": "Froome Holds Off Relentless Dumoulin to Claim GC Victory | Giro d'Italia 2018 | Stage 20 Highlights",
+        "channel": "TNT Sports",
+        "published": "2018-05-26 15:15:59+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "AM-Dldyey50",
+        "title": "Giro d'Italia 2018 | Stage 20 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-05-27 14:00:00+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "cGP-oXefx_4",
+        "title": "Giro d'Italia 2018 - Stage 18 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-24 18:24:19+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "i3skb7EL20s",
+        "title": "Giro d'Italia 2018 - Stage 17 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-23 17:51:24+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "syPaDOlAZ7Y",
+        "title": "How The Race Was Won | Giro d'Italia 2018 Stage 20 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-05-27 09:14:28+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "R2hcBoLB04k",
+        "title": "Giro d'Italia 2018 - Stage 21 - The movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-27 20:39:27+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "QRK8SUIlFRg",
+        "title": "Giro d'Italia 2018 - Stage 19 - The movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-25 19:56:13+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "89G7tZtjAng",
+        "title": "Giro d'Italia 2018 - The Route - Stage 20",
+        "channel": "Giro d'Italia",
+        "published": "2018-04-28 09:20:02+00:00",
+        "match_score": 115.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

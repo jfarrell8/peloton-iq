@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-09",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "TkXYxRVVb-k",
+    "title": "Poels crashed - Stage 6 - Paris-Nice 2018",
+    "published": "2018-03-09 15:07:14+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=TkXYxRVVb-k",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "TkXYxRVVb-k",
+        "title": "Poels crashed - Stage 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 15:07:14+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Rgjz_nwIhu0",
+        "title": "Côte de la Colle sur Loup  - Stage 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 15:02:10+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Kv8iN-xvql4",
+        "title": "Côte de Gourdon - Stage 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 14:28:12+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "7m2EEC2c01o",
+        "title": "Flash Summary - Stage 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 17:08:12+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "AUgrRXmih5Y",
+        "title": "Last Kilometer - Stage 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 15:16:08+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "mnp-EYBijXk",
+        "title": "Résumé Flash - Étape 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 16:04:04+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "tcHueSZNhzY",
+        "title": "Résumé - Étape 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 16:16:59+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "eW8Tj69EjmU",
+        "title": "Summary - Stage 6 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-09 17:03:52+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "PywUWmQ13v4",
+        "title": "Flash Summary - Stage 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 17:22:16+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "56aF5zpCSmM",
+        "title": "Résumé - Étape 5 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-08 17:17:40+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

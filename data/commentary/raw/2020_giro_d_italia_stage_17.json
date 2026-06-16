@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-21",
   "stage": 17,
-  "video": null,
+  "video": {
+    "video_id": "d8myYBhYrOM",
+    "title": "Giro d'Italia 2020 | Stage 17 | Highlights",
+    "published": "2020-10-21 15:04:23+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=d8myYBhYrOM",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "d8myYBhYrOM",
+        "title": "Giro d'Italia 2020 | Stage 17 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 15:04:23+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "lcTSFUV2VLI",
+        "title": "Giro d'Italia 2020 | Stage 17 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 16:19:06+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "67hMd4BmY0o",
+        "title": "Giro d'Italia 2020 | Stage 17 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 14:56:47+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "poXWQ2agSAs",
+        "title": "Giro d'Italia 2020 | Stage 17 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 09:40:24+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "vmgP4DJsoUw",
+        "title": "Giro d'Italia 2020 | Stage 17 | Interviews pre stage",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 11:21:55+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "zl_n4o6oEe4",
+        "title": "Giro d'Italia 2020 | Stage 17 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 15:44:37+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "wS8OqASGGkk",
+        "title": "Giro d'Italia 2020 | Stage 18 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-22 16:06:59+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "55G1ibGTMjc",
+        "title": "Giro d'Italia 2020 - Stage 17 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-21 17:37:56+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "D7zbzZfRlaM",
+        "title": "Giro d'Italia 2020 | Stage 16 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 15:38:01+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "IcUVSE6oMXI",
+        "title": "Giro d'Italia 2020 | Buongiorno Giro 17",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 06:30:00+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

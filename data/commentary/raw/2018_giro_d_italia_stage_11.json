@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2018-05-16",
   "stage": 11,
-  "video": null,
+  "video": {
+    "video_id": "PrelSDfkk64",
+    "title": "Giro d'Italia 2018 - Stage 11 - Highlights",
+    "published": "2018-05-16 18:31:45+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=PrelSDfkk64",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "PrelSDfkk64",
+        "title": "Giro d'Italia 2018 - Stage 11 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-16 18:31:45+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "NcJB4k6YDjw",
+        "title": "Giro d'Italia 2018 - Stage 11 - The Movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-16 18:23:35+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "eLB5EaLx7aA",
+        "title": "Giro d'Italia 2018 - Stage 12 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-17 17:49:21+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "NNPmiIPSwwQ",
+        "title": "Giro d'Italia 2018 - Stage 10 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-15 20:15:20+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "4D4-LZmvJzE",
+        "title": "Giro d'Italia 2018 | Stage 11 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-05-16 16:22:06+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "UVRMhbt9eZY",
+        "title": "Tom Dumoulin Chases Simon Yates in Cobbled Finish | Giro d'Italia 2018 | Stage 11 Highlights",
+        "channel": "TNT Sports",
+        "published": "2018-05-16 15:32:40+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "BYOtOvFdHr8",
+        "title": "Giro d'Italia 2018 - Stage 13 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-18 21:25:10+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "J6BLChPgUCs",
+        "title": "Giro d'Italia 2018 - Stage 14 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-19 21:08:19+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "qzCCYGkDD5k",
+        "title": "Giro d'Italia 2018 - Stage 9 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-13 21:10:06+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "tEnN2FXYlq4",
+        "title": "Giro d'Italia 2018 - Stage 12 - The Movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-17 17:54:47+00:00",
+        "match_score": 125.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

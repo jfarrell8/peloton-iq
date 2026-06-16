@@ -3,7 +3,86 @@
   "race_name": "Benelux Tour",
   "race_date": "2021-09-01",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "UZB0h0ifuNs",
+    "title": "2021 Baloise Belgium Tour - Stage 3 | Highlights | Cycling | Eurosport",
+    "published": "2021-06-11 17:07:16+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=UZB0h0ifuNs",
+    "match_score": 78.75,
+    "all_candidates": [
+      {
+        "video_id": "UZB0h0ifuNs",
+        "title": "2021 Baloise Belgium Tour - Stage 3 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-11 17:07:16+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "1BEj4IfSPZo",
+        "title": "UAE Tour 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-02-23 16:43:07+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "PmHv_FzR6uE",
+        "title": "UAE Tour 2021 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-02-24 13:00:08+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "Prk6Le6XotM",
+        "title": "Tour de Luxembourg 2021 - Stage 3 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-09-16 16:15:00+00:00",
+        "match_score": 74.58
+      },
+      {
+        "video_id": "kZ1e81akMBI",
+        "title": "Tour de Romandie 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-04 09:22:57+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "3QqAuMRAcWw",
+        "title": "Tour de France 2021: Stage 3 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2021-06-28 18:06:38+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "CQd7v1j6sAY",
+        "title": "Tour de France 2021: Stage 3 Highlights",
+        "channel": "Velon",
+        "published": "2021-06-28 20:55:02+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "Zo8rYTZnNxI",
+        "title": "Tour de Suisse 2021: Stage 3 highlights",
+        "channel": "Velon",
+        "published": "2021-06-08 19:48:29+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "Gqgn5Y1izfk",
+        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-13 14:21:08+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "SHo5UDwIeeI",
+        "title": "Tour of Norway 2021: Stage 3 Highlights",
+        "channel": "Velon",
+        "published": "2021-08-21 17:29:25+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

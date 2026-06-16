@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-11",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "u6TrQPx5L1g",
+    "title": "Summary - Stage 8 - Paris-Nice 2018",
+    "published": "2018-03-11 15:37:06+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=u6TrQPx5L1g",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "u6TrQPx5L1g",
+        "title": "Summary - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 15:37:06+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Q9LbGjU1eH8",
+        "title": "Flash Summary - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 15:54:21+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "qG6T0zO78ts",
+        "title": "Résumé - Étape 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 15:15:58+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "-bWmjOrPFcs",
+        "title": "Résumé Flash - Étape 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 15:18:21+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "z5c4oM6fRAs",
+        "title": "Col des 4 Chemins - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 13:56:20+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "aclpSv_Ss0A",
+        "title": "Col d'Eze - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 13:31:05+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "t664VOdKGwA",
+        "title": "Slow Mo Sprint by Tissot - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 14:28:48+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "GYivZMasj1Y",
+        "title": "Last Kilometer - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 14:07:22+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "13a8GCmgCv0",
+        "title": "Côte de Peille - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 13:08:51+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "pWv62o_pF0U",
+        "title": "Lead of the race - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 12:48:34+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

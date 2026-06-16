@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-22",
   "stage": 11,
-  "video": null,
+  "video": {
+    "video_id": "BA_dBLjKZsc",
+    "title": "Giro d'Italia 2019 | Stage 11 | Highlights",
+    "published": "2019-05-22 16:52:38+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=BA_dBLjKZsc",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "BA_dBLjKZsc",
+        "title": "Giro d'Italia 2019 | Stage 11 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 16:52:38+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "UgKZR3JV21w",
+        "title": "Giro d'Italia 2019 | Stage 11 | Start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 11:29:47+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "R8bPu7uF6Y8",
+        "title": "Giro d'Italia 2019 | Stage 11 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 15:42:34+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "H8ufN4bQuEU",
+        "title": "Giro d'Italia 2019 | Stage 11 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 07:00:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "StVjJfXDCh0",
+        "title": "Giro d'Italia 2019 | Stage 11 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 18:17:27+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "ERyiNUrk_wY",
+        "title": "Giro d'Italia 2019 | Stage 10 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-21 16:28:37+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "4lu4KwLNjVU",
+        "title": "Giro d'Italia 2019 | Stage 12 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 16:15:00+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "CdHJl1-jjZ0",
+        "title": "Giro d'Italia 2019 | Stage 11 | Pre-start interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 14:19:34+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "MaT5LG_xGqU",
+        "title": "Giro d’Italia 2019 | Stage 11 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-22 16:40:48+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "_HWIS6nRWL0",
+        "title": "The Breakaway: Stage 11 Analysis | Giro d’Italia 2019 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-22 16:42:03+00:00",
+        "match_score": 138.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

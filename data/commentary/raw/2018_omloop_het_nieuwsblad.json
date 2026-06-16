@@ -3,7 +3,23 @@
   "race_name": "Omloop Het Nieuwsblad",
   "race_date": "2018-02-24",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "xZy8NFUgkx4",
+    "title": "Omloop Het Nieuwsblad 2018 | Full Race Highlights | inCycle",
+    "published": "2018-02-24 16:18:09+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=xZy8NFUgkx4",
+    "match_score": 123.0,
+    "all_candidates": [
+      {
+        "video_id": "xZy8NFUgkx4",
+        "title": "Omloop Het Nieuwsblad 2018 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-02-24 16:18:09+00:00",
+        "match_score": 123.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

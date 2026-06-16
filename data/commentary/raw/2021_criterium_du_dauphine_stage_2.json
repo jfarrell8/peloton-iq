@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-05-31",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "NPGjltY_P2I",
+    "title": "2021 Critérium du Dauphiné  - Stage 2 Highlights | Cycling | Eurosport",
+    "published": "2021-05-31 19:39:03+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=NPGjltY_P2I",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "NPGjltY_P2I",
+        "title": "2021 Critérium du Dauphiné  - Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-31 19:39:03+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "_iiZ8CJb-Ho",
+        "title": "#Dauphiné 2021 - Stage 2 - Highlights: Pöstlberger carves a new masterpiece",
+        "channel": "Tour de France",
+        "published": "2021-05-31 16:39:43+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "g54TQo43LRQ",
+        "title": "#Dauphiné 2021- Stage 2 - Antargaz Most Agressive Rider Minute",
+        "channel": "Tour de France",
+        "published": "2021-05-31 16:25:10+00:00",
+        "match_score": 122.2
+      },
+      {
+        "video_id": "tVWi6IHs0Bo",
+        "title": "#Dauphiné 2021- Stage 2 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-05-31 15:18:27+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "Cbq4XAUBp9A",
+        "title": "#Dauphiné 2021 - Étape 2 - Résumé : Pöstlberger jusqu'au bout!",
+        "channel": "Tour de France",
+        "published": "2021-05-31 15:51:09+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "S8PQAEWe6MI",
+        "title": "#Dauphiné 2021 - Étape 2 / Stage 2 - Minute Jaune et Bleu LCL / LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-05-31 15:56:56+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "86xDL8QxLOk",
+        "title": "#Dauphiné 2021- Stage 2 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-05-31 14:24:49+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "tyxtOChjXzI",
+        "title": "2021 Critérium du Dauphiné  - Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-31 12:27:49+00:00",
+        "match_score": 102.62
+      },
+      {
+        "video_id": "44_SeXKhBuE",
+        "title": "2021 Critérium du Dauphiné  - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-01 15:31:30+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "sf5oUUL30FU",
+        "title": "Roger Federer v Denis Istomin  | 2021 Roland Garros - Round 1 Highlights | Tennis | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-05-31 22:00:18+00:00",
+        "match_score": 90.26
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

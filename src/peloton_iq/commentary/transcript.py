@@ -65,11 +65,37 @@ SKIP_KEYWORDS = [
 ]
 WOMEN_KEYWORDS = ["femmes", "feminine", "women", "ladies"]
 
+# Channel tiers — higher = stronger preference when scores are equal
+# Official race channels (tier 4) beat generalist channels on their own race
+# CHANNEL_TIER = {
+#     "NBC Sports":         3,
+#     "GCN Racing":         2,
+#     "TNT Sports Cycling": 2,
+#     "Eurosport":          2,
+#     "GCN":                1,
+#     "Tour de France":     4,   # official — TdF stages only
+#     "Giro d'Italia":      4,   # official — Giro stages only
+#     "La Vuelta":          4,   # official — Vuelta stages only
+# }
 CHANNEL_TIER = {
-    "NBC Sports":         3,
-    "GCN Racing":         2,
-    "TNT Sports Cycling": 1,
-    "GCN":                1,
+    'NBC Sports':         4,
+    'GCN Racing':         1,
+    'TNT Sports Cycling': 2,
+    'Tour de France':     4,   # official — TdF stages only
+    "Giro d'Italia":     4,   # official — Giro stages only
+    'La Vuelta':          4,   # official — Vuelta stages only
+    'Tour Down Under': 4,
+    'inCycle': 2,
+    'Velon': 2,
+    'TNT Sports': 2,
+}
+
+# Official channel → race name mapping
+# These channels should ONLY get the tier 4 bonus for their own race
+OFFICIAL_CHANNEL_RACES = {
+    "Tour de France": ["tour de france"],
+    "Giro d'Italia":  ["giro d'italia", "giro d italia"],
+    "La Vuelta":      ["vuelta a espana", "vuelta", "la vuelta"],
 }
 
 NBC_PRIORITY_RACES = ["tour de france", "vuelta a espana", "vuelta españa"]
@@ -90,6 +116,64 @@ def _is_nbc_priority(race_name: str) -> bool:
 def _is_gcn_priority(race_name: str) -> bool:
     rn = race_name.lower()
     return any(r in rn for r in GCN_PRIORITY_RACES)
+
+
+# Known wrong-race patterns — videos that fuzzy-match the race name
+# but are actually a different race
+WRONG_RACE_PATTERNS = {
+    "giro d'italia":      ["giro rosa", "giro women", "giro donne"],
+    "giro d italia":      ["giro rosa", "giro women", "giro donne"],
+    "tour de france":     ["tour de la provence", "tour down under", "tour of britain",
+                          "tour de romandie", "tour de pologne", "tour de suisse"],
+    "tour de suisse":     ["tour de france", "tour de la provence"],
+    "tour de pologne":    ["tour de france", "tour de la provence"],
+    "tour de romandie":   ["tour de france"],
+    "vuelta a espana":    ["vuelta a san juan", "vuelta al pais vasco"],
+    "tirreno-adriatico":  ["giro rosa"],
+    "paris-nice":         ["giro rosa"],
+    "volta a catalunya":  ["giro rosa"],
+    "itzulia basque country": ["giro rosa"],
+}
+
+WOMEN_RACE_PATTERNS = ["giro rosa", "giro donne", "giro women", "femmes", "feminine", "women", "ladies"]
+
+
+def _wrong_race_penalty(race_name: str, title: str) -> float:
+    """
+    Return a large negative penalty if the title clearly indicates a different race
+    despite fuzzy-matching the race name.
+    E.g. "Giro Rosa" matching "Giro d'Italia", "Tour de Provence" matching "Tour de France".
+    """
+    race_lower  = race_name.lower()
+    title_lower = title.lower()
+
+    # Women's race penalty
+    if any(p in title_lower for p in WOMEN_RACE_PATTERNS):
+        return -80.0
+
+    for race_key, bad_patterns in WRONG_RACE_PATTERNS.items():
+        if race_key in race_lower:
+            for pattern in bad_patterns:
+                if pattern in title_lower:
+                    return -80.0
+
+    return 0.0
+
+
+def _get_channel_tier(channel: str, race_name: str) -> int:
+    """
+    Return the effective channel tier for a given race.
+    Official channels (tier 4) only get their bonus for their own race,
+    not for other races where they'd be irrelevant.
+    """
+    base_tier = CHANNEL_TIER.get(channel, 0)
+    if base_tier == 4:
+        # Only apply tier 4 if this channel covers this race
+        race_lower = race_name.lower()
+        allowed = OFFICIAL_CHANNEL_RACES.get(channel, [])
+        if not any(r in race_lower for r in allowed):
+            return 1   # demote to tier 1 for other races
+    return base_tier
 
 
 # ---------------------------------------------------------------------------
@@ -273,11 +357,16 @@ class TranscriptFetcher:
         max_races: Optional[int] = None,
         threshold: float = 75.0,
         verbose: bool = False,
+        retry_no_video_found: bool = True,
     ) -> dict:
         """
         Match all unprocessed races against the local video cache.
         Zero YouTube API quota — runs as fast as your CPU.
-        Safe to run multiple times — skips already-processed races.
+        Safe to run multiple times.
+
+        By default also re-processes races with no_video_found status
+        (retry_no_video_found=True) so that resets and cache updates
+        automatically trigger re-matching on the next run.
         """
         if self._cache is None or self._cache.empty:
             log.error("No video cache loaded. Call YouTubeCacheManager.load_cache() first.")
@@ -291,6 +380,14 @@ class TranscriptFetcher:
             out_path         = self._raw_dir / f"{make_safe_name(label)}.json"
             if not out_path.exists():
                 to_process.append((race_name, race_date, stage, label, out_path))
+            elif retry_no_video_found:
+                try:
+                    with open(out_path, encoding="utf-8") as f:
+                        existing = json.load(f)
+                    if existing.get("status") == "no_video_found":
+                        to_process.append((race_name, race_date, stage, label, out_path))
+                except Exception:
+                    pass
 
         limit = max_races if max_races is not None else len(to_process)
         log.info(
@@ -413,7 +510,16 @@ class TranscriptFetcher:
             lambda r: self._score_video(r, race_name, race_date, stage), axis=1
         )
         candidates = candidates.sort_values("match_score", ascending=False)
-        best       = candidates.iloc[0]
+
+        # After scoring the full candidate pool, before returning:
+        # Prefer "extended highlights" videos if one scores above threshold
+        extended = candidates[
+            candidates['title'].str.contains('extended highlights', case=False, na=False)
+        ]
+        if not extended.empty and extended.iloc[0]['match_score'] >= threshold:
+            best = extended.iloc[0]
+        else:
+            best = candidates.iloc[0]
 
         if best["match_score"] < threshold:
             return None
@@ -434,6 +540,11 @@ class TranscriptFetcher:
         race_dt  = pd.to_datetime(race_date, utc=True)
         pub_dt   = pd.to_datetime(row["published"], utc=True)
         days_diff = abs((pub_dt.date() - race_dt.date()).days)
+
+        # Wrong race / women's race hard penalty — apply first
+        wrong_penalty = _wrong_race_penalty(race_name, title)
+        if wrong_penalty < 0:
+            return wrong_penalty
 
         # Publish date proximity
         if days_diff == 0:    score += 60
@@ -468,8 +579,8 @@ class TranscriptFetcher:
         elif "highlights" in title:        score += 5
         if "full race" in title:           score += 8
 
-        # Channel tier bonus
-        score += CHANNEL_TIER.get(channel, 0) * 5
+        # Channel tier bonus (official channels get bonus only for their own race)
+        score += _get_channel_tier(channel, race_name) * 5
 
         # NBC priority races
         if _is_nbc_priority(race_name) and channel == "NBC Sports":
@@ -477,8 +588,18 @@ class TranscriptFetcher:
             if "extended highlights" in title:
                 score += 25
 
+        # Official race channel bonus — big boost when the official channel
+        # publishes highlights for their own race
+        for official_channel, races in OFFICIAL_CHANNEL_RACES.items():
+            if channel == official_channel:
+                race_lower = race_name.lower()
+                if any(r in race_lower for r in races):
+                    score += 25
+                    if "highlights" in title:
+                        score += 15
+
         # GCN priority races
-        if _is_gcn_priority(race_name) and channel in ("GCN Racing", "TNT Sports Cycling"):
+        if _is_gcn_priority(race_name) and channel in ("GCN Racing", "TNT Sports Cycling", "Eurosport"):
             score += 15
 
         # Skip penalties

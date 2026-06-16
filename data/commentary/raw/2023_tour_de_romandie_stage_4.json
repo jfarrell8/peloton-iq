@@ -3,7 +3,86 @@
   "race_name": "Tour de Romandie",
   "race_date": "2023-04-29",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "UFFdxDgCP2s",
+    "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
+    "published": "2023-07-04 17:18:04+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=UFFdxDgCP2s",
+    "match_score": 78.75,
+    "all_candidates": [
+      {
+        "video_id": "UFFdxDgCP2s",
+        "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-07-04 17:18:04+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "UTsghf4DpQE",
+        "title": "GC Battle On The Final Climb! | Tour De Suisse 2023 Highlights Men - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-06-14 15:32:40+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "kixZ4M_UllY",
+        "title": "Wind Causes Chaos On Penultimate Stage! | Tour Down Under 2023 Highlights - Men's Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-01-21 06:13:26+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "CGTw-oKH7gc",
+        "title": "Sprint Showdown In Dubai! | UAE Tour 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-02-23 14:50:09+00:00",
+        "match_score": 70.94
+      },
+      {
+        "video_id": "CVmA1i6ZxSw",
+        "title": "A Close Battle From The Sprinters! | Renewi Tour 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-08-26 16:40:28+00:00",
+        "match_score": 70.94
+      },
+      {
+        "video_id": "YBxHc_bcFbQ",
+        "title": "Can Kopecky Keep Yellow? | Tour De France Femmes Avec Zwift 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-07-26 17:25:44+00:00",
+        "match_score": 48.75
+      },
+      {
+        "video_id": "bgzFgOzVBGg",
+        "title": "Battle For Sprint Supremacy! | UAE Tour Women 2023 Highlights - Stage 4",
+        "channel": "GCN Racing",
+        "published": "2023-02-12 14:24:41+00:00",
+        "match_score": 42.5
+      },
+      {
+        "video_id": "Y4UL2SMcRvE",
+        "title": "Tour de France Champions Already On The Attack! | Paris-Nice 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-03-05 17:29:01+00:00",
+        "match_score": 40.0
+      },
+      {
+        "video_id": "nTGWORHukVo",
+        "title": "GC Battle Explodes In High Mountains Of The Queen Stage! | Tour De France 2023 Highlights - Stage 17",
+        "channel": "GCN Racing",
+        "published": "2023-07-19 17:18:34+00:00",
+        "match_score": 38.75
+      },
+      {
+        "video_id": "S_nZsYgeyFA",
+        "title": "Final Chance For Some In Last Mountain Test | Tour De France 2023 Highlights - Stage 20",
+        "channel": "GCN Racing",
+        "published": "2023-07-22 17:19:14+00:00",
+        "match_score": 38.75
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

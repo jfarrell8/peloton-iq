@@ -3,7 +3,86 @@
   "race_name": "Itzulia Basque Country",
   "race_date": "2019-04-09",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "caNGrKBe42c",
+    "title": "How The Race Was Won | Tour of Flanders 2019 Highlights | Cycling | Eurosport",
+    "published": "2019-04-09 09:22:30+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=caNGrKBe42c",
+    "match_score": 90.23,
+    "all_candidates": [
+      {
+        "video_id": "caNGrKBe42c",
+        "title": "How The Race Was Won | Tour of Flanders 2019 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-04-09 09:22:30+00:00",
+        "match_score": 90.23
+      },
+      {
+        "video_id": "LjFX2xhmHok",
+        "title": "Il Giro di Sicilia 2019 | Best of Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2019-04-04 17:03:07+00:00",
+        "match_score": 76.36
+      },
+      {
+        "video_id": "JkxZ7_Py-nQ",
+        "title": "UAE Tour 2019 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-02-26 12:57:43+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "0hwzc_7nWaQ",
+        "title": "UAE Tour 2019 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-25 16:35:23+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "DR2OF6Saja8",
+        "title": "Giro d’Italia 2019 | Stage 21 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-06-02 18:43:52+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "W9BB9446xZs",
+        "title": "Giro d’Italia 2019 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-12 17:38:24+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "hu16nU68CCA",
+        "title": "Giro d’Italia 2019 | Stage 21 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-06-03 08:54:02+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "tev_HZcAXNg",
+        "title": "Giro d’Italia 2019 | Stage 20 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-06-01 19:10:34+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "z71gKMFgBEY",
+        "title": "Giro d’Italia 2019 | Stage 20 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-06-02 05:00:02+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "xsk-7vbroDs",
+        "title": "Giro d’Italia 2019 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-13 15:15:00+00:00",
+        "match_score": 70.23
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

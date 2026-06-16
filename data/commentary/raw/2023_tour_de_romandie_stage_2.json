@@ -3,7 +3,86 @@
   "race_name": "Tour de Romandie",
   "race_date": "2023-04-27",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "CktGmaVTpKo",
+    "title": "The Final Stage On The Iconic Champs Élysées! | Tour De France 2023 Highlights - Stage 21",
+    "published": "2023-07-23 19:30:31+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=CktGmaVTpKo",
+    "match_score": 78.75,
+    "all_candidates": [
+      {
+        "video_id": "CktGmaVTpKo",
+        "title": "The Final Stage On The Iconic Champs Élysées! | Tour De France 2023 Highlights - Stage 21",
+        "channel": "GCN Racing",
+        "published": "2023-07-23 19:30:31+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "S_nZsYgeyFA",
+        "title": "Final Chance For Some In Last Mountain Test | Tour De France 2023 Highlights - Stage 20",
+        "channel": "GCN Racing",
+        "published": "2023-07-22 17:19:14+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "Ro_SD7RloFA",
+        "title": "Fireworks From Yellow Jersey Favourites! | Tour De France 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-07-02 17:02:36+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "mRBNriWPLf8",
+        "title": "Sprint Showdown Followed By Wild Celebrations! | Tour De Suisse 2023 Highlights Men - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-06-12 16:19:14+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "_xeyAS71Ir0",
+        "title": "Climbers Go On The Attack! | Tour Down Under 2023 Highlights - Men's Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-01-19 06:37:47+00:00",
+        "match_score": 75.62
+      },
+      {
+        "video_id": "Nss6VmW0jRA",
+        "title": "Teams Go Head-To-Head Against The Clock | UAE Tour 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-02-21 13:52:10+00:00",
+        "match_score": 70.94
+      },
+      {
+        "video_id": "c89cug2tt9U",
+        "title": "A technical ITT in Sluis | Renewi Tour 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-08-24 16:06:26+00:00",
+        "match_score": 70.94
+      },
+      {
+        "video_id": "GLe2f726plA",
+        "title": "Big Day For The Puncheurs! | Tour De France Femmes Avec Zwift 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-07-24 17:30:17+00:00",
+        "match_score": 48.75
+      },
+      {
+        "video_id": "G3MR4SZNpaI",
+        "title": "Lumpy Terrain Provides Challenge For Sprinters! | Tour Down Under 2023 Highlights - Women's Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-01-16 06:00:15+00:00",
+        "match_score": 45.62
+      },
+      {
+        "video_id": "PcPt4bJn7nM",
+        "title": "Crosswind Chaos! | UAE Tour Women 2023 Highlights - Stage 2",
+        "channel": "GCN Racing",
+        "published": "2023-02-10 14:31:44+00:00",
+        "match_score": 42.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

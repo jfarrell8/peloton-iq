@@ -3,7 +3,23 @@
   "race_name": "E3 Saxo Bank Classic",
   "race_date": "2021-03-26",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "mzc9CPSfbRE",
+    "title": "E3 Saxo Bank Classic 2021 Highlights | Cycling | Eurosport",
+    "published": "2021-03-26 18:37:52+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=mzc9CPSfbRE",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "mzc9CPSfbRE",
+        "title": "E3 Saxo Bank Classic 2021 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-03-26 18:37:52+00:00",
+        "match_score": 115.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

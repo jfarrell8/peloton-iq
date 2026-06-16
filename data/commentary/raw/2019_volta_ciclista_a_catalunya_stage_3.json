@@ -3,7 +3,86 @@
   "race_name": "Volta Ciclista a Catalunya",
   "race_date": "2019-03-27",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "4F0dg7Cnsqs",
+    "title": "Giro d'Italia 2019 | Official Jerseys",
+    "published": "2019-03-27 12:07:43+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=4F0dg7Cnsqs",
+    "match_score": 80.58,
+    "all_candidates": [
+      {
+        "video_id": "4F0dg7Cnsqs",
+        "title": "Giro d'Italia 2019 | Official Jerseys",
+        "channel": "Giro d'Italia",
+        "published": "2019-03-27 12:07:43+00:00",
+        "match_score": 80.58
+      },
+      {
+        "video_id": "O5qknhT8SHY",
+        "title": "Velon's 2019 Team Quiz: Deceuninck - Quick-Step Cycling Team",
+        "channel": "Velon",
+        "published": "2019-03-28 16:38:37+00:00",
+        "match_score": 75.71
+      },
+      {
+        "video_id": "XOmN91xfX0E",
+        "title": "Milan San-Remo 2019 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-24 15:57:42+00:00",
+        "match_score": 73.58
+      },
+      {
+        "video_id": "S-W-N3HQhVw",
+        "title": "Vuelta a Valencia 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-08 16:28:59+00:00",
+        "match_score": 72.79
+      },
+      {
+        "video_id": "L0RANK-ZILg",
+        "title": "Critérium du Dauphiné 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-06-11 17:57:15+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "OMY6TS6kudI",
+        "title": "Tour de Romandie 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-03 16:22:18+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "YmWHn8-j72g",
+        "title": "Giro d’Italia 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-13 16:45:30+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "yCNDu6wUQkE",
+        "title": "Paris-Nice 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-12 17:21:20+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "Iz02N2AuAk4",
+        "title": "UAE Tour 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-26 14:25:46+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "kN1EaBiANv4",
+        "title": "Tour de France 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-07-08 16:34:50+00:00",
+        "match_score": 71.54
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

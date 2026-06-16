@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-17",
   "stage": 14,
-  "video": null,
+  "video": {
+    "video_id": "Dre6d504krQ",
+    "title": "Giro d'Italia 2020 | Stage 14 | Highlights",
+    "published": "2020-10-17 15:46:56+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=Dre6d504krQ",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "Dre6d504krQ",
+        "title": "Giro d'Italia 2020 | Stage 14 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-17 15:46:56+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "Ot_0Io-MyrE",
+        "title": "Giro d'Italia 2020 | Stage 14 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-17 14:57:34+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "hlks77dkhOg",
+        "title": "Giro d'Italia 2020 | Stage 14 | Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-17 17:10:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "lbsgUddtq2c",
+        "title": "Giro d'Italia 2020 | Stage 13 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-16 14:49:28+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "7vqZcZU_iGs",
+        "title": "Giro d'Italia 2020 | Stage 14 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-17 15:40:45+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "nG0wH6zulRA",
+        "title": "Giro d'Italia 2020 | Stage 15 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-18 16:10:39+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "qT1q_uF7s8k",
+        "title": "Giro d'Italia 2020 - Stage 14 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-17 16:45:33+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "TDriiFRp6Zc",
+        "title": "Giro d'Italia 2020 | Buongiorno Giro 14",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-17 06:30:01+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "oDwJ1e5UCjA",
+        "title": "Giro d'Italia 2020 | Buonasera Giro 14",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-17 18:04:22+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "-zk3S2w-nDQ",
+        "title": "Giro d’Italia 2020 | Stage 14 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-10-18 10:30:00+00:00",
+        "match_score": 133.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

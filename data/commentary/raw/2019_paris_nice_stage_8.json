@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2019-03-17",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "3D0IvTAXXx0",
+    "title": "Paris-Nice 2019 | Stage 8 Highlights | Cycling | Eurosport",
+    "published": "2019-03-17 18:55:34+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=3D0IvTAXXx0",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "3D0IvTAXXx0",
+        "title": "Paris-Nice 2019 | Stage 8 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-17 18:55:34+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "HoY9LYZLpso",
+        "title": "Résumé - Étape 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 17:21:46+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "vxMkxBPBEzI",
+        "title": "Summary - Stage 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 17:31:45+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "iBCCh0G9LLo",
+        "title": "Quintana attacks - Stage 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 15:03:27+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "InV979hkwb8",
+        "title": "Stage start given - Stage 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 14:37:40+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "uKuiPxbW8rc",
+        "title": "Last Kilometer - Stage 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 16:11:45+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "BNksYkSBssg",
+        "title": "Intermediate Sprint - Stage 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 15:17:34+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "xSAjKp91Hno",
+        "title": "Yellow Jersey Minute - Stage 8 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 17:22:31+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "zvVA_Wg-8rw",
+        "title": "Best of (Français) - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-17 18:30:24+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "5O6fdMf0rSo",
+        "title": "Paris-Nice 2019 | Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-16 20:07:22+00:00",
+        "match_score": 95.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

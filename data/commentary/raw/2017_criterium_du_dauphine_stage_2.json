@@ -3,66 +3,7 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-05",
   "stage": 2,
-  "video": {
-    "video_id": "4dh8r8EkwSE",
-    "title": "Thrilling sprint for points in Stage 2 of Tour de France",
-    "url": "https://youtube.com/watch?v=4dh8r8EkwSE",
-    "channel": "NBC Sports",
-    "published": "2017-07-02T13:17:10Z",
-    "match_score": 41.43,
-    "all_candidates": [
-      {
-        "video_id": "4dh8r8EkwSE",
-        "title": "Thrilling sprint for points in Stage 2 of Tour de France",
-        "channel": "NBC Sports",
-        "published": "2017-07-02T13:17:10Z",
-        "match_score": 41.43
-      },
-      {
-        "video_id": "XyXYl-X3-yI",
-        "title": "Tour de France 2017: Stage 4 ends in chaos with two massive crashes | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-04T17:05:44Z",
-        "match_score": 16.43
-      },
-      {
-        "video_id": "haLgLaKvAvM",
-        "title": "Tour de France 2017: After Valverde crash, TDF must become safer | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-01T21:16:14Z",
-        "match_score": 16.43
-      },
-      {
-        "video_id": "aYSajHVMQFo",
-        "title": "Hammer Sprint Explained – GCN Live Racing",
-        "channel": "GCN",
-        "published": "2017-06-03T12:13:23Z",
-        "match_score": 35.0
-      },
-      {
-        "video_id": "hJBQrF8sWfk",
-        "title": "Top 5 Race Across America (RAAM) Facts",
-        "channel": "GCN",
-        "published": "2017-06-08T11:00:02Z",
-        "match_score": -6.67
-      },
-      {
-        "video_id": "EoqEwAmZ9vs",
-        "title": "6 Brand New Road Bikes | Prototype Bike Tech",
-        "channel": "GCN",
-        "published": "2017-06-15T15:39:38Z",
-        "match_score": -41.67
-      }
-    ]
-  },
-  "transcript": {
-    "snippet_count": 26,
-    "raw_chars": 1012,
-    "clean_chars": 1012,
-    "duration_mins": 0.9,
-    "clean_text": "well Taylor finny he sits in 12th position overall at 17 seconds down he's got the former world omnium champion the black color sitting on his wheel Alfredo is showing no signs of contesting the Sprint he just wants to maintain the breakes Rhythm it's Taylor finy who opens up the pipes first p is trying to come at him finny with the strength the young Frenchman though with the speed it's got to be desperately close it's Tom Buddha who gets the points ahead of Taylor finny La pishon in third position and then Johan afredo in four well Matt ominous for the Pelon that's going to come up did you see the back wheel of Taylor finy keep an eye on his back wheel as he comes just out from the line middle of the road white line back wheel just skipping away out to the left so that's giving him a right scare you see it now from head on as he comes to the middle of the road on that white line back wheel out to the side buat faster on the flat got the slipstream came out of the wheel a lot of water on the road",
-    "preview_start": "well Taylor finny he sits in 12th position overall at 17 seconds down he's got the former world omnium champion the black color sitting on his wheel Alfredo is showing no signs of contesting the Sprint he just wants to maintain the breakes Rhythm it's Taylor finy who opens up the pipes first p is trying to come at him finny with the strength the young Frenchman though with the speed it's got to be desperately close it's Tom Buddha who gets the points ahead of Taylor finny La pishon in third posi",
-    "preview_end": "n Johan afredo in four well Matt ominous for the Pelon that's going to come up did you see the back wheel of Taylor finy keep an eye on his back wheel as he comes just out from the line middle of the road white line back wheel just skipping away out to the left so that's giving him a right scare you see it now from head on as he comes to the middle of the road on that white line back wheel out to the side buat faster on the flat got the slipstream came out of the wheel a lot of water on the road"
-  },
-  "status": "transcript_saved"
+  "video": null,
+  "transcript": null,
+  "status": "no_video_found"
 }

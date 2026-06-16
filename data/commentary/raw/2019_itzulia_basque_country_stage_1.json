@@ -3,7 +3,86 @@
   "race_name": "Itzulia Basque Country",
   "race_date": "2019-04-08",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "caNGrKBe42c",
+    "title": "How The Race Was Won | Tour of Flanders 2019 Highlights | Cycling | Eurosport",
+    "published": "2019-04-09 09:22:30+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=caNGrKBe42c",
+    "match_score": 80.23,
+    "all_candidates": [
+      {
+        "video_id": "caNGrKBe42c",
+        "title": "How The Race Was Won | Tour of Flanders 2019 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-04-09 09:22:30+00:00",
+        "match_score": 80.23
+      },
+      {
+        "video_id": "3pn8aWFPv-g",
+        "title": "Il Giro di Sicilia 2019 | Best of Stage 1",
+        "channel": "Giro d'Italia",
+        "published": "2019-04-04 14:02:47+00:00",
+        "match_score": 76.36
+      },
+      {
+        "video_id": "G6_-s5GlWSE",
+        "title": "UAE Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-25 11:54:19+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "Kr08H3uG4bE",
+        "title": "UAE Tour 2019 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-02-25 12:54:52+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "_5FyMeCMk9M",
+        "title": "Giro d’Italia 2019 | Stage 17 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-30 04:58:15+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "OMOQ8UcKI6w",
+        "title": "Giro d’Italia 2019 | Stage 15 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-27 09:36:29+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "u5KzXzrPykI",
+        "title": "Giro d’Italia 2019 | Stage 12 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-24 08:44:40+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "_P2IE8l0iI8",
+        "title": "Giro d’Italia 2019 | Stage 11 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-23 05:00:02+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "Agz8aVsDml8",
+        "title": "Giro d’Italia 2019 | Stage 13 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-25 05:00:02+00:00",
+        "match_score": 70.23
+      },
+      {
+        "video_id": "LHtb98Ye7i8",
+        "title": "Giro d’Italia 2019 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-12 17:58:44+00:00",
+        "match_score": 70.23
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

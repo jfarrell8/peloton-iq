@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2021-05-12",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "Yo4AWgA76-8",
+    "title": "Giro d’Italia 2021 | Stage 5 | Highlights",
+    "published": "2021-05-12 18:15:50+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=Yo4AWgA76-8",
+    "match_score": 193.08,
+    "all_candidates": [
+      {
+        "video_id": "Yo4AWgA76-8",
+        "title": "Giro d’Italia 2021 | Stage 5 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 18:15:50+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "xmhdM-wj_nI",
+        "title": "Giro d’Italia 2021 | Stage 5 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 18:11:49+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "fLRaBRhnIsA",
+        "title": "Giro d'Italia 2021 | Stage 5 Press Conference",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 16:29:55+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Dlm1WQcS0Ww",
+        "title": "Giro d’Italia 2021 | The Route | Stage 5",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 07:00:10+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "iMfKUh0z0WI",
+        "title": "Giro d’Italia 2021 | Stage 5 | Ready, steady breakaway",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 12:08:47+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "j33-2g2-_Lo",
+        "title": "Giro d’Italia 2021 | Stage 5 |  Royale di pollo e potacchio con soffice di patate",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 10:00:36+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "Gu3OnYjxzpU",
+        "title": "Giro d’Italia 2021 | Stage 5 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 16:01:13+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "VmJan6cVuRE",
+        "title": "Giro-E 2021 | Stage 5",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 07:27:22+00:00",
+        "match_score": 152.5
+      },
+      {
+        "video_id": "784-1lNt1vM",
+        "title": "Giro d'Italia 2021: Stage 5 on-bike highlights",
+        "channel": "Velon",
+        "published": "2021-05-12 19:42:16+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "B7R0GCisomU",
+        "title": "Giro d'Italia 2021: Stage 5 highlights",
+        "channel": "Velon",
+        "published": "2021-05-12 18:35:43+00:00",
+        "match_score": 145.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

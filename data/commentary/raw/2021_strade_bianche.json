@@ -3,7 +3,86 @@
   "race_name": "Strade Bianche",
   "race_date": "2021-03-06",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "rDT1hvoqYjQ",
+    "title": "Strade Bianche 2021 | Elite Men - Highlights | Cycling | Eurosport",
+    "published": "2021-03-06 19:47:59+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=rDT1hvoqYjQ",
+    "match_score": 115.0,
+    "all_candidates": [
+      {
+        "video_id": "rDT1hvoqYjQ",
+        "title": "Strade Bianche 2021 | Elite Men - Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-03-06 19:47:59+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "HWDf_QboyQk",
+        "title": "Strade Bianche 2021: One of the most explosive displays ever to win",
+        "channel": "Velon",
+        "published": "2021-03-06 18:41:21+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "g04H2TnRrgM",
+        "title": "Strade Bianche EOLO 2021 | Men's Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-06 16:08:36+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "vJSjhquP0xI",
+        "title": "Strade Bianche EOLO 2021 | Best of Men",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-06 18:01:05+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "N1K8Z_6fN68",
+        "title": "Strade Bianche EOLO 2021 | Men winners 2016-2020",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-05 13:00:16+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "Xntf-nK7VfY",
+        "title": "Strade Bianche EOLO 2021 | Making of Trophy",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-04 19:00:06+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "IUyxXs5uDfg",
+        "title": "Strade Bianche EOLO 2021 | Video Recon",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-03 10:00:14+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "-2RyDOKRyws",
+        "title": "Strade Bianche EOLO 2021 | Men's pre race interview",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-06 14:09:36+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "iyIGd82haqA",
+        "title": "Strade Bianche EOLO 2021 | Interview Chantal Van Den Broek-Blaak",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-06 13:03:49+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "d6NglTbnPJQ",
+        "title": "Strade Bianche EOLO 2021 | Men's post race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-06 16:59:48+00:00",
+        "match_score": 75.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

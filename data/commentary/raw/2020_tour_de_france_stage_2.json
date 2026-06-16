@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-08-30",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "nw9-QpXlP4k",
+    "title": "Tour de France 2020 : Étape 2 - La tortue d’Hermann",
+    "published": "2020-08-30 12:00:13+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=nw9-QpXlP4k",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "nw9-QpXlP4k",
+        "title": "Tour de France 2020 : Étape 2 - La tortue d’Hermann",
+        "channel": "Tour de France",
+        "published": "2020-08-30 12:00:13+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Z1kWwUozCyw",
+        "title": "Tour de France 2020: Stage 2 highlights",
+        "channel": "Velon",
+        "published": "2020-08-30 19:22:58+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "FaalbJr6Eek",
+        "title": "Tour de France 2020: Stage 2 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-08-30 18:51:53+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "aHeU44_9HSA",
+        "title": "Julian Alaphilippe claims stage 2 and the yellow Jersey | Tour de France 2020 - Stage 2 Highlights",
+        "channel": "TNT Sports",
+        "published": "2020-08-30 19:20:00+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "0l5snjiiAL0",
+        "title": "Tour de France 2020: CCC Team briefing on Stage 2",
+        "channel": "Velon",
+        "published": "2020-08-30 16:02:16+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "M1XwTnK1FaQ",
+        "title": "Virtual Tour de France 2020 - Stage 2 : Highlights",
+        "channel": "Tour de France",
+        "published": "2020-07-05 17:25:19+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "T9RApczLwNI",
+        "title": "Tour de France 2020 : Étape 3 - Le guêpier d’Europe",
+        "channel": "Tour de France",
+        "published": "2020-08-31 12:00:14+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "droleQMpN3Q",
+        "title": "Tour de France 2020 : Étape 21 - La réserve de Saint-Quentin-en-Yvelines",
+        "channel": "Tour de France",
+        "published": "2020-09-20 12:00:11+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "e9q1hl3C5-I",
+        "title": "Tour de France 2020 : Étape 20 - Le lynx boréal",
+        "channel": "Tour de France",
+        "published": "2020-09-19 12:00:10+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "Qc4G8tu92to",
+        "title": "Tour de France 2020 - Étape 21 / Stage 21 from the sky : Mantes la Jolie -Paris Champs-Élysées",
+        "channel": "Tour de France",
+        "published": "2020-07-19 08:00:07+00:00",
+        "match_score": 115.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

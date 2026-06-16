@@ -3,7 +3,86 @@
   "race_name": "Tour of Guangxi",
   "race_date": "2017-10-19",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "vuAPfu8JqHo",
+    "title": "Tour of Guangxi 2017 | Stage 1 GoPro highlights",
+    "published": "2017-10-19 10:21:03+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=vuAPfu8JqHo",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "vuAPfu8JqHo",
+        "title": "Tour of Guangxi 2017 | Stage 1 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-19 10:21:03+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "l8KhEg4ZxUg",
+        "title": "Tour of Guangxi 2017 | Stage 2 highlights",
+        "channel": "Velon",
+        "published": "2017-10-20 12:36:45+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "zGLFZdAWkWA",
+        "title": "Tour of Guangxi 2017 | Pre-race",
+        "channel": "Velon",
+        "published": "2017-10-18 14:18:51+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "stP18mxuVcw",
+        "title": "Tour of Guangxi 2017: Stage 1 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 19:58:15+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "J2hkvghSZ90",
+        "title": "Tour of Taihu Lake 2017 - Stage 1 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-11 05:07:50+00:00",
+        "match_score": 82.23
+      },
+      {
+        "video_id": "mXzFkwrbXSM",
+        "title": "Tour of Guangxi 2017 | Stage 4 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-22 14:15:33+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "DhUR0eOggOM",
+        "title": "Tour of Guangxi 2017 | Stage 3 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-21 11:58:54+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "3s0fRu1Fn4E",
+        "title": "Tour of Britain 2017: Stage 1 - Highlights",
+        "channel": "inCycle",
+        "published": "2017-09-03 15:37:14+00:00",
+        "match_score": 77.39
+      },
+      {
+        "video_id": "RRb1tiIERyM",
+        "title": "Tour of Taihu Lake 2017 - Stage 6 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-16 05:43:42+00:00",
+        "match_score": 77.23
+      },
+      {
+        "video_id": "Y9GxV4AyoEk",
+        "title": "Tour of Taihu Lake 2017 - Stage 7 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-17 05:11:34+00:00",
+        "match_score": 77.23
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

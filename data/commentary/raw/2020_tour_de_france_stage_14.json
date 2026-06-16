@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-12",
   "stage": 14,
-  "video": null,
+  "video": {
+    "video_id": "RTIs83rz8aY",
+    "title": "Tour de France 2020 : Étape 14 - Héron cendré",
+    "published": "2020-09-12 12:00:06+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=RTIs83rz8aY",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "RTIs83rz8aY",
+        "title": "Tour de France 2020 : Étape 14 - Héron cendré",
+        "channel": "Tour de France",
+        "published": "2020-09-12 12:00:06+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "giOl4NjreRY",
+        "title": "Tour de France 2020: Stage 14 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-12 18:18:47+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "YDJLSBWpufY",
+        "title": "Tour de France 2020: Stage 14 highlights",
+        "channel": "Velon",
+        "published": "2020-09-12 17:47:58+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "DqXTrMuHIgw",
+        "title": "Tour de France 2020 - Stage 14 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-12 17:26:36+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "a46lvHtoXUQ",
+        "title": "Tour de France 2020: Inside Team Sunweb's Stage 14 celebrations",
+        "channel": "Velon",
+        "published": "2020-09-13 13:12:01+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "S5UGbAe5N3g",
+        "title": "Tour de France 2020 : Étape 15 - La salamandre tachetée",
+        "channel": "Tour de France",
+        "published": "2020-09-13 12:00:06+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "sH-_zxN8cJQ",
+        "title": "#TDF2020 - Stage 13 - Martinez bags first Tour de France success!",
+        "channel": "Tour de France",
+        "published": "2020-09-11 17:15:46+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "4EbiAo1gSnY",
+        "title": "Tour de France 2020 : Étape 13 - Carrière Eurovia Châteaugay",
+        "channel": "Tour de France",
+        "published": "2020-09-11 12:00:02+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "iXtwo9gm-aQ",
+        "title": "Tour de France 2020 - Étape 14 vue du ciel / Stage 14 from the sky : Clermont - Lyon",
+        "channel": "Tour de France",
+        "published": "2020-07-11 08:00:14+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "Bvmseh43Uio",
+        "title": "#TDF2020 - Stage 12 - Hirschi scores first Tour de France victory!",
+        "channel": "Tour de France",
+        "published": "2020-09-10 16:39:44+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-21",
   "stage": 14,
-  "video": null,
+  "video": {
+    "video_id": "9GRFzS4Xc74",
+    "title": "Echelon - Stage 14 - Tour de France 2018",
+    "published": "2018-07-21 11:23:08+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=9GRFzS4Xc74",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "9GRFzS4Xc74",
+        "title": "Echelon - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 11:23:08+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "LYsYz6inoxM",
+        "title": "Côte du Grand Châtaignier  - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 13:11:45+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "pCk_Zxh3oA0",
+        "title": "Vallon Pont d’Arc - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 12:22:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "CAYqPfVJX3Y",
+        "title": "Neutralized start - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 11:19:44+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "BLlPqcYg9zU",
+        "title": "Start - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 11:13:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "S7wl7a_agl8",
+        "title": "Résumé - Étape 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 17:12:43+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "tbCdQPccg0Y",
+        "title": "Summary - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 17:38:04+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "m2ysinnvhdQ",
+        "title": "La minute Maillot Jaune LCL - Étape 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 17:30:58+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "VYF2t8jnxX0",
+        "title": "The joy of Omar Fraile - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 17:18:10+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "nh8QMKVW4Oo",
+        "title": "Presentation - Stage 14 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-21 05:00:02+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

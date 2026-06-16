@@ -3,7 +3,86 @@
   "race_name": "Tirreno Adriatico",
   "race_date": "2020-09-10",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "CWguh-pnCL0",
+    "title": "Tirreno Adriatico 2020 - Stage 4 Highlights | Cycling | Eurosport",
+    "published": "2020-09-10 17:06:53+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=CWguh-pnCL0",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "CWguh-pnCL0",
+        "title": "Tirreno Adriatico 2020 - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-10 17:06:53+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "1xL-2sC8P0w",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 4 Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-10 15:02:56+00:00",
+        "match_score": 138.53
+      },
+      {
+        "video_id": "paKWs_bEn-Q",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 4 Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-10 14:39:59+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "OlHo0k5-2-8",
+        "title": "Tirreno-Adriatico EOLO 2020 | Tappa 4 – Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-10 16:21:49+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "n35zIOEdWEk",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 4 - The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-10 10:52:34+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "fDw2bCgdgbk",
+        "title": "Tirreno-Adriatico 2020 | Stage 4 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-09-11 11:00:11+00:00",
+        "match_score": 133.53
+      },
+      {
+        "video_id": "YuAw2iY4LXY",
+        "title": "Tirreno Adriatico EOLO 2020 | Stage 4",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-09 22:15:07+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "oWisQoPylZg",
+        "title": "Tirreno-Adriatico 2020 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-09-10 11:00:10+00:00",
+        "match_score": 103.53
+      },
+      {
+        "video_id": "9vv04w_m3Xw",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 4 Interviews Post-Race",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-10 14:49:30+00:00",
+        "match_score": 103.53
+      },
+      {
+        "video_id": "4jHh2PSuzKo",
+        "title": "Tirreno-Adriatico EOLO 2020 | Stage 4 pre-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2020-09-10 11:49:06+00:00",
+        "match_score": 103.53
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

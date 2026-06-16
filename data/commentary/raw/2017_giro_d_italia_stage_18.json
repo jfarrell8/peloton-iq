@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2017-05-25",
   "stage": 18,
-  "video": null,
+  "video": {
+    "video_id": "6FWeSVv8UVs",
+    "title": "Giro d'Italia 2017 - Stage 18 - Highlights",
+    "published": "2017-05-25 19:18:51+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=6FWeSVv8UVs",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "6FWeSVv8UVs",
+        "title": "Giro d'Italia 2017 - Stage 18 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2017-05-25 19:18:51+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "KoI81CdYEa8",
+        "title": "Giro d'Italia 2017 - Stage 19 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2017-05-26 19:48:35+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "DAPDsCI-pXU",
+        "title": "Giro d'Italia 2017 | Stage 18 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-05-25 16:40:14+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "UbVoAIaLCak",
+        "title": "Giro d'Italia 2017 - Stage 16 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2017-05-23 17:52:36+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "ttAKa8oz5u4",
+        "title": "Giro d'Italia 2017 - The Route - Stage 18",
+        "channel": "Giro d'Italia",
+        "published": "2017-04-28 13:06:38+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "-NRvACRKDCQ",
+        "title": "Giro d'Italia 2017 - Stage 13 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2017-05-19 18:33:41+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "Q13D3qe7veY",
+        "title": "Giro d'Italia 2017 - Stage 15 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2017-05-21 18:22:14+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "peAUTfKc4yM",
+        "title": "Giro d'Italia 2017 | Stage 19 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-05-26 16:26:31+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "EtcgvepFdj4",
+        "title": "Giro d'Italia 2017 | Stage 17 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-05-24 16:17:51+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "iBVVAbSllJk",
+        "title": "Giro d'Italia 2017 | Stage 21 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-05-28 17:00:52+00:00",
+        "match_score": 80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

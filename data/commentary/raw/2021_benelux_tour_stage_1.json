@@ -3,7 +3,86 @@
   "race_name": "Benelux Tour",
   "race_date": "2021-08-30",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "Cq1TilF6gVs",
+    "title": "2021 Baloise Belgium Tour - Stage 1 | Highlights | Cycling | Eurosport",
+    "published": "2021-06-09 16:51:41+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=Cq1TilF6gVs",
+    "match_score": 78.75,
+    "all_candidates": [
+      {
+        "video_id": "Cq1TilF6gVs",
+        "title": "2021 Baloise Belgium Tour - Stage 1 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-09 16:51:41+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "PqCLcqa0yMw",
+        "title": "UAE Tour 2021 - Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-02-23 11:32:21+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "omM_SOZBqZ0",
+        "title": "UAE Tour 2021 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-02-22 13:00:33+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "EmDZZiLcojQ",
+        "title": "UAE Tour 2021 highlights: Crosswind chaos on Stage 1",
+        "channel": "Velon",
+        "published": "2021-02-21 15:47:19+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "RT8LMlXrqyk",
+        "title": "Tour de Luxembourg 2021 - Stage 1 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-09-14 16:46:49+00:00",
+        "match_score": 74.58
+      },
+      {
+        "video_id": "xOudzyxh17g",
+        "title": "Tour de France 2021: Stage 11 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2021-07-07 18:30:16+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "0cx3Y4-iqK0",
+        "title": "Tour de France 2021: Stage 14 Race Highlights",
+        "channel": "Velon",
+        "published": "2021-07-10 20:25:14+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "3xBeJJvcFr8",
+        "title": "Tour de France 2021: Stage 15 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2021-07-11 18:18:10+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "uzIqr6S1WWU",
+        "title": "Tour the France 2021: Stage 14 on-bike highlights",
+        "channel": "Velon",
+        "published": "2021-07-10 19:12:40+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "bd4Lfdi9UYc",
+        "title": "Tour de France 2021: Stage 15 Highlights",
+        "channel": "Velon",
+        "published": "2021-07-11 18:48:08+00:00",
+        "match_score": 72.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

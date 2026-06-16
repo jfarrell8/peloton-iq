@@ -3,7 +3,86 @@
   "race_name": "UAE Tour",
   "race_date": "2021-02-23",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "iWyp0UN6T7Q",
+    "title": "Giro d'Italia 2021 Route First Look | The Toughest Grand Tour Of The Year?",
+    "published": "2021-02-24 16:30:02+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=iWyp0UN6T7Q",
+    "match_score": 83.75,
+    "all_candidates": [
+      {
+        "video_id": "iWyp0UN6T7Q",
+        "title": "Giro d'Italia 2021 Route First Look | The Toughest Grand Tour Of The Year?",
+        "channel": "GCN Racing",
+        "published": "2021-02-24 16:30:02+00:00",
+        "match_score": 83.75
+      },
+      {
+        "video_id": "4FshYf5M-iU",
+        "title": "62kph For 10 Minutes: Welcome To The 2021 WorldTour | GCN Racing News Show",
+        "channel": "GCN Racing",
+        "published": "2021-02-22 17:06:55+00:00",
+        "match_score": 77.5
+      },
+      {
+        "video_id": "H7D-K5Hb5e0",
+        "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
+        "channel": "GCN Racing",
+        "published": "2021-06-28 16:32:57+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "weCpgz2Om4c",
+        "title": "La Course by Le Tour de France 2021 Highlights | Can Lizzie Deignan Repeat Her 2020 Win?",
+        "channel": "GCN Racing",
+        "published": "2021-06-26 11:36:21+00:00",
+        "match_score": 38.75
+      },
+      {
+        "video_id": "Lou_5_FxJOQ",
+        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
+        "channel": "GCN Racing",
+        "published": "2021-07-15 16:33:10+00:00",
+        "match_score": 37.86
+      },
+      {
+        "video_id": "3PeuXUd6yHE",
+        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
+        "channel": "GCN Racing",
+        "published": "2021-07-18 18:57:54+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "_NIaEwGWhWU",
+        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
+        "channel": "GCN Racing",
+        "published": "2021-07-14 16:30:32+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "JZk6a1Z7Csk",
+        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
+        "channel": "GCN Racing",
+        "published": "2021-07-13 16:41:29+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "khNB4kSu1bk",
+        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
+        "channel": "GCN Racing",
+        "published": "2021-07-16 16:26:55+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "JDqt96CevYc",
+        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
+        "channel": "GCN Racing",
+        "published": "2021-07-17 17:03:43+00:00",
+        "match_score": 36.67
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

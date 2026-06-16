@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-23",
   "stage": 12,
-  "video": null,
+  "video": {
+    "video_id": "4lu4KwLNjVU",
+    "title": "Giro d'Italia 2019 | Stage 12 | Highlights",
+    "published": "2019-05-23 16:15:00+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=4lu4KwLNjVU",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "4lu4KwLNjVU",
+        "title": "Giro d'Italia 2019 | Stage 12 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 16:15:00+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "i1y7ZDe1v_c",
+        "title": "Giro d'Italia 2019 | Stage 12 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 12:44:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "kv2BmF16BIg",
+        "title": "Giro d'Italia 2019 | Stage 12 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 07:00:03+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "xsJH-JHOmao",
+        "title": "Giro d'Italia 2019 | Stage 12 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 18:02:01+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "gSan52SEMr4",
+        "title": "Giro d'Italia 2019 | Stage 12 | Pre-start interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 12:17:37+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "BA_dBLjKZsc",
+        "title": "Giro d'Italia 2019 | Stage 11 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-22 16:52:38+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "O2Z-WCChEh4",
+        "title": "Giro d'Italia 2019 | Stage 12 | Post-stage interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 16:02:12+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "jkIXNPZBvkA",
+        "title": "Giro d’Italia 2019 | Stage 12 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-23 17:36:11+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "gl7rngGMLCo",
+        "title": "The Breakaway: Stage 12 Analysis | Giro d’Italia 2019 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-23 16:21:30+00:00",
+        "match_score": 138.08
+      },
+      {
+        "video_id": "u5KzXzrPykI",
+        "title": "Giro d’Italia 2019 | Stage 12 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-24 08:44:40+00:00",
+        "match_score": 133.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

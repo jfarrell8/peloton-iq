@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-08-31",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "T9RApczLwNI",
+    "title": "Tour de France 2020 : Étape 3 - Le guêpier d’Europe",
+    "published": "2020-08-31 12:00:14+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=T9RApczLwNI",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "T9RApczLwNI",
+        "title": "Tour de France 2020 : Étape 3 - Le guêpier d’Europe",
+        "channel": "Tour de France",
+        "published": "2020-08-31 12:00:14+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "j0gZ_mN5OnE",
+        "title": "Tour de France 2020: Stage 3 highlights",
+        "channel": "Velon",
+        "published": "2020-08-31 17:26:35+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "6VPY9reGKw4",
+        "title": "Caleb Ewan wins with an impressive sprint! | Tour de France 2020 - Stage 3 Highlights | Cycling",
+        "channel": "TNT Sports",
+        "published": "2020-08-31 17:43:45+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "mrEu6L8vU_Y",
+        "title": "Tour de France 2020: Stage 3 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-08-31 18:15:56+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "BGfGAlhlldo",
+        "title": "Virtual Tour de France 2020 - Stage 3 - Highlights",
+        "channel": "Tour de France",
+        "published": "2020-07-11 18:10:18+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "DJqEEp4JYJ8",
+        "title": "Tour de France 2020 : Étape 4 - Le tétras Lyre",
+        "channel": "Tour de France",
+        "published": "2020-09-01 12:00:05+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "nw9-QpXlP4k",
+        "title": "Tour de France 2020 : Étape 2 - La tortue d’Hermann",
+        "channel": "Tour de France",
+        "published": "2020-08-30 12:00:13+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "2Jyp0mDQc-U",
+        "title": "Virtual Tour de France 2020 - Live Stage 3",
+        "channel": "Tour de France",
+        "published": "2020-07-11 15:22:47+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "uZvJTQiP2gA",
+        "title": "Tour de France 2020 - Étape 3 vue du ciel / Stage 3 from the sky : Nice - Sisteron",
+        "channel": "Tour de France",
+        "published": "2020-06-29 15:03:50+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "SxAwwP3iVUA",
+        "title": "Tour de France 2020 : Étape 5 - Les vautours fauves",
+        "channel": "Tour de France",
+        "published": "2020-09-02 12:00:14+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

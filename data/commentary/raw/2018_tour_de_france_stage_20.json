@@ -4,93 +4,85 @@
   "race_date": "2018-07-28",
   "stage": 20,
   "video": {
-    "video_id": "ZhaRq9E88GQ",
-    "title": "A Day At The Tour de France With Mavic Neutral Service | Tour de France 2018",
-    "url": "https://youtube.com/watch?v=ZhaRq9E88GQ",
+    "video_id": "Wy8QYQbdENY",
+    "title": "Who Is Geraint Thomas? Tour de France Winner 2018 | Tour de France 2018",
+    "published": "2018-07-29 17:40:05+00:00",
     "channel": "GCN",
-    "published": "2018-07-29 20:02:16+00:00",
-    "match_score": 80.0,
+    "url": "https://youtube.com/watch?v=Wy8QYQbdENY",
+    "match_score": 85.0,
     "all_candidates": [
-      {
-        "video_id": "ZhaRq9E88GQ",
-        "title": "A Day At The Tour de France With Mavic Neutral Service | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-29 20:02:16+00:00",
-        "match_score": 80.0
-      },
       {
         "video_id": "Wy8QYQbdENY",
         "title": "Who Is Geraint Thomas? Tour de France Winner 2018 | Tour de France 2018",
         "channel": "GCN",
         "published": "2018-07-29 17:40:05+00:00",
-        "match_score": 80.0
+        "match_score": 85.0
+      },
+      {
+        "video_id": "ZhaRq9E88GQ",
+        "title": "A Day At The Tour de France With Mavic Neutral Service | Tour de France 2018",
+        "channel": "GCN",
+        "published": "2018-07-29 20:02:16+00:00",
+        "match_score": 55.0
       },
       {
         "video_id": "iyDGXpNj0qg",
         "title": "AG2R La Mondiale Mechanics' Truck Tour | Tour de France 2018",
         "channel": "GCN",
         "published": "2018-07-27 11:00:07+00:00",
-        "match_score": 80.0
+        "match_score": 55.0
       },
       {
         "video_id": "4YTemFeJiCI",
         "title": "5 Most Common Injuries In Pro Cycling & How They're Treated | Tour de France 2018",
         "channel": "GCN",
         "published": "2018-07-25 16:43:56+00:00",
-        "match_score": 65.0
-      },
-      {
-        "video_id": "ogryZJbKiZc",
-        "title": "Alpe d'Huez Dutch Corner - The Biggest Party In Cycling? | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-24 15:57:23+00:00",
-        "match_score": 45.0
-      },
-      {
-        "video_id": "33P8lVAtw2Q",
-        "title": "5 Key Climbs Of The 2018 Tour de France | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-12 16:09:27+00:00",
-        "match_score": 30.0
-      },
-      {
-        "video_id": "uszFFI2nxJw",
-        "title": "GCN’s Essential French Cycling Phrases Vol. 1 | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-09 16:34:30+00:00",
-        "match_score": 30.0
+        "match_score": 40.0
       },
       {
         "video_id": "rn6a5Wl4xGE",
         "title": "Peter Sagan's Custom Specialized S-Works Venge Disc | Tour de France 2018",
         "channel": "GCN",
         "published": "2018-07-10 15:37:40+00:00",
-        "match_score": 30.0
+        "match_score": 35.0
       },
       {
-        "video_id": "ksbCDgR3Oko",
-        "title": "The Future Of The Tour de France? - 65KM Mountain Stage Preview | Tour de France 2018",
+        "video_id": "33P8lVAtw2Q",
+        "title": "5 Key Climbs Of The 2018 Tour de France | Tour de France 2018",
         "channel": "GCN",
-        "published": "2018-07-23 15:57:09+00:00",
-        "match_score": 25.0
+        "published": "2018-07-12 16:09:27+00:00",
+        "match_score": 35.0
       },
       {
-        "video_id": "C4dKaCJtEyA",
-        "title": "Tour Down Under 2018 | Stage 5 Report",
+        "video_id": "uszFFI2nxJw",
+        "title": "GCN’s Essential French Cycling Phrases Vol. 1 | Tour de France 2018",
         "channel": "GCN",
-        "published": "2018-01-20 09:59:36+00:00",
-        "match_score": 21.07
+        "published": "2018-07-09 16:34:30+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "R__9s6zrjzE",
+        "title": "7 World Tour Newcomers To Watch For 2018",
+        "channel": "GCN",
+        "published": "2018-01-11 17:05:27+00:00",
+        "match_score": 24.29
+      },
+      {
+        "video_id": "0UIfTcPmbs4",
+        "title": "Abu Dhabi Tour 2018 | Stage 5 Race Report",
+        "channel": "GCN",
+        "published": "2018-02-25 16:05:30+00:00",
+        "match_score": 22.5
+      },
+      {
+        "video_id": "v2ubiWjl3s4",
+        "title": "Abu Dhabi Tour 2018 | Stage 4 Race Report",
+        "channel": "GCN",
+        "published": "2018-02-24 14:23:27+00:00",
+        "match_score": 22.5
       }
     ]
   },
-  "transcript": {
-    "snippet_count": 280,
-    "raw_chars": 11301,
-    "clean_chars": 10892,
-    "duration_mins": 13.6,
-    "clean_text": "- The bright yellow cars of Mavic Neutral Service are one of the most famous sights at the Tour de France. And they've been kind enough to actually take us right inside the heart of the race, give us a seat in one of their Neutral Service cars. This is a day in the life of Mavic Service Course. It's not quite as early as I thought it would be, and that's for two reasons. Firstly, we're not in a hotel car park. We're at Mavic's headquarters, 'cause the stage starts in their hometown of Annecy. So that helps a lot. And then secondly, La Course is on today, and so these cars are gonna be with the men's race, which doesn't start until later, so that both races can be on the same day. So eight o'clock, we've got a line. Well, maybe these guys, as you can tell, they're pretty much already ready to go. They were waiting for us. Apparently this is gonna be our one opportunity of the day to see the whole fleet together, so I will talk you through it. We've got two motorbikes on today's stage. Each one will have two people on it. Then further down you can see there's a transporter van there. So that's gonna be in the fairly unusual position of being static on the top of what's called the Col des Glieres, which is a short section of gravel. So they'll have some wheels and a little tent. By all accounts, they're expecting that to be a relatively easy gig today, so a nice rest day for those guys. Then we can also see there are three Neutral Service cars down there. So they will be in the race, taking different positions. And we'll talk you through that a little bit later on. Driving the car today is Max Ruphy. Despite his youth, he's still got five Tours under his belt. He is the guy that helped sort Rigoberto Uran's bike last year on the stage that he then went on to win. But he's not the mechanic today though. That is Benjamin Glize. He sits in the back of the car with me. Now, you might be wondering what Neutral Service is, and perhaps even who Mavic are, so let me explain. Mavic are a French cycling company with near-mythical status, cemented by these iconic yellow cars. They're most famous for their wheels, but also tires, shoes, helmets, clothes, and Neutral Service, which is what, exactly? Well, during a bike race, riders are followed by their team cars, which have spare bikes and wheels in case of emergency. However, there are eight riders in a team, and only two team cars. So at times, a rider might not have team support. And that is where Mavic Neutral Service comes in, on hand to give a new wheel or even a new bike to whomever might need it. It's a role that Mavic created in 1973, and a role they take very seriously, both at pro, and since 1985, at amateur events too. They always need to be prepared, which is why we're off to the race start with four hours to spare. We are in at the Village area at the start. We're waiting to take our place in the convoy. But before we do, Max, can you take this opportunity to actually show us around the car, explain what everything is, what it's doing here? - Yeah, sure, so this is our Neutral Service Car, so the yellow car that you see in the Tour de France. So for the cars we've got four bikes on the roof. So they are all with the adjusting saddle from KS. - The Dropper seat post, yeah. - Dropper seat post. And we've got all the pedals that are used here for the Tour de France. - So one size of bike, but Look, Shimano, Speedplay. - And that's it. And so yeah, we've got the full bikes and they are ready to go, very easy to get out. So in case of a major problem, we're gonna use the bike to change it. - Now, you don't often see riders taking the bikes. But in terms of in the back here, we've got wheels going on. - So today it's a hilly stage, so we use this one because they are light. It's actually the one that they're gonna probably use, 82 as well. And so they are all set up with 28-11, so they can fit to everyone and all the people. - And what about disc wheels then? So we know there's gonna be some riders riding on disc brakes. - Yeah, we have to have a look, actually, this morning, because we have to check it every morning for that. And we've got some wheels that's gonna be at the back as well. 140, because there is some team, they are 140. And we've got-- - Whoa, that's a deep one for today. - Yeah, and we've got the 160 as well. - Stealth wheel, is that one of yours? - Yeah. - So full toolbox. 'Cause you don't use that all that often either, but last year you did with Rigoberto Uran, yeah? - The tools, we needed, yeah. Because even just screw with the Allen key and things like that, we always need it. Many times they come over, just next to the car, just for small adjustment or tightening the saddle, one thing like that. - Okay, and what's in this one? - Actually this is shoes for all the riders of the tour. And all the riders that we've got in the bulletin, they've got spare shoes already. But in case, we've got more shoes for them. So we carry it for the full Tour, and we actually keep it in one car because you never know. So what we do, I've got a list where I know all the riders, what they are using, so the disc and everything, builds. And I put also the stage of the day every day. I've got a map where I can check where we're gonna go through. I've got the road book as well, making sure I follow the good road. But on the Tour de France it's not very difficult. There is people everywhere in the world, so yeah. - And then you've got race radio tucked in there as well. That's gotta be super important, right? - So after we've got the radio, so in this radio we can hear digital. And we can speak together with the Mavic car and motor. So we've got an inter-channel, which we can speak together. - Okay, and do race radio ever say, \"We need Neutral Service.\" Obviously, normally it's like, \"Rider number 34,\" whatever. - They actually always call us. As soon as there is action, they say, \"Mavic car.\" You're gonna hear it after. \"Mavic car, come behind us and follow us.\" If there is punctures and there is no team cars behind, they're gonna say, \"Mavic, that's for you.\" - The stage today is a mountain stage through the northern Alps, starting in Annecy and crossing cols of the Croix-Fry, the Romme, and the Colombiere. And of course, with that aforementioned section of gravel on top of the fearsomely steep Col des Glieres. It's 158 kilometers in all, and the stage finishes in Le Grand-Bornand. It's a big day, but no summit finish. Okay Max, can you explain to us where we are gonna be in the overall picture of the race? So we're the third Mavic Neutral Service car. So where are the other two, and where are we gonna be? - So actually, the two are at the front. They're actually getting behind the breakaway, the breakaway that just got away right now. And for us, I think we're gonna go behind the red direction cars, just at the start of the Col de la Croix-Fry. - Okay, so they're gonna move us up soon. - Yeah, in 10 Ks, probably, they're gonna call us, and they're gonna say, \"Hey, Mavic number three, just come over. \"People are getting dropped, so you need to follow us.\" - And so then once we're on the climbs, we're gonna follow the GC guys. So we're gonna see a lot of people getting dropped, one would imagine. - Yeah, probably a lot of people getting dropped today. So yeah, there's gonna be probably a lot of people at the back, and they're gonna do barrage. And so they're gonna keep the team cars behind. And we're gonna be the only one behind the GC riders. - It looks kind of chaotic back here in the convoy. But there's some pretty strict rules, right Max? - Yeah, there are, actually. Right lane for the cars, left lane for the motors. And everyone's got his position. So yeah, it's well organized. - And so when we need to move up, we've got that whole left hand lane where it's okay for us to do so, yeah? - Yeah, pretty much, and we need to use the horn, especially because everyone is fighting for his spot. - But people know that you're not a rival team you're Mavic, so you get a bit more. - They let us pass pretty easily, so that's fine. - Gruppetto's starting to form. We've got quite a grandstand position. Kittel, just going backwards. You wouldn't believe how fast he was still going though. - Loose, yes, but it will not move. - Saddle's a bit nose-up. Just stuck arm out the window, formed an Allen key, dropped the nose of the saddle down. You've not even broken a sweat. Right, just getting towards the top of the first summit of the day, the Col de Croix-Fry. And there's been action already, obviously. There's a fair few guys going backwards. But we gotta buckle up, 'cause it's gonna be a fast descent off here. Just so we know, if there's a crash, obviously the rider wants their team car. But do we always stop too? - No, we have to pass them. - So we go past the crash. - Yeah, because the team cars will have to stop after. We will be the only one behind the main group. So we have to pass, then after they are behind, so we have to stop. - Okay, so we've got gravel coming up. They need some support, right? - Yeah, I think they may worry if there is gonna puncture. Could be, so they want us to be there in case there is a puncture. - Bloody hell, it's Froome. Good wheel change, Benjamin. Okay, that's pretty much about the most action you could ever expect to get in a Tour de France. Chris Froome, rear wheel puncture on the section of gravel on this stage. That was a super quick wheel change, nice work. And rear wheel, at that. It's all going off. So that was a bike change for, . - Nicolas Edet. - Nicolas Edet. So he's now got one of the Neutral bikes. Currently probably messing around with his Dropper seat post. But at least he's got the right pedals. Just hit the foot of the final climb of the day now. I can't quite tell you how unbelievable this position is. So the back of the lead group, the GC favorites, is literally 10 meters away up there. We're getting the best riders in the world, just drifting past. It's absolutely incredible. Max, thank you so, so much for having us in the car with you. - You're welcome. - And thank you very much for driving us so safely. - Thanks. - Whilst eating a sandwich at times. That was truly remarkable. Yeah, and also fair play to the car. 'Cause we go downhill pretty quick, don't we? - These cars are amazing. And that's right, you have this car that's good at one, so yeah. - Well, please make sure you give this video a big thumbs up if you've enjoyed it. Certainly some insight for me, and I hope for you too, as well. If you'd like to watch any more Tour de France content, firstly, let me remind you that we have our highlights and analysis programs over on Facebook. So make sure you check those out. And of course, all of our usual videos on YouTube, of which there is one absolute belter that you can click through to right now.",
-    "preview_start": "- The bright yellow cars of Mavic Neutral Service are one of the most famous sights at the Tour de France. And they've been kind enough to actually take us right inside the heart of the race, give us a seat in one of their Neutral Service cars. This is a day in the life of Mavic Service Course. It's not quite as early as I thought it would be, and that's for two reasons. Firstly, we're not in a hotel car park. We're at Mavic's headquarters, 'cause the stage starts in their hometown of Annecy. So",
-    "preview_end": " this car that's good at one, so yeah. - Well, please make sure you give this video a big thumbs up if you've enjoyed it. Certainly some insight for me, and I hope for you too, as well. If you'd like to watch any more Tour de France content, firstly, let me remind you that we have our highlights and analysis programs over on Facebook. So make sure you check those out. And of course, all of our usual videos on YouTube, of which there is one absolute belter that you can click through to right now."
-  },
-  "status": "transcript_saved"
+  "transcript": null,
+  "status": "video_found"
 }

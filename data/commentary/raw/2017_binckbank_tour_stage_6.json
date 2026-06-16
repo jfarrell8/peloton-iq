@@ -3,7 +3,86 @@
   "race_name": "BinckBank Tour",
   "race_date": "2017-08-12",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "Hg6bkLcxo1Q",
+    "title": "Peter Sagan's Specialized S-Works Tarmac | Tour de France 2017",
+    "published": "2017-08-12 16:00:02+00:00",
+    "channel": "GCN",
+    "url": "https://youtube.com/watch?v=Hg6bkLcxo1Q",
+    "match_score": 80.71,
+    "all_candidates": [
+      {
+        "video_id": "Hg6bkLcxo1Q",
+        "title": "Peter Sagan's Specialized S-Works Tarmac | Tour de France 2017",
+        "channel": "GCN",
+        "published": "2017-08-12 16:00:02+00:00",
+        "match_score": 80.71
+      },
+      {
+        "video_id": "-aSCBcGdNG0",
+        "title": "Farewell Fabian – Cancellara Highlights And The 2017 Tour | The GCN Show Ep. 198",
+        "channel": "GCN",
+        "published": "2016-10-25 17:38:00+00:00",
+        "match_score": 25.71
+      },
+      {
+        "video_id": "qHl5w5ppioE",
+        "title": "Richie Porte's BMC Teammachine SLR01 Pro Bike | Tour De France 2017",
+        "channel": "GCN",
+        "published": "2017-07-08 11:00:05+00:00",
+        "match_score": 24.29
+      },
+      {
+        "video_id": "mESQqFOyWio",
+        "title": "Thomas Voeckler's BH Ultralight Pro Bike | Tour de France 2017",
+        "channel": "GCN",
+        "published": "2017-07-20 12:11:12+00:00",
+        "match_score": 24.29
+      },
+      {
+        "video_id": "2QfXtc5qQuo",
+        "title": "NEW Pro Bike Tech For 2017 With Caley Fretz | Dubai Tour 2017",
+        "channel": "GCN",
+        "published": "2017-02-04 18:00:00+00:00",
+        "match_score": 22.96
+      },
+      {
+        "video_id": "YRCcqN3cQDA",
+        "title": "Bahrain-Merida Bus Tour | Giro d'italia 2017",
+        "channel": "GCN",
+        "published": "2017-05-09 14:18:08+00:00",
+        "match_score": 22.5
+      },
+      {
+        "video_id": "7tVihsWlpFU",
+        "title": "Smaller Gears, Slower Riders? Tour de France Gears Explained | Tour de France 2017",
+        "channel": "GCN",
+        "published": "2017-07-14 16:08:19+00:00",
+        "match_score": 22.5
+      },
+      {
+        "video_id": "07G7Ux8M_IM",
+        "title": "Custom Bike Tech At The Tour de France | Tour de France 2017",
+        "channel": "GCN",
+        "published": "2017-07-12 16:00:00+00:00",
+        "match_score": 22.5
+      },
+      {
+        "video_id": "4vWrWQ-srZc",
+        "title": "Alexander Kristoff's Canyon Aeroad CF SLX Disc | Tour de France 2017",
+        "channel": "GCN",
+        "published": "2017-07-23 17:00:01+00:00",
+        "match_score": 22.5
+      },
+      {
+        "video_id": "fBytYJ1QlLc",
+        "title": "Alberto Contador's Trek Emonda SLR | Tour de France 2017",
+        "channel": "GCN",
+        "published": "2017-07-29 17:00:05+00:00",
+        "match_score": 22.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "La Fleche Wallonne",
   "race_date": "2017-04-19",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "P6mKua0dZrs",
+    "title": "Summary - La Flèche Wallonne 2017",
+    "published": "2017-04-19 16:17:45+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=P6mKua0dZrs",
+    "match_score": 103.61,
+    "all_candidates": [
+      {
+        "video_id": "P6mKua0dZrs",
+        "title": "Summary - La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 16:17:45+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "3Hkq6uwXOH8",
+        "title": "The last kilometer -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:55:12+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "cbUErBkxhsk",
+        "title": "Résumé - La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 15:53:06+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "RvTHMwf82VQ",
+        "title": "2nd ascent of the Mur de Huy -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:09:53+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "5aFSOOmj9IE",
+        "title": "De Marchi again -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:04:46+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "oXY5lrxNdpA",
+        "title": "Jungels caught -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:49:45+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "07pmWLQDMWI",
+        "title": "Jungels solo now -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:34:21+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "s5YaouAs8mY",
+        "title": "De Marchi and Jungels leading -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:30:40+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "1Iv91rS27Cg",
+        "title": "De Marchi attacks! -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:19:01+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "eziD-Y1EOY8",
+        "title": "Quick Step at the front -  La Flèche Wallonne 2017",
+        "channel": "Tour de France",
+        "published": "2017-04-19 14:14:41+00:00",
+        "match_score": 103.61
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

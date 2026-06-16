@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2018-05-20",
   "stage": 15,
-  "video": null,
+  "video": {
+    "video_id": "RcsNZAFav_Y",
+    "title": "Giro d'Italia 2018 - Stage 15 - The Highlights",
+    "published": "2018-05-20 17:35:38+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=RcsNZAFav_Y",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "RcsNZAFav_Y",
+        "title": "Giro d'Italia 2018 - Stage 15 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-20 17:35:38+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "4f8h24Rg9hk",
+        "title": "Giro d'Italia 2018 - Stage 15 - The Movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-20 17:58:39+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "PqQrLmEvjts",
+        "title": "Giro d'Italia 2018 | Stage 15 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-05-20 16:56:54+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "J6BLChPgUCs",
+        "title": "Giro d'Italia 2018 - Stage 14 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-19 21:08:19+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "IO2m6CI7E34",
+        "title": "Yates Charges to Incredible Solo Victory as Aru Struggles | Giro d'Italia 2018 | Stage 15 Highlights",
+        "channel": "TNT Sports",
+        "published": "2018-05-20 16:06:51+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "i3skb7EL20s",
+        "title": "Giro d'Italia 2018 - Stage 17 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-23 17:51:24+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "BYOtOvFdHr8",
+        "title": "Giro d'Italia 2018 - Stage 13 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-18 21:25:10+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "Ipl0DeYlaoY",
+        "title": "Giro d'Italia 2018 - Stage 16 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-22 19:03:45+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "eLB5EaLx7aA",
+        "title": "Giro d'Italia 2018 - Stage 12 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-17 17:49:21+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "_zRsscsHDxw",
+        "title": "Giro d'Italia 2018 - Stage 14 - The movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-19 19:44:21+00:00",
+        "match_score": 125.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

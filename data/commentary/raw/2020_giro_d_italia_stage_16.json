@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-20",
   "stage": 16,
-  "video": null,
+  "video": {
+    "video_id": "D7zbzZfRlaM",
+    "title": "Giro d'Italia 2020 | Stage 16 | Highlights",
+    "published": "2020-10-20 15:38:01+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=D7zbzZfRlaM",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "D7zbzZfRlaM",
+        "title": "Giro d'Italia 2020 | Stage 16 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 15:38:01+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "wHW2s1lbIOk",
+        "title": "Giro d'Italia 2020 | Stage 16 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 17:13:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Fplfir_XFnA",
+        "title": "Giro d'Italia 2020 | Stage 16 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 14:47:35+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "d8myYBhYrOM",
+        "title": "Giro d'Italia 2020 | Stage 17 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-21 15:04:23+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "pnMcQhS1WBo",
+        "title": "Giro d'Italia 2020 - Stage 16 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-20 17:19:52+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "pYvszl-if2Y",
+        "title": "Giro d'Italia 2020 | Stage 16 | Interviews pre stage",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 11:31:49+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Gtm_FibnHpM",
+        "title": "Giro d'Italia 2020 | Stage 16 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 15:23:36+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "mvTGp9NddyI",
+        "title": "Giro d'Italia 2020: Team Sunweb plan Stage 16",
+        "channel": "Velon",
+        "published": "2020-10-20 16:51:32+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "M8N54X1-kgA",
+        "title": "Giro d'Italia 2020 | Buonasera Giro 16",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 18:18:08+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Bq-9Cq2jZY4",
+        "title": "Giro d'Italia 2020 | Giro di Tavola 16 | Tagliatelle al San Daniele",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-20 12:40:36+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

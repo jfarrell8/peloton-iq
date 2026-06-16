@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-06-05",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "GbA3EjMjxzE",
+    "title": "2021 Critérium du Dauphiné  - Stage 7 Highlights | Cycling | Eurosport",
+    "published": "2021-06-05 17:08:42+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=GbA3EjMjxzE",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "GbA3EjMjxzE",
+        "title": "2021 Critérium du Dauphiné  - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-05 17:08:42+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "py3HQWackAc",
+        "title": "#Dauphiné 2021 - Stage 7 - Highlights - First win for Padun!",
+        "channel": "Tour de France",
+        "published": "2021-06-05 15:09:06+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "lj8Ltj8SqVA",
+        "title": "#Dauphiné 2021- Stage 7 - Antargaz Most Agressive Rider Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-05 14:53:38+00:00",
+        "match_score": 122.2
+      },
+      {
+        "video_id": "xCMJwC4lvvU",
+        "title": "#Dauphiné 2021 - Stage 7 - LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-05 14:04:36+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "QHthzJyu5UA",
+        "title": "#Dauphiné 2021 - Étape 7 - Résumé - Padun, première !",
+        "channel": "Tour de France",
+        "published": "2021-06-05 14:34:16+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "OhuZvu3yEhM",
+        "title": "#Dauphiné 2021- Stage 7 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-05 14:56:09+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "2HTJGRVDelU",
+        "title": "#Dauphiné 2021- Stage 7 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-06-05 12:53:31+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "n9qE0CVs7aE",
+        "title": "2021 Critérium du Dauphiné - Stage 8 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-06 19:31:18+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "O5RVzbNtatE",
+        "title": "2021 Critérium du Dauphiné  - Stage 6 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-04 16:34:55+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "OTXjeEMv2i8",
+        "title": "Tour de Suisse 2021: Stage 7 On-bike highlights",
+        "channel": "Velon",
+        "published": "2021-06-12 18:49:42+00:00",
+        "match_score": 86.43
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

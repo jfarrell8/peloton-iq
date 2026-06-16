@@ -3,7 +3,86 @@
   "race_name": "Tour de Romandie",
   "race_date": "2023-04-26",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "Y4UL2SMcRvE",
+    "title": "Tour de France Champions Already On The Attack! | Paris-Nice 2023 Highlights - Stage 1",
+    "published": "2023-03-05 17:29:01+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=Y4UL2SMcRvE",
+    "match_score": 80.0,
+    "all_candidates": [
+      {
+        "video_id": "Y4UL2SMcRvE",
+        "title": "Tour de France Champions Already On The Attack! | Paris-Nice 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-03-05 17:29:01+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "wniEJBRzyo4",
+        "title": "Punchy Profile Produces Fast Day Of Racing! | Tour De France 2023 Highlights - Stage 19",
+        "channel": "GCN Racing",
+        "published": "2023-07-21 16:53:31+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "nTGWORHukVo",
+        "title": "GC Battle Explodes In High Mountains Of The Queen Stage! | Tour De France 2023 Highlights - Stage 17",
+        "channel": "GCN Racing",
+        "published": "2023-07-19 17:18:34+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "r703iGbkfVU",
+        "title": "The Race Of Truth For The GC Fight! | Tour De France 2023 Highlights - Stage 16",
+        "channel": "GCN Racing",
+        "published": "2023-07-18 17:29:19+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "7YH9SyrdUjQ",
+        "title": "Huge Summit Finish On Bastille Day! | Tour De France 2023 Highlights - Stage 13",
+        "channel": "GCN Racing",
+        "published": "2023-07-14 16:37:46+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "Ha6uBNWZw_I",
+        "title": "Summit Finish Draws The Second Week To A Close! | Tour De France 2023 Highlights - Stage 15",
+        "channel": "GCN Racing",
+        "published": "2023-07-16 17:44:18+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "yE-bFLEdlDI",
+        "title": "Big Alpine Day With Hair-Raising Descent To Finish! | Tour De France 2023 Highlights - Stage 14",
+        "channel": "GCN Racing",
+        "published": "2023-07-15 17:41:02+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "37PGkZWyE_4",
+        "title": "A Day Of Ascents Creates Opportunities For The Puncheurs | Tour De France 2023 Highlights - Stage 12",
+        "channel": "GCN Racing",
+        "published": "2023-07-13 17:13:41+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "9aexj2462yw",
+        "title": "Steep Climbs In The Basque Country To Start The Race! | Tour De France 2023 Highlights - Stage 1",
+        "channel": "GCN Racing",
+        "published": "2023-07-01 16:59:22+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "BNESBh1edV0",
+        "title": "Fear Of Crosswinds Keeps Sprint Teams Alert! | Tour De France 2023 Highlights - Stage 11",
+        "channel": "GCN Racing",
+        "published": "2023-07-12 16:57:24+00:00",
+        "match_score": 78.75
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

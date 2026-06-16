@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-06-06",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "n9qE0CVs7aE",
+    "title": "2021 Critérium du Dauphiné - Stage 8 Highlights | Cycling | Eurosport",
+    "published": "2021-06-06 19:31:18+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=n9qE0CVs7aE",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "n9qE0CVs7aE",
+        "title": "2021 Critérium du Dauphiné - Stage 8 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-06 19:31:18+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "73cVT24L5xc",
+        "title": "#Dauphiné 2021 - Stage 8 - Highlights - Padun makes it two in a row!",
+        "channel": "Tour de France",
+        "published": "2021-06-06 15:35:34+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "PwovKFHZVZ4",
+        "title": "#Dauphiné 2021- Stage 8 - Antargaz Most Agressive Rider Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-06 14:24:26+00:00",
+        "match_score": 122.2
+      },
+      {
+        "video_id": "xBw4denxSOI",
+        "title": "#Dauphiné 2021 - Stage 8 - LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-06 14:14:34+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "UJfdabvW_eQ",
+        "title": "#Dauphiné 2021- Stage 8 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-06-06 13:04:41+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "f08efxTLZOw",
+        "title": "#Dauphiné 2021- Stage 8 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-06 14:52:00+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "g5iW_PGke7Q",
+        "title": "#Dauphiné 2021 - Étape 8 - Résumé - Le doublé de Padun !",
+        "channel": "Tour de France",
+        "published": "2021-06-06 15:05:58+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "GbA3EjMjxzE",
+        "title": "2021 Critérium du Dauphiné  - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-05 17:08:42+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "Cro4NkXjIbA",
+        "title": "Tour de Suisse 2021: Stage 1 On-Bike Highlights of a wet and wild ITT",
+        "channel": "Velon",
+        "published": "2021-06-06 19:06:23+00:00",
+        "match_score": 91.43
+      },
+      {
+        "video_id": "xrVkzcmLNzU",
+        "title": "Tour de Suisse 2021: Stage 1 Highlights",
+        "channel": "Velon",
+        "published": "2021-06-06 18:29:16+00:00",
+        "match_score": 91.43
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

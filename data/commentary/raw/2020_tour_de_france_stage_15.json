@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-13",
   "stage": 15,
-  "video": null,
+  "video": {
+    "video_id": "S5UGbAe5N3g",
+    "title": "Tour de France 2020 : Étape 15 - La salamandre tachetée",
+    "published": "2020-09-13 12:00:06+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=S5UGbAe5N3g",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "S5UGbAe5N3g",
+        "title": "Tour de France 2020 : Étape 15 - La salamandre tachetée",
+        "channel": "Tour de France",
+        "published": "2020-09-13 12:00:06+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "I_ffoOJkBJE",
+        "title": "Tour de France 2020: Stage 15 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-13 18:18:26+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "b8NdDzD8ot0",
+        "title": "Tour de France 2020: Stage 15 highlights",
+        "channel": "Velon",
+        "published": "2020-09-13 18:51:03+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "RTIs83rz8aY",
+        "title": "Tour de France 2020 : Étape 14 - Héron cendré",
+        "channel": "Tour de France",
+        "published": "2020-09-12 12:00:06+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "2w2Ev-FNcmE",
+        "title": "Tour de France 2020 - Étape 15 vue du ciel / Stage 15 from the sky : Lyon - Grand Colombier",
+        "channel": "Tour de France",
+        "published": "2020-07-12 08:00:01+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "4EbiAo1gSnY",
+        "title": "Tour de France 2020 : Étape 13 - Carrière Eurovia Châteaugay",
+        "channel": "Tour de France",
+        "published": "2020-09-11 12:00:02+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "OVyxplpkKxI",
+        "title": "Tour de France 2020 : Étape 17 - Parc national de la Vanoise",
+        "channel": "Tour de France",
+        "published": "2020-09-16 12:00:05+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "sH-_zxN8cJQ",
+        "title": "#TDF2020 - Stage 13 - Martinez bags first Tour de France success!",
+        "channel": "Tour de France",
+        "published": "2020-09-11 17:15:46+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "HQSZF6BNanQ",
+        "title": "Tour de France 2020 : Étape 12 - Pie-grièche écorcheur",
+        "channel": "Tour de France",
+        "published": "2020-09-10 12:00:04+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "-JXJ70yKIA4",
+        "title": "Tour de France 2020 : Étape 16 - L’espace naturel sensible départemental du Haut Moucherotte",
+        "channel": "Tour de France",
+        "published": "2020-09-15 12:00:00+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

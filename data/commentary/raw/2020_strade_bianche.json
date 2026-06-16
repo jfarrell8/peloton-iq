@@ -3,7 +3,86 @@
   "race_name": "Strade Bianche",
   "race_date": "2020-08-01",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "FfjwJKsgZ4U",
+    "title": "Strade Bianche EOLO 2020 | Last KM",
+    "published": "2020-08-01 18:49:21+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=FfjwJKsgZ4U",
+    "match_score": 105.0,
+    "all_candidates": [
+      {
+        "video_id": "FfjwJKsgZ4U",
+        "title": "Strade Bianche EOLO 2020 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2020-08-01 18:49:21+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "DxbtYLhT8ug",
+        "title": "Strade Bianche Eolo 2020 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2020-08-01 08:49:48+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "7t0UTNdrWd4",
+        "title": "Strade Bianche 2020 Men's Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-08-02 14:30:00+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "VyjTLFvvQkc",
+        "title": "Strade Bianche EOLO 2020 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2020-08-04 08:20:49+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "3dPZWLxrfZc",
+        "title": "Highlights Strade Bianche EOLO 2020",
+        "channel": "Giro d'Italia",
+        "published": "2020-08-05 14:47:07+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "AQsrf6T9xFk",
+        "title": "Strade Bianche 2020 Preview | Watch On GCN Race Pass",
+        "channel": "GCN Racing",
+        "published": "2020-07-30 17:02:06+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "N1K8Z_6fN68",
+        "title": "Strade Bianche EOLO 2021 | Men winners 2016-2020",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-05 13:00:16+00:00",
+        "match_score": 45.0
+      },
+      {
+        "video_id": "Q1_XsKns9Ck",
+        "title": "Giro E 2020 | Enel X e Toyota Italia sulle strade di #GiroE",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-19 19:19:35+00:00",
+        "match_score": 34.29
+      },
+      {
+        "video_id": "Z9YJ_J0LJdU",
+        "title": "Strade Bianche Women Elite EOLO 2021 | Winners 2018-2020",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-05 15:00:30+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "NJgFlUuF7Uk",
+        "title": "Strade Bianche Women Elite 2020 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2020-08-03 09:51:41+00:00",
+        "match_score": -80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

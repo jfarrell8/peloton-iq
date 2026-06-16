@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2018-09-15",
   "stage": 20,
-  "video": null,
+  "video": {
+    "video_id": "Y0SQE_8qzVY",
+    "title": "Head of the race - Stage 20 - La Vuelta 2018",
+    "published": "2018-09-15 15:41:58+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=Y0SQE_8qzVY",
+    "match_score": 163.46,
+    "all_candidates": [
+      {
+        "video_id": "Y0SQE_8qzVY",
+        "title": "Head of the race - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 15:41:58+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "EvbuYahVPZQ",
+        "title": "Coll de Ordino - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 15:35:23+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "sVqrgLAW4VM",
+        "title": "Superman, Nibali, Cataldo - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:17:28+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "ukcENPOodCI",
+        "title": "Mirador del Roc de Quer - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:15:37+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "CmrMIGRSyO8",
+        "title": "Ordino top - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:13:52+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "3V0WQIJ3Ymc",
+        "title": "Beixalís - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:15:29+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "M-oYXJyI_Js",
+        "title": "Andorra - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:18:07+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "uL7cu1X1koo",
+        "title": "Résumé - Étape 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:31:55+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "jdxS104evYw",
+        "title": "Last kilometer - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:26:56+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "d9kLJxweDqo",
+        "title": "Simon Yates - Stage 20 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-15 20:18:52+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

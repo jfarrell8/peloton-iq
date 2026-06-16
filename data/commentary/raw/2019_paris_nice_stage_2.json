@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2019-03-11",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "vVB09JYBlw8",
+    "title": "Tour de France 2019 Stage 21 Highlights: Paris Champs - Élysées Sprint Finale",
+    "published": "2019-07-28 21:05:38+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=vVB09JYBlw8",
+    "match_score": 75.0,
+    "all_candidates": [
+      {
+        "video_id": "vVB09JYBlw8",
+        "title": "Tour de France 2019 Stage 21 Highlights: Paris Champs - Élysées Sprint Finale",
+        "channel": "GCN Racing",
+        "published": "2019-07-28 21:05:38+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "ydNkFOLm8EU",
+        "title": "Arctic Race Of Norway 2019 Stage 2 Highlights: Henningsvaer - Svolvær | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-16 17:15:48+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "K7MZS1OMBJk",
+        "title": "Tour de France 2019 Stage 20 Highlights: Albertville - Val Thorens Summit Finish",
+        "channel": "GCN Racing",
+        "published": "2019-07-27 16:34:25+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "_ZRzFAt6AUA",
+        "title": "Tour de France 2019 Stage 2 Highlights: Brussels Team Time Trial | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-07-07 15:46:52+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "GRxrJhIo_hQ",
+        "title": "Deutschland Tour 2019 Stage 2 Highlights: Marburg - Göttingen | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-30 17:57:33+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "EU8iRI2gTJQ",
+        "title": "Vuelta a España 2019 Stage 2 Highlights: Let The GC Battle Begin  | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-25 17:15:27+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "kGSB_YsC4f0",
+        "title": "Vuelta a España 2019 Stage 21 Highlights: Madrid | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-15 19:08:38+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "fu-_WOJk9ZU",
+        "title": "Tour Of Britain Stage 2 2019 Highlights - Scottish Borders | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-08 17:18:28+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "6WWPD1uW9kE",
+        "title": "Vuelta a España 2019 Stage 20 Highlights: Final Mountain Showdown! | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-14 16:21:06+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "wErmyyTSJF8",
+        "title": "Arctic Race Of Norway 2019 Stage 2 LIVE: Henningsvaer - Svolvær | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-16 16:33:19+00:00",
+        "match_score": 67.5
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

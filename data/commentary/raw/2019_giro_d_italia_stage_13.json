@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-24",
   "stage": 13,
-  "video": null,
+  "video": {
+    "video_id": "wAzNtVUxN_g",
+    "title": "Giro d'Italia 2019 | Stage 13 | The Route",
+    "published": "2019-05-24 07:00:08+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=wAzNtVUxN_g",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "wAzNtVUxN_g",
+        "title": "Giro d'Italia 2019 | Stage 13 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-24 07:00:08+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "lehltKPxp7M",
+        "title": "Giro d'Italia 2019 | stage 13 | Velonlive with CCC",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-24 10:13:15+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "7rcvKaZCxZ0",
+        "title": "Giro d'Italia 2019 | Stage 13 | The start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-24 11:16:27+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "pwui8S0uV70",
+        "title": "Giro d'Italia 2019 | Stage 13 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-24 17:42:15+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "5rN8LgpG-jI",
+        "title": "Giro d'Italia 2019 | Stage 13 | Interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-24 16:18:31+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "lYIqdgVUBdk",
+        "title": "Giro d'Italia 2019 | Stage 14 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 16:21:00+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "4lu4KwLNjVU",
+        "title": "Giro d'Italia 2019 | Stage 12 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-23 16:15:00+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "aG4WQ54vT_Q",
+        "title": "Giro d’Italia 2019 | Stage 13 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-24 17:14:03+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "EUKReL0WbF4",
+        "title": "The Breakaway: Stage 13 Analysis | Giro d’Italia 2019 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-24 16:34:00+00:00",
+        "match_score": 138.08
+      },
+      {
+        "video_id": "Agz8aVsDml8",
+        "title": "Giro d’Italia 2019 | Stage 13 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-05-25 05:00:02+00:00",
+        "match_score": 133.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Liege - Bastogne - Liege",
   "race_date": "2021-04-25",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "LbSRLKNtQjk",
+    "title": "Liège–Bastogne–Liège 2021 | Elite Men’s - Highlights | Cycling | Eurosport",
+    "published": "2021-04-25 18:21:50+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=LbSRLKNtQjk",
+    "match_score": 108.18,
+    "all_candidates": [
+      {
+        "video_id": "LbSRLKNtQjk",
+        "title": "Liège–Bastogne–Liège 2021 | Elite Men’s - Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-25 18:21:50+00:00",
+        "match_score": 108.18
+      },
+      {
+        "video_id": "DQ_2IxKLwTo",
+        "title": "Liège Bastogne Liège Hommes 2021 - Résumé de la course",
+        "channel": "Tour de France",
+        "published": "2021-04-25 16:55:41+00:00",
+        "match_score": 100.45
+      },
+      {
+        "video_id": "eexFx5ilm2g",
+        "title": "Liège Bastogne Liège Hommes 2021 - Race summary",
+        "channel": "Tour de France",
+        "published": "2021-04-25 17:20:52+00:00",
+        "match_score": 100.45
+      },
+      {
+        "video_id": "1h7rMhROmJQ",
+        "title": "Liège Bastogne Liège Hommes 2021 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-04-25 15:09:51+00:00",
+        "match_score": 100.45
+      },
+      {
+        "video_id": "1vMio-t_330",
+        "title": "Liège-Bastogne-Liège 2021 Preview | Who Will Win The Final Spring Classic Of The Year?",
+        "channel": "GCN Racing",
+        "published": "2021-04-22 13:10:34+00:00",
+        "match_score": 45.45
+      },
+      {
+        "video_id": "VJcc32fhBg4",
+        "title": "Liège-Bastogne-Liège 2021 - Découvrez le parcours / Discover the route",
+        "channel": "Tour de France",
+        "published": "2021-02-05 13:00:24+00:00",
+        "match_score": 40.45
+      },
+      {
+        "video_id": "TBOVmCRkpX8",
+        "title": "Liège Bastogne Liège Femmes 2021 - Race summary",
+        "channel": "Tour de France",
+        "published": "2021-04-25 14:44:11+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "F4YBntL2WY0",
+        "title": "Liège Bastogne Liège Femmes 2021 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-04-25 11:14:15+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "JSfVMx4pcyI",
+        "title": "Liège Bastogne Liège Femmes 2021 - Résumé de la course",
+        "channel": "Tour de France",
+        "published": "2021-04-25 14:33:56+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "UsiVupReehQ",
+        "title": "Liège-Bastogne-Liège Femmes 2021 - Découvrez le parcours / Discover the route",
+        "channel": "Tour de France",
+        "published": "2021-02-05 13:00:20+00:00",
+        "match_score": -80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

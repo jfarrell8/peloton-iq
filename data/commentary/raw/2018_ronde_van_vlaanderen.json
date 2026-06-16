@@ -3,7 +3,44 @@
   "race_name": "Ronde Van Vlaanderen",
   "race_date": "2018-04-01",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "bY0FgGNiIL8",
+    "title": "De Ronde van Vlaanderen 2018 | Full Race Highlights | inCycle",
+    "published": "2018-04-01 15:58:08+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=bY0FgGNiIL8",
+    "match_score": 123.0,
+    "all_candidates": [
+      {
+        "video_id": "bY0FgGNiIL8",
+        "title": "De Ronde van Vlaanderen 2018 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-04-01 15:58:08+00:00",
+        "match_score": 123.0
+      },
+      {
+        "video_id": "Zc7aTewgwH0",
+        "title": "Dwars door Vlaanderen 2018 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-28 16:00:36+00:00",
+        "match_score": 69.25
+      },
+      {
+        "video_id": "5EypckceWx0",
+        "title": "Dwars door Vlaanderen 2018 | Final Kilometre Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-03-28 15:36:01+00:00",
+        "match_score": 61.25
+      },
+      {
+        "video_id": "GEMPVYA-3fU",
+        "title": "Dwars door Vlaanderen 2018 | Ellen Van Dijk's Champagne Malfunction | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-03-28 15:57:44+00:00",
+        "match_score": 56.25
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

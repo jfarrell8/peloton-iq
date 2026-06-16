@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-15",
   "stage": 9,
-  "video": null,
+  "video": {
+    "video_id": "3G49MfDApeA",
+    "title": "Bird's eye view on the sprint - Stage 9 - Tour de France 2018",
+    "published": "2018-07-15 14:20:54+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=3G49MfDApeA",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "3G49MfDApeA",
+        "title": "Bird's eye view on the sprint - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 14:20:54+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "95iHduSgj98",
+        "title": "Last kilometer - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 14:22:03+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "B4tLXOK19-o",
+        "title": "Landa crashes! - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 13:39:33+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Md313NUBbFU",
+        "title": "Magazine : Beware of the cobbles - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 14:06:17+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "WD36I19qliQ",
+        "title": "Froome has crashed with a teammate - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 13:16:42+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "LeZdF_mXVVo",
+        "title": "Mag du jour : La peur des pavés - Étape 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 14:06:15+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "OPIacFfNlZU",
+        "title": "Presentation - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 05:00:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "N7i_fXFQ_NU",
+        "title": "Présentation - Étape 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 05:00:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "pEXcg4blWVQ",
+        "title": "Neutralised start - Stage 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 10:38:22+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "bsIIP3xLK4s",
+        "title": "La minute Maillot Vert ŠKODA - Étape 9 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-15 16:09:10+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

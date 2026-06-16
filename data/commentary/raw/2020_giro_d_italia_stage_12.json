@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-15",
   "stage": 12,
-  "video": null,
+  "video": {
+    "video_id": "x8vtVuMVbfI",
+    "title": "Giro d'Italia 2020 | Stage 12 | Highlights",
+    "published": "2020-10-15 15:41:32+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=x8vtVuMVbfI",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "x8vtVuMVbfI",
+        "title": "Giro d'Italia 2020 | Stage 12 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 15:41:32+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "uSaWnB7_tI0",
+        "title": "Giro d'Italia 2020 | Stage 12 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 15:07:35+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "u5YBdioIxQ8",
+        "title": "Giro d'Italia 2020 | Stage 12 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 16:58:16+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "okH0EZNiEQo",
+        "title": "Giro d'Italia 2020 | Stage 11 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-14 15:31:59+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "lbsgUddtq2c",
+        "title": "Giro d'Italia 2020 | Stage 13 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-16 14:49:28+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "cz-k3kvBMGU",
+        "title": "Giro d'Italia 2020 - Stage 12 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-15 17:49:27+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "03OB5ozilkU",
+        "title": "Giro d'Italia 2020 | Stage 12 | Interviews pre stage",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 11:36:52+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "BB2pvxYVr8Y",
+        "title": "Giro d'Italia 2020 | Stage 12 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 15:53:04+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "-LSMnezj0BM",
+        "title": "Giro d'Italia 2020 | Buonasera Giro 12",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 18:43:32+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "pP4w9FCKJfs",
+        "title": "Giro d'Italia 2020 | Giro di Tavola 9 | Pallotte cacio e ova",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-15 09:52:21+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

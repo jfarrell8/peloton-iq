@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2021-05-13",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "SpEnHFzeC9M",
+    "title": "Giro d’Italia 2021 | Stage 6 | Highlights",
+    "published": "2021-05-13 18:06:42+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=SpEnHFzeC9M",
+    "match_score": 193.08,
+    "all_candidates": [
+      {
+        "video_id": "SpEnHFzeC9M",
+        "title": "Giro d’Italia 2021 | Stage 6 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 18:06:42+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "PllHyfEqTps",
+        "title": "Giro d’Italia 2021 | Stage 6 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 18:17:27+00:00",
+        "match_score": 193.08
+      },
+      {
+        "video_id": "crLo2G5wkdE",
+        "title": "Giro d'Italia 2021 | Stage 6 Press Conference",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 16:24:37+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "2JjWH92o3Qc",
+        "title": "Giro d'Italia 2021 | Tappa 6 | Risotto alle erbe di campo, lepre marinata e kefir",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 10:00:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Hk_rKJQg4qw",
+        "title": "Giro d’Italia 2021 | The Route | Stage 6",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 07:00:03+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "7OaxvD4WC_s",
+        "title": "Giro d’Italia 2021 | Stage 6 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-13 15:56:25+00:00",
+        "match_score": 173.08
+      },
+      {
+        "video_id": "NE0SKq0amac",
+        "title": "Giro d'Italia 2021: Stage 6 highlights",
+        "channel": "Velon",
+        "published": "2021-05-13 18:38:29+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "pbnHbIMQdY0",
+        "title": "Giro d'Italia 2021: Stage 6 on-bike highlights",
+        "channel": "Velon",
+        "published": "2021-05-13 21:09:44+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Yo4AWgA76-8",
+        "title": "Giro d’Italia 2021 | Stage 5 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 18:15:50+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "xmhdM-wj_nI",
+        "title": "Giro d’Italia 2021 | Stage 5 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-05-12 18:11:49+00:00",
+        "match_score": 143.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

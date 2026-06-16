@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-04",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "cpaCW_q7xzI",
+    "title": "Giro d'Italia 2020 | Stage 2 | Highlights",
+    "published": "2020-10-04 17:01:22+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=cpaCW_q7xzI",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "cpaCW_q7xzI",
+        "title": "Giro d'Italia 2020 | Stage 2 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-04 17:01:22+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "ClDme73Y0q8",
+        "title": "Giro d'Italia 2020 | Stage 2 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-04 12:25:26+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "8SVkFQXegjY",
+        "title": "Giro d'Italia 2020 | Stage 2 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-04 15:13:27+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Aj2IawGNdus",
+        "title": "Giro d'Italia 2020 | Stage 2 | Best Of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-04 17:03:43+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Pw2Vrlc1np8",
+        "title": "Video Percorso Giro d'Italia 2020 | Stage 21",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-02 13:32:40+00:00",
+        "match_score": 150.0
+      },
+      {
+        "video_id": "o_MJ6wjn6Y4",
+        "title": "Video Percorso Giro d'Italia 2020 | Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-01 16:33:03+00:00",
+        "match_score": 150.0
+      },
+      {
+        "video_id": "2Wa3NCUq9IQ",
+        "title": "Giro d'Italia 2020 | Interviews Post Race | Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-04 15:46:57+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "f1ocAEkXXJ4",
+        "title": "Giro d'Italia 2020 | Interviews Pre Race | Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-04 12:03:46+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "fD10Zm_zPBg",
+        "title": "Giro d'Italia 2020 | Stage 1 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-03 16:44:37+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "2PmATGzzJ54",
+        "title": "Giro d'Italia 2020 - Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-04 20:55:45+00:00",
+        "match_score": 145.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

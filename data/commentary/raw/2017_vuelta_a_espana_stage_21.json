@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-09-10",
   "stage": 21,
-  "video": null,
+  "video": {
+    "video_id": "MImV9UKSUMQ",
+    "title": "GoPro Highlights - Stage 21 - La Vuelta 2017",
+    "published": "2017-09-11 01:08:07+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=MImV9UKSUMQ",
+    "match_score": 173.46,
+    "all_candidates": [
+      {
+        "video_id": "MImV9UKSUMQ",
+        "title": "GoPro Highlights - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-11 01:08:07+00:00",
+        "match_score": 173.46
+      },
+      {
+        "video_id": "Al48u4Rxk7M",
+        "title": "Summary - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 20:43:07+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "k6HHSeduv8Y",
+        "title": "Résumé - Étape 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 20:16:37+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "ahUEe_Gd9ok",
+        "title": "Last kilometer - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 18:33:25+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "uOL0YTqBk0o",
+        "title": "Champagne! - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 16:06:47+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "ELniGMBpkE8",
+        "title": "One more year Alberto? - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 16:08:58+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "VJVvaTon3rk",
+        "title": "Coffee anyone? - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 17:03:35+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "Vi0lbM1bc_E",
+        "title": "The peloton - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 17:34:22+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "sIyKFKTN9qk",
+        "title": "Alberto Contador's lap of honour - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 17:38:09+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "s3Xs1dRK4Ak",
+        "title": "Team Sky - Stage 21 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-10 15:33:46+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

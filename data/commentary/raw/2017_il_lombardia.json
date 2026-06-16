@@ -3,7 +3,58 @@
   "race_name": "Il Lombardia",
   "race_date": "2017-10-07",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "YZW3hUUwpkc",
+    "title": "Il Lombardia 2017 | Full Race Highlights | inCycle",
+    "published": "2017-10-07 15:32:29+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=YZW3hUUwpkc",
+    "match_score": 123.0,
+    "all_candidates": [
+      {
+        "video_id": "YZW3hUUwpkc",
+        "title": "Il Lombardia 2017 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-10-07 15:32:29+00:00",
+        "match_score": 123.0
+      },
+      {
+        "video_id": "43_AMn5GINo",
+        "title": "Il Lombardia 2017 - Official Promo",
+        "channel": "Giro d'Italia",
+        "published": "2017-10-03 16:15:26+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "EXKExn9q9p8",
+        "title": "Il Lombardia 2017 - Altimetria",
+        "channel": "Giro d'Italia",
+        "published": "2017-10-03 16:06:46+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "vc0Ak3t6xkE",
+        "title": "Il Lombardia 2017 - Planimetria",
+        "channel": "Giro d'Italia",
+        "published": "2017-10-03 16:06:45+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "anZ6HYQ7Mmw",
+        "title": "#TBT | Il Lombardia 2017 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-06-11 09:01:02+00:00",
+        "match_score": -70.0
+      },
+      {
+        "video_id": "Zkm932nIxa4",
+        "title": "Il Lombardia 2017: Nibali vs Pinot 🏁 #giro #giroditalia #cycling #procyclist #shorts",
+        "channel": "Giro d'Italia",
+        "published": "2023-10-06 13:00:28+00:00",
+        "match_score": -225.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

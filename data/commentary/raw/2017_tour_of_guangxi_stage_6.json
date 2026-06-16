@@ -3,7 +3,86 @@
   "race_name": "Tour of Guangxi",
   "race_date": "2017-10-24",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "8zHfuJE-RAE",
+    "title": "Tour of Guangxi 2017 | Stage 6 GoPro highlights",
+    "published": "2017-10-24 13:25:47+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=8zHfuJE-RAE",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "8zHfuJE-RAE",
+        "title": "Tour of Guangxi 2017 | Stage 6 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-24 13:25:47+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "icdRnkKEyz4",
+        "title": "Tour of Guangxi 2017 | Stage 5 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-23 13:38:02+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "iD8tLtYn97c",
+        "title": "Tour of Guangxi 2017 | Full race highlights",
+        "channel": "Velon",
+        "published": "2017-10-27 09:26:18+00:00",
+        "match_score": 88.0
+      },
+      {
+        "video_id": "ebFtgAxrqPc",
+        "title": "Tour of Guangxi 2017: Stage 6 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-07 00:05:07+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "RRb1tiIERyM",
+        "title": "Tour of Taihu Lake 2017 - Stage 6 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-16 05:43:42+00:00",
+        "match_score": 82.23
+      },
+      {
+        "video_id": "mXzFkwrbXSM",
+        "title": "Tour of Guangxi 2017 | Stage 4 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-22 14:15:33+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "DhUR0eOggOM",
+        "title": "Tour of Guangxi 2017 | Stage 3 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-21 11:58:54+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "wjeYNKhNzfM",
+        "title": "Tour of Guangxi 2017 | Fernando Gaviria wins Stage 3",
+        "channel": "Velon",
+        "published": "2017-10-21 09:29:13+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "secQU-vfhC0",
+        "title": "Tour de France 2017 | Stage 6 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-06 18:40:24+00:00",
+        "match_score": 74.81
+      },
+      {
+        "video_id": "y_grdx9xC2A",
+        "title": "Tour de France 2017 | Stage 6 Moment (Sprint)",
+        "channel": "Velon",
+        "published": "2017-07-06 19:08:43+00:00",
+        "match_score": 69.81
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2020-10-23",
   "stage": 19,
-  "video": null,
+  "video": {
+    "video_id": "x3WYp2xw_Fo",
+    "title": "Giro d'Italia 2020 | Stage 19 | Highlights",
+    "published": "2020-10-23 16:18:18+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=x3WYp2xw_Fo",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "x3WYp2xw_Fo",
+        "title": "Giro d'Italia 2020 | Stage 19 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-23 16:18:18+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "XdnPmbm5hig",
+        "title": "Giro d'Italia 2020 | Stage 19 | Last Km",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-23 15:19:58+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "lTBUItNZkXA",
+        "title": "Giro d'Italia 2020 | Stage 19 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-23 17:05:21+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "sLGwACEqN9k",
+        "title": "Video Percorso Giro d'Italia 2020 | Stage 19",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-22 06:47:18+00:00",
+        "match_score": 165.0
+      },
+      {
+        "video_id": "64c9m--KV4k",
+        "title": "Giro d'Italia 2020 | Stage 19 | Interviews post race",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-23 16:43:22+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "XPHWDocNQsI",
+        "title": "Giro d'Italia 2020 - Stage 19 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-23 19:39:08+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "wS8OqASGGkk",
+        "title": "Giro d'Italia 2020 | Stage 18 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-22 16:06:59+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "4TQ7e7yJYrM",
+        "title": "Giro d'Italia 2020 | Stage 20 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-24 15:49:54+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "spwziMG66Yo",
+        "title": "Giro d'Italia 2020 | Buonasera Giro 19",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-23 19:35:40+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "uNQQjasCa3k",
+        "title": "Giro d'Italia 2020 | Buongiorno Giro 19",
+        "channel": "Giro d'Italia",
+        "published": "2020-10-23 06:30:02+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

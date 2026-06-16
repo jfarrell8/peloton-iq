@@ -3,7 +3,51 @@
   "race_name": "Ronde van Vlaanderen",
   "race_date": "2020-10-18",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "-aF5kkmWG1Y",
+    "title": "De Ronde van Vlaanderen 2020 | Men Elite Full Race Highlights | inCycle",
+    "published": "2020-10-19 09:14:44+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=-aF5kkmWG1Y",
+    "match_score": 113.0,
+    "all_candidates": [
+      {
+        "video_id": "-aF5kkmWG1Y",
+        "title": "De Ronde van Vlaanderen 2020 | Men Elite Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-10-19 09:14:44+00:00",
+        "match_score": 113.0
+      },
+      {
+        "video_id": "UDL1myTN9w4",
+        "title": "Tour of Flanders 2020 - Ronde van Vlaanderen Mens Elite Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-19 10:00:05+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "2EHMJsota7M",
+        "title": "Tour of Flanders 2020 Preview Show | Who Will Win The Men's & Women's de Ronde Van Vlaanderen?",
+        "channel": "GCN Racing",
+        "published": "2020-10-15 17:06:32+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "FYodqOd6f60",
+        "title": "De Ronde van Vlaanderen 2020 | Women Elite Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-10-19 14:00:04+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "IxeS2F2FEyc",
+        "title": "Tour of Flanders 2020 - Ronde van Vlaanderen Women Elite Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-19 09:36:07+00:00",
+        "match_score": -80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

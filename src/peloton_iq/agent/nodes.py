@@ -28,6 +28,7 @@ from qdrant_client.models import FieldCondition, Filter, Range
 
 from peloton_iq.agent.tools import dispatch_tool
 from peloton_iq.commentary.extractor import ClaudeExtractor
+from peloton_iq.commentary.profiler import RiderProfiler
 from peloton_iq.config import settings
 from peloton_iq.prediction.predictor import TierPredictor
 from peloton_iq.schemas import PelotonState
@@ -53,6 +54,7 @@ class AgentDeps:
     searcher:   HybridSearcher
     predictor:  TierPredictor
     extractor:  ClaudeExtractor
+    profiler:   "RiderProfiler"
     client:     anthropic.Anthropic
 
 
@@ -277,7 +279,8 @@ def make_nodes(deps: AgentDeps):
     # predictor_node
     # ------------------------------------------------------------------
     def predictor_node(state: PelotonState) -> PelotonState:
-        """Run ML model prediction for predictive/hybrid queries."""
+        """Run ML model prediction for predictive/hybrid queries.
+        Also pulls tactical profiles for top predicted riders."""
         state["steps_taken"].append("predictor")
 
         structured_params = state.get("structured_params") or {}
@@ -287,15 +290,33 @@ def make_nodes(deps: AgentDeps):
         stage     = race_ctx.get("stage")
 
         if race_name and year:
-            state["prediction_context"] = deps.predictor.predict_race_context(
+            # Get ML predictions
+            prediction_ctx = deps.predictor.predict_stage(
                 race_name, int(year), stage
             )
-            log.info(
-                "Predictor: %s %s%s → %d chars",
-                race_name, year,
-                f" Stage {stage}" if stage else "",
-                len(state["prediction_context"]),
-            )
+            prediction_text = prediction_ctx.to_prompt_text()
+
+            # Pull tactical profiles for top predicted riders
+            top_rider_names = [r.rider_name for r in prediction_ctx.top_riders[:5]]
+            profile_context = deps.profiler.get_profile_context(top_rider_names)
+
+            if profile_context:
+                state["prediction_context"] = (
+                    prediction_text + "\n\n" + profile_context
+                )
+                log.info(
+                    "Predictor: %s %s%s → predictions + profiles for %d riders",
+                    race_name, year,
+                    f" Stage {stage}" if stage else "",
+                    len(top_rider_names),
+                )
+            else:
+                state["prediction_context"] = prediction_text
+                log.info(
+                    "Predictor: %s %s%s → predictions only (no profiles yet)",
+                    race_name, year,
+                    f" Stage {stage}" if stage else "",
+                )
         else:
             state["prediction_context"] = (
                 "[NO PREDICTION] Query does not reference a specific race. "

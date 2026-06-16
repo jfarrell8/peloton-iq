@@ -3,7 +3,86 @@
   "race_name": "Tirreno-Adriatico",
   "race_date": "2021-03-15",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "FJOU_EBmu7k",
+    "title": "Tirreno-Adriatico EOLO 2021 | Stage 6 Highlights",
+    "published": "2021-03-15 18:07:42+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=FJOU_EBmu7k",
+    "match_score": 140.0,
+    "all_candidates": [
+      {
+        "video_id": "FJOU_EBmu7k",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 6 Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-15 18:07:42+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "TWlWUs9dLpk",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 6 Last km",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-15 15:35:30+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "AJ5RkdGMP9M",
+        "title": "Tirreno-Adriatico EOLO 2021 | The Route Stage 6",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-15 07:00:01+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "KIQVGwapIwM",
+        "title": "Tirreno-Adriatico 2021 | Stage 6 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-16 16:00:12+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "gc9GEymDM0g",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 6 post-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-15 16:20:10+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "ZuRSoAN0vaM",
+        "title": "Tirreno-Adriatico 2021 | Stage 5 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-15 16:00:12+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "vt6DSW6FfGE",
+        "title": "Tirreno-Adriatico 2021 highlights: Breakaway outfoxes peloton",
+        "channel": "Velon",
+        "published": "2021-03-15 16:46:42+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "1QcVLZHGcNw",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 6 pre-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-15 13:23:44+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "-hteFnJ2fxc",
+        "title": "Tirreno-Adriatico 2021 | Stage 4 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-14 16:00:00+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "sV_swVXyxJU",
+        "title": "Tirreno-Adriatico 2021 highlights: Big shock in TT",
+        "channel": "Velon",
+        "published": "2021-03-16 17:16:25+00:00",
+        "match_score": 95.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

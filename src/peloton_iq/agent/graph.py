@@ -35,6 +35,7 @@ from peloton_iq.agent.nodes import (
     route_from_structured,
 )
 from peloton_iq.commentary.extractor import ClaudeExtractor
+from peloton_iq.commentary.profiler import RiderProfiler
 from peloton_iq.config import (
     COURSE_CLEAN_PATH,
     MERGED_RACES_PATH,
@@ -98,6 +99,12 @@ class PelotonIQAgent:
         # Commentary
         extractor = ClaudeExtractor()
 
+        # Tactical profiler
+        log.info("  Loading rider profiles...")
+        profiler = RiderProfiler()
+        n_profiles = len(profiler.list_profiled_riders())
+        log.info("  %d rider profiles loaded", n_profiles)
+
         # Anthropic client
         client = anthropic.Anthropic(
             api_key=settings.anthropic_api_key or None,
@@ -110,6 +117,7 @@ class PelotonIQAgent:
             searcher=searcher,
             predictor=predictor,
             extractor=extractor,
+            profiler=profiler,
             client=client,
         )
 

@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-09-09",
   "stage": 20,
-  "video": null,
+  "video": {
+    "video_id": "s06JGA-yyHc",
+    "title": "GoPro Highlights - Stage 20 - La Vuelta 2017",
+    "published": "2017-09-09 22:14:51+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=s06JGA-yyHc",
+    "match_score": 183.46,
+    "all_candidates": [
+      {
+        "video_id": "s06JGA-yyHc",
+        "title": "GoPro Highlights - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 22:14:51+00:00",
+        "match_score": 183.46
+      },
+      {
+        "video_id": "OG2efrJ4x7E",
+        "title": "Contador at the front of the race - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 15:29:53+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "M_oFFviZRFk",
+        "title": "Contador attacks - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 15:38:01+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "F03YHT3u_Z0",
+        "title": "Résumé - Étape 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 17:08:46+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "GGIb2WT9lkE",
+        "title": "Summary - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 17:41:49+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "pMGjKwJ2mDQ",
+        "title": "Last kilometer - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 16:05:13+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "2KuGdCtIw9c",
+        "title": "Tough gradient for Contador - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 15:53:20+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "9-hktCqy74I",
+        "title": "Top of the Alto de la Cobertoria - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 14:36:02+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "Mpb6lkvGZhs",
+        "title": "Bahrain Merida working at the front - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 14:59:48+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "ZWMveg9t1mw",
+        "title": "The breakaway - Stage 20 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-09 13:04:21+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

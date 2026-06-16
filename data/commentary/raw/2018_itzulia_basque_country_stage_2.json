@@ -3,7 +3,86 @@
   "race_name": "Itzulia Basque Country",
   "race_date": "2018-04-03",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "g__ZEufyN2Y",
+    "title": "Tour du Pays Basque 2018 | Stage 2 Highlights | Cycling | Eurosport",
+    "published": "2018-04-04 14:16:03+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=g__ZEufyN2Y",
+    "match_score": 123.1,
+    "all_candidates": [
+      {
+        "video_id": "g__ZEufyN2Y",
+        "title": "Tour du Pays Basque 2018 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-04 14:16:03+00:00",
+        "match_score": 123.1
+      },
+      {
+        "video_id": "2vlY1fSw5lM",
+        "title": "Tour du Pays Basque 2018 | Stage 3 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-04 16:21:23+00:00",
+        "match_score": 83.1
+      },
+      {
+        "video_id": "yxbLGDgxjBQ",
+        "title": "Tour du Pays Basque 2018 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-04 13:51:13+00:00",
+        "match_score": 83.1
+      },
+      {
+        "video_id": "PlEt9YnaqUA",
+        "title": "Tour du Pays Basque 2018 | Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-05 16:35:05+00:00",
+        "match_score": 68.1
+      },
+      {
+        "video_id": "N9dM1vPgDQk",
+        "title": "Tour du Pays Basque 2018 | Stage 4 Roglic's Time Trial Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-05 16:56:05+00:00",
+        "match_score": 68.1
+      },
+      {
+        "video_id": "sqBRy3rSW_g",
+        "title": "Tour du Pays Basque 2018 | Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-06 16:03:48+00:00",
+        "match_score": 68.1
+      },
+      {
+        "video_id": "_lYQuycKwxQ",
+        "title": "Tour du Pays Basque 2018 | Stage 4 Alaphilippe's Time Trial Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-05 16:24:50+00:00",
+        "match_score": 68.1
+      },
+      {
+        "video_id": "3bNoBt9AIYk",
+        "title": "Tour du Pays Basque 2018 | Stage 5 Riders Reach 100kph! | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-06 16:26:13+00:00",
+        "match_score": 63.1
+      },
+      {
+        "video_id": "sZXiC3vTbME",
+        "title": "Tour du Pays Basque 2018 | Stage 6 Final Kilometre Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-09 10:42:09+00:00",
+        "match_score": 48.1
+      },
+      {
+        "video_id": "d1JAEC-FOMQ",
+        "title": "Primoz Roglic's victory at Tour of Basque Country in 2018 | Cycle Archive | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-08-23 09:00:09+00:00",
+        "match_score": -45.68
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

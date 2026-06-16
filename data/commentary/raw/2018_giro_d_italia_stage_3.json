@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2018-05-06",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "HxDmOV8f1qw",
+    "title": "Giro d'Italia 2018 - Stage 3 - Highlights",
+    "published": "2018-05-06 18:33:12+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=HxDmOV8f1qw",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "HxDmOV8f1qw",
+        "title": "Giro d'Italia 2018 - Stage 3 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-06 18:33:12+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "VZn0CEZ71I8",
+        "title": "Giro d'Italia 2018 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-05-06 16:30:14+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "1dz9unp3zg0",
+        "title": "Giro d'Italia 2018 - Stage 2 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-05 17:55:30+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "5EoYNNPbqKo",
+        "title": "Elia Viviani Wins Back to Back Sprint Stages | Giro d'Italia 2018 | Stage 3 Highlights",
+        "channel": "TNT Sports",
+        "published": "2018-05-06 16:25:31+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "eg6IM-nJbTQ",
+        "title": "Giro d'Italia 2018 - Stage 5 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-09 18:42:38+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "y25TltZPlSY",
+        "title": "Giro d'Italia 2018 - Stage 4 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-08 18:58:57+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "vQSU2KAuNu4",
+        "title": "Giro d'Italia 2018 - The Route - Stage 4",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-07 19:43:13+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "vb_7QFT9lb8",
+        "title": "Giro d'Italia 2018 - Stage 3",
+        "channel": "Giro d'Italia",
+        "published": "2017-09-18 09:23:06+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "yAMKBIcsjV4",
+        "title": "Giro d'Italia 2018 - The Route - Stage 3",
+        "channel": "Giro d'Italia",
+        "published": "2018-04-28 08:19:53+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "qzCCYGkDD5k",
+        "title": "Giro d'Italia 2018 - Stage 9 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-13 21:10:06+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

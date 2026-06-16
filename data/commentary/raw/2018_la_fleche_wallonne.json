@@ -3,7 +3,86 @@
   "race_name": "La Fleche Wallonne",
   "race_date": "2018-04-18",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "H16xBJlEGVw",
+    "title": "Flèche Wallonne 2018 | Highlights | Cycling | Eurosport",
+    "published": "2018-04-18 15:56:11+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=H16xBJlEGVw",
+    "match_score": 111.21,
+    "all_candidates": [
+      {
+        "video_id": "H16xBJlEGVw",
+        "title": "Flèche Wallonne 2018 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-04-18 15:56:11+00:00",
+        "match_score": 111.21
+      },
+      {
+        "video_id": "-6hb6qhTTmc",
+        "title": "Flash Summary - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 16:03:17+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "_0H-VRfyFMM",
+        "title": "Best of (English) - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 16:48:40+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "L3ylhCQESCc",
+        "title": "Premier passage du Mur de Huy - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 13:01:42+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "Xv8AcYARX7A",
+        "title": "Deuxième passage du Mur de Huy - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 13:43:50+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "wi0rH4as59c",
+        "title": "Résumé Flash - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 15:40:49+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "4ZZRQuhkiW8",
+        "title": "Best of (Français) - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 15:53:44+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "cTJhg0ulpIE",
+        "title": "Last Kilometer - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 14:29:19+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "C8qVhAZ7j6g",
+        "title": "Podium - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 15:20:36+00:00",
+        "match_score": 103.61
+      },
+      {
+        "video_id": "ZsMb6AmxhNI",
+        "title": "Les échappés sont rattrapés - La Flèche Wallonne 2018",
+        "channel": "Tour de France",
+        "published": "2018-04-18 13:26:39+00:00",
+        "match_score": 103.61
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "BinckBank Tour",
   "race_date": "2017-08-13",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "ZsMuldJrz08",
+    "title": "Finish at the top of the col d'Izoard - 360\u00b0 - Tour de France 2017",
+    "published": "2017-08-13 13:00:05+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=ZsMuldJrz08",
+    "match_score": 80.0,
+    "all_candidates": [
+      {
+        "video_id": "ZsMuldJrz08",
+        "title": "Finish at the top of the col d'Izoard - 360\u00b0 - Tour de France 2017",
+        "channel": "Tour de France",
+        "published": "2017-08-13 13:00:05+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "J2hkvghSZ90",
+        "title": "Tour of Taihu Lake 2017 - Stage 1 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-11 05:07:50+00:00",
+        "match_score": 74.11
+      },
+      {
+        "video_id": "D_BTZYHTvkk",
+        "title": "Abu Dhabi Tour 2017: Stage 1 TV highlights",
+        "channel": "Velon",
+        "published": "2017-02-24 18:09:00+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "-AvmfFCtB7I",
+        "title": "Abu Dhabi Tour 2017: Stage 1 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-02-23 19:44:02+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "HZs_5MmMNe0",
+        "title": "Tour de France 2017 | Stage 1 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-01 18:53:57+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "0a8azGCKkIM",
+        "title": "Tour de France 2017 | Stage 15 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-16 18:28:12+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "oY3hZqNx_U8",
+        "title": "Tour de France 2017 | Stage 14 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-15 18:28:26+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "YVqH51Hxi8A",
+        "title": "Tour de France 2017 | Stage 13 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-14 18:38:46+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "3s0fRu1Fn4E",
+        "title": "Tour of Britain 2017: Stage 1 - Highlights",
+        "channel": "inCycle",
+        "published": "2017-09-03 15:37:14+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "kRxEOcrDD7k",
+        "title": "Tour de France 2017 | Stage 12 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-13 18:25:33+00:00",
+        "match_score": 71.11
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "transcript_error:ip_blocked"
 }

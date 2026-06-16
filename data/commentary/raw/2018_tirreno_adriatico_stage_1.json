@@ -3,7 +3,65 @@
   "race_name": "Tirreno-Adriatico",
   "race_date": "2018-03-07",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "0qAhN8ZdNtw",
+    "title": "Tirreno-Adriatico 2018 | Stage 1 Highlights | inCycle",
+    "published": "2018-03-07 16:13:33+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=0qAhN8ZdNtw",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "0qAhN8ZdNtw",
+        "title": "Tirreno-Adriatico 2018 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-07 16:13:33+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "RoqQh4d0idQ",
+        "title": "Tirreno-Adriatico 2018 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-08 16:24:29+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "vUkN4U9sg8k",
+        "title": "Tirreno-Adriatico 2018 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-09 16:11:18+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "1HqnTDacTc8",
+        "title": "Tirreno-Adriatico 2018 | Stage 4 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-10 18:09:11+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "9hHlbnS3Frg",
+        "title": "Tirreno-Adriatico 2018 | Stage 5 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-11 15:48:55+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "L5PnNBOH1ZI",
+        "title": "Tirreno-Adriatico 2018 | Stage 7 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-13 16:35:22+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "cWtOgMc7Tvw",
+        "title": "Tirreno-Adriatico 2018 | Stage 6 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-12 16:44:37+00:00",
+        "match_score": 60.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

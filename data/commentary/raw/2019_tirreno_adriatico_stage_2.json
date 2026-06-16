@@ -3,7 +3,79 @@
   "race_name": "Tirreno-Adriatico",
   "race_date": "2019-03-14",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "bpgZHX9FOlI",
+    "title": "Tirreno-Adriatico 2019 | Stage 2 Highlights | inCycle",
+    "published": "2019-03-15 16:28:15+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=bpgZHX9FOlI",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "bpgZHX9FOlI",
+        "title": "Tirreno-Adriatico 2019 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-15 16:28:15+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "sZGN4sVktx8",
+        "title": "Tirreno-Adriatico 2019 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-14 16:28:48+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "KXlh5jiOj0c",
+        "title": "Tirreno-Adriatico 2019 | Stage 4 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-17 16:28:13+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "AE1ecBV7AIg",
+        "title": "Tirreno-Adriatico 2019 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-16 15:28:45+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "jVDHsZC_Zjg",
+        "title": "Tirreno-Adriatico 2019 | Stage 5 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-18 16:58:44+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "5ACdeCT6yBc",
+        "title": "Tirreno-Adriatico 2019 | Stage 7 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-20 16:12:41+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "fblmwJDRAJA",
+        "title": "Tirreno-Adriatico 2019 | Stage 6 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-19 16:28:11+00:00",
+        "match_score": 60.0
+      },
+      {
+        "video_id": "5AMKXraUGE8",
+        "title": "Tirreno-Adriatico 2019: Riders to watch",
+        "channel": "Velon",
+        "published": "2019-03-11 17:55:52+00:00",
+        "match_score": 45.0
+      },
+      {
+        "video_id": "-e45LVmsjx4",
+        "title": "Tirreno-Adriatico 2019 | Official Promo",
+        "channel": "Giro d'Italia",
+        "published": "2018-12-12 10:51:51+00:00",
+        "match_score": 35.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

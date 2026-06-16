@@ -3,7 +3,86 @@
   "race_name": "Bretagne Classic - Ouest France",
   "race_date": "2020-08-25",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "6f3QnD8Xrp4",
+    "title": "Bretagne Classic Ouest–France 2020 - Highlights | Cycling | Eurosport",
+    "published": "2020-08-26 09:21:37+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=6f3QnD8Xrp4",
+    "match_score": 103.33,
+    "all_candidates": [
+      {
+        "video_id": "6f3QnD8Xrp4",
+        "title": "Bretagne Classic Ouest–France 2020 - Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-08-26 09:21:37+00:00",
+        "match_score": 103.33
+      },
+      {
+        "video_id": "v5icuHG8IxY",
+        "title": "Brussels Cycling Classic 2020 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-08-31 11:15:01+00:00",
+        "match_score": 66.71
+      },
+      {
+        "video_id": "gG1WELspgys",
+        "title": "Best of Flanders Classics 2020 | inCycle",
+        "channel": "inCycle",
+        "published": "2020-11-18 10:05:35+00:00",
+        "match_score": 39.04
+      },
+      {
+        "video_id": "ypXO22SEJN8",
+        "title": "Le Samyn 2020 HIGHLIGHTS | Spring Classics On GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2020-03-03 17:50:45+00:00",
+        "match_score": 38.79
+      },
+      {
+        "video_id": "arDXwAm2_qU",
+        "title": "Omloop Het Nieuwsblad 2020 Highlights Elite Men | Spring Classics On GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2020-02-29 18:36:03+00:00",
+        "match_score": 38.79
+      },
+      {
+        "video_id": "ScM-mJ16n_Y",
+        "title": "Kuurne-Bruxelles-Kuurne 2020 Highlights | Spring Classics On GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2020-03-01 17:23:29+00:00",
+        "match_score": 38.79
+      },
+      {
+        "video_id": "fdA-_nNScLg",
+        "title": "Velon Spring Classics 2020 Competition",
+        "channel": "Velon",
+        "published": "2019-11-27 15:56:37+00:00",
+        "match_score": 38.11
+      },
+      {
+        "video_id": "NVG1mRXMBA4",
+        "title": "Classics Top Moments of 2020 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-15 08:00:15+00:00",
+        "match_score": 37.96
+      },
+      {
+        "video_id": "KwAE39VCSCs",
+        "title": "Schwalbe Classic Criterium 2020 HIGHLIGHTS | Santos Tour Down Under",
+        "channel": "GCN Racing",
+        "published": "2020-01-19 13:10:20+00:00",
+        "match_score": 37.26
+      },
+      {
+        "video_id": "pO7S-zrXAHw",
+        "title": "Top 5 Cycling Classics Moments 2020 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-01-07 10:00:30+00:00",
+        "match_score": 37.1
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

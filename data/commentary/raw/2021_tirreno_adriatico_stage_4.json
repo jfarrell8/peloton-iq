@@ -3,7 +3,86 @@
   "race_name": "Tirreno-Adriatico",
   "race_date": "2021-03-13",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "E372ARve85M",
+    "title": "Tirreno-Adriatico EOLO 2021 | Stage 4 Highlights",
+    "published": "2021-03-13 17:44:33+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=E372ARve85M",
+    "match_score": 140.0,
+    "all_candidates": [
+      {
+        "video_id": "E372ARve85M",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 4 Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-13 17:44:33+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "XLH14fRLxEg",
+        "title": "Tirreno-Adriatico EOLO 2021 | The Route Stage 4",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-13 07:00:06+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "-hteFnJ2fxc",
+        "title": "Tirreno-Adriatico 2021 | Stage 4 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-14 16:00:00+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "rIw9Ik2ThOE",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 4 Last km",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-13 15:31:34+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "ai6kEejVMTg",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 4 post-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-13 16:16:46+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "fSvY-v5XGjQ",
+        "title": "Tirreno-Adriatico 2021 highlights: Thrilling mountain battle",
+        "channel": "Velon",
+        "published": "2021-03-13 17:08:55+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "cH1wenkXPb8",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 4 pre-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-13 13:25:07+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "4OEgD9eHPTk",
+        "title": "Tirreno-Adriatico 2021 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-13 16:00:03+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "DOyjRiqrJ5I",
+        "title": "Tirreno-Adriatico 2021 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-12 16:00:08+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "LUPcfaLzB_M",
+        "title": "Tirreno-Adriatico 2021 highlights: Big guns do battle again",
+        "channel": "Velon",
+        "published": "2021-03-12 17:47:56+00:00",
+        "match_score": 95.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

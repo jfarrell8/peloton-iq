@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-05",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "-Xq9sC-zliw",
+    "title": "Tour de France 2020 : Étape 8 - Parc national des Pyrénées",
+    "published": "2020-09-05 12:00:00+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=-Xq9sC-zliw",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "-Xq9sC-zliw",
+        "title": "Tour de France 2020 : Étape 8 - Parc national des Pyrénées",
+        "channel": "Tour de France",
+        "published": "2020-09-05 12:00:00+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "CkB0rBHr9JQ",
+        "title": "#TDF2020 - Stage 8 - Peters scores first Tour de France victory",
+        "channel": "Tour de France",
+        "published": "2020-09-05 17:26:46+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "x2z9oPdYh9A",
+        "title": "Nans Peters impressive solo victory! | Tour de France 2020 - Stage 8 Highlights | Cycling",
+        "channel": "TNT Sports",
+        "published": "2020-09-05 18:07:51+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "qWE3cmDP4Tg",
+        "title": "Tour de France 2020: Stage 8 highlights",
+        "channel": "Velon",
+        "published": "2020-09-05 18:01:02+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "6sB_VyvNrTI",
+        "title": "Tour de France 2020: Stage 8 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-05 19:36:56+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "kCUzXk9XJ4o",
+        "title": "Tour de France 2020: Nans Peters escapes to victory on Stage 8",
+        "channel": "Velon",
+        "published": "2020-09-05 16:22:20+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "ixvI5vLHDBs",
+        "title": "Toms Skujins reflects after battling to second place on Stage 8 of the 2020 Tour de France.",
+        "channel": "Velon",
+        "published": "2020-09-05 21:04:56+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "pXmolfvyKP8",
+        "title": "Tour de France 2020 : Étape 7 - Le cheval de Przewalski",
+        "channel": "Tour de France",
+        "published": "2020-09-04 12:00:14+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "2Ma3E52YmnA",
+        "title": "Tour de France 2020 : Étape 9 - L’arum d’Italie",
+        "channel": "Tour de France",
+        "published": "2020-09-06 12:00:00+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "1VRJiQH9cr8",
+        "title": "Tour de France 2020 - Étape 8 vue du ciel / Stage 8 from the sky : Cazères - Loudenvielle",
+        "channel": "Tour de France",
+        "published": "2020-07-04 07:00:01+00:00",
+        "match_score": 115.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

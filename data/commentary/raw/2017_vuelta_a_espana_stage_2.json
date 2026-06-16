@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-08-20",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "dpiSJ2jDYbQ",
+    "title": "GoPro Highlights - Stage 2 - La Vuelta 2017",
+    "published": "2017-08-20 19:01:31+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=dpiSJ2jDYbQ",
+    "match_score": 183.46,
+    "all_candidates": [
+      {
+        "video_id": "dpiSJ2jDYbQ",
+        "title": "GoPro Highlights - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 19:01:31+00:00",
+        "match_score": 183.46
+      },
+      {
+        "video_id": "XemfYpz7G48",
+        "title": "The peloton on a large road - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 13:42:59+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "orj-_lbKFFA",
+        "title": "Last kilometer - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 15:30:11+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "LQ5fspE8Kbo",
+        "title": "Riders are stopped by a train  - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 14:30:16+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "Zd_svOfHH68",
+        "title": "Katusha-Alpecin leading the peloton - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 15:00:37+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "wnkzVcggHWU",
+        "title": "Summary - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 17:39:36+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "P2_sYZ89Lig",
+        "title": "Résumé - Étape 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 17:37:42+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "T4N7A_Pa_gI",
+        "title": "The peloton is speeding up - Stage 2 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-20 13:54:33+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "13nLJQeF3b4",
+        "title": "GoPro Highlights - Stage 1 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-19 23:29:07+00:00",
+        "match_score": 133.46
+      },
+      {
+        "video_id": "CZJmQlKtl0o",
+        "title": "GoPro Highlights - Stage 3 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-08-21 19:07:01+00:00",
+        "match_score": 133.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

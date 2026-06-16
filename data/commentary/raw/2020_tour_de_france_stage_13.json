@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-11",
   "stage": 13,
-  "video": null,
+  "video": {
+    "video_id": "sH-_zxN8cJQ",
+    "title": "#TDF2020 - Stage 13 - Martinez bags first Tour de France success!",
+    "published": "2020-09-11 17:15:46+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=sH-_zxN8cJQ",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "sH-_zxN8cJQ",
+        "title": "#TDF2020 - Stage 13 - Martinez bags first Tour de France success!",
+        "channel": "Tour de France",
+        "published": "2020-09-11 17:15:46+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "4EbiAo1gSnY",
+        "title": "Tour de France 2020 : Étape 13 - Carrière Eurovia Châteaugay",
+        "channel": "Tour de France",
+        "published": "2020-09-11 12:00:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "SDNyNa3vrss",
+        "title": "Tour de France 2020: Stage 13 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-11 19:00:31+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "lJUvD17eO2E",
+        "title": "Tour de France 2020: Stage 13 highlights",
+        "channel": "Velon",
+        "published": "2020-09-11 17:51:50+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "uZ3btPRJ5Ik",
+        "title": "Martinez takes maiden Tour win as Roglic stays in yellow!| Tour de France 2020 - Stage 13 Highlights",
+        "channel": "TNT Sports",
+        "published": "2020-09-11 17:14:07+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "RTIs83rz8aY",
+        "title": "Tour de France 2020 : Étape 14 - Héron cendré",
+        "channel": "Tour de France",
+        "published": "2020-09-12 12:00:06+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "Bvmseh43Uio",
+        "title": "#TDF2020 - Stage 12 - Hirschi scores first Tour de France victory!",
+        "channel": "Tour de France",
+        "published": "2020-09-10 16:39:44+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "HQSZF6BNanQ",
+        "title": "Tour de France 2020 : Étape 12 - Pie-grièche écorcheur",
+        "channel": "Tour de France",
+        "published": "2020-09-10 12:00:04+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "m4I1YbLZH6U",
+        "title": "Tour de France 2020 - Étape 13 vue du ciel / Stage 13 from the sky : Chatel Guyon - Puy Mary",
+        "channel": "Tour de France",
+        "published": "2020-07-10 22:00:08+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "X6sueWJtJdU",
+        "title": "Tour de France 2020 : Étape 10 - L’oyat",
+        "channel": "Tour de France",
+        "published": "2020-09-08 12:00:18+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

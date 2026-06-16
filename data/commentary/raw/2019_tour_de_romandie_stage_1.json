@@ -3,7 +3,86 @@
   "race_name": "Tour de Romandie",
   "race_date": "2019-05-01",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "K7zqpU7UbS4",
+    "title": "Tour Of Britain Stage 1 2019 Highlights - Glasgow - Kirkcudbright | GCN Racing",
+    "published": "2019-09-07 19:31:52+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=K7zqpU7UbS4",
+    "match_score": 75.0,
+    "all_candidates": [
+      {
+        "video_id": "K7zqpU7UbS4",
+        "title": "Tour Of Britain Stage 1 2019 Highlights - Glasgow - Kirkcudbright | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-07 19:31:52+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "GG8PmynLLFI",
+        "title": "Deutschland Tour 2019 Stage 1 Highlights: Hannover - Halberstadt | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-29 17:11:17+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "rabn1ePIV7M",
+        "title": "Deutschland Tour 2019 Stage 1 LIVE: Hannover - Halberstadt | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-29 15:52:35+00:00",
+        "match_score": 67.5
+      },
+      {
+        "video_id": "IWPP7X7HNr8",
+        "title": "Tour de Franche 2019 Highlights der 7.Etappe: Belfort - Chalon-Sur-Saone",
+        "channel": "GCN Racing",
+        "published": "2019-07-12 17:26:21+00:00",
+        "match_score": 39.64
+      },
+      {
+        "video_id": "UBN3N_7YwiI",
+        "title": "Tour Of Britain Stage 6 2019 Highlights - Individual Time Trial | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-12 18:21:18+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "uHEOlbzittk",
+        "title": "Tour Of Britain Stage 5 2019 Highlights - The Wirral | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-11 17:57:15+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "fu-_WOJk9ZU",
+        "title": "Tour Of Britain Stage 2 2019 Highlights - Scottish Borders | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-08 17:18:28+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "5RSvaNKPjVg",
+        "title": "Tour Of Britain Stage 3 2019 Highlights Berwick Upon Tweed - Newcastle Upon Tyne | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-09 17:39:18+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "bIh35VgJsrs",
+        "title": "Tour Of Britain Stage 7 2019 Highlights - Warwick - Burton Dassett Country Park | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-13 17:07:35+00:00",
+        "match_score": 35.0
+      },
+      {
+        "video_id": "C5JrvqNQOgU",
+        "title": "Tour Of Britain Stage 4 2019 Highlights - Gateshead - Kendal | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-10 17:34:52+00:00",
+        "match_score": 35.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-25",
   "stage": 14,
-  "video": null,
+  "video": {
+    "video_id": "lYIqdgVUBdk",
+    "title": "Giro d'Italia 2019 | Stage 14 | Highlights",
+    "published": "2019-05-25 16:21:00+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=lYIqdgVUBdk",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "lYIqdgVUBdk",
+        "title": "Giro d'Italia 2019 | Stage 14 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 16:21:00+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "vYoeeWiuMHg",
+        "title": "Giro d'Italia 2019 | Stage 14 | Last km",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 16:16:47+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "vDz3MBOT734",
+        "title": "Giro d'Italia 2019 | Stage 14 | The start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 17:20:41+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "qmVuvtDL5GU",
+        "title": "Giro d'Italia 2019 | Stage 14 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 07:00:04+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "93wVLimPZhs",
+        "title": "Giro d'Italia 2019 | Stage 14 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 18:16:50+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "QicwV_6BlVM",
+        "title": "Giro d'Italia 2019 | Stage 15 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-26 16:52:19+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "rJRBUwHUNWA",
+        "title": "Giro d'Italia 2019 | Stage 14 | Interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-25 16:41:53+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "nCp_Llr2iNo",
+        "title": "Giro d’Italia 2019 | Stage 14 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-25 16:53:18+00:00",
+        "match_score": 143.08
+      },
+      {
+        "video_id": "aqdomlgWU_8",
+        "title": "The Breakaway: Stage 14 Analysis | Giro d’Italia 2019 | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-25 16:35:23+00:00",
+        "match_score": 138.08
+      },
+      {
+        "video_id": "hkp7CV7LIow",
+        "title": "Giro d'Italia 2019 | stage 14 | Behind the scenes",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-26 10:41:28+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

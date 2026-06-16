@@ -3,7 +3,86 @@
   "race_name": "Volta Ciclista a Catalunya",
   "race_date": "2019-03-25",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "F1VlK-D4w5c",
+    "title": "How The Race Was Won | Milan Sanremo 2019 Highlights | Cycling | Eurosport",
+    "published": "2019-03-25 13:11:58+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=F1VlK-D4w5c",
+    "match_score": 90.58,
+    "all_candidates": [
+      {
+        "video_id": "F1VlK-D4w5c",
+        "title": "How The Race Was Won | Milan Sanremo 2019 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-25 13:11:58+00:00",
+        "match_score": 90.58
+      },
+      {
+        "video_id": "XOmN91xfX0E",
+        "title": "Milan San-Remo 2019 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-24 15:57:42+00:00",
+        "match_score": 88.58
+      },
+      {
+        "video_id": "Fp1ij0N340E",
+        "title": "Parcours - Étape 1 : Critérium du Dauphiné 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-25 13:29:43+00:00",
+        "match_score": 79.62
+      },
+      {
+        "video_id": "_aglKD_F-tM",
+        "title": "Vuelta a Valencia 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-06 16:01:41+00:00",
+        "match_score": 72.79
+      },
+      {
+        "video_id": "A2bdkidPx94",
+        "title": "Tour de Romandie 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-01 17:05:53+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "-3QXjr4rvcU",
+        "title": "Paris-Nice 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-11 12:45:27+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "G6_-s5GlWSE",
+        "title": "UAE Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-25 11:54:19+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "0i9QQyE7dwo",
+        "title": "BinckBank Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-12 15:33:03+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "U8vn5KuUrHc",
+        "title": "Vuelta a España 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-24 22:26:26+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "pBl6MKfbHKI",
+        "title": "Critérium du Dauphiné 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-06-10 11:31:30+00:00",
+        "match_score": 71.54
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

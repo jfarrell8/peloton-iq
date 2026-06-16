@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2018-03-10",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "pXe_8yoVRLM",
+    "title": "Last Kilometer - Stage 7 - Paris-Nice 2018",
+    "published": "2018-03-10 14:18:37+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=pXe_8yoVRLM",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "pXe_8yoVRLM",
+        "title": "Last Kilometer - Stage 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 14:18:37+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "QbrDF9NWcAE",
+        "title": "Crash in the breakaway - Stage 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 13:22:37+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "rg933B-qE7U",
+        "title": "Intermediate sprint - Stage 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 13:15:20+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "NMSrWHp1P7Q",
+        "title": "Résumé Flash - Étape 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 15:16:40+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "OBhWsLiCpSc",
+        "title": "Résumé - Étape 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 16:00:38+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "GaEExGk-DCc",
+        "title": "Flash Summary - Stage 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 15:21:07+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "FDVeQ25rMUk",
+        "title": "Summary - Stage 7 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-10 16:21:33+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "kT1bVwuzz_8",
+        "title": "Best of (English) - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 16:34:50+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "u6TrQPx5L1g",
+        "title": "Summary - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 15:37:06+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "Q9LbGjU1eH8",
+        "title": "Flash Summary - Stage 8 - Paris-Nice 2018",
+        "channel": "Tour de France",
+        "published": "2018-03-11 15:54:21+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2022-08-05",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "ZfJhADz7SCA",
+    "title": "Agonisingly Steep Ramps On First Summit Finish! | Tour De France 2022 Stage 7 Highlights",
+    "published": "2022-07-08 16:16:43+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=ZfJhADz7SCA",
+    "match_score": 76.67,
+    "all_candidates": [
+      {
+        "video_id": "ZfJhADz7SCA",
+        "title": "Agonisingly Steep Ramps On First Summit Finish! | Tour De France 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-08 16:16:43+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "zANKKMkmShk",
+        "title": "GC Shakeup Ahead Of Crucial TT | Tour De Suisse 2022 Men's Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-06-18 15:47:44+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "QlVst91xuDU",
+        "title": "Spectacular Finale On Jebel Hafeet! | UAE Tour 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-02-26 14:53:03+00:00",
+        "match_score": 73.33
+      },
+      {
+        "video_id": "SlCcvsO0VQc",
+        "title": "Climbing Masterclass Shakes Up GC! Tour De France Femmes Avec Zwift 2022 Stage 7 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-30 17:46:37+00:00",
+        "match_score": 61.67
+      },
+      {
+        "video_id": "KZJn8OOmTAI",
+        "title": "Sprint To Strömstad! | Tour Of Scandinavia 2022 Stage 2 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-10 17:52:11+00:00",
+        "match_score": 46.67
+      },
+      {
+        "video_id": "VYfT7YAh7Xc",
+        "title": "Nervous Racing As Break Fights For Victory!  | Tour Of Scandinavia 2022 Stage 4 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-12 17:20:02+00:00",
+        "match_score": 46.67
+      },
+      {
+        "video_id": "2Wf4WOw-H1w",
+        "title": "Can Anyone Beat Vos? | Tour Of Scandinavia 2022 Stage 3 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-11 18:02:05+00:00",
+        "match_score": 46.67
+      },
+      {
+        "video_id": "pxJFM5XJTww",
+        "title": "A New Race With A Familiar Winner! | Tour Of Scandinavia 2022 Stage 1 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-08-09 18:08:32+00:00",
+        "match_score": 46.67
+      },
+      {
+        "video_id": "kpXWioIU14g",
+        "title": "Break Vs Chasers In Thrilling Finale! | Tour De France 2022 Stage 9 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-10 16:48:25+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "Q7mwYjfY4xA",
+        "title": "Breakaway Brilliance & GC Gaps | Tour De France 2022 Stage 14 Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-07-16 17:01:31+00:00",
+        "match_score": 36.67
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

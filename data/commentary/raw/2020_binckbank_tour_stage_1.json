@@ -3,7 +3,86 @@
   "race_name": "BinckBank Tour",
   "race_date": "2020-09-29",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "2g3Ju0SRoJY",
+    "title": "BinckBank Tour 2020 - Stage 1 Highlights | Cycling | Eurosport",
+    "published": "2020-09-29 17:47:45+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=2g3Ju0SRoJY",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "2g3Ju0SRoJY",
+        "title": "BinckBank Tour 2020 - Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-29 17:47:45+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "DPrh7DvfP1I",
+        "title": "BinckBank Tour 2020 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-01 17:47:48+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "_mR0IlsC4CQ",
+        "title": "UAE Tour 2020: Stage 1 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2020-02-23 17:57:29+00:00",
+        "match_score": 73.64
+      },
+      {
+        "video_id": "YffVz09kYJE",
+        "title": "UAE Tour 2020: Stage 1 Race Highlights",
+        "channel": "Velon",
+        "published": "2020-02-23 16:25:56+00:00",
+        "match_score": 73.64
+      },
+      {
+        "video_id": "UEkhYJRFz2Q",
+        "title": "UAE Tour 2020 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-02-24 10:20:37+00:00",
+        "match_score": 73.64
+      },
+      {
+        "video_id": "uZ3btPRJ5Ik",
+        "title": "Martinez takes maiden Tour win as Roglic stays in yellow!| Tour de France 2020 - Stage 13 Highlights",
+        "channel": "TNT Sports",
+        "published": "2020-09-11 17:14:07+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "qTG1W49xJQw",
+        "title": "Could this be Sam Bennett's most Epic victory? | Tour de France 2020 - Stage 10 Highlights",
+        "channel": "TNT Sports",
+        "published": "2020-09-08 18:06:35+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "NSKHXfLzzN8",
+        "title": "Brothers in arms crossing the line! | Tour de France 2020 - Stage 18 Highlights | Cycling",
+        "channel": "TNT Sports",
+        "published": "2020-09-17 17:06:48+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "rwE1kZjDLmI",
+        "title": "Tour de France 2020: Stage 10 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-08 17:54:41+00:00",
+        "match_score": 71.11
+      },
+      {
+        "video_id": "BuAvJoowmf8",
+        "title": "Tour de France 2020: Stage 10 highlights",
+        "channel": "Velon",
+        "published": "2020-09-08 17:41:06+00:00",
+        "match_score": 71.11
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

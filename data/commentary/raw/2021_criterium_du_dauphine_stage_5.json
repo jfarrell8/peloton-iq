@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-06-03",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "arbLjYI1DBk",
+    "title": "2021 Critérium du Dauphiné  - Stage 5 Highlights | Cycling | Eurosport",
+    "published": "2021-06-03 15:49:51+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=arbLjYI1DBk",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "arbLjYI1DBk",
+        "title": "2021 Critérium du Dauphiné  - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-03 15:49:51+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "8NfKzVeyVv0",
+        "title": "#Dauphiné 2021 - Stage 5 - Highlights: Thomas bounces back in style",
+        "channel": "Tour de France",
+        "published": "2021-06-03 16:30:48+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "Y-Vn_ZZ5F0M",
+        "title": "#Dauphiné 2021- Stage 5 - Antargaz Most Agressive Rider Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-03 15:47:48+00:00",
+        "match_score": 122.2
+      },
+      {
+        "video_id": "hviSE77AxNc",
+        "title": "#Dauphiné 2021 - Étape 5 - Résumé: Thomas, le coup du kilomètre",
+        "channel": "Tour de France",
+        "published": "2021-06-03 15:55:22+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "xjPFuAqewJ8",
+        "title": "#Dauphiné 2021 - Stage 5 - LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-03 15:58:44+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "H-Tt382cdB4",
+        "title": "#Dauphiné 2021- Stage 5 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-03 16:13:53+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "8vDIX0vJ5ko",
+        "title": "#Dauphiné 2021- Stage 5 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-06-03 14:22:32+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "Q36xHM_T5yI",
+        "title": "2021 Critérium du Dauphiné  - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-02 17:02:45+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "O5RVzbNtatE",
+        "title": "2021 Critérium du Dauphiné  - Stage 6 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-04 16:34:55+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "On8T5aw6sNE",
+        "title": "Tour de Suisse 2021: Stage 5 Full Highlights",
+        "channel": "Velon",
+        "published": "2021-06-10 17:01:15+00:00",
+        "match_score": 86.43
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

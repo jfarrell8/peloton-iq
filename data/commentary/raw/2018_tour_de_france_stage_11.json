@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-18",
   "stage": 11,
-  "video": null,
+  "video": {
+    "video_id": "ClpflR1jqJk",
+    "title": "Le Lac de Roselend - Stage 11 - Tour de France 2018",
+    "published": "2018-07-18 14:18:45+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=ClpflR1jqJk",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "ClpflR1jqJk",
+        "title": "Le Lac de Roselend - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 14:18:45+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Wzf5VJjLu28",
+        "title": "Col du Pré - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 14:09:20+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "j_y6NUP8z9o",
+        "title": "Le Cormet de Roselend - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 13:59:41+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "AOXlsbcMj14",
+        "title": "Julian Alaphilippe says hi- Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 14:25:45+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "lVtQv_VnV8A",
+        "title": "Montée de Bisanne - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 13:10:26+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "_-9vn_vHrPg",
+        "title": "The breakaway - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 13:03:47+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "MkE-l56yfqI",
+        "title": "Look who's here! - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 13:00:44+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "FnSMX5_q-2A",
+        "title": "Alejandro Valverde attacks! - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 13:56:01+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "rDmqtDruvdo",
+        "title": "Start - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 12:40:38+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "x8mm_NiNF3A",
+        "title": "Presentation - Stage 11 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-18 05:00:07+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

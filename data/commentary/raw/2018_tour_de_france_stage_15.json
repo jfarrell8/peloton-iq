@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-22",
   "stage": 15,
-  "video": null,
+  "video": {
+    "video_id": "fElEC4jJrac",
+    "title": "Go on Geraint, go on! - Stage 15 - Tour de France 2018",
+    "published": "2018-07-22 12:50:43+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=fElEC4jJrac",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "fElEC4jJrac",
+        "title": "Go on Geraint, go on! - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 12:50:43+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "eMI10gNglmg",
+        "title": "Flash Summary - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 16:21:23+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "f7T_x00NYvs",
+        "title": "Calmejane vs. Pozzovivo - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 16:32:12+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "BucdswH89Tc",
+        "title": "La minute Maillot à pois Carrefour - Étape 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 17:46:48+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "cF8aBLuh49s",
+        "title": "Mag du jour : Ocaña et Poulidor, drame et coïncidence - Étape 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 12:26:20+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "6qWip4YiKhU",
+        "title": "Viaduc de Millau - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 11:17:04+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "VuJTBVFZIxQ",
+        "title": "Start - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 11:24:27+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "XK2qcVQkUAA",
+        "title": "Côte de Luzençon - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 11:38:07+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "n-TMxIT0Olg",
+        "title": "Intermediate sprint - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 14:20:25+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "78jK_EosQ8g",
+        "title": "Pic de Nore - Stage 15 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-22 15:01:28+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

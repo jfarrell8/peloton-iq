@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-17",
   "stage": 10,
-  "video": null,
+  "video": {
+    "video_id": "U8GW2PX-a_0",
+    "title": "Presentation - Stage 10 - Tour de France 2018",
+    "published": "2018-07-17 05:00:02+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=U8GW2PX-a_0",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "U8GW2PX-a_0",
+        "title": "Presentation - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 05:00:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "zJvzqNL5pn4",
+        "title": "Présentation - Étape 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 05:00:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "bzoUJ0fk-j4",
+        "title": "Don't look down! - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 14:57:08+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "ybI8lgmuxY4",
+        "title": "Julian Alaphilippe goes solo to the Col des Glières - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 14:00:18+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "vH1zT8fPOMA",
+        "title": "La montée du plateau des Glières - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 13:41:37+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "OnvK1K7bW0E",
+        "title": "Mag du jour : Romain Bardet, l'esprit d'équipe - Étape 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 13:21:34+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "kniL9aWh20A",
+        "title": "Les Glières - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 13:21:26+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "cCpd0eCTlnY",
+        "title": "Col de la Colombière - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 15:52:44+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "7YJNVUdEdCI",
+        "title": "Magazine : Romain Bardet, Team Spirit - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 13:21:18+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "kcL-cWo2pno",
+        "title": "Col de la Croix Fry - Stage 10 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-17 12:56:09+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

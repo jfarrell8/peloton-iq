@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-02",
   "stage": 5,
-  "video": null,
+  "video": {
+    "video_id": "SxAwwP3iVUA",
+    "title": "Tour de France 2020 : Étape 5 - Les vautours fauves",
+    "published": "2020-09-02 12:00:14+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=SxAwwP3iVUA",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "SxAwwP3iVUA",
+        "title": "Tour de France 2020 : Étape 5 - Les vautours fauves",
+        "channel": "Tour de France",
+        "published": "2020-09-02 12:00:14+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "yE_6jOOTX2s",
+        "title": "Tour de France 2020: Stage 5 highlights",
+        "channel": "Velon",
+        "published": "2020-09-02 17:35:48+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "PhpOI2bL8mU",
+        "title": "Tour de France 2020: Stage 5 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-02 18:49:04+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "IuRaJjJLsuE",
+        "title": "Wout Van Aert wins stage on a tight sprint! | Tour de France 2020 - Stage 5 Highlights | Cycling",
+        "channel": "TNT Sports",
+        "published": "2020-09-02 17:56:41+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "f-Dx3Zbq7bY",
+        "title": "Virtual Tour de France 2020 - Stage 5 - Highlights",
+        "channel": "Tour de France",
+        "published": "2020-07-18 17:39:12+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Po2ubO0ENL0",
+        "title": "Tour de France 2020 : Étape 6 - Parc national des Cévennes Réserve de biosphère",
+        "channel": "Tour de France",
+        "published": "2020-09-03 12:00:12+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "DJqEEp4JYJ8",
+        "title": "Tour de France 2020 : Étape 4 - Le tétras Lyre",
+        "channel": "Tour de France",
+        "published": "2020-09-01 12:00:05+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "7RTvu8eDKOw",
+        "title": "Virtual Tour de France 2020 - Live Stage 5",
+        "channel": "Tour de France",
+        "published": "2020-07-18 15:20:14+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "8Ee3yrGlxOE",
+        "title": "Tour de France 2020 - Étape 5 vue du ciel / Stage 5 from the sky : Gap - Privas",
+        "channel": "Tour de France",
+        "published": "2020-07-01 08:07:59+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "-Xq9sC-zliw",
+        "title": "Tour de France 2020 : Étape 8 - Parc national des Pyrénées",
+        "channel": "Tour de France",
+        "published": "2020-09-05 12:00:00+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

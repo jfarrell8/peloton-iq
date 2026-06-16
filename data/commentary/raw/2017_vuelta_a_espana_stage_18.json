@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2017-09-07",
   "stage": 18,
-  "video": null,
+  "video": {
+    "video_id": "gIR3j2NEBeA",
+    "title": "GoPro Highlights - Stage 18 - La Vuelta 2017",
+    "published": "2017-09-07 23:36:17+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=gIR3j2NEBeA",
+    "match_score": 183.46,
+    "all_candidates": [
+      {
+        "video_id": "gIR3j2NEBeA",
+        "title": "GoPro Highlights - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 23:36:17+00:00",
+        "match_score": 183.46
+      },
+      {
+        "video_id": "m6UMrzV0fao",
+        "title": "Alaphilippe, Lutzenko and Armée - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 15:25:48+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "kie4z7G7YWE",
+        "title": "The breakaway - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 13:52:23+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "Ag7fBl-fkTQ",
+        "title": "Résumé - Étape 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 17:09:26+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "MWhS8RhBl1A",
+        "title": "Froome's attack - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 15:53:30+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "1bV_xMZsPj0",
+        "title": "Aru attacks, Contador follows - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 14:48:23+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "VE-SKxMJduI",
+        "title": "Last kilometer - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 15:49:15+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "fz855Kj9Iyk",
+        "title": "The front of the race is climbing  - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 14:36:54+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "cOVrKPDaxbU",
+        "title": "Summary - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 17:48:25+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "F7FWIQ4hftU",
+        "title": "20 riders at the front - Stage 18 - La Vuelta 2017",
+        "channel": "La Vuelta",
+        "published": "2017-09-07 13:11:41+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

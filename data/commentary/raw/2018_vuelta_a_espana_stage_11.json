@@ -3,7 +3,86 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2018-09-05",
   "stage": 11,
-  "video": null,
+  "video": {
+    "video_id": "hqIGLU_3XuY",
+    "title": "Last kilometer - Stage 11 - La Vuelta 2018",
+    "published": "2018-09-05 15:26:17+00:00",
+    "channel": "La Vuelta",
+    "url": "https://youtube.com/watch?v=hqIGLU_3XuY",
+    "match_score": 163.46,
+    "all_candidates": [
+      {
+        "video_id": "hqIGLU_3XuY",
+        "title": "Last kilometer - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 15:26:17+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "bVcMMOB_hJI",
+        "title": "Summary - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 17:11:06+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "eD_LXtm_ycU",
+        "title": "Castle - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 14:56:17+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "hcnLkYB9OCg",
+        "title": "Onboard camera - Sequence of the day - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 17:00:57+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "hJUl2GhrVQE",
+        "title": "Résumé - Étape 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 17:08:28+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "td80nYELhaI",
+        "title": "Pinot - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 13:38:43+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "_OoXi9M9LX8",
+        "title": "Alto do Trives - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 13:42:19+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "b_-v1a9bZvE",
+        "title": "Peloton - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 13:43:50+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "ptuWh_moDdQ",
+        "title": "Crash - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 13:45:15+00:00",
+        "match_score": 163.46
+      },
+      {
+        "video_id": "UZuV0MAjtuI",
+        "title": "Sprint Mollema - Stage 11 - La Vuelta 2018",
+        "channel": "La Vuelta",
+        "published": "2018-09-05 14:53:46+00:00",
+        "match_score": 163.46
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

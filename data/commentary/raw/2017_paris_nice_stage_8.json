@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2017-03-12",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "3yj5kZS__c8",
+    "title": "GoPro Onboard camera - Stage 8 - Paris-Nice 2017",
+    "published": "2017-03-12 19:30:08+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=3yj5kZS__c8",
+    "match_score": 135.0,
+    "all_candidates": [
+      {
+        "video_id": "3yj5kZS__c8",
+        "title": "GoPro Onboard camera - Stage 8 - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 19:30:08+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "dsK-ugOH9bI",
+        "title": "Résumé - Étape 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 17:02:43+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "WIyYBfBmFkU",
+        "title": "Summary - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 17:55:15+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "I7tvbn7tjUs",
+        "title": "Contador vs the pack - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 15:30:43+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "asYQPv4WRGs",
+        "title": "Contador going hard - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 15:34:10+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "6nGXh31vocM",
+        "title": "The last kilometer - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 16:25:18+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "fp1Zh2vK3Rk",
+        "title": "Contador in the downhill - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 15:57:04+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "IYk-0bjYMmU",
+        "title": "Contador solo - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 15:30:19+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "TyTRR8Gq8WM",
+        "title": "Contador attacks - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 15:25:56+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "uJOTgeK8o14",
+        "title": "The Henao group - Stage 8 (Nice / Nice) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-12 15:28:40+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tour of Oman",
   "race_date": "2017-02-19",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "Cfasvc2mjuE",
+    "title": "Summary - Stage 6 - Tour of Oman 2017",
+    "published": "2017-02-21 10:29:48+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=Cfasvc2mjuE",
+    "match_score": 110.0,
+    "all_candidates": [
+      {
+        "video_id": "Cfasvc2mjuE",
+        "title": "Summary - Stage 6 - Tour of Oman 2017",
+        "channel": "Tour de France",
+        "published": "2017-02-21 10:29:48+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "9-KI7Iutj5s",
+        "title": "Last kilometer - Stage 6 - Tour of Oman 2017",
+        "channel": "Tour de France",
+        "published": "2017-02-21 10:26:34+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "SaxaJsnViCc",
+        "title": "Summary - Stage 5 - Tour of Oman 2017",
+        "channel": "Tour de France",
+        "published": "2017-02-19 15:25:24+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "RRb1tiIERyM",
+        "title": "Tour of Taihu Lake 2017 - Stage 6 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-16 05:43:42+00:00",
+        "match_score": 83.45
+      },
+      {
+        "video_id": "8zHfuJE-RAE",
+        "title": "Tour of Guangxi 2017 | Stage 6 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-24 13:25:47+00:00",
+        "match_score": 80.83
+      },
+      {
+        "video_id": "ebFtgAxrqPc",
+        "title": "Tour of Guangxi 2017: Stage 6 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-07 00:05:07+00:00",
+        "match_score": 80.83
+      },
+      {
+        "video_id": "secQU-vfhC0",
+        "title": "Tour de France 2017 | Stage 6 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-06 18:40:24+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "p8fwMWdkniA",
+        "title": "Tour de France 2017 | Stage 6 Moment (Wheel Change)",
+        "channel": "Velon",
+        "published": "2017-07-06 19:11:52+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "y_grdx9xC2A",
+        "title": "Tour de France 2017 | Stage 6 Moment (Sprint)",
+        "channel": "Velon",
+        "published": "2017-07-06 19:08:43+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "NRF_kYoUPnc",
+        "title": "Summary - Stage 4 - Tour of Oman 2017",
+        "channel": "Tour de France",
+        "published": "2017-02-21 10:21:20+00:00",
+        "match_score": 70.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

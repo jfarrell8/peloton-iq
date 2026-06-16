@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-12",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "oxZ6QfxBsZI",
+    "title": "Giro d'Italia 2019 | Stage 2 | Highlights",
+    "published": "2019-05-12 17:14:16+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=oxZ6QfxBsZI",
+    "match_score": 195.0,
+    "all_candidates": [
+      {
+        "video_id": "oxZ6QfxBsZI",
+        "title": "Giro d'Italia 2019 | Stage 2 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-12 17:14:16+00:00",
+        "match_score": 195.0
+      },
+      {
+        "video_id": "uK--yAEXtfQ",
+        "title": "Giro d'Italia 2019 | Best of Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-12 17:43:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "sxypPja2aw0",
+        "title": "Giro d'Italia 2019 | Stage 2 | The Start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-12 12:27:06+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "nVeVazsl3t0",
+        "title": "Giro d'Italia 2019 | Stage 2 | The Sprint!",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-12 15:47:30+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "vQmNO1vXtLI",
+        "title": "Giro d'Italia 2019 | Stage 2 | The Route",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-11 07:00:04+00:00",
+        "match_score": 165.0
+      },
+      {
+        "video_id": "u_XPpw7DB98",
+        "title": "Giro d'Italia 2019 | Highlights Stage 3",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-13 17:35:26+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "fQHCkd9K4Hw",
+        "title": "Giro d'Italia 2019 | Stage 2 | Interview with Pascal Ackermann",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-12 16:02:53+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "VLrlnqXH44o",
+        "title": "Giro d'Italia 2019 | Highlights Stage 1",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-11 19:03:45+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "8W2q-XTOg38",
+        "title": "Giro d'Italia 2019 | Stage 2 | Interview with Primož Roglič",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-12 16:22:00+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "W9BB9446xZs",
+        "title": "Giro d’Italia 2019 | Stage 2 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-12 17:38:24+00:00",
+        "match_score": 143.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tirreno-Adriatico",
   "race_date": "2017-03-13",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "Nuu62CZO11A",
+    "title": "Tirreno Adriatico 2017: Tappa 6 - Altimetria",
+    "published": "2017-03-12 16:37:40+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=Nuu62CZO11A",
+    "match_score": 123.53,
+    "all_candidates": [
+      {
+        "video_id": "Nuu62CZO11A",
+        "title": "Tirreno Adriatico 2017: Tappa 6 - Altimetria",
+        "channel": "Giro d'Italia",
+        "published": "2017-03-12 16:37:40+00:00",
+        "match_score": 123.53
+      },
+      {
+        "video_id": "BSi5nKxp8lc",
+        "title": "Tirreno Adriatico 2017: Tappa 6 - Planimetria",
+        "channel": "Giro d'Italia",
+        "published": "2017-03-12 16:41:19+00:00",
+        "match_score": 123.53
+      },
+      {
+        "video_id": "gzoOssdgqEM",
+        "title": "Great landscapes - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 14:50:53+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "lvDFMaP3dJo",
+        "title": "Finish line, first crossing - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 15:00:42+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "_KRlkDjZ9k8",
+        "title": "Last kilometer - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 16:40:24+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "KlVYG19RDCE",
+        "title": "Résumé - Étape 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 16:36:02+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "nCALwGGm7d8",
+        "title": "The break - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 14:50:20+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "Tqjr1SJwsbI",
+        "title": "Simon Yates attacks ! - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 16:40:01+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "ePiYFlaSCBU",
+        "title": "No more break - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 15:14:56+00:00",
+        "match_score": 96.76
+      },
+      {
+        "video_id": "jOk5zSjleeY",
+        "title": "Summary - Stage 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "channel": "Tour de France",
+        "published": "2017-03-10 17:29:35+00:00",
+        "match_score": 96.76
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

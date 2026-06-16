@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2019-03-13",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "uq4E7JUZJc4",
+    "title": "Paris-Nice 2019 | Stage 4 Highlights | Cycling | Eurosport",
+    "published": "2019-03-13 19:02:40+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=uq4E7JUZJc4",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "uq4E7JUZJc4",
+        "title": "Paris-Nice 2019 | Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-13 19:02:40+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "-G6RdIpuw94",
+        "title": "Last Kilometer - Stage 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 15:50:45+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "X940v1IuOIg",
+        "title": "Saint Michel sur Rhône - Stage 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 14:57:41+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "U8200vdh4mU",
+        "title": "Breakaway Condrieu - Stage 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 14:33:37+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "f4cjcBTaXWs",
+        "title": "Résumé - Étape 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 17:03:01+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "U_tOJvN-t0c",
+        "title": "Summary - Stage 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 17:22:31+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "IvzlEI_cfAw",
+        "title": "Yellow Jersey Minute - Stage 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 16:22:02+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "ZtLV6xVex4E",
+        "title": "Côte de Chavanay - Stage 4 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-13 15:24:39+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "yCNDu6wUQkE",
+        "title": "Paris-Nice 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-12 17:21:20+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "bzSCDkT751w",
+        "title": "Summary - Stage 5 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-14 17:31:01+00:00",
+        "match_score": 85.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,30 @@
   "race_name": "Ronde Van Vlaanderen",
   "race_date": "2019-04-07",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "zHvve4I7fSQ",
+    "title": "Dwars door Vlaanderen 2019 | Men's Highlights | inCycle",
+    "published": "2019-04-04 14:57:43+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=zHvve4I7fSQ",
+    "match_score": 81.25,
+    "all_candidates": [
+      {
+        "video_id": "zHvve4I7fSQ",
+        "title": "Dwars door Vlaanderen 2019 | Men's Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-04-04 14:57:43+00:00",
+        "match_score": 81.25
+      },
+      {
+        "video_id": "oPkze2ECKKI",
+        "title": "Dwars door Vlaanderen 2019 Men's Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-04-03 18:33:29+00:00",
+        "match_score": 61.25
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

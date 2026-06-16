@@ -3,7 +3,86 @@
   "race_name": "Paris-Nice",
   "race_date": "2019-03-12",
   "stage": 3,
-  "video": null,
+  "video": {
+    "video_id": "yCNDu6wUQkE",
+    "title": "Paris-Nice 2019 | Stage 3 Highlights | Cycling | Eurosport",
+    "published": "2019-03-12 17:21:20+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=yCNDu6wUQkE",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "yCNDu6wUQkE",
+        "title": "Paris-Nice 2019 | Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-12 17:21:20+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "HW7p9sxu9mE",
+        "title": "Breakaway - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 14:29:56+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "o0b3EuEwuPc",
+        "title": "Résumé - Étape 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 17:12:07+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "3AcGMdGMTVk",
+        "title": "Summary - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 18:10:21+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "hnkvZbLsizE",
+        "title": "Intermediate Sprint - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 15:51:16+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "WbGb1cwRjiM",
+        "title": "Group Crash - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 15:35:47+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "OLCvdTzRU1A",
+        "title": "Catching Up - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 15:36:31+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "hh8RE008jP8",
+        "title": "Yellow Jersey Minute - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 16:50:50+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "hCZ65StIZ_8",
+        "title": "Joined by rabbits - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 15:35:29+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "6OxcrQvac44",
+        "title": "Last Kilometer - Stage 3 - Paris-Nice 2019",
+        "channel": "Tour de France",
+        "published": "2019-03-12 16:18:49+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

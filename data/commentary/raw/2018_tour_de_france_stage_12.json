@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-19",
   "stage": 12,
-  "video": null,
+  "video": {
+    "video_id": "tLSqauOjS70",
+    "title": "Pierre Rolland first on top - Stage 12 - Tour de France 2018",
+    "published": "2018-07-19 12:46:17+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=tLSqauOjS70",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "tLSqauOjS70",
+        "title": "Pierre Rolland first on top - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 12:46:17+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "LJOue3b2mHQ",
+        "title": "Sometimes cameramen need a drink too, thanks Julian Alaphilippe! - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 12:27:12+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "a9bQnfInkXU",
+        "title": "Alaphilippe is first on top of Col de la Madeleine - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 12:06:04+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "E_40rTIdmqk",
+        "title": "Lacets de Montvernier - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 12:40:42+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "mC9gSV9trDE",
+        "title": "2' for the break - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 11:48:15+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "0L2WhPrVwVU",
+        "title": "The breakaway - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 11:15:55+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "ZDKqt7Cw4ZE",
+        "title": "Start- Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 10:26:05+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "X-TU3gS6jvQ",
+        "title": "Neutralised start - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 10:12:31+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "KgHr79v45J4",
+        "title": "Magazine : Alpe d'Huez, a french garden - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 09:51:19+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "eNINrd7fezk",
+        "title": "Presentation - Stage 12 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-19 05:00:01+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

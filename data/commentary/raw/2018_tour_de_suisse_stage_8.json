@@ -3,7 +3,86 @@
   "race_name": "Tour de Suisse",
   "race_date": "2018-06-16",
   "stage": 8,
-  "video": null,
+  "video": {
+    "video_id": "06vuLUdV-3U",
+    "title": "On bike action at the 2018 Tour de Suisse",
+    "published": "2018-06-16 17:39:54+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=06vuLUdV-3U",
+    "match_score": 100.0,
+    "all_candidates": [
+      {
+        "video_id": "06vuLUdV-3U",
+        "title": "On bike action at the 2018 Tour de Suisse",
+        "channel": "Velon",
+        "published": "2018-06-16 17:39:54+00:00",
+        "match_score": 100.0
+      },
+      {
+        "video_id": "7bxZxHnJIXA",
+        "title": "Porte wins Tour de Suisse 2018",
+        "channel": "Velon",
+        "published": "2018-06-19 10:54:00+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "taBfT-pSmzI",
+        "title": "Tour de Suisse 2018: Best moments",
+        "channel": "Velon",
+        "published": "2018-06-19 15:06:38+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "JOWFof2VZAM",
+        "title": "Tour of Britain 2018 | Stage 8 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-09-10 15:15:00+00:00",
+        "match_score": 74.0
+      },
+      {
+        "video_id": "CguEVIFfWPg",
+        "title": "Tour of Guangxi 2018: Stage 2 - extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-18 09:53:25+00:00",
+        "match_score": 49.58
+      },
+      {
+        "video_id": "u01sg45NYG4",
+        "title": "Tour of Guangxi 2018: Stage 3 - extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-18 20:15:54+00:00",
+        "match_score": 49.58
+      },
+      {
+        "video_id": "YlZpW7oedMY",
+        "title": "Tour of Guangxi 2018: Stage 6 - extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-22 03:49:49+00:00",
+        "match_score": 49.58
+      },
+      {
+        "video_id": "B-jKFICcF0U",
+        "title": "Tour of Guangxi 2018: Stage 1 extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-17 10:31:39+00:00",
+        "match_score": 49.58
+      },
+      {
+        "video_id": "vZ6p2h_Ghf4",
+        "title": "Tour of Guangxi 2018: Stage 5 - extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-21 14:10:37+00:00",
+        "match_score": 49.58
+      },
+      {
+        "video_id": "FvVTO2T6AYE",
+        "title": "Tour of Guangxi 2018: Stage 4 - extended highlights",
+        "channel": "Velon",
+        "published": "2018-10-20 13:14:18+00:00",
+        "match_score": 49.58
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

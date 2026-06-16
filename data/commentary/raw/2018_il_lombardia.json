@@ -3,7 +3,72 @@
   "race_name": "Il Lombardia",
   "race_date": "2018-10-13",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "hIrwBmrcBdI",
+    "title": "Il Lombardia 2018 | Full Race Highlights | inCycle",
+    "published": "2018-10-13 18:26:02+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=hIrwBmrcBdI",
+    "match_score": 123.0,
+    "all_candidates": [
+      {
+        "video_id": "hIrwBmrcBdI",
+        "title": "Il Lombardia 2018 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-10-13 18:26:02+00:00",
+        "match_score": 123.0
+      },
+      {
+        "video_id": "hlo9gmMgiT8",
+        "title": "Il Lombardia 2018 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-10-13 18:00:53+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "gf4HPKiGv6M",
+        "title": "How The Race Was Won | Il Lombardia 2018 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-10-16 17:00:06+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "Xd-bcqC3gl4",
+        "title": "Il Lombardia 2018 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-10-15 15:00:03+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "NUIfm5LOXFk",
+        "title": "Behind The Scenes at Il Lombardia 2018 | Ft. Nibali, Pinot and more! | inCycle",
+        "channel": "inCycle",
+        "published": "2018-10-15 18:00:02+00:00",
+        "match_score": 55.0
+      },
+      {
+        "video_id": "VacetqSBwrM",
+        "title": "Il Lombardia - Promo 2018",
+        "channel": "Giro d'Italia",
+        "published": "2018-09-27 09:30:45+00:00",
+        "match_score": 45.0
+      },
+      {
+        "video_id": "eeZ0OeMvcdw",
+        "title": "#TBT | Il Lombardia 2018 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2020-06-18 07:00:10+00:00",
+        "match_score": -30.0
+      },
+      {
+        "video_id": "fY3LAIw7tHo",
+        "title": "Il Lombardia 2018: Pinot’s revenge against Nibali 🏁 #giro #giroditalia #procyclist #shorts",
+        "channel": "Giro d'Italia",
+        "published": "2023-10-06 16:00:29+00:00",
+        "match_score": -185.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

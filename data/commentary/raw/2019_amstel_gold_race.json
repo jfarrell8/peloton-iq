@@ -3,7 +3,58 @@
   "race_name": "Amstel Gold Race",
   "race_date": "2019-04-21",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "Yi4opDanurU",
+    "title": "One of the most impressive finishes of Mathieu van der Poel!| Amstel Gold Race 2019 | Eurosport",
+    "published": "2019-04-21 18:27:34+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=Yi4opDanurU",
+    "match_score": 110.0,
+    "all_candidates": [
+      {
+        "video_id": "Yi4opDanurU",
+        "title": "One of the most impressive finishes of Mathieu van der Poel!| Amstel Gold Race 2019 | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-04-21 18:27:34+00:00",
+        "match_score": 110.0
+      },
+      {
+        "video_id": "J6rA9zou0PU",
+        "title": "Amstel Gold Race 2019 | Men's Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-04-22 15:13:48+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "kmTpcWrnqdM",
+        "title": "The Best of the Amstel Gold Race from 2015 to 2019 | inCycle",
+        "channel": "inCycle",
+        "published": "2020-04-20 18:00:13+00:00",
+        "match_score": 50.0
+      },
+      {
+        "video_id": "6kHOuAUCtv0",
+        "title": "Colorado Classic 2019 Stage 3 LIVE: Golden | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-24 20:38:14+00:00",
+        "match_score": 32.5
+      },
+      {
+        "video_id": "B24vGcI4tUM",
+        "title": "1 Race, 5 Languages: Mathieu Van der Poel at Amstel Gold Race 2019 | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2022-04-08 16:24:29+00:00",
+        "match_score": -70.0
+      },
+      {
+        "video_id": "RMZEeIuTQxw",
+        "title": "Amstel Gold Race 2019 | Women's Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-04-22 12:27:49+00:00",
+        "match_score": -80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

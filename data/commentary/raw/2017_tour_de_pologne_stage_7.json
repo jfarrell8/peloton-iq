@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2017-08-04",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "Y9GxV4AyoEk",
+    "title": "Tour of Taihu Lake 2017 - Stage 7 - Full Race",
+    "published": "2017-10-17 05:11:34+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=Y9GxV4AyoEk",
+    "match_score": 77.29,
+    "all_candidates": [
+      {
+        "video_id": "Y9GxV4AyoEk",
+        "title": "Tour of Taihu Lake 2017 - Stage 7 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-17 05:11:34+00:00",
+        "match_score": 77.29
+      },
+      {
+        "video_id": "iD8tLtYn97c",
+        "title": "Tour of Guangxi 2017 | Full race highlights",
+        "channel": "Velon",
+        "published": "2017-10-27 09:26:18+00:00",
+        "match_score": 42.81
+      },
+      {
+        "video_id": "MGVh5g6Yp_o",
+        "title": "Tour of Taihu Lake 2017 - Stage 5 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-15 06:28:56+00:00",
+        "match_score": 37.29
+      },
+      {
+        "video_id": "J2hkvghSZ90",
+        "title": "Tour of Taihu Lake 2017 - Stage 1 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-11 05:07:50+00:00",
+        "match_score": 37.29
+      },
+      {
+        "video_id": "HvDdEOgHpxY",
+        "title": "Tour of Taihu Lake 2017 - Stage 3 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-13 05:41:59+00:00",
+        "match_score": 37.29
+      },
+      {
+        "video_id": "RRb1tiIERyM",
+        "title": "Tour of Taihu Lake 2017 - Stage 6 - Full Race",
+        "channel": "inCycle",
+        "published": "2017-10-16 05:43:42+00:00",
+        "match_score": 37.29
+      },
+      {
+        "video_id": "l8KhEg4ZxUg",
+        "title": "Tour of Guangxi 2017 | Stage 2 highlights",
+        "channel": "Velon",
+        "published": "2017-10-20 12:36:45+00:00",
+        "match_score": 34.81
+      },
+      {
+        "video_id": "stP18mxuVcw",
+        "title": "Tour of Guangxi 2017: Stage 1 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 19:58:15+00:00",
+        "match_score": 34.81
+      },
+      {
+        "video_id": "_cEhlxxuuBk",
+        "title": "Tour of Guangxi 2017: Stage 2 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 20:28:43+00:00",
+        "match_score": 34.81
+      },
+      {
+        "video_id": "cjHdX8nj0p0",
+        "title": "Tour of Guangxi 2017: Stage 3 TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 21:26:12+00:00",
+        "match_score": 34.81
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

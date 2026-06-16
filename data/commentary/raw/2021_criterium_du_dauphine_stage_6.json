@@ -3,7 +3,86 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2021-06-04",
   "stage": 6,
-  "video": null,
+  "video": {
+    "video_id": "O5RVzbNtatE",
+    "title": "2021 Critérium du Dauphiné  - Stage 6 Highlights | Cycling | Eurosport",
+    "published": "2021-06-04 16:34:55+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=O5RVzbNtatE",
+    "match_score": 142.62,
+    "all_candidates": [
+      {
+        "video_id": "O5RVzbNtatE",
+        "title": "2021 Critérium du Dauphiné  - Stage 6 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-04 16:34:55+00:00",
+        "match_score": 142.62
+      },
+      {
+        "video_id": "iGlMBYl6E9c",
+        "title": "#Dauphiné 2021 - Stage 6 - Highlights: Valverde, 13 years later",
+        "channel": "Tour de France",
+        "published": "2021-06-04 16:17:27+00:00",
+        "match_score": 127.07
+      },
+      {
+        "video_id": "LecPofANvjo",
+        "title": "#Dauphiné 2021- Stage 6 - Antargaz Most Agressive Rider Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-04 15:58:57+00:00",
+        "match_score": 122.2
+      },
+      {
+        "video_id": "t2gfz52acKo",
+        "title": "#Dauphiné 2021- Stage 6 - AURA Polka Dot Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-04 14:50:57+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "MTDpXUux6MQ",
+        "title": "#Dauphiné 2021 - Stage 6 - LCL Blue & Yellow Jersey Minute",
+        "channel": "Tour de France",
+        "published": "2021-06-04 15:05:53+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "Yg5E6fKehsg",
+        "title": "#Dauphiné 2021 - Étape 6 - Résumé: Valverde, 13 ans après",
+        "channel": "Tour de France",
+        "published": "2021-06-04 16:08:50+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "sBEbncJhUMA",
+        "title": "#Dauphiné 2021- Stage 6 - Last KM",
+        "channel": "Tour de France",
+        "published": "2021-06-04 13:56:42+00:00",
+        "match_score": 122.07
+      },
+      {
+        "video_id": "arbLjYI1DBk",
+        "title": "2021 Critérium du Dauphiné  - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-03 15:49:51+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "GbA3EjMjxzE",
+        "title": "2021 Critérium du Dauphiné  - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-05 17:08:42+00:00",
+        "match_score": 92.62
+      },
+      {
+        "video_id": "dwFrK2dqJHU",
+        "title": "Casper Ruud v A. Davidovich Fokina | 2021 Roland Garros - Round 3 Highlights | Tennis | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-04 16:50:39+00:00",
+        "match_score": 90.71
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

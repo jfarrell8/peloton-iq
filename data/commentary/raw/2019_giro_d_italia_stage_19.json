@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2019-05-31",
   "stage": 19,
-  "video": null,
+  "video": {
+    "video_id": "nMrRDry4OAY",
+    "title": "Giro d'Italia 2019 | Stage 19 | Best of",
+    "published": "2019-05-31 18:43:58+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=nMrRDry4OAY",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "nMrRDry4OAY",
+        "title": "Giro d'Italia 2019 | Stage 19 | Best of",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-31 18:43:58+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "STWe412d1bk",
+        "title": "Giro d'Italia 2019 | Stage 19 | Last KM",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-31 15:54:51+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "YIZ1QtfxLlU",
+        "title": "Giro d'Italia 2019 | Stage 19 | The start",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-31 12:35:21+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "NKVwYdQN5og",
+        "title": "Giro d'Italia 2019 | Stage 19 | Chef",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-31 09:04:25+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "qMCI2Be76_c",
+        "title": "Giro d'Italia 2019 | Stage 19 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-06-04 12:15:59+00:00",
+        "match_score": 150.0
+      },
+      {
+        "video_id": "0kkakmSRpgg",
+        "title": "Giro d'Italia 2019 | Stage 19 | Pre-start interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-31 12:00:11+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "zw7eIwQ2a0g",
+        "title": "Giro d'Italia 2019 | Stage 19 | Interviews",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-31 16:42:48+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "mTF7LmopTwY",
+        "title": "Giro d'Italia 2019 | Stage 20 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-06-01 16:56:23+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Z27rV7QQOUU",
+        "title": "Giro d'Italia 2019 | Stage 18 | Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2019-05-30 16:04:55+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "5nK733bKXO0",
+        "title": "Giro d’Italia 2019 | Stage 19 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-05-31 16:21:21+00:00",
+        "match_score": 143.08
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

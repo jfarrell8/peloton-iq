@@ -3,7 +3,86 @@
   "race_name": "Tour of Guangxi",
   "race_date": "2017-10-22",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "mXzFkwrbXSM",
+    "title": "Tour of Guangxi 2017 | Stage 4 GoPro highlights",
+    "published": "2017-10-22 14:15:33+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=mXzFkwrbXSM",
+    "match_score": 145.0,
+    "all_candidates": [
+      {
+        "video_id": "mXzFkwrbXSM",
+        "title": "Tour of Guangxi 2017 | Stage 4 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-22 14:15:33+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "DhUR0eOggOM",
+        "title": "Tour of Guangxi 2017 | Stage 3 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-21 11:58:54+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "icdRnkKEyz4",
+        "title": "Tour of Guangxi 2017 | Stage 5 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-23 13:38:02+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "wjeYNKhNzfM",
+        "title": "Tour of Guangxi 2017 | Fernando Gaviria wins Stage 3",
+        "channel": "Velon",
+        "published": "2017-10-21 09:29:13+00:00",
+        "match_score": 90.0
+      },
+      {
+        "video_id": "h71UvkhXWdw",
+        "title": "Tour of Guangxi 2017 Stage 4: TV highlights",
+        "channel": "Velon",
+        "published": "2017-11-06 22:04:34+00:00",
+        "match_score": 85.0
+      },
+      {
+        "video_id": "vuAPfu8JqHo",
+        "title": "Tour of Guangxi 2017 | Stage 1 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-19 10:21:03+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "l8KhEg4ZxUg",
+        "title": "Tour of Guangxi 2017 | Stage 2 highlights",
+        "channel": "Velon",
+        "published": "2017-10-20 12:36:45+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "8zHfuJE-RAE",
+        "title": "Tour of Guangxi 2017 | Stage 6 GoPro highlights",
+        "channel": "Velon",
+        "published": "2017-10-24 13:25:47+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "HDwRb6E8afM",
+        "title": "Tour of Alberta 2017: Stage 4 - Highlights",
+        "channel": "inCycle",
+        "published": "2017-09-04 23:28:22+00:00",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "1MrZfO1RFzE",
+        "title": "Tour de France 2017 | Stage 4 Highlights",
+        "channel": "Velon",
+        "published": "2017-07-04 18:40:58+00:00",
+        "match_score": 74.81
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

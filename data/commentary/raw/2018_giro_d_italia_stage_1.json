@@ -3,7 +3,86 @@
   "race_name": "Giro d'Italia",
   "race_date": "2018-05-04",
   "stage": 1,
-  "video": null,
+  "video": {
+    "video_id": "pav2E32bC2w",
+    "title": "Giro d'Italia 2018 - Stage 1 - The Movie",
+    "published": "2018-05-04 18:17:53+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=pav2E32bC2w",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "pav2E32bC2w",
+        "title": "Giro d'Italia 2018 - Stage 1 - The Movie",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-04 18:17:53+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Z1I495xVW80",
+        "title": "Giro d'Italia 2018 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-05-04 16:25:58+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "1dz9unp3zg0",
+        "title": "Giro d'Italia 2018 - Stage 2 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-05 17:55:30+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "Q-aT4CkCehk",
+        "title": "Tom Dumoulin Storms Jerusalem Time Trial | Giro d'Italia 2018 | Stage 1 Highlights",
+        "channel": "TNT Sports",
+        "published": "2018-05-04 14:58:00+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "cGP-oXefx_4",
+        "title": "Giro d'Italia 2018 - Stage 18 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-24 18:24:19+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "fuuy3m5LbTo",
+        "title": "Giro d'Italia 2018 - Stage 19 - The highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-25 18:05:55+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "Ipl0DeYlaoY",
+        "title": "Giro d'Italia 2018 - Stage 16 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-22 19:03:45+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "i3skb7EL20s",
+        "title": "Giro d'Italia 2018 - Stage 17 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-23 17:51:24+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "eLB5EaLx7aA",
+        "title": "Giro d'Italia 2018 - Stage 12 - Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-17 17:49:21+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "RcsNZAFav_Y",
+        "title": "Giro d'Italia 2018 - Stage 15 - The Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2018-05-20 17:35:38+00:00",
+        "match_score": 135.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

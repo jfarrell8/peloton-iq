@@ -3,7 +3,86 @@
   "race_name": "Benelux Tour",
   "race_date": "2021-09-05",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "drTA9Z_v3dI",
+    "title": "UAE Tour 2021 highlights: Panic in the peloton on Stage 7!",
+    "published": "2021-02-27 14:54:21+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=drTA9Z_v3dI",
+    "match_score": 75.0,
+    "all_candidates": [
+      {
+        "video_id": "drTA9Z_v3dI",
+        "title": "UAE Tour 2021 highlights: Panic in the peloton on Stage 7!",
+        "channel": "Velon",
+        "published": "2021-02-27 14:54:21+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "6pWApM4wuXg",
+        "title": "UAE Tour 2021 - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-02-27 18:07:11+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "t1L6LQ34Huc",
+        "title": "UAE Tour 2021 | Stage 7 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-02-28 13:00:12+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "oSeHZSSCnq8",
+        "title": "Tour de France 2021: Stage 7 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2021-07-02 17:43:21+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "OCqGoB6w5qE",
+        "title": "Tour de France 2021: Stage 7 race highlights",
+        "channel": "Velon",
+        "published": "2021-07-02 18:56:25+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "hdhEOLjqn_k",
+        "title": "Tour de Suisse 2021: Stage 7 Full Highlights",
+        "channel": "Velon",
+        "published": "2021-06-12 18:04:14+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "pZ522AgQYMs",
+        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-17 19:16:50+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "OTXjeEMv2i8",
+        "title": "Tour de Suisse 2021: Stage 7 On-bike highlights",
+        "channel": "Velon",
+        "published": "2021-06-12 18:49:42+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "xEDER8l1lIs",
+        "title": "2021 Tour de France - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-07-02 17:51:21+00:00",
+        "match_score": 71.9
+      },
+      {
+        "video_id": "Ef8BFMOHtlg",
+        "title": "2021 Tour de Suisse - Stage 7 | Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-06-12 18:58:43+00:00",
+        "match_score": 71.9
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

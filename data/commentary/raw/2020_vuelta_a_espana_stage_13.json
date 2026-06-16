@@ -6,91 +6,83 @@
   "video": {
     "video_id": "5Ss-GT9fauQ",
     "title": "Can Anyone Beat Roglic At La Vuelta 2020? + Koppenbergcross & TDF2021 | GCN Racing News Show",
-    "url": "https://youtube.com/watch?v=5Ss-GT9fauQ",
-    "channel": "GCN Racing",
     "published": "2020-11-03 11:45:32+00:00",
-    "match_score": 78.33,
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=5Ss-GT9fauQ",
+    "match_score": 88.33,
     "all_candidates": [
       {
         "video_id": "5Ss-GT9fauQ",
         "title": "Can Anyone Beat Roglic At La Vuelta 2020? + Koppenbergcross & TDF2021 | GCN Racing News Show",
         "channel": "GCN Racing",
         "published": "2020-11-03 11:45:32+00:00",
-        "match_score": 78.33
-      },
-      {
-        "video_id": "Z22qIq0rZjg",
-        "title": "Vuelta a San Juan 2020 Stage 2 HIGHLIGHTS | Pocito Sprint Finish",
-        "channel": "GCN Racing",
-        "published": "2020-01-27 23:47:16+00:00",
-        "match_score": 32.22
-      },
-      {
-        "video_id": "deqEQWoW0wE",
-        "title": "Vuelta a San Juan 2020 Stage 5 HIGHLIGHTS | Crosswind Chaos & Summit Finish",
-        "channel": "GCN Racing",
-        "published": "2020-01-31 23:49:03+00:00",
-        "match_score": 32.22
-      },
-      {
-        "video_id": "t5430hC_WKk",
-        "title": "Vuelta a San Juan 2020 Stage 4 HIGHLIGHTS | San Jose de Jachal - Villa San Agustin",
-        "channel": "GCN Racing",
-        "published": "2020-01-29 23:49:59+00:00",
-        "match_score": 32.22
-      },
-      {
-        "video_id": "CCd-QyT8wFw",
-        "title": "Vuelta a San Juan 2020 Stage 6 HIGHLIGHTS | Circuito San Juan Villicum",
-        "channel": "GCN Racing",
-        "published": "2020-02-01 23:26:55+00:00",
-        "match_score": 32.22
-      },
-      {
-        "video_id": "16cqXniPOL4",
-        "title": "Vuelta a San Juan 2020 Stage 7 HIGHLIGHTS | San Juan City Circuit Race",
-        "channel": "GCN Racing",
-        "published": "2020-02-03 00:12:17+00:00",
-        "match_score": 32.22
-      },
-      {
-        "video_id": "IQqn3kbUo2I",
-        "title": "Vuelta a San Juan 2020 Stage 3 HIGHLIGHTS | Ullum Time Trial",
-        "channel": "GCN Racing",
-        "published": "2020-01-29 00:12:58+00:00",
-        "match_score": 32.22
-      },
-      {
-        "video_id": "UkNdFYxluDk",
-        "title": "Vuelta a San Juan 2020 Stage 1 HIGHLIGHTS | San Juan City",
-        "channel": "GCN Racing",
-        "published": "2020-01-26 23:59:08+00:00",
-        "match_score": 32.22
+        "match_score": 88.33
       },
       {
         "video_id": "O6lZyOv6Q-I",
         "title": "Ruta Del Sol | Vuelta Andalucía 2020 Stage 5 Highlights | ITT Cala De Mijas",
         "channel": "GCN Racing",
         "published": "2020-02-23 16:07:32+00:00",
-        "match_score": 26.67
+        "match_score": 36.67
       },
       {
         "video_id": "SCmrk8nWSxY",
         "title": "Ruta Del Sol | Vuelta Andalucía 2020 Stage 3 Highlights | Jaén - Úbeda",
         "channel": "GCN Racing",
         "published": "2020-02-21 17:07:11+00:00",
-        "match_score": 26.67
+        "match_score": 36.67
+      },
+      {
+        "video_id": "G-cvNYc7dzc",
+        "title": "Ruta Del Sol | Vuelta Andalucía 2020 Stage 4 Highlights | Villanueva Media - Granada",
+        "channel": "GCN Racing",
+        "published": "2020-02-22 16:58:35+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "GsOIo0EnpjA",
+        "title": "Ruta Del Sol | Vuelta Andalucía 2020 Stage 2 Highlights | Sevilla - Iznájar",
+        "channel": "GCN Racing",
+        "published": "2020-02-20 16:58:00+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "AIhUN0kUfZI",
+        "title": "Ruta Del Sol | Vuelta Andalucía 2020 Stage 1 Highlights | Alhaurín De La Torre - Grazalema",
+        "channel": "GCN Racing",
+        "published": "2020-02-19 17:13:48+00:00",
+        "match_score": 36.67
+      },
+      {
+        "video_id": "9Q1Tvryf1YM",
+        "title": "Giro, Tour, Vuelta? Where Will Cycling’s Stars Be Racing In 2020? | GCN's Cycling Race News Show",
+        "channel": "GCN Racing",
+        "published": "2019-12-16 15:54:25+00:00",
+        "match_score": 28.33
+      },
+      {
+        "video_id": "u1OTKLg5LLw",
+        "title": "Who Will Win The Vuelta a España 2020? | GCN's Vuelta Preview Show",
+        "channel": "GCN Racing",
+        "published": "2020-10-17 10:17:33+00:00",
+        "match_score": 8.33
+      },
+      {
+        "video_id": "8lXT5CDlvIY",
+        "title": "RACE REPLAY: Vuelta a San Juan 2020 Stage 7 | San Juan City Circuit Race",
+        "channel": "GCN Racing",
+        "published": "2020-02-02 23:06:41+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "16cqXniPOL4",
+        "title": "Vuelta a San Juan 2020 Stage 7 HIGHLIGHTS | San Juan City Circuit Race",
+        "channel": "GCN Racing",
+        "published": "2020-02-03 00:12:17+00:00",
+        "match_score": -80.0
       }
     ]
   },
-  "transcript": {
-    "snippet_count": 439,
-    "raw_chars": 14023,
-    "clean_chars": 14015,
-    "duration_mins": 14.2,
-    "clean_text": "this week on the gcn racing news show lavwelter and the season near their conclusions with roglic looking good for a second consecutive win despite being behind carapaz on the gc uh we'll look at some of rogic's incredible stats from this season and indeed from his career we've also got cyclocross in the infamous cottenberg bad news from australia as the early season races are cancelled the 2021 tour de france route and all the latest rider transfer news two first up though labwelter richard carapaz started the second week in red primos rogers took it back for two days and then karapas ended the week backing it it leaves things very close at the top of the gc table four riders separated by just 35 seconds carapaz on top roglitch just 10 seconds back in second kathy third at 32 seconds and dan martin at 35. it should set up a tantalizing final week or will it because the race resumes tomorrow with a 34k individual time trial and if roger's anywhere close to his best form you'd expect him to put at least a minute into all of his rivals now just one more major mountain stage to go it feels to me like the race is his to lose now his rivals will be hoping that he has a jourson as the french would say but with the way that he's been riding that seems very unlikely he's just an incredible rider pretty much wrong isn't he when he has a bad day he loses seconds and not minutes and it's his consistency which i find so staggering so in this 2020 season he competed for the first time this year at the slovenian national championships at the end of june so far since then he had 44 days of competition and his strike rate is as follows 10 wins 27 top 10s and 24 top fives and his consistency is even more impressive when you look at his last 12 stage races his finishing positions second dnf first first third first first third fourth first first first he's also the first rider since giuseppe cerrone to have won a stage in his first seven grand tours and of pro riders who've competed in the 21st century he now sits fourth in terms of days spent leading grand tours that's behind chris froome alberto contador and vincenzo neberly now i might be counting chickens here before they've hatched but i can't see ruglets losing this one now and you have to say he thoroughly deserves to win particularly given the incredible disappointment of that penultimate day of the tour de france that said we definitely should not count out richard carapaz who's looking brilliant in that red jersey uh hugh carthy or indeed dan martin nor in fact should we write off moby star now their tactics haven't quite paid off so far in the way that they'd have liked but there is no doubt they'll throw everything including the kitchen sink at it to try and win this thing in the final week just the same in some respects they haven't got more mountains upon which to do it although as we have seen in the welter in recent years the race can be turned on its head when you least expect it anyway you can let us know who you think is going to win this year's world at this point by taking the poll that's over on the g-syn app a link to which you can find on your screen right now now one rider who is competing currently at the welter is the dane michael fulgren of ntt pro cycling and he shared his stats in the last 12 months on instagram yesterday so 1144 hours on the bike an average of 22 hours per week 36 295 kilometers for an average of 100 kilometers every single day and almost 500 kilometers of vertical ascent that was a screen grab from his training peaks account and for the training geeks amongst you he's racked up 56 000 tss points and he currently has a ctl of 192 ouch the other talking point from last week at the world tour was the rider strike from the morning of stage 11. chris froome was leading it and it was in relation to the time gaps that had been given at the previous day's finish now the water organization had classified that stage as one that would finish in a mass sprint and as such the rules dictate there has to be at least a three second gap between two consecutive rides crossing the finish line for any gap to be given at all however after the stage the uci intervened and it shouldn't have been deemed as a math sprint stage and therefore changed it meaning that there only needed to be a one second gap for gaps to be counted and that meant that karapas lost three seconds and the race leaders jersey and other rides were caught out too including hugh carthy and now rory sutherland of the israel startup nation put out a statement on behalf of all the rides at the race yesterday to check out his social media if you'd like to see that but i'm backing the riders on this one you can't change the rules after the race that's just ridiculous and now even if the roadbook says it's going to be deemed as a mass sprint you'd imagine that gc rise will constantly worry as to whether or not that's going to get changed after the matter anyway this is what ef pro cycling jonathan vaught has had to say on the subject on yesterday's breakaway post-race show i've seen um in this wealth it seems like the writers have been pretty unified in their approach a couple of times and that's good to see um you know i hope we get to the point where we aren't going to have to be doing protests anymore that actually uh the commissars the uci and the race organizers start listening to the riders in advance of the race so that we don't have to have these you know protests and altercations and you know writing letters and all this other stuff that seems to upset them um you know it it'll be good if we get to the point where uh the writers union is able to to really have a voice in you know in the design of these courses and in the way the rules are executed um you know because they were right i mean the writers were right on that day that was a you know i the the the commissars just decided to you know to sort of redo the rules at the last at their whim and that is all too consistent of a theme with the uci is that they just like to do things their way when they want to um and i think it's good that the writers call them out on it don't forget that you can get daily live coverage and analysis territory restrictions do apply over on our race pass for the next week and the final week of lab welter anyway we are going to move on now to the 2021 tour de france because last night we had the root presentation at the race as we already knew will not start in copenhagen denmark as originally planned but rather in brittany reason being that they've had to move the dates forward by a week because of the olympics being postponed to next year and that date change meant that the grand depart clashes with a european championship football match also in denmark it's all very complicated but anyway brittany it is for the grand depart the first stage starts in brest and race director christian prudhomme talked about the open nature of that route and the fact that wind could split things already on day one either way it doesn't sound like it's going to end up in a bunch sprint and finishing as they do up the coat la force or loo that's on june the 26th and the following day is another one for the gc rise to remain vigilant finishing as it does with two ascents of the famous muir de bruton dan martin who's running so well of course at the welch at the moment was the last man to win there at the tour de france that was two years ago in 2018 and it's always a climate fact that sees the gc riders battle it out comes on day two already that's also the day where we'll see the eighth edition of la course taking place over the same course stage three is the first in fact for the sprinters at next year's race finishing for the first time in ponte vee birthplace of uci president david lapation stage four is another one for the sprinters and then stage five is an individual time trial of 27 kilometers pagacha should romp that one shouldn't he uh prudham again mentioned the chance of echelons on stage six to shatter while stage seven is the longest of the race at 248 kilometers and in fact that's the longest stage of any tour de france in the past two decades going old school there it's not flat actually either the second half of that stage is peppered with tough little climbs there's 3 300 meters of total elevation gain so that's definitely going to be a hard day out for all the second weekend marks the first of the mountains including the kodala colombia before descent to the finish at le grand borno that is on saturday stage eight and that's where ala philippe took his first stage victory at the tour de france stage nine is the first mountain top finish of next year's race at tiene over 2100 metres above sea level and that was the climb where last year's stage which dramatically shortened due to a hail storm was due to finish after the first rest day it's another opportunity for the sprinters and then on stage 11 we visit montvon 2 not just once but twice from two different sites that is going to be fantastic although it doesn't finish at the summit this time they descend to the finish line in molossen neems hosts to finish the following day so that should be another one for the sprinters and then we're back into the mountains carcassonne to kia although that doesn't look too tough on paper and it's a similar story the following day despite heading into andorra they do have mountains there but they come a little way from the finish line stage 17 though is a big one 178 kilometers with a raft of climbing in the last third of the day the parachute where pagatra of course was so impressive this year then the val lura as a and then finishing up the cold deportee 215 meters above sea level stage 18 has yet more famous mountains with the colder tourmalet and another mountain top finish to lusada den in fact is the first time we've seen a tour de france stage finished there in 10 years stage 19 is for the sprinters again and so it's stage 20 that's the final day for a gc shake-up and it's another time trial 31 kilometers in length so we've got a total of almost 60 k's of time trailing next year and then stage 21 as we all could have predicted will be the usual sprinters world championships around the champs-elysees in paris i have to say having seen the route announced i'm already very excited and we've still got seven months to go moving on to across now and the first race of the xo2 bad karma series formerly the dvb trophy was held on its traditional date of november the first on the notorious cottenberg course in the women's event it was denise betsamer of power so's on bingo who kicked off three riders joined her after the first lap they've been yara castelline amrivost and lucinda brandt now even though betzema would attack first and set a blistering pace that looked like it wouldn't be matched a betsman would ultimately fade and it became a race of three castle line would attack on the next lap then branch and in the final armory voiced and it was she who would go on to take the win her first of the season for one minute ahead of betsyner in the men's race it was kicked off by an aggressive ellie isabet tone arts made the group as the acquainted herman's lars van der haar and michael van turenholtz isabets and arts traded attacks back and forth for the first 20 minutes but after that is a bit had enough and shot off like a rocket ship leaving the ground for the moon and strung together 10 minutes of intense pace the perfect line choice and gap everybody else he then continued to ride flawless laps with almost no mistakes at all to take a massive bite out of the competition lars van der haar the dutchman would end up finishing in second place with a full 40 seconds behind elizabeth and tonight's would finish at one minute 20 seconds down on the winner of the day elizabeth by everybody's admission was on incredible form on saturday right rider transfer news now and first up mitchelton scott announced a new rider on the women's team last week to neil campbell the 23 year old from trinidad and tobago will be the australian squad for at least the next two years meanwhile world champion megan yastrab will move from rally cycling to team sunway as she turns just 19 in january but i wouldn't be at all surprised to see her taking a couple of big wins already next year ryan gibbons the south african national champion who has ridden for team ntt and its various incarnations for his entire five-year career we'll move on to parsha's new next year regardless of whether ntt find a new sponsor and that new team for him will be uae team emirates and our entity are still in search of a sponsor to keep them afloat next year and beyond and i've want to have my fingers crossed that they'll find one meanwhile lachlan morton has renewed with ef pro cycling and they announced last week that any rider who took a pay cut this year due to covert 19 and lockdown will be offered a contract for next year which is fantastic news and a very nice gesture although i'm presuming they just mean for the rides within their own team and not for ride in other teams otherwise that could be very good news for a lot of riders elsewhere i was also incredibly pleased actually to see that simon geschke will be continuing his career into next year he moves from team ccc over to coffidis in 2021 for what will be his 14th season as a pro rider now the bad news as mentioned in the introduction is that the start of next season will look very different because most of the australian races have now been officially cancelled they include both the cat11's great ocean road race and indeed the tour down under very disappointing news but i guess not unexpected given what's happening in the world right now we should see them they return back in 2022 fingers crossed all right that is all for this week's gcn racing news show i'll be back with the breakaway tomorrow evening so i hope to see you then goodbye for now",
-    "preview_start": "this week on the gcn racing news show lavwelter and the season near their conclusions with roglic looking good for a second consecutive win despite being behind carapaz on the gc uh we'll look at some of rogic's incredible stats from this season and indeed from his career we've also got cyclocross in the infamous cottenberg bad news from australia as the early season races are cancelled the 2021 tour de france route and all the latest rider transfer news two first up though labwelter richard car",
-    "preview_end": "f next season will look very different because most of the australian races have now been officially cancelled they include both the cat11's great ocean road race and indeed the tour down under very disappointing news but i guess not unexpected given what's happening in the world right now we should see them they return back in 2022 fingers crossed all right that is all for this week's gcn racing news show i'll be back with the breakaway tomorrow evening so i hope to see you then goodbye for now"
-  },
-  "status": "transcript_saved"
+  "transcript": null,
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tour de Pologne",
   "race_date": "2019-08-09",
   "stage": 7,
-  "video": null,
+  "video": {
+    "video_id": "IaObekNouTs",
+    "title": "Tour de Suisse 2019: Stage 7 Highlights",
+    "published": "2019-06-22 06:46:03+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=IaObekNouTs",
+    "match_score": 77.39,
+    "all_candidates": [
+      {
+        "video_id": "IaObekNouTs",
+        "title": "Tour de Suisse 2019: Stage 7 Highlights",
+        "channel": "Velon",
+        "published": "2019-06-22 06:46:03+00:00",
+        "match_score": 77.39
+      },
+      {
+        "video_id": "QqdCy7G0n38",
+        "title": "Tour of Britain 2019 | Stage 7 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-09-14 09:48:22+00:00",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "vl8srjxacF8",
+        "title": "Tour de Suisse 2019: Stage 7 on-bike",
+        "channel": "Velon",
+        "published": "2019-06-21 18:33:00+00:00",
+        "match_score": 72.39
+      },
+      {
+        "video_id": "vt3c8zyIA_U",
+        "title": "Tour de Suisse 2019: Inside the Race on Stage 7",
+        "channel": "Velon",
+        "published": "2019-06-21 20:55:45+00:00",
+        "match_score": 72.39
+      },
+      {
+        "video_id": "GuAWOXAnRkY",
+        "title": "UAE Tour 2019 | Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-03-02 13:39:30+00:00",
+        "match_score": 70.42
+      },
+      {
+        "video_id": "7RyIBSpSvUw",
+        "title": "UAE Tour 2019 | Stage 7 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-03-03 13:58:13+00:00",
+        "match_score": 70.42
+      },
+      {
+        "video_id": "nmV2bRFAP3o",
+        "title": "BinckBank Tour 2019 | Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-18 21:00:03+00:00",
+        "match_score": 70.0
+      },
+      {
+        "video_id": "bIh35VgJsrs",
+        "title": "Tour Of Britain Stage 7 2019 Highlights - Warwick - Burton Dassett Country Park | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-13 17:07:35+00:00",
+        "match_score": 69.29
+      },
+      {
+        "video_id": "0i9QQyE7dwo",
+        "title": "BinckBank Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-12 15:33:03+00:00",
+        "match_score": 65.0
+      },
+      {
+        "video_id": "FzWc96DVJmM",
+        "title": "Tour of Utah 2019 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2019-08-16 18:30:02+00:00",
+        "match_score": 49.29
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tirreno-Adriatico",
   "race_date": "2021-03-11",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "AfpwxNm2YYo",
+    "title": "Tirreno-Adriatico EOLO 2021 | Stage 2 Highlights",
+    "published": "2021-03-11 18:18:16+00:00",
+    "channel": "Giro d'Italia",
+    "url": "https://youtube.com/watch?v=AfpwxNm2YYo",
+    "match_score": 140.0,
+    "all_candidates": [
+      {
+        "video_id": "AfpwxNm2YYo",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 2 Highlights",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-11 18:18:16+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "DOyjRiqrJ5I",
+        "title": "Tirreno-Adriatico 2021 | Stage 2 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-12 16:00:08+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "JXxHXM9rDXQ",
+        "title": "Tirreno-Adriatico EOLO 2021 | The Route Stage 2",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-11 09:18:31+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "QomkR1jzkdA",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 2 Last km",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-11 16:05:11+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "J0Jdth4Nz-A",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 2 pre-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-11 13:58:10+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "jUDMhiIXqMw",
+        "title": "Tirreno-Adriatico EOLO 2021 | Stage 2 post-race interviews",
+        "channel": "Giro d'Italia",
+        "published": "2021-03-11 16:33:48+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "8O6HDIJ717g",
+        "title": "Tirreno-Adriatico 2021 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-03-11 16:00:05+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "2sypbwm1048",
+        "title": "Tirreno-Adriatico 2021 highlights: Alaphilippe, Van der Poel and Van Aert do battle",
+        "channel": "Velon",
+        "published": "2021-03-11 17:39:00+00:00",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "LUPcfaLzB_M",
+        "title": "Tirreno-Adriatico 2021 highlights: Big guns do battle again",
+        "channel": "Velon",
+        "published": "2021-03-12 17:47:56+00:00",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "CyaifDrcDlE",
+        "title": "Tirreno-Adriatico 2021 highlights: Stunning Van Aert sprint",
+        "channel": "Velon",
+        "published": "2021-03-10 17:43:49+00:00",
+        "match_score": 95.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

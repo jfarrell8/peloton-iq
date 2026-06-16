@@ -3,7 +3,51 @@
   "race_name": "Ronde van Vlaanderen - Tour des Flandres",
   "race_date": "2022-04-03",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "QQ7tFfLxOpY",
+    "title": "Nail-biting final on cobbled streets! | Dwars Door Vlaanderen 2022 - Highlights | Eurosport",
+    "published": "2022-03-31 09:12:59+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=QQ7tFfLxOpY",
+    "match_score": 77.5,
+    "all_candidates": [
+      {
+        "video_id": "QQ7tFfLxOpY",
+        "title": "Nail-biting final on cobbled streets! | Dwars Door Vlaanderen 2022 - Highlights | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2022-03-31 09:12:59+00:00",
+        "match_score": 77.5
+      },
+      {
+        "video_id": "_58pUrumqCg",
+        "title": "Epic Finale In Last Race Before De Ronde! | Dwars Door Vlaanderen 2022 Men's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-30 16:39:36+00:00",
+        "match_score": 68.75
+      },
+      {
+        "video_id": "3g4ioFdn00c",
+        "title": "Bunch Sprint In Final Outing Before Flanders! | Dwars Door Vlaanderen 2022 Women's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-30 17:08:24+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "WfciMdeBxk0",
+        "title": "Cobbles & Climbs Galore! | Ronde Van Drenthe 2022 Women's Highlights",
+        "channel": "GCN Racing",
+        "published": "2022-03-12 17:41:19+00:00",
+        "match_score": -80.0
+      },
+      {
+        "video_id": "HA5SEK4rOU0",
+        "title": "What a sprint to victory! | Women's Elite Dwars Door Vlaanderen 2022 - Highlights | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2022-03-31 09:55:37+00:00",
+        "match_score": -80.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2018-07-20",
   "stage": 13,
-  "video": null,
+  "video": {
+    "video_id": "TpALJnF5t0M",
+    "title": "Résumé - Étape 13 - Tour de France 2018",
+    "published": "2018-07-20 16:37:27+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=TpALJnF5t0M",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "TpALJnF5t0M",
+        "title": "Résumé - Étape 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 16:37:27+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Czo6vqqPPl8",
+        "title": "Summary - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 17:06:50+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "qjBrVnFzeoI",
+        "title": "La minute Maillot Jaune LCL - Étape 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 16:36:01+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "27yQZ9JmIvs",
+        "title": "Côte de Sainte-Eulalie-en-Royans  - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 14:15:02+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "ZgxTIDQ1hBM",
+        "title": "Bird's eye view of the sprint - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 15:36:49+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "4fymzpDWNR0",
+        "title": "Last kilometer - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 15:38:03+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "QXbaaO8b7JE",
+        "title": "Start - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 11:46:54+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "NlIJvs5HQ7k",
+        "title": "Neutralised start - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 11:38:56+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "EhUTEyso0Cg",
+        "title": "Côte de Brié - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 12:27:43+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "er8I3dV41ZM",
+        "title": "The breakaway - Stage 13 - Tour de France 2018",
+        "channel": "Tour de France",
+        "published": "2018-07-20 12:09:57+00:00",
+        "match_score": 175.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

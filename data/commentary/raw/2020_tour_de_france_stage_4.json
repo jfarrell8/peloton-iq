@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-01",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "DJqEEp4JYJ8",
+    "title": "Tour de France 2020 : Étape 4 - Le tétras Lyre",
+    "published": "2020-09-01 12:00:05+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=DJqEEp4JYJ8",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "DJqEEp4JYJ8",
+        "title": "Tour de France 2020 : Étape 4 - Le tétras Lyre",
+        "channel": "Tour de France",
+        "published": "2020-09-01 12:00:05+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "SyGaBLJKKB4",
+        "title": "Tour de France 2020: Stage 4 highlights",
+        "channel": "Velon",
+        "published": "2020-09-01 17:35:44+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "lYPYnjX_X88",
+        "title": "Tour de France 2020: Stage 4 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-01 18:47:50+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "dHQ1SAWQG18",
+        "title": "Primoz Roglic is back! | Tour de France 2020 - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-09-01 17:31:10+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "RCeGGSNy8c0",
+        "title": "Tour de France 2020: Stage 4 finish",
+        "channel": "Velon",
+        "published": "2020-09-01 16:06:49+00:00",
+        "match_score": 140.0
+      },
+      {
+        "video_id": "W8mrj7v2uvE",
+        "title": "Virtual Tour de France 2020 - Stage 4 - Highlights",
+        "channel": "Tour de France",
+        "published": "2020-07-12 18:01:34+00:00",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "n6HmMGEdkVw",
+        "title": "Tour de France 2020: Primoz Roglic toasts Stage 4 win",
+        "channel": "Velon",
+        "published": "2020-09-02 10:39:02+00:00",
+        "match_score": 130.0
+      },
+      {
+        "video_id": "T9RApczLwNI",
+        "title": "Tour de France 2020 : Étape 3 - Le guêpier d’Europe",
+        "channel": "Tour de France",
+        "published": "2020-08-31 12:00:14+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "SxAwwP3iVUA",
+        "title": "Tour de France 2020 : Étape 5 - Les vautours fauves",
+        "channel": "Tour de France",
+        "published": "2020-09-02 12:00:14+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "dQ2A5AxfjL8",
+        "title": "Tour de France 2020 - Étape 4 vue du ciel / Stage 4 from the sky : Sisteron - Orcières Merlette",
+        "channel": "Tour de France",
+        "published": "2020-06-30 08:45:35+00:00",
+        "match_score": 115.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

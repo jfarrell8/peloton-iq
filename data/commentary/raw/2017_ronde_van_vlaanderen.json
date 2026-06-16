@@ -3,7 +3,37 @@
   "race_name": "Ronde Van Vlaanderen",
   "race_date": "2017-04-02",
   "stage": null,
-  "video": null,
+  "video": {
+    "video_id": "r3uQkuuE23g",
+    "title": "De Ronde van Vlaanderen 2017 | Full Race Highlights | inCycle",
+    "published": "2017-04-02 15:46:40+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=r3uQkuuE23g",
+    "match_score": 123.0,
+    "all_candidates": [
+      {
+        "video_id": "r3uQkuuE23g",
+        "title": "De Ronde van Vlaanderen 2017 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-04-02 15:46:40+00:00",
+        "match_score": 123.0
+      },
+      {
+        "video_id": "FkSqlOXS5eE",
+        "title": "Dwars door Vlaanderen 2017 | Full Race Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2017-03-22 16:14:57+00:00",
+        "match_score": 54.25
+      },
+      {
+        "video_id": "47olfn4tw_g",
+        "title": "A Day in Flanders | The Hugely Dramatic 2017 Ronde Van Vlaanderen | inCycle",
+        "channel": "inCycle",
+        "published": "2018-03-29 11:42:57+00:00",
+        "match_score": 50.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

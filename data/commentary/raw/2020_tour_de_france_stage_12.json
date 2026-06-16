@@ -3,7 +3,86 @@
   "race_name": "Tour de France",
   "race_date": "2020-09-10",
   "stage": 12,
-  "video": null,
+  "video": {
+    "video_id": "HQSZF6BNanQ",
+    "title": "Tour de France 2020 : Étape 12 - Pie-grièche écorcheur",
+    "published": "2020-09-10 12:00:04+00:00",
+    "channel": "Tour de France",
+    "url": "https://youtube.com/watch?v=HQSZF6BNanQ",
+    "match_score": 175.0,
+    "all_candidates": [
+      {
+        "video_id": "HQSZF6BNanQ",
+        "title": "Tour de France 2020 : Étape 12 - Pie-grièche écorcheur",
+        "channel": "Tour de France",
+        "published": "2020-09-10 12:00:04+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Bvmseh43Uio",
+        "title": "#TDF2020 - Stage 12 - Hirschi scores first Tour de France victory!",
+        "channel": "Tour de France",
+        "published": "2020-09-10 16:39:44+00:00",
+        "match_score": 175.0
+      },
+      {
+        "video_id": "Q0MtLovopsI",
+        "title": "Tour de France 2020: Stage 12 highlights",
+        "channel": "Velon",
+        "published": "2020-09-10 17:07:30+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "9M75X6LPeOU",
+        "title": "Tour de France 2020: Stage 12 on-bike highlights",
+        "channel": "Velon",
+        "published": "2020-09-10 18:22:52+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "kApckfm8AqI",
+        "title": "Marc Hirschi wins stage 12 with solo effort! | Tour de France 2020 - Stage 12 Highlights",
+        "channel": "TNT Sports",
+        "published": "2020-09-10 17:10:24+00:00",
+        "match_score": 145.0
+      },
+      {
+        "video_id": "4EbiAo1gSnY",
+        "title": "Tour de France 2020 : Étape 13 - Carrière Eurovia Châteaugay",
+        "channel": "Tour de France",
+        "published": "2020-09-11 12:00:02+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "sH-_zxN8cJQ",
+        "title": "#TDF2020 - Stage 13 - Martinez bags first Tour de France success!",
+        "channel": "Tour de France",
+        "published": "2020-09-11 17:15:46+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "M7lzO0r-5HE",
+        "title": "Tour de France 2020 : Étape 11 - La loutre",
+        "channel": "Tour de France",
+        "published": "2020-09-09 12:00:05+00:00",
+        "match_score": 125.0
+      },
+      {
+        "video_id": "mscyqPL_yuk",
+        "title": "Tour de France 2020 - Étape 12 vue du ciel / Stage 12 from the sky : Chauvigny - Sarran",
+        "channel": "Tour de France",
+        "published": "2020-07-09 09:19:44+00:00",
+        "match_score": 115.0
+      },
+      {
+        "video_id": "RTIs83rz8aY",
+        "title": "Tour de France 2020 : Étape 14 - Héron cendré",
+        "channel": "Tour de France",
+        "published": "2020-09-12 12:00:06+00:00",
+        "match_score": 110.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

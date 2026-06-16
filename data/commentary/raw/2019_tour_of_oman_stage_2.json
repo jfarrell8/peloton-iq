@@ -3,7 +3,86 @@
   "race_name": "Tour of Oman",
   "race_date": "2019-02-17",
   "stage": 2,
-  "video": null,
+  "video": {
+    "video_id": "fu-_WOJk9ZU",
+    "title": "Tour Of Britain Stage 2 2019 Highlights - Scottish Borders | GCN Racing",
+    "published": "2019-09-08 17:18:28+00:00",
+    "channel": "GCN Racing",
+    "url": "https://youtube.com/watch?v=fu-_WOJk9ZU",
+    "match_score": 80.0,
+    "all_candidates": [
+      {
+        "video_id": "fu-_WOJk9ZU",
+        "title": "Tour Of Britain Stage 2 2019 Highlights - Scottish Borders | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-08 17:18:28+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "K7MZS1OMBJk",
+        "title": "Tour de France 2019 Stage 20 Highlights: Albertville - Val Thorens Summit Finish",
+        "channel": "GCN Racing",
+        "published": "2019-07-27 16:34:25+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "vVB09JYBlw8",
+        "title": "Tour de France 2019 Stage 21 Highlights: Paris Champs - Élysées Sprint Finale",
+        "channel": "GCN Racing",
+        "published": "2019-07-28 21:05:38+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "_ZRzFAt6AUA",
+        "title": "Tour de France 2019 Stage 2 Highlights: Brussels Team Time Trial | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-07-07 15:46:52+00:00",
+        "match_score": 76.67
+      },
+      {
+        "video_id": "GRxrJhIo_hQ",
+        "title": "Deutschland Tour 2019 Stage 2 Highlights: Marburg - Göttingen | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-30 17:57:33+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "AFhFG95lfoA",
+        "title": "Deutschland Tour 2019 Stage 2 LIVE: Marburg - Göttingen | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-08-30 15:08:30+00:00",
+        "match_score": 67.5
+      },
+      {
+        "video_id": "K7zqpU7UbS4",
+        "title": "Tour Of Britain Stage 1 2019 Highlights - Glasgow - Kirkcudbright | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-07 19:31:52+00:00",
+        "match_score": 40.0
+      },
+      {
+        "video_id": "5RSvaNKPjVg",
+        "title": "Tour Of Britain Stage 3 2019 Highlights Berwick Upon Tweed - Newcastle Upon Tyne | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-09 17:39:18+00:00",
+        "match_score": 40.0
+      },
+      {
+        "video_id": "bIh35VgJsrs",
+        "title": "Tour Of Britain Stage 7 2019 Highlights - Warwick - Burton Dassett Country Park | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-13 17:07:35+00:00",
+        "match_score": 40.0
+      },
+      {
+        "video_id": "C5JrvqNQOgU",
+        "title": "Tour Of Britain Stage 4 2019 Highlights - Gateshead - Kendal | GCN Racing",
+        "channel": "GCN Racing",
+        "published": "2019-09-10 17:34:52+00:00",
+        "match_score": 40.0
+      }
+    ]
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "video_found"
 }

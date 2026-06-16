@@ -58,6 +58,7 @@ RIDER_FEATURES_PATH  = DATA_PROCESSED_DIR / "rider_features.csv"
 MODEL_DF_PATH        = DATA_PROCESSED_DIR / "model_df.csv"
 TIER_PREDICTOR_PATH  = MODELS_DIR / "tier_predictor.pkl"
 YOUTUBE_CACHE_PATH   = COMMENTARY_CACHE_DIR / "all_channel_videos.parquet"
+GPX_PROFILES_PATH    = DATA_PROCESSED_DIR / "gpx_profiles.parquet"
 
 
 # ---------------------------------------------------------------------------
@@ -216,17 +217,14 @@ class Settings(BaseSettings):
             {"id": "UCqZQlzSHbVJrwrn5XvzrzcA", "name": "NBC Sports",         "coverage": "Grand Tours, Monuments, WorldTour"},
             {"id": "UCu7phdCr-raU7OaJfEpHZww", "name": "GCN Racing",          "coverage": "All WorldTour"},
             {"id": "UCfDfvvMARk4TKcC62ALi6eA", "name": "TNT Sports Cycling",  "coverage": "Grand Tours, European classics"},
-            # {"id": "UCuTaETsuCOkJ0H_GAztWt0Q", "name": "GCN",                 "coverage": "All WorldTour"},
             # Official race channels
             {"id": "UCSpycUnuU0IVF7gGIhGojhg", "name": "Tour de France",      "coverage": "Tour de France official"},
             {"id": "UCe10BxbsFg9Kbmkg-ean_Dg", "name": "Giro d'Italia",       "coverage": "Giro d'Italia official"},
             {"id": "UCf7iHZIcKEhiN34-fETtNCA", "name": "La Vuelta",           "coverage": "Vuelta a España official"},
-            # {"id": "UCozt5iXNqmhU1I7tcjJ0UFQ", "name": "Eurosport",    "coverage": "All WorldTour"},
             {"id": "UCm0Qjs5OBrv3-d6kKBshEbg", "name": "Tour Down Under",     "coverage": "Tour Down Under official"},
             {"id": "UCXgba6tOLghtJuXaD8LBHWg", "name": "inCycle",             "coverage": "All WorldTour"},
             {"id": "UCcbBlBEtCZ2lX7bodgi02Xg", "name": "Velon",               "coverage": "All WorldTour"},
             {"id": "UClhp9g6TPiqCTOlcw0ROfNg", "name": "TNT Sports",          "coverage": "All WorldTour"},
-            
         ],
         description="YouTube channels to pull race commentary from.",
     )

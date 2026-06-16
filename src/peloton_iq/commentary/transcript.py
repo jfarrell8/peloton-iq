@@ -67,27 +67,17 @@ WOMEN_KEYWORDS = ["femmes", "feminine", "women", "ladies"]
 
 # Channel tiers — higher = stronger preference when scores are equal
 # Official race channels (tier 4) beat generalist channels on their own race
-# CHANNEL_TIER = {
-#     "NBC Sports":         3,
-#     "GCN Racing":         2,
-#     "TNT Sports Cycling": 2,
-#     "Eurosport":          2,
-#     "GCN":                1,
-#     "Tour de France":     4,   # official — TdF stages only
-#     "Giro d'Italia":      4,   # official — Giro stages only
-#     "La Vuelta":          4,   # official — Vuelta stages only
-# }
 CHANNEL_TIER = {
-    'NBC Sports':         4,
-    'GCN Racing':         1,
-    'TNT Sports Cycling': 2,
-    'Tour de France':     4,   # official — TdF stages only
-    "Giro d'Italia":     4,   # official — Giro stages only
-    'La Vuelta':          4,   # official — Vuelta stages only
-    'Tour Down Under': 4,
-    'inCycle': 2,
-    'Velon': 2,
-    'TNT Sports': 2,
+    "NBC Sports":         4,
+    "GCN Racing":         2,
+    "TNT Sports Cycling": 2,
+    "TNT Sports":         2,
+    "inCycle":            2,
+    "Velon":              2,
+    "Tour de France":     4,   # official — TdF stages only
+    "Giro d'Italia":      4,   # official — Giro stages only
+    "La Vuelta":          4,   # official — Vuelta stages only
+    "Tour Down Under":    4,   # official — TDU stages only
 }
 
 # Official channel → race name mapping
@@ -96,6 +86,7 @@ OFFICIAL_CHANNEL_RACES = {
     "Tour de France": ["tour de france"],
     "Giro d'Italia":  ["giro d'italia", "giro d italia"],
     "La Vuelta":      ["vuelta a espana", "vuelta", "la vuelta"],
+    "Tour Down Under": ["tour down under", "santos tour"],
 }
 
 NBC_PRIORITY_RACES = ["tour de france", "vuelta a espana", "vuelta españa"]
@@ -510,16 +501,7 @@ class TranscriptFetcher:
             lambda r: self._score_video(r, race_name, race_date, stage), axis=1
         )
         candidates = candidates.sort_values("match_score", ascending=False)
-
-        # After scoring the full candidate pool, before returning:
-        # Prefer "extended highlights" videos if one scores above threshold
-        extended = candidates[
-            candidates['title'].str.contains('extended highlights', case=False, na=False)
-        ]
-        if not extended.empty and extended.iloc[0]['match_score'] >= threshold:
-            best = extended.iloc[0]
-        else:
-            best = candidates.iloc[0]
+        best       = candidates.iloc[0]
 
         if best["match_score"] < threshold:
             return None

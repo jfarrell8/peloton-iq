@@ -22,6 +22,7 @@ data/commentary/cache/
 
 # GPX raw files (500MB+, available from Figshare)
 data/raw/gpx/
+*.gpx
 data/raw/gpx_files.zip
 
 qdrant_storage/

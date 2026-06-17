@@ -1,0 +1,15 @@
+line-length = 100
+target-version = "py312"
+exclude = ["src/cycling_intel"]
+
+[lint]
+select = ["E", "F", "I"]
+ignore = [
+    "E501",  # line too long
+    "E701",  # multiple statements on one line
+    "F401",  # unused imports
+    "I001",  # import sorting
+]
+
+[lint.isort]
+known-first-party = ["peloton_iq"]

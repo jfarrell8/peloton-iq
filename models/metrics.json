@@ -10,7 +10,7 @@
     "top5_ranking_accuracy": 0.5517241379310345
   },
   "Baseline": {
-    "log_loss": 0.6569243288225474,
+    "log_loss": 0.6569243288223564,
     "auc": 0.7849842131372536,
     "top5_ranking_accuracy": 0.45689655172413796
   }

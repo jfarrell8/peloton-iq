@@ -71,6 +71,19 @@ def check_api_health() -> bool:
         return False
 
 
+def fetch_results(race_name: str, year: int, stage=None, top_n: int = 10) -> dict:
+    """Fetch actual race results from the FastAPI backend."""
+    try:
+        params = {"race_name": race_name, "year": year, "top_n": top_n}
+        if stage:
+            params["stage"] = stage
+        r = requests.get(f"{API_BASE}/api/results", params=params, timeout=10)
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        return {"found": False, "results": [], "error": str(e)}
+
+
 # ---------------------------------------------------------------------------
 # Design tokens
 # ---------------------------------------------------------------------------
@@ -436,6 +449,7 @@ app.layout = html.Div([
     dcc.Store(id="agent-result-store"),
     dcc.Store(id="prediction-text-store"),
     dcc.Store(id="race-context-store"),
+    dcc.Store(id="results-store"),
     dcc.Interval(id="health-interval", interval=15000, n_intervals=0),
 
     # Header
@@ -555,6 +569,10 @@ app.layout = html.Div([
                     style={"margin": "-4px -8px"},
                 ),
             ),
+
+            # Actual results panel — shown for predictive queries only
+            html.Div(id="results-panel"),
+
         ], style={"flex": "1", "minWidth": "300px"}),
 
     ], style={
@@ -590,6 +608,7 @@ def fill_from_suggestion(n_clicks_list):
     Output("agent-result-store",    "data"),
     Output("prediction-text-store", "data"),
     Output("race-context-store",    "data"),
+    Output("results-store",         "data"),
     Output("loading-trigger",       "children"),
     Input("run-btn", "n_clicks"),
     State("query-input", "value"),
@@ -611,7 +630,16 @@ def run_query(n_clicks, query):
     pred_text = data.get("prediction_text") or ""
     race_ctx  = data.get("race_context") or {}
 
-    return store, pred_text, race_ctx, ""
+    # Fetch actual results for predictive queries
+    results_data = None
+    if race_ctx and race_ctx.get("race_name") and race_ctx.get("year"):
+        results_data = fetch_results(
+            race_name=race_ctx["race_name"],
+            year=race_ctx["year"],
+            stage=race_ctx.get("stage"),
+        )
+
+    return store, pred_text, race_ctx, results_data, ""
 
 
 @app.callback(
@@ -679,6 +707,88 @@ def update_course_chart(race_ctx):
         race_ctx["race_name"],
         race_ctx.get("year") or 2023,
         race_ctx.get("stage"),
+    )
+
+
+@app.callback(
+    Output("results-panel", "children"),
+    Input("results-store", "data"),
+    prevent_initial_call=True,
+)
+def update_results_panel(results_data):
+    """Render the actual results table when race context is available."""
+    if not results_data or not results_data.get("found"):
+        return None
+
+    results  = results_data.get("results", [])
+    if not results:
+        return None
+
+    race_name = results_data.get("race_name", "")
+    year      = results_data.get("year", "")
+    stage     = results_data.get("stage")
+    label     = f"{year} {race_name}" + (f" Stage {stage}" if stage else "")
+
+    rows = []
+    for r in results:
+        rank   = r["rank"]
+        is_win = rank == 1
+        gap    = r.get("time_gap") or ""
+
+        if rank == 1:   badge_color = C["accent"]
+        elif rank <= 3: badge_color = "#9CA3AF"
+        else:           badge_color = C["border"]
+
+        rows.append(html.Tr([
+            html.Td(
+                html.Span(str(rank), style={
+                    "background": badge_color,
+                    "color":      C["bg"] if rank <= 3 else C["secondary"],
+                    "fontFamily": MONO, "fontSize": "11px", "fontWeight": "700",
+                    "padding": "2px 6px", "borderRadius": "3px",
+                    "display": "inline-block", "minWidth": "24px", "textAlign": "center",
+                }),
+                style={"padding": "5px 8px 5px 0", "width": "36px"},
+            ),
+            html.Td(r["rider"], style={
+                "color":      C["text"] if is_win else C["secondary"],
+                "fontWeight": "600" if is_win else "400",
+                "fontSize":   "12px", "padding": "5px 8px 5px 0",
+            }),
+            html.Td(r.get("team", ""), style={
+                "color": C["secondary"], "fontSize": "11px", "padding": "5px 8px 5px 0",
+            }),
+            html.Td(gap, style={
+                "color":      C["accent"] if is_win else C["secondary"],
+                "fontFamily": MONO, "fontSize": "11px",
+                "textAlign":  "right", "padding": "5px 0",
+            }),
+        ], style={
+            "borderBottom": f"1px solid {C['border']}",
+            "background":   "rgba(245,197,24,0.05)" if is_win else "transparent",
+        }))
+
+    return _section_card(
+        _label(f"Actual results — {label}"),
+        html.Table(
+            [
+                html.Thead(html.Tr([
+                    html.Th("#",     style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 8px 8px 0", "textAlign": "left"}),
+                    html.Th("Rider", style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 8px 8px 0", "textAlign": "left"}),
+                    html.Th("Team",  style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 8px 8px 0", "textAlign": "left"}),
+                    html.Th("Gap",   style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 0 8px 0",   "textAlign": "right"}),
+                ])),
+                html.Tbody(rows),
+            ],
+            style={"width": "100%", "borderCollapse": "collapse"},
+        ),
+        html.Div(
+            "Compare ML predictions above with actual finishers",
+            style={
+                "color": C["secondary"], "fontSize": "10px",
+                "fontFamily": MONO, "marginTop": "12px", "letterSpacing": "0.06em",
+            },
+        ),
     )
 
 

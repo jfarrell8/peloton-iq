@@ -31,7 +31,7 @@ data/raw/*.zip
 data/raw/*.csv
 
 data/archived_processed/
-data/tests/
+data/test_outputs/
 
 models/test/
 

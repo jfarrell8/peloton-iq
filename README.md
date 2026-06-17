@@ -4,7 +4,7 @@
 
 PelotonIQ goes beyond statistics. It combines an XGBoost finish-probability model with hybrid semantic search and — critically — **tactical profiles synthesized from 300+ race commentary transcripts**. The result is a pre-race briefing that tells you not just who the model favours, but *how* they typically attack, where they're vulnerable, and what their team does before they make their move. That's intelligence a general-purpose LLM with web search can't replicate without your specific dataset.
 
-![CI](https://github.com/YOUR_USERNAME/peloton-iq/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/jfarrell8/peloton-iq/actions/workflows/ci.yml/badge.svg)
 
 ---
 

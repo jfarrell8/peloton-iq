@@ -71,6 +71,7 @@ def check_api_health() -> bool:
         return False
 
 
+
 def fetch_results(race_name: str, year: int, stage=None, top_n: int = 10) -> dict:
     """Fetch actual race results from the FastAPI backend."""
     try:
@@ -560,6 +561,10 @@ app.layout = html.Div([
                     style={"margin": "-4px -8px"},
                 ),
             ),
+
+            # Actual results panel — shown for predictive queries only
+            html.Div(id="results-panel"),
+
             _section_card(
                 _label("Course elevation profile"),
                 dcc.Graph(
@@ -569,9 +574,6 @@ app.layout = html.Div([
                     style={"margin": "-4px -8px"},
                 ),
             ),
-
-            # Actual results panel — shown for predictive queries only
-            html.Div(id="results-panel"),
 
         ], style={"flex": "1", "minWidth": "300px"}),
 
@@ -630,7 +632,6 @@ def run_query(n_clicks, query):
     pred_text = data.get("prediction_text") or ""
     race_ctx  = data.get("race_context") or {}
 
-    # Fetch actual results for predictive queries
     results_data = None
     if race_ctx and race_ctx.get("race_name") and race_ctx.get("year"):
         results_data = fetch_results(
@@ -733,8 +734,6 @@ def update_results_panel(results_data):
     for r in results:
         rank   = r["rank"]
         is_win = rank == 1
-        gap    = r.get("time_gap") or ""
-
         if rank == 1:   badge_color = C["accent"]
         elif rank <= 3: badge_color = "#9CA3AF"
         else:           badge_color = C["border"]
@@ -756,12 +755,7 @@ def update_results_panel(results_data):
                 "fontSize":   "12px", "padding": "5px 8px 5px 0",
             }),
             html.Td(r.get("team", ""), style={
-                "color": C["secondary"], "fontSize": "11px", "padding": "5px 8px 5px 0",
-            }),
-            html.Td(gap, style={
-                "color":      C["accent"] if is_win else C["secondary"],
-                "fontFamily": MONO, "fontSize": "11px",
-                "textAlign":  "right", "padding": "5px 0",
+                "color": C["secondary"], "fontSize": "11px", "padding": "5px 0",
             }),
         ], style={
             "borderBottom": f"1px solid {C['border']}",
@@ -775,8 +769,7 @@ def update_results_panel(results_data):
                 html.Thead(html.Tr([
                     html.Th("#",     style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 8px 8px 0", "textAlign": "left"}),
                     html.Th("Rider", style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 8px 8px 0", "textAlign": "left"}),
-                    html.Th("Team",  style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 8px 8px 0", "textAlign": "left"}),
-                    html.Th("Gap",   style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 0 8px 0",   "textAlign": "right"}),
+                    html.Th("Team",  style={"color": C["secondary"], "fontFamily": MONO, "fontSize": "10px", "padding": "0 0 8px 0",   "textAlign": "left"}),
                 ])),
                 html.Tbody(rows),
             ],

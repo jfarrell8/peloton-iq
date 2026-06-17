@@ -26,3 +26,16 @@ data/raw/gpx/
 data/raw/gpx_files.zip
 
 qdrant_storage/
+
+data/raw/*.zip
+data/raw/*.csv
+
+data/archived_processed/
+data/tests/
+
+models/test/
+
+data/commentary/cache/
+
+*.pkl
+*.parquet

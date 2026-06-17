@@ -31,6 +31,7 @@ jobs:
             rapidfuzz \
             pydantic-settings \
             ruff
+          uv pip install --system -e "." --no-deps
 
       - name: Lint
         run: ruff check src/

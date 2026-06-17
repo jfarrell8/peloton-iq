@@ -202,7 +202,7 @@ class RiderProfiler:
         """
         observations = self._collect_observations()
 
-        built = skipped = insufficient = errors = 0
+        built = skipped = errors = 0
         qualifying = {
             rider: obs
             for rider, obs in observations.items()

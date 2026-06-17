@@ -174,7 +174,7 @@ def compute_rider_history(
             # Finished-only subsets
             past_fin       = past[past["Did_Finish"]]
             past_12mo_fin  = past_12mo[past_12mo["Did_Finish"]]
-            past_6mo_fin   = past_6mo[past_6mo["Did_Finish"]]
+            # past_6mo_fin   = past_6mo[past_6mo["Did_Finish"]]
             past_5_fin     = past_5[past_5["Did_Finish"]]
 
             # Terrain-specific subsets

@@ -48,9 +48,9 @@ def get_agent():
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    log.info("Starting PelotonIQ API — initializing agent...")
-    get_agent()
-    log.info("API ready.")
+    # Agent initializes lazily on first request — keeps startup fast
+    # so Render can detect the open port before timing out
+    log.info("PelotonIQ API starting...")
     yield
     log.info("Shutting down.")
 

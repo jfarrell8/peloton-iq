@@ -1,15 +1,44 @@
 services:
+  # FastAPI backend — agent lives here
   - type: web
-    name: peloton-iq
+    name: peloton-iq-api
     runtime: python
-    buildCommand: pip install uv && uv pip install --system -e ".[api]"
+    region: oregon
+    plan: free
+    buildCommand: pip install uv && uv pip install --system -e "." --no-deps && uv pip install --system fastapi uvicorn pydantic-settings anthropic qdrant-client sentence-transformers rank-bm25 rapidfuzz langgraph langchain langchain-anthropic xgboost scikit-learn pandas numpy pyarrow boto3 gpxpy
     startCommand: uvicorn peloton_iq.api.app:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHONPATH
         value: src
       - key: PELOTON_ANTHROPIC_API_KEY
-        sync: false   # set in Render dashboard
+        sync: false
       - key: PELOTON_QDRANT_URL
-        sync: false   # set in Render dashboard (Qdrant Cloud URL)
+        sync: false
+      - key: PELOTON_QDRANT_API_KEY
+        sync: false
+      - key: PELOTON_S3_BUCKET
+        sync: false
+      - key: AWS_ACCESS_KEY_ID
+        sync: false
+      - key: AWS_SECRET_ACCESS_KEY
+        sync: false
+      - key: AWS_DEFAULT_REGION
+        value: us-east-1
+      - key: PELOTON_LOG_LEVEL
+        value: INFO
+
+  # Dash frontend — calls the API service above
+  - type: web
+    name: peloton-iq-dash
+    runtime: python
+    region: oregon
+    plan: free
+    buildCommand: pip install uv && uv pip install --system -e "." --no-deps && uv pip install --system dash plotly pandas requests pydantic-settings
+    startCommand: gunicorn "peloton_iq.app:app.server" --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 120
+    envVars:
+      - key: PYTHONPATH
+        value: src
+      - key: PELOTON_API_URL
+        sync: false   # set to your peloton-iq-api Render URL e.g. https://peloton-iq-api.onrender.com
       - key: PELOTON_LOG_LEVEL
         value: INFO

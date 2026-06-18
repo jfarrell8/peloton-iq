@@ -87,6 +87,11 @@ class Settings(BaseSettings):
         default="http://localhost:6333",
         description="Base URL for the Qdrant vector store.",
     )
+
+    qdrant_api_key: str = Field(
+        default="",
+        description="Qdrant Cloud API key. Leave empty for local Qdrant.",
+    )
     youtube_api_key: str = Field(
         default="",
         description="YouTube Data API v3 key.",

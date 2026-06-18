@@ -50,6 +50,7 @@ class EmbeddingStore:
         batch_size: int | None = None,
     ) -> None:
         self._qdrant_url      = qdrant_url      or settings.qdrant_url
+        self._qdrant_api_key  = settings.qdrant_api_key or None
         self._embedding_model = embedding_model or settings.embedding_model
         self._batch_size      = batch_size      or settings.embedding_batch_size
 
@@ -64,7 +65,10 @@ class EmbeddingStore:
     def client(self) -> QdrantClient:
         if self._client is None:
             log.info("Connecting to Qdrant at %s", self._qdrant_url)
-            self._client = QdrantClient(url=self._qdrant_url)
+            self._client = QdrantClient(
+                url=self._qdrant_url,
+                api_key=self._qdrant_api_key,
+            )
         return self._client
 
     @property

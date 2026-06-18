@@ -85,7 +85,29 @@ class PelotonIQAgent:
 
         # Data
         log.info("  Loading DataFrames...")
-        merged_df = pd.read_csv(MERGED_RACES_PATH, low_memory=False)
+        # Load only columns needed by agent tools with efficient dtypes
+        # saves ~100MB vs full load
+        MERGED_COLS = [
+            "Race Name", "Race_results", "Year_results", "Stage_results",
+            "Date", "Name", "Team", "Rank", "Did_Finish", "Top3", "Top10",
+        ]
+        MERGED_DTYPES = {
+            "Race Name":     "category",
+            "Race_results":  "category",
+            "Year_results":  "int16",
+            "Name":          "category",
+            "Team":          "category",
+            "Rank":          "int16",
+            "Did_Finish":    "bool",
+            "Top3":          "int8",
+            "Top10":         "int8",
+        }
+        merged_df = pd.read_csv(
+            MERGED_RACES_PATH,
+            usecols=MERGED_COLS,
+            dtype=MERGED_DTYPES,
+            low_memory=True,
+        )
         merged_df["Date"] = pd.to_datetime(merged_df["Date"])
         course_df = pd.read_csv(COURSE_CLEAN_PATH)
 

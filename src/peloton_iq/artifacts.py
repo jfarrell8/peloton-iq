@@ -25,7 +25,10 @@ import logging
 from pathlib import Path
 
 from peloton_iq.config import (
+    COURSE_CLEAN_PATH,
     GPX_PROFILES_PATH,
+    MERGED_RACES_PATH,
+    MODEL_DF_PATH,
     MODELS_DIR,
     settings,
 )
@@ -38,6 +41,9 @@ ARTIFACTS: list[tuple[Path, str]] = [
     (MODELS_DIR / "bm25_course_index.pkl",  "models/bm25_course_index.pkl"),
     (MODELS_DIR / "bm25_rider_index.pkl",   "models/bm25_rider_index.pkl"),
     (GPX_PROFILES_PATH,                      "data/gpx_profiles.parquet"),
+    (MERGED_RACES_PATH,                      "data/merged_uci_races.csv"),
+    (COURSE_CLEAN_PATH,                      "data/course_data_clean.csv"),
+    (MODEL_DF_PATH,                          "data/model_df.csv"),
 ]
 
 

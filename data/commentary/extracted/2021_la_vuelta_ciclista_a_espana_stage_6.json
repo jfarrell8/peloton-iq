@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 6",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-19",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus survived from early breakaway to win by meters as ROGLIČ sailed past chasers in final meters, taking red jersey while Movistar's aggressive pacing shattered field including race leader ELISSONDE.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar trio (MAS LOPEZ VALVERDE) paced aggressively on exposed circuit despite no jersey, positioning all three within 41 seconds.",
+      "CORT conserved energy by taking intermediate sprint early then easing before final climb, timing breakaway fatigue perfectly.",
+      "ROGLIČ attacked final climb using BADGIOLI as draft shield, revealing superior positioning over teammates' pure pacing.",
+      "Crosswinds at 28kph on coastal circuit dropped both race leader ELISSONDE and CARTHY, exposing weakness in team protection."
+    ],
+    "rider_signals": {
+      "ELISSONDE Kenny": "negative: Lost red jersey in crosswinds on coastal circuit, suggesting insufficient team protection or positioning awareness",
+      "CARTHY Hugh": "negative: Dropped in same crosswind split as Elissonde, revealing vulnerability in exposed terrain despite climbing strength",
+      "MATTHEWS Michael": "positive: Animated chase on final climb and finished fifth, showing unexpected climbing form beyond sprinter profile",
+      "ROGLIČ Primož": "positive: Sailed past chasers in final meters while taking red, demonstrating superior timing over early committed chasers",
+      "BERNAL Egan": "positive: Ineos paced with Movistar's Ecuadorian duo for him, finished within 41 seconds, showing recovered form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:28:48.758854+00:00"
+}

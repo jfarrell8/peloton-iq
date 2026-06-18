@@ -1,0 +1,30 @@
+{
+  "label": "2023 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2023-04-23",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco attacked with 29km remaining on the second section of La Redoute after riding Pidcock off his wheel, winning solo by over a minute",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TRATNIK Jan's long solo effort from altitude training forced Quick-Step to ride motorbike tempo, exhausting potential rivals before decisive climb",
+      "EVENEPOEL attacked on second Redoute section (new right-turn route variant) not the summit, using different terrain than 2022 victory",
+      "Quick-Step sacrificed entire team before final 30km including ALAPHILIPPE, revealing Monument strategy prioritizes single protected rider over backup options",
+      "PIDCOCK refused to work when bridging to EVENEPOEL at Redoute start, tactical error allowing immediate counter-attack and isolation"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: went back-to-back solo, gap expanded to 90+ seconds indicating rivals couldn't organize chase even when given early warning",
+      "POGACAR Tadej": "negative: crashed out pre-race with wrist fractures, removed strongest counter-attacking threat before decisive phase",
+      "TRATNIK Jan": "positive: altitude training paid immediate dividends with long solo breakaway forcing peloton work at critical moments",
+      "PIDCOCK Tom": "neutral: first Monument podium but tactical naivety refusing to collaborate at Redoute may have cost realistic winning chance",
+      "BUITRAGO Santiago": "positive: third place career-best shows Quick-Step depth development, legitimate Monument podium threat emerging",
+      "HEALY Ben": "positive: second consecutive near-podium weekend suggests sustained Monument-level form, not one-off performance",
+      "GOOLAERTS David": "negative: stomach problems forced early abandon, Quick-Step lost potential late-race support rider",
+      "MAS Enric": "negative: stomach problems eliminated pre-race favorite, revealing vulnerability to race-day illness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:09:07.304055+00:00"
+}

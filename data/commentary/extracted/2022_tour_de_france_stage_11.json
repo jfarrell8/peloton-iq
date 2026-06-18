@@ -1,0 +1,30 @@
+{
+  "label": "2022 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-13",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked 5km from summit of Col du Granon after ROGLIC launched repeated attacks from 60km out, dropped POGACAR who lost nearly 3 minutes showing first career weakness.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma placed LAPORTE and VANART in 20-rider breakaway, then attacked with ROGLIC at 60km creating dual-front war.",
+      "ROGLIC's repeated attacks on Galibier forced POGACAR's domestiques to chase while VINGEGAARD conserved, then attacked solo on Granon final 5km.",
+      "MIKE Rafael's isolation defending alone for UAE on Galibier revealed COVID-weakened team unable to control multi-front assault.",
+      "QUINTANA's attack on Granon initially gained but served as springboard for VINGEGAARD, showing GC threats can inadvertently help stronger climber."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: first visible weakness exploitation of POGACAR after being lured to chase on flats, then conserved perfectly for Granon attack",
+      "ROGLIC Primoz": "positive: initiated attacks 60km out on Galibier forcing UAE isolation, tactical sacrifice enabled VINGEGAARD's later move",
+      "POGACAR Tadej": "negative: lost 3 minutes showing first career collapse, passed by YATES and GAUDU indicating complete crack not just bad day",
+      "MIKE Rafael": "negative: lone UAE domestique unable to control on Galibier, revealing team depth crisis from COVID absences",
+      "QUINTANA Nairo": "positive: attacked Granon and reached virtual race lead before VINGEGAARD, moved into top-5 GC showing resurgence",
+      "BARGUIL Warren": "neutral: won Galibier KOM at 2640m highest Tour point but tactically irrelevant from breakaway",
+      "THOMAS Geraint": "positive: reacted well to ROGLIC attacks and finished ahead of POGACAR, moved to 4th overall",
+      "BARDET Romain": "positive: reached podium position overall after finishing with QUINTANA group, capitalized on POGACAR collapse"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:50:05.528454+00:00"
+}

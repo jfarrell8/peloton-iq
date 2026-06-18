@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Aggressive breakaway rider who targets long-range moves, particularly in final 30km and uphill sections. Shows diesel engine capability to survive deep into finales, often outlasting specialized climbers.",
+  "team_tactics": "Bahrain provides positioning support for punchy finishes but Wright operates independently in breakaways. Limited evidence of systematic team-led setup; relies on opportunistic moves rather than controlled lead-outs.",
+  "terrain_preference": "Excels on punchy uphill finishes and prolonged breakaway scenarios with mixed terrain. Surprising climbing resilience for sprinter profile, surviving selective mountain pace and uphill finale positioning battles.",
+  "vulnerability": "Spray chaos on ramped finishes (involved in Roglic crash incident). Tactical calculation over winning instinct when jersey considerations arise—refused chase when 6-second gap threatened competition standings.",
+  "key_patterns": [
+    "Three consecutive breakaway appearances in Vuelta 2022, showing sustained aggressive approach (3 observations)",
+    "Multiple uphill finish competitiveness including fourth place, defying pure sprinter categorization (3 observations)",
+    "Post-rest day aggression pattern: bridged to breaks twice after recovery days (2 observations)",
+    "Exceptional breakaway survival rate, outlasting specialists in closing kilometers (2 observations)",
+    "Jersey/competition calculations influence tactical decisions over stage-winning opportunities (1 negative instance)"
+  ],
+  "form_trajectory": "positive: consistent aggressive racing and results improvement through Vuelta 2022, including podium finish and repeated late-race survival suggesting peak condition",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "WRIGHT Fred",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 13",
+    "2022 La Vuelta ciclista a Espana Stage 16",
+    "2022 La Vuelta ciclista a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 Tour de France Stage 10",
+    "2022 Tour de France Stage 8"
+  ]
+}

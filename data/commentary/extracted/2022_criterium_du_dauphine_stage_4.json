@@ -1,0 +1,26 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-08",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GAGNON Filippo won the 32km TT by 2 seconds over VAN AERT Wout, who extended his GC lead despite losing the stage.",
+    "winner": "GAGNON Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HATER ran negative splits gaining 13 seconds from checkpoint one to finish, unusual TT pacing strategy paid off.",
+      "VAN AERT hit solo speeds 65-67 km/h on flat sections, revealing sprinter-turned-TTer can match pure specialists on power courses.",
+      "ROGLIC rode conservatively without attempting to match GAGNON's benchmark, telegraphing he'll wait for high mountains instead."
+    ],
+    "rider_signals": {
+      "GAGNON Filippo": "positive: destroyed field by 53 seconds over benchmark after deliberately taking stage 3 easy to preserve TT form",
+      "HATER Ethan": "positive: third place 17 seconds back positions him as unexpected GC threat before mountain stages",
+      "MCNULTY Brandon": "negative: mechanical with jammed chain cost significant time, GC ambitions now depend entirely on alpine performance",
+      "ROGLIC Primoz": "neutral: deliberately rode for solid time rather than competing with GAGNON, confirming mountain-focused strategy",
+      "VAN AERT Wout": "positive: extended yellow by 53 seconds over CATANIA despite losing stage, dual green jersey threat with TT power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:35:17.870565+00:00"
+}

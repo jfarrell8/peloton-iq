@@ -1,0 +1,25 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 2",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-20",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won sprint in Dutch hometown stage after VAN POPPEL Danny delivered perfect leadout, TEUNISSEN Mike took red via time gaps at finish",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix chased repeatedly for WELLENS but burned matches catching/releasing break multiple times before 60km mark, compromising sprint leadout.",
+      "Time bonuses split field enough that TEUNISSEN took race lead despite fourth place, suggesting intermediate sprint positioning matters more than assumed.",
+      "BORA-hansgrohe's VAN POPPEL provided winning leadout for rival team's BENNETT, indicating opportunistic sprint train alliances on domestique-light stages."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "negative: Alpecin-Fenix spent entire team chasing for him yet he failed to finish in top three, questioning stage-hunting value",
+      "BENNETT Sam": "positive: won despite losing rhythm rubbing McLAY at 2km, showing resilience and bike-handling superior to pure positioning",
+      "PEDERSEN Mads": "positive: pushed Bennett to photo finish without apparent leadout train, Trek's self-sufficient sprint approach viable on chaotic finishes",
+      "TEUNISSEN Mike": "positive: fourth place yielded race lead via bonus seconds, demonstrating consistent top-5 finishing more valuable than hunting stage wins"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:43:50.390564+00:00"
+}

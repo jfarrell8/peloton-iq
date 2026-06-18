@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-16",
+  "stage": 15,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BARDET won from breakaway while FROOME survived mid-climb mechanical by deploying entire Sky team to close 40-second gap on final Cat-1 climb",
+    "winner": "BARDET Romain",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AG2R attacked immediately during Froome's mechanical rather than waiting, forcing Sky to burn all domestiques on penultimate climb.",
+      "Landa dropping back from lead group to pace Froome confirms Sky's GC hierarchy despite earlier speculation about dual leadership.",
+      "Martin cooperated with dropped breakaway riders instead of solo bridging, gaining fifth overall by conserving energy for final kilometer.",
+      "Yates showed surprising late-stage strength in sprint despite being deep in third week, signaling potential Alps form."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "neutral: survived mechanical crisis but required complete team sacrifice on Cat-1 climb, exposing isolation vulnerability in mountains",
+      "LANDA Mikel": "positive: definitively proved team loyalty by dropping from lead group to pace Froome across 40-second gap",
+      "MARTIN Dan": "positive: riding into fifth overall at 1:12 despite crash injuries, showing tactical maturity by drafting breakaway remnants",
+      "YATES Simon": "positive: attacking with enough power to require chase from lead GC group in third week suggests dangerous Alps form",
+      "BARDET Romain": "positive: AG2R capitalized on Froome mechanical by attacking immediately, showing ruthless team tactical discipline"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:09:29.715684+00:00"
+}

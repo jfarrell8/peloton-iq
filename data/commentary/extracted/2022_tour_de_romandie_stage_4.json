@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-30",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "IGUITA Sergio won from reduced group after RUBIO Einer's solo move caught inside final 300m by PLAPP Luke's chase.",
+    "winner": "IGUITA Sergio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "RUBIO Einer attacked past teammate RODRIGUEZ Oscar on penultimate climb, demonstrating Movistar's willingness to sacrifice breakaway rider for stage hunt.",
+      "PLAPP Luke single-handedly neutralized RUBIO's 1-minute solo advantage in headwind finish, revealing Australian's unexpected firepower in stage races.",
+      "Jumbo-Visma controlled 4000m elevation stage entirely for DENNIS despite having no GC threat, showing resources committed to protecting small time gaps.",
+      "IGUITA's winning acceleration came left-hand side of road inside final kilometer after PLAPP caught RUBIO, exploiting tactical confusion."
+    ],
+    "rider_signals": {
+      "RUBIO Einer": "positive: attacked past own teammate on penultimate climb and held solo advantage until final 300m despite headwind",
+      "PLAPP Luke": "positive: Australian champion chased down 1-minute gap solo to protect DENNIS, showing GC-level climbing strength",
+      "THOMAS Geraint": "negative: dropped from front group on queen stage as defending champion, concerning form signal",
+      "VLASOV Alexander": "positive: took second place as IGUITA's teammate, Bora 1-2 suggests deliberate tactical coordination",
+      "SCOINS Toms": "positive: won KOM classification by securing points from breakaway before being dropped, smart tactical calculation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:54:50.155410+00:00"
+}

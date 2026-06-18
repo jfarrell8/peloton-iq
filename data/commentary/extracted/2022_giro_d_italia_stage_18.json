@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-26",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BONT Dries won from a 4-man breakaway after sprinters' teams miscalculated, leaving 1:11 gap with one lap to go",
+    "winner": "BONT Dries",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sprinters' teams panicked only sub-30km despite precedent of breaks succeeding, revealing chronic gap estimation problems on technical finishes.",
+      "LOPEZ Juanpe caught in peloton split with under 20km remaining, suggesting pink jersey group deliberately shed GC fringe riders.",
+      "Breakaway consciously went easy mid-race after KOSTER Harry drew complaints, demonstrating negotiated effort management extends beyond finale."
+    ],
+    "rider_signals": {
+      "BONT Dries": "positive: won despite being expected to lead out as fastest sprinter, suggesting tactical deception or superior endurance after 156km",
+      "HINDLEY Jai": "neutral: mechanical inside final km given same time under 3km rule, but position suggests less protection than expected for second-placed GC rider",
+      "LOPEZ Juanpe": "negative: dropped in split with under 20km on sprinters' stage, exposing weakness in positioning or UAE team support post-ALMEIDA departure",
+      "KOSTER Harry": "negative: chased too hard early causing breakaway confrontation, revealing poor tactical awareness that antagonized companions before finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:39:04.895085+00:00"
+}

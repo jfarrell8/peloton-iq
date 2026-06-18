@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Does not attack traditionally; operates as diesel engine in breakaways, setting destructive tempo on climbs up to 16% gradient despite pure TT physiology. Maintains relentless pace rather than explosive accelerations.",
+  "team_tactics": "Replicates Sky train methodology even in breakaway scenarios, riding sustained tempo for protected riders (Thomas). Executes leadout duties but ambiguous team hierarchy suggests near-winner capability creates role confusion.",
+  "terrain_preference": "Dominates longer (14-26km) flat-to-rolling ITTs with technical sections where sustained power and bike handling combine. Surprisingly effective on moderate climbs when setting tempo rather than responding to attacks. Struggles on short (<10km) ITTs where explosive power trumps diesel advantage.",
+  "vulnerability": "Grand Tour fatigue significantly degrades TT performance (40s losses to Van Aert). Climbing ITTs expose limits against pure GC contenders despite strong form. Short-distance ITTs neutralize sustained power advantage. Equipment issues/team conflicts emerge under pressure.",
+  "key_patterns": [
+    "Beats Evenepoel on longer ITTs when fresh: 24s margin Tirreno, 16s Vuelta (2 instances)",
+    "Sets breakaway pace on steep gradients 14-16% despite 80kg+ physiology (2 instances)",
+    "Shows late-race sprint speed reserves beyond TT reputation, challenging for bunch kicks (2 instances)",
+    "Performance degrades 30-40 seconds in Grand Tour ITTs after 2+ weeks racing (2 instances)",
+    "Maintains 56kph averages on technical courses through superior power maintenance and handling (2 instances)",
+    "Effective at sustained chasing work after major climbing efforts, recovery anomaly for size (2 instances)"
+  ],
+  "form_trajectory": "positive: 2023 Vuelta showed evolution beyond pure TT — setting breakaway pace on 16% climbs, challenging for sprint victories, beating Evenepoel. Expanding tactical repertoire while maintaining ITT dominance when fresh.",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "GANNA Filippo",
+  "built_from": [
+    "2022 Tirreno-Adriatico Stage 1",
+    "2022 Tirreno-Adriatico Stage 1",
+    "2022 Tour de France Stage 20",
+    "2022 UAE Tour Stage 3",
+    "2022 UAE Tour Stage 4",
+    "2022 UAE Tour Stage 5",
+    "2022 UAE Tour Stage 5",
+    "2023 Giro dItalia Stage 1",
+    "2023 Giro dItalia Stage 8",
+    "2023 La Vuelta Ciclista a Espana Stage 10",
+    "2023 La Vuelta Ciclista a Espana Stage 10",
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 5",
+    "2023 Paris-Roubaix"
+  ]
+}

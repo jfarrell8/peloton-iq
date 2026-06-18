@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-07",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNISSEN Mike retained yellow as JUMBO-VISMA crushed the 27.6km Brussels TTT, beating INEOS by 20 seconds with MARTIN powering the effort.",
+    "winner": "JUMBO-VISMA (Team)",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS set early benchmark at 29:18 but suffered from starting first in hot conditions, losing 20 seconds.",
+      "JUMBO-VISMA 14 seconds up at intermediate check, maintained pacing strategy through second half where others faded.",
+      "KATUSHA surprisingly competitive with DOWSETT and POLITT showing unexpected TTT strength, just 5 seconds off INEOS.",
+      "DECEUNINCK-QUICKSTEP lost world champion form, only 0.82 seconds faster than INEOS despite being motivated post-stage 1 disappointment."
+    ],
+    "rider_signals": {
+      "MARTIN Tony": "positive: anchored JUMBO-VISMA's dominant performance, keeping 5 riders together to finish despite being specialist domestique",
+      "KRUIJSWIJK Steven": "positive: stayed with JUMBO-VISMA group to finish, GC rider gaining massive 20-second buffer over INEOS rivals",
+      "PINOT Thibaut": "negative: FDJ only 11 seconds back but crash near finish exposed team's TTT fragility despite recent improvement",
+      "QUINTANA Naira": "negative: MOVISTAR lost ~1 minute to INEOS, confirming historical TTT weakness remains unchanged despite GC ambitions",
+      "PORTE Richie": "negative: TREK-SEGAFREDO ~1 minute back, exposing weak support for GC contender in discipline"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:15:15.871794+00:00"
+}

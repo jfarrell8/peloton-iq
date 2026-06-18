@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who targets intermediate stages rather than mountain-top finishes. Excels in winning from small groups (7 riders) when team obligations are minimal, particularly when freed from domestique duties.",
+  "team_tactics": "Performs best when team protection is absent or GC leadership compromised, suggesting he thrives with tactical freedom rather than structured team support. Less effective in protected sprinter role.",
+  "terrain_preference": "Stages suited to breakaways that survive to finish, particularly those where coalition dynamics delay peloton chase until final 8km. Avoids pure mountain stages, but competitive in ITTs despite not specializing.",
+  "vulnerability": "Constrained by team obligations when required to work for protected riders. Performance depends heavily on tactical freedom and team willingness to let him hunt stages opportunistically.",
+  "key_patterns": [
+    "Multiple stage wins from breakaways when given freedom (3 Vuelta wins, 2021)",
+    "Near-miss ITT performance shows sustained form deep into Grand Tours (fourth place final ITT)",
+    "Coalition breakaway tactics successful: 7-rider group holding 18-second margin demonstrates timing intelligence"
+  ],
+  "form_trajectory": "positive: Three stage victories plus strong ITT finish late in Vuelta demonstrates maintained form throughout three-week race rather than early-race depletion",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CORT NIELSEN Magnus",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 21"
+  ]
+}

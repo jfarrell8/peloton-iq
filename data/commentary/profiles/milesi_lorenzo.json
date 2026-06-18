@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not primarily an attacker; opportunities come from team time trial positioning and tactical team decisions rather than individual offensive moves.",
+  "team_tactics": "DSM prioritizes him unexpectedly over bigger names (given red jersey over Ganna), suggesting flexible hierarchy based on race situation rather than predetermined leadership.",
+  "terrain_preference": "Benefits from team time trial formats where collective strength can position him favorably. Appears vulnerable in adverse weather conditions.",
+  "vulnerability": "Extreme weakness in wet conditions—abandoned race while wearing red jersey at 18km to go, indicating inability to handle rain/standing water.",
+  "key_patterns": [
+    "Gains race lead through team time trial performance rather than individual prowess (2 observations)",
+    "Cannot sustain performance in wet/rainy conditions, abandoning even when holding leadership (2 observations)",
+    "Team shows willingness to elevate him over established stars like Ganna when situation suits (2 observations)"
+  ],
+  "form_trajectory": "negative: abandoned next day while in red jersey, suggesting he either lacks durability or cannot handle adverse conditions after strong TTT",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MILESI Lorenzo",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 1",
+    "2023 La Vuelta Ciclista a Espana Stage 1",
+    "2023 La Vuelta Ciclista a Espana Stage 2"
+  ]
+}

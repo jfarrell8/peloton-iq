@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Specialized in short, technical time trials under 10km where cornering precision and bike handling on suboptimal surfaces matter more than sustained power.",
+  "team_tactics": "EF provides strong TT equipment and preparation for technical parcours, enabling riders to excel on courses requiring precision over pure watts.",
+  "terrain_preference": "Short technical TTs (9km range) with dusty roads and frequent corners; excels where bike handling and risk-taking in corners create advantages over pure power specialists.",
+  "vulnerability": "Insufficient data, but likely vulnerable in longer TTs where sustained power trumps technical skills, and against pure time trial specialists on cleaner courses.",
+  "key_patterns": [
+    "Defeats pure power specialists like Ganna on technical courses requiring cornering precision.",
+    "EF team consistently performs above expectations in short technical TTs with challenging surfaces.",
+    "Holds form advantage late in short TTs, maintaining speed through final technical sections."
+  ],
+  "form_trajectory": "unknown: only single race observation from early 2022, insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BISSEGER Stefan",
+  "built_from": [
+    "2022 UAE Tour Stage 3",
+    "2022 UAE Tour Stage 3"
+  ]
+}

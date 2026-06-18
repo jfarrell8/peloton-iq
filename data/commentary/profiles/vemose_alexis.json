@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who commits to early moves, then relies on superior finishing speed in small group sprints from distance rather than late solo attacks.",
+  "team_tactics": "Insufficient data to determine team setup patterns; appears to operate independently once in breakaway situations, prioritizing cooperative riding over aggressive distancing.",
+  "terrain_preference": "Moderate climbing terrain where disciplined breakaway groups can time-trial to hold organized pelotons; finishes require sprint speed over pure climbing power.",
+  "vulnerability": "Likely struggles in disorganized or aggressive late-race scenarios requiring repeated accelerations; success depends on breakaway cooperation and peloton disorganization.",
+  "key_patterns": [
+    "Commits to early breakaway formations rather than waiting for late attacks",
+    "Prioritizes cooperative riding and time-trialling discipline within breakaway groups",
+    "Relies on elite finishing speed to win from small groups rather than solo efforts"
+  ],
+  "form_trajectory": "unknown: single observation from 2022 shows strong form, but insufficient recent data to assess trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VEMOSE Alexis",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 2",
+    "2022 Criterium du Dauphine Stage 2"
+  ]
+}

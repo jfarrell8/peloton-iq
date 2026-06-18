@@ -1,0 +1,28 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 3",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-16",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TARAMAY Ryan took stage and race lead from 8-rider breakaway on Picon Blanco, demonstrating Movistar's willingness to commit to early GC opportunities.",
+    "winner": "TARAMAY Ryan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma with ROGLIC refused chase duty despite multiple breakaway riders threatening virtual lead, forcing other teams to work.",
+      "TARAMAY at 34 years showed superior climbing form on 18% ramps when younger breakaway companions like KETTER cracked.",
+      "MOVISTAR committed fully to breakaway stage hunting with TARAMAY despite early Vuelta stage, revealing aggressive GC opportunism over sprinter support."
+    ],
+    "rider_signals": {
+      "TARAMAY Ryan": "positive: Won stage and took race lead from breakaway, demonstrating unexpected climbing form on steep gradients at age 34.",
+      "CARAPAZ Richard": "negative: Olympic champion struggled significantly on Picon Blanco climb despite being pre-race favorite for INEOS.",
+      "YATES Adam": "positive: Looked strong on final climb while teammate CARAPAZ suffered, suggesting protected leader role may shift within INEOS.",
+      "CARTHY Hugh": "negative: Lost additional time after stage 2 crash complications, indicating mounting GC deficit concerns.",
+      "ROGLIC Primoz": "neutral: Finished strongly with favorites group but Jumbo-Visma's refusal to chase revealed confidence in future opportunities.",
+      "KETTER Emils": "negative: Struggled notably on steep ramps despite being in strong 8-rider break, exposing gradient limitations.",
+      "DOMBROWSKI Joe": "positive: Finished second on mountain stage showing continued climbing consistency at crucial race moments."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:28:11.382165+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-29",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HARADA Yoshihiko won from breakaway after TEUNS Dylan towed him to leaders with 20km remaining, TEUNS taking red jersey by finishing second",
+    "winner": "HARADA Yoshihiko",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TEUNS attacked when CRUZ showed weakness on final climb, bridged 40-second gap solo while carrying passenger HARADA to stage win.",
+      "POGACAR at age 20 launched solo attack from GC group on summit finish, gaining seconds despite no tactical need as white jersey wearer.",
+      "Breakaway formation delayed 50+ kilometers due to peloton aggression, suggesting GC teams uncertain about stage control strategy after Lopez takeover."
+    ],
+    "rider_signals": {
+      "TEUNS Dylan": "positive: Sacrificed stage win to take red jersey, showing ability to bridge 40-second gaps solo on summit finishes",
+      "HARADA Yoshihiko": "positive: Smart wheelsucking allowed fresh sprint after TEUNS did bridging work, first Grand Tour win signals breakaway threat",
+      "CRUZ David de la": "negative: Showed weakness on final climb despite being virtual race leader, cracked when TEUNS attacked with 20km remaining",
+      "POGACAR Tadej": "positive: Unprompted attack from GC group at age 20 gained time on rivals including fourth-place GC rider, exceptional aggression for domestique role",
+      "OLIVEIRA Nelson": "negative: Bridged to GAMAY but couldn't hold pace when TEUNS counter-attacked, suggesting one-move limitation in breakaways"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:21:50.547549+00:00"
+}

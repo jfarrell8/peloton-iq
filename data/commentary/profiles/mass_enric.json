@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Initiates attacks on steep finishes before the gradient peaks, but struggles to sustain power on super-steep (20%+) ramps where explosive punch is required. Timing is proactive but execution limited on extreme gradients.",
+  "team_tactics": "Shows willingness to cooperate tactically with rival groups when mutually beneficial, as evidenced by cooperative signals and group work. Positioning is strong entering final climbs, suggesting good domestique support.",
+  "terrain_preference": "Excels in crosswind scenarios and can compartmentalize strength across varied terrain. Vulnerable on sustained super-steep gradients (20%+) and technical descents where weaknesses have been exposed.",
+  "vulnerability": "Lacks explosive power for super-steep ramps above 20% gradient. Descending appears to be a technical weakness where stronger riders can exploit gaps.",
+  "key_patterns": [
+    "Attacks early on final climbs but fades when gradient exceeds 20%, gapped twice (Vuelta 2021)",
+    "Strong positioning entering decisive moments suggests effective team setup and tactical awareness",
+    "Demonstrates compartmentalized fitness: weak descending but strong crosswind ability (Tirreno 2023)",
+    "Willing to cooperate tactically with rivals when racing situation demands pragmatic alliances"
+  ],
+  "form_trajectory": "positive: 2023 Tirreno showed evolution with race-defining crosswind attack after early career struggles on explosive climbs, suggesting tactical maturation",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MASS Enric",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2023 Tirreno-Adriatico Stage 5"
+  ]
+}

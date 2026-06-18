@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Attacks with 15-20km remaining on sustained climbs rather than explosive finishes, prioritizing tempo-based distancing over short punchy accelerations. Most effective when given freedom from breakaways or when marking attacks before counter-punching.",
+  "team_tactics": "Primary role as high-mountain domestique setting prolonged tempo to isolate rivals before leaders attack. Team protects him defensively when in GC contention rather than having him dictate offensive racing. Given stage-hunting freedom only when leaders' positions are secure.",
+  "terrain_preference": "Excels on long, steady altitude climbs (12-17% sustained gradients) where tempo strength dominates. High-altitude racing in mountain ranges appears to unlock strongest performances. Struggles on short, explosive steep ramps that reward anaerobic bursts over sustained power.",
+  "vulnerability": "Cannot follow or respond on extremely steep, short climbs requiring explosive accelerations (lost 1:05 on compact steep gradients). Lacks finishing speed against pure puncheurs. When under GC pressure, requests slower pace rather than matching aggressive tempo—suggests mental or physical fragility as protected leader.",
+  "key_patterns": [
+    "Won stages from breakaways on 17% gradients when given team freedom (2019, 2021 examples)",
+    "Sets prolonged tempo as domestique to isolate GC rivals before leader attacks (observed 2019, 2023)",
+    "Vulnerable on short steep climbs; lost significant time when gradients exceeded sustained climbing profile",
+    "Course knowledge advantage: solo attack with 20km on home Andorran roads produced stage win",
+    "Defensive when leading GC, requesting slower pace; offensive when supporting or stage-hunting"
+  ],
+  "form_trajectory": "neutral: 2023 Vuelta showed vulnerability under GC pressure (requesting slower pace, losing time on steep climbs) despite ultimately winning with team protection. Stronger as free-role climber than protected leader.",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "KUSS Sepp",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 15",
+    "2019 Vuelta a Espana Stage 15",
+    "2019 Vuelta a Espana Stage 18",
+    "2019 Vuelta a Espana Stage 5",
+    "2019 Vuelta a Espana Stage 7",
+    "2021 Tour de France Stage 15",
+    "2021 Tour de France Stage 15",
+    "2023 Giro dItalia Stage 16",
+    "2023 La Vuelta Ciclista a Espana Stage 13",
+    "2023 La Vuelta Ciclista a Espana Stage 16",
+    "2023 La Vuelta Ciclista a Espana Stage 17",
+    "2023 La Vuelta Ciclista a Espana Stage 18",
+    "2023 La Vuelta Ciclista a Espana Stage 20",
+    "2023 La Vuelta Ciclista a Espana Stage 21",
+    "2023 La Vuelta Ciclista a Espana Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 8",
+    "2023 Tour de France Stage 8"
+  ]
+}

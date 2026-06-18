@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-25",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo attacked 5km from summit of Col du Galibier, gained 1:45 on chasers instantly, took stage and moved into top 10 GC.",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar placed Verona/Amador in 40km break formation despite Quintana being 9.5 minutes down, enabling later mountain attack support.",
+      "Jumbo-Visma lit up Col d'Iseran from behind despite having Kruijswijk/Dumoulin in break, prioritizing selection over conserving leader energy.",
+      "BERNAL Egan attacked yellow jersey group alone testing rivals despite teammate Carapaz being ahead, INEOS probing GC weaknesses not stage hunting.",
+      "ALAPHILIPPE dropped 30 seconds on final Galibier hairpins but descended aggressively past Pinot/Thomas group, using technical skill for damage control."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: gained 1:45 in seconds on elite climbers after years of underwhelming, signals peak form timing capability",
+      "BERNAL Egan": "positive: attacked yellow group despite teammate ahead, took 32s on Kruijswijk for white jersey showing GC aggression",
+      "ALAPHILIPPE Julian": "negative: dropped on final Galibier hairpins losing 30s, recovered via descending but weakness now exposed for stage 19 summit finish",
+      "THOMAS Geraint": "negative: unable to follow Bernal attack and dropped to third overall, INEOS leadership hierarchy clarifying under pressure",
+      "BARDET Romain": "positive: held off GC group for second place solo, showed climbing form absent in recent Tours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:14:48.998937+00:00"
+}

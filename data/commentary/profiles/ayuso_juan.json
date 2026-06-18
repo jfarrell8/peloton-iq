@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Prefers long-range solo attacks on technical descents (Albula Pass descent gained 1:00+). Shows willingness to go early but lacks finishing punch on steep climbs when closely marked.",
+  "team_tactics": "UAE provides GC depth with multiple leaders (ALMEIDA present in most races), but Ayuso often positioned defensively rather than as primary aggressor. Limited domestique shield on key climbs where he gets isolated.",
+  "terrain_preference": "Technical descents are his weapon (8sec gain on Evenepoel descending, 1:00+ solo on Albula). Struggles on uphill time trials and sustained steep finishes where power-to-weight matters most.",
+  "vulnerability": "Time trials are consistent weakness (lost podium twice in final TTs, self-described as upset after 1:17 loss). Gets caught out of position entering climbs. Cracks when facing sustained pressure from multiple GC threats (Jumbo triple threat dropped him from podium).",
+  "key_patterns": [
+    "Time trial discipline is critical weakness: lost podium positions in final TTs at 2022 Vuelta, Romandie",
+    "World-class descending ability rare for age: gained 8sec on Evenepoel, 1:00+ solo on technical descents",
+    "Marked immediately by teams as GC threat, limiting attacking freedom in Grand Tours",
+    "Positioning errors entering key climbs requiring recovery efforts (2022 Vuelta examples)",
+    "Shows resilience after setbacks but ceiling revealed against top-tier stage race competition (Jumbo dominance)"
+  ],
+  "form_trajectory": "neutral: Developed strong TT ability by 2023 Vuelta (4th place) after 2022 weakness, but still vulnerable to sustained attacks from top-tier climbers on queen stages",
+  "races_analysed": 17,
+  "confidence": "high",
+  "rider_name": "AYUSO Juan",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 10",
+    "2022 La Vuelta ciclista a Espana Stage 14",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 Tour de Romandie Stage 5",
+    "2022 Volta Ciclista a Catalunya Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 10",
+    "2023 La Vuelta Ciclista a Espana Stage 13",
+    "2023 La Vuelta Ciclista a Espana Stage 14",
+    "2023 La Vuelta Ciclista a Espana Stage 17",
+    "2023 La Vuelta Ciclista a Espana Stage 18",
+    "2023 La Vuelta Ciclista a Espana Stage 8",
+    "2023 Tour de Suisse Stage 3",
+    "2023 Tour de Suisse Stage 4",
+    "2023 Tour de Suisse Stage 5",
+    "2023 Tour de Suisse Stage 5",
+    "2023 Tour de Suisse Stage 8",
+    "2023 Tour de Suisse Stage 8"
+  ]
+}

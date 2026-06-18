@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Pure flat-land sprinter who launches in final 200m, preferring to find gaps through the center rather than relying solely on leadout positioning. Does not attack proactively; waits for sprint finale setup.",
+  "team_tactics": "Relies on high-powered leadouts (notably Jumbo-Visma's Van Aert pulling 65kph for 2km). Team controls pace into finales but rider shows positioning errors in chaotic sprints and crosswinds, requiring clean setup rather than improvisation.",
+  "terrain_preference": "Exclusively pure flat finales. Even minor uncategorized rises or lumpy terrain expose serious climbing limitations. Crosswind situations reveal positioning vulnerabilities and inability to fight back when distanced.",
+  "vulnerability": "Dropped on any categorized climb with flat remaining (14km+ observed). Poor recovery capacity on undulating stages. Positioning errors in echelons/crosswinds. Inferior final 200m kick versus peak sprinters like Ewan/Philipsen.",
+  "key_patterns": [
+    "Repeatedly distanced on minor climbs throughout stages, marginal for non-pancake-flat finishes (5 instances)",
+    "Positioning errors in messy sprints: barriers, losing wheels, dropped in crosswinds (4 instances)",
+    "Loses head-to-head versus teammates and peak sprinters despite equal positioning (3 instances)",
+    "Finds success through center gaps when traditional leadout trains boxed in (2022 Tour win)",
+    "Team sprint hierarchy unclear; allowed to sprint independently alongside Van Aert (2019 Tour)"
+  ],
+  "form_trajectory": "negative: 2023 distanced in crosswinds, 2022 showed form deficit on climbs and lost positioning battles. Recent performances suggest decline from 2019 peak competitive level.",
+  "races_analysed": 14,
+  "confidence": "high",
+  "rider_name": "GROENEWEGEN Dylan",
+  "built_from": [
+    "2017 Paris-Nice Stage 5",
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 11",
+    "2019 Tour de France Stage 21",
+    "2019 Tour de France Stage 4",
+    "2019 Tour de France Stage 7",
+    "2022 Criterium du Dauphine Stage 1",
+    "2022 Criterium du Dauphine Stage 2",
+    "2022 Criterium du Dauphine Stage 5",
+    "2022 Tour de France Stage 15",
+    "2022 Tour de France Stage 3",
+    "2022 UAE Tour Stage 1",
+    "2023 Classic Brugge-De Panne",
+    "2023 Tirreno-Adriatico Stage 7"
+  ]
+}

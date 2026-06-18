@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pursues solo efforts when given freedom, but shows tactical timing issues—willing to chase down moves on final climbs but can misjudge the timing required to close gaps.",
+  "team_tactics": "Typically part of a controlling team structure (Deceuninck-QuickStep), but receives selective freedom on stages where team priorities shift to overall classification defense rather than stage hunting.",
+  "terrain_preference": "Capable on punchy final climbs that allow pursuit efforts, though not a pure climber. Best suited to stages where strength and persistence matter more than explosive acceleration.",
+  "vulnerability": "Timing judgment on solo chase efforts—demonstrated ability to make the physical effort but positioned attack too late to succeed on final climb pursuit.",
+  "key_patterns": [
+    "Receives freedom only when team priorities shift away from stage control to GC defense.",
+    "Commits to solo pursuit efforts rather than waiting for group dynamics or positioning.",
+    "Shows physical capability on climbs but tactical timing lags behind effort capacity."
+  ],
+  "form_trajectory": "neutral: Single observation shows physical capability but tactical execution needs refinement; insufficient data for trend assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ASGREEN Casper",
+  "built_from": [
+    "2019 Tour de France Stage 17",
+    "2019 Tour de France Stage 17"
+  ]
+}

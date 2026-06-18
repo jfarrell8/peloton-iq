@@ -1,0 +1,43 @@
+{
+  "attacking_style": "Rarely initiates decisive attacks himself; more often positioned in breakaways or select groups on climbs. When does attack, struggles to sustain efforts in final kilometers, showing explosive power that cannot be capitalized on due to fatigue.",
+  "team_tactics": "Team frequently burns domestiques early through high-tempo pacing on climbs, leaving him isolated when race explodes in final 6km. Often employed in breakaway-planting tactics (2019 TDF, 2017 TDF) rather than traditional lead-out protection.",
+  "terrain_preference": "Performs best on sustained, steady gradients where team tempo can control. Exposed on explosive, late-race accelerations inside final 6km and on technical descents where positioning becomes critical.",
+  "vulnerability": "Third-week fade pattern across multiple Grand Tours (2022 Vuelta, 2023 TDF). Isolated when team depth exhausted early; cannot respond to multi-pronged attacks from deeper teams. Early-climb strength rarely translates to finish-line results.",
+  "key_patterns": [
+    "Team burns domestiques early via tempo, leaving him isolated in decisive final kilometers (4+ instances)",
+    "Looks strongest early on climbs but cracks before summit or finale (2017 TDF, 2022 Giro)",
+    "Third-week Grand Tour form collapse pattern documented across 2022 Vuelta and 2023 TDF",
+    "Cannot sustain created gaps despite showing explosive power, fatigue limits capitalizing (2022 Giro stage 19)",
+    "Podium-capable but not victory-capable: multiple 3rd-4th places when team invests maximum resources",
+    "Team employs breakaway-plant tactics utilizing him as tempo weapon rather than protected finisher"
+  ],
+  "form_trajectory": "negative: Clear decline through 2023 with early GC weaknesses on Jaizkibel and Marie Blanc, plus isolation issues when Bahrain depth exhausted. Late-career consistency at podium level (2022 Lombardia) but no longer top-tier GC threat.",
+  "races_analysed": 23,
+  "confidence": "high",
+  "rider_name": "LANDA Mikel",
+  "built_from": [
+    "2017 Giro d'Italia Stage 10",
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 13",
+    "2017 Tour de France Stage 14",
+    "2017 Tour de France Stage 15",
+    "2017 Tour de France Stage 18",
+    "2019 Tour de France Stage 10",
+    "2019 Tour de France Stage 15",
+    "2019 Tour de France Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2022 Giro d'Italia Stage 17",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Giro d'Italia Stage 20",
+    "2022 Il Lombardia",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2022 Liege - Bastogne - Liege",
+    "2022 Tirreno-Adriatico Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 13",
+    "2023 La Vuelta Ciclista a Espana Stage 17",
+    "2023 Tour de France Stage 2",
+    "2023 Tour de France Stage 5",
+    "2023 Volta Ciclista a Catalunya Stage 2",
+    "2023 Volta Ciclista a Catalunya Stage 6"
+  ]
+}

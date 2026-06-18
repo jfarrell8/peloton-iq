@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic finisher rather than long-range attacker; excels in reduced sprints from small groups after others have been exhausted by earlier attacks. Positioned to capitalize within final 200m.",
+  "team_tactics": "Uses team to drive pace for splits and tactical advantage; willing to work aggressively even in yellow jersey to isolate rivals. Relies on positioning rather than domestique leadouts.",
+  "terrain_preference": "Hilly classics terrain with selective but not excessively steep climbs; thrives when race is hard enough to reduce group but not mountainous. Exposed on sustained climbing beyond 45km from finish.",
+  "vulnerability": "Cracks on sustained climbs even of modest gradient when positioned poorly; struggles when high-tempo teams (notably Jumbo-Visma) accelerate without established position. GC form appears fragile over stage races.",
+  "key_patterns": [
+    "Superior positioning skills evident: Teunissen wheel at 150m, winning from reduced groups (2 observations)",
+    "Vulnerable to poor positioning under team accelerations, loses significant time in second/third groups (2 observations)",
+    "Cracks on climbs 45km+ from finish under sustained pressure, limiting GC viability (2 observations)",
+    "Tactical maturity: drives pace in leader jersey for team benefit, not just defensive (2 observations)",
+    "Benefits when rivals exhaust themselves with long attacks he can follow (Paris-Nice 2020 win pattern)"
+  ],
+  "form_trajectory": "negative: 2022 Paris-Nice showed clear decline—lost defending champion status through poor positioning and cracking on moderate climbs, dropping from yellow to off-podium",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "SCHACHMANN Max",
+  "built_from": [
+    "2020 Paris - Nice Stage 1",
+    "2020 Paris - Nice Stage 1",
+    "2020 Paris - Nice Stage 2",
+    "2022 Paris-Nice Stage 1",
+    "2022 Paris-Nice Stage 5"
+  ]
+}

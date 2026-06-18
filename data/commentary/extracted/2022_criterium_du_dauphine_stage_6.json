@@ -1,0 +1,25 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-10",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "FERRON Valentin attacked early from 6-man break with Bagioli present, exploited sprint hesitation as rivals marked Italian, held to line in Gap.",
+    "winner": "FERRON Valentin",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Powerful break formation caused peloton paralysis as multiple teams (Trek, UAE, Intermarché, FDJ) failed to organize unified chase, exhausting themselves.",
+      "Break exploited 4.6km descent entry as tipping point where chase became mathematically impossible despite tailwind-assisted speeds.",
+      "FERRON attacked at 1km exactly because rivals refused to chase marked sprinter BAGIOLI, creating prisoner's dilemma that broke sprint cooperation."
+    ],
+    "rider_signals": {
+      "FERRON Valentin": "positive: Recognized BAGIOLI's presence would cause tactical paralysis among break companions, timed solo launch to exploit this perfectly.",
+      "BAGIOLI Andrea": "negative: Refused to chase FERRON's early move despite being strongest sprinter, lost both tactically and physically when finally responding.",
+      "VAN AERT Wout": "neutral: Team explicitly preserving him for Alps rather than controlling break stage, signaling GC ambitions supersede stage hunting.",
+      "ROLLAND Pierre": "positive: Extended polka dot lead while infiltrating powerful break, showing climbers can opportunistically target points on non-mountain stages."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:35:41.251724+00:00"
+}

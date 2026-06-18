@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Launches decisive solo attacks from breakaways on technical descents in final kilometers, exploiting hesitation among chasers rather than pure power moves.",
+  "team_tactics": "Operates independently in long-range breakaways with minimal visible team support; relies on self-positioning and reading chase group dynamics.",
+  "terrain_preference": "Technical descents from established breakaway positions. Shows resilience on repeated climbs but strikes on downhill finales where tactical awareness matters more than raw climbing.",
+  "vulnerability": "Appears to struggle initially on categorized climbs (first Viveiro pass), requiring recovery efforts that expend energy before final moves.",
+  "key_patterns": [
+    "Consistently infiltrates long-range breakaways, maintaining position through high-speed openings and regrouping efforts.",
+    "Delivers strong performances across multiple stages, securing both stage win and runner-up finish.",
+    "Attacks solo from breakaway groups rather than leading out sprints, isolating rivals psychologically.",
+    "Benefits when chasers neutralize each other through tactical standoffs instead of organized pursuit."
+  ],
+  "form_trajectory": "positive: consecutive top results within single Grand Tour, showing both consistency and recovery ability across multi-stage efforts",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SOLAIRE Marc",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 8"
+  ]
+}

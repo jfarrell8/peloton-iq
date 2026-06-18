@@ -32,6 +32,7 @@ dependencies = [
     "dash>=4.2.0",
     "gpxpy>=1.6.2",
     "ruff>=0.15.17",
+    "boto3>=1.43.32",
 ]
 
 [project.optional-dependencies]

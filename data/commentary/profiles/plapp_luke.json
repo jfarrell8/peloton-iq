@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Versatile opportunist who strikes late in technical finales or executes sustained solo chases. Comfortable attacking in final kilometers with technical corners or uphill gradients up to 9%.",
+  "team_tactics": "Deployed as high-value domestique for GC protection, capable of solo bridge efforts and sprint lead-outs. Takes responsibility for neutralizing dangerous moves through individual firepower rather than team tempo.",
+  "terrain_preference": "Technical finales with criterium-style corners, uphill sprint gradients (9%), and headwind finishes where power-to-weight advantages apply. Shows unexpected GC-level climbing strength in stage race contexts.",
+  "vulnerability": "Limited observations suggest potential weakness in pure sprint positioning battles. Role as domestique may limit opportunities to showcase full capabilities in controlled bunch finishes.",
+  "key_patterns": [
+    "Late-race breakaway attempts in technical finales, forcing teams to chase deep (2 observations)",
+    "Solo chase/bridge efforts covering significant gaps to protect teammates or disrupt races (2 observations)",
+    "Versatile tactical deployment: sprint lead-outs on gradients and GC protection duties (3 observations)",
+    "Strong individual firepower in headwind/power-based scenarios, neutralizing solo attackers (2 observations)"
+  ],
+  "form_trajectory": "positive: All three observations from 2022 show proactive, high-quality interventions including GC-level climbing and technical handling confidence",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "PLAPP Luke",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 Tour de Romandie Stage 4",
+    "2022 Tour de Romandie Stage 4",
+    "2022 UAE Tour Stage 4"
+  ]
+}

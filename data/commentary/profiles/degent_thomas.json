@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who commits to long-range moves and preserves finishing speed for small group sprints at the finale.",
+  "team_tactics": "Minimal team support visible; operates as autonomous breakaway specialist hunting stage wins from reduced groups.",
+  "terrain_preference": "Stages conducive to breakaways that fragment into small finishing groups where tactical sprint skills determine outcomes; less suited to pure climbing or mass sprints.",
+  "vulnerability": "Late-race chase groups with strong pursuers create pressure; managed only 10-second margin against determined chasers at Giro 2022.",
+  "key_patterns": [
+    "Commits to breakaways with intent to finish, not just animate race.",
+    "Retains sprint speed in small groups after extended breakaway efforts.",
+    "Effective at age 35+ in selective breakaway scenarios requiring experience and timing."
+  ],
+  "form_trajectory": "positive: first Grand Tour stage win in 3 years indicates resurgence in breakaway finishing ability at 35+",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DEGENT Thomas",
+  "built_from": [
+    "2022 Giro d'Italia Stage 8",
+    "2022 Giro d'Italia Stage 8"
+  ]
+}

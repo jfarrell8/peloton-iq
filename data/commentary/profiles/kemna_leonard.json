@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Operates from breakaways, targeting terrain between climbs rather than summit finishes. Shows willingness to attack solo on transitional sections, but lacks ability to sustain efforts on long final climbs.",
+  "team_tactics": "Functions autonomously in breakaway scenarios with minimal visible team support. Engages in tactical negotiations with rivals (yielding stages for jersey considerations), suggesting calculated approach over raw aggression.",
+  "terrain_preference": "Transitional terrain between climbs and breakaway-friendly stages suit best. Exposed on long, sustained final climbs where caught despite significant advantages (51sec lead evaporated in 8km).",
+  "vulnerability": "Cannot defend advantages on extended final climbs against pure climbers. Caught 8km from finish on Etna despite substantial gap. Relies on breakaway math rather than climbing superiority.",
+  "key_patterns": [
+    "Operates from multi-rider breakaways (14-man group) rather than solo efforts from peloton",
+    "Attacks on transitional sections between climbs, not on steep gradients or summit finishes",
+    "Engages in jersey negotiations and tactical bargaining within breakaways (yielded stage for classification)",
+    "Unable to sustain climbing efforts: 51-second advantage disappeared over final 8km of climb"
+  ],
+  "form_trajectory": "neutral: Won from breakaway but also showed climbing limitations when caught despite large gap. Mixed results suggest opportunistic rather than dominant form.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KEMNA Leonard",
+  "built_from": [
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 4"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Launches explosive, early attacks even from compromised positions, relying on raw power rather than tactical positioning to compensate for disadvantageous starting points.",
+  "team_tactics": "Insufficient data to establish clear team setup patterns. Limited observations suggest team relies heavily on his individual presence rather than collective strategy.",
+  "terrain_preference": "Insufficient data for definitive terrain preference, though explosive power suggests suitability for punchy, short efforts rather than sustained climbs.",
+  "vulnerability": "Crash-prone, with single incident capable of collapsing team advantage; poor positioning discipline forces reliance on superior power to overcome tactical deficits.",
+  "key_patterns": [
+    "Compensates for positioning errors with explosive power rather than improving tactical placement.",
+    "Team structure vulnerable to his individual misfortune, suggesting central role in collective efforts."
+  ],
+  "form_trajectory": "unknown: observations too sparse and temporally separated (March to July 2023) to assess trajectory reliably",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "STRONG Corbin",
+  "built_from": [
+    "2023 Tour de France Stage 19",
+    "2023 Volta Ciclista a Catalunya Stage 4"
+  ]
+}

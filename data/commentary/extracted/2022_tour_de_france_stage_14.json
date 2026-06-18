@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-16",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won from a 23-rider breakaway after attacking at 50km to go, dropped BETTIOL on final climb with 500m remaining after Italian had bridged solo.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR attacked with 180km remaining forcing VINGEGAARD to chase alone, revealing Jumbo's willingness to let UAE burn energy early.",
+      "MATTHEWS attacked 50km out from large breakaway then defended on final climb, showing early aggression beats late positioning in reduced groups.",
+      "MOHORIČ 15+ minutes down allowed into break, demonstrating GC teams now permit even dangerous TTers freedom when sufficiently behind overall.",
+      "BETTIOL bridged solo to MATTHEWS on final climb but lacked acceleration to finish, confirming diesel riders vulnerable in final 500m gradients."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: Won at 38 years old after early 50km attack and defensive climb, peak timing defies age decline narrative.",
+      "POGAČAR Tadej": "neutral: Probing attack at 180km out forced but unsuccessful, suggests testing Jumbo's cohesion rather than genuine GC move.",
+      "BETTIOL Alberto": "negative: Made heroic solo bridge on climb but couldn't finish Matthews, confirms lack of explosive finish after extended efforts.",
+      "EWAN Caleb": "negative: Isolated immediately after Pogačar attack and chased by broom wagon, BikeExchange domestique shortage exposed on transitional stages.",
+      "THOMAS Geraint": "negative: Struggled to hold Vingegaard/Pogačar wheel and needed YATES Adam's help, third place increasingly vulnerable on any selection.",
+      "MOHORIČ Matej": "positive: Positioned as most dangerous GC threat in break despite 15min deficit, Bahrain's new freedom for stage hunting confirmed."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:50:47.701350+00:00"
+}

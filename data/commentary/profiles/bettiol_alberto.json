@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Launches ambitious long-range solo attacks (40+ km to go) on rolling/hilly terrain, but lacks the explosiveness to finish after extended efforts. Prefers sustained efforts over punchy accelerations.",
+  "team_tactics": "Versatile domestique role - willing to pull hard for team leaders (e.g., POGACAR before cobbles), but shows independence with personal ambitions in breakaways. Team provides full lead-out support when given opportunity.",
+  "terrain_preference": "Best suited to rolling classics-type terrain and cobbled sections where his diesel engine thrives. Exposed on sustained climbs with uphill finishes (20km+) and in explosive sprint finishes after hard racing.",
+  "vulnerability": "Cannot convert positioning or bridge efforts into wins when explosive finish required. Fades in sprints even with full team support. Struggles to sustain power through long uphill finishes after extended solo efforts.",
+  "key_patterns": [
+    "Heroic long-distance solo efforts that fail to hold through finish (3 observations)",
+    "Lacks explosive sprint finish after hard racing or from good position (3 observations)",
+    "Shows team versatility pulling for leaders but maintains personal ambitions (2 observations)",
+    "Form inconsistency: stage wins followed by early fades in similar scenarios (2 observations)"
+  ],
+  "form_trajectory": "negative: Multiple 2022-2023 observations show inability to convert efforts into results, fading in sprints, and team friction signals declining role/form",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "BETTIOL Alberto",
+  "built_from": [
+    "2020 UAE Tour Stage 3",
+    "2022 Tour de France Stage 10",
+    "2022 Tour de France Stage 14",
+    "2022 Tour de France Stage 5",
+    "2022 Tour de Suisse Stage 4",
+    "2023 Tour de France Stage 9"
+  ]
+}

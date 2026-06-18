@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data on attacking patterns. Observations focus on defensive riding while in leader's jersey rather than offensive moves.",
+  "team_tactics": "Limited evidence of team positioning support; appears to lack adequate protection in dangerous finale situations despite holding race lead.",
+  "terrain_preference": "Unknown from available data. Observations only capture finale positioning issues rather than terrain-specific performance.",
+  "vulnerability": "Exposed in technical finales and bunch positioning - crashed on consecutive days inside final kilometers despite wearing leader's jersey, suggesting poor positioning discipline or inadequate team protection.",
+  "key_patterns": [
+    "Crashes in final 3km on consecutive days while in race lead (2 observations)",
+    "Positioning discipline problems in dangerous finale situations when needing defensive riding (2 observations)",
+    "Vulnerable when requiring protective positioning rather than offensive racing (2 observations)"
+  ],
+  "form_trajectory": "negative: back-to-back crashes while holding race lead suggest either positioning errors under pressure or insufficient team support in critical moments",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "TARAMAE Rein",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 5"
+  ]
+}

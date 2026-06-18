@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-07",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won with a perfectly timed sprint after Cavendish led out too early from 600m, securing his third stage win.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LATOUR Pierre attacked with 75km to go from peloton to bridge, unusual aggression for breakaway points in flat stage.",
+      "DECEUNINCK Quick-Step had CAVENDISH lead out from 600m, approximately 200m too early for optimal sprint positioning.",
+      "LOTTO Destiny controlled pace despite teammate not being primary sprinter, revealing team commitment to Phillips sprint train protection."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Five consecutive stage wins across two Tours demonstrates unmatched sprint form and timing superiority",
+      "CAVENDISH Mark": "negative: Second place is his best Tour sprint result yet, suggesting age/timing disadvantage against peak Philipsen",
+      "VAN AERT Wout": "negative: Fifth place shows he's not competitive in pure sprints this Tour unlike previous editions",
+      "LATOUR Pierre": "neutral: Unusual 75km solo effort from mid-race suggests hunting points classification rather than stage win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:22:49.244793+00:00"
+}

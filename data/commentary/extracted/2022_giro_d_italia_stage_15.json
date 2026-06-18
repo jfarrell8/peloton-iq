@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-22",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CICCONE attacked on steep lower slopes of 22km final climb, dropped BUITRAGO and CARTHY to win solo with 10km remaining",
+    "winner": "CICCONE Giulio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS controlled conservatively despite race-leading jersey, spending no energy when 30-rider break contained no GC threats.",
+      "CICCONE timed attack precisely on steepest early gradients of 22km climb, exploiting bite before shallower summit section.",
+      "BALMER hit first Category 1 climb hard purely for mountains jersey points, sacrificing stage position for classification play.",
+      "MATHA gained 2 minutes on GC group by continuing solo adventure while favorites watched each other passively behind."
+    ],
+    "rider_signals": {
+      "CICCONE Giulio": "positive: first win since pre-pandemic after years of poor form suggests career resurgence, seized initiative alone 10km from finish",
+      "CARTHY Hugh": "negative: dropped then fought back to front group showing determination, but ultimately shed again on steep opening of final climb",
+      "BUITRAGO Santiago": "positive: initially matched CICCONE's acceleration on Vedania and looked comfortable before final climb split",
+      "CARAPAZ Richard": "neutral: survived crash early in stage to retain pink, INEOS rode conservatively suggesting defensive posture with jersey",
+      "MATHA Valentin": "positive: GC climber gained 2 minutes by continuing solo while GC group refused to chase, moved into top 10"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:38:23.393484+00:00"
+}

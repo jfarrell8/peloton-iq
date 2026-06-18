@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Launches attacks extremely early (kilometer 1) on transition stages, forcing large breakaways before sprint teams organize. Opportunistic counter-attacker when peloton fractures mid-race.",
+  "team_tactics": "Operates with high autonomy, initiating breaks independently without visible team setup. No evidence of domestique support or coordinated positioning—pure freelance attacking.",
+  "terrain_preference": "Transition stages and technical courses where early aggression can succeed before sprint teams commit. Technical descents favor his early timing ability over pure climbers.",
+  "vulnerability": "Lacks explosive finish to survive final selections within breakaways (37km marker). Cannot match pure finishers when breaks get whittled down in closing kilometers.",
+  "key_patterns": [
+    "Attacks in opening kilometer on at least two occasions, forcing oversized breakaways.",
+    "Misses final selections within breaks; strong enough to initiate but not finish.",
+    "Sets early benchmark times on technical stages, suggesting time-trial capability and course reading.",
+    "Counter-attacks during peloton disruptions showing opportunistic rather than pre-planned aggression."
+  ],
+  "form_trajectory": "neutral: Consistent opportunistic attacking pattern but no stage results across July-August period",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DE GENDT Thomas",
+  "built_from": [
+    "2019 Tour de France Stage 13",
+    "2019 Tour de France Stage 17",
+    "2019 Tour de France Stage 17",
+    "2019 Vuelta a Espana Stage 3"
+  ]
+}

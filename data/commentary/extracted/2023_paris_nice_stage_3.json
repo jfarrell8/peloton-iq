@@ -1,0 +1,25 @@
+{
+  "label": "2023 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-07",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won Stage 3 TTT by 1.4 seconds over Jumbo-Visma, taking yellow jersey as individual time determined team result under new format rules.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jayco-AlUla dominated intermediate check by 22.7 seconds, revealing superior pacing strategy in early headwind sections before fading.",
+      "POGACAR attacked own teammates in final meters exploiting new TTT format where individual GC times taken separately.",
+      "Jumbo-Visma brought three riders to line together prioritizing team time over individual GC gains, tactical miscalculation under new rules."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: Won stage by attacking solo in final meters, demonstrating ability to extract individual time under new TTT format",
+      "POGACAR Tadej": "positive: Attacked own teammates in finale showing understanding new rules allowed individual GC time theft from team",
+      "GOUDOU David": "positive: Given armchair ride by KÜNG Stefan suggesting UAE prioritizing his GC position over pure team result",
+      "VINGEGAARD Jonas": "neutral: Jumbo brought three riders to line together gaining only 2-second GC advantage over VINGEGAARD despite stage win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:09:41.169480+00:00"
+}

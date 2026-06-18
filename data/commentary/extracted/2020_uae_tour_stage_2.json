@@ -1,0 +1,25 @@
+{
+  "label": "2020 UAE Tour Stage 2",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-24",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai attacked with 2.5km to go on Falls Creek, dropped all WorldTour rivals except HOWSON Damien and amateur BERWICK Sebastian who led out the sprint.",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelson-Scott reeled back all breakaway moves at 13km out, controlling tempo until Hindley's decisive 2.5km attack.",
+      "BERWICK Sebastian (Nero Continental) survived WorldTour selections and led sprint, suggesting domestic Continental riders merit closer pre-race assessment.",
+      "MORTON Lachlan's big-gear attack mid-climb immediately drew chase response, revealing he lacks acceleration surprise despite alternative race fitness."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: dropped early on Falls Creek despite pre-race favorite status, significant form deficit versus Vuelta-winning baseline",
+      "HOWSON Damien": "positive: matched Hindley's 2.5km attack and finished second, showing Sunweb had dual cards despite Hindley taking leadership",
+      "BERWICK Sebastian": "positive: only non-WorldTour rider in final selection, led out sprint showing Continental riders can survive 15km climbs at WT intensity",
+      "MORTON Lachlan": "neutral: ultra-endurance base translated to strong mid-climb attack but lacked acceleration to stay clear of organized chase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:24:20.426369+00:00"
+}

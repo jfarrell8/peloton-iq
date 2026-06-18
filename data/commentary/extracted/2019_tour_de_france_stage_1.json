@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNISSEN Mike won bunch sprint after BORA forced pace at 75km causing VIVIANI puncture, then GROENEWEGEN crashed 1.5km out.",
+    "winner": "TEUNISSEN Mike",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA accelerated at 75km on Pave Tim section to split peloton, allowing SAGAN uncontested intermediate sprint points.",
+      "VAN AVERMAET took breakaway KOM solely for polka dot jersey then immediately abandoned effort, pure jersey hunting.",
+      "TEUNISSEN as GROENEWEGEN's leadout man launched sprint 250m out when leader crashed, opportunistic role reversal success."
+    ],
+    "rider_signals": {
+      "TEUNISSEN Mike": "positive: leadout man won stage after leading out early at 250m, suggests underestimated finishing speed",
+      "VIVIANI Elia": "negative: caught out by BORA's 75km pave acceleration with puncture, positioning vulnerability revealed",
+      "GROENEWEGEN Dylan": "negative: crashed 1.5km out as stage favorite, lost opportunity despite team controlling",
+      "SAGAN Peter": "positive: BORA's strategic acceleration secured uncontested intermediate sprint points, proactive green jersey tactics",
+      "EWAN Caleb": "neutral: boxed in final sprint despite 3rd place, positioning issue cost potential victory",
+      "FUGLSANG Jakob": "negative: crashed 18km out with facial injuries but rejoined, early Tour vulnerability signal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:12:43.244298+00:00"
+}

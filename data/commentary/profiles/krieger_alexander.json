@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; converts from lead-out duties to opportunistic sprint when designated sprinter fails to hold position.",
+  "team_tactics": "Functions as lead-out man for designated sprinter (Modolo), but team coordination shows fragility with disconnection issues at critical moments.",
+  "terrain_preference": "Sprint stages where lead-out work transitions to personal opportunities; struggles when team cohesion breaks down in finale.",
+  "vulnerability": "Dependent on team sprint structure; exposed when lead-out plans collapse and forced into reactive rather than planned sprint positioning.",
+  "key_patterns": [
+    "Transitions from lead-out to personal sprint when primary sprinter disconnects from train.",
+    "BikeExchange sprint coordination failures create unplanned opportunities rather than structured finishes.",
+    "Strong enough individually to contest sprints but lacks independent positioning framework."
+  ],
+  "form_trajectory": "neutral: showed individual strength to contest sprint opportunistically but within dysfunctional team context",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KRIEGER Alexander",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 13"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Prefers breakaway positioning over late attacks. Shows tactical creativity by attacking on flat terrain rather than steep climbs, though lacks explosive power on gradient.",
+  "team_tactics": "Limited team support visible; operates independently in breakaways, managing group politics and positioning solo without heavy domestique support.",
+  "terrain_preference": "Thrives on sustained climbing efforts where engine beats pure power. Final climbs suit him better than steep punchy gradients. Vulnerable on explosive steep terrain.",
+  "vulnerability": "Lacks sufficient power advantage on steep gradients. Relies on endurance over explosivity, making him susceptible to pure climbers on pitches.",
+  "key_patterns": [
+    "Succeeds from breakaways rather than bunch sprints or late attacks (2 races)",
+    "Strong on final climbs when race is already selective (2 races)",
+    "Chooses tactical positioning over raw power, surviving group dynamics (2 races)"
+  ],
+  "form_trajectory": "positive: Won from 18-rider breakaway holding off Roglic surge, showing strong climbing endurance on final ascent",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VERONA Carlos",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 Tour de Romandie Stage 3"
+  ]
+}

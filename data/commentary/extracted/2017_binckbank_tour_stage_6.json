@@ -1,0 +1,16 @@
+{
+  "label": "2017 BinckBank Tour Stage 6",
+  "race_name": "BinckBank Tour",
+  "race_date": "2017-08-12",
+  "stage": 6,
+  "channel": "GCN",
+  "extraction": {
+    "one_line_summary": "This transcript covers only Peter Sagan's bike equipment presentation, not race tactics from 2017 BinckBank Tour Stage 6.",
+    "winner": "N/A",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-17T21:06:38.243025+00:00"
+}

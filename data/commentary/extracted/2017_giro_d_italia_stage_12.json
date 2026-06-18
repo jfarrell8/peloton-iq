@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-18",
+  "stage": 12,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won the 229km bunch sprint after DUMOULIN Tom's QuickStep delivered him through late-race compression chaos.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Zuppa Eugert attacked solo under 1km exploiting bunch compression through double curves before being caught.",
+      "UAE's Ferrari Roberto positioned maglia rosa Dumoulin late despite not having sprint leader, revealing protective tactical depth.",
+      "QuickStep delivered Gaviria through technical curves sub-1km rather than opening from 3km, adapting to compression risk."
+    ],
+    "rider_signals": {
+      "ZUPPA Eugert": "positive: Albanian showed unusual sprint-stage aggression by soloing under flamme rouge through technical section",
+      "MORESCO Andrea": "positive: Second place suggests Wilier-Triestina's sprint train can function on mega-distance stages when others fade",
+      "BENNETT Sam": "neutral: Third after 229km indicates durability but QuickStep's technical positioning beat pure speed",
+      "DUMOULIN Tom": "neutral: UAE positioned him aggressively late despite no sprint interest, suggesting team anxiety about GC positioning",
+      "FRAILE Omar": "positive: Proactively took final KOM points from break to extend jersey lead, showing classification awareness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:07:21.197758+00:00"
+}

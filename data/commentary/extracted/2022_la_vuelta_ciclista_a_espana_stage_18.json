@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 18",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-08",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won the uphill finish at Puerto de Ancares after bridging to breakaway remnants, taking bonus seconds to extend GC lead.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Evenepoel countered defensively by attacking himself after sustaining constant pressure, flipping energy expenditure onto rivals.",
+      "43-rider breakaway became GC battleground when Almeida bridged at 5+ minutes, forcing Astana to chase for Lopez.",
+      "Carthy and Higuita detonated oversized break from within, thinning it before GC favorites could establish control.",
+      "Hessing caught with 200m remaining after solo move, revealing final climb gradient insufficient for decisive separation."
+    ],
+    "rider_signals": {
+      "VINE Jay": "negative: crashed out while leading KOM, losing competition with only modest 20-point margin over Carapaz",
+      "ALMEIDA João": "positive: bridged 5+ minute gap from GC group to join breakaway, forcing rivals to chase him",
+      "EVENEPOEL Remco": "positive: transitioned from defensive racing to attacking himself, then won stage taking bonus seconds",
+      "RODRIGUEZ Carlos": "negative: crashed in morning, struggled on final climb despite Carapaz pacing efforts",
+      "HESSING Rob": "negative: domestique breakaway attempt failed 200m from line despite solo effort on final climb",
+      "MAS Enric": "negative: lost six seconds and GC position to Evenepoel despite being in final sprint group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:43:26.966589+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Sprinter who launches from the front after climbs, capitalizing on positioning chaos and surviving moderately hard terrain that eliminates pure sprinters.",
+  "team_tactics": "Groupama-FDJ controls pace on long, shallow climbs (20km at 4%) to thin the sprint field, positions Demar at front for finale after regrouping post-climb.",
+  "terrain_preference": "Rolling stages with long, shallow gradients (4%) that drop pure sprinters but allow him to survive and contest reduced bunch sprints.",
+  "vulnerability": "Reliant on opportunistic wins when lead-out trains fail; dropped on climbs requiring team support to regain contact before finales.",
+  "key_patterns": [
+    "Won both stages after chaos disrupted organized lead-out trains in final kilometer.",
+    "Gets dropped on climbs but rejoins peloton, then immediately deploys team tactically.",
+    "Team paces climbs specifically to eliminate pure sprinters like Cavendish and Ewan.",
+    "Executes front-running sprints without traditional lead-out after regaining contact post-climb."
+  ],
+  "form_trajectory": "positive: back-to-back Giro stage wins showing peak form, surviving climbs and capitalizing on chaos",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DEMAR Arnold",
+  "built_from": [
+    "2022 Giro d'Italia Stage 5",
+    "2022 Giro d'Italia Stage 5",
+    "2022 Giro d'Italia Stage 6",
+    "2022 Giro d'Italia Stage 6"
+  ]
+}

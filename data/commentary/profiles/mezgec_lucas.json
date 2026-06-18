@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker. Functions as a lead-out rider for sprinters, tasked with high-speed positioning work in the final kilometers before the sprint.",
+  "team_tactics": "Deployed as primary domestique for sprint lead-out (specifically for EWAN). Expected to maintain tempo and chase down moves in final 2km, even when isolated.",
+  "terrain_preference": "Flat sprint finishes where his lead-out capabilities are utilized. Exposed when team numbers are depleted and sustained wind-taking is required.",
+  "vulnerability": "Collapses when forced into extended solo chase work without team rotation. Seven-rider team formats leave him critically isolated before key sprint positioning phase begins.",
+  "key_patterns": [
+    "Sacrifices own sprint chances to perform lead-out duties for team sprinter EWAN.",
+    "Struggles to maintain effectiveness when isolated without teammates to share wind-taking rotation.",
+    "Compromised in reduced team formats where domestique depth is insufficient for proper sprint train."
+  ],
+  "form_trajectory": "unknown: single observation shows tactical role vulnerability rather than individual form indicators",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MEZGEC Lucas",
+  "built_from": [
+    "2017 Tour de Pologne Stage 1",
+    "2017 Tour de Pologne Stage 1"
+  ]
+}

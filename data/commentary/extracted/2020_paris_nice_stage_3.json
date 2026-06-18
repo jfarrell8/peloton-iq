@@ -1,0 +1,29 @@
+{
+  "label": "2020 Paris - Nice Stage 3",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-10",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORTINA Ivan sprinted from distance taking advantage of Hofstetter-Ewing crash at 150m that eliminated Bennett and Ewan",
+    "winner": "CORTINA Ivan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Decuninck-QuickStep aggressively forced crosswind splits post-intermediate sprint at 19km despite headwind forecast, creating sustained tension.",
+      "Cofidis leadout for Viviani completely invisible in finale, suggesting poor positioning discipline despite having dedicated train.",
+      "Cortina launched sprint at 150m—unusually early—but chaos from crash gave him clear road to hold power.",
+      "Sagan positioned perfectly pre-crash, suggesting his classics positioning instincts trump pure sprinter trains on technical finishes."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: eliminated by Hofstetter crash at 150m, hand injury with blood visible, finish uncertain",
+      "EWAN Caleb": "negative: taken out by Hofstetter bike tangle despite Lotto-Soudal controlling into final 2km",
+      "SAGAN Peter": "positive: second place despite no leadout, positioning judgment superior on chaotic technical finish",
+      "VIVIANI Elia": "negative: invisible with Cofidis leadout, sprint timing poor waiting until 150m then missing chaos advantage",
+      "CORTINA Ivan": "positive: recognized crash chaos instantly, committed to early 150m sprint with confidence to hold power",
+      "HOFSTETTER Hugo": "negative: bike tangled with Ewing wheel, caused crash eliminating sprint favorites",
+      "ALVAREZ Julián": "negative: worst injured in earlier crash, finished last on stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:23:35.032824+00:00"
+}

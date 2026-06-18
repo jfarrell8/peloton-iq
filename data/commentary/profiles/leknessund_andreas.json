@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who prioritizes strategic GC gains and bonus seconds over outright stage wins, showing tactical maturity beyond years in multi-rider breakaways.",
+  "team_tactics": "Operates with autonomy in breakaways, team does not commit to defending high GC positions, allowing rider freedom to hunt stages from breaks rather than defensive pacing.",
+  "terrain_preference": "Breakaway-friendly stages where tactical positioning and bonus seconds can be harvested; less suited to sustained GC defense requiring team support.",
+  "vulnerability": "Lacks team depth to defend elevated GC positions; accepts losses in maglia rosa rather than attempting futile defense, suggesting weakness in extended high-pressure GC battles.",
+  "key_patterns": [
+    "Prioritizes bonus seconds in breakaways over stage victories when GC opportunities exist (2 observations)",
+    "Shifts tactics from GC positioning to stage hunting after losing defended position (2 observations)",
+    "Displays tactical maturity in breakaway decision-making despite young age, 23 years old (2 observations)"
+  ],
+  "form_trajectory": "neutral: Transitioned from unexpected GC contention to stage hunting role as expected, maintaining competitive positioning 1:48 down without defending",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LEKNESSUND Andreas",
+  "built_from": [
+    "2023 Giro dItalia Stage 4",
+    "2023 Giro dItalia Stage 9"
+  ]
+}

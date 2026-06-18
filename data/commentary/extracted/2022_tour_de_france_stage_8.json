@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-09",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "WOUT VAN AERT won Stage 8 into Lausanne with a perfectly timed sprint in final 150m on uphill finish, beating Matthews and taking 4-second bonus on Pogacar.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled peloton for Van Aert despite having yellow jersey, revealing dual sprint/GC objective hierarchy.",
+      "Wright survived solo longer than Cattaneo despite Cattaneo's initial strength, suggesting Wright's superior pacing on long breakaway efforts.",
+      "GC teams protected leaders through technical finale despite sprint stage classification, showing wind/crash nervousness influenced positioning tactics."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: won uphill sprint against Matthews after team paced entire finale, demonstrating Jumbo prioritizes his stages even with Vingegaard in GC hunt",
+      "MATTHEWS Michael": "negative: launched first in final 150m but couldn't hold off Van Aert, suggesting his uphill sprint timing remains premature",
+      "WRIGHT Fred": "positive: only breakaway survivor with 3.5km to go despite being caught, showed stronger diesel engine than U23 Giro winner Cattaneo",
+      "HOYDUNK Neilson": "neutral: described as hardest working domestique controlling breakaway gap, signaling potential for future breakaway policing role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:53:49.753396+00:00"
+}

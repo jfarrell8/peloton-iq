@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-06",
+  "stage": 6,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won Stage 6 from 8th position with 200m remaining, using a late outside slingshot off Kristoff after his team got swamped earlier in the finale.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quick-Step positioned early but got swamped by Dimension Data's aggressive approach through two late roundabouts (1km and 400m out).",
+      "Kittel's extreme power reserves allow deliberate late positioning (8th at 200m) as viable tactic versus traditional leadout dependency.",
+      "Roundabouts at 1km and 400m counterintuitively stretched peloton and reduced crash risk despite appearing more dangerous.",
+      "Sabatini's controlled tempo string-out served Kittel better than traditional high-speed leadout in this messy positioning battle."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Second win suggests green jersey viability despite pre-race favoritism for Sagan; raw power compensates for positioning chaos",
+      "DEMARE Arnaud": "neutral: Consistent second-place finishes taking points but losing 13 points/stage differential makes green jersey defense mathematically difficult",
+      "KRISTOFF Alexander": "neutral: Unwitting launch pad for Kittel's slingshot but Holler's protest suggests team uncomfortable with barriers positioning tactics",
+      "MATTHEWS Michael": "neutral: Commentary identifies him as breakaway threat in medium mountain stages to accumulate green jersey points when pure sprinters dropped"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:11:29.228121+00:00"
+}

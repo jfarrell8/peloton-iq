@@ -1,0 +1,26 @@
+{
+  "label": "2019 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-05",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe attacked solo on the steep Alto de Arriaz wall (2.4km at 20%) with 8km remaining, held off chasers Aranburu and Barcelo by 5 seconds after a tense descent into Bilbao.",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Break formation delayed until 60km to go after 100km of attacks due to rest day creating excessive fresh legs.",
+      "Gilbert's double acceleration on steep gradients (20%) cracked Barcelo when single surge couldn't, exposing punchy climber vulnerability to repeated efforts.",
+      "Jumbo Visma deployed Bennett alone in finale while rivals had multiple riders, revealing GC confidence with minimal domestique support."
+    ],
+    "rider_signals": {
+      "GILBERT Philippe": "positive: At 37, out-of-saddle sprinting on 20% grades then holding off chasers on descent shows exceptional late-season form pre-Worlds",
+      "LASTRA Jonathan": "positive: Attacked hard day after 2nd place finish, demonstrating recovery ability that most breakaway specialists lack",
+      "DECLERCQ Tim": "positive: Bridged 4-minute gap on climbs to catch leaders despite being known pure domestique, showing hidden climbing capacity",
+      "BENNETT George": "neutral: Last remaining Roglic domestique on final climb among 20 riders suggests either tactical choice or team weakness",
+      "DEGENKOLB John": "negative: Already dropped on first third-category climb despite fresh legs from rest day, signaling poor climbing form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:18:39.422377+00:00"
+}

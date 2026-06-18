@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-08",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp won solo from the breakaway after being given freedom by Jumbo-Visma with Roglic secure, attacking final climb at 17% gradient.",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma placed Kuss in break then let him ride for himself, using team leader's GC security to harvest stage win.",
+      "Valverde attacked at 7km to go on summit finish, only Roglic could follow, immediately isolating Lopez without teammates.",
+      "Astana/Movistar coalition paced at base of final climb trying to pressure Roglic, but inadvertently dropped their own GC leaders.",
+      "Kiryienka attacked 6km before final climb solo from chase group, unusual proactive Ineos tactic when likely missing break success."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: domestique showed stage-winning climbing legs when given freedom, caught multiple chasers on 17% gradient despite day-long effort",
+      "VALVERDE Alejandro": "positive: only rider able to follow Roglic when attacking at 7km, gained 40s on other GC contenders at stage 15",
+      "QUINTANA Nairo": "negative: dropped again from GC group on final climb, explicitly noted as 'far from his best' on brutal mountain stage",
+      "POGACAR Tadej": "neutral: sat on Lopez wheel throughout final climb despite racing for young rider classification, passive tactics against direct rival",
+      "LOPEZ Miguel Angel": "negative: isolated by Valverde attack with Fuglsang unable to pace, lost 40s despite having Astana teammate present"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:19:16.326157+00:00"
+}

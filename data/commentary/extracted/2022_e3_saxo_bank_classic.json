@@ -1,0 +1,27 @@
+{
+  "label": "2022 E3 Saxo Bank Classic",
+  "race_name": "E3 Saxo Bank Classic",
+  "race_date": "2022-03-25",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won after JUMBO-VISMA occupied all three front positions entering the Paterberg at 36km to go, splitting the race decisively with only LAPORTE able to follow.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUMBO-VISMA's triple front occupation entering Paterberg (36km out) created race-winning split despite 20-rider lead group existing moments before.",
+      "LAPORTE sacrificing individual result by bridging to VAN AERT rather than contesting third enabled perfect team 1-2 execution.",
+      "INEOS bringing gap down specifically to enable LEVIOUS bridge attempt shows desperation tactics when lacking pure climbers for Berg selections.",
+      "Chase group organizing rotations over cobbled climbs proves futile when deficit reaches 20 seconds post-Paterberg, suggesting critical threshold for irreversible splits."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Second time this season executing 2-rider breakaway with teammate from world-class field reveals unprecedented dominance pattern.",
+      "GIRMAY Biniam": "positive: Fifth place at age 21 in debut cobbled classic marks him as legitimate threat for future monument contention.",
+      "ASGREEN Kasper": "negative: Defending champion unable to follow Paterberg acceleration and relegated to chase group suggests form decline.",
+      "KÜNG Stefan": "positive: Solo attack from chase group for third shows others lacked sprint confidence, tactical opportunity identification.",
+      "LEVIOUS Jonathan": "neutral: Successfully bridged 80km effort but dropped on Paterberg reveals excellent diesel engine but insufficient explosive power for decisive climbs."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:36:38.478277+00:00"
+}

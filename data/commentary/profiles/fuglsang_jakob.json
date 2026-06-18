@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Primarily a position-holder rather than explosive attacker; stays present in key selections on climbs but lacks final Monument-winning punch on decisive terrain.",
+  "team_tactics": "Functions as high-level domestique on GT mountain stages when healthy, sacrificing own position to support GC leaders (notably Aru in 2017).",
+  "terrain_preference": "One-day Monument terrain (evidenced by Il Lombardia 4th) suits better than Grand Tour mountains where injury vulnerability and team duties limit impact.",
+  "vulnerability": "Catastrophic crash susceptibility at Tour de France specifically—crashed in 3 of 3 observed Tours, including race-ending abandon while top-10 GC contender.",
+  "key_patterns": [
+    "Tour de France crash pattern: injured in every observed appearance (2017 arm, 2019 facial/abandon).",
+    "Lacks winning acceleration in Monument finals despite consistent selection presence (Il Lombardia 4th).",
+    "Injury timing clusters before/during mountain stages, eliminating GC contention or domestique effectiveness.",
+    "Performs stronger in one-day races than multi-week GTs when crash-free."
+  ],
+  "form_trajectory": "neutral: 2019 Lombardia 4th showed peak season form, but Tour abandon from crash (not fitness) prevents clear trajectory assessment",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "FUGLSANG Jakob",
+  "built_from": [
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 12",
+    "2019 Il Lombardia",
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 16"
+  ]
+}

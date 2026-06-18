@@ -1,0 +1,27 @@
+{
+  "label": "2022 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-23",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR won mountain sprint finish on Jebel Jais after UAE train with PLAPP launching final kilometer, holding off YATES and VLASOV despite GUERRERO's attack.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PLAPP Australian champion executed lead-out at barriers for UAE despite mountain finish, unusual domestique sprint train deployment uphill.",
+      "EGGHORM and RASTELLI two-man break on mountain stage reveals no GC teams willing to burn matches controlling early.",
+      "UAE extinguished every attack via POGACAR personally after domestiques exhausted, showing leader forced into defensive riding mode pre-finale.",
+      "GUERRERO attacked inside flamme rouge forcing POGACAR's hand rather than allowing tactical regrouping into pure sprint."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: dropped on Jebel Jais after third-place time trial previous day, showing recovery deficit from TT efforts",
+      "GANNA Filippo": "positive: finished only two seconds down in mountain sprint despite pure TT physiology, unexpected climbing form",
+      "PLAPP Luke": "positive: executed sprint lead-out on 9% gradient at 1500m to go, Australian champion showing versatile tactical range",
+      "GUERRERO Ruben": "neutral: initiated decisive move inside flamme rouge but lacked finishing speed to hold off Pogacar group",
+      "PHILIPSEN Jasper": "positive: top-ten time trial result as pure sprinter signals unusual stage race form depth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:57:00.952212+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking pattern. Single observation shows premature acceleration in technical city circuit finish without proper timing.",
+  "team_tactics": "Team (BORA) appears to use this rider as leadout support rather than protected finisher, with established sprinters positioned in his wheel for final acceleration.",
+  "terrain_preference": "Unknown - single technical city circuit finish observed where rider struggled with timing and positioning, suggesting flat sprint finishes may not be optimal terrain.",
+  "vulnerability": "Technical sprint finishes expose poor timing and pacing discipline; lack of team support infrastructure leaves rider isolated when committing early without protected position.",
+  "key_patterns": [
+    "Functions as leadout domestique rather than protected finisher in team sprint hierarchy.",
+    "Struggles with sprint timing discipline, initiating efforts too early before optimal launch window.",
+    "Positioned ahead of primary team sprinters, serving as penultimate leadout man role."
+  ],
+  "form_trajectory": "unknown: Single race observation insufficient to determine trajectory, though negative performance signal suggests developmental phase",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GERMAINE Biniam",
+  "built_from": [
+    "2022 Eschborn-Frankfurt",
+    "2022 Eschborn-Frankfurt"
+  ]
+}

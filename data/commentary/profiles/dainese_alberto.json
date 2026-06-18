@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Pure sprint finisher who excels in messy, disrupted situations requiring improvisation. Demonstrates ability to win from compromised positions rather than textbook leadouts, particularly effective in tight, technical finales.",
+  "team_tactics": "Evolved from domestique/leadout role to protected sprinter (2020-2023). Wins often come when traditional leadout trains fail or teammates absent, suggesting reliance on individual positioning over organized trains. DSM showed confused hierarchy in earlier races.",
+  "terrain_preference": "Flat bunch sprints with technical corners where bike handling compensates for positioning. Exposed on steep gradients and final climbs, suggesting weight/power-to-weight disadvantage limits him to pure flat stages.",
+  "vulnerability": "Positioning in predictable, high-speed finales (caught 50th in criterium). Distanced on steep climbs. Most success comes when chaos disrupts stronger leadout teams, suggesting pure power deficit against top-tier sprinters in organized sprints.",
+  "key_patterns": [
+    "Wins from disrupted sprints: crash at 2.3km (Vuelta), teammate illness (Giro), compromised position (UAE). 3+ instances.",
+    "Career trajectory: domestique to leadout to protected sprinter (2020-2023), multiple signals of miscast role.",
+    "Superior bike handling in technical finales: tight corners, messy situations. Confirmed across 3 races.",
+    "Consistent weakness on climbs/gradients despite pure sprinter classification. Noted in 2 separate observations.",
+    "Beats top sprinters (Gaviria, Ewan, Cavendish, Ganna) when leadout advantage neutralized by race circumstances."
+  ],
+  "form_trajectory": "positive: 2023 Vuelta win showed tactical maturity, self-sufficiency without team support. Evolution from opportunistic wins to adaptable, complete sprinter confirmed over 4-year span.",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "DAINESE Alberto",
+  "built_from": [
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 3",
+    "2020 UAE Tour Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 19",
+    "2023 Tirreno-Adriatico Stage 7"
+  ]
+}

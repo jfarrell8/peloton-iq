@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a traditional attacker - operates as sprint finisher when opportunity arises. Capable of converting unplanned sprint situations in final kilometers through powerful finishing throw.",
+  "team_tactics": "Functions primarily as Deceuninck domestique/leadout man with ability to pivot to finisher role when designated sprinter unavailable. Capable of solo leadout work that strings out entire peloton.",
+  "terrain_preference": "Flat sprint stages where his leadout power and finishing speed both have value. Strong enough to handle demanding finales that shed pure sprinters.",
+  "vulnerability": "Role clarity - positioned as support rider rather than protected finisher. May lack full sprint train support when stepping into opportunistic finisher role.",
+  "key_patterns": [
+    "Demonstrates dual capability: powerful leadout work and competitive sprint finish in same race",
+    "Successfully adapts role mid-race from domestique to finisher when circumstances require",
+    "Leadout power sufficient to single-handedly string out fields, creating selection pressure"
+  ],
+  "form_trajectory": "positive: showed versatility and strong form at Vuelta, both in leadout duties and opportunistic sprint victory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SENECHAL Florian",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 8"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VON DER POEL Mathieu won the uphill sprint after Caleb Ewan crashed from wheel contact with Girmay in final 100m while positioned third wheel.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix controlled final kilometers solo without train, suggesting confidence in van der Poel's raw power over positioning.",
+      "KEMNA attacked inside final 3km creating 10-second gap, forcing other teams to chase rather than organize sprints.",
+      "Final right-hand corner before climb caused massive crashes including Tratnik/van Hooydonck, revealing positioning chaos before uphill finish."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: won without leadout train on 5.6km at 4% gradient, demonstrating superior uphill sprint power",
+      "GIRMAY Biniam": "positive: finished second uphill without team support, holding position through chaotic finale as neo-pro",
+      "EWAN Caleb": "negative: crashed from wheel contact while in third position, suggesting positioning error or bike handling issue uphill",
+      "KEMNA Lennard": "positive: solo attack sub-3km gained 10 seconds, forcing peloton disruption despite being caught",
+      "BILBAO Pello": "positive: salvaged third and 4 bonus seconds from crash chaos, showing opportunistic positioning",
+      "DUMOULIN Tom": "neutral: survived uphill finish in lead group but showed no offensive capacity on gradient"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:37:03.101414+00:00"
+}

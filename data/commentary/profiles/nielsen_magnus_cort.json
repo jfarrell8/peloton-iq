@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Launches solo attacks from breakaways on sustained climbs at long range (115km out observed), targeting classification points rather than stage wins. Struggles to hold advantages when gradients exceed 15-20% in final kilometers.",
+  "team_tactics": "Operates with significant independence in breakaways, relying on personal timing rather than visible team setup. Positioning awareness in peloton appears inconsistent when mass attacks occur.",
+  "terrain_preference": "Sustained, moderate gradients for tempo-based climbing where he can distance breakaway companions. Exposed on explosive walls above 20% gradient and transitional/attacking moments requiring positional vigilance.",
+  "vulnerability": "Explosive ultra-steep pitches (20%+) in finals completely neutralize earlier advantages. Poor anticipation of long-range attacks (30km out) suggests tactical blind spots in reading race dynamics.",
+  "key_patterns": [
+    "Collapses on 20%+ gradients despite holding substantial gaps on moderate climbs (2 instances)",
+    "Attacks solo from breakaways on classified climbs at extreme distance to secure points",
+    "Caught out by positioning when teams launch transitional attacks outside traditional finale zones",
+    "Tempo climbing strength adequate for breakaway distancing but lacks final acceleration on walls"
+  ],
+  "form_trajectory": "negative: 2021 Vuelta showed tactical awareness gaps and physiological limitation on steep finals that negated earlier strength",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "NIELSEN Magnus Cort",
+  "built_from": [
+    "2019 UAE Tour Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 8"
+  ]
+}

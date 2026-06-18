@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range breakaway specialist capable of sustaining efforts from 48km out, targeting stages with multiple climbs where GC teams may allow freedom. Thrives when given protected freedom rather than domestique duties.",
+  "team_tactics": "Granted freedom to join breakaways on stages where GC ambitions don't conflict. No visible team support in breakaway execution, suggesting opportunistic rider liberation rather than planned team setups.",
+  "terrain_preference": "Multi-climb stages suited to sustained efforts over 40+ kilometers. Benefits from terrain difficult enough to discourage peloton chase but not steep enough to favor pure climbers in breakaway selections.",
+  "vulnerability": "Limited data, but 35-year age and first Grand Tour stage win suggests historically constrained by team domestique role. May lack explosiveness for short, punchy finishes or steep gradient attacks.",
+  "key_patterns": [
+    "Capable of 40+ kilometer solo or small group efforts on mountainous terrain.",
+    "Career breakthrough at 35 suggests late-blooming or newly granted tactical freedom.",
+    "Monument winner with stage-hunting capability when released from support duties."
+  ],
+  "form_trajectory": "positive: First Grand Tour stage win at 35 following Monument victory indicates career-best form and newfound freedom to target personal results",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PAULS Wout",
+  "built_from": [
+    "2023 Tour de France Stage 15",
+    "2023 Tour de France Stage 15"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "attacking_style": "Pure mass-start sprinter who rarely attacks; focuses on conserving energy for final 200m with exceptional wheel selection and positioning instinct. Occasionally exploits uncontested intermediate sprints for points classification accumulation.",
+  "team_tactics": "Relies on full leadout trains when available (Mitchelton-Scott/BikeExchange/Jayco model), but demonstrates rare ability to win independently through intelligent wheel selection when team support absent. Team controls finales but Groves can self-navigate.",
+  "terrain_preference": "Dead-flat, non-technical bunch sprints suit him best. Exposed on steep ramps and technical finales with late corners where positioning becomes congested. Rainy/chaotic conditions have produced wins but also vulnerability.",
+  "vulnerability": "Repeatedly boxed in congested finales when lead-out strength insufficient. Mechanical fragility (dropped chains, punctures) at critical moments. Health/illness issues have derailed Grand Tour campaigns mid-race.",
+  "key_patterns": [
+    "Points classification tactician: prioritizes intermediate sprints over stage wins for green jersey accumulation (3 instances)",
+    "Exceptional composure under pressure: won after bike change final 3km, minimal margin teammate wheel-sit (3 instances)",
+    "Positioning weakness in crowded sprints: boxed repeatedly across multiple stages without strong leadout (UAE Tour pattern)",
+    "Independent sprint intelligence: wins without team train by selecting correct wheels (Coquard example, multiple confirms)",
+    "Mechanical/equipment vulnerability at decisive moments: dropped chain, punctures when surges begin (2 documented instances)",
+    "Health fragility in Grand Tours: illness forced Giro abandonment, compromised form across multiple stages (2023 pattern)"
+  ],
+  "form_trajectory": "neutral: Won 2023 Vuelta sprint and accumulated points lead, but persistent mechanical issues and earlier Giro illness abandonment suggest underlying reliability concerns despite results",
+  "races_analysed": 18,
+  "confidence": "high",
+  "rider_name": "GROVES Kaden",
+  "built_from": [
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 3",
+    "2020 UAE Tour Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2022 La Vuelta ciclista a Espana Stage 16",
+    "2022 Volta Ciclista a Catalunya Stage 5",
+    "2022 Volta Ciclista a Catalunya Stage 6",
+    "2023 Giro dItalia Stage 11",
+    "2023 Giro dItalia Stage 12",
+    "2023 Giro dItalia Stage 5",
+    "2023 La Vuelta Ciclista a Espana Stage 12",
+    "2023 La Vuelta Ciclista a Espana Stage 16",
+    "2023 La Vuelta Ciclista a Espana Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 5",
+    "2023 La Vuelta Ciclista a Espana Stage 5",
+    "2023 La Vuelta Ciclista a Espana Stage 7",
+    "2023 UAE Tour Stage 6",
+    "2023 Volta Ciclista a Catalunya Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 6",
+    "2023 Volta Ciclista a Catalunya Stage 6"
+  ]
+}

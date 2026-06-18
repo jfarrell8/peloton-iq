@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Rarely initiates decisive attacks in modern observations; relies on positioning and covering moves rather than launching own accelerations. Most effective on gradual power climbs under 500m, not explosive surges.",
+  "team_tactics": "Limited recent evidence of dedicated team support; appears to ride more independently, relying on personal positioning and chase ability rather than coordinated leadouts or tempo control.",
+  "terrain_preference": "Moderate gradients and cobbled sectors suit his sustained power engine. Exposed on steep punchy climbs (Cauberg-type) and explosive gravel accelerations where pure wattage cannot compensate for declining acceleration.",
+  "vulnerability": "Unable to respond to short, explosive attacks in decisive moments. Consistently positioned well but lacks finishing kick to close final gaps or counter-attack. Steep gradients (>8%) neutralize classics engine.",
+  "key_patterns": [
+    "Consistently near front but cannot finish: multiple second places from chasing, not initiating.",
+    "Durability over explosiveness: 13 consecutive Roubaix finishes but declining competitiveness in decisive selections.",
+    "Gap-bridging ability degraded: unable to close moves on Kanarieberg and similar decisive moments.",
+    "Positioning remains strong but response to 500m surges on uphill finishes consistently inadequate."
+  ],
+  "form_trajectory": "negative: Clear decline in ability to bridge gaps and respond to attacks (2022-2023) compared to earlier periods. Still durable but not competitive in winning positions.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "VAN AVERMAET Greg",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Strade Bianche",
+    "2017 Tour de France Stage 14",
+    "2022 Dwars door Vlaanderen",
+    "2023 Paris-Roubaix"
+  ]
+}

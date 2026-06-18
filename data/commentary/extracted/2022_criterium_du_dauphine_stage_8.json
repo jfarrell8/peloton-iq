@@ -1,0 +1,29 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-12",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD Jonas attacked on final ramps of Plateau de Solaison (8-14% gradients), took stage while ROGLIČ secured GC without a stage win",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD allowed stage win despite ROGLIČ having GC locked, revealing Tour de France co-leadership tension/token gesture dynamics.",
+      "Jumbo-Visma deployed VAN AERT through 16km descent after Grand Borno, then KUSS engine work before VINGEGAARD attack.",
+      "GUERREIRO David and GOARDU David both fell from top-10 on final climb despite two-rider GROUPAMA-FDJ breakaway strategy.",
+      "KUSS drove pace on Plateau de Solaison before VINGEGAARD attacked, suggesting designated super-domestique role limits individual GC ambitions."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: attacked on steepest final ramps (8-14%) after Kuss work, signaling stage-race finishing strength",
+      "ROGLIČ Primož": "neutral: won GC without stage win, allowed Vingegaard victory suggests political/morale management within team",
+      "O'CONNOR Ben": "positive: podium stage and GC third confirms AG2R Tour leadership, stayed with Jumbo duo longer than expected",
+      "KUSS Steven": "positive: massive engine-room effort on final climb may have secured Tour selection despite no personal result",
+      "CHÁVEZ Esteban": "positive: strong GC finish (7th) underscores EF Tour plans for veteran climber support role",
+      "GOARDU David": "negative: dropped from top-10 on final climb despite two-man FDJ breakaway support reveals altitude/length vulnerability",
+      "GUERREIRO Ruben": "negative: fell from contention on final climb, concerning for stage race ambitions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:36:08.837653+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who conserves energy by wheelsucking stronger riders, then exploits freshness in final sprint. Capitalizes on others' bridging efforts rather than forcing early moves.",
+  "team_tactics": "Limited data, but shows ability to operate independently in breakaways without significant team support, relying on tactical positioning over domestique work.",
+  "terrain_preference": "Breakaway-friendly stages where selective groups form; benefits from scenarios requiring bridging efforts that allow him to save energy while others work.",
+  "vulnerability": "Relies heavily on cooperation of stronger riders to reach winning positions; may struggle when forced to bridge gaps or control breakaways alone without tactical allies.",
+  "key_patterns": [
+    "Employs wheelsucking tactics to stay fresh for final sprint after others work (1 observation)",
+    "Wins from breakaways rather than bunch sprints, targeting reduced group scenarios (1 observation)",
+    "Capitalizes on others' bridging work with 20km remaining for positioning advantage (1 observation)"
+  ],
+  "form_trajectory": "unknown: Only single race observation available; Grand Tour win demonstrates capability but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HARADA Yoshihiko",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 6"
+  ]
+}

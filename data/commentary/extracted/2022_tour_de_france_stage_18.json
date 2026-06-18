@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-21",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD cracked POGAČAR at 4.5km to go on Hautacam after multiple POGAČAR attacks failed, winning by 1:04 with VAN AERT pacing critical final kilometers.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE attacked repeatedly on Spandelles under 40km out to drain JUMBO domestiques before final climb, failed to isolate VINGEGAARD.",
+      "VAN AERT paced yellow jersey group until 3.5km remaining on HC summit finish, unprecedented domestique work.",
+      "POGAČAR threw multiple accelerations on Hautacam but VINGEGAARD absorbed all, then countered decisively at 4.5km remaining.",
+      "CHICCONE took 20 KOM points on Aubisque but VINGEGAARD's stage win secured polka dots, breakaway KOM hunting backfired."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: absorbed all POGAČAR attacks then distanced him decisively at 4.5km on Hautacam, Tour effectively won",
+      "POGAČAR Tadej": "negative: repeatedly attacked Spandelles and Hautacam without result, cracked when VINGEGAARD countered at 4.5km",
+      "VAN AERT Wout": "positive: paced HC climb to 3.5km remaining then finished third, exceptional climbing evolution for green jersey rider",
+      "THOMAS Geraint": "positive: repeatedly distanced on climbs but paced back alone each time, secured podium at 36 years old",
+      "GAUDU David": "positive: jumped from fifth to fourth, moved past QUINTANA on Hautacam",
+      "GESCHKE Simon": "negative: in breakaway for KOM points but VINGEGAARD's stage win took polka dots anyway, tactical miscalculation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:51:39.843708+00:00"
+}

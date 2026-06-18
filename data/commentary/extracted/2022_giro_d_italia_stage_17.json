@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-25",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BUITRAGO Santiago attacked solo on the final climb Salita del Menador with 8km to go, caught and dropped FUNDERPLOL, held off LEMARER by 25 seconds.",
+    "winner": "BUITRAGO Santiago",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FUNDERPLOL attacked 65km out with two HC climbs remaining, cyclocross background enabling multi-hour solo attack before being caught.",
+      "BUITRAGO recovered from crash at 80km to go, rejoined 25-rider break, then soloed final climb showing unusual resilience.",
+      "BAHRAIN VICTORIOUS paced GC group despite having ALMEIDA showing weakness, unusual team tactic when protecting struggling leader."
+    ],
+    "rider_signals": {
+      "BUITRAGO Santiago": "positive: 22yo showed remarkable recovery to win after crash at 80km, ability to respond after multi-hour breakaway selections",
+      "ALMEIDA Joao": "negative: showed first signs of weakness when Bahrain paced on Salita del Menador, lost nearly a minute to podium trio",
+      "FUNDERPLOL Mathieu": "positive: sustained 65km solo/small group effort over two HC climbs before being caught, cyclocross pedigree enables audacious long-range moves",
+      "LANDA Mikel": "negative: dropped by CARAPAZ attack despite being in select group, lost 7 seconds to podium duo revealing gap to top two",
+      "NIBALI Vincenzo": "negative: lost additional time beyond Almeida group, fifth place increasingly under threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:38:52.523201+00:00"
+}

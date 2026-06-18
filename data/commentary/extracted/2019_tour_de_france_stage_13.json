@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-19",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won the 27.2km Pau time trial by 14 seconds over THOMAS Geraint, extending yellow jersey lead despite pre-race expectations favoring Thomas.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE faster in final kilometer despite Thomas dominating intermediate checks, suggesting puncheur advantage on 17% finish gradient.",
+      "DE GENDT Thomas set benchmark time early, stayed third all day, revealing late starters faded on technical course.",
+      "BARDET Romain lost 1:26 at intermediate check, bike change mid-TT hemorrhaged GC time, poor equipment decision under pressure."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Gained time in final kilometer over pure time trialists despite being slower at intermediate checks, revealing climbing punch over sustained power.",
+      "THOMAS Geraint": "negative: Fastest at intermediate but faded to line, losing 21 seconds to De Gendt and 14 to Alaphilippe suggests stamina issues on technical course.",
+      "VAN AERT Wout": "negative: Crashed heavily on right-hander clipping barriers, abandoned Tour with leg gash, revealing risk of aggressive cornering in TT.",
+      "KRUIJSWIJK Steven": "negative: Fastest at intermediate but faded badly to 4th at finish, 9.6 seconds down, showing weakness on steep technical finale.",
+      "PINOT Thibaut": "positive: Solid 6th place after losing time in crosswinds stage, confirmed improved time trialing form as GC threat.",
+      "BARDET Romain": "negative: Lost 1:50 after mid-race bike change tactical error, 1:26 down at intermediate already indicates poor pacing strategy."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:13:40.148979+00:00"
+}

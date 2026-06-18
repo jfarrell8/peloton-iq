@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 20",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-27",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked the final mountain TT to overturn 26-second deficit, winning by 40 seconds and taking the Giro by 14 seconds over THOMAS.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ survived mid-climb mechanical without terminal time loss, revealing superior climbing reserves allowed recovery from disaster.",
+      "THOMAS's longer bike-change stop including helmet swap suggests equipment strategy miscalculation that cost crucial seconds.",
+      "KUSS setting early reference time signals Jumbo-Visma used domestique to provide real-time pacing intelligence for ROGLIČ."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Overcame mechanical mid-TT and still won by 40 seconds, showing exceptional climbing depth beyond just pacing discipline",
+      "THOMAS Geraint": "negative: Lost 40 seconds on 19km mountain TT despite only 26-second deficit, revealing age/fatigue caught up in sustained steep gradients",
+      "McNULTY Brandon": "positive: Already stage winner earlier, posted competitive TT time suggesting UAE's climbing TT strength deeper than leader alone",
+      "POZZOVIVO Domenico": "negative: Led early then suffered mechanical/fade, indicating older climbers particularly vulnerable on sustained 20%+ ramps",
+      "ALMEIDA João": "neutral: Lost time but secured Portugal's first GT podium since 1970s, suggesting consistency over explosiveness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:02:23.263213+00:00"
+}

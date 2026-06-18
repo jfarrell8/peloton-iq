@@ -1,0 +1,25 @@
+{
+  "label": "2017 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-07",
+  "stage": 3,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint after breakaway caught inside final kilometer, holding off Gaviria, Kristoff, Kittel, and Matthews in bunch finish.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Kittel launched sprint early without teammates in position, allowing Bennett to time counterpunch perfectly from chaotic scramble.",
+      "Sagan burned excessive energy fighting for wheels without teammates, exposing positional weakness when Bora-Hansgrohe absent from leadout.",
+      "Breakaway caught with under 1km remaining after bridge crossing rise disrupted sprint train organization, creating scrappy finale."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Won against world-class field without organized leadout, showing superior positioning instincts in chaotic finale.",
+      "KITTEL Marcel": "negative: Initiated sprint prematurely without teammates, suggesting either tactical miscalculation or diminished top-end speed requiring early jump.",
+      "SAGAN Peter": "negative: Wasted energy finding wheels without Bora support, revealing vulnerability when left without team structure in sprint chaos.",
+      "COMBO Roman": "neutral: Fully committed to breakaway survival with Latour until final kilometer, no tactical retreat despite inevitable catch."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:07:31.364098+00:00"
+}

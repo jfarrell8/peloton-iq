@@ -1,0 +1,35 @@
+{
+  "attacking_style": "Lacks a consistent attacking pattern; more often a reactive rider who follows moves rather than initiating decisive attacks. When he does attack, struggles to create sufficient separation or gain cooperation from rivals.",
+  "team_tactics": "Movistar appears to provide limited domestique support in critical moments, leaving him tactically isolated in GC battles. Pre-race preparation has shown notable failures (Lombardia, LBL illness).",
+  "terrain_preference": "Performs best on punchy, explosive climbing finishes and wet technical descents. Severely exposed on flat time trials and sustained power efforts in third-week Grand Tour stages.",
+  "vulnerability": "Time trials destroy his GC ambitions (60+ second losses). Race-day illness and preparation failures. Tactical indecision in critical selection moments. Cannot sustain GC defense in third week against pure power riders.",
+  "key_patterns": [
+    "Repeatedly loses significant time to strong time-trialists on flat courses, especially late race (3 observations)",
+    "Attacks neutralized by rivals unwilling to cooperate; suffers from tactical isolation (2 observations)",
+    "Misses critical selections through hesitation or inability to follow explosive moves (3 observations)",
+    "Shows vulnerability to race-day illness and preparation failures before key objectives (2 observations)",
+    "Can follow elite climbers on mountains but rarely distances them on favorable terrain (4 observations)"
+  ],
+  "form_trajectory": "negative: 2023 season marred by pre-race elimination at Lombardia and illness at LBL. Failed to convert 2022 Vuelta podium threat into consistent Grand Tour contention.",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "MAS Enric",
+  "built_from": [
+    "2019 Tour de France Stage 15",
+    "2019 UAE Tour Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 Tour de France Stage 18",
+    "2022 La Vuelta ciclista a Espana Stage 10",
+    "2022 La Vuelta ciclista a Espana Stage 14",
+    "2022 La Vuelta ciclista a Espana Stage 18",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2022 La Vuelta ciclista a Espana Stage 4",
+    "2022 La Vuelta ciclista a Espana Stage 6",
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2022 Tour de France Stage 12",
+    "2023 Il Lombardia",
+    "2023 Liege-Bastogne-Liege"
+  ]
+}

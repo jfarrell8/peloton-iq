@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-01",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "YATES Adam won from a late two-man break with twin brother Simon, beating the peloton by 20 seconds on the uphill finish",
+    "winner": "YATES Adam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Yates brothers established 20-second gap in closing miles despite narrow technical roads favoring peloton control, exploiting hesitation around tempo responsibility",
+      "Jumbo-Visma maintained chase tempo but couldn't close despite having Pogacar's teammate Adam Yates ahead, revealing GC protection prioritized over stage control",
+      "Early third-category climb provoked aggressive tempo splits from Encom/Guegard, signaling teams willing to fragment field despite 182km remaining on opening stage"
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: Outsprinted twin brother Simon from two-up despite latter doing more pacemaking, UAE teammate Pogacar in chase negated cooperation obligation",
+      "YATES Simon": "neutral: Did majority of pulling in winning break but couldn't contest sprint, suggests weaker top-end power than twin brother",
+      "POGACAR Tadej": "neutral: Victory salute unaware of front break indicates UAE team radio dysfunction or tactical miscommunication on stage one",
+      "VINGEGAARD Jonas": "neutral: Jumbo maintained chase but allowed 20-second loss on opening stage, suggesting calculated acceptance of time gaps on hard finishes",
+      "VAN AERT Wout": "negative: Listed as dropped 17 seconds with 1 mile remaining despite Jumbo tempo control, signals poor opening form for key domestique"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:19:19.127772+00:00"
+}

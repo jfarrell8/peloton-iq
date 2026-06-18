@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive attacks in final 8km of mountain finishes, timing moves after demonstrating strength on earlier climbs in the stage. Targets summit finishes with precision late-race accelerations.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns across multiple races.",
+  "terrain_preference": "Mountain stages with multiple categorized climbs culminating in summit finishes. Excels when earlier climbs like Mortirolo allow demonstration of form before final decisive move.",
+  "vulnerability": "Limited data, but previously took second place at Chicchone before breakthrough win, suggesting potential vulnerability in earlier-season form or when attacks come too early.",
+  "key_patterns": [
+    "Attacks with 8km remaining to summit finishes after showing presence on earlier stage climbs.",
+    "Bridges to breakaways rather than launching solo efforts, then outracing remnants to finish.",
+    "Form trajectory shows progression: second place at Chicchone, then stage win at Valle Santa Cristina."
+  ],
+  "form_trajectory": "positive: recovered from earlier second place to deliver maiden Grand Tour stage win, demonstrating improving condition through Giro d'Italia",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HIT Jan",
+  "built_from": [
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 16"
+  ]
+}

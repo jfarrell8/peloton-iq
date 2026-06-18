@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 19",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-03",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT NIELSEN Magnus won from 7-rider break after DSM/BikeExchange coalition delayed until final 8km, arriving 18 seconds ahead of peloton.",
+    "winner": "CORT NIELSEN Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "OLIVEIRA Rui's accelerations failed to drop quality sprinters from break, revealing pure wattage insufficient without tactical positioning late-race.",
+      "BikeExchange/DSM refused coordination until final 8km despite conflicting break interests, allowing break time cushion despite half-minute gap.",
+      "SIMMONS Quinn forced to attack with multiple kilometers remaining due to sprint disadvantage, predictably absorbed by superior finishers with leadouts.",
+      "CREDIT Lawson's leadout for CORT NIELSEN in break scenario gave positioning advantage over isolated fast finishers like OLIVEIRA."
+    ],
+    "rider_signals": {
+      "CORT NIELSEN Magnus": "positive: Third Vuelta stage win while riding for hobbled team missing GC leader CARTHY reveals opportunistic break识别 superior to protected sprinter roles.",
+      "MATTHEWS Michael": "negative: BikeExchange chased for him yet failed to reel break with 8km cooperation window, suggesting team depth issues in controlling moderate-quality breaks.",
+      "DAINESE Alberto": "neutral: DSM prioritized him over breakaway rider DENZ, then failed chase coordination, exposing confused team hierarchy in medium-mountain sprint stages.",
+      "MEINTJES Louis": "negative: Crash exit from top-10 GC contention on rolling stage reveals vulnerability riding for placement rather than aggressive positioning.",
+      "SIMMONS Quinn": "neutral: Recognized sprint limitations forcing 2+km solo attempt, but lacked power reserve to hold off organized finishers."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:27:20.983703+00:00"
+}

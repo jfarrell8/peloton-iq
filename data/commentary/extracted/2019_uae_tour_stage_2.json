@@ -1,0 +1,26 @@
+{
+  "label": "2019 UAE Tour Stage 2",
+  "race_name": "UAE Tour",
+  "race_date": "2019-02-25",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won from a reduced sprint after ACKERMAN Pascal lost the red jersey by getting dropped with 40km remaining",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates drove pace selection with 40km to go specifically to eliminate sprint rival Ackerman from contention.",
+      "LUTSENKO Alexey attacked solo inside 18km despite lacking sprint speed, forcing domestiques to chase rather than lead-out.",
+      "Multiple bonus point climbs created attrition warfare before sprint finish, rewarding diesel engines over pure fastmen."
+    ],
+    "rider_signals": {
+      "ACKERMAN Pascal": "negative: Dropped from lead group at 40km mark, lost red jersey due to inability to handle pace selection",
+      "KRISTOFF Alexander": "positive: Won from reduced bunch after surviving selection that eliminated pure sprinters, showing climbing durability",
+      "EVENEPOEL Remco": "neutral: Attacked 106km out but was too dangerous to stay clear, forcing immediate peloton response",
+      "LUTSENKO Alexey": "positive: Soloed attack inside 18km forced teams to burn domestiques before sprint organization could form",
+      "HIRSCHI Marc": "positive: World U23 champion chasing Lutsenko late suggests emerging puncheur capabilities beyond junior palmares"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:17:37.031101+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Long-range aggressor who launches race-shaping moves from distance (48km at Tour, bridging near final climbs). Attacks primarily to soften opposition or test commitments rather than solo to victory.",
+  "team_tactics": "Used as expendable aggressor to isolate rivals through repeated softening attacks before team leader's decisive move. Often operates without direct domestique support, launching isolated bridging or breakaway efforts.",
+  "terrain_preference": "Suited to technical local roads and medium-mountain stages where bridging efforts and positioning matter. Strong enough to chase at 3km but not to sustain long solo efforts against organized pursuit.",
+  "vulnerability": "Frequently isolated without team support depth in critical moments. Team hierarchy confusion creates tactical ambiguity — attacks sometimes contradict stated GC priorities, exposing internal leadership conflicts.",
+  "key_patterns": [
+    "Launches ultra-long attacks (48km) designed to trigger winning moves for others, not himself. (2 instances)",
+    "Repeatedly isolated without domestique support when attacking or chasing, revealing team depth issues. (3 instances)",
+    "Team role confusion: attacks conflict with supporting designated GC leaders, suggests hierarchy problems. (3 instances)",
+    "Deployed as softening tool before teammate's decisive move, especially in Grand Tours. (2 instances)",
+    "Visible frustration with team orders indicates personal ambition clashing with domestique duties. (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 shows consistent tactical deployment for UAE but without personal results. Strong enough to shape races but not finish them, suggesting role acceptance over progression.",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "SOLER Marc",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 9",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2022 Volta Ciclista a Catalunya Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 3",
+    "2023 Tour de France Stage 15",
+    "2023 Volta Ciclista a Catalunya Stage 3",
+    "2023 Volta Ciclista a Catalunya Stage 5",
+    "2023 Volta Ciclista a Catalunya Stage 7"
+  ]
+}

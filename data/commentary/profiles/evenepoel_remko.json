@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches long-range solo attacks (30km+) on decisive climbs, relying on sustained power output rather than explosive accelerations. Capable of maintaining winning gaps through pure time-trialing ability.",
+  "team_tactics": "Benefits from tactical hesitation and disorganization among chasers rather than explicit team dominance. Attacks appear individually driven with limited visible domestique support in final.",
+  "terrain_preference": "Ardennes-type terrain combining punchy climbs with long technical descents/flats where TT power maintains gaps. Excels when races demand sustained watts over explosive climbing.",
+  "vulnerability": "Success depends on field fragmentation and chasing hesitation; organized pursuit by strong TT riders could neutralize long-range efforts before finish.",
+  "key_patterns": [
+    "Elite time-trial speed (104.85kph peak) serves as foundation for both stage race and one-day success.",
+    "Willing to commit to audacious long-distance solos, sustaining 40-48 second gaps over 30km+.",
+    "Precocious monument winner at 22, demonstrating grand tour power reserves unusual for age category."
+  ],
+  "form_trajectory": "positive: Monument victory in April followed by dominant TT performance in June shows consistent progression through 2022 season",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "EVENEPOEL Remko",
+  "built_from": [
+    "2022 Liege - Bastogne - Liege",
+    "2022 Liege - Bastogne - Liege",
+    "2022 Tour de Suisse Stage 8"
+  ]
+}

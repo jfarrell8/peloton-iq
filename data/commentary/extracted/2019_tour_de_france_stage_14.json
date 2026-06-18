@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-20",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PINOT Thibaut attacked inside final km on Tourmalet, dropped ALAPHILIPPE who limited losses to 19 seconds, defending yellow successfully.",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar burned Amador/Soler early controlling for Quintana, who then cracked under teammate's own pace—strategic confusion.",
+      "Bennett/De Plus paced Jumbo leadout on Tourmalet, shedding Thomas early but wasting domestique before Kruijswijk's final defense.",
+      "Alaphilippe defended yellow from front group rather than conserving in peloton—risky commitment paid with only 19-second gap.",
+      "Thomas dropped earlier than Alaphilippe on final climb despite time trial prowess—possible fatigue accumulation from defending title."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Stayed with GC climbers on Tourmalet MTF despite 1:26 yellow jersey lead, only losing 19 seconds to Pinot",
+      "QUINTANA Nairo": "negative: Dropped by own team's Soler/Amador pace on Tourmalet despite Movistar controlling—form clearly insufficient",
+      "THOMAS Geraint": "negative: Lost contact before final kilometer on Tourmalet, dropped 35 seconds while holding second GC—defending champion struggling",
+      "KRUIJSWIJK Steven": "positive: Hung with Pinot/Alaphilippe group until finale, only 20 seconds down—unexpectedly strong climbing for third on GC",
+      "YATES Adam": "negative: Dropped early on Tourmalet after already struggling on Col de Soulor—completely out of GC contention",
+      "PORTE Richie": "negative: Distanced before Goudou's acceleration even began—no longer climbing at required level for podium support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:13:53.923511+00:00"
+}

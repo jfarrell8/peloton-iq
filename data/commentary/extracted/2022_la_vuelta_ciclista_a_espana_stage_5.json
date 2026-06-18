@@ -1,0 +1,25 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 5",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-24",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SOLAIRE Marc attacked solo from breakaway on final Viveiro descent, held off Wright/Mollard who stared each other down instead of chasing.",
+    "winner": "SOLAIRE Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Solaire bridged twice to breakaway groups over 187km, revealing exceptional recovery ability in tailwind conditions.",
+      "Wright/Mollard prisoner's dilemma on final descent: neither chased Solaire, fearing other would sit on for sprint.",
+      "Groupama-Armée placed Stewart and Mollard in 18-rider break, dual-threat tactic pressured Wright into defensive racing."
+    ],
+    "rider_signals": {
+      "SOLAIRE Marc": "positive: bridged 50kph opening then again after struggling first Viveiro pass, demonstrated unusual breakaway resilience",
+      "STEWART Jake": "negative: cramped late after being strongest breakaway rider, conditioning issue on 187km stage",
+      "WRIGHT Fred": "negative: refused to chase Solaire solo, prioritizing jersey calculation over stage win when gap reached 6 seconds",
+      "MOLLARD Rudy": "neutral: gained red jersey but showed tactical passivity, let Solaire escape rather than commit to chase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:44:47.629942+00:00"
+}

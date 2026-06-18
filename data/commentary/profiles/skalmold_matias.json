@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic finisher who capitalizes on moves by others to fracture the field, then delivers a decisive solo attack inside the final kilometer on summit finishes.",
+  "team_tactics": "Insufficient data to determine clear team tactical patterns from single race observation.",
+  "terrain_preference": "Final climb summit finishes where he can follow elite climbers' accelerations then counter-attack in the final kilometer when others have committed.",
+  "vulnerability": "Unknown - insufficient data to identify weaknesses from single race observation.",
+  "key_patterns": [
+    "Follows elite climbers' long-range moves before launching own attack (Evenepoel 6.5km move)",
+    "Delivers winning attack inside final 1km after field is pre-fractured",
+    "Converts stage win to race lead when positioned correctly on GC stages"
+  ],
+  "form_trajectory": "positive: won stage and took race lead at Tour de Suisse with tactically astute performance",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SKALMOLD Matias",
+  "built_from": [
+    "2023 Tour de Suisse Stage 3",
+    "2023 Tour de Suisse Stage 3"
+  ]
+}

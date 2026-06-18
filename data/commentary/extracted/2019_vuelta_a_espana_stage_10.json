@@ -1,0 +1,26 @@
+{
+  "label": "2019 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-03",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won the 36.2km ITT by 25 seconds over BEVIN, taking 3+ minutes from QUINTANA to claim race lead",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC took exactly 2 minutes from LOPEZ despite starting only 2 minutes behind, catching and passing him before finish line.",
+      "BEVIN split performance shows most GC men fade in final 12km segment compared to specialist TTers maintaining power.",
+      "POGACAR lost over 1 minute to BEVIN in second segment after leading at first check, revealing stamina weakness."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: 19 seconds up at 12km check on next best rider reveals he paced perfectly for 36km effort",
+      "QUINTANA Nairo": "negative: 3+ minute loss and 27th place suggests TT weakness worse than expected for someone defending GC",
+      "POGACAR Tadej": "neutral: faded significantly in final 24km after leading first check, suggesting pacing inexperience at 20 years old",
+      "LOPEZ Miguel Angel": "negative: being caught and passed by rider starting 2 minutes behind reveals inability to sustain threshold effort",
+      "BEVIN Paddy": "positive: 2 seconds faster than CAVAGNA at second check after being 1 second down at first shows superior pacing strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:18:12.111079+00:00"
+}

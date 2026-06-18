@@ -1,0 +1,25 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 4",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-17",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JACOBSEN Fabio won from screened position behind DÉMARE after PHILIPSEN was boxed out in technical finale compression",
+    "winner": "JACOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SÉNÉCHAL took intermediate sprint points specifically to deny JACOBSEN's green jersey rivals, revealing Deceuninck sprint denial tactics.",
+      "Technical finale compression at 3km created positioning chaos; DÉMARE led out but JACOBSEN screened behind won from invisibility.",
+      "PHILIPSEN boxed out despite green jersey suggests leadout teams targeted him specifically in finale positioning battle."
+    ],
+    "rider_signals": {
+      "JACOBSEN Fabio": "positive: Beat top-tier sprinters from screened position, showing confidence fully restored after long injury recovery",
+      "PHILIPSEN Jasper": "negative: Boxed out in technical finale despite wearing green jersey and having leadout support",
+      "DÉMARE Arnaud": "neutral: Successfully navigated technical finale to lead sprint but couldn't hold off JACOBSEN's late acceleration",
+      "TARAMAE Rein": "neutral: Crashed inside 3km rule but retained red jersey; vulnerability in finale positioning exposed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:28:21.096123+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 13",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-08",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked with 8km to go on Tourmalet, KUSS marked then counter-attacked catching everyone including roadsiders, JUMBO locked out podium",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD's 8km attack forced KUSS into policeman role before KUSS's devastating counter-attack caught all rivals cold.",
+      "JUMBO's early pace-setting on Aubisque deliberately cracked EVENEPOEL before decisive climbs, removing key GC threat early.",
+      "KUSS bridged 50-second gap to VINGEGAARD while still marking attacks, revealing unexpected elite GC form over domestique duties."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: dropped on Aubisque when JUMBO set tempo, lost 27 minutes, completely out of GC without illness excuse",
+      "KUSS Sepp": "positive: took race lead by marking attacks then counter-attacking with such pace he had to brake for roadside spectators",
+      "ROGLIC Primoz": "neutral: marked attacks conservatively, saved energy while KUSS did policing work, benefits from VINGEGAARD's stage win tactics",
+      "LANDA Mikel": "negative: finally cracked and dropped after hanging on, showing Bahrain lacks depth to counter three-pronged JUMBO attack",
+      "MARTINEZ Lenny": "positive: survived high-quality breakaway on stage matching his earlier win, held position despite JUMBO's pace escalation",
+      "AYUSO Juan": "neutral: retained white jersey but dropped from virtual podium, revealing ceiling against JUMBO's triple threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:05:26.305015+00:00"
+}

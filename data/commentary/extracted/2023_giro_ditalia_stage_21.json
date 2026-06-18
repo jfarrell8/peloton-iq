@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 21",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-28",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won final stage sprint in Rome with late-race positioning after MILAN Jonathan's leadout, securing first Astana win in 4 years at Giro",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "THOMAS Geraint pulled leadout work for CAVENDISH in closing kilometers, suggesting team tactics shifted post-GC finalization on Stage 20.",
+      "MILAN Jonathan's leadout failed despite winning overall points classification, exposing vulnerability in Bahrain's sprint train execution under pressure.",
+      "Breakaway caught with 13km remaining (one lap to go) indicates Rome circuit's profile favors sprinters holding back until final lap."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: came off MILAN's wheel rather than relying on own leadout, showing tactical opportunism in Roman circuit sprint",
+      "MILAN Jonathan": "negative: won points jersey but failed own sprint after providing leadout, questioning dual-role capacity in high-pressure finales",
+      "THOMAS Geraint": "neutral: working for CAVENDISH post-GC suggests Ineos tactical flexibility when overall objectives secured"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:02:32.731403+00:00"
+}

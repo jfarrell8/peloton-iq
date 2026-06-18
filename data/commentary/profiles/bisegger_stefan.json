@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Aggressive repeat attacker from breakaways, willing to launch solo efforts on climbs with significant distance remaining (35km+ to go). Targets penultimate climbs to force defensive reactions from chase groups.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from available observations.",
+  "terrain_preference": "Functions effectively in breakaways on medium mountain stages with multiple climbs. Capable of extending gaps on climbs despite time trial specialist profile.",
+  "vulnerability": "Solo attacks from distance prove unsustainable against organized team chases, as evidenced by recapture despite building 59-second advantage.",
+  "key_patterns": [
+    "Double-attacks from established breakaways rather than waiting for single decisive move.",
+    "Launches efforts with 35km+ remaining, targeting penultimate climbs for maximum disruption.",
+    "Forces isolation of single chase teams through persistent acceleration patterns."
+  ],
+  "form_trajectory": "unknown: Single race observation insufficient to determine trajectory, though showed combative form with multiple attack attempts",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BISEGGER Stefan",
+  "built_from": [
+    "2022 Tour de Suisse Stage 3",
+    "2022 Tour de Suisse Stage 3"
+  ]
+}

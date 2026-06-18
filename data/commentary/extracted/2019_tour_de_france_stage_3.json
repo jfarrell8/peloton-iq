@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian attacked solo 26km out on final climb approach, overcame mechanical, held 35-second gap to favorites despite Sunweb/INEOS chase.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Wellens established 6-minute break sitting 1:10 GC to gain virtual yellow, forcing extended peloton response throughout stage.",
+      "ALAPHILIPPE attacked 26km out despite mechanical issue, gap stabilized at 35 seconds suggesting chasing group coordination failure.",
+      "Sunweb led chase for MATTHEWS sprint despite GC threats in group, prioritizing stage over protecting time gaps.",
+      "TEUNISSEN lost 2 minutes on final climbs after ASTANA paced aggressively, revealing Jumbo-Visma TTT winner fragility on terrain."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: solo attacked from break with 30km remaining after establishing virtual yellow, took KOM points before caught",
+      "TEUNISSEN Mike": "negative: dropped 2 minutes on final 50km climbs, losing yellow after holding through TTT stage",
+      "MATTHEWS Michael": "neutral: Sunweb worked chase for him but only managed second, suggesting team prioritization over individual climbing form",
+      "VAN AERT Wout": "negative: still suffering crash effects from stage 1, struggling in gruppetto on hilly stage",
+      "LANDA Mikel": "positive: present in strong 35-second chase group behind Alaphilippe, showing early GC positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:15:58.626380+00:00"
+}

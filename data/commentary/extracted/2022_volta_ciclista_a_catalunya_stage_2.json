@@ -1,0 +1,27 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-22",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Caden won sprint after crosswind anxiety kept peloton compressed all day, YATES Simon caught out losing time despite MATTHEWS Michael leadout",
+    "winner": "GROVES Caden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange split sprint duties: MATTHEWS stayed front in crosswind threat while entire team except GROVES paced YATES back.",
+      "INEOS drove tempo hard with GC depth defending against crosswinds rather than letting specialists control, revealing overall prioritization.",
+      "Crosswind anxiety compressed peloton causing crashes rather than creating actual splits, showing psychological impact exceeded tactical reality.",
+      "GROVES followed BAUHAUS wheel through final turns rather than trusting MATTHEWS leadout, showing adaptive sprint positioning."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: caught out by crosswind positioning despite team having race leader jersey and controlling tempo",
+      "MATTHEWS Michael": "positive: provided leadout while wearing leader jersey after dropping back for YATES, showing dual-role capability",
+      "PORT Richie": "negative: abandoned team duties due to illness, told teammates not to wait, signals poor form",
+      "BAUHAUS Phil": "neutral: isolated after Bahrain work finished but still took second, suggesting individual strength without team depth",
+      "KOSCIUSZKO Koen": "negative: pulled back from front group to pace despite being viable sprint option, team tactics overrode personal opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:58:02.682693+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive moves from breakaways on extreme gradient ramps (20%+), capable of sustaining solo efforts through technical finales of 6+ kilometers.",
+  "team_tactics": "DSM transfer enabled greater tactical freedom to hunt secondary objectives; minimal direct team support visible, operates opportunistically from early breakaway selections.",
+  "terrain_preference": "Excels on punishingly steep short-pitch climbs (20%+ gradients) where power-to-weight advantages maximize; technical descents and undulating finales suit solo capabilities.",
+  "vulnerability": "Limited observations prevent definitive assessment, though reliance on breakaway success suggests vulnerability in direct GC contender confrontations on sustained climbs.",
+  "key_patterns": [
+    "Targets KOM classification aggressively once stage win establishes points buffer (19-point lead secured)",
+    "Exploits breakaway dynamics, attacking from reduced groups rather than initiating original selection",
+    "Benefits from race chaos/incidents that eliminate chase threats during solo efforts"
+  ],
+  "form_trajectory": "positive: Stage win and commanding KOM lead early in Vuelta suggests strong condition and tactical execution post-DSM transfer",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BARGUIL Romain",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 14",
+    "2021 La Vuelta ciclista a Espana Stage 14"
+  ]
+}

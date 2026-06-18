@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 9",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-14",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won 35km flat ITT by one second over Thomas, regaining maglia rosa with marginal 45-second GC lead.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL negative-split pacing inferior to ROGLIC who gained 11+ seconds back after slow start through tactical energy distribution.",
+      "HART Tao delivered career-best TT (3rd, -4sec) suggesting Ineos dual-leadership viable beyond mountain stages in 2023 form.",
+      "KUNG Stefan's teammate ARMIRAIL set early benchmark showing Groupama-FDJ TT recce/pacing protocol superior to later big-name starters."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: one second from stage win at 36+ years shows sustained TT form, now 45sec down GC makes him live podium threat",
+      "ROGLIC Primoz": "positive: negative split after 11sec early deficit demonstrates tactical maturity, only 47sec down despite slow start suggests ITT pacing evolution",
+      "HART Tao": "positive: career-best TT and within 1min GC activates Ineos two-card strategy for mountain stages ahead",
+      "EVENEPOEL Remco": "negative: only 1sec margin over Thomas on pan-flat specialist terrain reveals vulnerability in pure power output against Grand Tour rivals",
+      "LEKNESSUND Andreas": "neutral: surrendered rosa as expected but remains 1:48 down, positioning for breakaway stage hunting not GC defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:03:52.295793+00:00"
+}

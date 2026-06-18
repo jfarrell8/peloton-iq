@@ -1,0 +1,26 @@
+{
+  "attacking_style": "No attacking pattern evident across observations. Operates defensively, focused on survival and positioning rather than offensive moves, even on gradient finishes where no capacity shown.",
+  "team_tactics": "Utilized as super-domestique in breakaways for stage hunting rather than protected GC leader. Teams position him aggressively late in stages for defensive GC purposes, not offensive firepower.",
+  "terrain_preference": "Time trials remain his strength (sub-10 minute barrier, third place finishes). Mountain stages and summit finishes expose limitations, particularly on sustained gradients where dropped repeatedly.",
+  "vulnerability": "Recovery deficit after hard TT efforts; dropped on climbs following time trial exertion. Moderate summit finishes expose form weaknesses inside 15km. Illness-related abandonments suggest fragility.",
+  "key_patterns": [
+    "Dropped on moderate climbs inside 15km multiple times, indicating threshold issues (2+ observations)",
+    "Strong time trial performances but fails to carry form into subsequent mountain stages (2 observations)",
+    "Tactical role shifted from GC contender to super-domestique/stage hunter by 2022 (2 observations)",
+    "No offensive climbing capacity shown even when surviving in lead groups (2 observations)",
+    "Teams display defensive anxiety about his positioning rather than enabling attacks (2 observations)"
+  ],
+  "form_trajectory": "negative: 2022 observations show consistent struggles on climbs, role demotion to domestique, illness abandonment, and recovery deficits despite solid TT performance. Clear decline from GC contender status.",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "DUMOULIN Tom",
+  "built_from": [
+    "2017 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 4",
+    "2022 Giro d'Italia Stage 7",
+    "2022 UAE Tour Stage 3",
+    "2022 UAE Tour Stage 4",
+    "2022 Volta Ciclista a Catalunya Stage 3"
+  ]
+}

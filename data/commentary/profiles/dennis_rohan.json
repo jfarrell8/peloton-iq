@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not initiate traditional attacks; operates as a time trial specialist who actively hunts bonus seconds in reduced sprints when in contention, racing opportunistically rather than aggressively.",
+  "team_tactics": "Limited data on team support patterns; bike change strategy employed during mountain stages suggests team awareness of limitations on steep gradients.",
+  "terrain_preference": "Time trial specialist exposed on steep climbing gradients. Can contest reduced bunch sprints. Struggles particularly on sustained mountain TT finishes with severe gradients.",
+  "vulnerability": "Catastrophic fade on steep climbing gradients in time trials, losing 2+ minutes in final kilometers. Cannot defend race lead when course features significant elevation with gradient spikes.",
+  "key_patterns": [
+    "Active bonus second hunting when in race leader position, finishing third in reduced sprint (1 observation)",
+    "Severe time losses on climbing TT finishes, fading catastrophically in final kilometers (2 observations)",
+    "Time trial specialist profile fundamentally compromised by inability to sustain power on steep gradients (2 observations)"
+  ],
+  "form_trajectory": "negative: Catastrophic collapse in climbing TT despite race leader status indicates fundamental weakness exposed under pressure in 2022 Romandie",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DENNIS Rohan",
+  "built_from": [
+    "2022 Tour de Romandie Stage 3",
+    "2022 Tour de Romandie Stage 5",
+    "2022 Tour de Romandie Stage 5"
+  ]
+}

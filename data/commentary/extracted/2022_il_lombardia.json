@@ -1,0 +1,27 @@
+{
+  "label": "2022 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2022-10-08",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 19km remaining on Civiglio climb, dropped all but MAAS who couldn't counter multiple accelerations, won sprint at 150m to go",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR launched decisive move at 19km (start of Civiglio), forcing selection before final descent rather than on steepest gradients",
+      "UAE Emirates used HARPER domestique strength to control Civiglio base, allowing POGAČAR fresh legs for sustained attack phase",
+      "MAAS attacked multiple times after being marked but lacked acceleration to drop POGAČAR, revealing sprint-first defensive tactics failed"
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Only rider to win Lombardia on first two appearances, attacked 19km out and controlled finale tactically despite being faster sprinter",
+      "MAAS Remco": "positive: Defended champion status by following POGAČAR's attack and stayed with him entire finale, but multiple counters ineffective against superior finishing speed",
+      "LANDA Mikel": "positive: Followed initial POGAČAR move briefly at 19km and salvaged podium at 10-15 seconds, Monument podium breakthrough signals late-career consistency",
+      "HARPER Chris": "positive: Domestique performance on Civiglio base for Jumbo-Visma controlling pace before UAE took over shows undervalued climbing strength",
+      "SIVAKOV Pavel": "negative: Dropped early on Civiglio among first victims despite being protected rider, signals form drop at season end",
+      "NIBALI Vincenzo": "negative: Dropped on Civiglio unable to contest finale in retirement race despite home roads advantage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:41:19.298448+00:00"
+}

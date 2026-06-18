@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Launches solo attacks on final climbs with 8km to go, excels at high altitude. Capable of late-race accelerations inside 2km when in breakaway situations, particularly effective on summit finishes.",
+  "team_tactics": "Quick-Step development rider with increasing autonomy for breakaway opportunities. Team allows freedom to pursue stage wins from breaks rather than providing dedicated mountain trains.",
+  "terrain_preference": "High-altitude summit finishes (Cima Coppi, Tre Cime) where native altitude advantage materializes. Long-range climbs (8km+) suit better than punchy Monument terrain, though showing Monument podium capacity.",
+  "vulnerability": "Still developing consistency in week-three Grand Tour scenarios. Monument terrain (Liège's punchy climbs) less natural than sustained high-altitude efforts, suggesting explosivity limitations in varied terrain.",
+  "key_patterns": [
+    "High-altitude native advantage consistently materializes on Cima Coppi-category climbs (2 instances)",
+    "Breakaway specialist: both Giro stage wins came from long-range breakaway selections (2022, 2023)",
+    "Strong recovery capacity: won after 80km crash, matched accelerations across multiple climbs (2 instances)",
+    "Emerging Monument threat: Quick-Step investing in development, career-best Monument podium achieved",
+    "Long-range climbing attacks: 8km solo effort successful, comfortable matching early accelerations"
+  ],
+  "form_trajectory": "positive: progression from 22yo breakaway winner (2022) to Monument podium (2023 LBL) shows Quick-Step development path succeeding, stage win capability maintained",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "BUITRAGO Santiago",
+  "built_from": [
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 17",
+    "2022 Giro d'Italia Stage 17",
+    "2023 Giro dItalia Stage 19",
+    "2023 Giro dItalia Stage 19",
+    "2023 Liege-Bastogne-Liege"
+  ]
+}

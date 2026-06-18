@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter who does not initiate attacks but excels in chaotic, disorganized finales where positioning and raw acceleration substitute for leadout trains. Thrives in the final 200-700m.",
+  "team_tactics": "Does not rely heavily on organized leadout trains; DSM appears flexible, willing to pivot when circumstances change. Kooij operates effectively as opportunistic finisher when team support collapses.",
+  "terrain_preference": "Flat sprint finales with technical or chaotic closing kilometers that disrupt rival leadout trains. Survives echelon conditions well enough to contest windswept Classics-style races.",
+  "vulnerability": "Illness susceptibility noted at 2022 Giro forced complete withdrawal from sprint contention. Reliance on chaos may fail in perfectly organized sprint trains where positioning is locked early.",
+  "key_patterns": [
+    "Exceptional late-race acceleration: gained 13 positions in final 200m when leadout failed (2 observations)",
+    "Thrives in disorganized sprints: won from confusion, nearly beat Philipsen from echelon (2 observations)",
+    "Mental resilience: bounced back next day after disappointment to win at 21 years old",
+    "Evolving from stage race sprinter to Classics contender: survived Classics-caliber echelon racing (2023 upgrade noted)"
+  ],
+  "form_trajectory": "positive: Clear progression from stage race opportunist (2022) to Classics-capable sprinter surviving Philipsen echelons and winning chaotic finales at 21 (early 2023)",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "KOOIJ Olav",
+  "built_from": [
+    "2022 Giro d'Italia Stage 11",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2023 Classic Brugge-De Panne",
+    "2023 Paris-Nice Stage 5",
+    "2023 Paris-Nice Stage 5"
+  ]
+}

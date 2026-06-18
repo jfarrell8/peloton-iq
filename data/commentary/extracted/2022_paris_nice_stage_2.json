@@ -1,0 +1,29 @@
+{
+  "label": "2022 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-07",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won bunch sprint after JUMBO-VISMA and QUICK-STEP created echelons that split race, dropping GC contenders MCNULTY, ALMEIDA, and SCHACHMANN 2:05 back",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUMBO-VISMA and QUICK-STEP cooperation in echelon splits reveals tactical alignment despite competing sprint interests, prioritizing GC damage.",
+      "BISSEGER solo attack inside 8km drew JUMBO's LAPORTE into neutralizing work, disrupting QUICK-STEP's train without preventing JAKOBSEN victory.",
+      "Second group featuring JORGENSON and CORTINA closed to 20 seconds before final crosswinds split fragmented, showing echelon timing crucial.",
+      "Front group re-fractured when turning into more wind in final 20km despite previous regrouping, indicating sustained pace control."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "negative: Dropped in initial echelon split alongside fellow GC contenders, losing 2:05 on stage 2 reveals poor positioning instincts",
+      "ALMEIDA João": "negative: Lost 2:05 in echelons with SCHACHMANN, suggesting Trek-Segafredo team structure inadequate for wind protection",
+      "SCHACHMANN Maximilian": "negative: Defending champion dropped 2:05 in crosswinds, catastrophic GC loss on stage 2 indicates poor team support or form",
+      "QUINTANA Nairo": "positive: Made front echelon split and stayed attentive through multiple accelerations, unexpected crosswind savvy for pure climber",
+      "YATES Simon": "positive: Initially distanced but regrouped with front before final split, survived multiple echelon selections despite climbing specialist profile",
+      "LAPORTE Christophe": "neutral: Yellow jersey holder pulled to chase BISSEGER attack inside 8km, sacrificing sprint position for team defense",
+      "VLASOV Aleksandr": "positive: Named alongside ROGLIC as GC contender making all front selections, UAE positioning strength notable"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:46:26.381631+00:00"
+}

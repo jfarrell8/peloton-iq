@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Excels on steep, punchy finishes in the final 2km, particularly on gradients above 10%. Attacks in the final hairpins or closing meters, using explosive power on steep ramps rather than sustained climbing.",
+  "team_tactics": "Often operates in reduced groups where team support is minimal. Shows willingness to bridge gaps solo (40+ seconds demonstrated). Capable of leading chase efforts on major climbs but typically positioned for individual finish efforts.",
+  "terrain_preference": "Steep gradient finishes (Mur de Huy, Romont, La Planche 24% gravel) are optimal. One-day punchy climbs ideal; struggles on consecutive mountain-top finishes and sustained HC climbing in stage races.",
+  "vulnerability": "Exposed on consecutive mountain stages and prolonged HC climbing. Cannot maintain form across multi-day Grand Tour climbing blocks. Tactical positioning can leave him chasing rather than dictating.",
+  "key_patterns": [
+    "Wins come on steep finishes 10%+ gradient, attacking inside final 2km (3 victories)",
+    "Can bridge 40-second gaps solo on climbs, showing strong pursuit ability (2 observations)",
+    "Struggles day-after-day in Grand Tours, dropped on consecutive MTFs despite holding form (2 observations)",
+    "Outsprint capability on steep finishes against pure climbers and time trialists (2 victories)",
+    "Effective in reduced groups on Ardennes-style finishes, less effective in pure GC climbing (4 observations)"
+  ],
+  "form_trajectory": "positive: Recent 2022 results show evolution with Romandie and Fleche Wallonne victories demonstrating refined steep-finish technique and tactical maturity against top opposition",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "TEUNS Dylan",
+  "built_from": [
+    "2019 Tour de France Stage 6",
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 7",
+    "2021 Tour de France Stage 8",
+    "2022 La Fleche Wallonne",
+    "2022 Liege - Bastogne - Liege",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 1"
+  ]
+}

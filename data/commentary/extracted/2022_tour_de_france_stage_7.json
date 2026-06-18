@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-08",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR won on Super Planche des Belles Filles, catching breakaway Kämna inside 100m and distancing all GC rivals except Vingegaard by 12+ seconds.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "UAE deployed three-man pace train (McNulty-Bennett-Majka) before gravel section, preventing attacks until steepest gradient where domestiques exhausted.",
+      "Pogacar recalled teammate from breakaway mid-stage, prioritizing team control over stage hunting when yellow jersey margin only 4 seconds.",
+      "Vingegaard launched winning move at 100m remaining, too late on 24% gravel gradient where acceleration superiority matters less than position.",
+      "Geschke suffered bridging Kämna under 5km despite being in break, revealing cost of attacking riders already in breakaway on final climb."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: isolated second place 12 seconds down suggests matching Pogacar's power but lacks decisive acceleration on extreme gradients",
+      "ROGLIC Primoz": "neutral: finished third at 12 seconds, mirroring Vingegaard's gap but showed no attack intent on climb that dropped him in 2020 TT",
+      "THOMAS Geraint": "negative: distanced on gravel section alongside Yates despite sitting in, suggesting weakness on explosive 24% pitches rather than sustained climbing",
+      "KÄMNA Lennard": "positive: held solo lead until final 100m after bridging Geschke sub-5km, extraordinary diesel power betrayed only by gravel gradient",
+      "VLASOV Aleksandr": "negative: dropped from GC group before final 5km while teammate Kämna soloed, Bora depth concerns for mountain support",
+      "GESCHKE Simon": "negative: KOM jersey holder attacked but cracked when Kämna bridged, cannot sustain both breakaway effort and late-climb accelerations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:53:37.558687+00:00"
+}

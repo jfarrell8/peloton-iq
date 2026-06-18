@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Launches powerful solo attacks on steep gradients (20% walls) with 8km remaining, then holds margins on technical descents. Also excels in explosive uphill finishes like Cauberg, timing final efforts within 300m.",
+  "team_tactics": "Minimal team reliance visible; operates independently in selective groups or wind splits. Positioning himself in critical front selections (47-rider groups) appears self-managed.",
+  "terrain_preference": "Excels on punchy, steep climbs (20% grades) combined with technical descents, and explosive uphill sprint finishes. Multiple Amstel wins confirm mastery of short, sharp Ardennes-style terrain with decisive late selections.",
+  "vulnerability": "Sustained climbing against pure GC riders exposes limitations (large time loss to Contador). Long-range attacks (66km) fail to produce results, suggesting better suited to late, explosive efforts than extended breakaways.",
+  "key_patterns": [
+    "Attacks on extreme gradient walls (20%+) with 8km or less remaining, multiple observations.",
+    "Holds off chasers on technical descents after steep climb attacks, shown in Vuelta stage.",
+    "Wins from selective group sprints after late attacks faded, quality sprint from small groups.",
+    "Exceptional late-season form at age 37+, out-of-saddle sprinting on brutal gradients pre-Worlds.",
+    "Course mastery on specific routes (4 Amstel wins referenced), confirms repeat success formula."
+  ],
+  "form_trajectory": "neutral: Recent observation (2021 Tour) shows continued aggression but ineffective long-range efforts suggest declining explosive power compared to earlier late-season peak form in 2019.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "GILBERT Philippe",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Amstel Gold Race",
+    "2017 Paris-Nice Stage 4",
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 17",
+    "2021 Tour de France Stage 13"
+  ]
+}

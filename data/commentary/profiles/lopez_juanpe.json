@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Limited attacking observed; primarily rides defensively to protect GC position. When under pressure, cracks to sustained attacks from rivals rather than initiating moves himself.",
+  "team_tactics": "Trek-Segafredo provides tempo control through early-mid race sections on climbs. Team support appears thin when UAE teammates depart or on critical stages, leading to positional vulnerabilities in sprinters' stages and finals.",
+  "terrain_preference": "Can defend on moderate sustained climbs (4000m+ stages) when team controls tempo. Exposed on explosive attacks and in technical positioning scenarios on flatter stages.",
+  "vulnerability": "Cracks under sustained attacks from elite climbers (28.6km to finish range). Positioning deficits on sprinters' stages suggest weakness when team support depletes. Cannot follow when race leaders deliberately shed fringe GC riders.",
+  "key_patterns": [
+    "Loses time to explosive attacks from top-tier GC rivals; cracked at 28.6km when Carapaz attacked.",
+    "Caught in peloton splits on non-mountain stages, indicating positioning or team support issues.",
+    "Defensive riding style; competent defense through tempo but no observed attacking initiatives.",
+    "Performance tied to team support availability; struggles when isolated or after key domestiques leave."
+  ],
+  "form_trajectory": "negative: Lost pink jersey after cracking to Carapaz attack (9 minutes), then caught in splits on easier stages, suggesting declining form through Giro",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "LOPEZ Juanpe",
+  "built_from": [
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 7"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range opportunist who attacks from breakaways with 25+ km remaining, capable of sustaining solo efforts on flat to rolling terrain even deep into Grand Tours.",
+  "team_tactics": "Capitalizes on peloton apathy and mass counter-attacks to infiltrate large breakaways, then attacks again from the break rather than relying on team support.",
+  "terrain_preference": "Flat to rolling terrain suits his ability to sustain long solo efforts; shows exceptional endurance in third-week Grand Tour stages.",
+  "vulnerability": "Limited data, but reliant on peloton disinterest for breakaway success; unclear how he performs in more controlled or mountainous stages.",
+  "key_patterns": [
+    "Attacks from established breakaways rather than initiating from peloton (1 observation)",
+    "Sustains very long solo efforts: 25km alone to stage victory (1 observation)",
+    "Maintains strong form deep into Grand Tours, winning multiple stages (1 observation)"
+  ],
+  "form_trajectory": "positive: Demonstrated exceptional late-Tour form with second stage win via 25km solo, showing resilience and power in week three",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MAHORIC Matej",
+  "built_from": [
+    "2021 Tour de France Stage 19",
+    "2021 Tour de France Stage 19"
+  ]
+}

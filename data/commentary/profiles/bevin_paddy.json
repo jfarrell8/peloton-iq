@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Relies on explosive acceleration in final 400m rather than long-range attacks. Demonstrates superior pacing strategy with negative splits in time trial efforts.",
+  "team_tactics": "Operates from breakaway-supporting team structure but capable of opportunistic wins when break is caught late. Not traditionally set up as protected leader.",
+  "terrain_preference": "Excels in time trial disciplines and flat sprint finishes requiring explosive power. Strongest when pacing strategy matters over sustained climbing.",
+  "vulnerability": "Limited observations suggest reliance on tactical racing over raw climbing power. May struggle in high mountain stages where team support for GC contention is needed.",
+  "key_patterns": [
+    "Explosive 400m finishing kick from reduced groups or caught breakaways (2 instances)",
+    "Superior pacing strategy with negative splits in TT efforts (Vuelta check comparison)",
+    "Opportunistic rather than pre-planned attacks, capitalizing on tactical situations (2 wins from scenarios)"
+  ],
+  "form_trajectory": "positive: Most recent 2022 result showed GC capability (2nd) alongside stage win with explosive finish, suggesting evolution beyond domestique role",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BEVIN Paddy",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 10",
+    "2022 Tour de Romandie Stage 3",
+    "2022 Tour de Romandie Stage 3"
+  ]
+}

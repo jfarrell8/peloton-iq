@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks opportunistically from small breaks by exploiting tactical dynamics rather than pure power. Prefers early moves that capitalize on rivals' marking behavior and hesitation.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Demonstrated success on finishing circuits where tactical positioning and timing trump pure climbing power. Gap finish suggests comfort on rolling/uphill finishes from reduced groups.",
+  "vulnerability": "Likely vulnerable in pure sprint scenarios or against pure climbers on sustained steep gradients, given reliance on tactical opportunism over physiological dominance.",
+  "key_patterns": [
+    "Exploits presence of marked riders (sprinters/favorites) to launch counter-moves while rivals hesitate.",
+    "Attacks early from small breaks rather than waiting for traditional sprint scenarios.",
+    "Demonstrates strong race-reading ability to identify tactical paralysis moments among competitors."
+  ],
+  "form_trajectory": "positive: Won from intelligent tactical play at WorldTour level, suggesting confidence and sharp race intuition in June 2022",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FERRON Valentin",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 6",
+    "2022 Criterium du Dauphine Stage 6"
+  ]
+}

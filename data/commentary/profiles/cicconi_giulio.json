@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic finisher who capitalizes on chaos created by teammates' attacks rather than initiating moves himself. Excels in technical summit finishes where positioning trumps raw power.",
+  "team_tactics": "Team deploys aggressive climbing domestiques (Chaves) to destabilize rivals and create winning opportunities. Benefits from opponents losing their support riders in the finale.",
+  "terrain_preference": "Summit finishes with technical final kilometers where positioning and bike handling matter. Thrives when rival teams are isolated and cannot control.",
+  "vulnerability": "Insufficient data to establish clear weakness patterns. Likely vulnerable when opponents maintain full team support into finals.",
+  "key_patterns": [
+    "Wins by perfect wheel selection in chaotic finales, not solo power displays.",
+    "Capitalizes when rival teams lose domestique support in closing kilometers.",
+    "Excels in technical summit arrivals requiring positioning over sustained climbing power."
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to establish trend, though displayed sharp tactical awareness and finishing speed",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CICCONI Giulio",
+  "built_from": [
+    "2023 Volta Ciclista a Catalunya Stage 2",
+    "2023 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

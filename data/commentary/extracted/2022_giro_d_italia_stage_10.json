@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-17",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GIRMAY Biniam became the first Eritrean/Black African to win a Giro stage, outsprinting VON DE POEL after late attacks from YATES and CARAPAZ failed in final 6km.",
+    "winner": "GIRMAY Biniam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pure sprinters YUEN and CAVENDISH dropped 76km out on minimal hills, revealing fragility when temperature spikes on coastal rolling terrain.",
+      "YATES attacked with 6km remaining on descent after final climb, signaling GC riders tested legs despite 'sprint stage' label.",
+      "INTERMARCHÉ controlled entirely for GIRMAY despite no intermediate sprint positioning attempts, showing team confidence in pure speed over lead-out perfection."
+    ],
+    "rider_signals": {
+      "YUEN Caleb": "negative: First pure sprinter distanced at 76km on trivial gradients in heat, suggesting poor recovery post-rest day or accumulating fatigue.",
+      "CAVENDISH Mark": "neutral: Mechanical inside 60km then chase back suggests legs present but form/positioning unclear for stage outcome.",
+      "YATES Simon": "positive: Despite losing 11 minutes previously, launched meaningful 6km attack with GC riders, indicating focus shifted to stage hunting not GC survival.",
+      "CARAPAZ Richard": "neutral: Active in final kilometers without committing full attack, testing sprint contenders more than seeking solo opportunity.",
+      "GIRMAY Biniam": "positive: Beat VON DE POEL head-to-head again with minimal lead-out, confirming raw speed superiority over positioning-dependent sprinters."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:37:17.889332+00:00"
+}

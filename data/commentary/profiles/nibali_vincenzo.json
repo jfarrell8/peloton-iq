@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Launches solo attacks on major climbs, often early or mid-climb rather than waiting for finale. Historical pattern of attacking even when team has riders ahead, though effectiveness has declined significantly in recent years.",
+  "team_tactics": "Limited visible team support in late-career phase; often isolated early on decisive climbs. When teammates present (e.g., Ciccone 2019 Tour), uses their positioning as springboard but attacks independently rather than following structured leadout.",
+  "terrain_preference": "High-mountain stages with long, sustained climbs where tactical nous can compensate for declining raw power. Struggles on explosive steep finishes and punchy Monument climbs like Civiglio where pure wattage matters most.",
+  "vulnerability": "Final 5km of hard climbs where lack of top-end power becomes critical. Vulnerable to isolation when distanced early. Positioning awareness issues observed in crosswinds/splits. Age-related decline evident in sustained efforts against peak-form climbers.",
+  "key_patterns": [
+    "Consistently dropped on final or penultimate climbs of major races (5+ observations across Giro, Tour, Lombardia)",
+    "Early attacks on major climbs regularly fail to stick, showing diminished power reserves (Mortirolo 2022, Lombardia 2021)",
+    "Isolated without team support on decisive moments across multiple Grand Tour stages",
+    "Time losses accelerate in final kilometers: 5km mark typically where distancing begins",
+    "Monument performances show steep decline: dropped pre-finale in 3 Lombardia appearances analyzed"
+  ],
+  "form_trajectory": "negative: Clear end-of-career decline evident across 2019-2022 period. Retirement race (2022 Lombardia) confirmed pattern of being distanced on key climbs. Brief bridge to Carapaz showed tactical intelligence remains but physical capacity insufficient for modern GC racing.",
+  "races_analysed": 10,
+  "confidence": "high",
+  "rider_name": "NIBALI Vincenzo",
+  "built_from": [
+    "2019 Il Lombardia",
+    "2019 Tour de France Stage 20",
+    "2019 Tour de France Stage 20",
+    "2020 Paris - Nice Stage 1",
+    "2020 Paris - Nice Stage 4",
+    "2021 Il Lombardia",
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 17",
+    "2022 Giro d'Italia Stage 4",
+    "2022 Il Lombardia"
+  ]
+}

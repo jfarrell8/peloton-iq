@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Suisse Stage 5",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-16",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VLASOV Alexander won after LECHNER and FULSANG split the GC group on the penultimate climb with 4km to go",
+    "winner": "VLASOV Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Premier Tech isolated Fulsang by pacing penultimate climb, splitting peloton before their leader counterattacked with 4km remaining.",
+      "INEOS chased breakaway without Yates due to COVID, then delivered Thomas to winning move despite temporary isolation.",
+      "Five-rider elite group reformed under 2km despite Fulsang's 4km acceleration, suggesting insufficient gap creation on penultimate climb."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: dropped on penultimate climb, rejoined but dropped again on final climb, losing 2+ minutes",
+      "MATTHEWS Michael": "negative: desperately struggling before final climbs despite classic puncheur profile suiting this finish",
+      "FULSANG Jakob": "positive: strong enough to attack penultimate climb and initiate winning move despite being marked by entire GC group",
+      "VLASOV Alexander": "positive: won from reduced sprint after surviving Israeli acceleration tactics, building Tour de Romandie form",
+      "YATES Adam": "negative: COVID positive prevented start, entire Jumbo-Visma also withdrew"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:55:34.744542+00:00"
+}

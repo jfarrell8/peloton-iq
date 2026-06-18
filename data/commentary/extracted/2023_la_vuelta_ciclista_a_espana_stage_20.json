@@ -1,0 +1,24 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 20",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-16",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POELS Wout attacked from 5-man breakaway group inside flamme rouge on final climb, held off EVENEPOEL Remco's late charge by margins.",
+    "winner": "POELS Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "32-rider breakaway given 10+ minutes reveals GC teams completely ceding stage to non-contenders on penultimate mountain day.",
+      "EVENEPOEL attacked 70km out forcing selection but couldn't sustain on final climb, exposing fatigue after multi-stage dominance.",
+      "POELS attacked inside 1km from 5-man group, demonstrating late-attack timing advantage over pursuing chasers on short punchy finish."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: won three stages but couldn't convert breakaway presence to fourth, suggesting accumulated fatigue vulnerability",
+      "POELS Wout": "positive: perfectly timed inside-line attack at 300m after surviving 10-climb attrition showed rare tactical sharpness",
+      "KUSS Sepp": "neutral: protected by ROGLIC and VINGEGAARD with 17-second GC margin, revealing Jumbo-Visma's conservative defensive approach"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:07:08.109523+00:00"
+}

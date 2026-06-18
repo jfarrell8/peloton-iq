@@ -1,0 +1,31 @@
+{
+  "label": "2017 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-19",
+  "stage": 17,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primož won from the early break after soloing from Telegraph/Galibier through terrifying descents, holding off a chasing Froome/Uran group.",
+    "winner": "ROGLIC Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC crashed in breakaway on soft sand but still had power reserves to rampage climbs, suggesting exceptional recovery capacity.",
+      "MARTIN Dan's repeated attacks softened field before BARGUIL/BARDET offensive, revealing deliberate AG2R staged assault pattern at altitude.",
+      "SKY maintained two riders (FROOME, LANDA) in finale despite multiple accelerations, unprecedented luxury for GC protection on HC climbs.",
+      "BARGUIL Warren prioritized KOM points over stage win by attacking for third behind breakaway, sacrificing GC position for jersey mathematics."
+    ],
+    "rider_signals": {
+      "ROGLIC Primož": "positive: Five years cycling experience yet won hardest stage, descended Galibier fearlessly, time-trialed to hold off GC group",
+      "FROOME Chris": "positive: Only GC rider excited for Alps pre-stage, responded personally when LANDA couldn't, gained 9 seconds on rivals",
+      "ARU Fabio": "negative: Dropped definitively on Galibier accelerations, lost GC podium position to URAN who handled altitude better",
+      "YATES Simon": "negative: Never saw front again after early accelerations at altitude, white jersey lead now vulnerable despite TT advantage",
+      "BARGUIL Warren": "positive: Crashed, got shredded, still attacked for third on Galibier securing 49-point KOM lead with double-points finish remaining",
+      "MATTHEWS Michael": "positive: Hot hand final week made KDH crash abandonment decisive for green jersey, Sagan-like versatility emerging",
+      "KITTEL Marcel": "negative: Five stage wins but abandoned after crash, nine-point deficit would have made green jersey contestable",
+      "MARTIN Dan": "positive: Offensive forced KWIATKOWSKI to exhaustion before BARDET/BARGUIL attacks, tactical sacrificial role for AG2R",
+      "MENTIES Louis": "positive: Clawed back to YATES after being distanced, closed white jersey gap before final mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:10:04.441396+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Insufficient data to determine attacking style; role appears defensive/domestique-focused rather than attacking-oriented.",
+  "team_tactics": "UAE rider tasked with solo tempo control on major climbs when team depth is compromised, indicating trusted domestique status but inadequate team support structure.",
+  "terrain_preference": "Insufficient data to determine clear terrain preference; assigned to high mountain defense work on HC climbs like Galibier.",
+  "vulnerability": "Exposed when isolated as lone team defender on major mountain stages; unable to control pace against multiple attackers without team support, particularly when team is weakened by absences.",
+  "key_patterns": [
+    "Deployed as sole UAE domestique on critical mountain stages when team depth compromised.",
+    "Ineffective at controlling pace when isolated against multi-rider attacks on HC climbs."
+  ],
+  "form_trajectory": "unknown: single observation shows tactical deployment failure but unclear if due to individual form or impossible team situation",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MIKE Rafael",
+  "built_from": [
+    "2022 Tour de France Stage 11",
+    "2022 Tour de France Stage 11"
+  ]
+}

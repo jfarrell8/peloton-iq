@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro dItalia Stage 12",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-18",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won from a 30-rider breakaway after surviving the final climb by teeth-gritted determination, then outsprinting Squinzi and Berwick in Rivoli",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Five riders split from 30-man break with 90km remaining, creating decisive selection before final climb commenced.",
+      "BATISTELLO Samuel dropped despite making initial five-man selection, illness trumping positioning advantage in extended breakaways.",
+      "DENZ attacked 12km out on Colle Braida while visibly suffering, revealing aggression-while-weak can hold off fresher chasers."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "negative: abandoned race ill from back of peloton, never rejoined after start",
+      "MILAN Jonathan": "neutral: required doctor treatment mid-race but continued, points jersey ambitions compromised",
+      "DENZ Nico": "positive: first grand tour win at 29 after nearly being dropped on final climb, BORA's depth paying dividends",
+      "BATISTELLO Samuel": "negative: made five-man selection but illness forced him back to peloton, positioning couldn't overcome physical state"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:00:25.549382+00:00"
+}

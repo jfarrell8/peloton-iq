@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker by profile. Lacks explosive acceleration needed for late-race moves or finishing sprints, particularly in final 150m when power demands peak.",
+  "team_tactics": "Benefits from strong leadout positioning but cannot convert advantageous placement into results. Team invests in setup but finishing speed insufficient to capitalize.",
+  "terrain_preference": "Struggles exposed on both sustained high-pace flat sections and sprint finishes. No clear terrain strength demonstrated; weaknesses visible across profiles.",
+  "vulnerability": "Cannot respond when pace lifts sharply (dropped at 40km) or when sprints require sustained high-end power from 150m out. Pace selection and finishing speed both problematic.",
+  "key_patterns": [
+    "Positioned well by team but lacks finishing speed to convert (2 observations).",
+    "Dropped when race pace intensifies, unable to handle sustained tempo increases (2 observations).",
+    "Deficiencies in final 150m power output cost results despite tactical positioning (2 observations)."
+  ],
+  "form_trajectory": "negative: consistent pattern of being unable to handle race-winning intensities across both 2019-2020 observations",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ACKERMAN Pascal",
+  "built_from": [
+    "2019 UAE Tour Stage 2",
+    "2020 Paris - Nice Stage 2"
+  ]
+}

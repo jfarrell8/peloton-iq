@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Lacks decisive attacking punch even when given tactical opportunities. Shows reluctance or inability to exploit numerical advantages and isolated rivals.",
+  "team_tactics": "Receives protected rider status from UAE Team Emirates but struggles to convert team support into results. Given opportunities to attack when rivals are isolated but fails to capitalize.",
+  "terrain_preference": "Time trial specialist with top-5 capability on technical courses. Struggles on punchy accelerations and explosive climb finishes; better suited to steady tempo efforts.",
+  "vulnerability": "Cannot follow sharp accelerations when GC rivals attack (dropped at 9km when pace surges). Fails to capitalize when handed tactical advantages with numerical superiority.",
+  "key_patterns": [
+    "Dropped early when pace accelerates sharply on climbs (9km from finish, Paris-Nice 2023)",
+    "Strong time trialist but climbing punch insufficient for elite GC battle finishes (2 instances)",
+    "Given protected status and tactical opportunities but cannot convert advantages into gaps or results"
+  ],
+  "form_trajectory": "negative: Regressed from dangerous Tour GC form (2022) to being dropped early by rivals' accelerations (2023)",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MARTINEZ Daniel",
+  "built_from": [
+    "2022 Paris-Nice Stage 5",
+    "2022 Tour de Suisse Stage 8",
+    "2023 Paris-Nice Stage 7"
+  ]
+}

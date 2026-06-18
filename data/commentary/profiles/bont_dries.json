@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Operates from breakaways rather than bunch sprints, capable of winning from small group selections after extended distances (156km+). Exploits tactical miscalculations by sprint teams.",
+  "team_tactics": "Uses sprinter reputation as tactical deception—allows peloton to underestimate breakaway threat while preserving energy for final effort rather than leading out.",
+  "terrain_preference": "Long, attritional stages that thin breakaway groups to 3-4 riders where sprint speed becomes decisive advantage over pure breakaway specialists.",
+  "vulnerability": "Single race observation limits profile—unclear how performs when sprinters' teams control effectively or in pure bunch sprint scenarios.",
+  "key_patterns": [
+    "Won from 4-man breakaway when given excessive freedom by sprinters' teams (1:11 gap).",
+    "Faster than typical breakaway riders in small group sprints despite domestique role expectations.",
+    "Benefits from tactical misreads where teams underestimate threat based on perceived lead-out duties."
+  ],
+  "form_trajectory": "unknown: Single victory demonstrates opportunistic quality and tactical intelligence, but insufficient data to establish trajectory trend",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BONT Dries",
+  "built_from": [
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 18"
+  ]
+}

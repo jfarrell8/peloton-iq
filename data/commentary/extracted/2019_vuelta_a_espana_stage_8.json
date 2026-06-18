@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-31",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ARNDT Nikias won from reduced breakaway sprint after Stybar caught inside final km, while Edet's 6:24 GC deficit allowed 9-minute gap to create new race leader",
+    "winner": "ARNDT Nikias",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana failed to defend Lopez's red jersey despite only 6:24 gap to Edet, allowing 9+ minute advantage revealing GC miscalculation",
+      "Treacherous descent eliminated breakaway sprinters Sanchez/Jakobsen while climber Stetina attacked mid-climb, showing course reading skill",
+      "Multiple late attacks inside 10km fractured breakaway cohesion but all caught sub-1km, indicating too-early moves on technical finish",
+      "Arndt sprinted seated on wet roads while others jumped, showing equipment/technique advantage in slippery conditions"
+    ],
+    "rider_signals": {
+      "EDET Nicolas": "positive: Prioritized stage racing over GC mathematics, fortuitous result gave him red jersey by 9+ minutes",
+      "LOPEZ Miguel Angel": "negative: Astana's defensive riding lost red jersey to rider 6:24 down, catastrophic gap management",
+      "STETINA Peter": "positive: Solo climber attacked mid-ascent gaining 30 seconds, correctly identified terrain advantage before regrouping",
+      "STYBAR Zdenek": "negative: Caught Ludvigsen but couldn't hold off sprint inside 1km, mistimed final acceleration",
+      "TUSVELD Martijn": "negative: Crashed on wet roundabout while leading promising counter-attack, overcooked technical section",
+      "ARNDT Nikias": "positive: Seated sprint technique on wet roads proved faster than traditional jump, unusual tactical execution"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:22:20.665655+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-18",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Simon won from a 40-rider breakaway after teammate TRENTIN bridged solo on Orquiet d'Ason, then Yates used smaller gear to kick from technical final corner.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott planted two riders in 40-man break; TRENTIN bridged solo on Orquiet d'Ason creating numbers advantage for finale.",
+      "YATES deliberately used smaller gear than rivals on technical finish allowing superior acceleration from final corner at lower cadence.",
+      "SAGAN attacked twice for intermediate sprint points despite break being 6:30 ahead, then immediately abandoned chase revealing green jersey calculation.",
+      "Peloton conceded 9:07 to break day before time trial, signaling GC teams prioritizing next day over policing stage."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Former track champion converted technical positioning skills into road stage win using gear selection tactics",
+      "TRENTIN Matteo": "positive: Solo bridged to leaders on Orquiet d'Ason showing all-rounder ability beyond expected sprint-only profile",
+      "SAGAN Peter": "neutral: Attacked for intermediate points then quit break immediately, purely mathematical green jersey play with no stage ambition",
+      "ALAPHILIPPE Julian": "positive: Defended yellow by staying front of peloton on climbs despite tomorrow's time trial, showing confidence not conservation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:13:23.568288+00:00"
+}

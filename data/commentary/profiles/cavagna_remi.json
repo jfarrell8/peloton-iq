@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches long-range solo efforts (25km+) from reduced groups late in stages, willing to commit to extended time trials in unfavorable conditions like headwinds. Attacks when opportunities arise from race chaos rather than planned positioning.",
+  "team_tactics": "Given freedom to exploit opportunistic situations when accidentally gapped or when race circumstances allow. Team shows confidence in his diesel engine to commit to extended solo efforts rather than pull him back.",
+  "terrain_preference": "Flat to rolling stages where time trial power can be sustained over distance. Excels in reduced bunch scenarios where pure power matters more than climbing. Struggles when immediate recovery is needed after hard efforts.",
+  "vulnerability": "Cannot recover within 24 hours after major efforts (bridging, punctures). Lacks explosive acceleration to create decisive gaps against organized chases from fresh riders, even when wearing national champion jersey.",
+  "key_patterns": [
+    "Commits to 20km+ solo breakaways, willing to ride extended time trials alone (2 instances)",
+    "Attacks late in Grand Tours despite domestique duties, suggesting exceptional diesel reserves (2 observations)",
+    "Struggles with next-day recovery after maximal bridging or puncture efforts (2 confirmations)",
+    "Exploits opportunistic situations from race chaos rather than executing planned attacks (3 instances)"
+  ],
+  "form_trajectory": "neutral: 2022 showed ability to reach late-stage selection groups but lost finishing punch to hold off chases, suggesting maintained endurance but reduced explosive power compared to 2019 Grand Tour performances",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "CAVAGNA Remi",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 11",
+    "2019 Vuelta a Espana Stage 19",
+    "2019 Vuelta a Espana Stage 19",
+    "2019 Vuelta a Espana Stage 4",
+    "2022 Criterium du Dauphine Stage 1"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Launches decisive solo attacks on major climbs with 10-11km remaining, capable of sustaining efforts on HC climbs (Alpe d'Huez). Prefers explosive accelerations on steep gradients rather than grinding longer climbs.",
+  "team_tactics": "INEOS deploys him with dual role flexibility: Monument/Classic leader with selective support, or opportunistic stage hunter in Grand Tours. Team initiates selections on key climbs (Kwaremont) but domestique support appears limited on extended mountain stages.",
+  "terrain_preference": "Explosive climbs 10-15km length with steep gradients (15%+); punchy Ardennes-style finales. Excels on climbs requiring power-to-weight bursts rather than sustained 20km+ grinding. Cobbled Classics selections suit his explosive style.",
+  "vulnerability": "Multi-climb mountain stages expose Grand Tour limitations—dropped by 30km mark on major Alpine stages. Struggles with positioning before decisive moments (Tirreno crash). Tactical inexperience in Monument finales (Liège collaboration refusal). Extended efforts beyond 15km climbing.",
+  "key_patterns": [
+    "Fades on penultimate/third climbs of mountain stages, cannot sustain GC pace beyond 15km efforts (3 observations)",
+    "Attacks explosively 10-11km from summit on isolated HC climbs when fresh (Alpe d'Huez pattern)",
+    "Monument podiums achievable but tactical naivety in finale coalitions costs winning opportunities (Liège, Amstel)",
+    "Health/form volatility disrupts campaign consistency—COVID, positioning struggles evident across 2022-2023 seasons",
+    "INEOS struggles providing sustained mountain support, leaving him isolated on multi-climb stages (2 Tour observations)"
+  ],
+  "form_trajectory": "neutral: 2023 showed genuine GC group survival early Tour stages but repeated fade on penultimate climbs confirms persistent endurance ceiling unchanged from 2022 limitations",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "PIDCOCK Tom",
+  "built_from": [
+    "2022 Amstel Gold Race",
+    "2022 Dwars door Vlaanderen",
+    "2022 La Fleche Wallonne",
+    "2022 Tour de France Stage 12",
+    "2022 Tour de France Stage 12",
+    "2022 Tour de France Stage 17",
+    "2022 Tour de Suisse Stage 6",
+    "2023 Amstel Gold Race",
+    "2023 Liege-Bastogne-Liege",
+    "2023 Tirreno-Adriatico Stage 4",
+    "2023 Tour de France Stage 13",
+    "2023 Tour de France Stage 14",
+    "2023 Tour de France Stage 2"
+  ]
+}

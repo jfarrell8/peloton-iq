@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Excels in uphill sprint finishes, capitalizing on positioning errors in technical finals. Strikes when favorites lose position through curves in closing meters.",
+  "team_tactics": "Opportunistic positioning to benefit from other teams' leadout work. Relies on individual positioning skill rather than team support in decisive moments.",
+  "terrain_preference": "Uphill sprint finishes with technical approach through curves that disrupt organized leadouts. Benefits from gradient transitions that neutralize pure sprinters.",
+  "vulnerability": "Insufficient data to establish clear weaknesses. May depend on positioning chaos rather than raw power against organized sprint trains.",
+  "key_patterns": [
+    "Excels at navigating technical finales with curves better than sprint favorites",
+    "Times uphill sprint efforts precisely to peak at optimal moment",
+    "Capitalizes on positioning mistakes by stronger teams in final meters"
+  ],
+  "form_trajectory": "positive: Strong performance defeating Van Aert at Dauphine served as significant pre-Tour form indicator",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GODEAU David",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 3",
+    "2022 Criterium du Dauphine Stage 3"
+  ]
+}

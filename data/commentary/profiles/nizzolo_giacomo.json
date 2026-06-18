@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure sprinter who relies on team lead-out execution in technical finales, contesting from optimal position in final 200-300m rather than launching long-range efforts.",
+  "team_tactics": "Depends heavily on organized sprint train delivery with designated lead-out men (Zabel at Alpecin-Fenix, Israel Premier Tech train). Success contingent on final-km positioning precision through technical sections.",
+  "terrain_preference": "Technical finales where positioning matters more than raw power. Struggles to convert even when delivered perfectly, suggesting moderate power output or poor timing in chaotic sprints.",
+  "vulnerability": "Fails to capitalize on well-executed lead-outs. Both observations show strong team support but inability to finish top-3, indicating either poor final acceleration, mistimed kick, or insufficient top-end speed in elite-level bunch sprints.",
+  "key_patterns": [
+    "Underperforms relative to lead-out quality: perfect positioning yields 5th or worse (2 instances)",
+    "Team mechanics calibrated but personal finishing power insufficient against top-tier sprinters (2 races)",
+    "Technical finales handled well positionally but conversion to podium lacking (2 observations)"
+  ],
+  "form_trajectory": "negative: Consistent failure to convert quality lead-outs into top-3 finishes across different teams (Israel PT and Alpecin-Fenix), suggesting declining finishing speed or confidence issues in 2022",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "NIZZOLO Giacomo",
+  "built_from": [
+    "2022 Giro d'Italia Stage 3",
+    "2022 Tirreno-Adriatico Stage 7"
+  ]
+}

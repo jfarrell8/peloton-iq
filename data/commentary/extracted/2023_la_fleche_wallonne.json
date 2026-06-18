@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2023-04-19",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR won from gruppo compatto on final Mur de Huy ascent after UAE Emirates controlled all day, holding off late-surging SKELMOSE by centimeters.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates burned entire team chasing breakaway all day despite having strongest finisher, questionable energy expenditure pre-finale.",
+      "VERMARC bridged to breakaway final lap, stronger tactic than sitting in peloton given UAE's unsustainable chase tempo.",
+      "BARDET attacked outside on steepest section but WOODS unintentionally squeezed him, revealing positioning battles trump pure power.",
+      "Trek-Segafredo brought SKELMOSE and CICCONE both into top-5, multiple-card strategy nearly paid off against sitting Pogacar."
+    ],
+    "rider_signals": {
+      "SKELMOSE Mattias": "positive: Closed gap to Pogacar in final meters on seated climb, nearly won despite youth, genuine Ardennes contender emerging.",
+      "VERMARC Louis": "positive: Only rider attempting bridge to breakaway final lap showed tactical creativity absent from passive peloton.",
+      "HEALY Ben": "neutral: Positioned well with 1km to go but disappeared on steepest section, suggests lacking explosive punch.",
+      "BARDET Roman": "negative: Attacked early on Mur but immediately neutralized by positioning squeeze, mistimed move before maximum gradient.",
+      "WOODS Mike": "neutral: Led into steepest section for Israel-PT but faded to fourth, domestique effort disguised as leadership.",
+      "SHEFFIELD Magnus": "neutral: Strong leadout suggests climbing development but disappeared when racing started, still in development phase."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:04:22.094531+00:00"
+}

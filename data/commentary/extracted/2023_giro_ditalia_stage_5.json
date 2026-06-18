@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 5",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won a crash-marred sprint after rainy conditions slowed the peloton to mid-30s km/h average speed and eliminated several contenders in late crashes.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Break allowed zero threat despite horror conditions—peloton kept gap at 1 minute even riding mid-30s average, suggesting sprint teams calculated pace control.",
+      "Late-race crashes at 7km and sub-3km show GC teams failed to position leaders safely despite obvious danger from slow racing pace."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: hit deck twice (dog-caused crash mid-race, another sub-3km) revealing poor positioning luck or team shelter failure in dangerous conditions",
+      "ROGLIC Primoz": "positive: caught in 7km crash but recovered to peloton, demonstrating superior bike handling or team recovery protocol",
+      "CAVENDISH Mark": "negative: back wheel slipped on white line in final 300m then crashed across line, suggesting age/handling limitations in wet technical finishes",
+      "PINOT Thibaut": "neutral: took KOM points from break then soft-pedaled back, reveals mountains jersey hunting without GC ambition"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:03:05.499714+00:00"
+}

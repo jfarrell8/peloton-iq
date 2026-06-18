@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Limited attacking capability shown; appears more reactive than proactive. When present in early moves (Mortirolo), unable to sustain efforts through multiple climbs or respond to best accelerations.",
+  "team_tactics": "EF Education prioritizes stage hunting over GC support for Carthy, evidenced by domestique duties for Bettiol at Tour de Suisse. Limited visible team protection in critical moments.",
+  "terrain_preference": "Pure high-altitude climbing suits better than technical multi-climb stages. Exposed roads and crosswinds are significant weaknesses; struggles when pace lifts suddenly on steep gradients.",
+  "vulnerability": "Crosswinds and exposed terrain cause catastrophic losses (70km pre-climb split at Giro, Vuelta crosswinds). Cannot follow when pace intensifies after domestique support ends. Lacks finishing acceleration for stage wins despite reaching select groups.",
+  "key_patterns": [
+    "Dropped when team pace support ends; lost contact when Vine finished work (2023)",
+    "Vulnerable to pre-climb selections in exposed/flat terrain; missed 70km split, crosswind splits (3 instances)",
+    "Cannot sustain efforts across multiple climbs; dropped on transitions like Valle Santa Cristina after Mortirolo",
+    "Lacks stage-winning acceleration despite reaching break groups; fringe top-10 GC status confirmed",
+    "Shows determination fighting back to groups but ultimately shed again on steep sections"
+  ],
+  "form_trajectory": "negative: Recent 2023 Giro shows continued struggles matching GC pace when isolated, confirming fringe top-10 ceiling without improvement in weaknesses",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "CARTHY Hugh",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 16",
+    "2022 Tour de Suisse Stage 4",
+    "2023 Giro dItalia Stage 13",
+    "2023 Giro dItalia Stage 16"
+  ]
+}

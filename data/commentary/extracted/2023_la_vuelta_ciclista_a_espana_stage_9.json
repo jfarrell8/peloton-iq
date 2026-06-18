@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 9",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-03",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KÄMNA Lennard soloed to victory from breakaway on final climb with 4.8km remaining after organizers moved GC finish line 2km earlier due to mud.",
+    "winner": "KÄMNA Lennard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma accidentally went forward with six riders in early move, forcing peloton chaos before order restored 15km later.",
+      "Organizers moving GC finish 2km early eliminated bonus second importance, reducing peloton urgency to chase breakaway significantly.",
+      "Bora sacrificed Kämna chase duty to protect Vlasov's GC position by creating time gaps in crosswinds alongside Jumbo.",
+      "Vlasov attacked for bonus seconds at GC finish despite being outside top-10, revealing tight time margins anticipated in standings."
+    ],
+    "rider_signals": {
+      "KÄMNA Lennard": "positive: Attacked with 4.8km on 20-23% gradients after already being in long break, completing grand tour stage win trilogy",
+      "MARTINEZ Lenny": "negative: Former leader caught out badly in crosswind splits despite having Groupama-FDJ teammates present",
+      "VLASOV Alexander": "positive: Actively hunting bonus seconds outside top-10, suggesting team sees him as viable podium contender post-time trial",
+      "EVENEPOEL Remco": "neutral: Tested Roglič on final climb despite GC finish being declared earlier, maintaining aggression before rest day"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:08:51.227924+00:00"
+}

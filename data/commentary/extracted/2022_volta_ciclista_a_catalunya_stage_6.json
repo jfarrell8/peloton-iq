@@ -1,0 +1,28 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-26",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAZ outsprinted HIGUITA after 28-rider break split into leading duo, with HIGUITA taking race lead despite losing stage",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos planted Carapaz in 28-rider break while UAE protected leader, forcing UAE to chase alone revealing isolation.",
+      "Higuita-Carapaz détente broke down when time gap meant GC jersey worth more than stage cooperation arrangement.",
+      "Six-rider chase including Quintana failed because Ayuso rode without radio, causing timing miscommunication and regrouping delays.",
+      "Ineos deployed Carapaz in break despite having no GC position, pure stage-hunting freed him from pace-setting duties."
+    ],
+    "rider_signals": {
+      "HIGUITA Sergio": "positive: Colombian champion initiated early Cat-1 break split and nearly held off Carapaz sprint despite carrying GC defense burden",
+      "CARAPAZ Richard": "positive: Timed final 1300m attack perfectly, closed bike-length deficit in final 100m against motivated GC rival",
+      "AYUSO Juan": "negative: Rode bridging effort without race radio creating coordination failures, showed individual strength but tactical naivety",
+      "ALMEIDA João": "negative: Lost race lead by allowing 28-rider break with two strong climbers, UAE isolated doing all chase work",
+      "QUINTANA Nauru": "negative: Joined six-rider chase group but couldn't prevent losing race he previously led, showing declining form",
+      "GROVES Kaden": "neutral: DSM gambled on Van der Poel leadout, Groves took third from reduced bunch sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:58:56.370356+00:00"
+}

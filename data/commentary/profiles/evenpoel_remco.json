@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Demonstrates sustained solo power efforts rather than explosive attacks, capable of maintaining high tempo from distance (evidenced by diesel engine solo efforts). Shows superior pure speed in finishing situations when positioned correctly.",
+  "team_tactics": "Insufficient data across observations to establish clear team tactical patterns.",
+  "terrain_preference": "Flat to rolling terrain where sustained power and finishing speed are decisive. Technical finishes may compromise his superior speed advantage if positioning is compromised.",
+  "vulnerability": "Technical finishes with corners and barriers can tactically trap him despite having superior speed. Aggressive bridging riders can nullify solo tempo efforts.",
+  "key_patterns": [
+    "Sustained solo power efforts ('diesel engine strength') rather than short explosive attacks (2 observations)",
+    "Superior pure finishing speed to top competitors when properly positioned (2 observations)",
+    "Technical course features can neutralize speed advantage through positioning constraints (2 observations)"
+  ],
+  "form_trajectory": "unknown: 4-year gap between observations makes trajectory assessment impossible despite both signals being positive",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "EVENPOEL Remco",
+  "built_from": [
+    "2019 UAE Tour Stage 3",
+    "2023 Volta Ciclista a Catalunya Stage 1"
+  ]
+}

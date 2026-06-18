@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 7",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-13",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAUHAUS Phil won the Tirreno-Adriatico stage 7 sprint by switching to the opposite side of the road after finding no space on the sunny side approaching the flamme rouge.",
+    "winner": "BAUHAUS Phil",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Premier Tech controlled lead-out through technical final 3km sequence but NIZZOLO failed to convert their positional dominance.",
+      "BAUHAUS switched road sides late when blocked, exploiting teams fixating on sunny-side positioning through curved technical approach.",
+      "Bahrain Victorious sprinter survived without dedicated lead-out where Intermarché's KRISTOFF failed despite team numbers after morning crash.",
+      "Technical pinch at flamme rouge after right-hander sub-3km eliminated pure speed sprinters, favoring positioning over power."
+    ],
+    "rider_signals": {
+      "NIZZOLO Giacomo": "negative: Had perfect Israel Premier Tech lead-out through technical finale but failed to finish top-3",
+      "KRISTOFF Alexander": "negative: Team disrupted by morning CORT crash yet positioned well but booked/tangled in approach sprint",
+      "BAUHAUS Phil": "positive: Showed tactical awareness switching road sides when boxed, converted poor position to win without lead-out train",
+      "POGACAR Tadej": "neutral: Dominated GC/points/youth classifications throughout week, completing clean sweep of non-mountains jerseys",
+      "CAVENDISH Mark": "negative: Tangled with FIORELLI approaching finale, unable to contest despite surviving technical circuits"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:49:32.240511+00:00"
+}

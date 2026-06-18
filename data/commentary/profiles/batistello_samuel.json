@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Demonstrates ability to make early, elite selections in breakaway moves but durability remains unproven when facing extended efforts.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns; appears to operate in breakaway scenarios requiring independent positioning.",
+  "terrain_preference": "Capable of handling terrain selective enough for five-man groups, but physical limitations prevent conclusive terrain assessment.",
+  "vulnerability": "Physical resilience in extended efforts is a critical weakness; illness or deteriorating condition forces abandonment even from advantageous positions.",
+  "key_patterns": [
+    "Capable of making highly selective early breakaway moves in Grand Tour stages.",
+    "Physical condition overrides tactical positioning advantages when illness or fatigue sets in.",
+    "Unable to sustain efforts in small groups despite initial selection capability."
+  ],
+  "form_trajectory": "negative: illness compromised performance during Giro despite strong initial positioning, suggesting declining or compromised condition",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BATISTELLO Samuel",
+  "built_from": [
+    "2023 Giro dItalia Stage 12",
+    "2023 Giro dItalia Stage 12"
+  ]
+}

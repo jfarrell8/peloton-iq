@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-16",
+  "stage": 10,
+  "channel": "GCN",
+  "extraction": {
+    "one_line_summary": "POLANC Jan soloed to victory on Mt. Etna, staying clear of a 20-rider GC group in brutal headwinds after attacking in the early breakaway.",
+    "winner": "POLANC Jan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Polanc sustained higher power than GC group's 368-385 watts to solo upwind Mt. Etna, defying typical late-stage script.",
+      "Movistar refused to wait after moto crash 15km from Blockhaus finish, exploiting ambiguity in peloton patron system.",
+      "Sky notably avoided criticizing Movistar's no-wait decision, revealing pragmatic acceptance of racing through crashes late in stages."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: Extended GC lead to 28sec over Dumoulin/Pinot by racing through moto crash with 15km remaining",
+      "KELDERMAN Wilco": "negative: Race-ending finger break from moto crash eliminated Sunweb's dual-leader strategy before mountain stages",
+      "THOMAS Geraint": "negative: 4-5 minutes down after Blockhaus moto crash, but commentary suggests podium still tactically viable",
+      "YATES Adam": "negative: 4-5 minutes down but commentators expect continued GC pursuit rather than stage-hunting pivot",
+      "LANDA Mikel": "negative: GC hopes eliminated by moto crash despite being in contention before Blockhaus incident",
+      "POLANC Jan": "positive: Second Giro stage win, sustained breakthrough power into headwind against 20-rider chase, underrated climbing ability confirmed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:06:56.241668+00:00"
+}

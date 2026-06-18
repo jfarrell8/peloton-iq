@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets stage wins from reduced group sprints rather than solo efforts. Lacks the sustained power for long-distance solo bridges, preferring to position for finale sprint tactics.",
+  "team_tactics": "Limited evidence of team support in observations; appears to operate independently in breakaways, relying on individual positioning and tactical awareness rather than coordinated setups.",
+  "terrain_preference": "Medium mountain stages and reduced bunch scenarios where tactical acumen matters more than pure climbing power. Exposed on efforts requiring sustained high-wattage chasing or bridging.",
+  "vulnerability": "Struggles with pacing judgment on long solo chase efforts, particularly on climbs. Failed bridge attempts despite visual contact with targets suggest power limitations at threshold. Can be tactically outsmarted when refusing cooperation costs the win.",
+  "key_patterns": [
+    "Failed solo bridge attempts despite breakaway being in sight; lacks sustained chase power (2 instances)",
+    "Wins from tactical small-group scenarios rather than solo efforts; sprint finisher from breaks (1 win)",
+    "Poor cooperation in chase situations; tactical rigidity allows third parties to succeed (2 instances)"
+  ],
+  "form_trajectory": "positive: 2023 Vuelta stage win shows matured tactical finishing ability, though fundamental power limitations for sustained efforts remain unchanged",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "COSTA Rui",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2023 La Vuelta Ciclista a Espana Stage 15"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-27",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAUMANN Koen won from breakaway, taking second stage and sealing KOM; GC trio CARAPAZ, HINDLEY, LANDA remained deadlocked at 3 seconds after final climb sparring.",
+    "winner": "BAUMANN Koen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-Hansgrohe rode tempo then retreated on final climb with 3-second GC gap, revealing defensive posture when leading by margins under 5 seconds.",
+      "12-man breakaway gained 12 minutes before Bora paced, suggesting teams calculated GC threats could be neutralized on 10km final climb.",
+      "SIVAKOV pulling through final 3km before CARAPAZ attack shows INEOS using protected rider as final lead-out rather than saving for counter-attacks.",
+      "LANDA gapped slightly in final kilometer but CARAPAZ-HINDLEY cooperation closed it, indicating temporary alliances form when leader shows weakness even at 1:05 deficit."
+    ],
+    "rider_signals": {
+      "PORT Richie": "negative: abandoned with gastroenteritis when climbing started at 62km to go, suggesting illness impacts climbers earlier than flat specialists",
+      "SIVAKOV Pavel": "positive: strong enough at altitude to pace CARAPAZ through final 3km, indicating genuine climbing form not just domestique duties",
+      "LANDA Mikel": "negative: created small gap in finale but couldn't sustain, suggesting explosive power exists but fatigue prevents capitalizing at 1:05 down"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:39:18.584843+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-03",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked on penultimate climb, dropped CARAPAZ immediately, bridged solo to breakaway in big ring on final HC climb, took yellow by 1:48.",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "UAE Emirates isolated early but attacked anyway on penultimate climb, flipping numerical disadvantage into psychological dominance through overwhelming power.",
+      "POGAČAR used big ring on final HC climb while chasing, signal of supernatural form that paralyzed GC rivals.",
+      "Race split from kilometer zero on uncategorized climb, exposing THOMAS/ROGLIČ before real mountains even started.",
+      "CARAPAZ got CASTROVIEJO support but still couldn't hold POGAČAR, revealing INEOS domestique help meaningless against pure power."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Solo bridged 31 seconds to breakaway on final HC climb in big ring, unprecedented power display changed entire GC hierarchy in one stage.",
+      "THOMAS Geraint": "negative: Dropped on uncategorized descent before kilometer zero, never regained contact, eliminated before real racing started.",
+      "ROGLIČ Primož": "negative: Lost contact early despite starting well, Tour hopes ended on first mountain stage.",
+      "CARAPAZ Richard": "negative: Only rider to initially follow POGAČAR but dropped quickly despite INEOS support, gap to winner 1:48.",
+      "VAN AERT Wout": "negative: Failed yellow jersey ambition, battled but couldn't reach front group despite early positioning.",
+      "WOODS Michael": "positive: Made front breakaway at 6:30 from yellow, survived to third place, strong mountain form signal."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:33:42.016661+00:00"
+}

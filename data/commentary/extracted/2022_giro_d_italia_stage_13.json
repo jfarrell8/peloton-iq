@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-20",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnaud took his third stage win in a tactical sprint as the peloton misjudged the breakaway catch, closing only 20 seconds with 2km remaining.",
+    "winner": "DEMAR Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Peloton miscalculated chase badly: gap still 3 minutes at 25km, causing panic and requiring multiple teams to intervene late.",
+      "Wind created key split 30km out eliminating Richie Porte's group, showing positioning failures despite flat terrain to finish.",
+      "Breakaway doubled their gap on Nava climb to 7 minutes, revealing peloton fatigue allowed sprint teams to lose control mid-stage."
+    ],
+    "rider_signals": {
+      "BALDY Roman": "negative: forced to abandon from 4th GC overnight due to illness despite looking brilliant through 12 stages",
+      "DEMAR Arnaud": "positive: third stage win showing dominant sprint form plus controlling intermediate sprints to extend ciclamino lead unopposed",
+      "PORTE Richie": "negative: caught in 30-rider split 30km out in crosswinds despite relatively straightforward sprint stage finale",
+      "CAVENDISH Mark": "neutral: close second but couldn't come around Demar despite Quickstep working all day for the leadout"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:37:53.439923+00:00"
+}

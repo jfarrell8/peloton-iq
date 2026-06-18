@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic finisher who exploits tactical situations in final 3km on rolling terrain. Wins through precise timing and positioning rather than sustained climbing power.",
+  "team_tactics": "Relies on other teams (e.g., Jumbo-Visma) to control dangerous moves, then capitalizes on the regrouping to launch late attacks when favorites have expended energy.",
+  "terrain_preference": "Rolling finishes where pure climbers cannot dominate but power-to-weight still matters. Thrives in reduced bunch sprints after selective racing.",
+  "vulnerability": "Insufficient data on long climbs or mountain-top finishes. Likely exposed on sustained gradients where raw climbing power determines outcomes rather than tactical timing.",
+  "key_patterns": [
+    "Attacks inside final 3km on rolling finishes when reduced selection exists",
+    "Capitalizes on neutralized moves by waiting for regrouping before striking",
+    "Wins through timing precision rather than sustained climbing dominance"
+  ],
+  "form_trajectory": "unknown: single observation from early 2022 provides insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BAGGIOLI Andrea",
+  "built_from": [
+    "2022 Volta Ciclista a Catalunya Stage 7",
+    "2022 Volta Ciclista a Catalunya Stage 7"
+  ]
+}

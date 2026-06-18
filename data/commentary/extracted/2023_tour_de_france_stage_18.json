@@ -1,0 +1,24 @@
+{
+  "label": "2023 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-20",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ASGREEN Kasper won from a late breakaway at 8 seconds with 700m to go, holding off the sprinters after Philippsen blocked early bridge attempts.",
+    "winner": "ASGREEN Kasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Philippsen blocked Inchcorn's early bridge attempt to protect breakaway tactics, signaling Quick Step's alternative stage-win strategy when sprint trains absent.",
+      "Sprint teams collectively refused full commitment in final 5km with headwind/technical finish, allowing 4-man break to survive from 8sec at 700m.",
+      "Quick Step used Declercq's leadout skills for breakaway rider Asgreen instead of sprint train, maximizing veteran domestique value late-tour."
+    ],
+    "rider_signals": {
+      "PHILIPPSEN Jasper": "neutral: blocked Inchcorn bridge despite 4 prior stage wins, suggesting Quick Step prioritized any team win over fifth sprint victory",
+      "ASGREEN Kasper": "positive: converted leadout horsepower into solo breakaway win after 18-day wait, showing versatility beyond classics specialty",
+      "CAMPENAERTS Victor": "positive: massive final turn from breakaway kept 4-man group alive through 700m despite peloton closing to 8sec"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:20:55.977025+00:00"
+}

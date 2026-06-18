@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 12",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-26",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won stage 12 sprint after UAE Emirates burned their team chasing down the early break, emptying themselves before the finale.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates chased all day solo for no payoff, burning matches that left them vulnerable at finish with 26km remaining.",
+      "DSM pulled Haller from break preemptively recognizing UAE's chase made it doomed, showing sophisticated energy management.",
+      "Late four-rider counterattack at 20km exploited peloton fragmentation after UAE's hard chase dispersed riders across parcours.",
+      "BikeExchange seized front with Matthews/Trentin after doing zero chase work, parasiting off UAE's wasted effort."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: won day after losing in final 200m previous stage, showing exceptional mental resilience to execute again",
+      "HALLER Chad": "neutral: DSM tactically withdrew him from break early, suggesting team prioritizes long-term energy conservation over speculative efforts",
+      "ODD Christian": "neutral: Intermarche honored red jersey with chase support but didn't commit fully, leaving UAE isolated",
+      "ROGLIC Primoz": "negative: caught in major crash from touch of wheels, though remained in front group suggesting limited damage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:25:47.274020+00:00"
+}

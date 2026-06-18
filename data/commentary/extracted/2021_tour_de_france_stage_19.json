@@ -1,0 +1,24 @@
+{
+  "label": "2021 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-16",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MAHORIČ attacked with 25km remaining from a 20-rider breakaway, soloing to his second stage win after early peloton apathy allowed mass counter-attack.",
+    "winner": "MAHORIČ Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Peloton complete apathy after intermediate sprint allowed 20+ rider counter-attack to establish winning break definitively.",
+      "Israel Start-Up Nation attempted chase alone without other sprint teams, proving insufficient to control 20-rider break.",
+      "Mahorič's 25km solo from breakaway succeeded where others attacked earlier, timing advantage over disorganized chase group."
+    ],
+    "rider_signals": {
+      "MAHORIČ Matej": "positive: Already holding stage win, still had legs to solo 25km on flat/rolling terrain late in alpine tour",
+      "CAVENDISH Mark": "neutral: Deceuninck failed to chase intermediate sprint counter-attack, prioritizing Champs-Elysées over stage record attempt",
+      "MATTHEWS Michael": "negative: Contesting intermediate sprint points but lacked strength to follow winning move from 20-rider break"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:31:52.562940+00:00"
+}

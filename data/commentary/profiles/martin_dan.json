@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Deploys repeated attacks at altitude to soften the field for team leaders rather than pursuing personal victories. Performs sacrificial offensive work that exhausts opposition before teammates' final moves.",
+  "team_tactics": "AG2R utilized staged assault pattern with Martin making repeated attacks to exhaust key rivals (Kwiatkowski) before Bardet/Barguil offensive. Quick-Step allowed opportunistic GC positioning without dedicated support in 2017.",
+  "terrain_preference": "Mountain stages at altitude where repeated attacking can wear down opposition. Shows strength on final climbs with ability to pull back significant time (45 seconds in 3km). Exposed in technical scenarios requiring sprint positioning.",
+  "vulnerability": "Chronic positioning lapses in critical moments: caught out twice by intermediate sprint accelerations, lost 50 seconds missing teammate wheels before crosswind attacks. Poor instincts for peloton danger points suggest weak tactical radar or insufficient team communication.",
+  "key_patterns": [
+    "Repeatedly caught out by intermediate sprint accelerations, suggesting systematic positioning weakness (2 instances documented)",
+    "Sacrificial attacking role to exhaust rivals before team leader moves, not personal GC ambitions (2+ instances)",
+    "Exceptional crash recovery and resilience: 45mph crash to 9th place, racing fifth overall despite injuries",
+    "Strong final climb pacemaking ability, pulling back 45 seconds in 3km through sustained tempo work",
+    "Positioning lapses under pressure cost significant time in critical race moments (50 seconds, multiple sprint gaps)"
+  ],
+  "form_trajectory": "negative: 2019 observations show continued positioning errors (caught twice in seven stages), suggesting 2017 weaknesses persist without improvement in tactical awareness or team support quality",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "MARTIN Dan",
+  "built_from": [
+    "2017 Tour de France Stage 13",
+    "2017 Tour de France Stage 15",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 17",
+    "2017 Tour de France Stage 17",
+    "2017 Tour de France Stage 3",
+    "2017 Tour de France Stage 9",
+    "2019 Tour de France Stage 7",
+    "2019 Tour de France Stage 7"
+  ]
+}

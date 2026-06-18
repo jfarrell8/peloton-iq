@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-11",
+  "stage": 10,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won Stage 10 with his most dominant sprint, coming from far back with Sabatini's leadout after Quick-Step received no chase cooperation.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Teams refused to help Quick-Step chase, allowing Kittel perfect setup—non-cooperation becomes viable counter-tactic against dominant sprint trains.",
+      "Sabatini released Kittel before final corner rather than through it, allowing acceleration space to prevent wheel-surfing before top speed.",
+      "Sky rode defensive front positions on flat sprint stage despite no GC threat, treating transition stages as injury-risk management days."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Winning by unprecedented margins (fourth of ten stages) suggests peak form timing incomparable to past Tours",
+      "DEGENKOLB John": "negative: Could not hold Kittel's wheel despite perfect positioning, revealing pure power gap not tactical deficit",
+      "GREIPEL Andre": "negative: Lotto worked entire stage for Greipel who finished 12th, indicating sprint form collapse not leadout failure",
+      "FROOME Chris": "neutral: 50th career day in yellow reveals comfort level allowing Sky to prioritize crash avoidance over positioning aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:08:19.485994+00:00"
+}

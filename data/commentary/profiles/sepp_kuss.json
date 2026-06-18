@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a natural attacker; operates primarily as a high-altitude climbing support rider. When in GC contention, defends rather than initiates offensive moves.",
+  "team_tactics": "Historically deployed as premium domestique for lead-out work on climbs, particularly for Roglič. Team controls tempo through him rather than launching him into attacks.",
+  "terrain_preference": "High-altitude mountain stages where pure climbing efficiency matters. Exposed on ITT stages despite exceeding expectations when under pressure in leadership role.",
+  "vulnerability": "Time trials represent clear weakness as a pure climber, though can limit losses better than expected when motivated. Lacks explosive attacking punch to distance rivals on climbs.",
+  "key_patterns": [
+    "Functions as elite climbing domestique, tasked with lead-out duties for team leaders (2 observations)",
+    "Exceeds low ITT expectations under GC pressure but still vulnerable to specialist chronomen (2 observations)",
+    "Team relies on his tempo-setting rather than explosive attacks from distance (2 observations)"
+  ],
+  "form_trajectory": "positive: demonstrated unexpected GC resilience at 2023 Vuelta, holding red jersey through ITT with career-best time trial performance",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SEPP Kuss",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 10",
+    "2023 La Vuelta Ciclista a Espana Stage 10"
+  ]
+}

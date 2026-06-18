@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Pure bunch sprint finisher who does not attack but positions for final 200m acceleration. Excels on flat, technical circuit finishes where maneuverability matters more than raw power.",
+  "team_tactics": "Relies heavily on structured leadout train with experienced pilot (Richeze in 2019). Team controls echelons and pace in crosswinds. When leadout fails or is lost in chaos, positioning deteriorates significantly.",
+  "terrain_preference": "Dead-flat finishes and technical circuit sprints (Madrid). Completely exposed on any gradient or lumpy profiles—dropped before 20km on hilly circuits and struggles with even slight uphill finish gradients.",
+  "vulnerability": "Cannot handle any climbing or gradient in finale. Prone to mechanical issues and positioning errors inside final 3km. Lost team confidence by 2023, with squad riding for other sprinters instead.",
+  "key_patterns": [
+    "Dropped or distanced on any uphill gradient finish, even slight inclines (3 observations)",
+    "Positioning errors or mechanical issues inside final 3km lose contention (3 observations)",
+    "Excels on technical circuit finishes requiring maneuverability over pure power (2 observations)",
+    "Benefits from crosswind/echelon scenarios when team controls pace (2 observations)",
+    "Demonstrated tactical intelligence with intermediate sprint management for points jersey (2 observations)",
+    "Lost team leadout protection correlates directly with poor results (2 observations)"
+  ],
+  "form_trajectory": "negative: By 2023 lost team leadership role (Quick-Step rode for Ballerini). Positioning errors and crashes increased. Last confirmed win was March 2022.",
+  "races_analysed": 10,
+  "confidence": "high",
+  "rider_name": "JAKOBSEN Fabio",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 14",
+    "2019 Vuelta a Espana Stage 21",
+    "2019 Vuelta a Espana Stage 21",
+    "2019 Vuelta a Espana Stage 4",
+    "2019 Vuelta a Espana Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 2",
+    "2021 La Vuelta ciclista a Espana Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 8",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Nice Stage 3",
+    "2023 Tirreno-Adriatico Stage 7",
+    "2023 Tour de France Stage 4"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; role is sustained climbing support rather than launching late-race attacks. Operates as high-altitude pacemaker on final climbs.",
+  "team_tactics": "Deployed as critical climbing domestique to control tempo and protect team leader on decisive mountain stages. Engine-room worker who sacrifices personal result for team objective.",
+  "terrain_preference": "Best suited to sustained high-altitude climbing where diesel engine can set tempo. Exposed on punchy, short climbs or prolonged stage racing efforts.",
+  "vulnerability": "Susceptible to being dropped on earlier climbs when form is suboptimal, leaving team leader exposed with significant distance remaining. Consistency across multi-day efforts appears variable.",
+  "key_patterns": [
+    "Functions exclusively as high-mountain domestique for team leader, no personal ambitions evident (2 races).",
+    "Form fluctuates significantly: dropped early when off-form, massive climbing contributions when on-form (2 races).",
+    "Personal results sacrificed entirely for team tactics; no self-preservation instinct shown (2 races)."
+  ],
+  "form_trajectory": "positive: Dauphine performance showing massive climbing strength suggests peaked form heading into Tour, rebounding from earlier Paris-Nice struggles",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KUSS Steven",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 8",
+    "2022 Paris-Nice Stage 8"
+  ]
+}

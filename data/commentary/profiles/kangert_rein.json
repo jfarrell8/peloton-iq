@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not initiate attacks but opportunistically bridges to moves on climbs, using drafting advantage to conserve energy rather than forcing the pace.",
+  "team_tactics": "Operates independently in breakaways, prioritizing energy conservation over cooperative work; willing to let tactical opportunities fail rather than expend effort pulling.",
+  "terrain_preference": "Climbs where he can bridge using others' slipstream; avoids taking responsibility for chase or pace-setting on any terrain.",
+  "vulnerability": "Exposed when forced to work cooperatively in breakaways; tactical conservatism leads to caught breakaways when refusing to contribute pulls before finales.",
+  "key_patterns": [
+    "Bridges to attacks using drafting advantage rather than initiating moves himself (2 observations)",
+    "Refuses to pull through cooperatively in breakaways, prioritizing energy conservation (2 observations)",
+    "Strong enough to follow moves but tactically passive in execution (2 observations)"
+  ],
+  "form_trajectory": "neutral: physically strong enough to bridge challenging attacks but tactical approach undermined potential results",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KANGERT Rein",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 11"
+  ]
+}

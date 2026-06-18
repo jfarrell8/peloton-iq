@@ -1,0 +1,25 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 13",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-27",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SENECHAL Florian won from Deceuninck lead-out after JAKOBSEN punctured near 3km line, out-throwing TRENTIN in sprint.",
+    "winner": "SENECHAL Florian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck successfully recycled lead-out train after losing designated sprinter Jakobsen to late mechanical before 3km mark.",
+      "GC teams actively positioned through turns at 3.2km despite sprint stage, revealing continued paranoia about time loss.",
+      "KRIEGER Alexander's lead-out converted to personal sprint when MODOLO Sacha didn't hold wheel, exposing weak BikeExchange sprint cohesion."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "negative: suffered puncture or mechanical issue inside final 3.2km approaching roundabouts, completely out of contention despite team control",
+      "SENECHAL Florian": "positive: adapted from domestique to sprint finisher role mid-finale, beat TRENTIN on throw despite unplanned opportunity",
+      "KRIEGER Alexander": "neutral: strong enough to contest sprint when Modolo disconnected, but BikeExchange lead-out coordination failed at critical moment",
+      "EIKING Odd Christian": "neutral: retained red jersey at 58s over Mas before mountain stages, but commentary hints team may prioritize Meintjes top-10"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:25:58.339653+00:00"
+}

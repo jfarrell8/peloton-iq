@@ -1,0 +1,19 @@
+{
+  "attacking_style": "N/A - Morkov is a pure leadout specialist who does not attack for personal results. His role concludes 150-200m before the finish line delivering his sprinter.",
+  "team_tactics": "Executes textbook leadout trains with precise positioning through technical sections and chaos. Maintains composure and positioning even in crosswind-affected stages to deliver sprinter optimally.",
+  "terrain_preference": "Thrives in technical, chaotic finishes and crosswind conditions where positioning discipline separates elite leadout men. Flat sprint stages are his primary domain.",
+  "vulnerability": "Mountain stages render his skill set irrelevant. Pure power-based sprint trains may overpower his more technical positioning-focused approach on wide, straight finishes.",
+  "key_patterns": [
+    "Praised explicitly for sublime, textbook leadout execution across multiple seasons (2 observations)",
+    "Maintains elite positioning effectiveness through technical and crosswind-disrupted finishes (2 observations)",
+    "Consistently delivers sprinter (Cavendish) in optimal position 150-200m from line (2 observations)"
+  ],
+  "form_trajectory": "positive: praised for effectiveness across 2021 Tour and 2022 UAE Tour, demonstrating sustained elite leadout form",
+  "races_analysed": 2,
+  "confidence": "medium",
+  "rider_name": "MORKOV Michael",
+  "built_from": [
+    "2021 Tour de France Stage 10",
+    "2022 UAE Tour Stage 2"
+  ]
+}

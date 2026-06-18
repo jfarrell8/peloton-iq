@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Does not appear to be a primary attacker. Functions as a domestique who animates climbs early to set up teammates, willing to expend energy before decisive moves.",
+  "team_tactics": "Deployed in pure support roles: bottle duty, late-climb pacing for leaders (Roglic), and early animation to soften opposition before teammates' winning moves. Often isolated after completing duties.",
+  "terrain_preference": "Final climbs where he can set tempo and burn matches early for protected riders. No evidence of sprinting or TT specialization.",
+  "vulnerability": "Vulnerable when team tactics change mid-race (left isolated 1:51 behind after Van Aert prioritization). COVID vulnerability removed him during critical Alpine stages, suggesting difficulty being replaced.",
+  "key_patterns": [
+    "Sacrificial domestique role: isolated or distanced after completing support duties across multiple Grand Tours",
+    "Final climb animation specialist: repeatedly deployed to attack/pace before teammates' winning moves",
+    "Critical support timing: positioned as last remaining domestique with leaders on decisive climbs",
+    "Team reliance indicator: withdrawal or isolation described as 'significant tactical loss' or 'team weakness'"
+  ],
+  "form_trajectory": "unknown: most recent data from 2022 COVID withdrawal provides no performance insight beyond availability issues",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "BENNETT George",
+  "built_from": [
+    "2019 Tour de France Stage 10",
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 2",
+    "2022 Tour de France Stage 10"
+  ]
+}

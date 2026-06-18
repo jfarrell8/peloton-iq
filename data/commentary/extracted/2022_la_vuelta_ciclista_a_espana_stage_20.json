@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 20",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-10",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KARAPAS Richard won stage 20 with solo plateau finish move, holding 11-second gap over chasing GC group that refused to cooperate.",
+    "winner": "KARAPAS Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GC group closed gap to 11 seconds but refused coordinated chase as contenders wouldn't work for each other.",
+      "KARAPAS attacked on plateau finale collecting KOM points while simultaneously securing stage, dual-purpose aggression.",
+      "STANARD Rob collected early KOM points in breakaway threatening KARAPAS's polka dot despite not being classification contender."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: secured Vuelta victory by two minutes five seconds, emotional finish suggests relief at surviving mountain attacks",
+      "MAS Enric": "negative: attacks constantly neutralized by rivals in GC group unwilling to cooperate, tactical isolation cost podium threat",
+      "LANDA Mikel": "negative: mentioned struggling on final mountain suggesting form collapse in final week",
+      "RODRIGUEZ Carlos": "negative: dropped significantly on penultimate stage falling to seventh overall, late-race collapse pattern",
+      "HINDLEY Jai": "neutral: finished in front group but showed no attacking intent suggesting protected podium position",
+      "AYUSO Juan": "positive: secured third overall by finishing with GC group despite attacks from LOPEZ Miguel Angel"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:44:02.224600+00:00"
+}

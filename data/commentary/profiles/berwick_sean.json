@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Favors attacking on the steepest gradient sections of climbs, showing mature tactical awareness for his age. Appears comfortable taking leadership role on difficult terrain.",
+  "team_tactics": "Limited data on team support structure, but appears to operate as a protected rider given his attacks as a leader on key climbs.",
+  "terrain_preference": "Steepest gradient sections of climbs are where he shows strongest form and tactical aggression. Flat, technical finales appear less suited to his strengths.",
+  "vulnerability": "Susceptible to splits in flat, technical finales and late-race positioning errors. Lost overall podium at UAE Tour due to final stage positioning mistake despite strong climbing throughout the week.",
+  "key_patterns": [
+    "Attacks on steepest climb gradients as designated leader (2 observations)",
+    "Late-race concentration or positioning lapses in technical scenarios (2 observations)",
+    "Strong climbing form relative to age and experience level (2 observations)"
+  ],
+  "form_trajectory": "unknown: Only 2020 data available with conflicting signals - strong climbing but critical positioning error. Insufficient recent data.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BERWICK Sean",
+  "built_from": [
+    "2020 UAE Tour Stage 4",
+    "2020 UAE Tour Stage 5"
+  ]
+}

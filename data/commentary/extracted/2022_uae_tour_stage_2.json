@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 2",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-21",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won bunch sprint after teams waited until crosswind section at 25km to go to race seriously following long headwind lull.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Premier Tech controlled final right-hander 1200m out, bossing compression point where highway narrowed into corner.",
+      "Teams deliberately soft-pedaled block headwind until 25km turnaround, treating it like Sunday ride until crosswind exposure.",
+      "Quickstep Alpha stayed invisible until final moments while others positioned early, conserving riders in wind."
+    ],
+    "rider_signals": {
+      "PHILLIPS Jasper": "positive: held red jersey, confirmed running pace in headwind, emerged well positioned from final corner despite being screened",
+      "BENNETT Sam": "negative: boxed in at final corner despite being a protected sprinter, team positioning failed",
+      "CAVENDISH Mark": "positive: still in frame after chaotic 1200m corner compression, finished sprint decisively",
+      "MORKOV Michael": "positive: leadout work explicitly praised by Cavendish for effectiveness in technical finish",
+      "STRZOK Morten": "positive: collected maximum intermediate sprint points from break, building unbeatable black jersey lead despite breakaway futility"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:56:35.569131+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who reacts to established gaps rather than initiating. Exploits GC team hesitation when time margins exceed 10+ minutes.",
+  "team_tactics": "Functions as workhorse domestique in normal circumstances, given freedom to join secondary breakaway moves when GC squad shows reluctance to chase large time gaps.",
+  "terrain_preference": "Unknown - insufficient data on specific terrain performance. Single observation shows breakaway endurance capability over extended distances.",
+  "vulnerability": "Limited data suggests reliance on GC team tactical errors rather than raw attacking power. Requires permissive race situations to gain significant time.",
+  "key_patterns": [
+    "Reacts to breaks after 12+ minute gaps established, not initial attacks (1 observation)",
+    "Exploits GC team chase reluctance when defending deep time deficits (1 observation)",
+    "Operates as domestique with opportunistic freedom for personal results (1 observation)"
+  ],
+  "form_trajectory": "unknown: Single observation shows tactical awareness and endurance, but insufficient data to assess trajectory or consistency across race types",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ALMIRAI Bruno",
+  "built_from": [
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 14"
+  ]
+}

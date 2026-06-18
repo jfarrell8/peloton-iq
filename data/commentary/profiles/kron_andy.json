@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic attacker who exploits race neutralizations and tactical confusion. Strikes when GC teams call truces, launching decisive moves inside final 10km from breakaway positions.",
+  "team_tactics": "Operates independently in breakaways without visible team support. Relies on positioning within front groups rather than domestique-led setups to create winning opportunities.",
+  "terrain_preference": "Insufficient data to determine specific terrain preference. Won from breakaway in chaotic stage finish conditions rather than pure terrain suitability.",
+  "vulnerability": "Reliance on breakaway success and race chaos suggests vulnerability in controlled bunch sprints or when GC teams maintain high pace. Lacks visible team support for sustained efforts.",
+  "key_patterns": [
+    "Exploits tactical confusion and neutralization scenarios to attack when opponents negotiate",
+    "Attacks breakaway companions rather than bridging alone, showing superior positioning instincts",
+    "Strikes decisively inside 10km when GC contenders disengage from stage outcome"
+  ],
+  "form_trajectory": "positive: demonstrated superior form to drop breakaway companions and exploit tactical situation for stage win",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KRON Andy",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 2"
+  ]
+}

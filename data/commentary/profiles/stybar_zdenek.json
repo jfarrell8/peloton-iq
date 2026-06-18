@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Demonstrates capacity to catch breakaway riders but struggles with final kilometer execution, particularly mistiming sprint acceleration when positioned favorably.",
+  "team_tactics": "Benefits from Quickstep's numerical advantage and team pace-setting, but appears dependent on domestique work rather than creating own winning opportunities through individual accelerations.",
+  "terrain_preference": "Can handle varied terrain including gravel sections, though doesn't exhibit explosive acceleration on specialty surfaces despite team support providing optimal positioning.",
+  "vulnerability": "Final kilometer sprint timing is a critical weakness; unable to convert strong positioning into victories when requiring a decisive late acceleration against fresher finishers.",
+  "key_patterns": [
+    "Mistimes final sprint efforts when in contention, lacking explosive acceleration in closing kilometer (2 observations)",
+    "Relies heavily on team numerical advantage and domestique pace rather than personal attacks (2 observations)",
+    "Can bridge to breakaways but struggles to finish off winning moves individually (2 observations)"
+  ],
+  "form_trajectory": "negative: Both observations show inability to convert favorable positions into wins, suggesting declining finishing power or tactical execution issues",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "STYBAR Zdenek",
+  "built_from": [
+    "2017 Strade Bianche",
+    "2019 Vuelta a Espana Stage 8"
+  ]
+}

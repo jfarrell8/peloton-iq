@@ -1,0 +1,37 @@
+{
+  "attacking_style": "Explosive attacks in final 1-3km of mountain finishes, often in oversized gears. Opportunistic, willing to exploit mechanicals and tactical moments even against unwritten rules.",
+  "team_tactics": "Frequently operates isolated without domestique support in critical moments. Astana provided limited protection, leaving him vulnerable to positioning errors and requiring self-reliance in finale.",
+  "terrain_preference": "Sustained high-altitude climbs suit best when in form. Exposed on technical descents (couldn't follow Froome downhill) and struggles with prolonged altitude efforts (dropped on Galibier). Positioning errors in valley approaches.",
+  "vulnerability": "Poor positioning discipline in valleys/approaches (caught at back without teammates multiple times). Descending technical weakness. Cannot sustain pace when form is absent. Altitude struggles evident at extreme heights.",
+  "key_patterns": [
+    "Operates isolated without teammates in critical GC moments across multiple Grand Tours (4+ observations)",
+    "Positioning errors in valley/flat sections before climbs cost significant time (24s yellow jersey loss)",
+    "Strong enough to drop Froome when in peak form, but form inconsistency evident across years",
+    "Tactical opportunism: attacked Froome's mechanical, defying unwritten rules for competitive advantage",
+    "Technical descending weakness: couldn't follow elite descenders even after successful climb attacks",
+    "Form trajectory unstable: 2017 podium contender, 2019 recovery mode, 2021 couldn't hold pace"
+  ],
+  "form_trajectory": "negative: 2021 observations show dropped by secondary riders (Mäder), retired mid-Vuelta. Declined from 2017 podium contender to struggling domestique-level by career end.",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "ARU Fabio",
+  "built_from": [
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 13",
+    "2017 Tour de France Stage 14",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 17",
+    "2017 Tour de France Stage 5",
+    "2017 Tour de France Stage 5",
+    "2017 Tour de France Stage 8",
+    "2017 Tour de France Stage 9",
+    "2017 Tour de France Stage 9",
+    "2019 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 7",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 21"
+  ]
+}

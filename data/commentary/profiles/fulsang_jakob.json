@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Initiates attacks on penultimate climbs to establish winning moves. Prefers to launch offensive moves earlier in mountain stages rather than waiting for final climb, forcing rivals to respond.",
+  "team_tactics": "Surprisingly limited domestique support even when in race lead. Required to chase personally and perform defensive work rather than being protected, suggesting weak team positioning or leadership prioritization conflicts.",
+  "terrain_preference": "Multi-climb mountain stages where attacking on earlier climbs can establish separation. Strong on sustained climbs where he can apply consistent pressure on marked rivals.",
+  "vulnerability": "Exposed when forced into defensive/chasing roles for teammates despite being strongest rider. Workload management issues when required to police moves personally. Team obligations override individual strength.",
+  "key_patterns": [
+    "Attacks penultimate climbs to initiate winning moves, not waiting for finale (2 observations)",
+    "Performs own chase work even as race leader, lacking team protection (2 observations)",
+    "Team tactical conflicts compromise his GC position despite superior form (2 observations)",
+    "Strong enough to be marked by entire GC group but undermined by domestique duties (2 observations)"
+  ],
+  "form_trajectory": "negative: Despite appearing strongest all week at Tour de Suisse, team obligations and forced chasing cost him time and energy, suggesting mismanagement of clear winning form",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "FULSANG Jakob",
+  "built_from": [
+    "2022 Tour de Suisse Stage 5",
+    "2022 Tour de Suisse Stage 6",
+    "2022 Tour de Suisse Stage 7"
+  ]
+}

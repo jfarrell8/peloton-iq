@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic rather than premeditated attacker. Shows unexpected punch on steep, short climbs despite being built for sustained efforts, capitalizing on moments when others hesitate.",
+  "team_tactics": "Limited observable team support in data. Appears positioned as protected rider but relies on individual positioning instincts rather than coordinated leadouts.",
+  "terrain_preference": "Best suited to sustained gradients where GC engine excels, but demonstrated surprising adaptability to explosive finishes like Mur de Huy. Underestimated on steep, short power climbs.",
+  "vulnerability": "Insufficient data to identify clear tactical vulnerabilities, though typical GC rider profile suggests potential weakness in pure sprint situations or early-race aggression.",
+  "key_patterns": [
+    "Opportunistic positioning: actively follows sprints and attacks rather than passive riding (2 instances)",
+    "Exceeds expectations on explosive climbs despite sustained-effort physiology (Mur de Huy podium)",
+    "Shows tactical awareness to maximize placement through active engagement in finales (2 instances)"
+  ],
+  "form_trajectory": "positive: Strong spring 2022 form with Fleche Wallonne podium and active GC racing at Romandie showing sharpness across terrain types",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VLASOV Alexandr",
+  "built_from": [
+    "2022 La Fleche Wallonne",
+    "2022 Tour de Romandie Stage 2"
+  ]
+}

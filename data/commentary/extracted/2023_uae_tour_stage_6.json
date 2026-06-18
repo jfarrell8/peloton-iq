@@ -1,0 +1,26 @@
+{
+  "label": "2023 UAE Tour Stage 6",
+  "race_name": "UAE Tour",
+  "race_date": "2023-02-25",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won the sprint after Soudal Quick-Step recce'd the final curves, exploiting barrier-side opening while Cavendish punctured late.",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step pre-race recce identified barrier-side advantage in final technical curves, avoiding congestion that boxed Kaden Groves.",
+      "Cavendish rear puncture in final 2km suggests Astana positioned too far back, unlike Evenepoel who rode front for safety.",
+      "Bennett second despite no lead-out train disruption, indicating raw speed competitive but positioning tactics inferior to Merlier's recon."
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: Won second stage after deliberate course reconnaissance, demonstrating Quick-Step's tactical homework pays off in technical finishes.",
+      "GROVES Kaden": "negative: Boxed repeatedly across multiple stages, revealing persistent positioning weakness or insufficient lead-out strength in congested finales.",
+      "CAVENDISH Mark": "negative: Late puncture while positioned too far back suggests Astana's lead-out train unable to secure safe front positions.",
+      "BENNETT Sam": "neutral: Strong second without train issues but lacked recon advantage, showing speed present but tactical preparation deficit.",
+      "EVENEPOEL Remco": "positive: GC leader positioned at front in final 2km for safety rather than hiding, tactically astute risk management."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:24:43.815149+00:00"
+}

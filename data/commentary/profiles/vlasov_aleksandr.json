@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Relies primarily on time trial power and sustained climbing rather than explosive attacks. Strongest in uphill TTs where climbing power combines with TT positioning; not an aggressive race animator.",
+  "team_tactics": "Frequently lacks adequate mountain domestique support, particularly evident at Bora. When protected (UAE positioning noted), makes front selections but rarely sets own tempo or initiates moves.",
+  "terrain_preference": "Uphill time trials are signature strength (Romandie demolition, Tour TT top-5 jump). Struggles on explosive climbs and when high-pace accelerations occur, especially early in long climbs.",
+  "vulnerability": "Drops unexpectedly early when sustained high pace set by others (Knox/Evenepoel example). Susceptible to illness disrupting stage races. Lacks domestique support in crucial mountain moments.",
+  "key_patterns": [
+    "Time trial strength consistently underestimated; major GC gains via TT efforts (2 observations)",
+    "Dropped before final 5km when others set sustained pace; lacks explosive response (3 observations)",
+    "Form/illness vulnerability disrupts stage race campaigns; abandoned Giro ill, nursed at Vuelta (2 observations)",
+    "Team support deficits in mountains while teammates succeed solo (Kämna); positioning issues (2 observations)",
+    "Off-pace on final climbs of one-day races despite favorite status (Lombardia weakness)"
+  ],
+  "form_trajectory": "negative: 2023 showed concerning early-season weakness (dropped early Tour de Suisse, abandoned Giro ill) compared to stronger 2022 performances",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "VLASOV Aleksandr",
+  "built_from": [
+    "2021 Il Lombardia",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2022 Paris-Nice Stage 2",
+    "2022 Tour de France Stage 20",
+    "2022 Tour de France Stage 7",
+    "2022 Tour de Romandie Stage 5",
+    "2022 Tour de Romandie Stage 5",
+    "2023 Giro dItalia Stage 10",
+    "2023 Tour de Suisse Stage 3"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 10",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-24",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "STORER Michael attacked long-range on final climb while ROGLIC Primoz counter-attacked GC group, crashed on descent but still gained 20 seconds on BERNAL and YATES.",
+    "winner": "STORER Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Roglic gambled attacking final descent despite holding red jersey, revealing willingness to risk jersey for GC time gaps.",
+      "31-rider breakaway quality forced Roglic to cede red jersey strategically rather than burn team chasing back 4+ minutes.",
+      "Mass Lopez and Haig cooperated with Roglic on descent/finish, establishing ad-hoc alliance against Bernal/Yates weakness."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: chose solo long-range attack over breakaway sprint, showing tactical maturity and superior climbing on 10-12% gradients",
+      "ROGLIC Primoz": "positive: attacked GC group on final climb despite holding red, then prioritized time gaps over jersey after crash",
+      "BERNAL Egan": "negative: described as 'secondhand' on final climb, unable to follow Roglic's acceleration or limit time loss",
+      "YATES Adam": "negative: not able to offer chase when Roglic attacked, grouped with Bernal losing time to Roglic-Mass-Lopez-Haig quartet",
+      "MARTIN Guillaume": "negative: faded on final climb while breakaway companion Iking maintained pace, revealing climbing differential in large breaks",
+      "HAIG Jack": "positive: made selection with Roglic-Mass-Lopez group, distancing Bernal/Yates in key GC shake-up",
+      "MASS Enric": "positive: worked with Roglic group to finish, gave thumbs-up cooperation signal showing tactical alignment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:25:21.624921+00:00"
+}

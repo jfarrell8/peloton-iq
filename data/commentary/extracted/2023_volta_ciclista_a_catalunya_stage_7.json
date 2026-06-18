@@ -1,0 +1,26 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-26",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won the final stage after escaping with ROGLIC on the circuits, but lost GC by 6 seconds after Quick-Step's isolation tactics failed on repeated laps.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step's aggressive pace-setting on circuits shredded Evenepoel's support, forcing him to attack alone at 26km—revealing domestique depth matters more than GC strength on circuits.",
+      "UAE Emirates showed team dysfunction as Soler escaped ahead while Ayuso-Yates closed gap behind, splitting effort instead of consolidating for podium.",
+      "Bora-Hansgrohe refused to chase Evenepoel-Roglic duo despite trailing, banking on circuit attrition rather than burning matches for minor places—paid off with third GC.",
+      "EF Education's Higuita and Carapaz repeatedly attacked for KOM points across laps, indicating breakaway riders should prioritize jersey competitions when stage win unlikely on circuits."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: forced to self-isolate and attack at 26km after Quick-Step's early pacing destroyed his own support, revealing team strategy backfired",
+      "ROGLIC Primoz": "positive: matched every Evenepoel acceleration on circuits while Bora refused chase duties, showing superior team discipline and individual strength",
+      "SOLER Marc": "positive: UAE's strongest GC rider finished fourth ahead of Ayuso, suggesting Pogacar's absence elevated wrong team leader internally",
+      "CARAPAZ Richard": "neutral: prioritized KOM jersey from breakaway rather than conserving for GC support, indicating EF shifted goals mid-race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:26:23.409877+00:00"
+}

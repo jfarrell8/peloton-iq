@@ -1,0 +1,27 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-27",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAGGIOLI Andrea timed a late move perfectly on rolling finish inside 3km after Jumbo-Visma neutralized ALMEIDA's attack, bringing 15 riders back to selection.",
+    "winner": "BAGGIOLI Andrea",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS Grenadiers ground tempo on Monzuce specifically targeting 16-second gap to IGITA, attempting separation via accumulation not attacks.",
+      "JUMBO-VISMA chased down 6-rider selection at 3.5km despite no GC interest, bringing 15 riders back to neutralize for stage opportunity.",
+      "IGITA marked CARAPAZ wheel-to-wheel when he attacked in points jersey, prioritizing GC defense over jersey competition despite wearing it.",
+      "BAGGIOLI attacked on rolling terrain post-descent when sextet started watching each other, exploiting tactical hesitation rather than fresh legs."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "negative: struggled slightly on final Monzuce climb despite INEOS pacing for him, needed descent to rejoin at 3.5km",
+      "IGITA Egan": "positive: defended 16-second lead by directly marking CARAPAZ attacks rather than relying on teammates, tactically mature",
+      "ALMEIDA Joao": "neutral: attacked to defend podium from QUINTANA but didn't commit when IGITA bridged, prioritized position over stage",
+      "BOUTRAGO Santiago": "positive: initiated late solo move on final climb showing Bahrain aggression beyond BUITRAGO's expected role",
+      "BAGGIOLI Andrea": "positive: demonstrated stage-specific strength on rolling finishes, won via timing not raw climbing power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:59:10.975481+00:00"
+}

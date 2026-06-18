@@ -1,0 +1,29 @@
+{
+  "label": "2022 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-06",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CLARK Simon won a six-man breakaway sprint after POGACAR attacked aggressively on cobbles while VINGEGAARD suffered mechanical issues requiring VANART's yellow jersey sacrifice.",
+    "winner": "CLARK Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VANART abandoned stage win opportunity to pace back VINGEGAARD after mechanical, revealing Jumbo's co-leadership resource drain vulnerability.",
+      "POGACAR attacked solo off front group on cobbles with 25km remaining, gaining time while rivals chased mechanicals.",
+      "BETTIOL pulled exceptionally hard for POGACAR just before cobbles started, UAE using Italian domestique as disposable cobbles specialist.",
+      "PAULUS attacked breakaway with 1km left but was caught by chasers doing organization work, revealing poor sprint timing."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Soloed off breakaway with 25km remaining on cobbles, gained 52 seconds on main group, proving cobbles versatility beyond expected",
+      "VANART Wout": "neutral: Sacrificed personal stage win chances to pace VINGEGAARD back after mechanical, limiting losses to 1:04 but revealing team leadership burden",
+      "VINGEGAARD Jonas": "negative: Required bike change with incorrect sizing chaos, needed race leader's help to limit losses, exposed mechanical vulnerability",
+      "ROGLIC Primoz": "negative: Lost more time than other GC riders, forcing Jumbo to split team resources between two off-the-back leaders",
+      "O'CONNOR Ben": "negative: Punctured early and couldn't match cobbles pace, unexpected weakness from 2021 breakout performer",
+      "VAN DER POEL Mathieu": "negative: Not up to cobbles standard despite palmares, surprising underperformance on terrain specialty",
+      "BETTIOL Alberto": "positive: Pulled hard for POGACAR before cobbles despite not being pure domestique, UAE tactical depth signal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:53:09.461531+00:00"
+}

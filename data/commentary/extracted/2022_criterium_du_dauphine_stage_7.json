@@ -1,0 +1,28 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-11",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VERONA Carlos won from 18-rider breakaway after ROGLIC attacked final climb, caught everyone except Verona, taking yellow by 44 seconds.",
+    "winner": "VERONA Carlos",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar placed two riders (Verona, Mulberger) in 18-rider break then disrupted cooperation, drawing ELLISONDE's anger.",
+      "ROGLIC attacked final climb without team support after VINGEGAARD did prolonged pull, suggesting internal team hesitation on leadership.",
+      "VERONA survived as last breakaway rider with 13-second margin despite jumbo-Visma, INEOS, and UAE collective chase work.",
+      "Bahrain's tactic of LEON SANCHEZ dropping back from break to pace HAGEN/CARUSO completely failed on final climb."
+    ],
+    "rider_signals": {
+      "VERONA Carlos": "positive: Held off ROGLIC's surge solo on final climb after surviving breakaway politics all day",
+      "ROGLIC Primoz": "positive: Attacked final climb without team, nearly caught Verona solo, took yellow by 44s over VINGEGAARD",
+      "VINGEGAARD Jonas": "negative: Did extended pull for ROGLIC then admitted afterwards he might have gone for stage himself, revealing team tension",
+      "ELLISONDE Kenny": "negative: Wasted energy haranguing Movistar duo in breakaway instead of adapting to their disruption tactics",
+      "MULBERGER Gregor": "positive: Movistar's breakaway disruptor executed team orders perfectly despite antagonizing other break members",
+      "O'CONNOR Ben": "neutral: Led chase attempt for AG2R but couldn't contain ROGLIC's acceleration on final climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:35:54.545698+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won a photo-finish sprint after Jumbo-Visma's VAN AERT pulled 2km at 65kph to set up the leadout.",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUMBO-VISMA used cyclocross world champion VAN AERT for 2km at 65kph despite WYNANT still recovering back after intermediate sprint gap.",
+      "BAHRAIN-MERIDA deliberately accelerated intermediate sprint at 33km-to-go, catching MARTIN Dan and QUINTANA Nairo off guard for second time in week.",
+      "DECEUNINCK-QUICKSTEP's MORKOV led final kilometer at extremely high pace but launched VIVIANI too early at 200m, fading badly in final meters."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Demonstrated extraordinary diesel power pulling leadout for 2km at 65kph in debut Tour, confirming road transfer from cyclocross elite.",
+      "MARTIN Dan": "negative: Caught out at intermediate sprint acceleration for second time in seven stages, suggesting poor positioning instincts or team support.",
+      "VAN GARDEREN Tejay": "negative: Dropped prematurely on Stage 6 mountain finish, then crashed badly Stage 7, indicating deteriorating form trajectory.",
+      "VIVIANI Elia": "negative: Faded dramatically after being launched 200m out by strong Quickstep train, suggesting either poor timing or lacking finishing punch.",
+      "ALAPHILIPPE Julian": "positive: Looking ominously strong on Stage 6 mountains despite only 6 seconds from yellow, suggesting GC threat rather than puncheur role."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:16:52.000523+00:00"
+}

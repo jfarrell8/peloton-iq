@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 1",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco dominated a 70km opening TT with 20-second splits at first check, taking 43 seconds from ROGLIČ on a course averaging 53+ kph",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates deployed dual TT threats McNulty and Vine strategically early to set psychological benchmarks before GC leaders.",
+      "Evenepoel's 40-second margin by climb base suggests pre-climb TT power separates WorldTour specialists more than climbing weight advantage.",
+      "Geoghegan Hart lost 7 seconds on flat but clawed back time on final climb, revealing climbing TT specialists excel on mixed-terrain formats."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 20-second advantage at first intermediate destroyed field's morale before decisive final climb even began",
+      "ROGLIČ Primož": "negative: 43-second deficit to Evenepoel despite reportedly clean ride suggests fundamental TT power gap, not just bad day",
+      "ALMEIDA João": "positive: beating specialized TT engines Küng and Ganna while conceding only 29 seconds to Evenepoel marks him as podium threat",
+      "VINE Jay": "positive: second-fastest time while recovering from spring knee injury reveals UAE's unexpected TT depth beyond McNulty",
+      "GANNA Filippo": "neutral: third place finish 10 seconds down indicates even specialist chronomen can't match Grand Tour contenders on climbing TTs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:59:50.749871+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late attacks inside final 2km, exploiting hesitation and tactical stalemates among GC teams when they neutralize each other. Waits for others' pace-forcing to create selection before launching.",
+  "team_tactics": "Benefits from other teams' work rather than own team setup. Capitalizes on chaos created by GC squads (e.g., INEOS pace-forcing) to attack when their job is done.",
+  "terrain_preference": "Reduced bunch scenarios after hard pace-making has shattered the field. Thrives when GC riders have exhausted domestiques and are isolated.",
+  "vulnerability": "Insufficient data to identify clear vulnerabilities. Likely struggles when required to force pace himself or when GC teams cooperate to control breakaways.",
+  "key_patterns": [
+    "Attacks very late (<2km) when GC riders watch each other instead of chasing",
+    "Exploits psychological stalemates and hesitation among favorites calculating against each other",
+    "Wins from situations created by other teams' aggressive racing and domestique work"
+  ],
+  "form_trajectory": "unknown: single observation from 2021 Vuelta stage win, insufficient recent data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CHAPATTE Clement",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 20"
+  ]
+}

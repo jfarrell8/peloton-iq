@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure sprinter who capitalizes on tactical sprint finishes when the peloton controls or mistimes breakaway catches. Executes final sprint in closing kilometers.",
+  "team_tactics": "Team positioning allows control of intermediate sprint points to accumulate classification points. Relies on peloton dynamics rather than dedicated lead-out train based on available data.",
+  "terrain_preference": "Flat sprint stages where breakaways are caught late. Thrives when peloton misjudges timing, creating tactical sprint scenarios rather than organized lead-out finishes.",
+  "vulnerability": "Insufficient data on mountain stages, organized sprint trains, or positioning in chaotic finales. Single race sample limits tactical vulnerability assessment.",
+  "key_patterns": [
+    "Multiple stage wins within single Grand Tour showing sustained sprint form (3 wins)",
+    "Targets intermediate sprints to build points classification lead systematically",
+    "Exploits tactical uncertainty when peloton catches breakaway in final 2km"
+  ],
+  "form_trajectory": "positive: demonstrated dominant and consistent sprint form with three stage victories while simultaneously controlling points classification",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DEMAR Arnaud",
+  "built_from": [
+    "2022 Giro d'Italia Stage 13",
+    "2022 Giro d'Italia Stage 13"
+  ]
+}

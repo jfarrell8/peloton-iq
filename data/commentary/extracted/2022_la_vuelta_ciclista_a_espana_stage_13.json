@@ -1,0 +1,24 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 13",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-02",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won uphill sprint finish after Trek-Segafredo intentionally raised pace to eliminate pure sprinters, following Pascal Ackermann's ultra-long leadout.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo preemptively hardened race mid-stage despite having sprinter, revealing confidence in Pedersen's diesel finisher profile over pure speed.",
+      "Headwind under 10km caused extreme compaction and hesitation, making final corner positioning more critical than sustained lead-out trains.",
+      "Ackermann's exceptionally long attack hitting climb first created slipstream others exploited, inadvertently serving as leadout for stronger finisher Pedersen."
+    ],
+    "rider_signals": {
+      "PEDERSEN Mads": "positive: Trek's aggressive pre-finish tactics confirm team views him competitive on 7% ramps, not just rolling finishes",
+      "ACKERMANN Pascal": "negative: went first on climb but faded, suggesting tactical misjudgment or insufficient power for 7% gradients at race speed",
+      "WRIGHT Fred": "positive: fourth place from Bahrain on punchy uphill finish signals emerging capability beyond pure sprint stages",
+      "VAN POPPEL Danny": "neutral: Bora lead-out invested heavily but Van Poppel finished fourth, question whether resource allocation matched rider's climbing capacity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:42:22.111851+00:00"
+}

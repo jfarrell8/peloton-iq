@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Exhibits exceptional tactical patience, absorbing multiple attacks on climbs before launching decisive moves inside the final kilometer when rivals are fatigued.",
+  "team_tactics": "Operates primarily from breakaways with limited visible team support, relying on individual resilience and timing rather than organized lead-outs.",
+  "terrain_preference": "Cat-1 climbs where recovery ability and yo-yo tactics can be exploited; thrives in attritional finishes where repeated accelerations favor resilient climbers over pure power.",
+  "vulnerability": "Susceptible to aggressive, sustained KOM hunting tactics from dedicated breakaway riders; struggles when unable to control pace or respond to relentless attacks.",
+  "key_patterns": [
+    "Successfully yo-yos back after being dropped 4+ times, exploiting recovery windows (2 observations)",
+    "Attacks inside final kilometer after absorbing attacks, timing moves when rivals fatigued (2 observations)",
+    "Operates from breakaways as primary race strategy rather than GC protection (2 observations)",
+    "Vulnerable on Cat-1 climbs when facing dedicated KOM competition from breaks (2 observations)"
+  ],
+  "form_trajectory": "neutral: Won stage via exceptional recovery tactics but subsequently struggled on climbs against aggressive KOM competition within same race",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MADRAZO Angel",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 5",
+    "2019 Vuelta a Espana Stage 5"
+  ]
+}

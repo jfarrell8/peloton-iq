@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 14",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-28",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BARGUIL Romain attacked from 18-rider breakaway over Pico Villuercas 20%+ ramps, held solo through final 6.2km after Navarro/Van Moer collision eliminated chase.",
+    "winner": "BARGUIL Romain",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARGUIL shed CHAPPUIS on final climb despite working for him, prioritizing stage over team hierarchy when opportunity arose.",
+      "NAVARRO collision with VAN MOER on technical descent eliminated strongest breakaway chasers, opening path for solo BARGUIL win.",
+      "LOPEZ Miguel Angel tested ROGLIC 20km from finish but ROGLIC counterattacked at line, showing aggressive defense signals GC confidence.",
+      "VINE Jay recovered from crash/possible abandonment to finish third, revealing exceptional recovery capacity under extreme duress."
+    ],
+    "rider_signals": {
+      "BARGUIL Romain": "positive: DSM transfer proving tactically correct, now hunting KOM aggressively after stage win establishes 19-point lead over Caruso",
+      "VINE Jay": "positive: third place after mid-stage crash/potential abandonment shows unusual resilience that handicappers typically miss in recovery scenarios",
+      "LOPEZ Miguel Angel": "neutral: attacked ROGLIC but unable to sustain gap, confirming domestique role rather than genuine GC threat despite positioning",
+      "ROGLIC Primoz": "positive: counterattacked Lopez at line rather than marking, revealing willingness to gain bonus seconds despite controlling race",
+      "EIKING Odd Christian": "negative: conceded 2 seconds to MARTIN despite no attacks, suggesting passive defense strategy may crack under sustained pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:26:11.206918+00:00"
+}

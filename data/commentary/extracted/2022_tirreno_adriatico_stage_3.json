@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-09",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won Stage 3 sprint by timing final turn extremely late on rising cobbled finish with roundabouts.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR bridged to intermediate sprint for bonus seconds with ALAPHILIPPE/GEOGHEGAN-HART marking, revealing GC riders hunting every second available.",
+      "BORA's ACKERMANN plan involved HIRT fatiguing sprinters teams pre-finale, suggesting domestique sacrifice as legitimate sprint leadout tactic on uphill finishes.",
+      "EWAN delayed sprint until final roundabout on cobbled rise while others launched early, exploiting technical finish geometry over raw power.",
+      "Sprinter teams' chase of breakaway with 50km remaining backfired, leaving leadout trains compromised for technical cobbled finale."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: actively hunting 3-second intermediate bonuses mid-stage despite overall lead, suggesting genuine concern about Ganna's 11-second deficit",
+      "GEOGHEGAN-HART Teo": "positive: bridged to GC riders' bonus sprint move and sustained effort, showing Giro form returning earlier than expected",
+      "DEMARE Arnaud": "negative: spectacular leadout position via Guarnieri but faded to second, confirming disappointing season start continues despite team execution",
+      "VAN AERT Wout": "neutral: third podium without win, consistent fast finishing without killer instinct on technical finishes this race",
+      "ACKERMANN Pascal": "negative: HIRT's fatigue work yielded outside-top-5 result, suggesting uphill cobbled finishes neutralize pure speed advantage despite tactical investment",
+      "EWAN Caleb": "positive: timed late turn on technical uphill cobbled finish perfectly, demonstrating superior race craft when geometry favors positioning over power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:48:40.821818+00:00"
+}

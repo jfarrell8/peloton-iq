@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Sprint finish specialist who positions intelligently away from traditional leadout trains, choosing opposite side of road for cleaner finishing lanes in chaotic finales.",
+  "team_tactics": "Operates independently of conventional leadout structures, relying on personal positioning judgment rather than organized team sprint trains to find optimal finishing position.",
+  "terrain_preference": "Flat sprint stages with chaotic, disorganized finales where positioning intelligence trumps pure power. Thrives when leadout trains fragment or are unavailable.",
+  "vulnerability": "Likely struggles against organized leadout trains on straightforward sprint stages where team power dominates; Tour debut suggests limited sample size for tactical assessment.",
+  "key_patterns": [
+    "Exploits opposite side positioning when leadout trains dominate primary lanes",
+    "Shows tactical maturity beyond experience level in high-pressure sprint scenarios",
+    "Capable of photo-finish execution against top-tier sprinters like Philipsen"
+  ],
+  "form_trajectory": "positive: Won Tour debut on Champs-Élysées, demonstrating immediate WorldTour sprint competitiveness and tactical intelligence",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MEIJS Jordi",
+  "built_from": [
+    "2023 Tour de France Stage 21",
+    "2023 Tour de France Stage 21"
+  ]
+}

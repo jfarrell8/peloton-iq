@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches decisive attacks on penultimate or final climbs, often holding solo efforts into headwinds until the finale. Shows restraint to conserve energy, then delivers strong sprint finishes from breakaways when tactical patience is required.",
+  "team_tactics": "Movistar prioritizes stage hunting over breakaway solidarity—willing to attack past own teammates. Team allows Rubio freedom to position aggressively in breaks when GC is not threatened.",
+  "terrain_preference": "Multiple-climb stages where penultimate ascents allow solo attacks. Strong enough to hold advantages in adverse conditions (headwinds). Sprint finish from reduced groups suits him better than pure climbing duels.",
+  "vulnerability": "Cannot contest pure KOM sprints against specialized climbers despite being dangerous GC-level rider. May lack absolute climbing punch when repeatedly attacked by pure climbers on sustained gradients.",
+  "key_patterns": [
+    "Attacks on penultimate climbs, not final summit, holding solo to sprint finish. (2 instances)",
+    "Demonstrates tactical maturity: sits on rivals' attacks then counters with sprint. (2 instances)",
+    "Movistar sacrifices team positioning for his stage opportunities, attacking past teammates. (2 instances)",
+    "Effective in breakaways when GC standings allow freedom (11min down). (2 instances)"
+  ],
+  "form_trajectory": "positive: Showed evolution from aggressive solo efforts (2022) to more nuanced tactical patience and sprint delivery (2023 Giro), suggesting maturation as complete stage hunter",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "RUBIO Einer",
+  "built_from": [
+    "2022 Tour de Romandie Stage 4",
+    "2022 Tour de Romandie Stage 4",
+    "2023 Giro dItalia Stage 13",
+    "2023 Giro dItalia Stage 13",
+    "2023 Giro dItalia Stage 15"
+  ]
+}

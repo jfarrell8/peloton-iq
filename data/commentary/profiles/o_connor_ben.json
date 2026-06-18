@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Long-range solo attacks inside 12-17km on mountain stages, preferring to build sustainable gaps rather than explosive accelerations. Most effective when establishing breakaway positions early then attacking from within the group.",
+  "team_tactics": "AG2R provides limited high-mountain support, often leaving him isolated when defending or chasing. Team relies on his individual engine rather than controlled tempo setting, exposing him when forced to chase from the front.",
+  "terrain_preference": "Medium mountain stages and sustained climbs where diesel engine outweighs pure acceleration. Struggles on explosive gradients requiring repeated accelerations and completely exposed on cobbled sectors. Heat conditions significantly compromise performance.",
+  "vulnerability": "Lacks top-end acceleration to respond to explosive attacks from pure climbers (dropped by Pogacar's 8.4km surge). Suffers catastrophic form loss in extreme heat. Weak sprint finish even from small groups. Cobbles represent unexpected weakness.",
+  "key_patterns": [
+    "Dropped when pace intensifies explosively on climbs, lacks acceleration response to GC favorites' attacks (4 instances)",
+    "Strong in breakaways but loses sprints from small groups, positioning or speed deficit evident (3 instances)",
+    "Extreme heat causes dramatic performance collapse, losing minutes when temperatures spike (2 confirmed instances)",
+    "Makes ill-advised solo chases when isolated, catastrophic energy expenditure defending without team support (2 instances)",
+    "Excels at sustained solo efforts 12-17km, holding organized chases when gap established early (3 instances)"
+  ],
+  "form_trajectory": "negative: 2023 Tour showed clear post-Giro fatigue, dropped early on key climbs and couldn't convert breakaway animation into results, suggesting declining recovery capacity across multiple GTs",
+  "races_analysed": 15,
+  "confidence": "high",
+  "rider_name": "O'CONNOR Ben",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 11",
+    "2021 Tour de France Stage 11",
+    "2021 Tour de France Stage 17",
+    "2021 Tour de France Stage 18",
+    "2021 Tour de France Stage 9",
+    "2021 Tour de France Stage 9",
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 Criterium du Dauphine Stage 8",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 4",
+    "2022 Tour de France Stage 5",
+    "2022 Volta Ciclista a Catalunya Stage 3",
+    "2022 Volta Ciclista a Catalunya Stage 3",
+    "2022 Volta Ciclista a Catalunya Stage 4",
+    "2023 Tour de France Stage 10",
+    "2023 Tour de France Stage 19",
+    "2023 Tour de France Stage 6"
+  ]
+}

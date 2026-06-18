@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Demonstrates opportunistic aggression at intermediate sprints to gain time, willing to contest bonus seconds even when positioned behind on GC rather than waiting for dedicated sprint stages.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns across multiple races.",
+  "terrain_preference": "Insufficient data to determine specific terrain preferences, though willing to engage on stages that include intermediate sprint opportunities.",
+  "vulnerability": "Unknown - limited observations available to identify consistent weaknesses or scenarios where performance degrades.",
+  "key_patterns": [
+    "Contests intermediate sprints for bonus seconds rather than conserving energy (1 observation)",
+    "Shows GC ambition atypical for sprinter profile, actively racing for time gaps (1 observation)"
+  ],
+  "form_trajectory": "unknown: Only single race observation from early 2023, insufficient recent data to assess trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GODAU David",
+  "built_from": [
+    "2023 Paris-Nice Stage 5",
+    "2023 Paris-Nice Stage 5"
+  ]
+}

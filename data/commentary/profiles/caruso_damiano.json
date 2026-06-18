@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches decisive solo attacks from breakaways on hard climbs, capable of destroying fellow escapees with sustained climbing power rather than explosive accelerations.",
+  "team_tactics": "Functions primarily as domestique willing to expend significant energy for team positioning, but granted freedom in breakaways when team leader's position is secure.",
+  "terrain_preference": "Sustained, hard mountain climbs where steady climbing power can be leveraged. Thrives when given space to ride tempo rather than respond to punchy attacks.",
+  "vulnerability": "Role as domestique limits opportunities for personal results. Tactical constraints require team leader security before personal ambitions can be pursued.",
+  "key_patterns": [
+    "Willing to burn matches for team positioning, including extended solo bridging efforts (23-second gap)",
+    "Shows climbing strength unusual for domestique role when given freedom in breakaways",
+    "Executes solo attacks on climbs rather than waiting for sprint finishes from reduced groups"
+  ],
+  "form_trajectory": "unknown: insufficient recent competitive observations to assess current trajectory since 2023 early-season appearance",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CARUSO Damiano",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2023 Tirreno-Adriatico Stage 5"
+  ]
+}

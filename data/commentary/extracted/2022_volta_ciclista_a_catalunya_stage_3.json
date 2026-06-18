@@ -1,0 +1,28 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-23",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "O'CONNOR Ben attacked solo inside 12km on La Molina, held off disorganized chase including late-charging SOLER to win by 10 seconds",
+    "winner": "O'CONNOR Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar's relentless pace-setting devastated BikeExchange, forcing YATES Simon to chase back multiple times before final climb.",
+      "Chase group failed to organize against O'CONNOR's solo move despite having numbers; SOLER's counterattack came too late at 3km.",
+      "VAN DER POEL abandoned breakaway cooperation on La Molina when BIZKARRA tagged, signaling GC teams misread threat window.",
+      "O'CONNOR's attack timing at 12km exploited transition zone before steepest gradients where chasers couldn't maximize power advantage."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: abandoned mid-race due to illness, unwilling to face cameras",
+      "MATTHEWS Michael": "negative: visibly struggling with illness despite stage 1 win, health declining rapidly",
+      "VALVERDE Alejandro": "negative: commentators noted absence of 'old hands' stepping up, suggesting poor form on mountain finish",
+      "YATES Simon": "negative: repeatedly distanced on climbs by Movistar's pace, appeared last wheel on final ascent",
+      "SOLER Marc": "positive: strongest chaser launching at 3km, but isolated effort reveals team lacked support depth",
+      "O'CONNOR Ben": "positive: AG2R offered four-year contract mid-race based on grand tour resilience, confirmed with calculated solo win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:58:15.719585+00:00"
+}

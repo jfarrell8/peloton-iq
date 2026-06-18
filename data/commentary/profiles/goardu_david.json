@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking pattern from single race observation.",
+  "team_tactics": "FDJ employed two-rider breakaway strategy with teammates, but support insufficient to maintain position on decisive climbs",
+  "terrain_preference": "Insufficient data to determine terrain strengths; struggles on sustained high-altitude summit finishes",
+  "vulnerability": "Unable to sustain effort on long, altitude-intensive final climbs even with numerical team advantage in breakaway",
+  "key_patterns": [
+    "Insufficient repeated observations to establish reliable patterns (only 1 race analyzed)"
+  ],
+  "form_trajectory": "unknown: single observation shows weakness on altitude climb but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GOARDU David",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 8",
+    "2022 Criterium du Dauphine Stage 8"
+  ]
+}

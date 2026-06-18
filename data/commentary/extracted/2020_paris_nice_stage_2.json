@@ -1,0 +1,30 @@
+{
+  "label": "2020 Paris - Nice Stage 2",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-09",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CIMOLAI Davide won stage 2 sprint from reduced 13-rider group after crosswinds split peloton in final 30km, beating ACKERMAN who led out from yellow jersey position.",
+    "winner": "CIMOLAI Davide",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Race leader SCHACHMANN personally drove splits at front to increase teammate ACKERMAN's advantage, unusual GC jersey work before sprint finish.",
+      "QUICKSTEP Bennett caught wrong side of crosswind split, revealing vulnerability even for top sprint teams without positional dominance pre-30km.",
+      "PATTERSON world champion performed extended domestique work keeping GC leader HIGUITA positioned, suggesting FDJ prioritizing stage control over rainbow jersey freedom.",
+      "Peloton reduced from full field to 13 riders in final 10km through sustained crosswind echeloning, not single acceleration point."
+    ],
+    "rider_signals": {
+      "SCHACHMANN Max": "positive: actively drove pace in yellow jersey to create splits favoring teammate, tactical maturity beyond typical GC protection.",
+      "ACKERMAN Pascal": "negative: had perfect leadout position but lacked finishing speed from 150m out when CIMOLAI came around cleanly.",
+      "CIMOLAI Davide": "positive: NTT already exceeded entire 2019 win total, suggesting significant rider or team development step-change in 2020.",
+      "BENNETT Sam": "negative: caught wrong side of split despite being Quickstep's protected sprinter, positioning failure in predictable crosswind stage.",
+      "QUINTANA Nairo": "negative: crashed and required brother's bike at worst possible moment during front group's acceleration in crosswinds.",
+      "PINOT Thibaut": "negative: missed final 13-rider split despite GC ambitions, FDJ had to chase limiting losses rather than contesting stage.",
+      "HIGUITA Sergio": "positive: moved to 4th overall at 23 seconds despite being Colombian champion in crosswind chaos, unexpected classics aptitude.",
+      "PATTERSON Mads": "neutral: world champion doing extended domestique work suggests team tactics override rainbow jersey status in early-season stage races."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:23:21.152760+00:00"
+}

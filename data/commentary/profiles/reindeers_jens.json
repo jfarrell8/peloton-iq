@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Multiple-wave breakaway specialist who attacks early and repeatedly, willing to go in first breaks then regroup and attempt subsequent moves to exhaust peloton.",
+  "team_tactics": "Appears to operate with freedom to join opportunistic breaks; uses double-break tactic to stress opposition domestiques and create control gaps.",
+  "terrain_preference": "Long, attritional courses where diesel engine qualities shine; capable on climbs (survived Mammalstein) but excels in sustained breakaway efforts over varied terrain.",
+  "vulnerability": "Single race data insufficient to identify clear vulnerabilities, though multiple breakaway attempts suggest difficulty finishing moves alone.",
+  "key_patterns": [
+    "Participates in multiple breakaway waves within same race to exploit peloton fatigue.",
+    "Shows diesel engine endurance, able to regroup after being dropped and rejoin efforts.",
+    "Uses early breakaway participation as tactical weapon rather than all-or-nothing commitment."
+  ],
+  "form_trajectory": "positive: demonstrated exceptional endurance surviving two breaks and regrouping after being dropped, suggesting strong diesel capacity",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "REINDEERS Jens",
+  "built_from": [
+    "2022 Eschborn-Frankfurt",
+    "2022 Eschborn-Frankfurt"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who excels on long technical descents, capable of soloing 25+ km when established gap exists from earlier group moves.",
+  "team_tactics": "Operates from early breakaway groups rather than GC team support; exploits descents after breakaway establishes gap on climbs.",
+  "terrain_preference": "Long technical descents where descending skill creates separation; thrives in breakaway scenarios on mountain stages with multiple descent opportunities.",
+  "vulnerability": "Single race observation limits vulnerability assessment; likely struggles in pure climbing battles against GC contenders or high-altitude finishes.",
+  "key_patterns": [
+    "Attacks on descents rather than climbs to maximize technical skill advantage.",
+    "Successful from large breakaway groups (28 riders) rather than solo efforts from peloton.",
+    "Shows confidence under pressure when holding significant gaps solo for extended distances."
+  ],
+  "form_trajectory": "positive: first road victory at Tour de France 2022 demonstrated breakthrough performance and descending prowess",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "UL Hugo",
+  "built_from": [
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 16"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2017 Strade Bianche",
+  "race_name": "",
+  "race_date": "",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michał attacked on the penultimate gravel sector with 2km to sector's end, stealing meters via 'stealth attack' while others watched each other",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Kwiatkowski's winning move came on gravel sector exit, not ascent—exploiting transitional moment when rivals anticipated tarmac recovery.",
+      "Teams prioritized domestique pacing on gravel sectors to deliver leaders, allowing stealthier solo accelerations to escape uncontested.",
+      "Group of seven fragmented not on steepest gravel but final 2km approaching tarmac, revealing fatigue timing vulnerability."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michał": "positive: Second Strade win confirms ability to execute solo gravel accelerations when rivals race reactively rather than proactively",
+      "VAN AVERMAET Greg": "negative: Second place again shows inability to respond to gravel accelerations despite positioning—always chasing never initiating",
+      "WELLENS Tim": "positive: First podium demonstrates improving durability on longer gravel sectors, breaking from pure sprint specialist limitations",
+      "STYBAR Zdeněk": "negative: Fourth place despite Quickstep numbers suggests over-reliance on teammates' pace rather than personal gravel acceleration capacity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:08:01.492186+00:00"
+}

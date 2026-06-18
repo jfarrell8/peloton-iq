@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Not a traditional attacker. Opportunistic sprinter who capitalizes on chaos in reduced bunch sprints, showing ability to finish strongly from 200-250m when positioned well without formal leadout.",
+  "team_tactics": "Initially deployed as leadout man but demonstrates capacity to freelance when team sprint trains collapse. Benefits from general team pace-forcing that fragments sprints rather than controlled leadouts.",
+  "terrain_preference": "Flat sprint stages and chaotic finishes where positioning matters more than pure top-end speed. Completely exposed on any sustained climbing - drops quickly on mountain stages beyond 50km from finish.",
+  "vulnerability": "Mountain stages eliminate him decisively (2+ minute losses on 50km climbs). Pure sprint trains with organized leadouts may disadvantage him versus relying on instinctive positioning in disrupted finishes.",
+  "key_patterns": [
+    "Consistently places top-5 in sprints across multiple Grand Tours when positioned correctly (2021, 2022)",
+    "Loses significant time on mountain stages, 2+ minutes when climbs extend beyond 50km",
+    "Performs better in disrupted/chaotic sprints than organized trains with traditional leadouts (2019, 2021)",
+    "Values consistent high placings and bonus seconds over risky stage win attempts (2022 Vuelta)"
+  ],
+  "form_trajectory": "positive: evolved from pure leadout man (2019) to consistent top-5 finisher with improved tactical awareness in sprint chaos (2021-2022)",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "TEUNISSEN Mike",
+  "built_from": [
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 2"
+  ]
+}

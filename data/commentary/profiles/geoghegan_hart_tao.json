@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Shows willingness to bridge gaps solo and animate races late, but lacks explosive finishing power to sustain efforts when pace intensifies in final phases of mountain stages.",
+  "team_tactics": "Benefits from INEOS positioning with teammates like McCarthy delivering him into late-race situations, though internal leadership hierarchy appears ambiguous affecting full team commitment to his GC campaigns.",
+  "terrain_preference": "Capable on sustained climbs with steady gradients where team tempo can control. Exposed on explosive accelerations and critically vulnerable on technical wet descents.",
+  "vulnerability": "Technical descending in wet conditions is a critical weakness (crashed out of podium position at Giro). Cannot respond when elite climbers accelerate hard in final kilometers of stages.",
+  "key_patterns": [
+    "Requires teammate support for positioning; McCarthy specifically mentioned dragging him forward (2 observations)",
+    "Struggles to sustain efforts when pace ramps dramatically in final 70km of mountain stages",
+    "INEOS leadership ambiguity limits full team commitment to his GC ambitions across multiple seasons",
+    "Wet descending represents genuine GC-ending vulnerability despite strong climbing legs"
+  ],
+  "form_trajectory": "neutral: Showed improved form in early 2023 build-up (Tirreno) but crash eliminated GC assessment opportunity. Insufficient recent data post-injury.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "GEOGHEGAN HART Tao",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 20",
+    "2022 Tirreno-Adriatico Stage 1",
+    "2023 Giro dItalia Stage 11",
+    "2023 Tirreno-Adriatico Stage 4"
+  ]
+}

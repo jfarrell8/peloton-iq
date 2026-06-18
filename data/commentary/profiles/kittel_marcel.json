@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Pure power sprinter who launches from 200-500m out, often from poor positions (8th wheel or worse). Shows exceptional ability to navigate gaps and come from behind in final meters, winning photo finishes through raw acceleration rather than positional advantage.",
+  "team_tactics": "Quick-Step leadout frequently fails or gets swamped in final kilometer, forcing Kittel to improvise wheel-to-wheel. Team struggles to protect him on semi-mountainous and windy stages, leading to significant time losses. When leadout works (Sabatini), results are dominant.",
+  "terrain_preference": "Flat pure sprint stages where his 42.3mph top-end speed and late acceleration are decisive. Exposed and loses significant time on semi-mountainous terrain with crosswinds, where team cannot shelter him effectively.",
+  "vulnerability": "Semi-mountainous and windy stages where team protection collapses—lost 12+ minutes despite Quick-Step support. Premature sprint initiation without teammates suggests tactical uncertainty when isolated. Crash susceptibility ended 2017 Tour despite five wins.",
+  "key_patterns": [
+    "Wins from compromised positions (8th wheel, gaps, behind) through superior acceleration—documented in 4+ stages.",
+    "Quick-Step leadout frequently fails; forces improvised wheel-surfing in final 500m across multiple wins.",
+    "Unprecedented winning margins in 2017 Tour suggest peak form timing, winning 5 stages decisively.",
+    "Loses 12+ minutes on windy/hilly stages despite full team, exposing climbing/positioning vulnerability.",
+    "Superior top-end speed (42.3mph) compensates for positioning chaos in mass sprints."
+  ],
+  "form_trajectory": "negative: Despite 5 dominant Tour stage wins showing peak sprint form, abandoned after crash and lost significant time on varied terrain, revealing fragility and incomplete team protection.",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "KITTEL Marcel",
+  "built_from": [
+    "2017 Paris-Nice Stage 3",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 17",
+    "2017 Tour de France Stage 2",
+    "2017 Tour de France Stage 2",
+    "2017 Tour de France Stage 6",
+    "2017 Tour de France Stage 6",
+    "2017 Tour de France Stage 7",
+    "2017 Tour de France Stage 7"
+  ]
+}

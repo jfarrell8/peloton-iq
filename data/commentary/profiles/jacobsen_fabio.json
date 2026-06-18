@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Pure sprinter who launches from screened or sub-optimal positions in final 200m. Thrives in technical, compressed finales where positioning chaos creates opportunities rather than textbook leadout trains.",
+  "team_tactics": "Team provides bridging support on climbs/rolling terrain rather than traditional sprint trains. Multiple observations show domestiques expending resources to bring him back after pace attacks, then improvising leadout after crashes/positioning failures.",
+  "terrain_preference": "Rolling terrain with selective climbs where UAE-style pace attacks force selection but allow regrouping. Technical finales with compression suit his ability to find gaps. Headwind sprints showcase raw power beyond pure speed.",
+  "vulnerability": "Dependent on teammates for bridging on climbs when pace attacks occur—without De Koenig-type domestiques to chase back, could be dropped. Leadout crashes force solo navigation, though he's proven adaptable.",
+  "key_patterns": [
+    "Won sprints after losing full/partial leadout to crashes (3 observations), showing elite self-navigation ability",
+    "Survived climbing pace attacks then regrouped for sprint finish (2 observations on rolling Vuelta stages)",
+    "Wins from screened/boxed positions rather than open leadout launches (2+ technical finale victories)",
+    "Team prioritizes bridging/survival over traditional leadout infrastructure in selective stages",
+    "Headwind sprint power exceeds reputation as pure speed sprinter (Tour 2022 demonstration)"
+  ],
+  "form_trajectory": "positive: 2022 Tour performance showed evolution beyond pure leadout dependency, winning headwind sprint solo. Confidence fully restored post-injury by 2021 Vuelta, beating top-tier field repeatedly.",
+  "races_analysed": 4,
+  "confidence": "high",
+  "rider_name": "JACOBSEN Fabio",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 16",
+    "2021 La Vuelta ciclista a Espana Stage 16",
+    "2021 La Vuelta ciclista a Espana Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 5",
+    "2022 Tour de France Stage 2",
+    "2022 Tour de France Stage 2"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic attacker who exploits fatigue in breakaway scenarios on final climbs, capable of winning from reduced groups rather than solo long-range efforts.",
+  "team_tactics": "Limited observable team support; appears to operate independently within breakaways, suggesting either diminished team backing or tactical flexibility to hunt stage wins outside GC support.",
+  "terrain_preference": "Mountainous stages with final climb finishes where he can attack from pre-formed breakaway groups; thrives when selective racing has already reduced competition.",
+  "vulnerability": "Unclear GC standing suggests vulnerability in sustained stage racing hierarchy; may struggle when team prioritizes other leaders, forcing opportunistic rather than supported racing.",
+  "key_patterns": [
+    "Attacks from breakaways on final climbs rather than initiating moves from GC group.",
+    "Capitalizes on fatigue of breakaway companions in closing kilometers to secure victories.",
+    "Operates with apparent autonomy, suggesting secondary status within team GC hierarchy."
+  ],
+  "form_trajectory": "positive: Stage victory at Vuelta indicates returning form after reported demotion, showing ability to convert opportunities despite reduced team support",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CARAPAS Richard",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 12"
+  ]
+}

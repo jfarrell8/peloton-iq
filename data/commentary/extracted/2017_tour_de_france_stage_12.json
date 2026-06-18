@@ -1,0 +1,30 @@
+{
+  "label": "2017 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-13",
+  "stage": 12,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BARDET won Stage 12 after FROOM couldn't respond to ARU's attack in final 200m, ARU takes yellow by 6 seconds.",
+    "winner": "BARDET Romain",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Porte de Bales pace by Sky broke teammate FUGLSANG (with broken arm) but created vulnerability for Froom on final ramps.",
+      "LANDA looked stronger than Froom on Peyresourde, didn't appear to breathe hard while pacing, suggests Sky domestique reserve strength.",
+      "Peloton neutralized after Froom/Aru/Nieve crash into campers at sharp right turn before final climb, questioning yellow jersey etiquette.",
+      "Final 200m 20%+ ramps exposed Froom's weakness after Sky controlled entire stage, first time he's cracked since 2012."
+    ],
+    "rider_signals": {
+      "FROOM Chris": "negative: admitted no legs on final kick after Sky controlled pace all day, unprecedented weakness on 20%+ ramps",
+      "ARU Fabio": "positive: only attack Froom couldn't respond to since 2012, strong enough to take yellow despite losing Fuglsang",
+      "LANDA Mikel": "positive: appeared stronger than Froom on Peyresourde, barely breathing while pacing, suggests untapped capacity",
+      "FUGLSANG Jakob": "negative: dropped on Porte de Bales despite racing with two broken bones in left arm, compromised Aru's team support",
+      "QUINTANA Nacho": "negative: dropped decisively, now 4:01 behind after refusing to attack when Sky crashed, appears out of contention",
+      "BARGUIL Warren": "positive: extended KOM lead to 40 points with selective point-hunting while being distanced on final climbs",
+      "CONTADOR Alberto": "negative: showed brief life on Porte de Bales but paid dearly later, confirms decline",
+      "KWIATKOWSKI Michal": "negative: reckless descent into camper crash created unnecessary risk with no tactical upside"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:08:49.221542+00:00"
+}

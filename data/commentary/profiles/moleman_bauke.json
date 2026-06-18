@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Exploits psychological moments when chasers relax, preferring descent attacks immediately after categorized climbs rather than conventional summit or finale sprint attacks.",
+  "team_tactics": "Insufficient data to establish team setup patterns from single race observation.",
+  "terrain_preference": "Technical descents following categorized climbs where timing and positioning advantage can be converted into solo efforts; capable of sustaining efforts for 1+ minute gaps.",
+  "vulnerability": "Unknown from available data - single observation shows strength in opportunistic racing but no repeated exposure patterns.",
+  "key_patterns": [
+    "Attacks on descents rather than climbs when breakaway dynamics present opportunity.",
+    "Reads psychological moments when chase groups relax post-effort to launch winning moves.",
+    "Capable of converting late-race attacks into substantial time gaps (1+ minute solo)."
+  ],
+  "form_trajectory": "unknown: single 2021 Tour de France stage win shows opportunistic strength but insufficient timeline data",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MOLEMAN Bauke",
+  "built_from": [
+    "2021 Tour de France Stage 14",
+    "2021 Tour de France Stage 14"
+  ]
+}

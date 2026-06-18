@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de Suisse Stage 7",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-18",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PINO won final mountain stage at Malbun after being in 19-rider breakaway from Lukmanier Pass; HIGITA took yellow by 2 seconds over THOMAS after late attack.",
+    "winner": "PINO Thibaut",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "19-rider breakaway established on Lukmanier after 50km opening hour, revealing extremely aggressive early pace tolerance by peloton.",
+      "THOMAS attacked only final 500m despite stronger TT credentials, suggesting unwillingness to deplete reserves before decisive TT stage.",
+      "HIGITA's late move gained only 11 seconds on THOMAS but strategic value in forcing leader FULSANG to chase.",
+      "RODRIGUEZ finishing second as marked GC threat indicates he avoided workload while THOMAS and FULSANG controlled."
+    ],
+    "rider_signals": {
+      "HIGITA Sergio": "positive: jumped third to first with 11-second gain while Thomas did chasing work, tactically astute before TT weakness",
+      "THOMAS Geraint": "neutral: only attacked final 500m despite being strongest TTer, prioritizing Sunday over additional time gains",
+      "FULSANG Jakob": "negative: forced to chase for teammate in yellow, dropped 19 seconds back despite looking strongest all week",
+      "PINO Thibaut": "positive: second win in three months after three-year drought, showing resurgent climbing form",
+      "RODRIGUEZ Oscar": "positive: stealthily finished second on GC stage without visible effort, hiding strength before TT",
+      "EVENEPOEL Remco": "negative: brief move immediately shut down by leader's team, suggesting isolation or lack of form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:55:59.457363+00:00"
+}

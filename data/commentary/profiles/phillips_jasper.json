@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; focuses on positioning for sprint finishes, particularly from technical final corners where positioning discipline matters more than raw power.",
+  "team_tactics": "Limited evidence of dedicated lead-out support; appears to operate with individual positioning responsibility, relying on personal corner exits and spatial navigation in finale chaos.",
+  "terrain_preference": "Flat stages with technical finales and headwind conditions where sustained pace favors positioning over pure sprint speed. Struggles when race situation requires real-time tactical awareness.",
+  "vulnerability": "Critical race awareness gaps - demonstrated inability to track breakaway situations while in chase groups, suggesting poor communication with team or failure to process race radio information in decisive moments.",
+  "key_patterns": [
+    "Strong in headwind pace scenarios, maintaining position through sustained effort (2 observations)",
+    "Excellent cornering and technical positioning skills in final kilometers (2 observations)",
+    "Severe deficit in race situation awareness during complex tactical scenarios (2 observations)"
+  ],
+  "form_trajectory": "neutral: showed physical capacity to hold GC jersey and win chase sprints, but tactical awareness issues create unpredictable ceiling",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PHILLIPS Jasper",
+  "built_from": [
+    "2022 Tour de France Stage 4",
+    "2022 UAE Tour Stage 2"
+  ]
+}

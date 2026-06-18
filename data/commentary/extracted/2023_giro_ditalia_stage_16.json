@@ -1,0 +1,28 @@
+{
+  "label": "2023 Giro dItalia Stage 16",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-23",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João attacked with 6km to go on Monte Bondone, THOMAS Geraint bridged at 4.5km and both distanced ROGLIČ by 25 seconds to take pink.",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled with Hague/Conrad in break (4:30 down) but UAE-Emirates trio Formula/Vine/Almeida proved superior firepower final climb.",
+      "Thomas bridged Almeida's 6km attack at 4.5km rather than countering, converting to collaboration that gapped Roglič 30 seconds mid-climb.",
+      "Sepp Kuss survival to 6km mark proved critical insurance for Roglič, limiting damage to 25 seconds after 30-second deficit.",
+      "Dunbar emerged from satellite break strategy to fifth GC, demonstrating Jay co-Alco positioning value on 5500m stages."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: bridged aggressively at 4.5km and sustained collaboration rather than attacking Almeida, taking pink at 36 years old",
+      "ALMEIDA João": "positive: initiated decisive move 6km out and held Thomas collaboration to first Grand Tour stage win",
+      "ROGLIČ Primož": "negative: gapped 30 seconds mid-climb and required Kuss survival to limit final damage to 25 seconds",
+      "DUNBAR Eddie": "positive: survived break selection and climbed to fifth GC, 303 seconds back from Thomas",
+      "CARTHY Hugh": "negative: struggled on pace when Vine finished work, losing contact with GC group",
+      "KUSS Sepp": "positive: lasted to 6km mark providing critical insurance that prevented Roglič losing more than 25 seconds"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:01:18.388535+00:00"
+}

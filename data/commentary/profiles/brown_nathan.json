@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early opportunist seeking KOM points and breakaway opportunities rather than late-stage attacks. Shows willingness to be aggressive in opening stages of Grand Tours to contest classification points.",
+  "team_tactics": "Appears given freedom to pursue breakaway opportunities and minor classifications in Grand Tours as a support rider without major GC protection requirements.",
+  "terrain_preference": "Selective mountain stages where he can survive in reduced GC groups. Capable on categorized climbs sufficient to contest KOM points in breakaways.",
+  "vulnerability": "Limited data but profile suggests domestique role rather than ability to challenge for stage wins or major GC positions in three-week races.",
+  "key_patterns": [
+    "First-year Grand Tour rider showing early aggression for breakaways and KOM points (2 observations)",
+    "Capable of finishing with GC group on selective mountain stages, limiting losses (2 observations)",
+    "Targets opportunities suited to support riders rather than protected status (2 observations)"
+  ],
+  "form_trajectory": "positive: showed promising first Tour de France with both breakaway aggression and ability to survive selective mountain stages",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BROWN Nathan",
+  "built_from": [
+    "2017 Tour de France Stage 3",
+    "2017 Tour de France Stage 8"
+  ]
+}

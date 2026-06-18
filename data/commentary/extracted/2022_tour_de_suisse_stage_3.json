@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-14",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won bunch sprint after INEOS unexpectedly contested intermediate sprint at 12km, gaining THOMAS Geraint time bonuses that reshuffled GC.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS contested second intermediate sprint with ROWE leadout at 12km, THOMAS taking 3sec bonuses despite no GC threat.",
+      "BISEGGER Stefan double-attacked from break with 35km then on penultimate climb, forcing BIKE EXCHANGE to chase alone.",
+      "Late crashes after 3km-to-go safe zone reshuffled GC, catching SCHACHMANN and POZZOVIVO who lost top-10 positions."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: INEOS committed leadout resources for intermediate sprint bonuses despite no obvious GC ambitions, signals form improving",
+      "SCHACHMANN Mark": "negative: briefly moved second overall via sprint bonus but caught in late crash after 3km mark, dropped from top-10",
+      "BISEGGER Stefan": "positive: attacked twice from break including solo effort extending gap to 59sec on penultimate climb before recapture",
+      "SAGAN Peter": "positive: first WorldTour win in 9 months after team rode all day, suggests sustained power returning weeks before Tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:55:12.017204+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-02",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MOHORIC Matej attacked on the Signal d'Uchon (final climb) from a 29-rider breakaway that included yellow jersey VAN DER POEL, solo to victory.",
+    "winner": "MOHORIC Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Yellow jersey VAN DER POEL entered 29-rider break, forcing UAE to chase without team support—radical GC destabilization tactic.",
+      "CARAPAZ late attack inside 8km neutralized by Movistar chasing for VAN DER POEL, showing team priority confusion.",
+      "ROGLIC lost 3+ minutes without teammates present, exposing Jumbo-Visma's vulnerability when leader isolated on long stages."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: Entered massive breakaway while holding yellow, forcing rivals to burn energy without team support—unprecedented GC gamesmanship",
+      "POGACAR Tadej": "negative: Chase effort without Nibali/Van Aert in break revealed UAE tactical error on 249km stage with multiple GC threats ahead",
+      "ROGLIC Primoz": "negative: Lost 3+ minutes with zero teammates present, confirming crash injuries are degrading both form and team support",
+      "CARAPAZ Richard": "neutral: Late attack showed form but Movistar chased him down for Van der Poel, exposing confused team priorities",
+      "MOHORIC Matej": "positive: Solo victory on Signal d'Uchon debut after previous crashes suggests Bahrain's strong climber depth on selective finishes",
+      "STUYVEN Jasper": "positive: Second place from 29-rider break demonstrates Trek's ability to infiltrate large moves with versatile classics riders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:33:27.614529+00:00"
+}

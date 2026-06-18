@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Does not initiate attacks; reactive rider who struggles to respond to late accelerations on short climbs and technical descents, particularly when rivals push pace.",
+  "team_tactics": "Insufficient data on team support patterns; observations show abandonment of team duties when compromised, suggesting vulnerability when isolated.",
+  "terrain_preference": "No clear terrain strength identified. Exposed on technical descents (crashed at 45mph, lost time hanging leg) and short punchy climbs where unable to respond to attacks.",
+  "vulnerability": "Technical descending at high speeds causes crashes and time loss. Illness forces early abandons (2 documented cases). Cannot match accelerations on short climbs (5.9km) or respond when rivals attack late.",
+  "key_patterns": [
+    "Technical descending weakness: crashed at 45mph, lost seconds hanging leg on separate descent (2 instances)",
+    "Illness-prone: abandoned due to gastroenteritis and illness in consecutive 2022 stage races (2 instances)",
+    "Reactive not proactive: locked up when attacked, no attacking observations recorded (2+ instances)",
+    "Short climb vulnerability: conceded time bonuses on 5.9km climb, unable to follow accelerations (2 instances)"
+  ],
+  "form_trajectory": "negative: consecutive illness-related abandons in 2022 (Catalunya, Giro) suggest chronic health/form issues compared to 2017 GC contention",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "PORT Richie",
+  "built_from": [
+    "2017 Tour de France Stage 5",
+    "2017 Tour de France Stage 9",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Tirreno-Adriatico Stage 6",
+    "2022 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

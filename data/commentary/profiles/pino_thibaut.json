@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Long-range attacks from breakaways on mountain stages, preferring sustained efforts from early passes rather than late explosive moves. Struggles to finish with a strong sprint when attacking repeatedly.",
+  "team_tactics": "Operates with autonomy in breakaway scenarios, committing early (from major passes like Lukmanier) and staying in large groups rather than relying on team-controlled tempo.",
+  "terrain_preference": "Multi-climb mountain stages where stamina and breakaway endurance matter more than explosive finishing power. Final climb summit finishes suit best when establishing early gaps.",
+  "vulnerability": "Lacks sprint finish when forced to race reactively with multiple attacks. Over-racing tendency leads to energy depletion without converting attacks to results, especially in Grand Tours.",
+  "key_patterns": [
+    "Commits to large early breakaways on mountain stages rather than waiting for selective moves (19-rider group evidence).",
+    "Extended career drought (3 years) broken by cluster wins suggests inconsistent form maintenance across seasons.",
+    "Most aggressive on final climbs but lacks conversion punch, animating without winning in GT context."
+  ],
+  "form_trajectory": "negative: despite resurgent 2022 wins ending drought, 2023 Giro showed over-racing without results conversion in likely final GT",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PINO Thibaut",
+  "built_from": [
+    "2022 Tour de Suisse Stage 7",
+    "2022 Tour de Suisse Stage 7",
+    "2023 Giro dItalia Stage 13"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; functions as a high-altitude domestique capable of extended pacing work on climbs before finales rather than launching personal attacks.",
+  "team_tactics": "Deployed as an expendable climber to control tempo and burn matches early on difficult ascents, allowing protected riders to save energy for decisive moments.",
+  "terrain_preference": "High-altitude climbs where sustained pacing ability is valued over explosive accelerations; thrives in tempo-setting rather than reactive racing.",
+  "vulnerability": "Shows selective effort allocation when team tactics don't align with personal interest; reluctant to contribute to chases that don't serve direct team objectives.",
+  "key_patterns": [
+    "Functions primarily as sacrificial domestique on climbs, burning energy before finales (2 observations)",
+    "Exhibits selective work refusal when tactical situation doesn't suit team strategy (2 observations)",
+    "Valued for extended high-altitude pacing capacity rather than finishing ability (2 observations)"
+  ],
+  "form_trajectory": "neutral: Limited recent data, but 2022 observation shows continued utility in domestique role without evidence of elevation to protected status",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MAJKA Rafal",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 18",
+    "2022 UAE Tour Stage 7"
+  ]
+}

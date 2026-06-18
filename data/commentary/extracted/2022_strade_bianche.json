@@ -1,0 +1,26 @@
+{
+  "label": "2022 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2022-03-05",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked solo with 50km remaining on gravel sectors, building 90+ seconds while ALAPHILIPPE cracked despite chasing from earlier crash",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR attacked at 50km on gravel, not on final climbs—positioning before finale mattered more than peak power.",
+      "ALAPHILIPPE's crash recovery effort at 100km mark destroyed his ability to respond 30km later despite reaching peloton.",
+      "ASGRIN dragged VALVERDE/SIMMONS on penultimate gravel sector but cooperation still lost 50+ seconds—chasing groups failed coordination."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: absorbed early crash yet soloed 50km including gravel sectors, suggesting superior durability/recovery in chaotic conditions",
+      "ALAPHILIPPE Julian": "negative: returned from 100km crash but cracked when ASGRIN accelerated on sector 3, showing energy depletion timeline matters",
+      "VALVERDE Alejandro": "positive: age 41, best-ever finish (2nd) working with ASGRIN late, proving diesel engine still functional in long attritional races",
+      "RODRIGUEZ Carlos": "negative: bridged to POGAČAR initially but caught 25km later, young climbers lack staying power on extended gravel efforts",
+      "ASGRIN Jakob": "positive: only rider forcing late chase on gravel sectors, showing Deceuninck tactical desperation creates aggressive domestiques"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:47:58.178805+00:00"
+}

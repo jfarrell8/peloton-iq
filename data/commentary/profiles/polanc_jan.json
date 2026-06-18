@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early breakaway specialist who attacks from the break rather than the peloton, capable of solo efforts in final kilometers against elite chase groups on mountain stages.",
+  "team_tactics": "Operates with freedom to join early breakaways; minimal visible team setup required as tactics rely on individual initiative from the break.",
+  "terrain_preference": "Mountain stages with sustained climbs where breakaway specialists can hold off GC riders; demonstrates ability to power through headwinds on exposed finishes.",
+  "vulnerability": "Limited data prevents clear identification of weaknesses; likely vulnerable when GC teams commit to full chase or on explosive short climbs favoring pure climbers.",
+  "key_patterns": [
+    "Multiple Giro stage wins from breakaways, indicating consistent execution of early-move tactics.",
+    "Sustained power in adverse conditions: held off 20-rider GC group in headwinds.",
+    "Climbing ability exceeds typical breakaway specialist profile, enabling mountain stage victories."
+  ],
+  "form_trajectory": "positive: Multiple stage wins at same Giro demonstrates excellent form and ability to repeat success",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "POLANC Jan",
+  "built_from": [
+    "2017 Giro d'Italia Stage 10",
+    "2017 Giro d'Italia Stage 10"
+  ]
+}

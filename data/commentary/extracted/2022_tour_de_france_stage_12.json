@@ -1,0 +1,29 @@
+{
+  "label": "2022 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-14",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PIDCOCK Tom attacked with 10.5km remaining on Alpe d'Huez, winning on Tour debut while ROGLIČ did domestique damage dropping multiple GC riders including BARDET.",
+    "winner": "PIDCOCK Tom",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ working as super-domestique on Alpe d'Huez proves Jumbo willing to burn GC podium for VINGEGAARD's yellow security.",
+      "POGAČAR attacked 2-3 times on Alpe d'Huez despite previous day's collapse, showing recovery capacity contradicts traditional stage race fatigue patterns.",
+      "Breakaway gap manipulation: under 5min at 50km-to-go, then grew again on descent showing peloton's strategic tolerance when VINGEGAARD secure.",
+      "PIDCOCK descending masterclass on Galibier allowed him to bridge from chasing group to leaders, revealing positioning weakness before KOM summits."
+    ],
+    "rider_signals": {
+      "PIDCOCK Tom": "positive: attacked with 10.5km remaining on Alpe d'Huez debut, won convincingly showing grand tour climbing legs immediately available",
+      "ROGLIČ Primož": "neutral: worked as domestique for VINGEGAARD dropping QUINTANA/GAUDU/BARDET, confirming podium sacrifice for team yellow defense",
+      "POGAČAR Tadej": "positive: attacked multiple times day after 3-minute loss, recovery rate faster than expected suggesting metabolic resilience",
+      "THOMAS Geraint": "positive: dropped twice on Alpe d'Huez but regained contact both times, moved to third overall demonstrating superior pacing discipline",
+      "BARDET Romain": "negative: dropped by ROGLIČ tempo work losing podium position, confirms inability to follow sustained high-altitude efforts",
+      "MAS Enric": "positive: recovered well after 8-minute loss previous day, finished with GC group suggesting one-off crisis rather than form collapse",
+      "FROOME Chris": "neutral: made breakaway and finished third in break group, first front-of-race presence since 2019 crash indicating partial return"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:50:22.569641+00:00"
+}

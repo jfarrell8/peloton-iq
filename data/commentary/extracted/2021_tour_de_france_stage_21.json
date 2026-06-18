@@ -1,0 +1,24 @@
+{
+  "label": "2021 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-18",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT won the Champs-Elysées sprint after Cavendish was boxed in final kilometer, completing hat-trick of stage wins across different terrain types",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-QuickStep controlled Champs-Elysées despite Cavendish leading green jersey, revealing protective rather than aggressive sprint positioning tactics.",
+      "Van Aert's Tour triple (mountain/TT/Champs sprint) signals jumbo-visma's willingness to prioritize stage wins even with diminished GC roster.",
+      "Cavendish boxed in final kilometer despite green jersey advantage suggests positioning errors when QuickStep controls rather than leads sprint train."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Completed unprecedented hat-trick winning mountain stage, time trial, and Champs-Elysées sprint in single Tour edition",
+      "CAVENDISH Mark": "negative: Boxed in final kilometer on Champs-Elysées despite leading green jersey classification, revealing positioning vulnerability when not prioritized",
+      "GREIPEL André": "neutral: Final Tour stage before retirement announcement shows immediate career-end timing after completing Grand Tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:32:29.103429+00:00"
+}

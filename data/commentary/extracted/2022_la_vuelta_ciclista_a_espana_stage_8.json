@@ -1,0 +1,30 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 8",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-27",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked decisively on the final Cat 1 climb to solo for his second stage win while EVENEPOEL defended red jersey against POGACAR/MAS/ROGLIC without time gaps.",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINE Jay dominated KOM points across multiple climbs before final attack, making polkadot jersey competition mathematically unassailable early-race.",
+      "EVENEPOEL burned entire Quick-Step team on final climb to neutralize GC attacks, preserving 28-second lead through pure defensive power.",
+      "PEDERSEN Mads infiltrated quality breakaway on mountain stage to capture green jersey via intermediate sprints, unconventional sprinter positioning.",
+      "UAE/Jumbo/Ineos failed to coordinate attacks despite EVENEPOEL isolation, allowing him to mark each move individually without time losses."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: second stage win plus KOM domination suggests breakaway threat level underestimated, can both climb and time-trial solo efforts",
+      "EVENEPOEL Remco": "positive: defended 28-second lead while isolated on Cat 1 climb against three GC rivals, stronger uphill than pre-race form suggested",
+      "SOLAIRE Marc": "positive: second runner-up finish after own stage win, consistently strong in breakaways suggests under-handicapped for long-range moves",
+      "PINOT Thibaut": "positive: rejoined elite climbers after struggling for form, worked hard to bridge then held position suggesting resurgent condition",
+      "PEDERSEN Mads": "positive: unconventional green jersey play infiltrating mountain breakaway reveals tactical flexibility beyond pure sprinting",
+      "MAS Enric": "neutral: stayed with EVENEPOEL on final climb but failed to distance him despite home advantage terrain",
+      "ROGLIC Primoz": "neutral: matched EVENEPOEL pace but Jumbo-Visma generated no offensive pressure despite GC deficit",
+      "LOPEZ Nicolas": "negative: dropped on final climb while other GC contenders stayed together, legs not recovered from early struggles"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:45:30.109808+00:00"
+}

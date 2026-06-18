@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-13",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVAGNA Rémi soloed 25km into headwind to win in Toledo after Movistar controversially attacked when Roglic crashed at 66km to go.",
+    "winner": "CAVAGNA Rémi",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar attacked immediately after Roglic crashed at 66km out despite unwritten rules, forcing Astana to chase for rival.",
+      "Cavagna launched solo attack 25km from finish into headwind when sensing bunch closing, exploiting Deceuninck non-chase guarantee.",
+      "Crosswinds at 37km created decisive peloton split catching all GC contenders except Roglic, second crash vulnerability moment.",
+      "CCC paced early to control gap without breakaway representation while Bora/Deceuninck sat on with riders ahead."
+    ],
+    "rider_signals": {
+      "ROGLIC Primož": "negative: crashed twice in one stage at 66km and 37km splits, relied entirely on rival Astana to chase back",
+      "VALVERDE Alejandro": "neutral: led controversial Movistar acceleration after rival's crash but was forced by team/others to wait",
+      "CAVAGNA Rémi": "positive: domestique found energy for 25km solo headwind effort late in Grand Tour, suggests deeper reserves than workload indicates",
+      "BENNETT Sam": "positive: best of the rest behind breakaway on 12% cobbled finish, not pure sprinter on climbing finishes",
+      "LÓPEZ Miguel Ángel": "negative: caught out by same Movistar attack that caught Roglic despite being their protected GC rider"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:20:19.403349+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-09",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked with 300m to go on the finishing circuit climb, rounded YATES and pulled clear for the win over ALAPHILIPPE and YATES.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE Julian attacked early on penultimate climb lap as tactical marker, signaling form ahead of classics season.",
+      "ROGLIČ went twice in final 300m, first attempt blocked then immediately re-attacked to exploit hesitation from YATES.",
+      "UAE's YATES Adam positioned perfectly on Roglič wheel but couldn't respond to second acceleration with 300m remaining.",
+      "Jumbo-Visma executed Plan B when plan A (VAN AERT presumably) failed, showing tactical flexibility mid-race."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: showed explosive finishing power on short steep finish after 218km, different weapon than expected",
+      "ALAPHILIPPE Julian": "positive: strong enough to attack penultimate lap and finish second, rapid form return pre-classics",
+      "YATES Adam": "neutral: perfect positioning but lacked final punch when Roglič accelerated twice in 300m",
+      "PIDCOCK Tom": "negative: struggled positioning before crash with Van Aert, already off pace before mechanical incident",
+      "LAFAY Victor": "positive: matched Roglič acceleration to finish fourth, punchy climb suits better than expected",
+      "GEOGHEGAN HART Tao": "positive: animated late with McCarthy dragging him into position, showing improved form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:18:24.812440+00:00"
+}

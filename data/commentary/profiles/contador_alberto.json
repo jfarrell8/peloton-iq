@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Attempts signature explosive attacks on climbs (e.g., Porte de Bales) but lacks sustained power to maintain gaps. Attacks appear opportunistic but physiologically unsustainable in 2017.",
+  "team_tactics": "Insufficient data on team setup from observations provided. No clear patterns of domestique-led tempo control documented across these race segments.",
+  "terrain_preference": "Traditional mountain stages remain his natural terrain, but uphill sprint finishes expose declining explosive power against younger puncheurs. Multi-climb stages show vulnerability on final ascents.",
+  "vulnerability": "Psychological fragility after mechanicals/crashes compounds physical struggles. Cannot recover power after early-race efforts. Explosive uphill finishes against fresh punchy climbers reveal declining W/kg.",
+  "key_patterns": [
+    "Shows brief attacking sparks on climbs but pays severe time penalty later in stage (2 observations)",
+    "Psychological body language deteriorates visibly after setbacks like crashes or mechanicals (2 observations)",
+    "Unable to match young explosive riders on punchy uphill finishes, losing 18+ seconds (2 observations)",
+    "Resurgence capacity exists: recovered to third place after early Tour struggles despite 5:15 deficit (1 major observation)"
+  ],
+  "form_trajectory": "negative: Clear decline pattern with four negative signals showing inability to sustain attacks, vulnerability to punchy riders, and psychological fragility, despite one late-Tour resurgence suggesting fighting spirit remains",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "CONTADOR Alberto",
+  "built_from": [
+    "2017 Paris-Nice Stage 4",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 13"
+  ]
+}

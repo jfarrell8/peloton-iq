@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Favors 'stealth attacks' on gravel sectors, accelerating when rivals are marking each other rather than launching obvious long-range moves. Strikes within technical sections, not at obvious landmarks.",
+  "team_tactics": "Insufficient data for pattern identification. Appears to exploit reactive racing by others rather than relying on heavy team setup.",
+  "terrain_preference": "Gravel/strade bianche sectors are optimal terrain. Proven ability to win solo from technical accelerations on unpaved surfaces. Multiple Strade Bianche victories confirm specialization.",
+  "vulnerability": "May struggle when opponents race proactively and aggressively rather than reactively. Stealth tactics require rivals watching each other.",
+  "key_patterns": [
+    "Attacks within gravel sectors, not at sector entrances/exits—timing based on rival inattention",
+    "Second Strade Bianche win indicates repeatable execution of gravel-specific race craft",
+    "Exploits tactical stalemates; accelerates when peloton is reactive rather than aggressive"
+  ],
+  "form_trajectory": "unknown: Single race context insufficient to determine trajectory, though win confirms technical gravel capabilities remain sharp",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KWIATKOWSKI Michał",
+  "built_from": [
+    "2017 Strade Bianche",
+    "2017 Strade Bianche"
+  ]
+}

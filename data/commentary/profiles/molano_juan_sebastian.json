@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Pure sprinter who finishes in fast, technical finales. Not an attacker — wins from positioning in final kilometer through lead-out trains.",
+  "team_tactics": "UAE deploys high-speed lead-outs with dedicated pilots like OLIVEIRA. Tactical positioning against traffic flow (middle-right) to maximize straight-line speed. Can adapt when plan breaks down.",
+  "terrain_preference": "Technical flat finales requiring precise positioning and high-speed navigation. Excels in controlled bunch sprints with organized lead-out trains available.",
+  "vulnerability": "Versatility — appears exclusively suited to flat sprint stages. Limited observations suggest no climbing, breakaway, or reduced-bunch capabilities demonstrated.",
+  "key_patterns": [
+    "UAE provides exceptional high-speed lead-outs through technical finales (2 observations across 2023, 2022).",
+    "Wins from middle-right positioning against traffic flow, exploiting strategic placement (2023 Vuelta Stage win).",
+    "Shows adaptability when lead-out fails, continuing to sprint when forced into early acceleration (2022 Madrid).",
+    "Consistently competitive in Vuelta sprint stages, head-to-head wins against quality sprinters like GROVES (2 observations)."
+  ],
+  "form_trajectory": "positive: Won stages in both 2022 and 2023 Vuelta editions, demonstrating consistent sprint capability and well-functioning UAE lead-out train",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MOLANO Juan Sebastian",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2023 La Vuelta Ciclista a Espana Stage 12",
+    "2023 La Vuelta Ciclista a Espana Stage 12"
+  ]
+}

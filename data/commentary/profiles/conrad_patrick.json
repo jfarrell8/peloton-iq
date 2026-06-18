@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches solo attacks from functioning breakaways on high-mountain climbs, with strong descending skills to hold gaps post-summit. Willing to commit fully to long-range efforts.",
+  "team_tactics": "Operates within breakaway groups rather than relying on team setup; self-sufficient rider who creates own opportunities from early moves.",
+  "terrain_preference": "High-mountain stages with technical descents that allow strong descenders to consolidate gaps created on climbs. HC climbs like Col de Portet suit his attacking profile.",
+  "vulnerability": "Limited data, but reliance on breakaway success suggests potential weakness against GC riders in direct confrontation or stages with heavy team control.",
+  "key_patterns": [
+    "Attacks solo from established breakaways rather than waiting for group sprint",
+    "Shows confidence and skill on technical descents to maintain/extend climbing gains",
+    "Capable of sustaining 1+ minute advantages solo to finish after mountain attacks"
+  ],
+  "form_trajectory": "positive: Demonstrated winning form with confident solo attacking and strong physical condition to hold significant gap",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CONRAD Patrick",
+  "built_from": [
+    "2021 Tour de France Stage 16",
+    "2021 Tour de France Stage 16"
+  ]
+}

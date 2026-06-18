@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-08",
+  "stage": 8,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "CALMEJANE Lilian won from the break after surviving cramps at 5km out, holding off HESJEDAL by margins under 15 seconds on final climb.",
+    "winner": "CALMEJANE Lilian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky split tactics: planted Henao and Kwiatkowski in break despite both being GC threats, but still had to chase.",
+      "ROCHE Nicolas bridged from second group to leaders then past them before Calmejane's decisive counter-attack on final climb.",
+      "Sky nearly lost yellow through Kwiatkowski descending too fast for teammates, causing Thomas and Froome off-road excursion mid-stage."
+    ],
+    "rider_signals": {
+      "CALMEJANE Lilian": "positive: won despite severe cramping at 5km mark, demonstrated unusual mental composure for 24-year-old first-time stage winner under extreme physical duress",
+      "THOMAS Geraint": "positive: crashed off-road carrying team bottles but immediately returned to do heavy work for Froome in finale",
+      "ROCHE Nicolas": "positive: bridged between groups and attacked past early break leaders on final climb, forcing Calmejane's winning move",
+      "ARU Fabio": "neutral: finished 50 seconds down but took 10 points on category-1 Pluie climb, one point behind KOM lead",
+      "BROWN Nathan": "positive: unexpectedly finished with GC group 50 seconds behind winner on selective mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:11:56.219664+00:00"
+}

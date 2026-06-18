@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-15",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl won at 37 after surviving the final second-category climb, first World Tour win since 2019 Tour de France.",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education used full team domestiques Carthy/Urán on final climb to position Bettiol, revealing deep climbing sprint leadout strategy.",
+      "Race leader Williams distanced on final Cat-2 climb but successfully bridged over top, exposing vulnerability on sustained gradients.",
+      "Three-man break with Holmes collecting intermediate sprint points strategically killed on final climb by sprinter teams, not before summit."
+    ],
+    "rider_signals": {
+      "WILLIAMS Stephen": "negative: Distanced on final second-category climb before recovering over top, suggesting fragile form for stage race leader.",
+      "BETTIOL Alberto": "negative: Led out sprint but faded early despite full team support, questioning form after previous stage win.",
+      "IMPEY Daryl": "positive: First World Tour win since 2019 TDF stage 9, survived sustained Cat-2 climb at 37, signals unexpected climbing durability.",
+      "CARTHY Hugh": "neutral: Working as domestique for Bettiol on final climb contradicts typical GC leader role, suggests EF stage-hunting priority.",
+      "KRON Andreas": "positive: White jersey holder attempted bonus-second attack that would have taken race lead, showing aggressive GC tactics.",
+      "ASGREEN Kasper": "negative: DNS after previous day crash, reducing Quick-Step options for stage hunting."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:55:24.796921+00:00"
+}

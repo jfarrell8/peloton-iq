@@ -1,0 +1,28 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-24",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João won a photo finish after Quintana hesitated on summit gravel descent at 2.7km to go, tied on time but Quintana takes GC lead on countback.",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "O'Connor attacked from yellow jersey to chase breakaway, rare defensive acceleration that backfired leaving him isolated and losing lead.",
+      "INEOS deployed Sivakov grind-down pace before Carapaz attacked 2.7km out, standard altitude attrition playbook forcing GC selection before summit.",
+      "Quintana lost stage and countback advantage by refusing to commit on summit gravel descent, tactical conservatism costing tangible result.",
+      "UAE placed Soler in break while Almeida sat in pack, dual-threat positioning yielded stage win when break absorbed."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "negative: attacked from yellow jersey to chase break but got isolated, catastrophic energy expenditure defending race lead from front",
+      "ALMEIDA João": "positive: won stage and took youth jersey while tied for GC, only UAE rider willing to descend aggressively on gravel",
+      "QUINTANA Nairo": "neutral: takes GC lead on countback but lost stage by hesitating on gravel, tactical caution undermining results",
+      "CARAPAZ Richard": "positive: forced selection with 2.7km attack despite INEOS having Sivakov/Kwiatkowski/Porte present, leading from strength not numbers",
+      "VALVERDE Alejandro": "negative: explicitly dropped as off-color, illness impacting performance at altitude",
+      "HIGUITA Sergio": "positive: Colombian champion responded immediately to Carapaz attack and finished podium, elevation-specific strength emerging"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:58:29.714461+00:00"
+}

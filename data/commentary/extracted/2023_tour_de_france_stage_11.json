@@ -1,0 +1,22 @@
+{
+  "label": "2023 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-12",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won his fourth stage sprint as peloton nervously controlled through rain with 60km to go, preventing GC splits despite wind forecast",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Jumbo-Visma and UAE Emirates actively chased breakaway at 60km when rain/wind forecast materialized, prioritizing GC protection over sprint leadout.",
+      "Alpecin-Deceuninck absent from front organization unlike previous sprint stages, yet Philipsen still won from suboptimal position."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: won fourth sprint without visible Alpecin leadout train, showing ability to finish from chaos",
+      "VAN AERT Wout": "negative: no presence noted in sprint despite earlier intermediate sprint contest with Philipsen, suggesting form/role shift"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:19:41.378246+00:00"
+}

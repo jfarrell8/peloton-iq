@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Relies primarily on sustained climbing pace rather than explosive attacks. Shows ability to follow key selections and maintain position in elite GC groups through consistent power output.",
+  "team_tactics": "Bahrain employs elimination tactics through brutal sustained tempo-setting (multiple observations). Can burn through domestiques quickly with aggressive pacing strategies, sometimes misjudging resource management.",
+  "terrain_preference": "Excels on high-altitude sustained climbs (2135m+ demonstrated strength). Performs well in prolonged grinding efforts that favor steady power over explosive accelerations. Shows competence in time trials under pressure.",
+  "vulnerability": "Poor pacing judgment when domestiques commit early—suffers when GC attacks come after team resources exhausted. Struggles when left without team support, though shows individual resilience to limit losses.",
+  "key_patterns": [
+    "Sets or benefits from brutal elimination pace on climbs (3 instances across Vuelta)",
+    "Makes key GC selections, distancing top riders like Bernal/Yates through sustained efforts",
+    "Demonstrates high-altitude climbing strength above 2000m (Catalunya, Vuelta mountain stages)",
+    "Resource management issues: burns domestiques early then vulnerable to later attacks (2 documented instances)",
+    "Strong mental resilience in ITTs and when isolated, holding positions despite pressure"
+  ],
+  "form_trajectory": "neutral: 2023 observation shows continued climbing strength in support role, but limited recent GC leadership data to assess current podium-contending form versus 2021 Vuelta",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "HAIG Jack",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 21",
+    "2023 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

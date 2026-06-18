@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Late-climb desperation attacks (final 800m) to recover time deficits rather than proactive aggression. Rarely initiates attacks from position of strength; attacks born from necessity after losses elsewhere.",
+  "team_tactics": "Chronically under-supported by team structure. Multiple instances of isolation in critical moments (crosswinds, climbs). Functions as short-duration domestique when not GC-focused, but fades quickly on pace-setting duties.",
+  "terrain_preference": "Punchy uncategorized climbs where explosive power matters more than sustained climbing. Struggles on long, steady climbs where pure wattage determines selection. Completely exposed in crosswinds and technical positioning scenarios.",
+  "vulnerability": "Catastrophic positioning awareness in predictable danger zones (crosswinds, splits). Dropped on climbs before key accelerations even begin. Time trialing weakness forces defensive climbing tactics. Age-related decline in sustained climbing power evident post-2020.",
+  "key_patterns": [
+    "Caught behind crosswind splits repeatedly despite predictable conditions (3 documented instances across races)",
+    "Dropped before main GC attacks begin, not during accelerations (2019 Tour pattern)",
+    "Poor positioning costs time in straightforward stages, not just complex finales",
+    "Team isolation at critical moments across multiple squads (Trek, Ineos support failures)",
+    "Diminished climbing strength evident: shorter domestique stints, earlier distancing on climbs post-2020",
+    "Time trial weakness forces reactive climbing tactics and late desperation attacks"
+  ],
+  "form_trajectory": "negative: 2022 Giro showed clear decline—lost time on moderate climbs, caught in splits, shortened domestique efforts. Age-related power loss evident compared to 2019 baseline.",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "PORTE Richie",
+  "built_from": [
+    "2017 Tour de France Stage 3",
+    "2017 Tour de France Stage 3",
+    "2019 Tour de France Stage 10",
+    "2019 Tour de France Stage 11",
+    "2019 Tour de France Stage 14",
+    "2019 Tour de France Stage 2",
+    "2019 Tour de France Stage 20",
+    "2020 Paris - Nice Stage 1",
+    "2022 Giro d'Italia Stage 13",
+    "2022 Giro d'Italia Stage 4",
+    "2022 Giro d'Italia Stage 9",
+    "2022 Tirreno-Adriatico Stage 5"
+  ]
+}

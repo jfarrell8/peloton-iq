@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Long-range solo attacks from breakaways, typically 30+ km from finish, targeting intermediate points (KOM) rather than stage wins. Willing to burn matches early without waiting for optimal launch moment.",
+  "team_tactics": "Full team commitment to chasing and positioning for sprint finishes, but team resources sometimes misallocated relative to rider's actual winning capacity. Limited evidence of structured leadout trains.",
+  "terrain_preference": "Adapting from pure sprinter to handle longer gravel sectors and hilly classics-style finales. Still vulnerable on consecutive climbs or steep gradients where pure climbers dominate.",
+  "vulnerability": "Peloton shows tactical indifference to his attacks, comfortable letting him ride solo without chasing. Fails to convert full team support into podiums at Grand Tour stages, suggesting mismatch between ambition and execution.",
+  "key_patterns": [
+    "Solo attacks from breakaways at 30-32km to go, prioritizing visibility over win probability",
+    "Teams willing to let him ride clear early without organizational chase response",
+    "Converting team resources into results remains problematic; full team chase yielded no podium",
+    "Targeting intermediate prizes (KOM points) when stage win unlikely, tactical pragmatism evident"
+  ],
+  "form_trajectory": "neutral: Showing durability improvements on gravel/harder finales, but 2022 Vuelta failure despite full team support suggests plateauing conversion rate",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "WELLENS Tim",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Amstel Gold Race",
+    "2017 Strade Bianche",
+    "2019 Tour de France Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 2"
+  ]
+}

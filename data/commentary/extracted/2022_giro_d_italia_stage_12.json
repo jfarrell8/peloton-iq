@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-19",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "OLDANI Stefan won from 25-rider breakaway that formed after 70km of 55km/h racing, outsprinting ROTA after both distanced LEMBRES in final kilometer",
+    "winner": "OLDANI Stefan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway only stabilized at 70km after 55km/h opening hour indicating peloton willing to concede stage after sprint day.",
+      "OLDANI-ROTA pair attacked with 50km remaining from established break, suggesting secondary selections work better than solo moves.",
+      "KELDERMAN group bridging at 11min GC deficit shows teams tolerating breaks only when GC threat neutralized by time gap."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "neutral: attempting opportunistic attacks during breakaway formation shows alertness but no sustained strength",
+      "BADILATTI": "negative: team missing initial break and requiring 70km chase via CABURO/COVILI reveals poor positioning or weakness",
+      "KELDERMAN Wilco": "neutral: bridging effort at 11min down confirms he's targeting stages not GC after earlier time losses",
+      "LEMBRES": "negative: attacked twice in final kilometer but lacked sprint speed, tactical desperation masked physical limitation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:37:41.865329+00:00"
+}

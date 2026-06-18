@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-23",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won from 7 places back in final 250m, overhauling Viviani's perfect Morkov-Richeze leadout train in extreme heat.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-Quickstep avoided front work until final 6km despite having yellow jersey, conserving Morkov for Viviani leadout.",
+      "Five-man break maintained 12-second gap at 4km despite four sprint teams chasing, suggesting coordinated energy conservation in 38°C.",
+      "Ewan launching from 7th wheel inside final 250m reveals superior positioning advantage over traditional long leadout trains."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: third crash in two weeks while defending GC position raises durability concerns for upcoming Alps",
+      "EWAN Caleb": "positive: second win while penetrating furthest into any Grand Tour suggests his endurance ceiling was previously underestimated",
+      "FUGLSANG Jakob": "negative: abandoned after crash at 27km while 9th on GC, eliminating pre-race favorite from contention",
+      "BAK Lars": "neutral: 39-year-old prioritized KOM/intermediate points over break survival in final Tour, indicating farewell tour tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:14:23.851068+00:00"
+}

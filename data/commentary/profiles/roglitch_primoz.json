@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Prefers decisive attacks from masked positioning rather than early aggressive moves. Thrives in selective uphill sprints after hard racing has eliminated pure sprinters, typically capitalizing on late-race positioning.",
+  "team_tactics": "Relies heavily on Jumbo-Visma domestiques for chase work and tempo control. Team commits resources to bringing back breaks before his decisive moves in finale, even when domestiques crash or are exhausted.",
+  "terrain_preference": "Selective uphill finishes after brutal circuits or hard racing that eliminate pure sprinters. Circuit races with repeated climbs that allow accumulation of fatigue in rivals suit him perfectly.",
+  "vulnerability": "High dependency on team support for chase work suggests vulnerability when isolated or when team is depleted. Masked positioning strategy requires functioning support structure throughout race.",
+  "key_patterns": [
+    "Maintains back-of-pack positioning before decisive moves to mask form and conserve energy (2 races)",
+    "Peaks with consecutive stage wins showing superior form timing and energy management (2 races)",
+    "Wins selective sprints after teammates exhausted from chase efforts, exploiting late-race positioning (2 races)",
+    "Executes attacks at decisive moments rather than from distance, relying on explosive finish (2 races)"
+  ],
+  "form_trajectory": "positive: demonstrated peak form with third consecutive stage win at Tirreno-Adriatico, maintained ability to mask form and deliver decisive efforts through Giro",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ROGLITCH Primoz",
+  "built_from": [
+    "2023 Giro dItalia Stage 18",
+    "2023 Tirreno-Adriatico Stage 6",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

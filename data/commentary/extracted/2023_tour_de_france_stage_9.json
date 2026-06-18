@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-09",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "WOODS Michael attacked final 400m to pass JORGENSEN on Puy de Dôme; POGAČAR took 8 seconds from VINGEGAARD on final slopes.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JORGENSEN solo at 50km created 25-30 second gap but cracked final 400m on 14% gradient finishing slopes.",
+      "MOHORIČ bridged alone from chase group but was passed by WOODS's late acceleration showing explosive power beats diesel climbing.",
+      "POGAČAR attacked repeatedly final 300m on 14% slopes, taking 8 seconds from VINGEGAARD who couldn't respond to surges."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: explosive final 400m attack on 14% gradient after 170km suggests superior short-effort climbing at extreme gradients",
+      "JORGENSEN Matteo": "negative: 25-30 second solo advantage disappeared final 400m revealing inability to maintain power on steepest finishing slopes",
+      "POGAČAR Tadej": "positive: repeated accelerations final 300m at 14% gradient took 8 seconds showing recovering form after early deficit",
+      "VINGEGAARD Jonas": "negative: couldn't respond to POGAČAR's surges on 14% finale suggesting weakness at extreme gradients under fatigue",
+      "HINDLEY Jai": "negative: distanced before final climb begins, concerning signal for defending podium on steep mountain finishes",
+      "RODRIGUEZ Carlos": "positive: stayed with POGAČAR/VINGEGAARD group again, consistently performing above pre-race expectations",
+      "BETTIOL Alberto": "negative: refused to work for MOSCON in chase behind breakaway showing internal team friction or conflicting objectives"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:23:15.058584+00:00"
+}

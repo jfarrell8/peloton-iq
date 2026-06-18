@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Opportunistic attacker who strikes from breakaways or in final 2-3km of climbs, preferring to exploit tactical situations rather than pure power attacks. Most effective when launching from reduced groups rather than splitting large pelotons.",
+  "team_tactics": "Limited evidence of strong team support; mechanical incident showed less protection than expected for GC contender. Appears to rely on individual positioning and tactical awareness rather than sustained team tempo control.",
+  "terrain_preference": "Performs best on medium-gradient climbs where positioning and tactical timing matter more than pure watts. Strong in reduced sprint finishes from small groups. Struggles on steepest mountain finishes and in extended multi-day high-mountain efforts.",
+  "vulnerability": "Fades badly in consecutive high-mountain stages, particularly when distanced before final climbs begin. Week 1 leadership positions prove unsustainable. Lacks attacking capacity when marked closely in final GC battles.",
+  "key_patterns": [
+    "Excels in small-group sprint finishes, winning stages through superior positioning and timing (3 observations)",
+    "Week 1 GC gains prove unsustainable; consistently loses time in final mountain stages (4 observations)",
+    "Effective from breakaways but defensively weak when marked by pure climbers (3 observations)",
+    "Shows tactical sharpness in varied-pace situations but lacks sustained high-mountain power (4 observations)",
+    "Collects bonus seconds effectively when opportunities arise, closing small GC gaps (2 observations)"
+  ],
+  "form_trajectory": "negative: 2023 Tour showed clear decline from 2022 Giro-winning form. Lost yellow jersey mid-race, distanced before final climbs, and demonstrated no attacking capacity in GC defense. Podium lost by 1 second after being dropped multiple times.",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "HINDLEY Jai",
+  "built_from": [
+    "2020 UAE Tour Stage 2",
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 9",
+    "2022 Giro d'Italia Stage 9",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2023 Tour de France Stage 14",
+    "2023 Tour de France Stage 15",
+    "2023 Tour de France Stage 5",
+    "2023 Tour de France Stage 5",
+    "2023 Tour de France Stage 6",
+    "2023 Tour de France Stage 9"
+  ]
+}

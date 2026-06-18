@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Long-range solo attacks from 25km out on familiar terrain, willing to commit fully to high-risk breakaways rather than waiting for finale sprints.",
+  "team_tactics": "Insufficient data to establish team setup patterns. Solo effort observed suggests autonomy given to seize opportunistic breaks.",
+  "terrain_preference": "Local/home roads where course knowledge provides tactical advantage; capable on mixed terrain requiring sustained solo time-trial efforts.",
+  "vulnerability": "Limited data, but Pro Continental status suggests may lack firepower against coordinated WorldTour chase efforts in neutral territory.",
+  "key_patterns": [
+    "Thrives on home advantage motivation, performing beyond typical level on familiar roads",
+    "Commits to extremely long solo efforts (25km), showing strong time-trial capability under pressure"
+  ],
+  "form_trajectory": "unknown: Only single race observation available from 2019, insufficient recent data to assess trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ITURRIA Mikel",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 11",
+    "2019 Vuelta a Espana Stage 11"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Survives from breakaways rather than initiating late attacks; demonstrates ability to recover from adversity and win on steep gradient finishes (13% conquered). Wins through resilience rather than single decisive accelerations.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Excels on steep gradient finishes (13% handled successfully). Demonstrates climbing ability sufficient to survive attritional breakaways over extended final climbs (30km+).",
+  "vulnerability": "Can be ejected on sustained climbs (dropped at 25km to go), suggesting vulnerability to sustained high-pace climbing despite recovery abilities.",
+  "key_patterns": [
+    "Shows exceptional mental and physical resilience, recovering from being dropped to win.",
+    "Wins sprints on extreme gradients (13%), suggesting power maintenance on steep finishes.",
+    "Operates effectively in breakaway scenarios with multiple late-race attacks and attrition."
+  ],
+  "form_trajectory": "unknown: single observation shows strong performance with exceptional recovery, but insufficient data to establish trajectory trend",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BAUMANN Reto",
+  "built_from": [
+    "2022 Giro d'Italia Stage 7",
+    "2022 Giro d'Italia Stage 7"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Attacks on high-mountain finishes with 1-6km remaining, typically on final or penultimate climb. Shows preference for sustained efforts rather than explosive accelerations, often prioritizing positioning over stage wins.",
+  "team_tactics": "FDJ historically struggles with positioning and protection in critical moments. Limited domestique support in mountains forces Pinot to self-select position. Team frequently caught chasing deficits rather than controlling.",
+  "terrain_preference": "High-altitude sustained climbs suit best, particularly 6km+ finales where power-to-weight dominates. Exposed badly in crosswinds and technical positioning scenarios. Time trials remain persistent weakness despite marginal improvements.",
+  "vulnerability": "Catastrophic positioning failures in nervous race situations (crosswinds, technical finishes). Final 200m sprint weakness when in breakaways. Injury-prone in critical race moments. Time trialing costs 50+ seconds routinely.",
+  "key_patterns": [
+    "Crosswind positioning disasters cost 1:40+ even when starting high GC (2019 Tour evidence)",
+    "KOM jersey hunting from breakaways without GC commitment when out of contention (2023 Giro)",
+    "Loses breakaway sprints in final 200m consistently despite strong positioning (2 documented 2023 losses)",
+    "Attacks final/penultimate climbs 1-6km out with sustained efforts, rarely explosive accelerations",
+    "Injury withdrawals precisely before key mountain stages eliminate podium bids (2019 Tour 5th GC)",
+    "Time trial losses of 50+ seconds persist across years despite equipment upgrades"
+  ],
+  "form_trajectory": "neutral: 2023 shows climbing resurgence after 2022 struggles, but early-season form inconsistent (dropped on Jaizkibel) and lack of GC ambition suggests transitioning to stage-hunting/classification role rather than overall contention",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "PINOT Thibaut",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2019 Tour de France Stage 10",
+    "2019 Tour de France Stage 13",
+    "2019 Tour de France Stage 14",
+    "2019 Tour de France Stage 15",
+    "2019 Tour de France Stage 19",
+    "2019 Tour de France Stage 2",
+    "2020 Paris - Nice Stage 2",
+    "2020 Paris - Nice Stage 4",
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2022 Tour de France Stage 9",
+    "2023 Giro dItalia Stage 18",
+    "2023 Giro dItalia Stage 3",
+    "2023 Giro dItalia Stage 5",
+    "2023 Tour de France Stage 12",
+    "2023 Tour de France Stage 2"
+  ]
+}

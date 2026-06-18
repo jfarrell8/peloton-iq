@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-07",
+  "stage": 7,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won stage 7 in a photo finish over BOASSON HAGEN Edvald by millimeters after trailing until the final half-foot.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Kittel positioned third wheel when Sabatini dropped him 5km out, conserving energy while rivals burned matches leading early.",
+      "Van Rensburg's Dimension Data leadout for Boasson Hagen matched QuickStep's quality, revealing team adapted post-Cavendish crash tactics immediately.",
+      "Boasson Hagen took shortest line around right bend 180m out, forcing Kittel wider but losing momentum from early sprint initiation.",
+      "Sky kept Froome near front throughout finale despite non-GC stage, prioritizing crash avoidance over energy conservation on wind-threatened course."
+    ],
+    "rider_signals": {
+      "BOASSON HAGEN Edvald": "positive: sprinted from 180m out against pure sprinters, suggesting deeper speed than expected for classics-type rider",
+      "KITTEL Marcel": "positive: averaged 42.3mph final 500m while coming from behind, indicating superior top-end acceleration when positioned correctly",
+      "VAN RENSBURG Jaco": "positive: delivered Boasson Hagen perfectly positioned at 180m, demonstrating Dimension Data retained elite leadout capacity post-Cavendish",
+      "CAVENDISH Mark": "negative: crash exit revealed in commentary context, removing primary Dimension Data sprint option early in Tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:11:42.835345+00:00"
+}

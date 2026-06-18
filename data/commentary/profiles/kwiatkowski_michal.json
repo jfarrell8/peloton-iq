@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who capitalizes when GC teams relax control after major efforts. Demonstrates ability to recover and bridge back to leaders after being dropped, then wins from reduced groups.",
+  "team_tactics": "Frequently deployed as high-altitude domestique for GC leaders, often left as sole support on critical climbs. When racing for himself, targets breakaways after 40km+ when peloton control loosens.",
+  "terrain_preference": "Excels on hybrid terrain requiring both climbing and classics skills. Superior climbing recovery allows him to survive medium-mountain stages then compete in reduced sprints. Vulnerable in pure sprint finishes.",
+  "vulnerability": "Poor sprint management—empties completely in final 100m when going too early. Can be dropped on initial climb accelerations, requiring energy-costly efforts to bridge back. Descending has shown reckless decision-making.",
+  "key_patterns": [
+    "Gets dropped initially on climbs but bridges back through superior recovery (2 instances)",
+    "Functions as last domestique for GC leaders on mountain stages (2 observations)",
+    "Wins from breakaways when GC team control relaxes after sustained effort",
+    "Poor final-100m management, attacking too early and emptying completely (2 instances)",
+    "Takes unnecessary risks on descents without tactical gain"
+  ],
+  "form_trajectory": "neutral: 2023 showed classic strengths (recovery, breakaway win) but fundamental weaknesses (sprint management, reckless descending) persist across career",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "KWIATKOWSKI Michal",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Tour de France Stage 12",
+    "2019 Tour de France Stage 6",
+    "2023 Tour de France Stage 13",
+    "2023 Tour de France Stage 13"
+  ]
+}

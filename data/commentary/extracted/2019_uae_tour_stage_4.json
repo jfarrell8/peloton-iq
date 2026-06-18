@@ -1,0 +1,25 @@
+{
+  "label": "2019 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2019-02-27",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "COLBRELLI Sonny won the bunch sprint in Erfurt after LUKTSENKO took critical bonus seconds at 2km sprint to neutralize late breakaway threats.",
+    "winner": "COLBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LUKTSENKO Alexei aggressively hunted bonus sprints throughout stage to protect SAGAN's GC, showing Bora's willingness to sacrifice sprint train.",
+      "Solo breakaways GASPAROTTO and ROBERTS were closed down 10km after escape attempts, suggesting peloton calculated sprint teams controlled gaps ruthlessly.",
+      "Final lap bonus sprint at 2km became GC control point rather than stage tactic, revealing teams prioritized overall over stage win."
+    ],
+    "rider_signals": {
+      "NIELSEN Magnus Cort": "positive: Rode away from breakaway companions on KOM 2 at 115km to go, securing polka dots on countback through selective solo attacking.",
+      "COLBRELLI Sonny": "positive: Finally converted sprint opportunities after being labeled 'nearly man', suggesting improved positioning or form peak.",
+      "LUKTSENKO Alexei": "positive: Demonstrated unusual animation and aggression for bonus seconds across multiple sprints, indicating Bora's tactical flexibility beyond leadout duties.",
+      "SAGAN Peter": "neutral: Required teammate LUKTSENKO to police bonus sprints rather than contesting himself, suggesting conserved energy or positioning concerns."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:18:00.341511+00:00"
+}

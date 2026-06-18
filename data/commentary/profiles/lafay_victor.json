@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Specializes in late, precisely-timed solo attacks inside the final 1-2km, particularly on punchy finishes after controlled climbs. Opportunistic against distracted or sprint-focused teams.",
+  "team_tactics": "Operates with limited team support; relies on other teams (UAE, Jumbo) controlling climbs, then exploits positioning in final kilometer when attention shifts to GC battles or sprint preparation.",
+  "terrain_preference": "Punchy climbs followed by short run-ins to finish; rolling, technical finales where positioning beats pure power. Jaizkibel-type ascents suit better than expected. Struggles less on power climbs than typical sprinters.",
+  "vulnerability": "Requires other teams to control race and expend energy; lacks team firepower for sustained offensive. Sacrifices stage wins for secondary objectives (points classification) when odds unfavorable.",
+  "key_patterns": [
+    "Final kilometer attacks when peloton distracted by GC/sprint dynamics (2 instances)",
+    "Tactical flexibility: switches from breakaway to sprint points accumulation mid-race",
+    "Punchy climb survival allows positioning advantage over pure sprinters (2+ instances)",
+    "Opportunistic racing against stronger teams when their focus elsewhere"
+  ],
+  "form_trajectory": "positive: breakthrough Tour stage win, matched Roglič on punchy climbs, showing improved climbing range and tactical maturity in 2023",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "LAFAY Victor",
+  "built_from": [
+    "2023 Tirreno-Adriatico Stage 4",
+    "2023 Tour de France Stage 2",
+    "2023 Tour de France Stage 2",
+    "2023 Tour de France Stage 3"
+  ]
+}

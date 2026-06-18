@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Reactive counter-puncher who excels at following explosive attacks rather than initiating. Strongest in final 4km when responding to multiple accelerations on punchy terrain.",
+  "team_tactics": "Jumbo-Visma's support appears inconsistent, with tactical plans sometimes lacking coherence. Benoot often operates individually rather than being set up by domestiques.",
+  "terrain_preference": "Punchy, repeated short climbs in final kilometers (Flemish-style finales). Struggles on sustained climbs where late bridging attempts are required. Explosive terrain suits better than grinding efforts.",
+  "vulnerability": "Lacks finishing speed in small group sprints after following attacks. Bridging efforts on longer climbs fail. Appears tactically isolated when team plan is unclear.",
+  "key_patterns": [
+    "Exceptional ability to follow explosive late-race attacks, only rider matching Van der Poel's accelerations (2 instances)",
+    "Struggles to convert strong positioning into wins, unable to outsprint those he follows",
+    "Inconsistent team tactical support from Jumbo-Visma across different race types"
+  ],
+  "form_trajectory": "neutral: showed elite following ability at Dwars door Vlaanderen but failed bridging attempt 10 days later at Amstel suggests inconsistent form",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BENOOT Tiesj",
+  "built_from": [
+    "2022 Amstel Gold Race",
+    "2022 Dwars door Vlaanderen"
+  ]
+}

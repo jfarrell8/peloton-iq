@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Long-range attacks around 50km from finish, willing to take significant risks with early moves. Colombian-style aggressive timing rather than waiting for final climbs.",
+  "team_tactics": "EF provides attacking platform but lacks depth to sustain pressure against stronger teams like Jumbo-Visma. Rider often committed to solo efforts without extended team support.",
+  "terrain_preference": "Suited to explosive accelerations on climbs where he can match top-tier GC riders. Descent handling appears aggressive but potentially compromises race position.",
+  "vulnerability": "Exposed when elite teams like Jumbo-Visma deploy depth to neutralize long attacks. High-risk descending and positioning decisions can undo strong climbing performances.",
+  "key_patterns": [
+    "Launches attacks 45-50km from finish, far earlier than conventional GC racing tactics.",
+    "Matches accelerations from top GC riders like Roglic, showing elite climbing ability across stages.",
+    "Takes risks on descents that can result in mechanical issues or lost positions."
+  ],
+  "form_trajectory": "neutral: showed ability to match elite climbers but aggressive tactics and mechanical bad luck prevented converting form into results",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MARTINEZ Danny",
+  "built_from": [
+    "2022 Paris-Nice Stage 7",
+    "2022 Paris-Nice Stage 8",
+    "2022 Paris-Nice Stage 8"
+  ]
+}

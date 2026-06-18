@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Opportunistic attacker who exploits tactical stalemates among marked favorites, prefers launching on penultimate climbs rather than waiting for traditional finale locations.",
+  "team_tactics": "Insufficient data from single race observation to establish team tactical patterns.",
+  "terrain_preference": "Penultimate climbs where favorites are still marking each other; capable of holding substantial gaps (30+ seconds) through subsequent climbs to finish.",
+  "vulnerability": "Insufficient data to identify repeated weakness patterns across multiple races.",
+  "key_patterns": [
+    "Insufficient observations: Only 1 race analyzed, cannot establish patterns requiring 2+ instances"
+  ],
+  "form_trajectory": "positive: Demonstrated tactical awareness and physical strength to convert recognition of favorable race situation into Monument victory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MOLLEMA Bauke",
+  "built_from": [
+    "2019 Il Lombardia",
+    "2019 Il Lombardia"
+  ]
+}

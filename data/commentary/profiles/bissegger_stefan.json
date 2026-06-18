@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Time trial specialist who attacks from the start gun in ITTs, aiming for early splits. Vulnerable to sustaining pace through full distance, especially in three-week tours or adverse conditions.",
+  "team_tactics": "Limited team tactics visibility as ITT specialist. Shows willingness for cross-team cooperation in road stages under nervous conditions, suggesting tactical maturity beyond pure TT focus.",
+  "terrain_preference": "Flat to rolling time trials suit best. Rain, technical courses, and multi-week fatigue expose limitations. Home roads (Switzerland) paradoxically show underperformance vs expectations.",
+  "vulnerability": "Equipment/preparation errors under pressure (gearing miscalculations). Form deterioration through Grand Tours. Wet conditions significantly impact performance. Cannot sustain early pace advantages through full TT distance.",
+  "key_patterns": [
+    "Consistently starts ITTs fast but fades: early time checks strong, final results disappointing (3 instances)",
+    "Equipment and tactical preparation errors under Grand Tour pressure cost podium results (2 instances)",
+    "Performance below expectations on home Swiss roads despite being European TT champion (2 instances)",
+    "Emerging talent trajectory stalled: 2021 near-win promise not fulfilled in 2022-2023 seasons (3 instances)"
+  ],
+  "form_trajectory": "negative: 2023 shows significant form regression from 2021 breakthrough. European champion unable to match performance expectations, suggesting peak may have passed or training/preparation issues persist.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "BISSEGGER Stefan",
+  "built_from": [
+    "2021 Tour de France Stage 20",
+    "2021 Tour de France Stage 5",
+    "2022 Tour de France Stage 2",
+    "2022 Tour de France Stage 20",
+    "2023 Tour de Suisse Stage 1",
+    "2023 Tour de Suisse Stage 8"
+  ]
+}

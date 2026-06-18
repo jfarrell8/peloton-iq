@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Sprint finisher who capitalizes on caught breakaways, timing final acceleration precisely within the last 200m when earlier launchers fade.",
+  "team_tactics": "Insufficient data to establish clear team setup patterns; appears capable of positioning independently for sprint finishes.",
+  "terrain_preference": "Stages ending in sprints from caught breakaways where tactical patience can overcome pure power; benefits when pure sprinters are absent or competitors hesitate.",
+  "vulnerability": "Insufficient observations to identify specific weaknesses, though reliance on tactical timing suggests vulnerability against pure power sprinters in clean mass sprints.",
+  "key_patterns": [
+    "Demonstrates tactical maturity by timing sprint launch later than competitors (200m marker referenced)",
+    "Successfully completes stage wins across all three Grand Tours (Peter Slam achievement)"
+  ],
+  "form_trajectory": "positive: achieved Peter Slam milestone with tactical maturity evident in sprint timing execution",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PETERSON Mads",
+  "built_from": [
+    "2023 Giro dItalia Stage 6",
+    "2023 Giro dItalia Stage 6"
+  ]
+}

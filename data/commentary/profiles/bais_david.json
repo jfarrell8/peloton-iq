@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who targets stages where the peloton shows disinterest. Attacks summit finishes to secure both stage wins and KOM points, demonstrating dual-objective racing.",
+  "team_tactics": "Relies on peloton disinterest rather than team support; operates in small breakaway groups (4-rider group observed) where individual strength and timing matter more than team setup.",
+  "terrain_preference": "Mountain stages with first-category and HC climbs, particularly summit finishes like Gran Sasso. Thrives when multiple objectives (stage win + KOM) align on same terrain.",
+  "vulnerability": "Limited data, but dependence on breakaway scenarios suggests weakness when forced to race against GC teams' tempo or in contested sprints with full peloton involvement.",
+  "key_patterns": [
+    "Uses KOM competition as tactical driver, attacking summits specifically to gain/defend jersey (2 observations)",
+    "Excels in breakaways when peloton disengaged, converting low-pressure scenarios to wins (2 observations)",
+    "Demonstrates calculated jersey defense strategy, responding immediately after losing classification (2 observations)",
+    "High conversion rate: 2 stage wins in 3 Grand Tour stage attempts shows efficiency"
+  ],
+  "form_trajectory": "positive: Two stage wins in same Giro with tactical sophistication (jersey reclaim response) suggests strong form and racing intelligence in 2023",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BAIS David",
+  "built_from": [
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 7",
+    "2023 Giro dItalia Stage 7"
+  ]
+}

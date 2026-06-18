@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Excels in high-speed finishes after late attacks fail, demonstrating explosive sprint capacity in the final meters even after hard racing.",
+  "team_tactics": "Insufficient data to establish team tactical patterns across multiple races.",
+  "terrain_preference": "Ultra-fast, aggressive racing suits him best (49.1 km/h stage win). Can sustain form through three-week Grand Tours into final week.",
+  "vulnerability": "Insufficient observations to identify repeated weakness patterns.",
+  "key_patterns": [
+    "Exceptional form sustainability through three weeks of Grand Tour racing.",
+    "Elite-level sprint finish after hard racing, winning photo finish at extreme speeds."
+  ],
+  "form_trajectory": "positive: demonstrated exceptional form sustainability into Tour de France week three with third stage victory, suggesting peak fitness maintenance",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MAHARIC Matej",
+  "built_from": [
+    "2023 Tour de France Stage 19",
+    "2023 Tour de France Stage 19"
+  ]
+}

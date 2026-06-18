@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-12",
+  "stage": 11,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won his 5th stage in a standard sprint after BODNAR Maciej's solo attempt was caught inside 500m",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BODNAR solo held 40s at 10km to go despite full peloton chase, suggesting sprint teams were poorly coordinated or lacking committed leadout trains.",
+      "FROOME positioned himself near the front in closing kilometers of flat sprint stage, revealing Sky's nervousness about rival crashes despite minimal GC threat.",
+      "KITTEL's wheel-jumping positioning described as 'Tetris' - finding gaps between leadout trains rather than following single organized train to the line."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "neutral: positioned unusually close to front in sprint finale, indicating heightened crash paranoia on nervous flat stage before Pyrenees",
+      "FUGLSANG Jakob": "negative: required multiple visits from race doctor for wrist injury after crash, catastrophic timing before Pyrenees stage",
+      "CONTADOR Alberto": "negative: suffered flat tire then separate crash, body language showed psychological defeat beyond physical impact at 5:15 down overall",
+      "ARU Fabio": "negative: Astana lost Cataldo domestique to crash abandonment, weakening support for 2nd-place GC position before key mountain stage",
+      "BODNAR Maciej": "positive: time trial power translated to 30km+ solo breakaway that nearly held off entire peloton in last 500m"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:08:34.111569+00:00"
+}

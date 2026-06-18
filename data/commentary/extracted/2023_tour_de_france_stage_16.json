@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-18",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD won by 1:38 over Pogačar, pacing aggressively from the gun while Pogačar lost time before his bike change on the final climb.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD started significantly faster on flat opening sections, building 30-second margin before climb began—opposite typical TT pacing strategy.",
+      "POGAČAR lost critical time pre-bike change, suggesting poor equipment choice kept him on TT bike too long into climb transition.",
+      "CICCONE intentionally soft-pedaled flat sections to save energy for climbing points, prioritizing KOM over stage result with split-effort strategy.",
+      "Multiple favorites including KUNG made bike changes for final climb, but timing/execution separated winners from losers significantly."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: First World Tour TT win by nearly 2-minute margin suggests previous TT results massively underrated his ability against clock",
+      "POGAČAR Tadej": "negative: Lost 1:38 despite second place indicates TT form significantly declined from prior Tours or tactical errors on bike change timing",
+      "YATES Adam": "positive: Moved onto podium via TT performance, showing unexpected time trialing strength for pure climber type",
+      "RODRIGUEZ Carlos": "negative: Lost podium spot by only 5 seconds, suggesting GC threat diminished by TT weakness",
+      "CICCONE Giulio": "neutral: Split-effort strategy for KOM points reveals climbers can game stage formats when GC not priority"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:20:42.944799+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker; pure sprinter who relies on positioning and timing in bunch finishes rather than initiating moves. Lacks explosive power to attack or follow late accelerations.",
+  "team_tactics": "Dependent on team positioning for sprint setup. Requires strong lead-out to compensate for lack of top-end power compared to pure fast-twitch sprinters.",
+  "terrain_preference": "Flat bunch sprints only. Even modest climbs (third-category) expose significant weakness. Cannot contest sprint stages with any meaningful elevation.",
+  "vulnerability": "Cannot follow wheels of top-tier sprinters (e.g., Kittel) even with perfect position. Dropped immediately on any categorized climbs, even fresh from rest. Pure power deficit limits competitiveness against elite sprinters.",
+  "key_patterns": [
+    "Dropped on even third-category climbs, showing severe climbing limitations (2 observations)",
+    "Positioning skills intact but lacks pure power to match elite sprinter acceleration (2 observations)",
+    "Form decline evident: struggling in scenarios where positioning previously sufficient (2 observations)"
+  ],
+  "form_trajectory": "negative: Consistent inability to match top sprinters' power and dropped on minimal climbs suggests declining physical capacity across both Grand Tour appearances",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DEGENKOLB John",
+  "built_from": [
+    "2017 Tour de France Stage 10",
+    "2019 Vuelta a Espana Stage 12"
+  ]
+}

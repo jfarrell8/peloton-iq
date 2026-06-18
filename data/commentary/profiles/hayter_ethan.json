@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Launches very early in sprint finishes (400m+) after selective, hilly racing has reduced the bunch. Relies on sustained power rather than explosive acceleration in final 200m.",
+  "team_tactics": "Ineos sets infernal tempo on late climbs/drags to shed pure sprinters, positioning Hayter for reduced bunch sprints. Team commits full resources for 4+ kilometers into finales.",
+  "terrain_preference": "Rolling and lumpy stages with late drags that eliminate pure sprinters but don't require pure climbing ability. Struggles on flat, technical circuits where positioning is critical.",
+  "vulnerability": "Positioning errors in technical finals and crashes on hilly parcours. Cannot respond to late accelerations inside final 400m despite being well-positioned. Disappears when leadout fails.",
+  "key_patterns": [
+    "Survives selective hilly finales better than typical sprinters; podiums on lumpy stages (3 observations)",
+    "Launches sprint very early (400m+), vulnerable to late accelerations from fresher legs (2 observations)",
+    "Heavily dependent on Ineos tempo demolition; ineffective without team setup (3 observations)",
+    "Positioning errors costly: crash lost race lead, disappeared when well-positioned for sprint (3 observations)",
+    "Broader stage range than pure sprinter but narrower than true classics rider (4 observations)"
+  ],
+  "form_trajectory": "negative: 2023 Catalunya showed diminished effectiveness — team committed resources but Hayter absent from sprint despite suitable terrain that previously suited him in 2022",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "HAYTER Ethan",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 1",
+    "2022 Criterium du Dauphine Stage 5",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 2",
+    "2022 Tour de Romandie Stage 2",
+    "2022 Tour de Romandie Stage 3",
+    "2023 Volta Ciclista a Catalunya Stage 1",
+    "2023 Volta Ciclista a Catalunya Stage 4"
+  ]
+}

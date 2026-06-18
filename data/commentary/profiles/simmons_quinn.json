@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Forced into early, long-range attacks (2+ km out) due to recognized sprint limitations. Lacks the power reserve to sustain solo efforts against organized finishers with leadouts.",
+  "team_tactics": "Operates with significant personal autonomy; demonstrated willingness to prioritize individual ambitions (KOM hunting) even when conflicting with team objectives (teammate holding jersey).",
+  "terrain_preference": "Shows exceptional recovery capacity on undulating terrain where bridging efforts are rewarded. KOM-classified climbs suit opportunistic breakaway tactics, though lacks explosive power for steep sustained gradients.",
+  "vulnerability": "Predictably absorbed in final kilometers when attempting solo efforts. Cannot compete in organized sprint finishes. Power-to-weight appears insufficient to hold off chasers with superior peak wattage.",
+  "key_patterns": [
+    "Attacks prematurely from 2+ km out due to sprint weakness, consistently caught (2 observations)",
+    "Exceptional bridging/recovery ability: closed 11km gap after being dropped at Tour de Suisse",
+    "Prioritizes personal objectives over team strategy when opportunity arises (KOM hunting over support)"
+  ],
+  "form_trajectory": "neutral: Shows strong recovery capacity (2022 Tour de Suisse bridging) but continues struggling with same tactical vulnerabilities seen in 2021 (premature attacks, insufficient finishing power)",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SIMMONS Quinn",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2022 Tirreno-Adriatico Stage 4",
+    "2022 Tour de Suisse Stage 6"
+  ]
+}

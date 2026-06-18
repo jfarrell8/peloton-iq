@@ -1,0 +1,20 @@
+{
+  "attacking_style": "INEOS rarely attacks explosively; they prefer controlled tempo grinding on climbs to create separation through accumulated attrition rather than sudden accelerations.",
+  "team_tactics": "Deploy domestiques to set sustained high pace on climbs, targeting specific time gaps. Defensive positioning in tactical danger zones (crosswinds), but reactive rather than proactive when race dynamics shift.",
+  "terrain_preference": "Long, steady climbs where tempo control can accumulate fatigue advantages. Exposed in races requiring explosive punch or rapid tactical pivots from defensive to offensive positioning.",
+  "vulnerability": "Unable to respond effectively when rivals attack explosively off their controlled pace. Struggle to convert from defensive setup to offensive action when race situation changes rapidly (crosswinds to climbs).",
+  "key_patterns": [
+    "Tempo grinding strategy targeting specific time gaps rather than explosive attacks (2 instances)",
+    "Pace control immediately neutralized by explosive counterattacks from rivals (2 instances)",
+    "Defensive positioning in tactical moments but poor conversion to offense (2 instances)"
+  ],
+  "form_trajectory": "negative: controlled pace repeatedly neutralized by more explosive rivals; tactical rigidity showing vulnerability",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "INEOS Grenadiers",
+  "built_from": [
+    "2021 Tour de France Stage 18",
+    "2022 Paris-Nice Stage 1",
+    "2022 Volta Ciclista a Catalunya Stage 7"
+  ]
+}

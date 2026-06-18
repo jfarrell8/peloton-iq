@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker. Functions as a leadout specialist delivering sprinters into final positioning in chaotic finales, typically releasing in final 200-300 meters.",
+  "team_tactics": "Serves as final leadout man for UAE sprinters, navigating through late chaos to pilot teammates into contention. Provides clear organizational vision when finales become disorganized.",
+  "terrain_preference": "Flat sprint finales where technical positioning and navigation through traffic matter more than pure power. Thrives in chaotic, congested sprint approaches.",
+  "vulnerability": "Limited data, but role indicates struggles on selective terrain requiring personal results. Depends on team sprinter's finishing ability for success measurement.",
+  "key_patterns": [
+    "Functions as leadout specialist rather than personal finisher for UAE team.",
+    "Navigates chaotic sprint finales with superior organizational vision and positioning instincts.",
+    "Successfully delivers sprinters through barrier gaps and narrow passing routes in congested finishes."
+  ],
+  "form_trajectory": "unknown: Single observation shows effective execution of domestique duties but insufficient data for form assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "TRENTIN Mattia",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 2",
+    "2021 La Vuelta ciclista a Espana Stage 2"
+  ]
+}

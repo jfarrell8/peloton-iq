@@ -1,0 +1,28 @@
+{
+  "label": "2022 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-10",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KEMNA Leonard won from 14-man breakaway after LOPEZ Juan Pedro attacked at climb base, took sprint bonuses, then negotiated for jersey while yielding stage.",
+    "winner": "KEMNA Leonard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lodeweges Trek abandoned Maglia Rosa defense early, sending Oldani to break while leader went to gruppetto, prioritizing GC energy.",
+      "Lopez attacked at climb base specifically to collect intermediate sprint bonuses before breakaway catch, pre-planning jersey math.",
+      "Bahrain and Ineos controlled despite 12-minute gap, revealing neither team trusted their sprinters enough to let break succeed.",
+      "Bora placed three riders in GC group plus stage winner Kemna forward, showing superior depth distribution tactics."
+    ],
+    "rider_signals": {
+      "LOPEZ Juan Pedro": "positive: GC debut rider sophisticated enough to pre-calculate bonus seconds and negotiate stage/jersey split with breakaway companion",
+      "DUMOULIN Tom": "negative: first major GC name dropped inside 15km on moderate summit finish, suggesting worse form than Ineos anticipated",
+      "NIBALI Vincenzo": "negative: distanced with 5km remaining on home island climb, confirming retirement-track form rather than GC contention",
+      "CARAPAZ Richard": "neutral: attempted to steal seconds in final meters while favorites group stayed together, showing alertness without real superiority",
+      "PORTE Richie": "negative: lost time to main GC group on moderate climb, early signal of weakness before mountains intensify",
+      "YATES Simon": "positive: remained with favorites despite knee injury sustained earlier, suggesting incident won't compromise GC challenge"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:40:01.514627+00:00"
+}

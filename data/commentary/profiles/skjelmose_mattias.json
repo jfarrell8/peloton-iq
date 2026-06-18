@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Relies on tactical positioning and bonus second sprints rather than explosive long-range attacks. Targets intermediate bonifications and stage finishes with calculated efforts, showing patience over aggression.",
+  "team_tactics": "Limited evidence of dedicated team setup; appears to operate with relative independence, using positioning and technical skills (descending) to gain time rather than domestique-led trains.",
+  "terrain_preference": "Technical descents are a key weapon for gaining time. Handles stage race climbs with mature pacing that improves through efforts rather than fading. Suited to medium-mountain stages where technical skills and positioning matter.",
+  "vulnerability": "Limited observations of response to sustained high-intensity attacks or explosive summit finishes. Bonus-second dependency suggests potential weakness in pure climbing power against elite Grand Tour climbers.",
+  "key_patterns": [
+    "Actively hunts bonus seconds at intermediates and finishes to gain GC time (3 observations)",
+    "Superior technical descending used as tactical weapon to chase/gain time (2 observations)",
+    "Exponential pacing strategy: strengthens through climbs rather than fading, showing maturity (2 observations)",
+    "Tactical awareness beyond typical neo-pro: calculates time gaps and opportunities strategically (3 observations)"
+  ],
+  "form_trajectory": "positive: demonstrated progressive maturity throughout Tour de Suisse 2023, with smart tactical racing, technical prowess, and pacing discipline suggesting upward development curve",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SKJELMOSE Mattias",
+  "built_from": [
+    "2023 Tour de Suisse Stage 4",
+    "2023 Tour de Suisse Stage 5",
+    "2023 Tour de Suisse Stage 8"
+  ]
+}

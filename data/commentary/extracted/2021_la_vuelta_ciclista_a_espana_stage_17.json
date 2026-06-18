@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 17",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-01",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked with BERNAL 60km out, dropped him on final climb for dominant solo win and virtual GC takeover after EIKING crashed.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERNAL attacked 60km from finish, only ROGLIC willing to follow from favorites group, revealing GC rivals' defensive mindset.",
+      "Bahrain Victorious chased despite LANDA in break, suggesting they rated breakaway threat higher than GC rider freedom.",
+      "SEPP-KUSS sprinted for second to deny bonus seconds to ROGLIC's rivals, showing team depth converts to time gains.",
+      "ROGLIC waited until final climb to drop BERNAL after collaborative work, exploiting domestique-turned-ally after gap established."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: initiated decisive 60km move and descended aggressively despite crash scare, showing restored climbing aggression post-Giro recovery",
+      "ROGLIC Primoz": "positive: only GC contender willing to follow BERNAL's long-range move, then soloed final climb with crushing margin",
+      "EIKING Odd Christian": "negative: crashed on wet descent and lost 9+ minutes, revealing fragility under persistent Category 1 climbing load",
+      "LOPEZ Miguel Angel": "neutral: sprinted for podium but never attempted to bridge to BERNAL-ROGLIC despite teammate LANDA in earlier break",
+      "MAS Enric": "negative: sat in chase group when BERNAL went, missed critical selection that cost 2+ minutes to ROGLIC",
+      "HAIG Jack": "positive: finished in top group despite no team support visible, showing individual resilience on sustained climbs",
+      "LANDA Mikel": "positive: animated early breakaway on Cat 1 climbs before fade, suggesting form returning for future leadership"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:26:52.086394+00:00"
+}

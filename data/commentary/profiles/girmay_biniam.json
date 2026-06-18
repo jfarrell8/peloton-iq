@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Pure sprinter who finishes field sprints rather than initiating attacks. Most effective in final 200m with raw speed, less reliant on perfect positioning than positioning-dependent sprinters.",
+  "team_tactics": "Operates with minimal lead-out support, often finishing without organized team train. Relies on individual positioning and raw speed rather than coordinated setup.",
+  "terrain_preference": "Flat field sprints and uphill finishes where raw power trumps positioning. Shows surprising competence on cobbles (E3 fifth place) and can handle technical finales. Struggles with late-race bridging efforts on descents.",
+  "vulnerability": "Lacks team support for consistent lead-out positioning. Cannot bridge small gaps (10 seconds) in final 2km despite technical skills. Inconsistent results when perfect positioning required (sixth at Bretagne despite good position).",
+  "key_patterns": [
+    "Wins head-to-head sprints with minimal lead-out, beating same rivals repeatedly (2 observations)",
+    "Performs well on uphill finishes without team support, neo-pro finishing second chaotically",
+    "Shows cobbled classics potential, fifth at E3 age 21 debut performance",
+    "Cannot close small gaps in final 2km, failed 10-second bridge despite descent skills",
+    "Form disrupted by February 2023 crash, returned to winning by June Tour de Suisse"
+  ],
+  "form_trajectory": "positive: Returned to winning form at Tour de Suisse June 2023 after February crash recovery, timing peak for Tour debut perfectly",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "GIRMAY Biniam",
+  "built_from": [
+    "2022 Bretagne Classic - Ouest-France",
+    "2022 E3 Saxo Bank Classic",
+    "2022 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 10",
+    "2022 Giro d'Italia Stage 10",
+    "2022 Giro d'Italia Stage 8",
+    "2023 Tour de Suisse Stage 2",
+    "2023 Tour de Suisse Stage 2"
+  ]
+}

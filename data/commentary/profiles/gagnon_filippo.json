@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not primarily an attacking rider in traditional sense; excels in time trials where sustained power over 30+ km distance is key to success.",
+  "team_tactics": "Strategic recovery management: deliberately rode conservatively in road stages to preserve optimal TT form, suggesting team prioritizes stage-specific performance over GC positioning.",
+  "terrain_preference": "Long time trials (32km+) where sustained power and pacing discipline matter most. Road stage terrain appears secondary to TT preparation.",
+  "vulnerability": "Limited data on climbing or bunch racing; conservative stage racing approach suggests potential weakness in sustained GC campaigns requiring consistent daily effort.",
+  "key_patterns": [
+    "Exceptional TT performance: defeated Van Aert by 2 seconds over 32km at Dauphine",
+    "53-second margin over benchmark indicates world-class time trialing ability",
+    "Strategic energy management: intentionally reduced road stage effort to optimize TT form"
+  ],
+  "form_trajectory": "positive: demonstrated elite TT form with stage win and massive benchmark gap at Dauphine 2022",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GAGNON Filippo",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 4",
+    "2022 Criterium du Dauphine Stage 4"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches attacks in final 10km, typically during chase hesitation or on penultimate climbs (8.5km at Liège, 4km to go at Suisse). Prefers reduced group sprints over solo efforts.",
+  "team_tactics": "BORA operates coordinated GC plays with Vlasov as protected rider or designated finisher; teammates (Lechner, Fulsang) split groups on penultimate climbs to set up reduced sprints for him.",
+  "terrain_preference": "Thrives on stage races with multiple climbing tests where attrition creates reduced sprints. Penultimate climbs that fragment groups suit him better than summit finishes requiring sustained acceleration.",
+  "vulnerability": "Cannot bridge gaps to truly elite climbers when they attack decisively (Evenepoel gap at Liège). Lacks explosive acceleration to distance rivals on final climbs, relying instead on teammate-setup and positioning.",
+  "key_patterns": [
+    "Wins from reduced sprints after team splits peloton, not solo attacks (Suisse, Romandie)",
+    "Hunts bonus seconds and positions for podium rather than stage wins at Grand Tours",
+    "Attacks during chase hesitation windows in 4-10km range on decisive climbs",
+    "Benefits from deliberate BORA 1-2 tactical coordination with co-leaders or strong domestiques"
+  ],
+  "form_trajectory": "positive: Progressive results from Romandie (2nd) to Suisse (win) in 2022, then Vuelta podium aspirations in 2023 suggest sustained Grand Tour GC capabilities",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "VLASOV Alexander",
+  "built_from": [
+    "2022 Liege - Bastogne - Liege",
+    "2022 Tour de Romandie Stage 4",
+    "2022 Tour de Suisse Stage 5",
+    "2022 Tour de Suisse Stage 5",
+    "2023 La Vuelta Ciclista a Espana Stage 9"
+  ]
+}

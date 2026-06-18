@@ -1,0 +1,26 @@
+{
+  "label": "2020 Omloop Het Nieuwsblad",
+  "race_name": "Omloop Het Nieuwsblad",
+  "race_date": "2020-02-29",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "STUYVEN Jasper won from 3-rider breakaway, dropping CORT on Bosberg 2km out, then overpowering VAN DER POEL in 2-up sprint",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Crosswind echelon split after second Leberg passage created decisive front group; favorites' group lost 90+ seconds irretrievably",
+      "STUYVEN Jasper won despite being forced to lead out sprint; pure power overcame positional disadvantage against VAN DER POEL",
+      "Quick-Step placed DECLERCQ Tim in break for domestique insurance; isolated VAN AERT/VAN AVERMAET responded too late to echelon"
+    ],
+    "rider_signals": {
+      "STUYVEN Jasper": "positive: first race since Tour 2019 crash yet easily strongest on Molenberg's steep section, dropped entire break group",
+      "VAN DER POEL Mathieu": "negative: had ideal sprint position trailing STUYVEN but lacked power to come around, reaction slow when attacked",
+      "VAN AERT Wout": "negative: missed critical echelon selection despite being race favorite, never bridged 90-second gap despite chasing",
+      "TRENTIN Matteo": "negative: chased solo from favorites to break but couldn't close final gap, wasted energy with no team support",
+      "DECLERCQ Tim": "positive: Quick-Step tactical placement in break paid off with 5th place, showing team depth in coverage tactics",
+      "CORT Magnus": "neutral: hung with leaders until Bosberg attack 2km out, tactical positioning solid but lacked final punch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:22:51.107314+00:00"
+}

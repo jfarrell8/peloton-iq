@@ -1,0 +1,26 @@
+{
+  "label": "2022 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2022-04-10",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KOVSKI Michal won a two-up sprint by photo finish after INEOS burned off VAN DER POEL's team with sustained pace, then KOVSKI bridged solo with 2km remaining.",
+    "winner": "KOVSKI Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS deployed four riders in sustained pace train (not explosive attacks) to isolate VAN DER POEL before finale.",
+      "VAN DER POEL marked rather than initiating, fatal when teammate-less; others exploited his hesitation to avoid pulling.",
+      "KOVSKI bridged 20-second gap solo inside 2km while chasers marked each other, revealing race-of-truth opportunity."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "negative: burned entire team early then marked reactively instead of attacking, caught in strategic paralysis when isolated",
+      "TURNER Ben": "positive: anchored INEOS pace train that fractured field, showed domestique strength sufficient to isolate pre-race favorite",
+      "PIDCOCK Tom": "neutral: worked turns with KOVSKI but INEOS ultimately chose KOVSKI for final effort",
+      "HIGUITA Sergio": "neutral: UAE attempted move but marked immediately, showing insufficient threat level",
+      "BENOOT Tiesj": "negative: attempted late bridge but failed, Jumbo-Visma tactics showed no coherent plan"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:34:20.857689+00:00"
+}

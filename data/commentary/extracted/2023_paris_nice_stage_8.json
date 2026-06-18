@@ -1,0 +1,27 @@
+{
+  "label": "2023 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-12",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked with 19km to go on Col d'Èze, gained 50+ seconds at summit, won stage by 30 seconds and GC by 53 seconds over GOUDOU",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GOUDOU attempted bonus seconds at intermediate sprint with 25km left but lost 2 seconds net when POGACAR took 4.",
+      "YATES attacked at identical climb position as 2022 stage win but POGACAR immediately countered, revealing predictable attack point vulnerability.",
+      "UAE isolated POGACAR early via GROSSCHARTNER pacing before Col d'Èze, suggesting confidence in solo TT-style finish over team support.",
+      "Chase group behind POGACAR collaborated but still lost time on descent, indicating his descending gap is unrecoverable even with numbers."
+    ],
+    "rider_signals": {
+      "GOUDOU Remi": "negative: tactical error taking only 2 bonus seconds at sprint while conceding 4 to POGACAR worsened GC deficit before decisive climb",
+      "YATES Simon": "neutral: attacked same Col d'Èze location as 2022 win but was immediately marked, suggesting opponents studied previous edition",
+      "VINGEGAARD Jonas": "negative: finished 1:39 down despite being only 12 seconds behind at stage start, indicating inability to follow POGACAR's Col d'Èze acceleration",
+      "GREGOIRE Jonas": "positive: broke away on stage 1 and targeted every KOM points opportunity through stage 8 to secure polka dots, showing multi-day commitment strategy",
+      "GROSSSCHARTNER Felix": "positive: UAE sacrificed him early to pace before POGACAR's attack, revealing team willingness to burn domestiques before final 20km"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:10:36.479198+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Explosive short-duration attacks in final 400-500m on extreme gradients (14%+), typically from breakaways rather than GC group. Prefers very steep finishing gradients where power-to-weight advantage maximizes.",
+  "team_tactics": "Operates primarily in breakaway scenarios, positioning himself 6+ minutes off GC contention to gain freedom. Team support appears minimal once in breaks—relies on individual efforts rather than organized lead-outs.",
+  "terrain_preference": "Excels on extremely steep gradients (14%+) with short, explosive finishing climbs under 1km. Strong in long breakaway scenarios requiring endurance before final punch. Mountain stages suit him when freed from GC marking.",
+  "vulnerability": "Bike handling in technical descents and corners—crashed twice in observed races (2019, 2021). Physical fragility shown by multiple crashes yet ability to continue racing suggests resilience but recurring exposure.",
+  "key_patterns": [
+    "Targets KOM classification aggressively from breakaways; contested points even after mid-stage crash (2021).",
+    "Final 400-500m specialist on extreme gradients; won from late attack on 14% Puy de Dôme.",
+    "Crashes frequently in technical sections; two separate incidents in observed Tour stages (2019, 2021).",
+    "Operates from early breakaways 6+ minutes down; avoids GC group marking to gain tactical freedom.",
+    "Demonstrates exceptional resilience; chased back after crash to contest KOM points same stage (2021)."
+  ],
+  "form_trajectory": "positive: 2023 stage win shows peak climbing form with explosive finishing power on extreme gradients after 170km",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "WOODS Michael",
+  "built_from": [
+    "2019 Tour de France Stage 8",
+    "2021 Tour de France Stage 14",
+    "2021 Tour de France Stage 8",
+    "2023 Tour de France Stage 9",
+    "2023 Tour de France Stage 9"
+  ]
+}

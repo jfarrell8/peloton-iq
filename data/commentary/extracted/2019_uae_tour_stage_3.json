@@ -1,0 +1,25 @@
+{
+  "label": "2019 UAE Tour Stage 3",
+  "race_name": "UAE Tour",
+  "race_date": "2019-02-26",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ASGREEN Kasper bridged solo to EVENPOEL with 1.7km remaining after Quick-Step controlled bonus sprint, won stage sprint while EVENPOEL took GC lead",
+    "winner": "ASGREEN Kasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck Quick-Step controlled bonus sprint then immediately counter-attacked via BUCHMANN, forcing rivals to choose which move to chase",
+      "EVENPOEL's solo surge after bonus sprint forced MAS into decision paralysis; chose wrong wheel and lost race",
+      "Team UAE put entire squad on front 40km out despite no GC threat, burned matches for eliminated sprinter ACKERMANN"
+    ],
+    "rider_signals": {
+      "EVENPOEL Remco": "positive: Sustained solo power after bonus sprint until ASGREEN bridged suggests diesel engine strength unusual for his profile",
+      "KRISTOFF Alexander": "negative: Lost contact as overnight leader when Quick-Step accelerated, vulnerability on punchy circuits with multiple passes",
+      "ACKERMANN Pascal": "negative: Dropped on initial climb at 50km despite team setting tempo, questions his viability in rolling stage races",
+      "MAS Enric": "negative: Hesitated between chasing BUCHMANN or EVENPOEL attacks, tactical indecision cost him contention in select group finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:17:48.170045+00:00"
+}

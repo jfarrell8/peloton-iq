@@ -1,0 +1,26 @@
+{
+  "label": "2022 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-09",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT won the stage 4 ITT, beating teammate ROGLIČ by 4 seconds to retake yellow after LAPORTE lost 30 seconds on the uphill finish.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma 1-2-3 sweep (van Aert, Roglič, Dennis) reveals depth allowing aggressive stage racing tactics in subsequent stages.",
+      "YATES beat intermediate time check versus DENNIS but lost 5 seconds on difficult summit finish, exposing pacing weakness.",
+      "LAPORTE sacrificed yellow jersey losing 30 seconds, suggesting team prioritized van Aert/Roglič GC over domestique morale."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Beat Olympic champion Roglič by 4 seconds on climbing TT, confirms genuine GC threat not just stage hunter",
+      "YATES Simon": "positive: Fastest at intermediate check over Dennis shows improved TT form, but summit fade suggests pacing misjudgment",
+      "ROGLIČ Primož": "neutral: Only 4 seconds behind van Aert confirms TT form but raises team leadership ambiguity with two GC threats",
+      "DENNIS Rowan": "positive: Third place as domestique indicates exceptional Jumbo TT depth for pace-setting in mountain stages",
+      "POGAČAR Tadej": "negative: Seventh place, significantly behind rivals, unusual weakness for Olympic TT champion on climbing course"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:46:51.609442+00:00"
+}

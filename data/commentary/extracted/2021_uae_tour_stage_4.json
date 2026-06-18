@@ -1,0 +1,16 @@
+{
+  "label": "2021 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-24",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "This transcript covers route preview commentary for the 2021 Giro d'Italia, not the 2021 UAE Tour Stage 4.",
+    "winner": "N/A",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-17T21:34:09.104128+00:00"
+}

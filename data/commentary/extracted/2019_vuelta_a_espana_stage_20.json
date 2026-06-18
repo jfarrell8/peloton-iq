@@ -1,0 +1,26 @@
+{
+  "label": "2019 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-14",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR Tadej attacked solo on penultimate climb with 43km to go, built 1:32 gap to take stage and jump to 3rd overall, stealing white jersey from Lopez",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana's repeated accelerations in final 70km eliminated Roglic domestiques and reduced break advantage by 2m40s in 24km.",
+      "Pogacar attacked immediately after Lopez move failed, exploiting moment when rivals were fixated on defending Lopez rather than counterattacking.",
+      "Valverde forced to lead chase himself in final 2.5km when Pogacar threatened his 2nd place, revealing Movistar lacked climbing support."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Built 90-second gap solo on penultimate climb despite having off-day two stages prior, showing exceptional recovery pattern.",
+      "LOPEZ Miguel Angel": "negative: Unable to follow or respond when Pogacar attacked, appeared fatigued in finale despite being aggressor earlier.",
+      "ROGLIC Primoz": "positive: Jumbo controlled entire stage despite losing Kruijswijk early race and Martin previous day, revealing team depth redundancy.",
+      "VALVERDE Alejandro": "negative: Required to chase alone in finale, indicating Movistar mountain support insufficient for three-week Grand Tour podium defense.",
+      "GEOGHEGAN HART Tao": "neutral: Bridged 1:38 solo to break impressively but couldn't sustain when Astana ramped pace in final 70km."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:20:48.205448+00:00"
+}

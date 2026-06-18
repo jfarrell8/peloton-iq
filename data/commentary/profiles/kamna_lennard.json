@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Attacks from long breakaways on steep finishing climbs with 4-5km remaining, excelling on extreme gradients (20%+). Bridges to or attacks from established breaks rather than initiating from peloton.",
+  "team_tactics": "BORA lacks consistent firepower to support his ambitions in GC scenarios or create tactical isolation. Functions best as lone ranger in breakaways without requiring team setup.",
+  "terrain_preference": "Thrives on brutal finishing gradients (20-23%) and sustained diesel efforts under 5km. Exposed on technical circuit finales and when race fragments unpredictably in flatter, chaotic scenarios.",
+  "vulnerability": "Struggles when races fracture on non-climbing terrain (circuits, technical finales). Poor form periods leave him absent from finales even on suited profiles. Cannot compete in pure sprint scenarios.",
+  "key_patterns": [
+    "Completes stage wins from late attacks out of breakaways, not peloton (2 Grand Tour wins).",
+    "Attacks with under 5km remaining on steep gradients after extended efforts (Vuelta, Tour examples).",
+    "BORA repeatedly unable to protect GC ambitions or create numerical advantage (Giro, Tirreno examples).",
+    "Extraordinary diesel power on climbs betrayed only by final explosive gradient or competition (Tour 100m loss).",
+    "Form inconsistency: absent from suited finales when off-form (Giro 2023 example)."
+  ],
+  "form_trajectory": "neutral: 2023 Vuelta win confirms climbing ability intact, but earlier 2023 absences (Giro, Tirreno struggles) suggest inconsistent preparation or tactical role confusion",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "KAMNA Lennard",
+  "built_from": [
+    "2022 Giro d'Italia Stage 7",
+    "2022 Tour de France Stage 7",
+    "2023 Giro dItalia Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

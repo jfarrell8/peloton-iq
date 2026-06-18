@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-17",
+  "stage": 11,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "FREIER Laurens attacked inside 1km to go after bridging late from the break, outsprinting Costa/Rolland/Kangert in the final 400m.",
+    "winner": "FREIER Laurens",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROLLAND Pierre attacked on penultimate climb but KANGERT Rein bridged using drafting advantage, refusing to pull through cooperatively before finale.",
+      "COSTA Rui and PETTITI refused to work together despite both chasing, allowing FREIER to bridge solo from distance.",
+      "FREIER won from break by attacking inside flamme rouge knowing he lacked sprint speed, going earliest at 400m."
+    ],
+    "rider_signals": {
+      "FREIER Laurens": "positive: Dömens-Data domestique showed unexpected climbing legs to bridge late and tactical maturity to time long sprint perfectly",
+      "PETTITI Giulio": "negative: worked hard in chase duo with COSTA but failed to coordinate pulling, surrendering stage win opportunity",
+      "KANGERT Rein": "neutral: strong enough to bridge to ROLLAND's attack but tactically sat-in refusing pulls, caught at line anyway",
+      "VAN GARDEREN Tejay": "negative: abandoned stage with mechanical issue (puncture heard on audio)",
+      "PINOT Thibaut": "positive: attacked on penultimate climb showing recovered form after strong previous day time trial"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:07:09.757253+00:00"
+}

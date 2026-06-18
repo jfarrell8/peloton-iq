@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-15",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked final kilometers of Luz Ardiden, dropped VINGEGAARD and CARAPAZ in closing meters for third stage win",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAUDU piloted by MADOUAS attacked Tourmalet early, gained 1:00 on descent before Luz Ardiden neutralization revealed UAE isolation tactics",
+      "INEOS led final climb pace at first-ever 2021 stage win attempt, CAVENDISH survived Tourmalet revealing green jersey strategy shift",
+      "POGACAR attacked final 2km after MICHAL UAE pacework, VINGEGAARD had KUSS/MAS support but couldn't counter when companion attacked"
+    ],
+    "rider_signals": {
+      "GAUDU David": "positive: went over Tourmalet first with 35km remaining, opened minute gap on descent showing descending aggression absent earlier",
+      "CAVENDISH Mark": "positive: survived Tourmalet in main bunch to collect green jersey points, tactical shift prioritizing classification over stage exits",
+      "ROGLIC Primoz": "negative: lost 9 minutes to winner, definitively dropped from GC contention after holding fourth overall",
+      "MAS Enric": "positive: moved up GC to fourth with companion attack attempt on Luz Ardiden, one of better climbing days",
+      "O'CONNOR Ben": "positive: moved up GC rankings after good climbing performance, capitalizing on ROGLIC collapse",
+      "INEOS Grenadiers": "negative: led final climb for first stage win attempt but POGACAR attack immediately neutralized their pace control"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:31:42.518414+00:00"
+}

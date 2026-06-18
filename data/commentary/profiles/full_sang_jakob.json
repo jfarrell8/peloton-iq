@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range solo attacks on sustained climbs, specifically launching around 9-10km from finish on 18km+ ascents. Capable of finishing strong after extended efforts.",
+  "team_tactics": "Works as primary domestique for team leaders (LOPEZ) throughout race, conserving form for opportunistic late-race moves when team objectives are secured.",
+  "terrain_preference": "Long, sustained climbs (18km+) where attrition naturally occurs. Excels when able to maintain tempo over extended distance rather than explosive gradients.",
+  "vulnerability": "Insufficient data to identify specific weaknesses. Role as domestique may limit opportunities to show full capabilities in high-pressure GC scenarios.",
+  "key_patterns": [
+    "Attacks from 9-10km out on long climbs, suggesting strong time-trial climbing ability",
+    "Holds power to drop competitors in final 2km after sustained efforts",
+    "Conceals form while working domestique duties, emerging late in stage races"
+  ],
+  "form_trajectory": "unknown: Only single race observation available; showed strong form at 2019 Vuelta but no follow-up data",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FULL-SANG Jakob",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 16"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2020 Paris - Nice Stage 4",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-11",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KRON ANDERSEN Søren won the 15km technical ITT in Saint-Mammès by 12 seconds over SCHACHMANN, averaging 48km/h despite being 19th on GC.",
+    "winner": "KRON ANDERSEN Søren",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KRON ANDERSEN rode negative split strategy, being 3sec behind ASGREEN at checkpoint but maintaining power to win decisively.",
+      "SCHACHMANN lost 7sec in second half after leading at checkpoint, revealing vulnerability over technical finishing circuits.",
+      "BILBAO gained 3sec on DE GHENT at checkpoint then faded badly, suggesting poor pacing strategy on technical courses.",
+      "ALAPHILIPPE finished 24sec down on home roads where he won Tour stage, signaling genuine form deficit not just bad luck."
+    ],
+    "rider_signals": {
+      "KRON ANDERSEN Søren": "positive: First professional ITT win with negative split execution, jumped from 19th to 2nd GC, 48km/h average reveals hidden TT capability",
+      "SCHACHMANN Maximilian": "neutral: Extended GC lead to nearly 1min but couldn't convert checkpoint advantage, showing second-half technical weakness",
+      "ASGREEN Kasper": "positive: Third place and only 13sec down confirms strong early-season TT form after Kuurne-Brussels-Kuurne solo win",
+      "ALAPHILIPPE Julian": "negative: 24sec loss on hometown circuit where he excels suggests compromised form or training focus elsewhere",
+      "BILBAO Peli": "positive: Fifth place and only 16sec down shows unexpected TT strength for pure climber type",
+      "CAMPER NAUTS Patrick": "negative: Sixth at 27sec disappoints as GC contender, lost critical time to rivals in compressed classification",
+      "PINOT Thibaut": "negative: 50sec loss even on new equipment confirms persistent ITT weakness remains exploitable vulnerability",
+      "NIBALI Vincenzo": "negative: 53sec loss as team's GC leader suggests decline continues, worse than pure climber PINOT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:23:51.515492+00:00"
+}

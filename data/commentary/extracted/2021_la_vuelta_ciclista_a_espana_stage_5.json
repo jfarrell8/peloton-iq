@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 5",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-18",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won flat stage 5 sprint after major crash at 22km to go decimated leadout trains, beating JACOBSEN who had no pilot.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Decuninck-QuickStep avoided positioning chaos before 22km crash, arrived freshest while rivals expended energy regaining contact after hitting deck.",
+      "FDJ's leadout train fatigue from post-crash chase directly compromised DEMARE's finishing speed despite regaining peloton contact.",
+      "No deliberate breakaway chase until 22km suggests teams positioned for wind splits that never materialized, creating dangerous bunching."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: capitalized on rivals' crash chaos with clean run-in, suggesting superior team positioning awareness before incident",
+      "JACOBSEN Fabio": "positive: nearly won despite losing entire leadout train to crash, raw speed remains potent when self-navigating finale",
+      "DEMARE Arnaud": "negative: post-crash energy expenditure regaining contact directly hampered sprint watts, finished only 10th despite being pre-race favorite",
+      "BARDET Romain": "negative: lost 12 minutes suggesting severe injury or mechanical compounding 22km crash, GC ambitions effectively ended",
+      "TEUNISSEN Mike": "positive: strong finish without traditional leadout indicates improved positioning instincts in chaotic sprint",
+      "TARAMAE Rein": "negative: crashed second consecutive day despite wearing leader's jersey, positioning discipline questionable for protected rider"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:28:35.249942+00:00"
+}

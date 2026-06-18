@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-05",
+  "stage": 5,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ARU Fabio attacked in massive gear 1.5 miles from finish on Planche des Belles Filles, soloed to 16-second stage win while FROOME took yellow.",
+    "winner": "ARU Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky controlled entire climb with six riders but Froome couldn't follow Aru's oversized gear attack, questioning stage race sharpness.",
+      "Yates Simon attacked aggressively showing climbing form superior to other white jersey contenders, gap only 24 seconds not usual hours.",
+      "Martin Dan overtook Port Richie in final kilometer suggesting BMC leader already cracking on short steep finishes under 6km."
+    ],
+    "rider_signals": {
+      "ARU Fabio": "positive: attacked in oversized gear then recovered cadence to finish, form building with two wins in two weeks entering Tour",
+      "FROOME Chris": "neutral: controlled race into yellow but couldn't respond to Aru's acceleration, less emphatic than expected for peak form",
+      "PORT Richie": "negative: locked up when Martin attacked late, already conceding time bonuses to Froome on short 5.9km climb",
+      "YATES Simon": "positive: looked strongest of white jersey contenders attacking late, targets jersey not just top-10",
+      "QUINTANA Nairo": "neutral: lost time as expected on steep short climb, needs longer ascents to compete"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:11:16.762241+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2022 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-15",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won from 7-rider breakaway after teammate SIMMONS forced split on final uncategorized rise 12.5km out, dropping GANDINI who was taking a feed.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LOTTO-SOUDAL abandoned sprint chase after EWAN crashed 71km out, removing peloton pressure and sealing breakaway success.",
+      "BIKE EXCHANGE knocked off 1 minute in few kilometers mid-race but abandoned chase when gap stabilized at 2.5min inside 15km.",
+      "PEDERSEN's teammate SIMMONS attacked final uncategorized rise to shed half the breakaway, setting up controlled 3-man sprint."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "negative: crashed 71km out and never rejoined peloton, eliminating his team's sprint motivation",
+      "PEDERSEN Mads": "positive: strongest all day in breakaway then won sprint from 3-man group after teammate tactical sacrifice",
+      "GANDINI": "negative: caught taking feed when SIMMONS split breakaway on final rise 12.5km out, missed winning move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:50:32.285878+00:00"
+}

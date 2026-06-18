@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Exploits transitional terrain, particularly descents between climbs, to bridge from favorites group to breakaways. Opportunistic rather than sustained power-based attacks.",
+  "team_tactics": "AG2R utilizes cooperative breakaway strategies with teammates (e.g., Hannan) to maximize stage placement while managing his limitations through numerical advantage in moves.",
+  "terrain_preference": "Descents and transitional sections between climbs where positioning and timing matter more than pure climbing power. Less suited to pure summit finishes.",
+  "vulnerability": "Limited capabilities on sustained climbs suggest he requires tactical positioning and teamwork rather than individual firepower to compete for results.",
+  "key_patterns": [
+    "Bridges from peloton/favorites to breakaways on descents rather than initiating attacks (2 instances)",
+    "AG2R deploys breakaway-focused team tactics recognizing his profile limitations (2 instances)",
+    "Targets transitional terrain windows between major obstacles for positioning moves (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 UAE Tour showed consistent tactical execution with fourth place, but gap between observations too large for trajectory assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BOUCHARD Geoffrey",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2023 UAE Tour Stage 7"
+  ]
+}

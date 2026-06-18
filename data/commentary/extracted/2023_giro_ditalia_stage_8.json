@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 8",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-13",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HEALY Ben soloed to victory attacking 50km out, while ROGLIC gained 14 seconds on EVENEPOEL who showed weakness before the crucial TT",
+    "winner": "HEALY Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HEALY attacked first of two climbs at 50km out when breakaway companions expected traditional final-climb assault pattern.",
+      "ROGLIC counterattacked when EVENEPOEL faded, INEOS pairing THOMAS/GEOGHEGAN HART worked to amplify rather than chase gap down.",
+      "Breakaway formation required 80km of racing due to aggressive early pace, suggesting GC teams anticipated pre-TT attacks."
+    ],
+    "rider_signals": {
+      "HEALY Ben": "positive: Unprecedented willingness to attack ridiculously early (50km) in debut Grand Tour suggests exceptional confidence in sustained power output",
+      "EVENEPOEL Remco": "negative: First visible weakness before critical TT specialty stage reveals vulnerability to sustained climbing blocks before time efforts",
+      "ROGLIC Primoz": "positive: Opportunistically attacked when EVENEPOEL weak rather than saving energy before TT, prioritizing psychological pressure over fresh legs",
+      "THOMAS Geraint": "positive: INEOS dual-threat tactic with GEOGHEGAN HART amplifying ROGLIC move rather than passive following suggests coordinated anti-EVENEPOEL strategy",
+      "GANNA Filippo": "neutral: Mechanical/conflict with BAIS suggests team tension or equipment issues entering crucial ITT stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:03:38.884449+00:00"
+}

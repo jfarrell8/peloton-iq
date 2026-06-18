@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Launches solo, long-range attacks on final categorized climbs, particularly effective on steep gradients (10-16% ramps). Prefers attacking from breakaways rather than GC groups, typically going alone rather than waiting for sprint finishes.",
+  "team_tactics": "DSM placed multiple riders (3+) in early breakaways to create numerical advantage, allowing Storer to conserve energy by skipping pulls when teammates present. However, 2023 showed declining team support for his KOM jersey defense.",
+  "terrain_preference": "Excels on steep, punchy final climbs with sustained 10-16% gradients. Thrives in breakaway scenarios on mountain stages where he can isolate rivals through superior climbing on extreme gradients.",
+  "vulnerability": "Requires breakaway scenarios and team numerical advantage; isolated in chase groups without proper support (2023 Vuelta). Descending may be a weakness (crashed on descent despite winning in 2021).",
+  "key_patterns": [
+    "Attacks solo from breakaways on final climb, not waiting for group sprint (3 instances)",
+    "Dominates KOM sprints within breakaways, tactical focus on mountains classification (2 instances)",
+    "Exploits teammates in breakaway to skip work before solo acceleration (2 instances)",
+    "Thrives on extreme gradients 14-16%, separates rivals on steepest ramps (2 instances)",
+    "Lost team support between 2021-2023, moved from protected status to isolated (2 years compared)"
+  ],
+  "form_trajectory": "negative: 2023 Vuelta showed him isolated in chase groups rather than breakaways, lacking the team support that enabled his 2021 stage wins and KOM success",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "STORER Michael",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2023 La Vuelta Ciclista a Espana Stage 14"
+  ]
+}

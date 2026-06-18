@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early aggression specialist who commits to breakaways in the opening phases of races, prioritizing volume of attempts over selective timing for peak performance opportunities.",
+  "team_tactics": "Appears to operate with freedom for opportunistic early moves rather than structured team-led setups; tactical approach emphasizes consistency over single-day peak form.",
+  "terrain_preference": "Willing to engage on varied terrain in breakaway contexts, though specific climbing strength unclear; operates best when able to control effort distribution across multi-stage races.",
+  "vulnerability": "Susceptible to overcooking early efforts, particularly in aggressive opening sequences on climbs; cramping issues suggest pacing discipline problems when committing to hard early moves.",
+  "key_patterns": [
+    "Daily breakaway participation strategy across multi-stage races to accumulate classification points consistently.",
+    "Early race aggression followed by physical consequences; cramping after intense early efforts observed.",
+    "Volume-over-quality approach: multiple attempts rather than waiting for optimal single opportunity."
+  ],
+  "form_trajectory": "negative: cramping and forced stops after early aggression indicate unsustainable pacing and possible fitness limitations despite achieving classification objectives",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HILL Ben",
+  "built_from": [
+    "2020 UAE Tour Stage 3",
+    "2020 UAE Tour Stage 5"
+  ]
+}

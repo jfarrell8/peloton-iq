@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-19",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint won Tour de Suisse via TT, coming within 25 meters of beating specialist EVENEPOEL for stage win to claim overall by 1:12 over GANNA.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS at 36 demonstrated ITT form so strong he nearly beat EVENEPOEL on stage, signaling Tour form peak.",
+      "KUNG showing career-best climbing without corresponding ITT breakthrough suggests specialization trade-off impacting pure TT power.",
+      "IGITA mechanical issues for EF's two-man team exposed vulnerability of skeleton squad tactics in week-long stage races."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: Only 3 seconds behind EVENEPOEL in 25.6km ITT at age 36, oldest Tour de Suisse winner since Leipheimer, signals Tour form.",
+      "EVENEPOEL Remko": "positive: 104.85kph faster than field, 54kph average establishes him as dominant flat TT benchmark pre-Tour.",
+      "KUNG Stefan": "neutral: Climbing to career-best levels but 10 seconds down on EVENEPOEL suggests power sacrifice for weight loss.",
+      "MARTINEZ Daniel": "positive: Strong enough for top-5 TT on prototype equipment indicates dangerous Tour GC form alongside POGACAR.",
+      "IGITA Sergio": "negative: Lost yellow jersey despite fighting mechanical issues, reveals mental fragility under equipment pressure in decisive TTs.",
+      "VON WILDER Elon": "negative: DNF near finish suggests crash or medical issue, significant concern for Quick-Step depth.",
+      "POWLESS Neilson": "negative: Mechanical in ITT while defending 4th overall for two-man EF team exposes equipment preparation gaps."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:56:13.180773+00:00"
+}

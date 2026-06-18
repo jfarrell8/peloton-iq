@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not initiate attacks; relies on fast finish in bunch sprints when gradients are minimal. Opportunistic sprinter who capitalizes on depleted fields rather than creating opportunities.",
+  "team_tactics": "Quick-Step provides traditional sprint train support, though Vernon has shown ability to win without full leadout when field is reduced. Team positioning appears standard for sprint preparation.",
+  "terrain_preference": "Flat to minimal gradient finishes where pure speed decides. Struggles on late climbs or drag finishes that require sustained power over variable terrain.",
+  "vulnerability": "Late-race climbs and drag finishes expose clear climbing deficit. Cannot contest sprints when even moderate gradients thin the bunch, despite team support.",
+  "key_patterns": [
+    "Dropped on late drag finishes, preventing sprint contest despite team support (2 observations)",
+    "Wins sprints from reduced/depleted fields rather than full bunch scenarios (2 observations)",
+    "Can finish without traditional leadout, suggesting superior raw speed over positioning dependency (2 observations)"
+  ],
+  "form_trajectory": "negative: Showed speed at Catalunya in March but climbing weakness exposed at Romandie in April prevented finishing",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VERNON Ethan",
+  "built_from": [
+    "2022 Tour de Romandie Stage 2",
+    "2022 Volta Ciclista a Catalunya Stage 5",
+    "2022 Volta Ciclista a Catalunya Stage 5"
+  ]
+}

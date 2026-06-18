@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Late-race opportunist who excels in chaotic finales within 2km to go, particularly from small groups where tactical positioning and non-cooperation can neutralize stronger sprinters. Not a pure climber but capable on technical uphill finishes.",
+  "team_tactics": "Jumbo-Visma deploys him flexibly: as leadout domestique for Van Aert when needed, but also as primary finisher when team drives hard on final climbs (8km out) to split peloton. Benefits from team's aggressive late-race tempo that creates selective groups.",
+  "terrain_preference": "Technical uphill finishes after hard selection suit him best, where positioning and tactics matter more than pure power. Exposed in pure flat sprints against specialist sprinters, hence functions in domestique role unless field is reduced.",
+  "vulnerability": "Clear sprint hierarchy below Van Aert forces defensive team tactics when holding GC (chasing instead of conserving energy). Lacks explosive power for traditional bunch sprints, requiring reduced group scenarios to compete for wins.",
+  "key_patterns": [
+    "Bridges to late breakaways (sub-2km) then refuses cooperation, conserving energy for sprint (2 instances)",
+    "Sacrifices sprint position for team duties when in GC jersey, prioritizing defense over personal result (2 instances)",
+    "Excels when Jumbo drives hard tempo on final climbs creating splits, converting team work into podiums (3 instances)",
+    "Deployed as pure leadout domestique for Van Aert despite own finishing ability (2 instances)",
+    "Elite tactical judgment in chaotic reduced-group finales, outthinking rather than overpowering opponents (2 instances)"
+  ],
+  "form_trajectory": "positive: Showing remarkable versatility and tactical sharpness at 35 years old, winning from breakaway while also podiuming behind team leader and executing domestique duties effectively",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "LAPORTE Christophe",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 5",
+    "2022 Paris-Nice Stage 1",
+    "2022 Paris-Nice Stage 1",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Nice Stage 3",
+    "2022 Paris-Nice Stage 6",
+    "2022 Tour de France Stage 19",
+    "2022 Tour de France Stage 19",
+    "2022 Tour de France Stage 4"
+  ]
+}

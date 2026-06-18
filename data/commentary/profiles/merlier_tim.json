@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Pure sprinter who wins in final 200m through raw speed rather than positioning. Thrives when leadout trains disintegrate, capable of winning from compromised positions through superior acceleration.",
+  "team_tactics": "Heavy reliance on tactical reconnaissance of technical finishes (UAE Tour, Paris-Nice). Teams shelter him all day but leadouts frequently fail or disintegrate inside final 3km, forcing him to rely on personal speed.",
+  "terrain_preference": "Pancake-flat sprints and technical finishes with barriers and curves where recon provides advantage. Exposed and dropped on even moderate climbs with altitude, limiting Grand Tour stage hunting.",
+  "vulnerability": "Chronic positioning issues and team support failures in flat sprints. Dropped immediately on any climb with altitude. Repeatedly caught out of position despite being marked as top sprinter (3+ observations).",
+  "key_patterns": [
+    "Course reconnaissance critical to success: deliberately scouted UAE Tour and Paris-Nice finishes before wins.",
+    "Leadout trains consistently fail or disintegrate inside final 3km across multiple races and teams.",
+    "Positioning errors/failures documented on both flat sprints and before finale despite top sprinter status.",
+    "Cannot survive even moderate climbs at altitude; dropped and never rejoins in Grand Tours.",
+    "Raw speed compensates for poor positioning: wins from 15th-position disadvantage when others better placed."
+  ],
+  "form_trajectory": "neutral: Won early 2023 (UAE Tour, Paris-Nice) but showed same positioning vulnerabilities. Speed intact but tactical/team issues persist chronically.",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "MERLIER Tim",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2023 Paris-Nice Stage 1",
+    "2023 Paris-Nice Stage 1",
+    "2023 Paris-Nice Stage 2",
+    "2023 UAE Tour Stage 6",
+    "2023 UAE Tour Stage 6"
+  ]
+}

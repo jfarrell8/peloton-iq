@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 6",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-31",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp won from 40-rider breakaway on Javalambre climb, MARTINEZ Lenny took red jersey becoming youngest grand tour leader since 1904, EVENEPOEL lost 4+ minutes",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma planted three riders (Kuss, Van Baal, Teunissen) in 40-man break, overwhelming numerical advantage.",
+      "EVENEPOEL Remco deliberately surrendered jersey rather than defend, signaling intentional tactical concession at 85km to summit.",
+      "ROGLIC and VINGEGAARD chased together from peloton, cementing co-leadership dynamic rather than attacking each other on Javalambre.",
+      "MARTINEZ Lenny only 17 seconds down pre-stage, positioned on BARDET wheel specifically targeting GC takeover from breakaway."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: Won while sacrificing 26 seconds to Martinez, showing Jumbo prioritized stage win over minimizing GC gaps",
+      "MARTINEZ Lenny": "positive: Youngest grand tour leader since 1904, rode aggressively against Bardet suggesting unwillingness to cooperate with experienced climbers",
+      "EVENEPOEL Remco": "negative: Lost 4+ minutes and dropped to 9th GC, race essentially over unless later collapse by others",
+      "VINE Jay": "negative: Crashed out during frantic break formation, suggesting illness compromised bike handling in early positioning battles",
+      "ROGLIC Primoz": "neutral: Chased with Vingegaard but didn't attack him, confirming Jumbo won't fracture leadership until later stages",
+      "BARDET Romain": "neutral: Friction with Martinez over cooperation suggests younger riders no longer deferring to veterans in breakaways"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:08:14.394519+00:00"
+}

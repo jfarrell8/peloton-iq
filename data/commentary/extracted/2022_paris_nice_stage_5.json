@@ -1,0 +1,27 @@
+{
+  "label": "2022 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MCNULTY Brandon soloed to victory from a 10-rider breakaway after attacking the final classified climb 45km out, gaining nearly 2 minutes while Roglic inherited yellow as Schachmann cracked.",
+    "winner": "MCNULTY Brandon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled for Roglic despite massive non-starter attrition weakening all teams, revealing depth advantage in depleted races.",
+      "McNulty's attack on final classified climb with 45km remaining was decisive before technical descent, not the unclassified ramp at 12km.",
+      "Ineos attempted isolation attacks on Roglic after teammates dropped but Martinez couldn't get room, suggesting Jumbo neutralization even when isolated.",
+      "Schachmann's crack on classified climb handed yellow to Roglic without him attacking, revealing Paris-Nice GC often won passively through attrition."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "positive: At 23, bridged from breakaway domestique role to WorldTour stage winner by recognizing when to counter-attack on classified climb.",
+      "SCHACHMANN Max": "negative: Lost yellow jersey and dropped from GC podium by cracking on relatively modest classified climb with 45km remaining.",
+      "ROGLIC Primoz": "neutral: Inherited yellow through defensive riding after all teammates dropped, never needed to counter Yates/Vlasov/Martinez attacks.",
+      "MARTINEZ Daniel": "negative: Ineos gave him opportunity to attack isolated Roglic but couldn't force meaningful gaps despite numerical advantage.",
+      "JORGENSEN Matteo": "positive: Gained significant GC time by making chase group behind McNulty, showing Movistar developing stage-race depth beyond leaders."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:47:05.131199+00:00"
+}

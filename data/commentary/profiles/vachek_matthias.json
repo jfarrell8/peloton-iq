@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Wins from small breakaway groups (6 riders), showing strong finishing ability when given freedom. At 19, demonstrated exceptional sprint timing against experienced breakaway specialists.",
+  "team_tactics": "GAZPROM commits significant numbers to breakaways (3 riders in 6-man group), creating numerical advantage to control and deliver Vachek to the finish.",
+  "terrain_preference": "Breakaway-friendly stages where peloton miscalculates chase effort. Thrives when team can establish numerical superiority in reduced groups.",
+  "vulnerability": "Insufficient data from single race observation. Likely exposed in pure bunch sprints against dedicated sprinters or when isolated without numerical advantage.",
+  "key_patterns": [
+    "Team commits multiple riders (3/6) to establish numerical control in breakaways",
+    "Shows finishing speed superior to breakaway specialists despite youth and relative inexperience"
+  ],
+  "form_trajectory": "unknown: only single race observation from early 2022 available, insufficient data to assess trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VACHEK Matthias",
+  "built_from": [
+    "2022 UAE Tour Stage 6",
+    "2022 UAE Tour Stage 6"
+  ]
+}

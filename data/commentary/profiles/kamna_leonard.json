@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who moves early in stages, hunting bonus seconds and time gaps rather than late-race attacks. Targets intermediate sprints and long-range moves 28+ km from finish.",
+  "team_tactics": "BORA deploys him tactically in breakaways even when positioned as GC domestique, prioritizing stage-specific opportunities over pure team protection. Willing to sacrifice traditional support roles for strategic advantages.",
+  "terrain_preference": "Rolling terrain and time-trial-suited profiles where power endurance matters more than explosive climbing. Final climbs from breakaway position rather than GC group duels.",
+  "vulnerability": "Traditional GC racing scenarios where late-climb explosiveness required. Relies on time gaps built from breakaways rather than head-to-head climbing superiority.",
+  "key_patterns": [
+    "Breakaway specialist across Grand Tours, using long-range moves for GC gains (2 observations)",
+    "Bonus second hunter: targets intermediate sprints even when close on GC (2 observations)",
+    "Strong time-trialing ability on rolling terrain delivers results from breaks (2 observations)",
+    "Team grants autonomy for opportunistic racing over traditional domestique duties (2 observations)"
+  ],
+  "form_trajectory": "positive: Successfully translated breakaway tactics into genuine GC threat positions across both Giro and Tour 2022",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "KAMNA Leonard",
+  "built_from": [
+    "2022 Giro d'Italia Stage 20",
+    "2022 Giro d'Italia Stage 6",
+    "2022 Tour de France Stage 10"
+  ]
+}

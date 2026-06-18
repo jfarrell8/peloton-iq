@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-12",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from breakaway sprint at Megève altiport after climate protest pause, POGAČAR retained yellow by 11 seconds over KÄMNA despite losing teammate BENNETT to COVID.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE lost Bennett to COVID pre-stage, exposing Pogačar's vulnerability in team depth before critical alpine stages ahead.",
+      "Breakaway required 60+ kilometers to establish with lightning-fast opening, suggesting GC teams allowed release only after attrition testing.",
+      "BETTIOL attacked with 43km remaining and 7-minute gap, revealing breakaway riders willing to preempt finale on rolling terrain.",
+      "WRIGHT bridged solo in final 30km during uphill section, demonstrating bahrain's aggressive tactics beyond dedicated sprint stages."
+    ],
+    "rider_signals": {
+      "BENNETT George": "negative: COVID withdrawal removes key domestique from UAE before stage 11-12 alpine stages, significant tactical loss.",
+      "KÄMNA Leonard": "positive: Breakaway ride moved him to 3rd GC within 11 seconds of yellow, showing time-trialing strength on rolling terrain.",
+      "THOMAS Geraint": "negative: Dropped to 4th GC, losing podium position by exactly 11 seconds to Kämna, signaling vulnerability.",
+      "BETTIOL Alberto": "neutral: Solo attack with 7-minute gap at 43km showed ambition but couldn't sustain through 20km uphill finish.",
+      "WRIGHT Fred": "positive: Second aggressive stage performance post-rest day, bridging to breakaway in final 30km uphill section.",
+      "CORT Magnus": "positive: Timed uphill sprint finish perfectly, using Schultz's slipstream to win by quarter-wheel from reduced group."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:49:46.917179+00:00"
+}

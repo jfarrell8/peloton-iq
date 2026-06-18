@@ -1,0 +1,27 @@
+{
+  "label": "2023 Classic Brugge-De Panne",
+  "race_name": "Classic Brugge-De Panne",
+  "race_date": "2023-03-22",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper attacked on Moere de Panne straight in crosswinds, shed all sprinters except KOOIJ/LAMPAERT/FRISON, held off KOOIJ in final.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin pre-emptively drove echelon on Moere straight instead of protecting sprinter, dropped rival leadout trains before final lap.",
+      "Soudal-QuickStep's four-rider numerical advantage paralyzed their chase response, allowing Ballerini's pulling to shed Groenewegen/Demare without closing gap.",
+      "FRISON bridged solo in massive gear after initial split, suggesting reconnaissance riders can exploit hesitant chase dynamics."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: did own echelon work despite being protected sprinter, revealing diesel engine capacity rare among pure fastmen",
+      "KOOIJ Olav": "positive: survived Philipsen-driven echelon and nearly outsprinted him, confirming upgrade from stage race opportunist to Classics contender",
+      "GROENEWEGEN Dylan": "negative: dropped when Ballerini increased pace after bridge, suggesting crosswind positioning deficiency not just bad luck",
+      "DEMARE Arnaud": "negative: shed simultaneously with Groenewegen under same tempo increase, confirming declining ability to handle attritional racing",
+      "ACKERMANN Pascal": "negative: did chase work then abandoned before finale, tactical error suggesting poor form judgment",
+      "FRISON Frederik": "positive: executed high-risk solo bridge that weaker classics riders wouldn't attempt, podium potential in windy one-dayers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:59:37.977199+00:00"
+}

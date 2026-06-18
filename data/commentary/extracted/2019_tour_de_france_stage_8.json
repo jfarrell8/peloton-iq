@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-13",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DE GHENT Thomas won solo from a breakaway, holding 32 seconds at the finish after ALAPHILIPPE and PINOT attacked the final climb for time bonuses.",
+    "winner": "DE GHENT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE attacked final Cat-3 climb purely for 5-second time bonus to reclaim yellow jersey, prioritizing GC over stage win.",
+      "BORA-hansgrohe and MITCHELTON-SCOTT paced peloton to drop sprinters on mountainous stage, favoring climbing sprinters SAGAN and MATTHEWS.",
+      "ASTANA lifted pace 63km out when gap was 3:48, timing aggression unusually early for a hilly stage breakaway catch.",
+      "DE GHENT and DE MARCHI ditched breakaway companions midway through stage, calculating two committed riders outperforms larger cooperative group."
+    ],
+    "rider_signals": {
+      "VAN GARDEREN Tejay": "negative: DNS after hand fracture eliminates key EF domestique before mountain stages begin",
+      "SAGAN Peter": "negative: dropped at back of peloton 15km out despite BORA pacing to shed other sprinters, unexpected weakness on hilly terrain",
+      "WOODS Michael": "negative: crashed 15km out grabbing front brake on right-hander, taking down INEOS riders with poor bike handling",
+      "DE MARCHI Alessandro": "positive: bridged 15km solo full-gas to breakaway, showing exceptional diesel engine strength for future break selections",
+      "COLBRELLI Sonny": "negative: BAHRAIN led full sprint train at intermediate sprint 130km from finish but COLBRELLI finished 4th behind VIVIANI, poor positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:17:11.718384+00:00"
+}

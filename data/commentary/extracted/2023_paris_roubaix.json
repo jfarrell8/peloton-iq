@@ -1,0 +1,26 @@
+{
+  "label": "2023 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2023-04-09",
+  "stage": null,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won solo after dropping van Aert when Jumbo-Visma's leader flatted in the closing kilometers, recording near-record 46kph average speed.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POEL capitalized immediately when van Aert flatted in front group late, no teammates waited—pure opportunism wins Roubaix.",
+      "Alpecin put van der Poel in winning position despite van Aert being stronger rival, team execution decisive over individual power.",
+      "PHILIPSEN sprinted from chase group for second using track positioning skills, inside line technique beat van Aert's raw power."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: mechanical flat tire in front group with van der Poel late in race cost him realistic victory chance",
+      "PHILIPSEN Jasper": "positive: never finished top-10 in one-day classic before, took second via superior velodrome track craft against van Aert",
+      "VAN AVERMAET Greg": "neutral: riding 13th consecutive Roubaix finish, suggesting durability rather than competitiveness at this career stage",
+      "SAGAN Peter": "negative: crashed inexplicably early in race, continued pattern from Flanders crash week prior, signaling declining bike handling",
+      "GANNA Filippo": "neutral: made early breakaway for Israel Premier Tech but commentary suggests no impact on final"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:10:50.121527+00:00"
+}

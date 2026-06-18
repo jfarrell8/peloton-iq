@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker - pure sprinter who relies on final 200m power. Lacks positional awareness in chaotic bunch sprint finishes.",
+  "team_tactics": "Limited observations suggest minimal leadout support; rider often left to navigate own positioning in compressed finales.",
+  "terrain_preference": "Flat sprint stages suited to power; exposed in technical or positioning-dependent finishes where sprint awareness is critical.",
+  "vulnerability": "Poor positioning awareness in compressed sprints; susceptible to late-race crashes that have derailed his opportunities.",
+  "key_patterns": [
+    "Sprint positioning deficiencies evident in high-pressure finales (2 observations across Vuelta stages)",
+    "Crash vulnerability ending race/sprint opportunities, particularly late in stages (2 observations)",
+    "Strong raw sprint power undermined by tactical positioning errors in final kilometers"
+  ],
+  "form_trajectory": "negative: hospitalized from 2023 Vuelta crash after already showing positioning issues in 2022; pattern of sprint execution problems",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "COQUARD Bryan",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 4"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won mountaintop sprint by a bike length with 10 bonus seconds, converting 6-second deficit into 4-second overall lead",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Caruso extended 23-second bridge attempt for teammates Potrago/Lander before Mass counterattacked, suggesting Bahrain team-first breakaway strategy.",
+      "Enric Mass initiated decisive selection despite struggling on windy descents earlier, revealing he peaks late-stage despite mid-race weakness.",
+      "Jumbo-Visma used Kelderman to close gaps before Roglic sprinted, indicating dual-leader strategy with clear sprint hierarchy established."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: won mountaintop sprint against strong field, precisely timed final effort to maximize bonus seconds for GC reversal",
+      "MASS Enric": "positive: launched race-defining attack after appearing weak on descents, showing compartmentalized strength in crosswinds vs climbing",
+      "CARUSO Damiano": "neutral: extended 23-second solo bridge suggesting domestique willing to burn matches for team positioning rather than conserve",
+      "KELDERMAN Wilco": "positive: closed gaps for Roglic rather than protecting own GC position 12 seconds down, confirming team hierarchy",
+      "PIDCOCK Thomas": "negative: absent from finale after previous day's crash, suggesting lingering impact beyond stage of incident"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:18:37.142655+00:00"
+}

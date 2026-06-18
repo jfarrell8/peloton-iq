@@ -1,0 +1,26 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-23",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won the sprint after EVENEPOEL's Soudal led into the finale but abandoned the sprint in the final kilometer.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal committed Roglic as lead-out pilot for Evenepoel despite GC jersey, revealing over-confidence in their numerical advantage.",
+      "Ineos worked entire stage for Hayter but disappeared in final 4km, suggesting positioning failures over power deficit.",
+      "Strong launched from barriers with 200m remaining but center-road positioning advantage still delivered Groves the win.",
+      "Breakaway composition included two-day repeat Jensen, indicating Jayco using specific rider to burn opposition without GC cost."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "neutral: Considered sprinting but withdrew late, showing tactical restraint unusual for a GC leader tempted by stage wins.",
+      "HAYTER Ethan": "negative: Ineos committed full team resources for four kilometers but Hayter never appeared in final 500m sprint positions.",
+      "STRONG Corbin": "positive: Launched earliest from worst position (barriers) yet held podium, suggesting explosive power compensates for positioning errors.",
+      "GROVES Kaden": "positive: Executed perfect wheel selection on Coquard despite Alpecin having no train, showing independent sprint intelligence."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:25:44.849080+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a primary attacker; operates as a leadout specialist who positions for bunch sprints. When going for personal result, relies on final 200m positioning rather than early moves.",
+  "team_tactics": "Serves as final leadout man in BORA sprint train, delivering designated sprinter (Bennett) with precision timing before either peeling off or contesting finish himself if legs permit.",
+  "terrain_preference": "Pure flat sprint stages where leadout power matters most. Struggles when terrain includes meaningful climbing that saps leadout capacity and questions resource allocation.",
+  "vulnerability": "Climbing capacity limits effectiveness on hillier sprint stages; team's heavy leadout investment sometimes misallocated when gradient undermines his finishing capability.",
+  "key_patterns": [
+    "Dual-role execution: delivers leadout for Bennett then contests top-10 finishes himself (2 instances)",
+    "Leadout dominance allows celebration before finish line, indicating power surplus in sprint trains (1 dominant execution)",
+    "Climbing limitations create mismatch between team leadout investment and actual finishing capacity (1 clear example)",
+    "Exceptional judgment on leadout timing and placement, evidenced by both team and personal results"
+  ],
+  "form_trajectory": "neutral: Strong leadout execution evident but personal results (4th, 10th) suggest climbing limitations prevent converting team investment into wins",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN POPPEL Danny",
+  "built_from": [
+    "2022 Eschborn-Frankfurt",
+    "2022 La Vuelta ciclista a Espana Stage 13",
+    "2022 La Vuelta ciclista a Espana Stage 3"
+  ]
+}

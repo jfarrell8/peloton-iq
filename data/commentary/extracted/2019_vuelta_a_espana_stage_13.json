@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-06",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked with 1.5km remaining on Los Machucos' concrete slab rampas (20%+ grades), dropped everyone except ROGLIC, gaining 27 seconds on VALVERDE/QUINTANA and 1:01 on LOPEZ.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana's late pace-making inside 20km gutted breakaway advantage from 8min to under 4min, opening stage for GC attacks.",
+      "Quintana's early attack on Los Machucos (before concrete slabs) failed tactically, leaving him isolated when Slovenians countered harder uphill.",
+      "Pogacar/Roglic delayed acceleration until 1.5km, when concrete slabs hit, exploiting Lopez/Quintana's inability to respond on maximal gradients."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Showed superior explosive power on 20%+ concrete slabs compared to all GC rivals except Roglic, winning sprint finish.",
+      "LOPEZ Miguel Angel": "negative: Lost 1:01 on final 3km rampa inhumana, worst performance of all GC contenders, showing weakness on extreme gradients.",
+      "QUINTANA Nairo": "negative: Premature attack before steepest section backfired, finished 27 seconds down after being caught and unable to follow Slovenian counter.",
+      "ROGLIC Primoz": "positive: Only rider matching Pogacar's acceleration at 1.5km on concrete slabs, maintaining GC control despite conceding stage.",
+      "HIGUITA Sergio": "neutral: Led breakaway chase group on Los Machucos but absorbed by GC group, moved up 10min deficit without stage win.",
+      "LATOUR Pierre": "negative: Caught with 1.5km remaining despite solo effort, demonstrating breakaway riders cannot sustain power on 20%+ ramps against fresh GC attacks."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:18:53.357966+00:00"
+}

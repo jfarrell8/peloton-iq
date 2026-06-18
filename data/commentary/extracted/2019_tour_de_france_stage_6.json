@@ -1,0 +1,29 @@
+{
+  "label": "2019 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan won after surviving 24% gravel finish at La Planche des Belles Filles, while THOMAS Geraint attacked final km to distance all GC rivals.",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Ineos reduced to single domestique Kwiatkowski before finale, revealing lack of depth compared to previous Tours dominance.",
+      "CICCONE Giulio collected 8 bonus seconds on penultimate climb Col des Chevres, tactical innovation that delivered yellow by 6 seconds.",
+      "THOMAS Geraint's attack came after Alaphilippe initiated move in final km, exploiting moment leader was already anaerobic on 24% gravel.",
+      "Movistar burned VALVERDE Alejandro early on front work, exposing team's confused hierarchy when unable to support Landa's later counter."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: Put 2-14 seconds into all GC rivals on final kilometer gravel, contradicting narrative he arrived under-cooked after injury.",
+      "BARGUIL Warren": "neutral: French champion attacked on lull but immediately dropped by Landa counter, suggesting form insufficient for GC ambitions.",
+      "VAN GARDEREN Tejay": "negative: Struggled on penultimate Col des Chevres despite strong Dauphiné form, early indicator he lacks Tour condition.",
+      "ALAPHILIPPE Julian": "positive: Attacked final km to defend yellow despite stage profile unsuiting him, though legs tied up on 24% gradient.",
+      "CICCONE Giulio": "positive: Maintained Giro form, understood bonus seconds importance on Col des Chevres, nearly won stage despite being climber not puncher.",
+      "KWIATKOWSKI Michal": "negative: Lone Ineos domestique before finale reveals team brought insufficient climbing support for defending champion Thomas.",
+      "BARDET Romain": "negative: Lost over a minute to Thomas on summit finish, catastrophic start to home Tour GC campaign."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:16:38.511056+00:00"
+}

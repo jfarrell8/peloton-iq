@@ -1,0 +1,26 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-22",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL attacked inside final kilometer after ROGLIC refused to share pace work, won by 2 seconds but insufficient bonus to take leader's jersey",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step pace-making on every climb systematically isolated Emirates leadership, splitting Roglic's protection before final ascent.",
+      "Evenepoel demanded pace-sharing from Roglic in final 9km knowing refusal would legitimize his own attack without appearing disrespectful.",
+      "Marc Soler attacked without protecting teammate Ayuso, revealing UAE team cohesion fracturing under Quick-Step pressure tactics."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: refused to share pace work with Evenepoel in final kilometers, revealing either tactical weakness or physical limitation under sustained Quick-Step pressure",
+      "EVENEPOEL Remco": "positive: converted Quick-Step's early investment into stage win by forcing Roglic to refuse cooperation, then attacking with legitimacy inside 1km",
+      "BERNAL Egan": "negative: dropped on sustained climbing despite gradual pace, suggesting recovery timeline remains protracted even on sub-threshold efforts",
+      "SOLER Marc": "negative: attacked without supporting Ayuso's GC position, indicating UAE team hierarchy confusion or individual ambition overriding tactics",
+      "CARAPAZ Richard": "neutral: refused to quit breakaway despite diminishing chances, held position until 9km but lacked punch when group fractured"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:25:31.720331+00:00"
+}

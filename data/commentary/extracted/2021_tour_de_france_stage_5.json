@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-30",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR Tadej won the 27km ITT beating Stefan KÜNG by 18.2 seconds but VANDERPOEL Mathieu retained yellow by 8 seconds despite never riding a TT of this magnitude.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR flying at all time checks on flat TT despite only 3rd at nationals suggests strategic peaking schedule.",
+      "VANDERPOEL limited time loss to 39sec over 27km in debut long TT reveals GC threat beyond expected duration.",
+      "Rain timing disadvantaged earlier starters like BISSEGGER who crashed, making start order critical on marginal weather days."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: dominated flat TT unexpectedly after mediocre nationals, moved to 8sec off yellow, establishing GC dominance early",
+      "VANDERPOEL Mathieu": "positive: defended yellow by limiting losses to 39sec in first-ever long TT, proving GC legs beyond one-week races",
+      "KÜNG Stefan": "positive: beat time trial field except Pogacar by 18sec on home roads for team owners",
+      "VINGEGAARD Jonas": "neutral: rode competitively but lacked top-end speed, finished behind Küng but ahead of GC rivals",
+      "ROGLIC Primoz": "positive: minimal ITT losses post-crash suggests recovery capacity, stayed in top 10 GC",
+      "BISSEGGER Stefan": "negative: rain-affected performance 21sec worse than Bjerg despite being favorite, brilliant save but couldn't maintain speed",
+      "VAN AERT Wout": "negative: uncharacteristically poor TT performance, lost over a minute and visibly frustrated"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:33:03.676291+00:00"
+}

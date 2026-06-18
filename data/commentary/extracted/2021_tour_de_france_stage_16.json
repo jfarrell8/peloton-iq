@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-13",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CONRAD Patrick soloed to victory from a 14-rider break after attacking alone on Col de Portet, holding 1+ minute to the finish despite late chasing.",
+    "winner": "CONRAD Patrick",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CONRAD attacked final serious climb (Col de Portet) from 14-rider break that never organized properly despite strong sprinters.",
+      "JUMBO-VISMA inexplicably put pressure late-stage before mountain-top finish with all GC riders present, wasting energy before critical stages.",
+      "Break chasers GORDU/COLBRELLI lost minute despite numbers because fractured groups couldn't coordinate against solo attacker on technical descent."
+    ],
+    "rider_signals": {
+      "CONRAD Patrick": "positive: Austrian champion showed willingness to attack alone from functioning break, suggesting confidence on technical descents with tragic history",
+      "VINGEGAARD Jonas": "neutral: JUMBO's late pressure with all GC riders present suggests either bluffing or questionable pacing strategy before consecutive mountain finishes",
+      "MATTHEWS Michael": "negative: Third place from break with COLBRELLI suggests sprint legs not sharp enough to organize chase despite numerical advantage",
+      "CAVENDISH Mark": "neutral: Riding safely in gruppetto, conserving for final week sprint opportunities while MATTHEWS/COLBRELLI chase green jersey points"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:31:17.852305+00:00"
+}

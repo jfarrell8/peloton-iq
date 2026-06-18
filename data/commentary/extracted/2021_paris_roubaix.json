@@ -1,0 +1,26 @@
+{
+  "label": "2021 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2021-10-03",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "COLBRELLI Sonny won from a three-rider sprint after MOSCON Johnny's 45-second solo lead evaporated via puncture then crash with 20km remaining",
+    "winner": "COLBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POEL Mathieu bridged from chase to solo leader MOSCON after the Italian's puncture, timing attack perfectly.",
+      "MOSCON Johnny's front group isolation led to mechanical vulnerability; no teammates meant 45-second advantage disappeared instantly after puncture.",
+      "Velodrome finale favored inside line positioning: COLBRELLI went center lane while VAN DER POEL forced wide, decisive in three-up sprint."
+    ],
+    "rider_signals": {
+      "MOSCON Johnny": "positive: held 45-second solo advantage post-breakaway despite puncture, showing breakthrough Monument capability before crash ruined finish",
+      "SAGAN Peter": "negative: crashed early at 100km mark and never featured again, marking continued decline in cobbled Classics strength",
+      "COLBRELLI Sonny": "positive: only experienced rider to match debutants VAN DER POEL/VERMEERSCH in final selection, superior velodrome positioning won Monument debut",
+      "VAN DER POEL Mathieu": "positive: debutant bridged to race leader then contested final sprint, confirming immediate elite cobbles ability despite Roubaix inexperience",
+      "VERMEERSCH Florian": "positive: debutant reached podium from early 31-rider breakaway, attacking in velodrome showed aggression despite second place"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:29:41.096860+00:00"
+}

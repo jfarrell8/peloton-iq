@@ -1,0 +1,25 @@
+{
+  "label": "2022 UAE Tour Stage 5",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-24",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won the sprint after PICACHO Tadej survived a late puncture at 4.5km with only 4-second GC lead.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PICACHO contested intermediate sprint for 2-second bonus despite holding GC lead, revealing extreme margin anxiety at only 2s ahead.",
+      "GANNA Filippo animated chase despite being 2s down GC, showing INEOS willingness to work when minimal time gaps exist.",
+      "Alpha-Fenix prioritized green jersey intermediate points over stage positioning, suggesting team already conceded GC by stage 5."
+    ],
+    "rider_signals": {
+      "PICACHO Tadej": "positive: survived 4.5km-to-go puncture with only 4s GC lead through swift bike change without panic",
+      "GANNA Filippo": "positive: led chasing throughout day after major climbing effort on Jebel Jais, unexpectedly fresh for 80kg+ rider",
+      "PHILIPSEN Jasper": "positive: won sprint and dominated intermediate points competition while finishing 10th in time trial, unusual range",
+      "CAVENDISH Mark": "negative: mechanical and absent from sprint after crash on Jebel Jais stage, suggesting compounding physical issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:57:12.559716+00:00"
+}

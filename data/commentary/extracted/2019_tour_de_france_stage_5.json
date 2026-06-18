@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won a reduced bunch sprint after Team Sunweb's Keldermann shelled climbers on the final ascent, timing his 180m launch perfectly.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Team Sunweb controlled final climb via Keldermann's pace, creating selective sprint finish rather than defending pure sprinters' chances.",
+      "Deceuninck Quickstep chased breakaway despite no GC threat, revealing aggressive stage-hunting mentality even while holding yellow.",
+      "Costa's 7km solo attack failed because Bora immediately committed domestique support to Sunweb's chase, showing inter-team cooperation patterns."
+    ],
+    "rider_signals": {
+      "ZAKARIN Ilnur": "negative: dropped on final climb suggests complete loss of Giro form, now targeting only mountain stage opportunism",
+      "BOASSON HAGEN Edvald": "neutral: chased back from 1-minute deficit after mechanical but effort likely compromised sprint legs",
+      "ALAPHILIPPE Julian": "positive: led descent attack despite holding yellow, confirming aggressive racing instinct overrides conservative defense",
+      "SAGAN Peter": "positive: survived selective climbing pace to win sprint, demonstrating improved climbing form compared to pure sprinters eliminated",
+      "KELDERMAN Wilco": "positive: Sunweb used him as climb pacer to create selection, unusual role for GC-capable rider reveals team sprint prioritization"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:16:23.489587+00:00"
+}

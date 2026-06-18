@@ -1,0 +1,26 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-05",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won from a reduced bunch sprint after late climbs shed pure sprinters like Groenewegen 14km from finish",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange pulled for Groenewegen despite him being dropped, revealing poor team communication on selective finales.",
+      "QuickStep sent Cavagna late solo from reduced group under 3km, forcing Ganna to close for Hayter.",
+      "Teams let breakaway bonus seconds go uncontested at intermediate sprint, prioritizing stage over GC positioning."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "negative: dropped on final categorized climb with 14km flat remaining, suggesting poor form not just positioning",
+      "BAUHAUS Phil": "negative: also distanced on final climb, indicating Bahrain's sprint options compromised early",
+      "HAYTER Ethan": "positive: survived selective finale to finish second, more resilient than expected on lumpy stages",
+      "HONORE Michael": "neutral: bridged to break on descent but lacked punch to stay clear, showed aggression",
+      "CAVAGNA Rémi": "neutral: French champion attacked late from reduced group but lacked gap to hold off organized chase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:34:43.089299+00:00"
+}

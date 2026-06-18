@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Capable of attacking steep uphill finishes from distance despite time trial pedigree, leveraging power sustainability rather than explosive acceleration.",
+  "team_tactics": "Primarily deployed as high-powered domestique for Jumbo-Visma leaders, pacing deep into climbs to soften opposition before leader attacks.",
+  "terrain_preference": "Steep uphill finishes suit his sustained power output; time trial background enables attacks from distance on gradient rather than explosive summit finishes.",
+  "vulnerability": "Role as domestique suggests potential inability to finish off own attacks when protecting team leadership; may lack final acceleration against pure climbers.",
+  "key_patterns": [
+    "Functions as elite mountain domestique despite time trial world champion pedigree (2 observations)",
+    "Paces team leaders deep into climbs, unusual high-quality domestique role (2 observations)",
+    "Podium results as support rider demonstrate exceptional engine for prolonged efforts (2 observations)",
+    "Attacks steep gradients from distance using sustained power, not explosive moves (2 observations)"
+  ],
+  "form_trajectory": "positive: showing versatility beyond time trial specialization with strong mountain support role and uphill attack capability demonstrated in spring 2022",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DENNIS Rowan",
+  "built_from": [
+    "2022 Paris-Nice Stage 4",
+    "2022 Paris-Nice Stage 7",
+    "2022 Tour de Romandie Stage 1"
+  ]
+}

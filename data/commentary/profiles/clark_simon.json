@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who attacks from reduced groups rather than peloton. Shows ability to drop companions on climbs but struggles to sustain solo efforts to the finish.",
+  "team_tactics": "Operates independently in breakaways rather than relying on team support. No evidence of coordinated team lead-outs or positioning assistance in observed races.",
+  "terrain_preference": "Excels in chaotic, unpredictable stages (cobbles, breakaway scenarios). Strong enough to drop riders on climbs within small groups but not a pure climber or sprinter.",
+  "vulnerability": "Physical sustainability in fastest racing conditions - cramping in high-speed stages. Mental hesitation when positioned to win, particularly when isolated. Age-related endurance limits at 36.",
+  "key_patterns": [
+    "Gains success from breakaways in reduced groups rather than mass sprints (2 observations)",
+    "Shows climbing strength to drop breakaway companions but fails to capitalize alone (2 observations)",
+    "Physical failures (cramp) and mental hesitation prevent converting strong positions to wins (2 observations)",
+    "Performs in chaotic Grand Tour stages where favorites' battles create breakaway opportunities (2 observations)"
+  ],
+  "form_trajectory": "negative: 2023 showed physical cracking under highest speeds and hesitation costing stage wins, suggesting age-related decline from 2022 success",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "CLARK Simon",
+  "built_from": [
+    "2022 Tour de France Stage 5",
+    "2023 Giro dItalia Stage 6",
+    "2023 Tour de France Stage 19"
+  ]
+}

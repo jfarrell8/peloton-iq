@@ -1,0 +1,26 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-25",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won sprint finish after bike change inside final 3km, while intermediate sprint battles between GC contenders produced no time gaps",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC refused cooperation with EVENEPOEL in breakaway attempt, prioritizing intermediate sprint seconds over stage-winning move formation.",
+      "Bahrain chased SOLANA's solo move protecting LANDA's time-on-GC despite only intermediate sprint seconds at stake.",
+      "GROVES completed bike change inside 3km without panic, suggesting pre-planned mechanical protocols for sprint finishes work effectively."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: visibly frustrated with ROGLIC's non-cooperation in breakaway, suggesting psychological vulnerability when tactical plans fail",
+      "SOLANA Marc": "positive: attacked solo before intermediate sprint while on same GC time as LANDA, gained 4th overall through bonus seconds",
+      "GROVES Kaden": "positive: took teammate's bike final 3km and still won sprint, exceptional composure under pressure",
+      "ROGLIC Primoz": "neutral: prioritized intermediate sprint seconds over stage-winning cooperation, calculated GC defense over opportunism",
+      "LANDA Mikel": "negative: team burned energy chasing intermediate sprint threats despite minimal GC risk, defensive posture cost resources"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:26:08.238762+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-04",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "O'CONNOR won from 40+ rider breakaway on Tignes climb, gaining 5 minutes while UAE let 8:13 GC cushion evaporate before Pogacar secured yellow with late attack",
+    "winner": "O'CONNOR Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE delayed chase until O'Connor threatened yellow at 8:30 gap, showing precise threshold management rather than blanket controlling.",
+      "Quintana attacked 65km out to shed breakaway companions and harvest KOM points, weaponizing long-range aggression for jersey competition.",
+      "Ineos paced when O'Connor no longer threatened yellow but Pogacar remained isolated, revealing GC protection hierarchy over team leader support.",
+      "Pogacar counter-attacked after being reeled back once, confirming second-wave attacks succeed when rivals exhaust chasing first move."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "positive: held 5-minute advantage solo over final 17km after shedding Higuita, suggesting undertapped GC engine at 8:13 pre-stage deficit",
+      "MCNULTY Brandon": "negative: suffered 'very worrying moment' before final climb while protecting yellow, exposing UAE depth vulnerability on successive mountain stages",
+      "QUINTANA Nairo": "neutral: first dropped from leading trio despite initiating 65km breakaway selection, confirming KOM tactics incompatible with stage-winning form",
+      "VINGEGAARD Jonas": "negative: lost 30+ seconds to Pogacar while struggling to hold contact, concerning weakness on sub-maximal tempo before race-defining Alpine stages",
+      "CARAPAZ Richard": "negative: finished behind Pogacar and dropped to 5th GC, suggesting Ineos pacing for others undermined personal performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:33:57.216459+00:00"
+}

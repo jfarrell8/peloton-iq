@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets KOM points through early moves rather than sustained climbing accelerations. Shows capability on uphill TT efforts but struggles with repeated late-climb attacks.",
+  "team_tactics": "Operates with autonomy in breakaways, positioning for jersey competitions rather than stage wins. Limited evidence of dedicated team support in observed moves.",
+  "terrain_preference": "Medium-mountain stages with breakaway-friendly profiles and uphill time trials. Struggles on stages requiring multiple hard accelerations or bridge efforts to maintain breakaway position.",
+  "vulnerability": "Cannot sustain both prolonged breakaway efforts and late-climb accelerations when rivals bridge across. Tactical miscalculations in KOM jersey competition leave him exposed to GC riders taking points opportunistically.",
+  "key_patterns": [
+    "Targets KOM jersey through breakaway positioning rather than stage wins (3 observations)",
+    "Cracks when required to respond to bridge efforts after extended breakaway work (2 observations)",
+    "Shows opportunistic positioning to follow attacks from other breakaway riders (2 observations)",
+    "Delivers surprising uphill TT performances beyond climbing expectations (1 observation, 33s gain)"
+  ],
+  "form_trajectory": "negative: Multiple instances of cracking under pressure at Tour de France, tactical failures cost KOM jersey despite breakaway efforts",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "GESCHKE Simon",
+  "built_from": [
+    "2022 Tour de France Stage 18",
+    "2022 Tour de France Stage 7",
+    "2022 Tour de France Stage 9",
+    "2022 Tour de Romandie Stage 5"
+  ]
+}

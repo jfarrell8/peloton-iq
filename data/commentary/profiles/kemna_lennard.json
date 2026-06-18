@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Late-race opportunist who launches solo attacks inside final 3km, typically as last survivor from breakaways rather than from bunch. Willing to gamble on short, explosive moves.",
+  "team_tactics": "Minimal team support evident; operates independently in breakaways. No clear domestique setup for his moves—relies on individual timing rather than organized leadouts.",
+  "terrain_preference": "Thrives in breakaway scenarios on stages where peloton control is uncertain. Final kilometer positioning suggests comfort in technical finales requiring tactical nerve over pure power.",
+  "vulnerability": "Struggles with pace negotiation in small groups (evidenced by Vuelta failure with Caruso). Lacks finish speed to hold off organized peloton chases despite gaining initial gaps.",
+  "key_patterns": [
+    "Launches solo attacks sub-3km when in breakaways, preferring individual gambles over cooperation (2 instances)",
+    "Consistently caught by peloton despite initial gap creation, suggesting timing or power limits (2 races)",
+    "Operates as breakaway specialist without visible team protection or organized support structure (2 instances)"
+  ],
+  "form_trajectory": "neutral: Both observations show similar pattern—bold attacking yielding temporary gaps but ultimate failure, suggesting consistent capability level without progression",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KEMNA Lennard",
+  "built_from": [
+    "2022 Giro d'Italia Stage 1",
+    "2023 La Vuelta Ciclista a Espana Stage 3"
+  ]
+}

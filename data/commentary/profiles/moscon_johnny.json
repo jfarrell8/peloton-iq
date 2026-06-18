@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Capable of establishing and holding significant solo advantages in Monument-level races, demonstrated by sustaining 45-second gap post-breakaway on cobbled terrain before mechanical issues intervened.",
+  "team_tactics": "Operates with minimal team support in critical Monument phases, leading to front group isolation that creates both opportunity for solo efforts and vulnerability to mechanical failures.",
+  "terrain_preference": "Paris-Roubaix cobbled sectors suit his power and positioning skills; capable of handling harsh Monument terrain independently when in form.",
+  "vulnerability": "Critically exposed when isolated without teammates in lead groups—mechanical issues become race-ending without support, as demonstrated when puncture eliminated 45-second advantage.",
+  "key_patterns": [
+    "Races aggressively in Monuments despite teammate isolation, accepting high risk-reward scenarios.",
+    "Capable of holding significant time gaps solo in brutal conditions before mechanical failures.",
+    "Lacks team support infrastructure in critical race phases, amplifying impact of bad luck."
+  ],
+  "form_trajectory": "unknown: single 2021 Monument observation shows strong potential undermined by crash; insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MOSCON Johnny",
+  "built_from": [
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix"
+  ]
+}

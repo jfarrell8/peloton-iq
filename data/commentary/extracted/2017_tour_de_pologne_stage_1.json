@@ -1,0 +1,24 @@
+{
+  "label": "2017 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-29",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter jumped early when leadout trains disintegrated inside 1km, held off EWAN Caleb after late crash scattered sprint",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep launched rider attack with 1.6km remaining despite bringing no designated sprinter, forcing leadouts to chase prematurely.",
+      "SAGAN exploited moment when rival sprinters hesitated at 200m after their trains collapsed, launching well before traditional sprint initiation.",
+      "Seven-rider team format left MEZGEC Lucas isolated doing solo chase work for EWAN, dying before finale commenced."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: demonstrated tactical opportunism to win despite not being traditional pure sprinter in disorganized finale",
+      "EWAN Caleb": "negative: lost leadout support early when MEZGEC exhausted himself chasing Quickstep move, couldn't respond to SAGAN's timing",
+      "MEZGEC Lucas": "negative: forced into extended wind-taking 1.6km out with no teammates to rotate, compromised EWAN's sprint positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:12:19.755876+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Tends to attack early on climbs or from distance, often mistiming efforts before maximum gradients or launching long-range moves that prove unsustainable. Prefers initiating on penultimate or final climbs but struggles with execution timing.",
+  "team_tactics": "Limited evidence of strong team support in attacking phases; appears to rely on individual moves rather than coordinated team setups, with rivals' teams (INEOS, BORA) controlling rather than his own.",
+  "terrain_preference": "Steep climbs where GC status still commands respect from rivals. Exposed on long-range efforts requiring sustained power over 10+ km, particularly when descents separate from finish climbs.",
+  "vulnerability": "Poor timing of attacks—goes too early before maximum gradients or launches unsustainable long-range moves. Vulnerable to positioning squeezes and immediate neutralization by well-organized rival teams.",
+  "key_patterns": [
+    "Attacks marked/neutralized immediately by organized rival teams (INEOS, positioning squeeze): 3 instances",
+    "Mistimes efforts: goes before maximum gradient or too far from finish: 2 instances",
+    "Still commands GC-level respect from rivals who police his moves: 2 instances"
+  ],
+  "form_trajectory": "negative: Recent attacks (2023) show poor timing and inability to sustain efforts, immediately neutralized without forcing rivals to work",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BARDET Roman",
+  "built_from": [
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2023 La Fleche Wallonne",
+    "2023 La Vuelta Ciclista a Espana Stage 3"
+  ]
+}

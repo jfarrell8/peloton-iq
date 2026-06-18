@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-28",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MADRAZO Angel won from breakaway after being dropped multiple times on final climb, yoyo'ing back then attacking inside final kilometer.",
+    "winner": "MADRAZO Angel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Madrazo repeatedly dropped on 10%+ finish yet recovered and attacked sub-1km, revealing breakaway stamina matters more than sustained climbing power.",
+      "Sepp Kuss domestique work neutralized Valverde's acceleration for Roglic, signaling Jumbo's willingness to control without needing Roglic to respond directly.",
+      "Lopez attacked 3km from summit isolating himself from all GC rivals, gaining only 12 seconds on Valverde/Roglic suggesting group dynamics trump solo efforts.",
+      "Hugh Carthy pacing for Uran dropped teammate Higuita, showing EF prioritized Uran over multiple cards despite having three climbers in form."
+    ],
+    "rider_signals": {
+      "MADRAZO Angel": "positive: Won despite being dropped 4+ times on final climb, showing exceptional recovery ability and tactical patience to attack under 1km",
+      "LOPEZ Miguel Angel": "positive: Isolated all GC rivals with 3km attack but gained only 12 seconds, showing explosive power yet limited time-gaining capacity solo",
+      "KUSS Sepp": "positive: Neutralized Valverde's attack without Roglic responding, revealing high-altitude climbing strength beyond pure domestique role",
+      "ROCHE Nicolas": "negative: Dropped from race lead before summit finish proper began, confirming GC hold was unsustainable against climber acceleration",
+      "POGACAR Tadej": "positive: Youngest rider limiting losses to seconds behind Valverde/Roglic group, signaling unexpected GC climbing credentials",
+      "HIGUITA Sergio": "negative: Dropped by own teammate Carthy's pacing for Uran, revealing hierarchy within EF despite appearing to have multiple options"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:21:38.348542+00:00"
+}

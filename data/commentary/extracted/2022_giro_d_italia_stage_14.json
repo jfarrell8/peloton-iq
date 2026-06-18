@@ -1,0 +1,29 @@
+{
+  "label": "2022 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-21",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked with 4.5km remaining after the GC group coalesced on the final climb, winning by 15 seconds while CARAPAZ took pink via earlier selection at 28.6km out.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bora-Hansgrohe blew apart the race with 80km to go using Aleotti/Kelderman, forcing splits before any classified climb.",
+      "Carapaz attacked at 28.6km out on descent/technical terrain creating 30-second gap, not on steepest gradient of Superga.",
+      "Nibali bridged with Hindley on final climb using tempo control rather than explosive attack, demonstrating veteran pacing strategy.",
+      "Yates given freedom with 4.5km left due to 20-minute GC deficit; GC riders refused to chase stage hunter."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "negative: dropped in early Bora-Hansgrohe acceleration at 65km out, unable to follow pace on non-selective terrain",
+      "CARTHY Hugh": "negative: missed crucial split when Bora accelerated with 70km remaining, out of GC contention before climbing started",
+      "ALMEIDA Joao": "positive: worked back after early split, finished within 39 seconds despite being gapped multiple times showing recovery resilience",
+      "NIBALI Vincenzo": "positive: bridged to Carapaz using controlled tempo on final climb, looked strongest since 2016 Giro Turin victory",
+      "LOPEZ Juanpe": "negative: defended well initially but cracked when Carapaz attacked at 28.6km, losing 9 minutes and pink jersey",
+      "CARAPAZ Richard": "positive: attacked on technical descent at 28.6km not summit, opened 30 seconds showing descent aggression mirrors 2019 win",
+      "HINDLEY Jai": "positive: followed Nibali's bridge effort and finished second, showing he can respond to varied pace changes not just steady climbing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:38:09.657195+00:00"
+}

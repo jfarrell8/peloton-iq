@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Prefers extremely long-range attacks (35-50km from finish) on sustained climbs, showing exceptional confidence in aerobic power rather than explosive finishes. Struggles on steep, punchy gradients requiring acceleration.",
+  "team_tactics": "Limited evidence of team support; appears to operate independently with emphasis on early solo moves rather than waiting for organized leadouts or positioning trains.",
+  "terrain_preference": "Sustained, moderate gradient climbs in stage races and hilly Classics. Exposed on steep explosive walls (Mur de Huy) and when facing repeated attacks from elite GC riders.",
+  "vulnerability": "Cannot respond when attacked by top-tier climbers; immediately distanced when pace escalates. Lacks finishing punch on steepest sections despite strong positioning. Defense of leads is passive.",
+  "key_patterns": [
+    "Attacks ridiculously early 35-50km out in multiple Grand Tour stages, showing elite aerobic capacity.",
+    "Strong Ardennes week form across multiple Monuments (Amstel, Fleche, Liege) with consistent near-podium results.",
+    "Positioned well inside final kilometer but fades on steepest gradients requiring explosive power.",
+    "Cannot follow or respond to attacks from elite stage racers; immediately dropped when pace increases.",
+    "Willing to attack repeatedly after previous efforts, showing exceptional recovery and aggressive mentality."
+  ],
+  "form_trajectory": "neutral: Strong early 2023 Monument performances and Giro stage win, but Tour de Suisse showed clear gap to elite level remains",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "HEALY Ben",
+  "built_from": [
+    "2023 Amstel Gold Race",
+    "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 18",
+    "2023 Giro dItalia Stage 8",
+    "2023 Giro dItalia Stage 8",
+    "2023 La Fleche Wallonne",
+    "2023 Liege-Bastogne-Liege",
+    "2023 Tour de Suisse Stage 7"
+  ]
+}

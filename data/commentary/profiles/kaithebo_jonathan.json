@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches late-race attacks from established breakaways, specifically timing moves at the flamme rouge (1km to go) to capitalize on reduced group cohesion.",
+  "team_tactics": "EF unable to place supporting riders in critical breakaway selections, leaving Kaithebo to execute attacks in isolation without teammate protection or follow-up pressure.",
+  "terrain_preference": "Unknown - insufficient data across varied terrain types to establish clear preference patterns.",
+  "vulnerability": "Isolated attacks from breakaways are vulnerable to coordinated bridging efforts by multiple opponents, particularly when lacking team support in the decisive selection.",
+  "key_patterns": [
+    "Attacks at flamme rouge from breakaways, timing moves in final kilometer.",
+    "Races without EF teammates in decisive groups, operating as lone representative.",
+    "Vulnerable to coordinated responses when isolated, neutralized by multi-rider bridges."
+  ],
+  "form_trajectory": "unknown: single observation insufficient to determine trajectory, though showed willingness to attack from breakaway",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KAITHEBO Jonathan",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 11"
+  ]
+}

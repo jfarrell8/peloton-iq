@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who exploits GC irrelevance (18min down) to infiltrate strong moves for stage hunting, showing willingness to sacrifice overall position for stage opportunities.",
+  "team_tactics": "Deceuninck employs pragmatic resource allocation, protecting specific GC targets while sacrificing other assets (sprinters, stage hunters) based on race situation and strategic priorities.",
+  "terrain_preference": "Insufficient data to determine specific terrain preference, though positioned as break specialist when GC pressure removed.",
+  "vulnerability": "Role flexibility makes him expendable in team hierarchy—sacrificed for higher-priority objectives when strategic choices force trade-offs.",
+  "key_patterns": [
+    "Used as tactical chess piece: sacrificed or protected based on team's shifting priorities (2 instances)",
+    "Break specialist when out of GC contention, finishing 4th from 18min-down breakaway (1 clear instance)",
+    "Team demonstrates clear hierarchy: GC protection prioritized over sprint/stage hunting opportunities (2 instances)"
+  ],
+  "form_trajectory": "neutral: showed stage-hunting capability but limited sample size; role appears opportunistic and context-dependent",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KNOX James",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 17"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who targets stage wins and GC from early moves rather than late attacks. Willing to ride aggressively against more experienced climbers to achieve objectives.",
+  "team_tactics": "Groupama-FDJ provides breakaway positioning but limited protection in crosswinds or high-tempo chase scenarios. Rider appears to operate with independence once in the break.",
+  "terrain_preference": "Suited to moderate climbs and breakaway scenarios with quality riders. Exposed on steep gradients when pace exceeds threshold and in crosswind/echelon situations despite team presence.",
+  "vulnerability": "Struggles when climbing pace lifts beyond threshold on steep gradients (lost 1:09 in final 3km). Poor positioning awareness in crosswind splits despite available team support.",
+  "key_patterns": [
+    "Targets GC and stages from breakaways rather than peloton-based racing (2 observations)",
+    "Shows aggressive racing mentality despite youth, unwilling to cooperate passively with veterans (2 observations)",
+    "Vulnerable to high-pace attrition: crosswinds and sustained steep climbing both exposed weaknesses (2 observations)",
+    "Can survive quality breakaways when pace is controlled but cracks when intensity spikes (2 observations)"
+  ],
+  "form_trajectory": "negative: After becoming youngest GT leader since 1904, immediately suffered crosswind isolation and climbing losses when pace intensified, suggesting initial success was opportunity-based rather than form-based",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "MARTINEZ Lenny",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 13",
+    "2023 La Vuelta Ciclista a Espana Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 8",
+    "2023 La Vuelta Ciclista a Espana Stage 9"
+  ]
+}

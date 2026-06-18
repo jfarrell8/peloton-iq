@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 2",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-27",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KRON Andy escaped from the breakaway after neutralization discussions, won from reduced group as GC favorites called truce at 9km-to-go provisional finish",
+    "winner": "KRON Andy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GC teams negotiated race neutralization mid-stage after Roglic crash, revealing collective power to override organizers' provisional finish protocol.",
+      "Piccolo fought back to breakaway after crashing, demonstrating that provisional finish situations incentivize crash recovery over normal race logic.",
+      "Kron attacked fellow breakaway survivors after neutralization point passed, exploiting confusion when peloton momentum stops but breakaway racing continues."
+    ],
+    "rider_signals": {
+      "MILESI Lorenzo": "negative: abandoned while wearing red jersey at 18km to go, suggesting extreme vulnerability to wet conditions",
+      "KRON Andy": "positive: attacked breakaway companions after provisional finish, showing opportunism and superior form to exploit quasi-neutralized race situation",
+      "PICCOLO Andrea": "positive: recovered from crash to rejoin breakaway under neutralization pressure, calculated jersey math while others conserved energy",
+      "ROGLIC Primoz": "neutral: crash triggered team's negotiation for race hold-up, demonstrating Jumbo-Visma's political leverage within peloton",
+      "THOMAS Geraint": "negative: crashed at 18km remaining, confirming vulnerability in technical wet conditions despite no further detail",
+      "SOBRERO Matteo": "positive: secured KOM points despite mechanical, showing breakaway awareness to collect secondary classifications during neutralized stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:06:55.416392+00:00"
+}

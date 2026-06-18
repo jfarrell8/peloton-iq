@@ -1,147 +1,219 @@
 """
-peloton_iq.schemas.commentary
+peloton_iq.pipelines.commentary
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Pydantic models for YouTube transcript ingestion and
-Claude tactical extraction outputs.
+Prefect flow for the incremental commentary pipeline.
+
+Each task is idempotent — safe to re-run, always skips already-processed work.
+
+Run locally:
+    python -m peloton_iq.pipelines.commentary
+    python -m peloton_iq.pipelines.commentary --extract
+    python -m peloton_iq.pipelines.commentary --status
 """
 
 from __future__ import annotations
 
-from datetime import datetime
-from enum import Enum
-from typing import Optional
+import argparse
+import json
 
-from pydantic import BaseModel, Field
+import pandas as pd
+from prefect import flow, task, get_run_logger
 
-
-# ---------------------------------------------------------------------------
-# Transcript fetch status
-# ---------------------------------------------------------------------------
-
-class TranscriptStatus(str, Enum):
-    SUCCESS             = "success"
-    NO_TRANSCRIPT       = "no_transcript"
-    TRANSCRIPTS_DISABLED = "transcripts_disabled"
-    VIDEO_UNAVAILABLE   = "video_unavailable"
-    NO_VIDEO_FOUND      = "no_video_found"
-    IP_BLOCKED          = "ip_blocked"
-    ERROR               = "error"
+from peloton_iq.config import (
+    COMMENTARY_EXTRACTED_DIR,
+    COMMENTARY_RAW_DIR,
+    MERGED_RACES_PATH,
+    YOUTUBE_CACHE_PATH,
+)
 
 
 # ---------------------------------------------------------------------------
-# YouTube video metadata  (from the channel cache)
+# Tasks
 # ---------------------------------------------------------------------------
 
-class VideoMetadata(BaseModel):
-    """
-    Lightweight record for a YouTube video, stored in the parquet cache.
-    """
+@task(name="load-race-index", retries=1)
+def task_load_race_index() -> pd.DataFrame:
+    logger = get_run_logger()
+    merged_df = pd.read_csv(MERGED_RACES_PATH, low_memory=False)
+    merged_df["Date"] = pd.to_datetime(merged_df["Date"])
+    race_index = (
+        merged_df[["Race Name", "Race_results", "Date", "Year_results", "Stage_results"]]
+        .drop_duplicates("Race Name")
+        .sort_values("Date", ascending=False)
+        .reset_index(drop=True)
+    )
+    logger.info("Race index: %d unique races", len(race_index))
+    return race_index
 
-    video_id:   str
-    title:      str
-    published:  datetime
-    channel:    str
-    channel_id: str
+
+@task(name="refresh-youtube-cache", retries=1)
+def task_refresh_cache(rebuild: bool = False) -> pd.DataFrame:
+    logger = get_run_logger()
+    from peloton_iq.commentary.youtube import YouTubeCacheManager
+
+    mgr = YouTubeCacheManager()
+    if rebuild or not YOUTUBE_CACHE_PATH.exists():
+        logger.info("Building full cache...")
+        df = mgr.build_cache(force_refresh=rebuild)
+    else:
+        logger.info("Running incremental refresh...")
+        df = mgr.refresh_recent()
+
+    logger.info("Cache: %d videos", len(df) if df is not None else 0)
+    return df
+
+
+@task(name="local-video-matching")
+def task_local_matching(
+    cache_df: pd.DataFrame,
+    race_index: pd.DataFrame,
+) -> dict:
+    logger = get_run_logger()
+    from peloton_iq.commentary.transcript import TranscriptFetcher
+
+    fetcher = TranscriptFetcher(video_cache=cache_df)
+    stats   = fetcher.run_local_matching(race_index, verbose=False)
+    logger.info(
+        "Matching — found: %d  not_found: %d  skipped: %d",
+        stats["found"], stats["not_found"], stats["skipped"],
+    )
+    return stats
+
+
+@task(
+    name="fetch-transcripts",
+    retries=2,
+    retry_delay_seconds=300,  # wait 5 mins before retry (IP block cooldown)
+)
+def task_fetch_transcripts(
+    cache_df: pd.DataFrame,
+    race_index: pd.DataFrame,
+    max_transcripts: int = 50,
+    delay_seconds: float = 45.0,
+) -> dict:
+    logger = get_run_logger()
+    from peloton_iq.commentary.transcript import TranscriptFetcher
+
+    pending = sum(
+        1 for p in COMMENTARY_RAW_DIR.glob("*.json")
+        if json.load(open(p, encoding="utf-8")).get("status") == "video_found"
+    )
+    logger.info("Videos pending transcript: %d (fetching up to %d)", pending, max_transcripts)
+
+    if pending == 0:
+        logger.info("Nothing to fetch.")
+        return {"success": 0, "ip_blocked": 0, "errors": 0}
+
+    fetcher = TranscriptFetcher(video_cache=cache_df)
+    stats   = fetcher.run_batch(
+        race_index=race_index,
+        max_transcripts=max_transcripts,
+        delay_seconds=delay_seconds,
+    )
+    logger.info(
+        "Fetch complete — saved: %d  ip_blocked: %d  errors: %d",
+        stats["success"], stats["ip_blocked"], stats["errors"],
+    )
+
+    # Raise on IP block so Prefect retries after the delay
+    if stats.get("ip_blocked", 0) > 0 and stats.get("success", 0) == 0:
+        raise RuntimeError(
+            f"IP blocked after 0 successful fetches — "
+            f"Prefect will retry in 5 minutes"
+        )
+
+    return stats
+
+
+@task(name="claude-extraction")
+def task_extract(max_extractions: int = 3) -> dict:
+    logger = get_run_logger()
+    from peloton_iq.commentary.extractor import ClaudeExtractor
+
+    pending = [
+        p for p in COMMENTARY_RAW_DIR.glob("*.json")
+        if not (COMMENTARY_EXTRACTED_DIR / p.name).exists()
+        and json.load(open(p, encoding="utf-8")).get("status") == "transcript_saved"
+    ]
+    logger.info(
+        "Pending extraction: %d (processing up to %d, ~$%.2f)",
+        len(pending), max_extractions, max_extractions * 0.02,
+    )
+
+    if not pending:
+        logger.info("Nothing to extract.")
+        return {"success": 0, "skipped": 0, "errors": 0, "cost": 0.0}
+
+    extractor = ClaudeExtractor()
+    stats     = extractor.run_batch(max_extractions=max_extractions, verbose=True)
+    logger.info(
+        "Extraction complete — success: %d  skipped: %d  errors: %d  cost: $%.4f",
+        stats["success"], stats["skipped"], stats["errors"], stats["cost"],
+    )
+    return stats
 
 
 # ---------------------------------------------------------------------------
-# Raw transcript result
+# Flow
 # ---------------------------------------------------------------------------
 
-class TranscriptResult(BaseModel):
+@flow(name="pelotoniq-commentary", log_prints=True)
+def commentary_flow(
+    rebuild_cache: bool = False,
+    skip_transcripts: bool = False,
+    extract: bool = False,
+    max_transcripts: int = 50,
+    max_extractions: int = 3,
+    delay_seconds: float = 45.0,
+) -> None:
     """
-    Output of a single transcript fetch attempt.
-    Stored as JSON in data/commentary/raw/<safe_name>.json.
+    Incremental commentary pipeline.
+
+    Args:
+        rebuild_cache:    Force full YouTube cache rebuild.
+        skip_transcripts: Skip transcript fetching step.
+        extract:          Run Claude extraction on new transcripts.
+        max_transcripts:  Max transcripts to fetch per run.
+        max_extractions:  Max transcripts to extract per run.
+        delay_seconds:    Seconds between transcript requests.
     """
+    race_index = task_load_race_index()
+    cache_df   = task_refresh_cache(rebuild=rebuild_cache)
 
-    label:      str             # e.g. "2023 Tour de France Stage 17"
-    race_name:  str
-    race_date:  str             # ISO date string "YYYY-MM-DD"
-    stage:      Optional[int] = None
+    if cache_df is not None and not cache_df.empty:
+        task_local_matching(cache_df, race_index)
 
-    video:      Optional[VideoMetadata] = None
-    status:     TranscriptStatus = TranscriptStatus.NO_VIDEO_FOUND
+        if not skip_transcripts:
+            task_fetch_transcripts(
+                cache_df=cache_df,
+                race_index=race_index,
+                max_transcripts=max_transcripts,
+                delay_seconds=delay_seconds,
+            )
 
-    # Populated on success
-    clean_text:     Optional[str]   = None
-    snippet_count:  Optional[int]   = None
-    raw_chars:      Optional[int]   = None
-    clean_chars:    Optional[int]   = None
-    duration_mins:  Optional[float] = None
-    preview_start:  Optional[str]   = None
-    preview_end:    Optional[str]   = None
-
-    error_detail:   Optional[str] = None
-
-    @property
-    def success(self) -> bool:
-        return self.status == TranscriptStatus.SUCCESS
-
-    @property
-    def safe_name(self) -> str:
-        """Filesystem-safe version of the label."""
-        import re
-        return re.sub(r"[^a-z0-9]+", "_", self.label.lower()).strip("_")
+    if extract:
+        task_extract(max_extractions=max_extractions)
 
 
 # ---------------------------------------------------------------------------
-# Claude tactical extraction output
+# CLI entry point
 # ---------------------------------------------------------------------------
 
-class TacticalInsight(BaseModel):
-    """
-    A single tactical observation extracted from race commentary
-    by the Claude extractor.
-    """
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="PelotonIQ commentary flow")
+    parser.add_argument("--rebuild-cache",    action="store_true")
+    parser.add_argument("--skip-transcripts", action="store_true")
+    parser.add_argument("--extract",          action="store_true")
+    parser.add_argument("--max-transcripts",  type=int,   default=50)
+    parser.add_argument("--max-extractions",  type=int,   default=3)
+    parser.add_argument("--delay",            type=float, default=45.0)
+    args = parser.parse_args()
 
-    category:    str    # e.g. "attack", "team_tactics", "weather", "crash", "key_moment"
-    description: str
-    riders:      list[str] = Field(default_factory=list)
-    km_to_go:    Optional[float] = None
-
-
-class CommentaryExtraction(BaseModel):
-    """
-    Structured output of Claude's tactical extraction pass
-    over a raw race transcript.
-    Stored as JSON in data/commentary/extracted/<safe_name>.json.
-    """
-
-    label:         str
-    race_name:     str
-    race_date:     str
-    stage:         Optional[int] = None
-    video_id:      Optional[str] = None
-    channel:       Optional[str] = None
-
-    # Claude extraction outputs
-    race_summary:  Optional[str] = None
-    winner:        Optional[str] = None
-    key_insights:  list[TacticalInsight] = Field(default_factory=list)
-    raw_extraction: Optional[str] = None   # full Claude response text
-
-    extraction_model: Optional[str] = None  # Claude model string used
-
-    @property
-    def safe_name(self) -> str:
-        import re
-        return re.sub(r"[^a-z0-9]+", "_", self.label.lower()).strip("_")
-
-    def to_context_text(self) -> str:
-        """
-        Render as a short text block for injection into the agent's
-        commentary_node context.
-        """
-        if not self.race_summary and not self.key_insights:
-            return f"[NO COMMENTARY] No extracted context for {self.label}."
-
-        parts = []
-        if self.race_summary:
-            parts.append(f"Race summary: {self.race_summary}")
-        if self.winner:
-            parts.append(f"Winner: {self.winner}")
-        for ins in self.key_insights[:5]:   # cap at 5 to keep context tight
-            rider_str = f" ({', '.join(ins.riders)})" if ins.riders else ""
-            parts.append(f"[{ins.category}]{rider_str} {ins.description}")
-
-        return "\n".join(parts)
+    commentary_flow(
+        rebuild_cache=args.rebuild_cache,
+        skip_transcripts=args.skip_transcripts,
+        extract=args.extract,
+        max_transcripts=args.max_transcripts,
+        max_extractions=args.max_extractions,
+        delay_seconds=args.delay,
+    )

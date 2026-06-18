@@ -79,6 +79,10 @@ class PelotonIQAgent:
         log.info("Initializing PelotonIQ agent...")
         t0 = time.time()
 
+        # Sync artifacts from S3 if configured
+        from peloton_iq.artifacts import ensure_artifacts
+        ensure_artifacts()
+
         # Data
         log.info("  Loading DataFrames...")
         merged_df = pd.read_csv(MERGED_RACES_PATH, low_memory=False)

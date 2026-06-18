@@ -221,6 +221,7 @@ class Settings(BaseSettings):
             {"id": "UCSpycUnuU0IVF7gGIhGojhg", "name": "Tour de France",      "coverage": "Tour de France official"},
             {"id": "UCe10BxbsFg9Kbmkg-ean_Dg", "name": "Giro d'Italia",       "coverage": "Giro d'Italia official"},
             {"id": "UCf7iHZIcKEhiN34-fETtNCA", "name": "La Vuelta",           "coverage": "Vuelta a España official"},
+            # Additional WorldTour channels
             {"id": "UCm0Qjs5OBrv3-d6kKBshEbg", "name": "Tour Down Under",     "coverage": "Tour Down Under official"},
             {"id": "UCXgba6tOLghtJuXaD8LBHWg", "name": "inCycle",             "coverage": "All WorldTour"},
             {"id": "UCcbBlBEtCZ2lX7bodgi02Xg", "name": "Velon",               "coverage": "All WorldTour"},
@@ -276,6 +277,20 @@ class Settings(BaseSettings):
     log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = Field(
         default="INFO",
         description="Root log level.",
+    )
+
+    # S3 artifact storage
+    s3_bucket: str = Field(
+        default="",
+        description="S3 bucket name (e.g. peloton-iq-artifacts).",
+    )
+    s3_prefix: str = Field(
+        default="artifacts",
+        description="S3 key prefix for artifacts.",
+    )
+    aws_region: str = Field(
+        default="us-east-1",
+        description="AWS region for S3 bucket.",
     )
 
 

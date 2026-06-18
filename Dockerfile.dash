@@ -1,0 +1,20 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY pyproject.toml ./
+COPY README.md ./
+COPY src/ ./src/
+
+RUN pip install --no-cache-dir \
+    dash plotly pandas requests \
+    pydantic-settings rapidfuzz \
+    gunicorn && \
+    pip install -e "." --no-deps
+
+ENV PYTHONPATH=/app/src
+ENV PYTHONUNBUFFERED=1
+
+EXPOSE 8050
+
+CMD ["sh", "-c", "python -m gunicorn peloton_iq.app:server --bind 0.0.0.0:${PORT:-8050} --workers 1 --threads 4 --timeout 120"]

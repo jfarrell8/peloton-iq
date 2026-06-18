@@ -254,7 +254,6 @@ def _build_gpx_chart(gpx_df: pd.DataFrame, label: str) -> go.Figure:
     ))
 
     # Key stats annotation
-    # vg   = max(elev) - min(elev)
     stats = [
         f"↑ {elev.max() - elev.min():,.0f}m",
         f"▲ {elev.max():,.0f}m",
@@ -859,6 +858,9 @@ def _inline_md(text: str) -> list:
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
+
+# Expose Flask server for gunicorn
+server = app.server
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)

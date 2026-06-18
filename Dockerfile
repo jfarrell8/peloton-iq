@@ -9,9 +9,11 @@ WORKDIR /app
 RUN pip install uv --no-cache-dir
 
 COPY pyproject.toml ./
+COPY README.md ./
 COPY src/ ./src/
 
-RUN uv pip install --system --no-cache \
+RUN uv pip install --system --no-cache torch --index-url https://download.pytorch.org/whl/cpu && \
+    uv pip install --system --no-cache \
     fastapi uvicorn[standard] pydantic-settings \
     anthropic \
     qdrant-client \
@@ -20,8 +22,7 @@ RUN uv pip install --system --no-cache \
     langgraph langchain langchain-anthropic \
     xgboost scikit-learn \
     pandas numpy pyarrow \
-    boto3 \
-    gpxpy
+    boto3 gpxpy youtube-transcript-api
 
 # Install the package itself
 RUN uv pip install --system -e "." --no-deps

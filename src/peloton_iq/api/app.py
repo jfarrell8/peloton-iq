@@ -19,6 +19,7 @@ Run:
 from __future__ import annotations
 
 import logging
+import threading
 import time
 from contextlib import asynccontextmanager
 from typing import Optional
@@ -35,22 +36,46 @@ log = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 
 _agent = None
+_agent_ready = threading.Event()
+_agent_error: str | None = None
+
+
+def _initialize_agent_background() -> None:
+    """Initialize agent in background thread so port opens immediately."""
+    global _agent, _agent_error
+    try:
+        log.info("Background agent initialization starting...")
+        from peloton_iq.agent.graph import PelotonIQAgent
+        agent = PelotonIQAgent()
+        agent.initialize()
+        _agent = agent
+        log.info("Background agent initialization complete.")
+    except Exception as e:
+        _agent_error = str(e)
+        log.error("Background agent initialization failed: %s", e)
+    finally:
+        _agent_ready.set()
 
 
 def get_agent():
-    global _agent
+    """Get the agent, waiting for initialization if still in progress."""
+    if not _agent_ready.is_set():
+        log.info("Waiting for agent initialization...")
+        _agent_ready.wait(timeout=300)  # wait up to 5 minutes
+    if _agent_error:
+        raise RuntimeError(f"Agent initialization failed: {_agent_error}")
     if _agent is None:
-        from peloton_iq.agent.graph import PelotonIQAgent
-        _agent = PelotonIQAgent()
-        _agent.initialize()
+        raise RuntimeError("Agent not initialized")
     return _agent
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Agent initializes lazily on first request — keeps startup fast
-    # so Render can detect the open port before timing out
-    log.info("PelotonIQ API starting...")
+    # Start agent initialization in background — port opens immediately
+    # so Render doesn't time out waiting for it
+    log.info("PelotonIQ API starting — initializing agent in background...")
+    thread = threading.Thread(target=_initialize_agent_background, daemon=True)
+    thread.start()
     yield
     log.info("Shutting down.")
 
@@ -214,6 +239,20 @@ async def results(
 @app.get("/api/health", response_model=HealthResponse)
 async def health() -> HealthResponse:
     """Health check — verifies all components are operational."""
+    if not _agent_ready.is_set():
+        return HealthResponse(
+            status="initializing",
+            checks={"agent_ready": False},
+            model="loading",
+            qdrant_ok=False,
+        )
+    if _agent_error:
+        return HealthResponse(
+            status="error",
+            checks={"agent_ready": False, "error": _agent_error},
+            model="error",
+            qdrant_ok=False,
+        )
     agent  = get_agent()
     checks = agent.sanity_check()
     return HealthResponse(

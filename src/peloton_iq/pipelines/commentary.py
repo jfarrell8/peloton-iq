@@ -118,8 +118,8 @@ def task_fetch_transcripts(
     # Raise on IP block so Prefect retries after the delay
     if stats.get("ip_blocked", 0) > 0 and stats.get("success", 0) == 0:
         raise RuntimeError(
-            f"IP blocked after 0 successful fetches — "
-            f"Prefect will retry in 5 minutes"
+            "IP blocked after 0 successful fetches — "
+            "Prefect will retry in 5 minutes"
         )
 
     return stats

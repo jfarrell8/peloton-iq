@@ -231,11 +231,11 @@ uv pip install -e ".[dev]"
 
 ```bash
 # .env in project root
-PELOTON_ANTHROPIC_API_KEY=your_key
-PELOTON_YOUTUBE_API_KEY=your_key
-PELOTON_QDRANT_URL=https://your-cluster.qdrant.io:6333
-PELOTON_QDRANT_API_KEY=your_key
-PELOTON_S3_BUCKET=your-bucket        # optional — for artifact sync
+PELOTON_ANTHROPIC_API_KEY=xxxx
+PELOTON_YOUTUBE_API_KEY=xxxx
+PELOTON_QDRANT_URL=https://{cluster}.qdrant.io:6333
+PELOTON_QDRANT_API_KEY=xxxx
+PELOTON_S3_BUCKET=xxxx       # optional — for artifact sync
 ```
 
 ### 3. Start Qdrant (local dev only)

@@ -25,6 +25,7 @@ import pandas as pd
 
 from peloton_iq.config import RIDER_FEATURES_PATH, MODEL_DF_PATH
 from peloton_iq.schemas import StageType
+from peloton_iq.commentary.form_features import build_sentiment_table
 
 log = logging.getLogger(__name__)
 
@@ -150,6 +151,24 @@ def compute_rider_history(
     log.info("Computing rider features from scratch (~2 hours)...")
     df = df.sort_values("Date").copy()
 
+    # Load commentary sentiment table once — grouped per rider for fast
+    # point-in-time slicing inside the loop below (same pattern as the
+    # main rider_df groupby). Empty/missing gracefully degrades to NaN
+    # features for riders with no commentary coverage.
+    sentiment_df = build_sentiment_table()
+    if not sentiment_df.empty:
+        sentiment_by_rider = {
+            name: grp.sort_values("Date")
+            for name, grp in sentiment_df.groupby("Name")
+        }
+        log.info(
+            "Commentary sentiment loaded: %d observations for %d riders",
+            len(sentiment_df), len(sentiment_by_rider),
+        )
+    else:
+        sentiment_by_rider = {}
+        log.warning("No commentary sentiment data available — lagged sentiment features will be all-NaN")
+
     feature_rows = []
     riders       = df.groupby("Name")
     total        = df["Name"].nunique()
@@ -174,12 +193,29 @@ def compute_rider_history(
             # Finished-only subsets
             past_fin       = past[past["Did_Finish"]]
             past_12mo_fin  = past_12mo[past_12mo["Did_Finish"]]
-            # past_6mo_fin   = past_6mo[past_6mo["Did_Finish"]]
+            _past_6mo_fin  = past_6mo[past_6mo["Did_Finish"]]
             past_5_fin     = past_5[past_5["Did_Finish"]]
 
             # Terrain-specific subsets
             past_terrain      = past_fin[past_fin["stage_type"] == current_stage_type]
             past_terrain_12m  = past_12mo_fin[past_12mo_fin["stage_type"] == current_stage_type]
+
+            # ── Lagged commentary sentiment ──────────────────────────────
+            # CRITICAL: only sentiment observations strictly BEFORE the
+            # current race's date are used — same leakage-safety rule as
+            # every other feature in this function. A race's own commentary
+            # is never used to predict that same race.
+            rider_sentiment = sentiment_by_rider.get(rider)
+            if rider_sentiment is not None:
+                past_sentiment = rider_sentiment[rider_sentiment["Date"] < current_date]
+                past_sentiment_5    = past_sentiment.tail(5)
+                past_sentiment_12mo = past_sentiment[
+                    past_sentiment["Date"] >= current_date - timedelta(days=365)
+                ]
+            else:
+                past_sentiment      = pd.DataFrame(columns=["sentiment_score"])
+                past_sentiment_5    = past_sentiment
+                past_sentiment_12mo = past_sentiment
 
             def _mean(s: pd.Series, min_n: int = 1) -> float | None:
                 return float(s.mean()) if len(s) >= min_n else None
@@ -220,6 +256,10 @@ def compute_rider_history(
                 "career_win_rate":         _rate((past_fin["Rank"] == 1), 5),
                 "career_races":            len(past),
                 "career_avg_rank":         _mean(past_fin["Rank"], 5),
+                # Commentary-derived form (lagged — strictly prior races only)
+                "commentary_form_5":       _mean(past_sentiment_5["sentiment_score"], 2),
+                "commentary_form_12mo":    _mean(past_sentiment_12mo["sentiment_score"], 2),
+                "commentary_obs_count":    len(past_sentiment),
             })
 
     result = pd.DataFrame(feature_rows)

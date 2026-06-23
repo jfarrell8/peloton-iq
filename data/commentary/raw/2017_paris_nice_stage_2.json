@@ -62,14 +62,14 @@
       },
       {
         "video_id": "LQglOfueAaQ",
-        "title": "Résumé - Étape 2 (Rochefort-en-Yvelines / Amilly) - Paris-Nice 2017",
+        "title": "R\u00e9sum\u00e9 - \u00c9tape 2 (Rochefort-en-Yvelines / Amilly) - Paris-Nice 2017",
         "channel": "Tour de France",
         "published": "2017-03-06 16:45:19+00:00",
         "match_score": 135.0
       },
       {
         "video_id": "S2DAOycy3Ks",
-        "title": "The breakaway vs the peloton - Étape 2 - Paris-Nice 2017",
+        "title": "The breakaway vs the peloton - \u00c9tape 2 - Paris-Nice 2017",
         "channel": "Tour de France",
         "published": "2017-03-06 14:49:29+00:00",
         "match_score": 135.0
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:ip_blocked"
 }

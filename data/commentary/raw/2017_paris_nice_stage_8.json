@@ -20,7 +20,7 @@
       },
       {
         "video_id": "dsK-ugOH9bI",
-        "title": "Résumé - Étape 8 (Nice / Nice) - Paris-Nice 2017",
+        "title": "R\u00e9sum\u00e9 - \u00c9tape 8 (Nice / Nice) - Paris-Nice 2017",
         "channel": "Tour de France",
         "published": "2017-03-12 17:02:43+00:00",
         "match_score": 135.0
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:ip_blocked"
 }

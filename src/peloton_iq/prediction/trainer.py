@@ -311,6 +311,7 @@ def train(
     model_df_path: Path | None = None,
     models_dir: Path | None = None,
     n_trials: int = N_TRIALS,
+    feature_cols: list[str] | None = None,
 ) -> dict:
     """
     Full training pipeline.
@@ -323,10 +324,20 @@ def train(
     6. Save best model as tier_predictor.pkl
     7. Save all artifacts and Optuna trial CSVs
 
+    Args:
+        feature_cols: Override the default FEATURE_COLS for this run.
+                      Used for ablation studies (e.g. with/without a new
+                      feature) without touching global settings. Defaults
+                      to settings.model_feature_cols when None.
+
     Returns a summary dict with metrics for all models.
     """
     models_dir = models_dir or MODELS_DIR
     models_dir.mkdir(parents=True, exist_ok=True)
+
+    # Allow per-call override for ablation studies; falls back to the
+    # module-level default (settings.model_feature_cols) otherwise.
+    FEATURE_COLS = feature_cols if feature_cols is not None else globals()["FEATURE_COLS"]
 
     # ------------------------------------------------------------------
     # Load and split

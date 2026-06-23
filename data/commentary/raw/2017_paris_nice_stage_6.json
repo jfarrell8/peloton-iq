@@ -55,7 +55,7 @@
       },
       {
         "video_id": "KlVYG19RDCE",
-        "title": "Résumé - Étape 6 (Aubagne / Fayence) - Paris-Nice 2017",
+        "title": "R\u00e9sum\u00e9 - \u00c9tape 6 (Aubagne / Fayence) - Paris-Nice 2017",
         "channel": "Tour de France",
         "published": "2017-03-10 16:36:02+00:00",
         "match_score": 135.0
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:ip_blocked"
 }

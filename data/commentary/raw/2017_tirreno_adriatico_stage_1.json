@@ -34,7 +34,7 @@
       },
       {
         "video_id": "zX0jV3yN9qs",
-        "title": "Résumé - Étape 1 (Bois-d'Arcy - Bois-d'Arcy) - Paris-Nice 2017",
+        "title": "R\u00e9sum\u00e9 - \u00c9tape 1 (Bois-d'Arcy - Bois-d'Arcy) - Paris-Nice 2017",
         "channel": "Tour de France",
         "published": "2017-03-05 18:17:00+00:00",
         "match_score": 95.29
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:ip_blocked"
 }

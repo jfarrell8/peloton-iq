@@ -85,6 +85,20 @@ def fetch_results(race_name: str, year: int, stage=None, top_n: int = 10) -> dic
         return {"found": False, "results": [], "error": str(e)}
 
 
+def fetch_eval_results() -> dict:
+    """Fetch the saved RAGAS eval results from the FastAPI backend.
+
+    This is a static read of the last `run_ragas_eval.py` run — it does
+    NOT trigger a new eval (that costs real money and takes minutes).
+    """
+    try:
+        r = requests.get(f"{API_BASE}/api/eval", timeout=10)
+        r.raise_for_status()
+        return r.json()
+    except Exception as e:
+        return {"available": False, "error": str(e)}
+
+
 # ---------------------------------------------------------------------------
 # Design tokens
 # ---------------------------------------------------------------------------
@@ -105,6 +119,17 @@ C = {
 
 FONT = "'Inter', 'Segoe UI', -apple-system, sans-serif"
 MONO = "'JetBrains Mono', 'Fira Code', 'Consolas', monospace"
+
+_TAB_STYLE = {
+    "background": "transparent", "border": "none",
+    "borderBottom": "2px solid transparent",
+    "color": C["secondary"], "fontFamily": MONO, "fontSize": "11px",
+    "letterSpacing": "0.1em", "padding": "12px 4px", "marginRight": "24px",
+}
+_TAB_SELECTED_STYLE = {
+    **_TAB_STYLE,
+    "color": C["accent"], "borderBottom": f"2px solid {C['accent']}",
+}
 
 # ---------------------------------------------------------------------------
 # Suggested queries
@@ -438,60 +463,180 @@ def _badge(text: str, color: str = None) -> html.Span:
 
 
 # ---------------------------------------------------------------------------
-# App layout
+# Eval tab — score badge, aggregate row, example row, panel builder
 # ---------------------------------------------------------------------------
 
-app = Dash(__name__, title="PelotonIQ — Race Intelligence",
-           suppress_callback_exceptions=True)
+def _score_badge(label: str, value) -> html.Div:
+    """Render a single metric score as a color-coded badge. None -> dim '—'."""
+    if value is None:
+        text, color = "—", C["border"]
+    else:
+        text = f"{value:.2f}"
+        if value >= 0.85:   color = C["green"]
+        elif value >= 0.6:  color = C["accent"]
+        else:               color = C["red"]
 
-app.layout = html.Div([
+    return html.Div([
+        html.Span(label, style={
+            "fontFamily": MONO, "fontSize": "9px", "letterSpacing": "0.08em",
+            "textTransform": "uppercase", "color": C["secondary"],
+            "display": "block", "marginBottom": "2px",
+        }),
+        html.Span(text, style={
+            "fontFamily": MONO, "fontSize": "15px", "fontWeight": "700",
+            "color": color,
+        }),
+    ], style={"textAlign": "center", "minWidth": "64px"})
 
-    dcc.Store(id="agent-result-store"),
-    dcc.Store(id="prediction-text-store"),
-    dcc.Store(id="race-context-store"),
-    dcc.Store(id="results-store"),
-    dcc.Interval(id="health-interval", interval=15000, n_intervals=0),
 
-    # Header
-    html.Div([
+def _aggregate_row(name: str, agg: dict, highlight: bool = False) -> html.Div:
+    agg = agg or {}
+    n = agg.get("n", 0)
+    return html.Div([
         html.Div([
-            html.Span("PELOTON", style={
-                "fontFamily": "'Barlow Condensed', 'Arial Narrow', sans-serif",
-                "fontWeight": "800", "fontSize": "22px",
-                "letterSpacing": "0.06em", "color": C["text"],
+            html.Span(name, style={
+                "fontFamily": FONT, "fontWeight": "700" if highlight else "600",
+                "fontSize": "13px", "color": C["text"],
             }),
-            html.Span("IQ", style={
-                "fontFamily": "'Barlow Condensed', 'Arial Narrow', sans-serif",
-                "fontWeight": "800", "fontSize": "22px",
-                "letterSpacing": "0.06em", "color": C["accent"],
+            html.Span(f"n={n}", style={
+                "fontFamily": MONO, "fontSize": "10px", "color": C["secondary"],
+                "marginLeft": "8px",
             }),
-            html.Span("RACE INTELLIGENCE", style={
-                "fontFamily": MONO, "fontSize": "9px", "letterSpacing": "0.18em",
-                "color": C["secondary"], "marginLeft": "12px", "verticalAlign": "middle",
-            }),
-        ], style={"display": "flex", "alignItems": "baseline"}),
+        ], style={"width": "180px", "flexShrink": "0"}),
 
         html.Div([
-            html.Span("UCI WorldTour · 2017–2023", style={
-                "fontFamily": MONO, "fontSize": "10px",
-                "color": C["secondary"], "marginRight": "12px",
-            }),
-            html.Div(id="status-indicator", style={
-                "width": "8px", "height": "8px",
-                "borderRadius": "50%", "background": C["border"],
-                "display": "inline-block",
-            }),
-        ], style={"display": "flex", "alignItems": "center"}),
+            _score_badge("Faith.",  agg.get("faithfulness")),
+            _score_badge("Relev.",  agg.get("answer_relevancy")),
+            _score_badge("Prec.",   agg.get("context_precision")),
+            _score_badge("Recall",  agg.get("context_recall")),
+            _score_badge("Routing", agg.get("routing_accuracy")),
+        ], style={"display": "flex", "gap": "18px", "flex": "1"}),
 
     ], style={
-        "background": C["bg"], "borderBottom": f"1px solid {C['border']}",
-        "padding": "0 28px", "height": "52px",
-        "display": "flex", "alignItems": "center", "justifyContent": "space-between",
-        "position": "sticky", "top": "0", "zIndex": "100",
-    }),
+        "display": "flex", "alignItems": "center",
+        "padding": "12px 0",
+        "borderBottom": f"1px solid {C['border']}",
+        "background": "rgba(245,197,24,0.04)" if highlight else "transparent",
+    })
 
-    # Body
-    html.Div([
+
+def _example_row(idx: int, ex: dict) -> html.Div:
+    scores = ex.get("scores", {}) or {}
+    routing_ok = ex.get("routing_correct")
+    type_color = C["green"] if routing_ok else C["red"]
+
+    summary = html.Div([
+        html.Div([
+            html.Div(
+                ex["question"],
+                style={
+                    "fontFamily": FONT, "fontSize": "13px", "color": C["text"],
+                    "marginBottom": "4px",
+                },
+            ),
+            html.Div([
+                _badge(ex["expected_query_type"], C["secondary"]),
+                html.Span("→", style={"color": C["secondary"], "margin": "0 6px", "fontSize": "11px"}),
+                _badge(ex["actual_query_type"], type_color),
+            ]),
+        ], style={"flex": "1"}),
+
+        html.Div([
+            _score_badge("Faith.", scores.get("faithfulness")),
+            _score_badge("Relev.", scores.get("answer_relevancy")),
+            _score_badge("Prec.",  scores.get("context_precision")),
+            _score_badge("Recall", scores.get("context_recall")),
+        ], style={"display": "flex", "gap": "14px", "flexShrink": "0"}),
+
+    ], style={
+        "display": "flex", "alignItems": "center", "gap": "16px",
+        "padding": "14px 16px", "cursor": "pointer",
+    })
+
+    detail_children = [
+        html.Div(_label("Answer")),
+        html.Div(ex.get("answer", ""), style={
+            "fontFamily": FONT, "fontSize": "12.5px", "color": C["secondary"],
+            "lineHeight": "1.7", "whiteSpace": "pre-wrap",
+            "background": C["elevated"], "border": f"1px solid {C['border']}",
+            "borderRadius": "6px", "padding": "12px 14px", "marginBottom": "10px",
+            "maxHeight": "260px", "overflowY": "auto",
+        }),
+    ]
+    if ex.get("ground_truth"):
+        detail_children.append(html.Div(_label("Ground truth")))
+        detail_children.append(html.Div(ex["ground_truth"], style={
+            "fontFamily": FONT, "fontSize": "12.5px", "color": C["secondary"],
+            "fontStyle": "italic", "marginBottom": "10px",
+        }))
+    detail_children.append(html.Div(f"⏱ {ex.get('elapsed_s', 0)}s", style={
+        "fontFamily": MONO, "fontSize": "10px", "color": C["secondary"],
+    }))
+
+    detail = html.Div(
+        detail_children,
+        id={"type": "eval-detail", "index": idx},
+        style={"padding": "0 16px 16px 16px", "display": "none"},
+    )
+
+    return html.Div([
+        html.Div(summary, id={"type": "eval-row-toggle", "index": idx}, n_clicks=0),
+        detail,
+    ], style={"borderBottom": f"1px solid {C['border']}"})
+
+
+def build_eval_panel(data: dict) -> html.Div:
+    if not data or not data.get("available"):
+        msg = (data or {}).get("error", "No eval results available.")
+        return _section_card(
+            html.Div(f"⚠ {msg}", style={"color": C["secondary"], "fontSize": "13px"}),
+        )
+
+    overall  = data.get("overall") or {}
+    by_type  = data.get("by_query_type") or {}
+    examples = data.get("examples") or []
+    run_at   = data.get("run_at", "") or ""
+
+    scorecard = _section_card(
+        html.Div([
+            _label("Eval scorecard"),
+            html.Span(
+                f"Last run: {run_at[:19].replace('T', ' ')} UTC" if run_at else "",
+                style={"fontFamily": MONO, "fontSize": "10px", "color": C["secondary"]},
+            ),
+        ], style={"display": "flex", "justifyContent": "space-between", "marginBottom": "10px"}),
+
+        _aggregate_row("OVERALL", overall, highlight=True),
+        *[_aggregate_row(qt, agg) for qt, agg in sorted(by_type.items())],
+
+        html.Div(
+            "Faithfulness/relevancy/precision/recall are LLM-judged on 0–1 "
+            "(green ≥ 0.85, yellow ≥ 0.6, red below). Routing accuracy is exact-match "
+            "against the expected query_type. \u2014 for context_recall means no ground_truth "
+            "was provided for that example (expected for open-ended queries).",
+            style={
+                "fontFamily": FONT, "fontSize": "11px", "color": C["secondary"],
+                "marginTop": "14px", "lineHeight": "1.6",
+            },
+        ),
+    )
+
+    drilldown = _section_card(
+        _label(f"Individual examples ({len(examples)}) — click to expand"),
+        html.Div([_example_row(i, ex) for i, ex in enumerate(examples)]),
+        style={"padding": "20px 0"},
+    )
+
+    return html.Div([scorecard, drilldown])
+
+
+# ---------------------------------------------------------------------------
+# Query tab content  (unchanged from the original single-page layout —
+# extracted into a function so it can be returned conditionally by tab)
+# ---------------------------------------------------------------------------
+
+def _query_tab_content() -> html.Div:
+    return html.Div([
 
         # Left — query + response
         html.Div([
@@ -578,8 +723,79 @@ app.layout = html.Div([
 
     ], style={
         "display": "flex", "gap": "20px",
-        "padding": "24px 28px", "maxWidth": "1400px",
-        "margin": "0 auto", "alignItems": "flex-start",
+        "alignItems": "flex-start",
+    })
+
+
+# ---------------------------------------------------------------------------
+# App layout
+# ---------------------------------------------------------------------------
+
+app = Dash(__name__, title="PelotonIQ — Race Intelligence",
+           suppress_callback_exceptions=True)
+
+app.layout = html.Div([
+
+    dcc.Store(id="agent-result-store"),
+    dcc.Store(id="prediction-text-store"),
+    dcc.Store(id="race-context-store"),
+    dcc.Store(id="results-store"),
+    dcc.Store(id="eval-data-store"),
+    dcc.Interval(id="health-interval", interval=15000, n_intervals=0),
+
+    # Header
+    html.Div([
+        html.Div([
+            html.Span("PELOTON", style={
+                "fontFamily": "'Barlow Condensed', 'Arial Narrow', sans-serif",
+                "fontWeight": "800", "fontSize": "22px",
+                "letterSpacing": "0.06em", "color": C["text"],
+            }),
+            html.Span("IQ", style={
+                "fontFamily": "'Barlow Condensed', 'Arial Narrow', sans-serif",
+                "fontWeight": "800", "fontSize": "22px",
+                "letterSpacing": "0.06em", "color": C["accent"],
+            }),
+            html.Span("RACE INTELLIGENCE", style={
+                "fontFamily": MONO, "fontSize": "9px", "letterSpacing": "0.18em",
+                "color": C["secondary"], "marginLeft": "12px", "verticalAlign": "middle",
+            }),
+        ], style={"display": "flex", "alignItems": "baseline"}),
+
+        html.Div([
+            html.Span("UCI WorldTour · 2017–2023", style={
+                "fontFamily": MONO, "fontSize": "10px",
+                "color": C["secondary"], "marginRight": "12px",
+            }),
+            html.Div(id="status-indicator", style={
+                "width": "8px", "height": "8px",
+                "borderRadius": "50%", "background": C["border"],
+                "display": "inline-block",
+            }),
+        ], style={"display": "flex", "alignItems": "center"}),
+
+    ], style={
+        "background": C["bg"], "borderBottom": f"1px solid {C['border']}",
+        "padding": "0 28px", "height": "52px",
+        "display": "flex", "alignItems": "center", "justifyContent": "space-between",
+        "position": "sticky", "top": "0", "zIndex": "100",
+    }),
+
+    # Tabs
+    html.Div(
+        dcc.Tabs(id="main-tabs", value="query", children=[
+            dcc.Tab(label="QUERY",      value="query", style=_TAB_STYLE, selected_style=_TAB_SELECTED_STYLE),
+            dcc.Tab(label="EVALUATION", value="eval",  style=_TAB_STYLE, selected_style=_TAB_SELECTED_STYLE),
+        ]),
+        style={
+            "background": C["bg"], "borderBottom": f"1px solid {C['border']}",
+            "padding": "0 28px",
+        },
+    ),
+
+    # Tab content
+    html.Div(id="tab-content", style={
+        "maxWidth": "1400px", "margin": "0 auto", "padding": "24px 28px",
     }),
 
 ], style={"background": C["bg"], "minHeight": "100vh",
@@ -589,6 +805,43 @@ app.layout = html.Div([
 # ---------------------------------------------------------------------------
 # Callbacks
 # ---------------------------------------------------------------------------
+
+@app.callback(
+    Output("tab-content",     "children"),
+    Output("eval-data-store", "data"),
+    Input("main-tabs", "value"),
+    State("eval-data-store", "data"),
+)
+def render_tab(tab, existing_eval_data):
+    if tab == "eval":
+        # Fetch once per session and cache in the store; reuse on revisit.
+        data = existing_eval_data or fetch_eval_results()
+        return build_eval_panel(data), data
+    return _query_tab_content(), existing_eval_data
+
+
+@app.callback(
+    Output({"type": "eval-detail", "index": ALL}, "style"),
+    Input({"type": "eval-row-toggle", "index": ALL}, "n_clicks"),
+    State({"type": "eval-detail", "index": ALL}, "style"),
+    prevent_initial_call=True,
+)
+def toggle_eval_detail(n_clicks_list, current_styles):
+    triggered = ctx.triggered_id
+    if triggered is None:
+        raise PreventUpdate
+    idx = triggered["index"]
+
+    new_styles = []
+    for i, style in enumerate(current_styles):
+        s = dict(style or {})
+        if i == idx:
+            is_hidden = s.get("display", "none") == "none"
+            s["display"] = "block" if is_hidden else "none"
+            s["padding"] = "0 16px 16px 16px"
+        new_styles.append(s)
+    return new_styles
+
 
 @app.callback(
     Output("query-input", "value"),

@@ -46,6 +46,13 @@ COMMENTARY_RAW_DIR      = COMMENTARY_DIR / "raw"
 COMMENTARY_EXTRACTED_DIR = COMMENTARY_DIR / "extracted"
 COMMENTARY_CACHE_DIR    = COMMENTARY_DIR / "cache"
 
+# Evaluation  (RAGAS-equivalent eval results — committed to git, not S3;
+# small, meaningful result history rather than a build artifact, so it
+# follows the same "plain Path, no env override" pattern as everything
+# else here but is NOT added to artifacts.ARTIFACTS / S3 sync)
+EVAL_DIR          = DATA_DIR / "eval"
+EVAL_RESULTS_PATH = EVAL_DIR / "ragas_results.json"
+
 # ML artifacts  (pkl files, Optuna trial CSVs)
 MODELS_DIR = PROJECT_ROOT / "models"
 

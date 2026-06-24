@@ -18,6 +18,7 @@ Run:
 
 from __future__ import annotations
 
+import json
 import logging
 import threading
 import time
@@ -27,6 +28,7 @@ from typing import Optional
 import pandas as pd
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from peloton_iq.config import EVAL_RESULTS_PATH
 from pydantic import BaseModel
 
 log = logging.getLogger(__name__)
@@ -138,6 +140,42 @@ class HealthResponse(BaseModel):
     model:     str
     qdrant_ok: bool
 
+
+class EvalScores(BaseModel):
+    faithfulness:       Optional[float] = None
+    answer_relevancy:   Optional[float] = None
+    context_precision:  Optional[float] = None
+    context_recall:     Optional[float] = None
+
+class EvalExample(BaseModel):
+    question:            str
+    expected_query_type: str
+    actual_query_type:   str
+    routing_correct:     bool
+    answer:               str
+    ground_truth:         Optional[str] = None
+    elapsed_s:            float
+    error:                Optional[str] = None
+    scores:               EvalScores
+ 
+ 
+class EvalAggregateRow(BaseModel):
+    n:                  int
+    faithfulness:        Optional[float] = None
+    answer_relevancy:    Optional[float] = None
+    context_precision:   Optional[float] = None
+    context_recall:      Optional[float] = None
+    routing_accuracy:     Optional[float] = None
+ 
+ 
+class EvalResponse(BaseModel):
+    available:    bool
+    run_at:       Optional[str] = None
+    n_examples:   int = 0
+    overall:      Optional[EvalAggregateRow] = None
+    by_query_type: dict[str, EvalAggregateRow] = {}
+    examples:     list[EvalExample] = []
+    error:        Optional[str] = None
 
 # ---------------------------------------------------------------------------
 # Routes
@@ -271,3 +309,53 @@ async def root():
         "health":  "/api/health",
         "query":   "POST /api/query",
     }
+
+@app.get("/api/eval", response_model=EvalResponse)
+async def eval_results() -> EvalResponse:
+    """
+    Return the most recent RAGAS-equivalent eval run, read from the saved
+    JSON file produced by `python scripts/run_ragas_eval.py`. Does NOT
+    trigger a new eval run — this is a static read so the Dash eval tab
+    loads instantly and costs nothing.
+    """
+    if not EVAL_RESULTS_PATH.exists():
+        return EvalResponse(
+            available=False,
+            error=f"No eval results found at {EVAL_RESULTS_PATH}. "
+                  f"Run `python scripts/run_ragas_eval.py` to generate one.",
+        )
+ 
+    try:
+        with open(EVAL_RESULTS_PATH, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+    except Exception as e:
+        log.error("Failed to read eval results: %s", e)
+        return EvalResponse(available=False, error=f"Failed to read eval results: {e}")
+ 
+    aggregate = raw.get("aggregate", {})
+    examples = [
+        EvalExample(
+            question=r["question"],
+            expected_query_type=r["expected_query_type"],
+            actual_query_type=r["actual_query_type"],
+            routing_correct=r["routing_correct"],
+            answer=r.get("answer", ""),
+            ground_truth=r.get("ground_truth"),
+            elapsed_s=r.get("elapsed_s", 0),
+            error=r.get("error") or None,
+            scores=EvalScores(**r.get("scores", {})),
+        )
+        for r in raw.get("results", [])
+    ]
+ 
+    return EvalResponse(
+        available=True,
+        run_at=raw.get("run_at"),
+        n_examples=raw.get("n_examples", len(examples)),
+        overall=EvalAggregateRow(**aggregate.get("overall", {"n": 0})),
+        by_query_type={
+            qt: EvalAggregateRow(**m)
+            for qt, m in aggregate.get("by_query_type", {}).items()
+        },
+        examples=examples,
+    )

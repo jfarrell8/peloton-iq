@@ -145,6 +145,83 @@ flowchart TD
 
 ---
 
+## Evaluation
+
+Most RAG/agent demos show a few good example outputs and stop there. PelotonIQ
+ships a **custom RAGAS-equivalent evaluation harness** that scores every
+synthesizer response against the exact context the agent actually saw — and
+the eval found three real bugs before this README was written.
+
+### Why a custom implementation instead of the `ragas` library
+
+`ragas==0.4.3`'s own import chain is broken against current `langchain-community`
+(`ModuleNotFoundError: No module named 'langchain_community.chat_models.vertexai'`).
+Pinning an older `langchain-community` to dodge that just trades it for a
+different `langchain-core`/`langchain-openai` incompatibility — confirmed with
+a from-scratch venv, not assumed. Rather than fight upstream dependency
+resolution, the four core RAGAS metrics (faithfulness, answer relevancy,
+context precision, context recall) are implemented directly as LLM-as-judge
+prompts against the same Anthropic client the agent already uses — same
+published methodology (Es et al., 2023), zero added dependency-conflict risk.
+
+### What the harness measures
+
+`evaluation/golden_set.py` defines 18 hand-written examples across all five
+query types. `evaluation/harness.py` runs each through the live `PelotonIQAgent`,
+collects the same context fields `_build_context_prompt()` concatenates for
+the synthesizer (`course_context`, `rider_context`, `prediction_context`,
+`commentary_context`, and `structured_data` for STRUCTURED queries), and scores
+the response with `RagasJudge`. Results are broken out per query type, since
+STRUCTURED queries should score near-perfect faithfulness while PREDICTIVE
+queries are inherently less certain — averaging them together would hide that.
+
+```bash
+python scripts/run_ragas_eval.py                       # full 18-example run
+python scripts/run_ragas_eval.py --query-type PREDICTIVE --limit 2  # smoke test
+```
+
+### What it caught
+
+| Bug found | Root cause | Fix | Impact |
+|---|---|---|---|
+| `faithfulness`/`context_precision` returned `None` for every STRUCTURED example | STRUCTURED queries skip retriever/predictor/commentary entirely — `structured_data` was the only context the synthesizer saw, but the harness's `collect_contexts()` never looked at that field | Added `structured_data` to the collected context set | Metrics went from unmeasurable to scored |
+| Rider lookups (`get_rider_results`) failed silently for Pogačar, Roglič, Van Aert | `merged_df` stores names as `"LASTNAME Firstname"` with accents (`"POGAČAR Tadej"`); queries arrive as `"Tadej Pogačar"` — `.str.contains()` substring matching fails on word order *and* diacritics independently | Token-based name matching: strip accents (`unicodedata.normalize`), tokenize, compare as sets — order- and accent-independent | STRUCTURED faithfulness on rider queries: 0.33–0.75 → 0.67–1.0 |
+| `races_competed` (`Race_results.nunique()`, race-series granularity) vs `wins` (`Race Name`, per-stage granularity) used different units — a rider could show more wins than races competed | Same dataframe, two different granularities compared as if equivalent | Both fields now count `Race Name` (stage-level) consistently; added separate `race_series_count` | Eliminated internally-contradictory data reaching the synthesizer |
+| Router resolved "next year" relative to the real-world date instead of the dataset's 2017–2023 coverage, sending the predictor a year with zero rows | `ROUTER_SYSTEM` had no awareness of dataset date bounds | Added explicit dataset-range instruction to `ROUTER_SYSTEM` | Predictor now degrades gracefully instead of guessing a meaningless year |
+| Synthesizer answered in-scope questions correctly, then voluntarily appended real-but-ungrounded cycling history (e.g. citing Roglič's 2020 Stage 20 loss to Pogačar — accurate, but absent from any retrieved context) | `SYNTHESIZER_SYSTEM` said "answer using only the provided context" but didn't explicitly forbid supplementing with the model's own training knowledge | Tightened system prompt to explicitly disallow outside-knowledge supplementation | Caught directly via faithfulness scoring on a flagged example — partial improvement, one residual case documented as a known limitation |
+
+### Results
+
+18-example golden set, before and after the fixes above:
+
+| | Faithfulness | Answer Relevancy | Context Precision | Context Recall | Routing Accuracy |
+|---|---|---|---|---|---|
+| **Before fixes** | 0.703 | 0.805 | 0.903 | 0.536 | 0.889 |
+| **After fixes**  | **0.885** | 0.805 | 0.847 | 0.595 | 0.889 |
+
+By query type (post-fix):
+
+| Query Type | Faithfulness | Routing Accuracy | Notes |
+|---|---|---|---|
+| STRUCTURED | 0.900 | 1.0 | |
+| SEMANTIC_COURSE | 0.921 | 1.0 | |
+| SEMANTIC_RIDER | 0.944 | 0.333 | High faithfulness when correctly routed, but the router conflates rider-focused queries that mention terrain (e.g. "strong in cobbled classics") with HYBRID — a known router ambiguity, not a data or synthesis issue |
+| PREDICTIVE | 0.817 | 1.0 | Appropriately hedges on out-of-data queries (e.g. "next year's Giro") rather than fabricating a pick — the residual faithfulness gap on this case is the judge penalizing meta-statements about missing data, not a confident fabrication |
+| HYBRID | 0.822 | 1.0 | |
+
+### Known limitations
+
+- **SEMANTIC_RIDER vs. HYBRID routing ambiguity.** The router's HYBRID definition
+  ("requires both terrain context AND rider performance") triggers on any
+  terrain-adjacent word even when the question is fundamentally about a
+  rider. Worth tightening to require a *named* course before classifying HYBRID.
+- **Residual outside-knowledge injection on hedged PREDICTIVE answers.** The
+  synthesizer prompt now explicitly forbids it, but one golden-set example
+  still scores below 1.0 faithfulness for citing real (uncited) cycling
+  history alongside an appropriately uncertain prediction.
+
+---
+
 ## Project Structure
 
 ```

@@ -8,16 +8,63 @@ Each function returns a plain dict consumed by the synthesizer.
 
 All functions operate on the shared DataFrames injected by AgentDeps
 at startup — no file I/O at query time.
+
+NOTE on rider name matching: merged_df stores names as "LASTNAME Firstname"
+(all-caps surname, accented — e.g. "POGAČAR Tadej", "VAN AERT Wout"), while
+router-extracted query names come in as whatever order/case/accent the user
+typed ("Tadej Pogačar", "Primoz Roglic" with no accents at all). A plain
+.str.contains() substring match fails on ALL of: word order, diacritics,
+and case — independently. _normalize_name() strips accents and tokenizes
+both sides so matching is order- and accent-independent.
 """
 
 from __future__ import annotations
 
 import logging
+import unicodedata
 from typing import Optional
 
 import pandas as pd
 
 log = logging.getLogger(__name__)
+
+
+# ---------------------------------------------------------------------------
+# Name normalization helper
+# ---------------------------------------------------------------------------
+
+def _normalize_name(name: str) -> frozenset[str]:
+    """
+    Strip diacritics and tokenize a name into a set of uppercase words,
+    so matching is independent of word order, case, and accents.
+
+    "Tadej Pogačar"   -> frozenset({"TADEJ", "POGACAR"})
+    "POGAČAR Tadej"   -> frozenset({"POGACAR", "TADEJ"})   <- same set
+    "Primoz Roglic"   -> frozenset({"PRIMOZ", "ROGLIC"})
+    "ROGLIČ Primož"   -> frozenset({"ROGLIC", "PRIMOZ"})   <- same set
+    """
+    if not name:
+        return frozenset()
+    decomposed = unicodedata.normalize("NFKD", name)
+    stripped = "".join(c for c in decomposed if not unicodedata.combining(c))
+    return frozenset(stripped.upper().split())
+
+
+def _rider_name_mask(merged_df: pd.DataFrame, rider_name: str) -> pd.Series:
+    """
+    Boolean mask matching rows where every token in `rider_name` appears
+    somewhere in the row's Name field, regardless of order/case/accents.
+
+    Uses subset matching (query tokens ⊆ name tokens) rather than exact
+    set equality, so a partial name like "Pogacar" alone still matches
+    "POGAČAR Tadej" without requiring the first name too.
+    """
+    query_tokens = _normalize_name(rider_name)
+    if not query_tokens:
+        return pd.Series(False, index=merged_df.index)
+
+    name_tokens = merged_df["Name"].apply(_normalize_name)
+    return name_tokens.apply(lambda tokens: query_tokens.issubset(tokens))
 
 
 # ---------------------------------------------------------------------------
@@ -93,24 +140,36 @@ def get_rider_results(
     rider_name: str,
     year: int,
 ) -> dict:
-    """Return a rider's season summary for a given year."""
-    df = merged_df[
-        merged_df["Name"].str.contains(rider_name, na=False, case=False) &
-        (merged_df["Year_results"] == year)
-    ].copy()
+    """
+    Return a rider's season summary for a given year.
+
+    Uses token-based name matching (_rider_name_mask) rather than a plain
+    substring search, since merged_df stores names as "LASTNAME Firstname"
+    with accents (e.g. "POGAČAR Tadej") while queries arrive in arbitrary
+    order/case/accent ("Tadej Pogačar", "Primoz Roglic", etc).
+    """
+    mask = _rider_name_mask(merged_df, rider_name) & (merged_df["Year_results"] == year)
+    df = merged_df[mask].copy()
 
     if df.empty:
         return {"error": f"No results found for {rider_name} in {year}"}
 
     return {
-        "rider":          df["Name"].iloc[0],
-        "team":           df["Team"].iloc[0],
-        "year":           int(year),
-        "races_competed": int(df["Race_results"].nunique()),
-        "wins":           df[df["Rank"] == 1]["Race Name"].tolist(),
-        "podiums":        df[df["Top3"] == 1]["Race Name"].tolist(),
-        "top10s":         int(df["Top10"].sum()),
-        "dnfs":           int((~df["Did_Finish"]).sum()),
+        "rider":             df["Name"].iloc[0],
+        "team":              df["Team"].iloc[0],
+        "year":              int(year),
+        # Stage-level granularity throughout — "races_competed" counts
+        # individual stages/events entered (Race Name), matching the same
+        # unit as wins/podiums/top10s below. Previously this counted
+        # distinct race SERIES (Race_results) while wins counted stage-level
+        # entries, so a rider with 4 stage wins in one Tour de France could
+        # show more wins than races_competed — same data, mismatched units.
+        "races_competed":    int(df["Race Name"].nunique()),
+        "race_series_count": int(df["Race_results"].nunique()),
+        "wins":              df[df["Rank"] == 1]["Race Name"].tolist(),
+        "podiums":           df[df["Top3"] == 1]["Race Name"].tolist(),
+        "top10s":            int(df["Top10"].sum()),
+        "dnfs":              int((~df["Did_Finish"]).sum()),
     }
 
 

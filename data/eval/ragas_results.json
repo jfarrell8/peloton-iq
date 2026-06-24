@@ -1,0 +1,517 @@
+{
+  "run_at": "2026-06-24T02:16:49.385506+00:00",
+  "n_examples": 18,
+  "results": [
+    {
+      "question": "Who won Tour de France Stage 17 in 2023?",
+      "expected_query_type": "STRUCTURED",
+      "actual_query_type": "STRUCTURED",
+      "routing_correct": true,
+      "answer": "Based on the provided context, **Felix Gall** from AG2R Citro\u00ebn Team won Stage 17 of the 2023 Tour de France.",
+      "ground_truth": "Felix Gall of AG2R Citro\u00ebn won Tour de France 2023 Stage 17.",
+      "n_contexts": 1,
+      "context_chars": 122,
+      "steps_taken": [
+        "router",
+        "structured_tool",
+        "synthesizer"
+      ],
+      "elapsed_s": 5.66,
+      "error": "",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8166666666666668,
+        "context_precision": 1.0,
+        "context_recall": 1.0
+      }
+    },
+    {
+      "question": "What were the top 5 finishers of Paris-Roubaix 2022?",
+      "expected_query_type": "STRUCTURED",
+      "actual_query_type": "STRUCTURED",
+      "routing_correct": true,
+      "answer": "Based on the provided data, the top 5 finishers of the 2022 Paris-Roubaix were:\n\n1. **Dylan VAN BAARLE** (INEOS Grenadiers)\n2. **Wout VAN AERT** (Jumbo-Visma)\n3. **Stefan K\u00dcNG** (Groupama - FDJ)\n4. **Tom DEVRIENDT** (Intermarch\u00e9 - Wanty - Gobert Mat\u00e9riaux)\n5. **Matej MOHORI\u010c** (Bahrain - Victorious)",
+      "ground_truth": "Dylan van Baarle (INEOS Grenadiers) won Paris-Roubaix 2022, with Yves Lampaert finishing second.",
+      "n_contexts": 1,
+      "context_chars": 779,
+      "steps_taken": [
+        "router",
+        "structured_tool",
+        "synthesizer"
+      ],
+      "elapsed_s": 5.34,
+      "error": "",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.85,
+        "context_precision": 1.0,
+        "context_recall": 0.6666666666666666
+      }
+    },
+    {
+      "question": "How many races did Wout van Aert finish in 2022?",
+      "expected_query_type": "STRUCTURED",
+      "actual_query_type": "STRUCTURED",
+      "routing_correct": true,
+      "answer": "Based on the provided data, Wout van Aert competed in **40 races** in 2022 and had **0 DNFs** (Did Not Finish).\n\nThis means he finished all 40 races he competed in during 2022.",
+      "ground_truth": null,
+      "n_contexts": 1,
+      "context_chars": 1225,
+      "steps_taken": [
+        "router",
+        "structured_tool",
+        "synthesizer"
+      ],
+      "elapsed_s": 5.86,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "answer_relevancy": 0.5833333333333334,
+        "context_precision": 1.0,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "What was Tadej Poga\u010dar's result at the 2021 Tour de France?",
+      "expected_query_type": "STRUCTURED",
+      "actual_query_type": "STRUCTURED",
+      "routing_correct": true,
+      "answer": "Based on the provided data, Tadej Poga\u010dar achieved the following results at the 2021 Tour de France:\n\n**Stage Wins:** 3 stages\n- Stage 5\n- Stage 17\n- Stage 18\n\n**Podium Finishes:** 4 total\n- Stage 2 (podium finish, not a win)\n- Stage 5 (win)\n- Stage 17 (win)\n- Stage 18 (win)\n\n**Note:** The data does not include information about Poga\u010dar's overall General Classification (GC) result at the 2021 Tour de France. The structured data only captures his individual stage performances (wins and podiums), but does not specify his final overall placement in the race.",
+      "ground_truth": "Tadej Poga\u010dar won the 2021 Tour de France overall.",
+      "n_contexts": 1,
+      "context_chars": 770,
+      "steps_taken": [
+        "router",
+        "structured_tool",
+        "synthesizer"
+      ],
+      "elapsed_s": 7.4,
+      "error": "",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.7333333333333334,
+        "context_precision": 1.0,
+        "context_recall": 0.0
+      }
+    },
+    {
+      "question": "Did Primoz Roglic finish the 2020 Tour de France?",
+      "expected_query_type": "STRUCTURED",
+      "actual_query_type": "STRUCTURED",
+      "routing_correct": true,
+      "answer": "Based on the provided data, **yes, Primo\u017e Rogli\u010d finished the 2020 Tour de France**.\n\nThe evidence supporting this:\n- He achieved 4 podium finishes during the 2020 Tour de France (Stage 4, Stage 9, Stage 15, and Stage 17)\n- He won Stage 4 of the 2020 Tour de France\n- The data shows only 1 DNF (Did Not Finish) across his 45 races competed in 2020\n\nIf Rogli\u010d had not finished the Tour de France, he would not have been able to record podium results in Stage 15 and Stage 17. The single DNF recorded for 2020 must have occurred in a different race, not the Tour de France.",
+      "ground_truth": null,
+      "n_contexts": 1,
+      "context_chars": 970,
+      "steps_taken": [
+        "router",
+        "structured_tool",
+        "synthesizer"
+      ],
+      "elapsed_s": 7.6,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.8333333333333334,
+        "answer_relevancy": 0.9833333333333334,
+        "context_precision": 1.0,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "What are some of the hardest mountain stages in the Tour de France?",
+      "expected_query_type": "SEMANTIC_COURSE",
+      "actual_query_type": "SEMANTIC_COURSE",
+      "routing_correct": true,
+      "answer": "Based on the provided context, here are the hardest mountain stages from the 2021 Tour de France:\n\n**Stage 11** appears to be the most challenging overall:\n- Distance: 199.0 km (longest of the three)\n- Vertical gain: 4710m (highest climbing total)\n- Total descending: 4410m\n- Net elevation change: 300m\n\n**Stage 9** is also extremely difficult:\n- Distance: 144.0 km\n- Vertical gain: 4600m\n- Reaches the highest maximum elevation: 2119m\n- Net elevation change: 1630m (highest summit finish among these stages)\n\n**Stage 17** rounds out these high mountain stages:\n- Distance: 178.0 km\n- Vertical gain: 4330m\n- Reaches maximum elevation of 2209m (highest point of the three)\n\nAll three stages are classified as \"high mountain stages\" with over 4300m of vertical gain each. Stage 11 stands out for combining the longest distance with the most climbing, while Stage 9's high net elevation change suggests a significant summit finish.\n\n**Note:** The context only includes data from three stages of the 2021 Tour de France. There is no information about other editions of the race or other stages that might be equally or more difficult.",
+      "ground_truth": null,
+      "n_contexts": 1,
+      "context_chars": 808,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 11.66,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.9411764705882353,
+        "answer_relevancy": 0.75,
+        "context_precision": 1.0,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Which races feature significant cobblestone sections?",
+      "expected_query_type": "SEMANTIC_COURSE",
+      "actual_query_type": "SEMANTIC_COURSE",
+      "routing_correct": true,
+      "answer": "Based on the provided course profile context, **2023 Paris-Roubaix** features the most significant cobblestone sections with **52.6km of cobblestones**, which the data explicitly notes as \"a significant factor for classic\" racing.\n\n**2023 Amstel Gold Race** contains **1.4km of cobblestones**, which is also described as \"a significant\" factor, though this appears to be a much smaller amount.\n\n**2023 Strade Bianche** has minimal cobblestones with only **0.2km**, which is noted as \"a significant\" (though the notation appears incomplete in the provided text). Given the very small distance, this is unlikely to be as defining a characteristic as in Paris-Roubaix.\n\n**In summary:** Paris-Roubaix is the quintessential cobblestone race with over 50km of pav\u00e9, making it by far the most significant cobblestone challenge among these three races.",
+      "ground_truth": "Paris-Roubaix is the most famous cobblestone race, featuring over 50km of pav\u00e9 sectors.",
+      "n_contexts": 1,
+      "context_chars": 1269,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 8.53,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.8571428571428571,
+        "answer_relevancy": 0.6666666666666666,
+        "context_precision": 1.0,
+        "context_recall": 0.5
+      }
+    },
+    {
+      "question": "Tell me about the course profile of Strade Bianche.",
+      "expected_query_type": "SEMANTIC_COURSE",
+      "actual_query_type": "SEMANTIC_COURSE",
+      "routing_correct": true,
+      "answer": "Based on the provided context, the Strade Bianche course profile from 2018-2020 shows remarkable consistency:\n\n## Key Course Characteristics:\n\n**Distance & Elevation:**\n- Distance: 183.8-184.1 km (slightly shortened from 184.1km in 2018 to 183.8km in 2019-2020)\n- Total climbing: 2,870m of vertical gain\n- Total descending: 2,790m\n- Net elevation change: 80m\n- Elevation range: 139-141m minimum to 459-460m maximum\n\n**Terrain Classification:**\nThe course is classified as \"hilly stage with significant climbing\"\n\n**Surface Breakdown:**\nThe distinctive feature is the mixed surface composition:\n- Asphalt: 110-111km\n- Road: 154km\n- **Unpaved sections: 50.3km** (over a third of the route, as noted in commentary)\n- Compacted gravel: 10.7km\n- Paved road: 11.7-12.5km\n\n**Key Tactical Feature:**\nThe commentary identifies **Monte Santa Maria** as \"the sector which separates the best from the rest,\" followed by three additional short but tough gravel roads before the famous climb to the finish at Piazza del Campo in Siena.\n\nThe gravel roads comprising over one-third of the route are what make the race \"so tough to win or even to finish,\" distinguishing it from typical road races despite its moderate 184km distance.",
+      "ground_truth": "Strade Bianche features unpaved white gravel roads (strade bianche) in Tuscany.",
+      "n_contexts": 2,
+      "context_chars": 4300,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 12.45,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.95,
+        "answer_relevancy": 0.8166666666666668,
+        "context_precision": 1.0,
+        "context_recall": 0.6666666666666666
+      }
+    },
+    {
+      "question": "What kind of terrain does Li\u00e8ge-Bastogne-Li\u00e8ge cover?",
+      "expected_query_type": "SEMANTIC_COURSE",
+      "actual_query_type": "SEMANTIC_COURSE",
+      "routing_correct": true,
+      "answer": "Based on the provided course profiles, Li\u00e8ge-Bastogne-Li\u00e8ge covers the following terrain:\n\n**Elevation Profile:**\n- **Significant climbing**: The races feature 2,440-4,180m of vertical gain depending on the year\n- **Maximum elevation**: 568-573m\n- **Minimum elevation**: 61-94m\n- **Total descending**: 2,790-4,200m\n- **Classification**: Ranges from \"hilly stage with significant climbing\" (2018, 2019) to \"high mountain stage\" (2020)\n\n**Surface Composition:**\nThe race runs primarily on paved surfaces:\n- **Asphalt**: 162-244km\n- **Road**: 102-172km  \n- **Paved road**: 6.5-11.9km\n- **Cobblestones**: 0.2-0.6km (described as \"a significant factor for classics specialists\" in 2020)\n- **Unpaved sections**: 0.9km (2018 only)\n\n**Key Characteristics:**\nThe terrain is predominantly asphalt and paved roads with substantial climbing and descending throughout. The 2020 edition was notably longer (256.4km vs ~171km) and featured significantly more vertical gain (4,180m), qualifying it as a \"high mountain stage\" rather than just hilly. Small cobblestone sections appear in some editions but represent less than 1km of the total distance.",
+      "ground_truth": "Li\u00e8ge-Bastogne-Li\u00e8ge is a hilly Ardennes classic with numerous short, steep climbs.",
+      "n_contexts": 1,
+      "context_chars": 1218,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 11.18,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.9375,
+        "answer_relevancy": 0.9266666666666666,
+        "context_precision": 1.0,
+        "context_recall": 0.3333333333333333
+      }
+    },
+    {
+      "question": "Which riders have been strong in cobbled classics in recent years?",
+      "expected_query_type": "SEMANTIC_RIDER",
+      "actual_query_type": "HYBRID",
+      "routing_correct": false,
+      "answer": "Based on the provided context, I cannot adequately answer which riders have been strong in cobbled classics in recent years.\n\n**What the data shows:**\n\nThe context includes profile information for three races that contain cobblestones:\n- 2023 Strade Bianche (0.2km cobblestones)\n- 2018 Tour de Pologne Stage 1 (0.2km cobblestones)\n- 2023 Classic Brugge-De Panne (0.3km cobblestones)\n\nHowever, the rider performance data provided is extremely limited:\n- **HATZ Christopher (2017)**: 1 race, 0 notable results\n- **BRUN Nils (2023)**: 4 races, finished P112 at Strade Bianche\n- **STRONG Corbin (2022)**: 3 races, all DNFs/DNS or mid-pack results\n\n**What is missing:**\n\nThe context does not include:\n- Results/rankings from the cobbled classics mentioned\n- Performance data from riders who actually excelled in these races\n- Historical results showing podiums, wins, or top-10 finishes in cobbled events\n- A broader sample of riders who compete in classics\n\nTo answer this question properly, the context would need to include riders with strong results (wins, podiums, top-10s) specifically in races featuring cobblestones.",
+      "ground_truth": null,
+      "n_contexts": 2,
+      "context_chars": 1994,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 10.52,
+      "error": "",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9,
+        "context_precision": 0.5,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Tell me about Remco Evenepoel's results across different terrains.",
+      "expected_query_type": "SEMANTIC_RIDER",
+      "actual_query_type": "HYBRID",
+      "routing_correct": false,
+      "answer": "Based on the provided context, here's what the data shows about Remco Evenepoel's results across different terrains:\n\n## 2019 Season\n- **Hilly/Mountain Stages**: Stage 5 of Presidential Cycling Tour of Turkey (P4) and Stage 5 of Tour de Romandie (P15)\n- **Other terrain**: UAE Tour Stage 3 (P15)\n- Overall: 0 wins, 0 podiums, 1 top-10 finish\n\n## 2020 Season\n- **Won** Tour de Pologne Stage 4\n- Other Tour de Pologne results: Stage 1 (P21), Stage 3 (P23), Stage 5 (P76)\n- Overall: 1 win, 1 podium, 1 top-10 finish\n\n## 2021 Season\n- **Giro d'Italia performance** (best result P4):\n  - Stage 6 (P4)\n  - Stage 9 (P4)\n  - Stage 1 (P7)\n- Overall: 0 wins, 0 podiums, 3 top-10 finishes\n\n## Limitations of Available Data\n\nThe context does **not provide**:\n- Specific terrain profiles for most stages mentioned (flat, mountain, time trial, etc.)\n- Results on cobblestones specifically\n- Time trial performances\n- Sprint stage results\n- Complete race results beyond the stages listed\n\nThe course profiles shown (2019 and 2021 Tirreno-Adriatico stages) contain varied surfaces including cobblestones, but **no corresponding performance data** from Evenepoel on these specific stages is provided, so I cannot analyze his results on those terrains.",
+      "ground_truth": null,
+      "n_contexts": 2,
+      "context_chars": 2230,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 10.8,
+      "error": "",
+      "scores": {
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9166666666666666,
+        "context_precision": 0.5,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Who are some strong time-trial specialists in the dataset?",
+      "expected_query_type": "SEMANTIC_RIDER",
+      "actual_query_type": "SEMANTIC_RIDER",
+      "routing_correct": true,
+      "answer": "Based on the provided context, I cannot identify strong time-trial specialists. The data includes only three rider-seasons:\n\n1. **MERLIER Tim (2017)**: Shows sprint-oriented results with a stage podium (P3) at BinckBank Tour Stage 4, but no time-trial specific information\n2. **STRONG Corbin (2022)**: Limited results with 2 DNFs/DNS and mid-pack stage finishes (P44, P50, P68) - no time-trial indicators\n3. **STOKBRO Andreas (2020)**: Only 1 DNF/DNS recorded - no performance data available\n\nThe context does not include:\n- Individual time-trial results or rankings\n- Time-trial stage classifications\n- Rider specialization indicators\n- Performance data in time-trial disciplines\n\nTo identify time-trial specialists, the dataset would need to contain specific time-trial race results, ITT stage performances, or explicit rider discipline classifications, none of which are present in the provided information.",
+      "ground_truth": null,
+      "n_contexts": 1,
+      "context_chars": 764,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 9.23,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.8333333333333334,
+        "answer_relevancy": 0.8833333333333333,
+        "context_precision": 1.0,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Give me a pre-race briefing for Tour de France 2023 Stage 17.",
+      "expected_query_type": "PREDICTIVE",
+      "actual_query_type": "PREDICTIVE",
+      "routing_correct": true,
+      "answer": "# Pre-Race Briefing: Tour de France 2023 Stage 17\n\n## Course Profile\n- **Distance:** 165.8 km\n- **Terrain Classification:** High mountain stage\n- **Vertical Gain:** 5,570m (extreme climbing load)\n- **Elevation Range:** 485m (minimum) to 2,299m (maximum)\n- **Net Elevation:** +1,000m\n- **Total Descending:** 4,570m\n- **Surface:** Predominantly asphalt (164.0km) with road sections (123.0km) and minimal paved segments (1.2km)\n\n## ML Model Predictions (XGBoost)\n\n**GC Contenders:**\n1. **VINGEGAARD Jonas** (Jumbo-Visma): 7.0% win / 22.9% podium / likely top-10\n2. **POGA\u010cAR Tadej** (UAE Team Emirates): 5.3% win / 17.8% podium / likely top-10\n3. **YATES Adam** (UAE Team Emirates): 2.8% win / 17.3% podium / likely top-10\n\n**Stage Hunter Threats:**\n4. **PIDCOCK Thomas** (INEOS Grenadiers): 5.9% win / 12.7% podium\n5. **PINOT Thibaut** (Groupama-FDJ): 3.9% win / 14.7% podium / likely top-10\n6. **GALL Felix** (AG2R Citro\u00ebn): 3.7% win / 7.5% podium / likely top-10\n\n## Key Tactical Factors\n\n### Vingegaard's Advantage\n- Attacks in **final 4-8km** on steep gradients (8-14%), using sustained team tempo to deplete rivals before single acceleration\n- Model underestimates his **time trial dominance** (won by 1:38-2:00 margins when peaked)\n- **Vulnerability:** Ultra-steep pitches (14%+) and explosive accelerations under 1.5km\n\n### Poga\u010dar's Dilemma\n- Prefers **long-range attacks 15-45km out** on penultimate climbs or descents\n- **Critical weakness:** Cannot distance Vingegaard in final kilometers despite repeated 2022-2023 attempts\n- **Form concern:** 2023 Tour shows \"unprecedented vulnerability\" - lost yellow early, required Yates assistance\n- **Injury factor:** Wrist fracture from earlier crash may compromise descending confidence on 4,570m of descending\n\n### Breakaway Opportunities\n\n**GALL Felix** (Form: positive - won Tour de Suisse stage, took yellow)\n- Breakaway specialist who attacks from reduced groups on **final climb only**\n- Requires **teammate coordination** (AG2R setup critical)\n- **Severe TT liability** (lost 46sec in 8-min gap) means GC irrelevant, pure stage hunting\n\n**PINOT Thibaut** (Form: neutral - climbing resurgence but inconsistent)\n- Attacks with **1-6km remaining** on final/penultimate climbs\n- **KOM jersey hunting** likely given lack of GC commitment in 2023\n- **Major risk:** Catastrophic positioning failures in technical situations; final 200m sprint weakness\n\n## Race Scenarios\n\n**Scenario 1 - GC Battle (Model favors this):**\nJumbo-Visma tempo on final climb \u2192 Vingegaard attack at 4-8km \u2192 Poga\u010dar attempts counter but fails to distance \u2192 Vingegaard extends GC lead\n\n**Scenario 2 - Breakaway Success (Model assigns 3.7-5.9% win probability to hunters):**\nEarly break including Gall/Pinot \u2192 AG2R/Groupama teammate setups on final climb \u2192 Stage win from reduced group while GC riders mark each other\n\n## Critical Unknowns\n\n**Data does NOT cover:**\n- Specific climb locations/gradients within the 5,570m total\n- Current GC time gaps entering Stage 17\n- Weather conditions affecting 2,299m maximum elevation\n- Poga\u010dar's wrist injury severity/recovery status\n- Vingegaard's team strength after 2+ weeks of racing\n\nThe 5,570m vertical gain represents extreme climbing load that could amplify Poga\u010dar's documented \"third-week Grand Tour collapse when facing sustained rival pressure.\"",
+      "ground_truth": "The stage favors strong climbers. Based on recent form and historical performance on similar terrain, top GC contenders and breakaway specialists are realistic contenders.",
+      "n_contexts": 4,
+      "context_chars": 8422,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 31.69,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.9523809523809523,
+        "answer_relevancy": 0.8166666666666668,
+        "context_precision": 0.75,
+        "context_recall": 1.0
+      }
+    },
+    {
+      "question": "Who is likely to win a mountain stage in next year's Giro d'Italia?",
+      "expected_query_type": "PREDICTIVE",
+      "actual_query_type": "PREDICTIVE",
+      "routing_correct": true,
+      "answer": "Based on the provided context, **I cannot make a specific prediction about who is likely to win a mountain stage in next year's Giro d'Italia.**\n\nHere's what the data shows:\n\n**ML Model Predictions:** \n- The model states \"No rider data found for Giro d'Italia 2024\" - indicating no predictions are available for the relevant timeframe.\n\n**Rider Performance Data:**\nThe context only includes performance data from 2018 and 2023 for three riders:\n- **Sam Bennett (2018)**: A sprinter with 6 wins in 2018, all on flat stages (Stages 7, 12, 21 of Giro, Turkey stages)\n- **Rodolfo Andr\u00e9s Torres (2018)**: Best Giro result was P37 on Stage 14\n- **Alessandro Iacchi (2023)**: Best Giro result was P28\n\nNone of these riders' profiles suggest they are mountain stage winners, and the data is 1-6 years old with no current season information.\n\n**What's Missing:**\n- Performance data for current climbing specialists\n- 2024 or recent season results\n- Any rider predictions from the ML model\n- Information about who is participating in the upcoming Giro\n\nThe provided context does not contain sufficient data to identify likely mountain stage winners for the next Giro d'Italia.",
+      "ground_truth": null,
+      "n_contexts": 2,
+      "context_chars": 1883,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 10.23,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.6666666666666666,
+        "answer_relevancy": 0.9666666666666667,
+        "context_precision": 0.5,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "What's Jonas Vingegaard's win probability for a hilly classic?",
+      "expected_query_type": "PREDICTIVE",
+      "actual_query_type": "PREDICTIVE",
+      "routing_correct": true,
+      "answer": "Based on the provided context, I cannot provide a specific win probability for Jonas Vingegaard in a hilly classic.\n\n**Why no prediction is available:**\nThe ML model explicitly states: \"Query does not reference a specific race. Predictions require a named race and year.\"\n\n**What the data shows about Vingegaard's hilly classic performance:**\n\nThe context provides **no race results** from Vingegaard competing in the Bretagne Classic - Ouest-France (the hilly classic shown in the course profiles) or any other one-day classics during 2019-2021.\n\n**Vingegaard's 2019-2021 performance profile:**\n- **2019**: 1 stage win (Tour de Pologne Stage 6), 1 podium, 1 top-10\n- **2020**: 0 wins, 0 podiums, 1 top-10 (mostly stage race results)\n- **2021**: 1 stage win (UAE Tour Stage 5), 6 podiums, 11 top-10s, including P2 finishes at Tour de France stages and Crit\u00e9rium du Dauphin\u00e9\n\n**Data gaps:**\n- No historical results from Vingegaard in one-day classics\n- No race-specific prediction for any hilly classic\n- All documented results are from stage races (Tour de Pologne, Vuelta, Tour de France, UAE Tour, etc.)\n\nTo obtain a win probability, you would need to query a specific hilly classic race by name and year (e.g., \"2021 Bretagne Classic - Ouest-France\").",
+      "ground_truth": null,
+      "n_contexts": 2,
+      "context_chars": 2127,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 10.45,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.8333333333333334,
+        "answer_relevancy": 0.9666666666666667,
+        "context_precision": 1.0,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Compare Tadej Poga\u010dar's recent Tour de France results to his likely performance on a mountain stage.",
+      "expected_query_type": "HYBRID",
+      "actual_query_type": "HYBRID",
+      "routing_correct": true,
+      "answer": "# Poga\u010dar's Recent Tour de France Results vs. Mountain Stage Capability\n\n## Recent Tour de France Performance (from context)\n\n**2023 Tour de France** showed unprecedented vulnerability:\n- Lost the yellow jersey early in the race\n- Could not distance Vingegaard despite repeated attacks\n- Suffered a **6-minute collapse** after a crash\n- Required teammate Yates' assistance\n- Resorted to stage hunting from 7+ minutes down in GC\n- Also sustained a wrist fracture at Liege that disrupted his 2023 campaign\n\n**2020-2021 Tours** were dominant:\n- **2020**: Won 3 stages (Stage 9, 15, 20) including mountain stages\n- **2021**: Won 2 stages (Stage 5, 17)\n- Multiple podium finishes across both years\n\n## Mountain Stage Capability (from tactical profile)\n\nPoga\u010dar's established mountain attack pattern:\n- Launches sustained solo attacks **15-45km from finish** on penultimate climbs\n- Uses repeated accelerations rather than single explosive moves\n- Increasingly attacks final **1.5-3km on steep gradients (14-20%)** for sprint finishes\n- Builds gaps through sustained power on technical descents\n\n## Critical Gap: Vulnerability to Sustained Pressure\n\nThe context reveals a specific weakness:\n- **\"Unable to distance Vingegaard in final kilometers despite repeated 2022-2023 attacks\"**\n- Third-week Grand Tour collapses when facing sustained rival pressure\n- Wrist injuries from crashes compromise descending confidence\n\n## Prediction Implications\n\nThe ML model predicts Poga\u010dar with **15.8% win probability** and **28.0% podium+** for hilly Tour stages in 2023, ranking him #1. However, this appears optimistic given:\n\n1. The 2023 form assessment is explicitly **\"negative\"**\n2. His proven mountain capability exists but requires lack of sustained rival pressure\n3. Wrist injury effects on descending (a key attack tool) are unquantified\n\n**What the data doesn't cover**: The context provides no commentary for the actual 2023 Tour mountain stages listed (Stage 9, Stage 15), so specific outcomes on those high mountain stages are unknown.",
+      "ground_truth": null,
+      "n_contexts": 4,
+      "context_chars": 8851,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 21.84,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.9047619047619048,
+        "answer_relevancy": 0.5833333333333334,
+        "context_precision": 0.5,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Given how Wout van Aert performed in Paris-Roubaix in past years, how do you think he'll do at the next one?",
+      "expected_query_type": "HYBRID",
+      "actual_query_type": "HYBRID",
+      "routing_correct": true,
+      "answer": "Based on the provided context, here's what the data shows about Wout van Aert's Paris-Roubaix performance:\n\n## Past Paris-Roubaix Results:\n- **2022 Paris-Roubaix: P2 (2nd place)** - This is his only documented Paris-Roubaix result in the context provided.\n\n## Supporting Performance Indicators:\nVan Aert's 2022 season shows strong form in similar classics:\n- Won the **2022 E3 Saxo Bank Classic** (a cobbled classic)\n- Achieved **8 wins, 21 podiums** across the 2022 season\n- Demonstrated consistency with **23 top-10 finishes** and 0 DNFs/DNS\n\n## What the Data Does NOT Tell Us:\n- No Paris-Roubaix results from 2017, 2021, or 2023 are provided\n- No ML model prediction is available (the context explicitly states \"No rider data found for Paris-Roubaix 2024\")\n- No race commentary or additional context for future editions\n\n## Assessment:\nBased solely on the single documented result (2nd place in 2022) and his strong 2022 classics season including a win at E3 Saxo Bank Classic, van Aert demonstrated he can compete at the highest level in cobbled races. However, with only one Paris-Roubaix result provided and no predictive model output, the data is insufficient to make a specific prediction about his next performance.",
+      "ground_truth": null,
+      "n_contexts": 2,
+      "context_chars": 1914,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 11.01,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.7272727272727273,
+        "answer_relevancy": 0.6166666666666667,
+        "context_precision": 0.5,
+        "context_recall": null
+      }
+    },
+    {
+      "question": "Looking at the course profile of Strade Bianche and Tadej Poga\u010dar's past results there, who would you favor this year?",
+      "expected_query_type": "HYBRID",
+      "actual_query_type": "HYBRID",
+      "routing_correct": true,
+      "answer": "Based on the provided context, **Tadej Poga\u010dar would be strongly favored** for Strade Bianche, though I must note the context only covers races through 2022-2023 seasons, not \"this year\" specifically.\n\n## Supporting Evidence:\n\n**Poga\u010dar's Strade Bianche Record:**\n- **Won 2022 Strade Bianche** (listed in his 2022 season wins)\n\n**Course Suitability:**\nThe Strade Bianche profile shows:\n- 2870m of vertical gain over 183.8km\n- Classified as \"hilly stage with significant climbing\"\n- 50.3km of unpaved sections (gravel sectors)\n\n**Poga\u010dar's Form on Similar Terrain:**\nHis 2022 season demonstrates excellence on hilly courses with climbing:\n- Won multiple hilly stages (UAE Tour Stage 4, 7; Tirreno-Adriatico Stage 4, 6)\n- 9 wins from 9 races that season\n- 13 podiums, 22 top-10 finishes with 0 DNFs\n\nHis 2023 season shows continued dominance:\n- Won Paris-Nice stages and Ronde van Vlaanderen\n- Won Amstel Gold Race (hilly classic)\n- 9 wins, 14 podiums from 7 races\n\n## Important Limitations:\n- The context provides **no prediction data** for 2024 Strade Bianche\n- No commentary or current form information available\n- Context doesn't include other riders' performance data for comparison\n- Current season fitness, injuries, or competition strength cannot be assessed from this data\n\nThe data supports favoring Poga\u010dar based solely on his proven winning record at this specific race and consistent excellence on similar hilly terrain.",
+      "ground_truth": null,
+      "n_contexts": 2,
+      "context_chars": 2470,
+      "steps_taken": [
+        "router",
+        "retriever",
+        "predictor",
+        "commentary",
+        "synthesizer"
+      ],
+      "elapsed_s": 13.5,
+      "error": "",
+      "scores": {
+        "faithfulness": 0.8333333333333334,
+        "answer_relevancy": 0.7166666666666667,
+        "context_precision": 1.0,
+        "context_recall": null
+      }
+    }
+  ],
+  "aggregate": {
+    "overall": {
+      "n": 18,
+      "faithfulness": 0.885,
+      "faithfulness_n": 18,
+      "answer_relevancy": 0.805,
+      "answer_relevancy_n": 18,
+      "context_precision": 0.847,
+      "context_precision_n": 18,
+      "context_recall": 0.595,
+      "context_recall_n": 7,
+      "routing_accuracy": 0.889
+    },
+    "by_query_type": {
+      "HYBRID": {
+        "n": 3,
+        "faithfulness": 0.822,
+        "faithfulness_n": 3,
+        "answer_relevancy": 0.639,
+        "answer_relevancy_n": 3,
+        "context_precision": 0.667,
+        "context_precision_n": 3,
+        "context_recall": null,
+        "context_recall_n": 0,
+        "routing_accuracy": 1.0
+      },
+      "PREDICTIVE": {
+        "n": 3,
+        "faithfulness": 0.817,
+        "faithfulness_n": 3,
+        "answer_relevancy": 0.917,
+        "answer_relevancy_n": 3,
+        "context_precision": 0.75,
+        "context_precision_n": 3,
+        "context_recall": 1.0,
+        "context_recall_n": 1,
+        "routing_accuracy": 1.0
+      },
+      "SEMANTIC_COURSE": {
+        "n": 4,
+        "faithfulness": 0.921,
+        "faithfulness_n": 4,
+        "answer_relevancy": 0.79,
+        "answer_relevancy_n": 4,
+        "context_precision": 1.0,
+        "context_precision_n": 4,
+        "context_recall": 0.5,
+        "context_recall_n": 3,
+        "routing_accuracy": 1.0
+      },
+      "SEMANTIC_RIDER": {
+        "n": 3,
+        "faithfulness": 0.944,
+        "faithfulness_n": 3,
+        "answer_relevancy": 0.9,
+        "answer_relevancy_n": 3,
+        "context_precision": 0.667,
+        "context_precision_n": 3,
+        "context_recall": null,
+        "context_recall_n": 0,
+        "routing_accuracy": 0.333
+      },
+      "STRUCTURED": {
+        "n": 5,
+        "faithfulness": 0.9,
+        "faithfulness_n": 5,
+        "answer_relevancy": 0.793,
+        "answer_relevancy_n": 5,
+        "context_precision": 1.0,
+        "context_precision_n": 5,
+        "context_recall": 0.556,
+        "context_recall_n": 3,
+        "routing_accuracy": 1.0
+      }
+    }
+  }
+}

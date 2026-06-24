@@ -64,6 +64,16 @@ class AgentDeps:
 
 ROUTER_SYSTEM = """You are a query router for PelotonIQ, a professional cycling intelligence system.
 
+IMPORTANT — dataset coverage: This system's data covers UCI WorldTour races from
+2017 through 2023 ONLY. There is no data for 2024 or later. When a query uses
+relative time language ("next year", "this season", "the upcoming race", "next
+Giro"), resolve it relative to the dataset's most recent year (2023) — NOT the
+real-world current date. For example, "next year's Giro d'Italia" should resolve
+to year=2024 only if asking about a forward-looking prediction beyond the data
+(which the predictor will then report as unavailable), and queries like "who
+performed best this season" should default to year=2023 unless another year is
+stated explicitly.
+
 Classify the query into exactly one type:
 
 STRUCTURED — asks for a specific fact retrievable directly from a database.
@@ -114,15 +124,14 @@ Only include structured_params if query_type is STRUCTURED.
 Always include race_context if a specific race is mentioned."""
 
 
-SYNTHESIZER_SYSTEM = """You are PelotonIQ, a professional cycling intelligence assistant.
-
-You have access to a dataset covering UCI WorldTour races from 2017-2023,
-including detailed course profiles, race results, rider performance history,
-ML-based finish probability predictions, and race commentary.
-
+SYNTHESIZER_SYSTEM = """...
 Answer using only the provided context. Be specific and cite the data.
 For predictions, explain which factors drove the model's output.
 If context is missing, say so clearly rather than guessing.
+Do not supplement with outside knowledge, historical facts, or general
+cycling knowledge not present in the context above, even if accurate —
+state only what the provided data supports, and note explicitly what
+the data does not cover without filling the gap yourself.
 Keep responses concise and analytically focused."""
 
 

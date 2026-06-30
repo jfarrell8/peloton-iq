@@ -1,0 +1,26 @@
+{
+  "label": "2021 Benelux Tour Stage 5",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-03",
+  "stage": 5,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won stage 5 sprint after Quickstep executed left-side leadout while Merlier/De Buyst on right created split peloton",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep split leadout left versus Merlier right indicates deliberate two-side sprint strategy forcing positioning errors.",
+      "Schelling took golden kilometer sprint over Arts despite GC irrelevance, revealing Bora's willingness to burn matches pre-sprint.",
+      "Lotto controlled all day for Ewan yet lost indicates Quickstep's late positioning superior to sustained tempo control."
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "negative: experienced gearing problem and headbutted De Buyst in frustration, suggesting mechanical fragility under pressure",
+      "EWAN Caleb": "negative: won two prior stages but lost with full Lotto train support reveals vulnerability when leadout compromised",
+      "CAVENDISH Mark": "positive: 151st win despite being secondary option shows peak form and ability to capitalize when positioned correctly",
+      "SCHELLING Ide": "positive: took golden kilometer over Arts to move fifth GC demonstrates opportunistic GC awareness by non-contender",
+      "EVENEPOEL Remco": "positive: won overall returning from Lombardia crash indicates full recovery and time trial dominance remains intact"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:33:42.874172+00:00"
+}

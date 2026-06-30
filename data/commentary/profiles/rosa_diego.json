@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Participates in early solo or small group breaks, typically more for team tactical purposes than personal victory. Not an explosive attacker on climbs alone.",
+  "team_tactics": "Deployed as high-value domestique for pacemaking and controlling breakaways. Willing to sacrifice personal result to weaken rival teams through tempo work.",
+  "terrain_preference": "Stage race mountain stages where sustained tempo matters more than explosive power. Exposed on gravel/technical courses requiring specialized positioning skills beyond pure climbing.",
+  "vulnerability": "Lacks gravel-specific positioning and technical handling skills. Pure climbing strength insufficient when terrain demands tactical placement before key sectors. Gets caught in breakaways on specialist courses.",
+  "key_patterns": [
+    "Used in solo breakaways for peloton calibration and time management (2 instances)",
+    "Sacrificial domestique role: pacemaking to deplete rival teams even when dropped himself (2 instances)",
+    "Caught before critical course features when positioning skills required beyond climbing (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2022 shows continued use in tactical breakaway role, suggesting consistent domestique value but no evolution toward protected status",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ROSA Diego",
+  "built_from": [
+    "2017 Giro d'Italia Stage 14",
+    "2019 Strade Bianche",
+    "2022 Giro d'Italia Stage 6"
+  ]
+}

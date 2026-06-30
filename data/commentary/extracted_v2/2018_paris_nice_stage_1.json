@@ -1,0 +1,25 @@
+{
+  "label": "2018 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-04",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DÉMARE Arnaud won Paris-Nice Stage 1 by attacking 300m from the line on wet cobbles after breakaway caught at 14km to go",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DÉMARE attacked at 300m not 200m on uphill cobbled finish, exploiting wet conditions for surprise move against hesitant punchers.",
+      "Late crash at 14km involving 10 riders eliminated GC contenders like DE SOUZA, opening door for opportunistic stage hunters.",
+      "IZAGUIRRE resisted DÉMARE's 300m attack and nearly caught him, showing pure climbers can challenge on short cobbled uphill finishes."
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: Won uphill cobbled finish despite being labeled pure sprinter, reveals adaptability beyond flat bunch kicks",
+      "LUTSENKO Alexey": "negative: Attacked solo in final kilometer on wet cobbles but faded badly, poor tactical judgment for terrain",
+      "VAN GARDEREN Tejay": "negative: Abandoned after only 100km on opening stage, signals major form or health concerns pre-race",
+      "ALAPHILIPPE Julian": "neutral: Hyped as stage favorite for 'customized' profile but invisible in finale, possibly marking for later stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:24:43.946311+00:00"
+}

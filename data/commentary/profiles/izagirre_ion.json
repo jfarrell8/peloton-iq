@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Counterattacks from breakaways with 10-15km remaining, particularly on final climbs. Waits for others to commit before launching winning move on uphill finishes.",
+  "team_tactics": "Benefits significantly from family/team cooperation—brother Gorka's positioning in 2020 Vuelta exemplifies tactical coordination. Performs best when protected rather than working as domestique, as shown at Paris-Nice podium.",
+  "terrain_preference": "Final climbs from breakaways where climbing superiority over specialists decides the outcome. Descents into technical finishes (Nice descent counterattack). Vulnerable in bunch sprints from small groups despite having competitive speed.",
+  "vulnerability": "Hesitates to initiate sprints from small groups despite possessing speed—froze in Tour de France 8-rider sprint. Positioning lapses in crosswind stages (2017 crash). Needs others to chase before counterattacking.",
+  "key_patterns": [
+    "Counterattacks from breakaways at 10-15km to go, not initial aggressor (2019, 2020 Vuelta wins)",
+    "Superior climbing from breakaway groups allows late separation from specialists (2020 Vuelta, 2019 Paris-Nice)",
+    "GC podium capable when protected by team, not as sole leader (3rd Paris-Nice 2021, 2018)",
+    "Sprint hesitation from small groups despite speed—waits too long to commit (2018 TDF)",
+    "Benefits from brother/teammate positioning creating tactical advantages (2020 Vuelta stage win setup)"
+  ],
+  "form_trajectory": "positive: 2021 Paris-Nice podium shows continued GC capability when protected, building on stage wins in 2019-2020",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "IZAGIRRE Ion",
+  "built_from": [
+    "2017 Paris-Nice Stage 1",
+    "2018 Paris-Nice Stage 7",
+    "2018 Tour de France Stage 15",
+    "2018 Tour de France Stage 15",
+    "2019 Paris-Nice Stage 8",
+    "2019 Paris-Nice Stage 8",
+    "2019 Paris-Nice Stage 8",
+    "2020 Vuelta a Espana Stage 6",
+    "2020 Vuelta a Espana Stage 6",
+    "2021 Paris-Nice Stage 8"
+  ]
+}

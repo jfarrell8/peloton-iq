@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour de Pologne Stage 6",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-03",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARICHKA Yakub won stage 6 sprint, his fourth consecutive stage victory, maintaining orange jersey despite teammate CARTIER crashing in final 600m.",
+    "winner": "MARICHKA Yakub",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MARICHKA Yakub consistently positioned 3rd-7th wheel with 600m remaining, trusting teammates to deliver rather than leading sprint train early.",
+      "Team Beltrami-Triestina maintained sprint leadout dominance despite late-stage attrition from CARTIER crash inside final 600m.",
+      "MORINI Nicolas attacked MARICHKA's inside line in finale but faded quickly, revealing sprinters need outside positioning to sustain speed."
+    ],
+    "rider_signals": {
+      "MARICHKA Yakub": "positive: fourth consecutive stage win demonstrates sprint dominance, but acknowledges uncertainty about defending orange jersey on mountainous final stage",
+      "MORINI Nicolas": "neutral: strong positioning in finale and consistently placing on podium, but lacks final 50m acceleration to challenge MARICHKA",
+      "CARTIER Hugo": "negative: crashed inside final 600m while leading breakaway domination efforts, compromising team sprint support",
+      "MUSICIAN Anton": "positive: moved into fourth in points classification through consistent top-5 placings across stages 5-6"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:12:53.875169+00:00"
+}

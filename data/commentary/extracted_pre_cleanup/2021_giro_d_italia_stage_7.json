@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-14",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won the sprint after sprint teams shut down a three-rider break with 15km remaining, beating CIMOLAI and MERLIER on the uphill finish.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PELLAUD took maximum KOM points from break despite inferior GC position, revealing aggressive small-team jersey hunting.",
+      "SAGAN contested intermediate sprint from peloton while in breakaway-chase mode, prioritizing ciclamino over energy conservation.",
+      "Sprint teams caught break at 15km despite block headwind, suggesting coordinated tempo control beyond typical catch zones.",
+      "GAVIRIA launched with 500m on uphill finish but faded, confirming disadvantage of early sprint initiation on gradient finales."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: won 2nd stage from positioned sprint on uphill finish, showing gradient versatility beyond pure flat speed",
+      "VALTER Attila": "neutral: survived first pink jersey defense on flat stage with strong Quick-Step protection before mountain weekend",
+      "GAVIRIA Fernando": "negative: timed sprint 500m out on uphill finish and completely faded, tactical error or lack of kick",
+      "CARTHY Hugh": "neutral: suffered mechanical inside final kilometers on sprint stage, positioning suggests GC vigilance even on flat terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:55:47.448231+00:00"
+}

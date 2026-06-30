@@ -1,0 +1,24 @@
+{
+  "label": "2022 UAE Tour Stage 6",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-25",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VACHEK Matthias (19yo) won from breakaway with Gazprom's 3-man numerical advantage after peloton mistimed chase, gap still 1:22 at 11km.",
+    "winner": "VACHEK Matthias",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Gazprom committed three riders to breakaway including points jersey Strakov, using numerical advantage to control finale dynamics.",
+      "Peloton misjudged chase timing: gap under 1min at 35km, teams relaxed, allowing it to balloon back to 1:22 with 11km remaining.",
+      "Breakaway exploit: moderate 27°C temps and urban wind protection at Dubai Expo reduced peloton's aerodynamic advantage in chase."
+    ],
+    "rider_signals": {
+      "VACHEK Matthias": "positive: 19yo won senior debut stage despite Gazprom's 3-man numerical advantage, showing superior finishing power over experienced breakaway companions",
+      "STRAKOV Dimitri": "neutral: sacrificed stage win ambitions to secure points jersey, Gazprom team tactics prioritizing classification over stage hunting",
+      "PHILIPSEN Jasper": "negative: led bunch sprint but team failed to organize timely chase despite sprint-friendly flat parcours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:29:58.598774+00:00"
+}

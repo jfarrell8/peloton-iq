@@ -1,0 +1,29 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 17",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-13",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC attacked on Angliru's steep ramps, won stage with VINGEGAARD while KUSS struggled, holding red jersey by only 8 seconds after teammates refused to wait",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma's three co-leaders raced each other on final climb; Kuss requested slower pace via radio, teammates ignored him.",
+      "BAHRAIN Victorious overcommitted resources early with Caruso/Poels pacing, Landa isolated before steepest Angliru ramps at 6.5km.",
+      "VINGEGAARD deliberately took 6 bonus seconds sprint without passing Roglic, tactical calculation to pressure Kuss's 8-second jersey margin.",
+      "UAE Emirates completely collapsed on 23% Angliru ramps; Ayuso went backwards early, exposing weakness on extreme gradients."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "negative: radioed for teammates to slow pace when dropped on Angliru; saved jersey only via bonus seconds, margin collapsed to 8s",
+      "ROGLIC Primoz": "positive: attacked despite supposed domestique role, won stage making statement against team orders to support Kuss",
+      "VINGEGAARD Jonas": "neutral: strong enough to win but deliberately took second for 6-second bonus, playing political game within team",
+      "LANDA Mikel": "negative: Bahrain's early pacing strategy backfired; Landa isolated on steepest sections, couldn't challenge for stage win",
+      "AYUSO Juan": "negative: went backwards early on Angliru's extreme ramps, UAE support structure collapsed completely",
+      "SOLER Marc": "neutral: attacked to chase down early break despite unclear UAE team strategy, questioning continues",
+      "UIJTDEBROEKS Cian": "positive: Bora domestique stayed with leaders longer than expected on Angliru's hardest sections"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:48:27.356915+00:00"
+}

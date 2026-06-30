@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Not an attacker. Role is pure domestique work—controlling breaks, executing leadouts, and maintaining tempo. No personal offensive shown across observations.",
+  "team_tactics": "Team deploys him as tactical leadout specialist for intermediate sprint bonuses (3+ observations) and as enforcer to police break formations. Solo chase responsibilities when team tactics fail.",
+  "terrain_preference": "Valley roads and flat-to-rolling sections where he controls pace and delivers teammates. Explicitly distanced on Classics climbs (Oude Kwaremont), suggesting hard climbing exposes limitations.",
+  "vulnerability": "Isolated when team loses race control—forced into extended solo chasing (50km+ Catalunya). Dropped on punchy Classics climbs when surge attacks occur.",
+  "key_patterns": [
+    "Intermediate sprint leadout specialist: piloted teammates through bonuses in 3 separate stage races",
+    "Break policing role: positioned early to control dangerous move formation, classic super-domestique work",
+    "Sacrificial chaser when tactics fail: solo pursuit duties for 50km+ when team misses breaks",
+    "Distanced on explosive Classics climbs: Oude Kwaremont attack shed him, revealing power ceiling"
+  ],
+  "form_trajectory": "neutral: Most recent 2022 observation shows continued domestique excellence (leadout duties), consistent with 2019-2021 pattern. Role unchanged, execution reliable.",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "ROWE Luke",
+  "built_from": [
+    "2017 Ronde Van Vlaanderen",
+    "2019 Paris-Nice Stage 1",
+    "2019 Paris-Nice Stage 2",
+    "2019 Paris-Nice Stage 3",
+    "2021 Volta Ciclista a Catalunya Stage 4",
+    "2021 Volta Ciclista a Catalunya Stage 5",
+    "2021 Volta Ciclista a Catalunya Stage 5",
+    "2022 Tour de Suisse Stage 3"
+  ]
+}

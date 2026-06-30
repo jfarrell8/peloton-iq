@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-09",
+  "stage": 15,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PINOT Thibaut attacked with 6km remaining on Lagos de Covadonga, gaining 28 seconds as GC favorites marked each other instead of chasing.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pinot exploited GC paranoia by attacking from outside podium threat range; favorites let him gain 28s while marking each other.",
+      "Astana paced category one climb mid-stage despite no immediate GC rider, revealing multi-day fatigue management strategy before rest day.",
+      "Lopez's late attack triggered Yates to chase down Quintana/Valverde cooperation, fragmenting any unified response to Pinot's move."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "positive: attacked from deficit position knowing GC men wouldn't chase, won by 28s, moved into podium calculation",
+      "YATES Simon": "negative: got frustrated marking Quintana/Valverde instead of controlling Pinot's dangerous move from 6km out",
+      "LOPEZ Miguel Angel": "neutral: strong enough to attack late but tactical timing poor, only gained seconds on rivals while Pinot took 28s",
+      "VALVERDE Alejandro": "negative: dropped initially then returned, suggesting vulnerability on sustained steep gradients despite podium position",
+      "KRUIJSWIJK Steven": "positive: stayed with elite GC group despite not being pre-race favorite, matching Quintana/Masse on final climb",
+      "VAN POPPEL Danny": "neutral: breakaway role suggests Jumbo supporting teammate rather than sprinting, tactical flexibility shown",
+      "TEUNISSEN Dylan": "negative: dropped on Lagos approach with 20km remaining, signaling insufficient climbing for Asturian mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:40:48.901096+00:00"
+}

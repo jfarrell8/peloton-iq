@@ -1,0 +1,22 @@
+{
+  "label": "2018 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2018-03-03",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout attacked solo from chasing group to bridge to leaders in decisive white road sector, demonstrating superior gravel strength",
+    "winner": "Cannot determine from transcript",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "VAN AERT Wout bridged solo from chase to lead group on white roads, forcing immediate counterattacks upon arrival",
+      "Lead group tactics paralyzed by unknown breakaway rider's presence, treating him as unpredictable joker rather than dismissing"
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: bridged alone across significant gap on gravel sectors then immediately attacked again upon contact with leaders",
+      "BENOOT Tiesj": "neutral: present in lead selection but appears passive during VAN AERT's aggressive bridging effort"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T21:31:36.192779+00:00"
+}

@@ -5,22 +5,23 @@
   "stage": 3,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "GROVES Kaden won bunch sprint after Mitchelton-Scott controlled finale, holding off former teammate BETTIOL who couldn't come around in final 150m.",
+    "one_line_summary": "GROVES Kaden won bunch sprint after early all-out racing on Tawonga Gap shattered field but breakaway absorbed on final climb.",
     "winner": "GROVES Kaden",
-    "commentary_quality": "moderate",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "Sunweb completely controlled breakaway tempo with consistent chase, allowing no other teams to dictate race despite Mitchelton having sprinter.",
-      "RICE Michael rode breakaway without single turn, exploited other riders' work to finish 5th, showing freeloading can succeed tactically.",
-      "POWER Rob sacrificed GC position finishing 8:27 down, explicitly working for HINDLEY's overall rather than contesting stage or protecting placement.",
-      "Mitchelton-Scott only assumed pace-setting duties after final climb with 16km remaining, conserving energy by letting Sunweb do early work."
+      "POWER Robert sacrificed GC position to work for teammate HINDLEY, finishing 8:27 down reveals team prioritization over individual ambition.",
+      "Opening climb at maximum tempo despite 178km race length shows teams willing to burn domestiques early for positioning control.",
+      "Sunweb controlled gap at 4+ minutes then timed chase to absorb break exactly on final climb summit shows advanced pacing calculation.",
+      "RICE Michael refusing breakaway turns but still finishing 5th demonstrates free-riding sprint strategy can work if teammates don't attack."
     ],
     "rider_signals": {
-      "POWER Rob": "negative: willingness to destroy own GC by finishing 8:27 down while working for Hindley suggests he's not in condition to defend top-10",
-      "BETTIOL Alberto": "negative: on winner's wheel in final 150m but couldn't come around former teammate Groves, suggesting either positioning error or insufficient power",
-      "DAINESE Alberto": "neutral: briefly distanced over final climb suggests weight disadvantage on steep gradients despite being pure sprinter",
-      "HILL Ben": "negative: monumental cramp forced complete stop after making early aggression, indicates he overcooked early hour smashfest on Tawonga Gap"
+      "GROVES Kaden": "positive: first Mitchelton-Scott win shows he has speed to beat DAINESE Alberto when positioned correctly by leadout",
+      "DAINESE Alberto": "negative: dropped on final climb summit despite stage 1 win reveals vulnerability on even modest gradients before sprints",
+      "POWER Robert": "negative: 8:27 time loss while working for HINDLEY shows complete subordination of personal GC for team leader support",
+      "HINDLEY Jai": "positive: trouble-free day maintaining yellow suggests climbing strength without needing to defend actively yet",
+      "RIES Michel": "neutral: fifth place after refusing all breakaway work shows parasitic tactics can yield results without team consequences"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:24:33.049376+00:00"
+  "extracted_at": "2026-06-28T22:40:52.297989+00:00"
 }

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic attacks for KOM points in breakaways or late-stage moves, typically targeting intermediate climbing objectives rather than stage wins. Shows willingness to go solo 6km+ from finish when KOM points are available.",
+  "team_tactics": "Dual role creates tactical conflicts: assigned as sprint leadout domestique but autonomy to pursue personal KOM opportunities. Team appears to tolerate split priorities when sprint outcome not compromised.",
+  "terrain_preference": "Intermediate categorized climbs within otherwise flat/sprint stages where KOM competition is less contested. Struggles on climbs against dedicated climbers even in breakaway scenarios.",
+  "vulnerability": "Loses KOM contests to stronger climbers even with favorable positioning. Role confusion between leadout duties and personal ambitions can compromise effectiveness in both objectives.",
+  "key_patterns": [
+    "Targets KOM points from breakaways despite sprint leadout duties (2 observations)",
+    "Attacks for intermediate objectives rather than stage victory (2 observations)",
+    "Loses direct climbing duels to stronger specialists despite positioning advantage (2 observations)"
+  ],
+  "form_trajectory": "unknown: limited recent data with 4-year gap between observations; 2022 shows continued KOM interest but execution challenges remain",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "EENKHOORN Pascal",
+  "built_from": [
+    "2018 Tour of Guangxi Stage 5",
+    "2022 Giro d'Italia Stage 3",
+    "2022 Giro d'Italia Stage 3"
+  ]
+}

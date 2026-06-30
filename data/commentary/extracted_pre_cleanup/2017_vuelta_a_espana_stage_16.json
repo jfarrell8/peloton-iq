@@ -1,0 +1,28 @@
+{
+  "label": "2017 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-05",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Chris won the 40km ITT taking 29 seconds from KELDERMAN Wilco after being 23 seconds down at the first intermediate checkpoint.",
+    "winner": "FROOME Chris",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FROOME Chris deliberately rode conservative first half, sitting fourth at 23 seconds down before accelerating second half to victory.",
+      "CONTADOR Alberto rode aggressively for final career ITT despite no GC hopes, taking fifth and vaulting from ninth to fifth overall.",
+      "KELDERMAN Wilco's consistent pacing took second place and podium position while other podium contenders like ZAKARIN Ilnur hemorrhaged time."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: demonstrated tactical maturity by sitting fourth at first check then dominating second half when it mattered most",
+      "KELDERMAN Wilco": "positive: consistent pacing earned second place 29 seconds down and lifted him onto overall podium replacing ZAKARIN Ilnur",
+      "CONTADOR Alberto": "positive: motivated performance in final career ITT vaulted him from ninth to fifth overall despite no realistic podium chances",
+      "CHAVES Esteban": "negative: catastrophic collapse losing over four minutes to FROOME Chris signals complete form loss before final mountain stages",
+      "ZAKARIN Ilnur": "negative: lost podium position to KELDERMAN Wilco indicating vulnerability before crucial mountain finale tomorrow",
+      "LAMPERT Yves": "negative: showed fatigue mid-race despite being early starter with stage win ambitions as green jersey teammate",
+      "LUDVIGSSON Tobias": "positive: set first significant benchmark at 48:07, beating junior world champion KÄMNA Lennard by 23 seconds"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:17:16.455459+00:00"
+}

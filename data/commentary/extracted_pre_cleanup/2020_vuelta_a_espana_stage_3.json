@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-22",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "MARTIN Dan attacked late on Laguna Negra category 1 climb, took 4 bonus seconds on ROGLIČ Primož to close within 5 seconds overall.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ riding unusually far back in peloton during Laguna Negra approach, uncharacteristic positioning suggests team confidence or fatigue management.",
+      "Movistar controlled valley section anticipating crosswinds after category 3, positioning for echelon aggression became standard tactic this race.",
+      "KUSS Sepp paced ROGLIČ on final climb, domestique strength critical when leader positioned defensively rather than at front."
+    ],
+    "rider_signals": {
+      "MARTIN Dan": "positive: First win since twins born, carried Tour de France injury fitness through to exploit home terrain knowledge in Vuelta",
+      "ROGLIČ Primož": "neutral: Lost 4 bonus seconds despite red jersey retention, uncharacteristically deep positioning on climb approach reveals strategic caution",
+      "CARAPAZ Richard": "positive: Moved into solo KOM lead, positioning for stage podiums while contesting overall suggests dual ambitions remain viable",
+      "MAS Enric": "positive: Moved to fourth overall after teammate CHAVES lost time, Movistar leadership clarifying toward single protected rider",
+      "CARTHY Hugh": "positive: Fifth overall through three brutal stages indicates genuine GC form beyond typical one-week racing level",
+      "KUSS Sepp": "positive: Paced ROGLIČ on Laguna Negra finale, super-domestique role solidified as critical to defending narrow overall lead",
+      "CHAVES Esteban": "negative: Lost time and dropped to outside top-5, Movistar protection shifting to MAS as co-leadership experiment fails"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:44:29.849958+00:00"
+}

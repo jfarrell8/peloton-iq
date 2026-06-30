@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Unable to determine specific attack patterns from single race observation. Showed willingness to prioritize personal GC position when in form.",
+  "team_tactics": "When finding form, prioritizes personal GC ambitions over protecting dropped team leaders (left Valverde behind at Vuelta). Willing to cooperate with direct GC rivals for mutual gain.",
+  "terrain_preference": "Climbing terrain where legs are responsive, though insufficient data to specify gradient or length preferences.",
+  "vulnerability": "Inconsistent form - experienced poor form period immediately before finding climbing legs at 2019 Vuelta. Form volatility appears to be a recurring issue.",
+  "key_patterns": [
+    "Insufficient observations (only 1 race) to establish patterns requiring 2+ instances of evidence."
+  ],
+  "form_trajectory": "positive: Found climbing legs after period of poor form at 2019 Vuelta, demonstrating recovery capability mid-Grand Tour",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "LOPEZ Superman",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 16"
+  ]
+}

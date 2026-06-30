@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who commits to long-range moves across multiple consecutive days, willing to spend significant energy in escape groups rather than waiting for decisive moments.",
+  "team_tactics": "Appears to operate with significant autonomy in breakaways, though may lack team support in covering counter-moves when marking duties conflict with following key attacks.",
+  "terrain_preference": "Grand Tour mountain stages where sustained breakaway efforts can yield GC gains; benefits from multi-day breakaway scenarios where accumulated time gains compound advantage.",
+  "vulnerability": "Decision-making under pressure when multiple threats emerge simultaneously; tendency to fixate on marking specific riders at the expense of covering more dangerous moves.",
+  "key_patterns": [
+    "Commits to multi-day breakaway efforts, maintaining form across consecutive aggressive stages (2 observations).",
+    "Shows tactical indecision when forced to choose between marking assignments versus covering attacks (2 observations).",
+    "Capable of significant GC gains through breakaway tactics rather than direct confrontation with rivals (2 observations)."
+  ],
+  "form_trajectory": "positive: 2019 Giro showed ability to gain substantial GC time through sustained breakaway success over multiple days",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ROJAS Jose Joaquin",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 7",
+    "2019 Giro d'Italia Stage 7"
+  ]
+}

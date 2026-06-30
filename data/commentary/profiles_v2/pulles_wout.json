@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Primarily exploits individual time trials rather than road attacks. ITT prowess positions him for GC before mountain stages, where climbing skills become relevant.",
+  "team_tactics": "Insufficient data to identify clear team tactical patterns across multiple races.",
+  "terrain_preference": "Strong in individual time trials, particularly hilly ITTs (18.4km with climbing to Santa Tème). Possesses climbing skills that allow GC defense in mountain stages rather than just flat TT ability.",
+  "vulnerability": "Limited data, but profile suggests greater reliance on ITT gains than creating time gaps through road racing attacks.",
+  "key_patterns": [
+    "Uses ITT performances to establish GC position before mountain stages begin.",
+    "Combines time trial specialization with climbing ability, not purely flat TT specialist."
+  ],
+  "form_trajectory": "positive: First 2018 win at Paris-Nice suggests successful peak timing for early-season stage racing",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PULLES Wout",
+  "built_from": [
+    "2018 Paris-Nice Stage 4",
+    "2018 Paris-Nice Stage 4"
+  ]
+}

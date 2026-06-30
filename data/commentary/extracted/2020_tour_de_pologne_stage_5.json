@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de Pologne Stage 5",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-09",
+  "stage": 5,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BALLERINI Davide won final sprint in Krakow after ACKERMANN Pascal opened too early, while EVENEPOEL Remco secured overall by 1:52.",
+    "winner": "BALLERINI Davide",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "STUYVEN Jasper opening sprint as Classics specialist without pure sprinter speed allows late-comers like BALLERINI to capitalize.",
+      "Trek-Segafredo worked hardest to chase breakaway for ACKERMANN but used STUYVEN leadout, revealing no dedicated sprint train depth.",
+      "CAVENDISH Mark mechanicals with 1km remaining suggests positioning too far back before finale on technical circuit laps."
+    ],
+    "rider_signals": {
+      "BALLERINI Davide": "positive: first WorldTour win shows timing ability to pass early launchers, wait until ACKERMANN faded after long sprint",
+      "ACKERMANN Pascal": "negative: despite in-form status and Trek chasing for him, launching behind STUYVEN burned him before line",
+      "EVENEPOEL Remco": "positive: 1:52 GC margin after Stage 4 attack shows first WorldTour stage race win with mature time management",
+      "STUYVEN Jasper": "neutral: opening sprint as Classics rider for team without pure sprinter reveals Trek's sprint deficit despite chase work",
+      "CAVENDISH Mark": "negative: unclipping pedal 1km out on technical circuit reveals positioning or bike-handling vulnerability after layoff",
+      "DAINESE Alberto": "positive: third place finish without visible leadout shows raw speed competitive with established sprinters",
+      "FUGLSANG Jakob": "neutral: second overall at 1:52 confirms inability to follow EVENEPOEL's 50km Stage 4 attack despite experience"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:40:09.878048+00:00"
+}

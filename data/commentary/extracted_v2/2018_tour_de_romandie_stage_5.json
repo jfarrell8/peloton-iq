@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-29",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won Stage 5 bunch sprint in Geneva after TOPLEY attempted a surprise late solo attack that failed to create panic in the controlled finale.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TOPLEY attempted solo attack mimicking Nizzolo's historic Geneva sprint win, but Bora kept calm and reeled him efficiently.",
+      "Education First tried pre-finale attacks lacking sprinter, revealing teams without fast finishers probe flat finales for opportunistic wins.",
+      "Breakaway collapsed at 35 seconds when peloton formed single-file echelon, showing precise calibration by sprint trains.",
+      "BORA led out with all wheels covered, demonstrating dominant sprint train control after Ackermann's multiple near-misses this season."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: Finally converted after multiple second and third places this season, showing persistence in development pays off at 24.",
+      "TOPLEY Michael": "neutral: Aggressive late attack showed tactical awareness referencing historical Geneva sprint upsets but lacked execution power.",
+      "PRIMOZ Roglic": "positive: Won Tour de Romandie by 8 seconds over Egan Bernal, controlling final stage without incident.",
+      "PORTE Richie": "neutral: Assured podium at 35 seconds, no attempt to challenge for higher position on final stage."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:34:55.907206+00:00"
+}

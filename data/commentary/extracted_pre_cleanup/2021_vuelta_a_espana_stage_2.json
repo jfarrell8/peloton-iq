@@ -1,0 +1,25 @@
+{
+  "label": "2021 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won Stage 2 sprint by a quarter-wheel over JAKOBSEN Fabio on a wide boulevard after a mistimed lead-out from Deceuninck",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PHILIPSEN won from far back left side while JAKOBSEN led out too early on wide boulevard, showing positioning beats pure speed",
+      "Deceuninck hit front too early with 1.5km dead straight finish, allowing swarm on wide open road",
+      "DEMARE Arnold finished 14th, nowhere near top-5, revealing chronic positioning weakness consistent with Tour de France performance"
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Third consecutive opening sprint stage win for Alpecin across 2021 Grand Tours, demonstrating exceptional early-race form pattern",
+      "JAKOBSEN Fabio": "neutral: Led too early despite strong acceleration, suggesting team timing issues on ultra-wide finishes",
+      "DEMARE Arnold": "negative: 14th place repeat of Tour positioning failures, not even in picture on perfect big-man boulevard finish",
+      "ROGLIC Primoz": "neutral: Stayed near front avoiding danger, maintained GC lead without incident"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:19:05.655220+00:00"
+}

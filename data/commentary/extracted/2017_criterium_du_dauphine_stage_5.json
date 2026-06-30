@@ -1,0 +1,25 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-08",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BAUHAUS Phil won the sprint from the left side while FDJ and Bahrain focused on marking KRISTOFF Alexander.",
+    "winner": "BAUHAUS Phil",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sunweb committed to chase with two riders from 20km despite BAUHAUS having just finished Giro d'Italia.",
+      "BOUWMAN Koen tactically abandoned breakaway 25km from finish after securing mountain points, revealing polka jersey prioritization over stage.",
+      "Sprint trains marking KRISTOFF Alexander left opposite side vulnerable, BAUHAUS exploited spatial blindspot from the left."
+    ],
+    "rider_signals": {
+      "BAUHAUS Phil": "positive: Won stage two days after completing Giro, indicating exceptional recovery capacity for multi-race campaigns",
+      "BOUWMAN Koen": "positive: Third breakaway of race week for mountains jersey, showing sustained effort capacity despite accumulated fatigue",
+      "DÉMARE Arnaud": "negative: Second place despite green jersey suggests FDJ sprint train misfocused on KRISTOFF rather than optimal positioning",
+      "KRISTOFF Alexander": "neutral: Drew opponent focus but failed to capitalize, teams now over-calibrated to mark him"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:56:27.361330+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de Suisse Stage 5",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-19",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "SÁNCHEZ Luis León attacked with 12km remaining on the penultimate climb to win solo after IMHOFF Claudio's early breakaway collapsed.",
+    "winner": "SÁNCHEZ Luis León",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ASGREEN Kasper seized overall lead by narrow margin through bonus second accumulation, not through late attack response.",
+      "IMHOFF Claudio's solo from km 30-130 secured KOM lead despite mechanical hastening capture before final climbs.",
+      "Decoster forced pace in final 35km specifically to prime launch platform for late attackers rather than control."
+    ],
+    "rider_signals": {
+      "SÁNCHEZ Luis León": "positive: 12km solo attack demonstrates veteran ability to exploit transition between penultimate and final climb",
+      "ASGREEN Kasper": "positive: secured overall lead through bonus seconds positioning rather than climbing power",
+      "IMHOFF Claudio": "neutral: mechanical interrupted 100km+ solo effort that successfully banked early KOM points",
+      "MATTHEWS Michael": "negative: lost bonus seconds at intermediate sprint despite sprint capability suggests weak positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:12:17.510563+00:00"
+}

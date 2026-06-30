@@ -1,0 +1,29 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-05",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won sprinting through the center after CARAPAZ Richard's attack opened the door, beating LAPORTE Christophe who was positioned on VINGEGAARD Jonas's wheel.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD Jonas positioned at front inside final kilometer despite no GC implications, delivering LAPORTE Christophe perfectly.",
+      "CARAPAZ Richard's late attack 200m out opened sprint, allowing ALAPHILIPPE Julian center lane opportunity through chaos.",
+      "EF multiple probing moves final 2km softened Jumbo-Visma train before CARAPAZ Richard's decisive acceleration.",
+      "BAYER Tobias attacked over final climb top at 25km/h but lacked support, absorbed before finish circuits."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: sprinted through center after critics doubted form, capitalized on CARAPAZ Richard opening the race",
+      "VINGEGAARD Jonas": "positive: led out sprinter despite being GC leader, shows tactical flexibility beyond climbing",
+      "CARAPAZ Richard": "positive: launched late attack inside 200m creating chaos but mistimed final sprint",
+      "LAPORTE Christophe": "neutral: perfectly positioned behind VINGEGAARD Jonas but lacked final 100m acceleration when needed",
+      "MARTIN Guillaume": "neutral: recovering from long covid fatigue but looked prepared, positioned well in peloton",
+      "GRONDIN Donavan": "negative: cramped in KOM jersey 50km from finish, highlights vulnerability holding jersey under fatigue",
+      "BAYER Tobias": "neutral: strong solo move over final climb but lacked support riders, absorbed by organized teams"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:58:44.527548+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2019 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-28",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CICCONE attacked from breakaway on Mortirolo descent, held off HIRT in final 500m sprint for stage win while NIBALI's early attack on climb split GC group.",
+    "winner": "CICCONE Giulio",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "NIBALI attacked first on Mortirolo wet roads before others expected, forcing reactions that isolated ROGLIČ without teammates.",
+      "CARUSO stayed ahead in breakaway specifically to pace NIBALI later, demonstrating Bahrain pre-planned sacrifice strategy for wet descent.",
+      "LÓPEZ initially dropped on Mortirolo start but recovered to gain time, suggesting pacing miscalculation rather than weakness on steep pitches.",
+      "CICCONE held wheel through 700m sprint setup then launched late, reversing typical track-style leadout that HIRT attempted."
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "positive: First to attack GC group on Mortirolo despite wet conditions, finished fourth on stage gaining time on multiple rivals.",
+      "ROGLIČ Primož": "negative: Isolated without teammates when NIBALI attacked, lost 1:23 to CARAPAZ group and dropped from second to third overall.",
+      "CICCONE Giulio": "positive: Won stage from breakaway sprint and consolidated mountains jersey, showing both climbing endurance and finishing speed.",
+      "CARTHY Hugh": "positive: Best British performance referenced by commentators, suggests breakthrough climbing form on extreme gradients previously unseen.",
+      "LÓPEZ Miguel Ángel": "positive: Recovered after being dropped early on Mortirolo to finish with leaders, gained time on rivals showing resilience.",
+      "LANDA Mikel": "positive: Finished fifth on stage with leaders group, gaining time while conserving energy without attacking.",
+      "CARAPAZ Richard": "neutral: Defended pink jersey successfully, maintained gap over ROGLIČ who lost time, but did not gain significantly.",
+      "CARUSO Damiano": "positive: Positioned in breakaway specifically to assist NIBALI's later attack, executed team sacrifice strategy effectively."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:56:21.631683+00:00"
+}

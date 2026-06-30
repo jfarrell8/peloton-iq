@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a primary attacker. Functions as a diesel-engine leadout rider capable of setting sustained pace from distance on punchy, technical finales rather than explosive attacks.",
+  "team_tactics": "Deployed for exceptionally long leadouts on uphill finishes, setting tempo from far out (7+ km) to position protected rider or control pace before finale.",
+  "terrain_preference": "Punchy, technical uphill finales where sustained power matters more than explosive accelerations. Struggles when racing transitions to sharp, repeated accelerations.",
+  "vulnerability": "Technical uphill finales requiring repeated changes of pace or explosive accelerations. Fades when racing intensifies after leadout work complete, losing significant time in final kilometers.",
+  "key_patterns": [
+    "Executes long-distance leadouts on uphill finishes, capable of setting pace 7+ km out (2 instances)",
+    "Disappears when racing requires explosive accelerations after initial tempo work (2 instances)",
+    "Lost 11+ seconds in final 7km despite leading, showing inability to match finale surges (2 instances)",
+    "Strong climbing development trajectory but racing application still maturing (2 instances)"
+  ],
+  "form_trajectory": "neutral: Showing climbing progression with stronger leadout capabilities, but racing execution remains inconsistent and finale weakness persists through 2023",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SHEFFIELD Magnus",
+  "built_from": [
+    "2022 Tour de Romandie Stage 2",
+    "2023 La Fleche Wallonne",
+    "2023 Tour de Suisse Stage 1"
+  ]
+}

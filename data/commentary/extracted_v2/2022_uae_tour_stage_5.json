@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 5",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-24",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper took his second stage sprint victory while POGACAR Tadej salvaged GC with late bike change after puncture inside 5km to go.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR grabbed intermediate sprint bonus seconds despite 4-second GC lead, doubling his margin preemptively against crosswind splits.",
+      "GANNA Filippo chased breakaways all day after mountain stage, showing UAE exploits INEOS domestique depth for controlling transition stages.",
+      "Late-race puncture for race leader POGACAR demonstrated peloton already racing mode at 4.5km, making mechanical timing critical on flat stages."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Won intermediate sprints AND stage sprint, plus finished 10th in time trial, showing unusual diesel engine range beyond pure sprinting.",
+      "GANNA Filippo": "positive: Animated chasing work day after climbing Jebel Jais reveals he carries form exceptionally fresh between mountain and flat efforts.",
+      "POGACAR Tadej": "positive: Contested intermediate sprint for bonus seconds despite tiny 2-second GC lead, signaling aggressive margin management over conservative riding.",
+      "CAVENDISH Mark": "negative: Mechanical disengagement suggests lingering impact from Jebel Jais crash, unlike normal recovery pattern for stage sprinters.",
+      "STRYKOV Dmitri": "neutral: Dominated intermediate sprint competition (41 points vs 14 for nearest rival) through systematic breakaway placement rather than pure speed."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:29:48.428937+00:00"
+}

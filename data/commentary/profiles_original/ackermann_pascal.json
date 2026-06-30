@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Pure sprinter who rarely attacks; wins from fast finishes on flat stages. Shows limited ability on gradients over 5%, fading when initiating efforts on climbs or timing sprints poorly (750m+ is too early).",
+  "team_tactics": "Requires full leadout train to contend; performs poorly when team support is minimal or absent. Team sets tempo but struggles to position him effectively, particularly in rolling terrain or technical finishes.",
+  "terrain_preference": "Pan-flat bunch sprints suit him best. Uphill finishes, cobbles, and any gradient above 5-7% neutralize his pure speed advantage. Rolling stage race profiles expose climbing deficiencies early.",
+  "vulnerability": "Early climbs even in flat stages drop him (50km mark); uphill or cobbled finishes; timing sprints on long straights (initiates 750m+ too early); performs poorly without dedicated leadout support.",
+  "key_patterns": [
+    "Repeatedly initiates sprints too early on long straights, fading before line (2+ observations).",
+    "Dropped on initial climbs in stage races regardless of team pacing effort (2+ observations).",
+    "Struggles on gradients 5-7%+, fading when attempting efforts on ramps (3 observations).",
+    "Mid-pack finishes when team fails to deliver proper leadout, even when pacing (2 observations).",
+    "Can win with minimal support only when field decimated by crashes/conditions (2023 Giro)."
+  ],
+  "form_trajectory": "positive: 2023 Giro stage win signals return to top sprint form after 2022 struggles, though success came with crash-reduced field and minimal support test",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "ACKERMANN Pascal",
+  "built_from": [
+    "2019 UAE Tour Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2022 La Vuelta ciclista a Espana Stage 13",
+    "2022 La Vuelta ciclista a Espana Stage 16",
+    "2022 La Vuelta ciclista a Espana Stage 3",
+    "2022 Tirreno-Adriatico Stage 3",
+    "2022 UAE Tour Stage 1",
+    "2023 Classic Brugge-De Panne",
+    "2023 Giro dItalia Stage 11",
+    "2023 Giro dItalia Stage 11"
+  ]
+}

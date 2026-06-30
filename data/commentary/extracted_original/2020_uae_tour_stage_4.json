@@ -1,0 +1,25 @@
+{
+  "label": "2020 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-26",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jay held off BERWICK Sean's sustained pressure attack on final 500m of Mount Buller, defending yellow by 10 seconds",
+    "winner": "HINDLEY Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERWICK attacked from third wheel when gradient hit steepest ramps inside 1km, forcing leader to chase rather than pace.",
+      "Team BikeExchange positioned SMITH as buffer between YATES and breakaway, controlling without committing their GC threat early.",
+      "HINDLEY waited until final 150m inside barriers to counter rather than matching BERWICK's sustained 500m pressure attack."
+    ],
+    "rider_signals": {
+      "BERWICK Sean": "positive: 20-year-old attacking leader on steepest gradients suggests mature tactical awareness and climbing form progression",
+      "YATES Simon": "negative: dropped quickly when BERWICK attacked despite having team support positioned ahead, weaker than GC position suggested",
+      "HOUSEN Damien": "negative: former winner unable to follow key move when it launched, significant form deficit despite top-5 GC",
+      "VINE Jay": "positive: finished with leaders despite no WorldTour backing, outclimbed established pros including former champion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:24:43.031774+00:00"
+}

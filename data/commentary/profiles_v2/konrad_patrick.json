@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic late-race moves rather than early breakaways. Bridges to select groups in final phases when tactical situations open, showing strong positioning awareness and timing.",
+  "team_tactics": "Willingness to freelance when team leaders are dropped or out of contention. Acts as secondary option, capitalizing on fluid race situations rather than pre-planned setups.",
+  "terrain_preference": "Insufficient data to determine specific terrain preference, though capable of operating in hilly stage race finales requiring tactical acumen over pure climbing.",
+  "vulnerability": "Limited observations prevent clear identification of weaknesses. May lack explosiveness for pure summit finishes given focus on bonus seconds and late bridging rather than winning.",
+  "key_patterns": [
+    "Positions himself for bonus seconds and minor placings rather than stage wins (2 instances)",
+    "Bridges to front groups late in stages when opportunities arise (2 instances)",
+    "Races opportunistically for team rather than purely supporting designated leaders (2 instances)",
+    "Active in final circuits/finales rather than early breakaway attempts (2 instances)"
+  ],
+  "form_trajectory": "unknown: observations span 2018-2020 with insufficient recent data to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KONRAD Patrick",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 2",
+    "2020 Giro d'Italia Stage 5"
+  ]
+}

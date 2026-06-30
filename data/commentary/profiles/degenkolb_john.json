@@ -1,19 +1,30 @@
 {
-  "attacking_style": "Not an attacker; pure sprinter who relies on positioning and timing in bunch finishes rather than initiating moves. Lacks explosive power to attack or follow late accelerations.",
-  "team_tactics": "Dependent on team positioning for sprint setup. Requires strong lead-out to compensate for lack of top-end power compared to pure fast-twitch sprinters.",
-  "terrain_preference": "Flat bunch sprints only. Even modest climbs (third-category) expose significant weakness. Cannot contest sprint stages with any meaningful elevation.",
-  "vulnerability": "Cannot follow wheels of top-tier sprinters (e.g., Kittel) even with perfect position. Dropped immediately on any categorized climbs, even fresh from rest. Pure power deficit limits competitiveness against elite sprinters.",
+  "attacking_style": "Opportunistic on specialist terrain rather than pure sprinter; attacks or infiltrates moves on cobbles/technical finales (17km cobble breakaway win). In standard sprints, positioned late (2km mark) but fades in sustained drag races beyond 3km.",
+  "team_tactics": "Bora-Hansgrohe employs timed late positioning via DRUCKER (2km deployment), avoiding premature commitment that burns rivals early. Less reliant on long leadout trains; can operate independently or through single pilot fish.",
+  "terrain_preference": "Excels on cobbles and technical classics terrain where attrition creates smaller, selective groups. Struggles in sustained 3km+ drag sprints where top-end speed cannot be maintained. Prefers explosive finishes over power-endurance tests.",
+  "vulnerability": "Lacks sustainable speed for extended drag sprints (3km+); fades when races become pure power contests. Physical battles against top-tier sprinters (SAGAN) expose limitations. Injury concerns affect consistency (crash impacts, post-2016 recovery timeline).",
   "key_patterns": [
-    "Dropped on even third-category climbs, showing severe climbing limitations (2 observations)",
-    "Positioning skills intact but lacks pure power to match elite sprinter acceleration (2 observations)",
-    "Form decline evident: struggling in scenarios where positioning previously sufficient (2 observations)"
+    "Demonstrates tactical intelligence through late positioning (2km) rather than raw sprinting power.",
+    "Performs best when attrition reduces bunch size; ninth-best against top tier in mass sprints.",
+    "Cobbled/technical terrain restores competitiveness; won from 17km cobble breakaway, resurgent form on specialist parcours.",
+    "Fades in physical battles against elite sprinters; beaten by SAGAN, VIVIANI despite good positioning.",
+    "Post-2016 injury trajectory shows fluctuating form; explosive speed retained but consistency variable across seasons."
   ],
-  "form_trajectory": "negative: Consistent inability to match top sprinters' power and dropped on minimal climbs suggests declining physical capacity across both Grand Tour appearances",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2022 data shows diminished sustained speed and crash vulnerability, suggesting decline from 2018-2019 resurgence on specialist terrain",
+  "races_analysed": 9,
+  "confidence": "medium",
   "rider_name": "DEGENKOLB John",
   "built_from": [
-    "2017 Tour de France Stage 10",
-    "2019 Vuelta a Espana Stage 12"
+    "2018 Tour de France Stage 21",
+    "2018 Tour de France Stage 7",
+    "2018 Tour de France Stage 9",
+    "2018 Tour de France Stage 9",
+    "2019 Tour de Suisse Stage 3",
+    "2019 Vuelta a Espana Stage 21",
+    "2019 Vuelta a Espana Stage 3",
+    "2019 Vuelta a Espana Stage 3",
+    "2020 Ronde van Vlaanderen",
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2022 La Vuelta ciclista a Espana Stage 13"
   ]
 }

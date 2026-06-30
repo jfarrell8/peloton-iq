@@ -1,0 +1,25 @@
+{
+  "label": "2020 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-04",
+  "stage": 14,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim won from breakaway after 60km formation battle, using corner positioning with 100m to go to block faster finisher WOODS.",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway formation required 60km indicating peloton willing to race hard even mid-Vuelta when not mountain stage.",
+      "WELLENS pre-studied final 200m twisty corners, positioned front at final left-hander to neutralize WOODS' superior speed.",
+      "GC contenders allowed 7-rider strong break because depth into Vuelta made teams unwilling to control flat stages."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: executed corner-based positioning strategy to overcome speed deficit against WOODS on uphill finish",
+      "WOODS Michael": "negative: had superior finishing speed but lost tactically by not controlling final left-hand corner with 100m remaining",
+      "MARTIN Dan": "neutral: attempted late acceleration on punchy finish but suggests awareness his climbing style doesn't suit steep punchy gradients",
+      "CARTHY Hugh": "negative: commentary notes steep punchy finish 'not his wheelhouse' indicating vulnerability on explosive gradients versus sustained climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:30:07.054314+00:00"
+}

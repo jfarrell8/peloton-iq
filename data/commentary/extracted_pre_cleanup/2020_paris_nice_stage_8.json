@@ -1,0 +1,27 @@
+{
+  "label": "2020 Paris - Nice Stage 8",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERS Nans won from the early 13-rider breakaway while BARDET Romain attacked late to gain 13 seconds and move to 4th overall despite an earlier crash.",
+    "winner": "PETERS Nans",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET recovered from crash on climb to attack final slopes, converting team stage win momentum into GC time gain.",
+      "YATES Adam chased BARDET's late move but sacrificed gap control to limit losses, revealing defensive yellow jersey tactics.",
+      "POWLESS Neilson fifth from breakaway shows American durability on Pyrenean stages, limiting GC losses after yesterday's mechanical."
+    ],
+    "rider_signals": {
+      "PETERS Nans": "positive: First notable win, emerged from 13-rider break on Pyrenean stage suggests Grand Tour breakthrough capability",
+      "BARDET Romain": "positive: Crashed on climb yet attacked final slopes to gain 13 seconds into 4th GC, showing resilience under adversity",
+      "POWLESS Neilson": "positive: Infiltrated 13-rider break and finished fifth, recovered seven minutes lost to mechanical previous day",
+      "YATES Adam": "neutral: Chased BARDET's late attack but couldn't prevent 13-second loss, defensive rather than offensive yellow jersey tactics",
+      "BERNAL Egan": "negative: Lost time to drop to 13 seconds down, defending champion showing vulnerability in Pyrenees",
+      "VIVIANI Elia": "negative: Abandoned Tour de France on Pyrenean stage, European champion unable to survive mountain terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:30:57.192300+00:00"
+}

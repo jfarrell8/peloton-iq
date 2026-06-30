@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Not a natural attacker; responds to adversity with sustained efforts rather than explosive accelerations. Strongest in chase scenarios on gravel/irregular terrain where power endurance matters more than punchy changes of pace.",
+  "team_tactics": "Teams have shown reluctance to fully commit domestiques to his efforts (Strade Bianche hesitation, Giro GC gamble). Often left to defend or chase alone after initial positioning work.",
+  "terrain_preference": "Flat roads and sustained power terrain suit best. Gravel sectors where consistency matters over explosivity. Exposed badly on steep, irregular gradients requiring repeated accelerations.",
+  "vulnerability": "Lacks explosive power on steep irregular climbs. Crashes disrupt his rhythm significantly. When teams prioritize stage hunting over protecting his position, he's left isolated at critical moments.",
+  "key_patterns": [
+    "Strong on flat/sustained gravel but struggles on steep irregular gradients (Giro climb loss vs Strade chase)",
+    "Teams hesitate committing full support, leaving him isolated in key moments (2 instances observed)",
+    "Shows resilience after setbacks: post-crash pursuit at Strade reduced 7s gap alone",
+    "Power-endurance rider not explosive climber: survived flat pink defense, cracked on punchy terrain"
+  ],
+  "form_trajectory": "positive: Despite 2021 Giro struggles, 2023 Strade showed improved gravel strength and mental resilience, closing gaps solo post-crash",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "VALTER Attila",
+  "built_from": [
+    "2021 Giro d'Italia Stage 6",
+    "2021 Giro d'Italia Stage 7",
+    "2021 Giro d'Italia Stage 9",
+    "2023 Strade Bianche",
+    "2023 Strade Bianche"
+  ]
+}

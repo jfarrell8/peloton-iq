@@ -1,0 +1,30 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 4",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-10",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HAMILTON Lucas attacked late on final climb, held off MASNADA Fausto who chased solo, with WOODS Michael taking bonus seconds in third.",
+    "winner": "HAMILTON Lucas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon attacked immediately on final climb to fracture group before HAMILTON took stage, protecting GC leader role.",
+      "VLASOV Aleksandr attempted bridge but MAJKA Rafał covered, showing Astana willing to sacrifice domestique for aggressive positioning.",
+      "MASNADA Fausto rode solo chase entire final kilometer instead of waiting for WOODS group, revealing Deceuninck stage hunger.",
+      "WOODS Michael won bonus seconds sprint from chasing group despite being race leader, showing tactical awareness for GC defense."
+    ],
+    "rider_signals": {
+      "HAMILTON Lucas": "positive: first World Tour win after altitude block in Andorra targeting Giro, confirms climbing form ahead of schedule",
+      "MASNADA Fausto": "positive: chased solo nearly catching Hamilton after working all day, exceptional form carrying from Tour of the Alps win",
+      "WOODS Michael": "positive: took bonus seconds from chase group despite leading race, tactically aware beyond just defending jersey",
+      "YATES Simon": "neutral: initiated selection on final climb but allowed domestique Hamilton to take stage, confirms Giro preparation focus",
+      "NIBALI Vincenzo": "negative: found wanting when YATES attacked initially, unable to follow first acceleration on final climb",
+      "FUGLSANG Jakob": "negative: not rushing to respond when race split on final climb, suggesting form not sharp",
+      "KELDERMAN Wilco": "neutral: required MAJKA to cover VLASOV move for him, showing reliance on team support in critical moments",
+      "KNOX James": "positive: made it into final selection group despite being domestique, impressive climbing to finish with GC contenders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:32:27.868800+00:00"
+}

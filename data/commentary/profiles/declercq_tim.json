@@ -1,21 +1,25 @@
 {
-  "attacking_style": "Not an attacker. Pure domestique role focused on team service rather than personal results. When in breakaways, it's for team insurance rather than victory ambitions.",
-  "team_tactics": "Deployed strategically in early breaks to provide positional insurance and force rival teams to chase. Serves as road captain orchestrating leadout trains and controlling race flow for team leaders.",
-  "terrain_preference": "Classics terrain and controlled flat stages where his diesel engine and tactical positioning add value. Surprisingly capable on climbs when motivated for team duty, able to bridge significant gaps.",
-  "vulnerability": "Team becomes tactically exposed when he crashes or is absent, indicating irreplaceable organizational role. His personal ambitions are non-existent, making him invisible when team doesn't need coverage.",
+  "attacking_style": "Not an attacker. Pure domestique role focused on tempo-setting and positioning work, typically pulling until climb base or critical points before dropping back.",
+  "team_tactics": "Executes textbook leadout abandonment strategy: pulls hard on flat/rolling terrain to position team, sacrifices himself at decisive moments (climb base), occasionally bridges gaps when team needs numerical presence in breaks.",
+  "terrain_preference": "Rolling terrain and cobbled classics where his power can control pace and create numerical advantages. Exposed on climbs where he drops after completing pacing duties.",
+  "vulnerability": "Cannot finish off the work on technical finishes (Omloop Het Nieuwsblad - had numbers but wrong finishers). Drops immediately once climbing begins. Risky bike handling noted on twisty descents.",
   "key_patterns": [
-    "Placed in early breaks for team insurance, not personal glory (2 races)",
-    "Functions as road captain; team struggles tactically without him (2 observations)",
-    "Shows unexpected climbing capacity when serving team needs, bridging large gaps (1 major example)"
+    "Textbook sacrifice domestique: pulls until climb base then drops back (2+ observations)",
+    "Deceuninck-QuickStep uses him for numerical advantage in breaks, not as finisher (2+ observations)",
+    "Executes leadout/tempo work on flat and rolling terrain before critical selection points (3+ observations)",
+    "Team positioning specialist: bridges gaps and controls pace before handing off to climbers (2+ observations)"
   ],
-  "form_trajectory": "neutral: Consistent domestique role maintained across years. 2021 absence highlighted importance rather than indicating declining form.",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "positive: evolved from pure flatland domestique to more versatile patron bridging gaps on rolling terrain by 2022",
+  "races_analysed": 5,
+  "confidence": "high",
   "rider_name": "DECLERCQ Tim",
   "built_from": [
+    "2019 Criterium du Dauphine Stage 3",
+    "2019 Vuelta a Espana Stage 12",
     "2019 Vuelta a Espana Stage 12",
     "2020 Omloop Het Nieuwsblad",
     "2020 Omloop Het Nieuwsblad",
-    "2021 Tour de France Stage 13"
+    "2021 Paris-Nice Stage 8",
+    "2022 Tour de Suisse Stage 2"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-12",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won stage 3 after ALAPHILIPPE Julian's decoy attack forced VAN AERT Wout to chase, delivering VAN DER POEL perfectly into the final 300 meters.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE Julian's leadout-disguised attack forced VAN AERT to burn matches chasing, sacrificing his own sprint for team tactics.",
+      "Deceuninck Quick-Step used BALLERINI Davide to stretch peloton before ALAPHILIPPE's feint, multi-phase softening tactic before finale.",
+      "Late-race crash with ~900m remaining reorganized sprint trains, allowing VAN DER POEL superior positioning while others scrambled.",
+      "VAN AERT admitted post-race he reacted to ALAPHILIPPE knowing it wasted energy, revealing tactical mistake under pressure."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: converted tactical gift into win after frustrating previous day, showed maturity reading ALAPHILIPPE's decoy move",
+      "ALAPHILIPPE Julian": "positive: selfless false attack to burn VAN AERT's legs demonstrates team-first racing despite own GC position",
+      "VAN AERT Wout": "negative: admitted tactical error chasing ALAPHILIPPE unnecessarily, spent energy on opponent's wheel instead of positioning for sprint",
+      "BALLERINI Davide": "positive: pre-finale stretch effort crucial to Deceuninck setup, showing domestique execution in high-speed finale",
+      "KÜNG Stefan": "neutral: crashed in late-race pile-up alongside Bora-Hansgrohe riders, disrupting sprint preparation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:05:46.536008+00:00"
+}

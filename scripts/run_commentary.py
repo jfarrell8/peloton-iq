@@ -26,6 +26,11 @@ Usage:
     # Skip transcript fetching (just match videos)
     python scripts/run_commentary.py --skip-transcripts
 
+    # Retry videos previously marked ip_blocked (genuine blocks only —
+    # see scripts/relabel_mislabeled_ip_blocks.py for the one-time
+    # cleanup of pre-fix mislabeled files)
+    python scripts/run_commentary.py --retry-ip-blocked
+
     # Status report only
     python scripts/run_commentary.py --status
 """
@@ -111,6 +116,11 @@ def show_status() -> None:
     if pending_extraction > 0:
         log.info("  → %d transcripts pending Claude extraction (~$%.2f)",
                  pending_extraction, pending_extraction * 0.02)
+    if statuses.get("ip_blocked", 0) > 0:
+        log.info(
+            "  → %d videos marked ip_blocked — use --retry-ip-blocked to retry them",
+            statuses.get("ip_blocked", 0),
+        )
 
 
 def build_race_index() -> pd.DataFrame:
@@ -195,6 +205,60 @@ def step_fetch_transcripts(
     return stats
 
 
+def step_retry_ip_blocked(
+    cache_df: pd.DataFrame,
+    max_transcripts: int = 50,
+    delay_seconds: float = 45.0,
+) -> dict:
+    """
+    Retry videos currently marked ip_blocked. Resets their status back
+    to 'video_found' so run_batch will pick them up normally, then runs
+    a normal batch fetch limited to just those videos.
+
+    NOTE: this is for retrying GENUINE blocks going forward. For the
+    one-time cleanup of files mislabeled by the old substring-matching
+    bug (see transcript.py's run_batch docstring), use
+    scripts/relabel_mislabeled_ip_blocks.py instead — that script
+    re-checks and relabels without assuming a retry will succeed.
+    """
+    section("STEP 3b — Retry IP-Blocked Videos")
+    from peloton_iq.commentary.transcript import TranscriptFetcher
+
+    ip_blocked_paths = []
+    for path in sorted(COMMENTARY_RAW_DIR.glob("*.json")):
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        if data.get("status") == "transcript_error:ip_blocked":
+            ip_blocked_paths.append((path, data))
+
+    if not ip_blocked_paths:
+        log.info("No videos currently marked ip_blocked.")
+        return {"success": 0, "ip_blocked": 0, "errors": 0}
+
+    log.info(
+        "Found %d videos marked ip_blocked — resetting up to %d to video_found for retry",
+        len(ip_blocked_paths), max_transcripts,
+    )
+
+    # Reset status so run_batch's normal pending-scan picks them up
+    reset_count = 0
+    for path, data in ip_blocked_paths[:max_transcripts]:
+        data["status"] = "video_found"
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        reset_count += 1
+
+    log.info("Reset %d videos to video_found — running batch fetch...", reset_count)
+
+    fetcher = TranscriptFetcher(video_cache=cache_df)
+    stats = fetcher.run_batch(
+        race_index=None,  # unused inside run_batch — it scans raw_dir directly
+        max_transcripts=reset_count,
+        delay_seconds=delay_seconds,
+    )
+    return stats
+
+
 def step_extract(max_extractions: int = 3) -> dict:
     section(f"STEP 4 — Claude Extraction (up to {max_extractions} transcripts)")
     from peloton_iq.commentary.extractor import ClaudeExtractor
@@ -261,6 +325,13 @@ def parse_args() -> argparse.Namespace:
         "--nbc-skip-pages", type=int, default=400,
         help="Number of playlist pages to skip before collecting (default: 400 = ~20,000 videos)",
     )
+    parser.add_argument(
+        "--retry-ip-blocked", action="store_true",
+        help="Retry videos currently marked ip_blocked (genuine blocks going forward — "
+             "for the one-time cleanup of pre-fix mislabeled files, use "
+             "scripts/relabel_mislabeled_ip_blocks.py instead). Runs instead of the "
+             "normal Step 3 fetch for new video_found videos.",
+    )
     return parser.parse_args()
 
 
@@ -299,6 +370,29 @@ def main() -> None:
             )
         if args.extract:
             step_extract(max_extractions=args.max_extractions)
+        show_status()
+        log.info("=" * 60)
+        log.info("  COMMENTARY PIPELINE COMPLETE  (%.1fs total)", time.time() - t0)
+        log.info("=" * 60)
+        return
+
+    # Retry-ip-blocked is a standalone mode — runs instead of the normal
+    # cache-refresh/matching/fetch sequence, since it operates on already-
+    # matched videos that just need their transcript fetch retried.
+    if args.retry_ip_blocked:
+        # Still need a cache_df for TranscriptFetcher's constructor, even
+        # though retry doesn't do fresh matching — load whatever's on disk.
+        from peloton_iq.commentary.youtube import YouTubeCacheManager
+        mgr = YouTubeCacheManager()
+        cache_df = mgr.load_cache()
+        step_retry_ip_blocked(
+            cache_df=cache_df,
+            max_transcripts=args.max_transcripts,
+            delay_seconds=args.delay,
+        )
+        if args.extract:
+            step_extract(max_extractions=args.max_extractions)
+        log.info("")
         show_status()
         log.info("=" * 60)
         log.info("  COMMENTARY PIPELINE COMPLETE  (%.1fs total)", time.time() - t0)

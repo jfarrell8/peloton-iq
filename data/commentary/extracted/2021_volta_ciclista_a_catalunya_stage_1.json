@@ -1,0 +1,30 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-22",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRON Andreas won from a late 4-rider move that went unchallenged on the final climb, beating SÁNCHEZ Luis León in the sprint.",
+    "winner": "KRON Andreas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MOVISTAR used PEDRERO/VERONA/SAMITIER to pace hard on climb 4 explicitly to drop SAGAN, then inexplicably sat up when SÁNCHEZ counterattacked.",
+      "BORA used SCHELLING to pace mid-race despite his climbing strength being better saved for positioning rather than domestique work.",
+      "BIKE EXCHANGE failed to control when 4-rider move formed, only reacting with CHAVES on final climb when gap reached 35 seconds.",
+      "KÄMNA attacked the 4-rider group but JUMBO controlled his gap rather than letting him solo, prioritizing stage win over GC time."
+    ],
+    "rider_signals": {
+      "KRON Andreas": "positive: Won first World Tour race with superior positioning, drafted ROCHAS' early launch to beat faster finisher SÁNCHEZ.",
+      "SAGAN Peter": "negative: Dropped on 6% gradient section with 5km left on penultimate climb, signaling poor climbing condition compared to expectations.",
+      "SCHELLING Ide": "positive: Still finished 7th after extended pacing work, showing depth that suggests misallocation rather than weakness.",
+      "FROOME Chris": "negative: Popped on false flat after main climb descent when MOVISTAR pace intensified, not on steep gradient itself.",
+      "VALVERDE Alejandro": "neutral: MOVISTAR positioned him second wheel blocking chase when SÁNCHEZ attacked, tactics prioritized teammate over his sprint.",
+      "CHAVES Esteban": "negative: Left alone by BIKE EXCHANGE to chase 35-second gap on final climb, too late to be effective.",
+      "KÄMNA Lennard": "positive: Strong enough to attack 4-rider group but JUMBO managed gap, indicating GC form not just stage hunting.",
+      "SOLER Marc": "neutral: Lost wheels on descent but recaught, suggesting MOVISTAR descent pace was genuinely threatening even to climbers."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:15:07.415357+00:00"
+}

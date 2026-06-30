@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Attacks on steepest climb sections and continues aggression through descents, particularly when needing to respond after setbacks. Demonstrates willingness to attack even when appearing fatigued, using terrain changes as launch points.",
+  "team_tactics": "Team Sky employs premeditated, publicly announced tactical moves (crosswind attacks at specific kilometers) and exploits rival isolation through coordinated accelerations. Entire team willing to sacrifice for leader on mountain stages, controlling tempo to position Froome optimally.",
+  "terrain_preference": "Technical descents after reconnaissance (gains time via superior line knowledge), steepest gradient sections of climbs, and crosswind-exposed flat sections where team can execute coordinated attacks. Alpine stages favored.",
+  "vulnerability": "Mechanical issues on Cat-1 climbs expose isolation when team exhausted. Positioning struggles and crash susceptibility in nervous finales and early race phases. Cannot always respond to sharp accelerations from fresh rivals despite controlling race.",
+  "key_patterns": [
+    "Team Sky announces tactics publicly then executes successfully, psychological warfare strategy (2+ instances)",
+    "Exploits rival team isolation through coordinated accelerations even without numerical advantage (3+ instances)",
+    "Uses time bonuses and technical descents strategically after reconnaissance to gain marginal seconds (2+ instances)",
+    "Heightened crash paranoia evident in positioning changes on nervous stages, vulnerable in chaotic finales (3+ instances)",
+    "Attacks steepest gradients and descents aggressively to silence form doubts after setbacks (2+ instances)",
+    "Relies heavily on complete team sacrifice on mountain stages, vulnerable when isolated (2+ instances)"
+  ],
+  "form_trajectory": "negative: 2021-2022 observations show positioning struggles, crash involvement, and only breakaway-level performance after 2019 crash. Far from 2017 GC-contending form.",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "FROOME Chris",
+  "built_from": [
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 13",
+    "2017 Tour de France Stage 14",
+    "2017 Tour de France Stage 15",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 17",
+    "2017 Tour de France Stage 19",
+    "2017 Tour de France Stage 2",
+    "2017 Tour de France Stage 5",
+    "2017 Tour de France Stage 9",
+    "2021 Tour de France Stage 1",
+    "2022 Tour de France Stage 12"
+  ]
+}

@@ -1,21 +1,40 @@
 {
-  "attacking_style": "Does not initiate attacks; relies on consistent tempo riding to defend GC position. When others attack, responds reactively and matches moves rather than counterattacking.",
-  "team_tactics": "Vulnerable without team support in varied terrain. Lacks domestique protection in critical moments, particularly exposed when isolated before key climbs or in windy conditions.",
-  "terrain_preference": "Pure sustained climbs where he can ride at steady threshold pace. Exposed in crosswinds, technical finales, and when explosive accelerations required on steep gradients.",
-  "vulnerability": "Collapses when fatigued from cumulative GC efforts; loses minutes immediately when pace lifts late in Grand Tours. Crosswinds and technical race situations neutralize climbing strength.",
+  "attacking_style": "Rarely initiates sustained attacks; prefers tactical counter-attacks in final 3km or aggressive positioning for bonus seconds. Most effective following accelerations rather than creating them.",
+  "team_tactics": "BORA-hansgrohe provides strong domestique support (MÜHLBERGER, MAJKA, FORMOLO observed) with late-climb pacing, but Buchmann often fails to capitalize on perfect positioning delivered by teammates.",
+  "terrain_preference": "Excels on moderate gradients and gravel sectors (bridged to Bernal solo on gravel); struggles significantly on sustained 10%+ steep pitches where repeatedly dropped early.",
+  "vulnerability": "Sustained steep gradients above 10% expose clear weakness (dropped in opening kilometers multiple times). Crash-prone in Grand Tours, abandoning or losing preparation twice. Cannot convert perfect team positioning into wins.",
   "key_patterns": [
-    "Reactive climber who matches attacks rather than initiating (2019, 2022 observations)",
-    "Requires team support to survive non-climbing challenges like crosswinds (2017, implied 2022)",
-    "Accumulates fatigue in Grand Tours, vulnerable late-race when spent (2022 collapse after earlier efforts)",
-    "Consistently underestimated but lacks explosive finishing power for podium moves (2019 top-5 position)"
+    "Repeatedly dropped early on sustained 10%+ gradients across multiple Grand Tours",
+    "Strong time trial capability for a climber, beating pure climbers like Pinot",
+    "Excellent positioning and following wheels, but rarely converts to podium finishes",
+    "Crash disruptions: abandoned 2021 Giro while 6th GC, crashed out 2020 Dauphine while 3rd",
+    "Performs better on gravel/variable terrain than pure steep climbing",
+    "Willing to spend energy for marginal gains via bonus second attempts"
   ],
-  "form_trajectory": "negative: 2022 showed complete collapse when spent from earlier GC efforts, dropping immediately at 5km when pace lifted",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "negative: Recent 2022-2023 observations show being dropped on steep climbs earlier than peak 2019 period, suggesting declining ability on hardest gradients",
+  "races_analysed": 19,
+  "confidence": "high",
   "rider_name": "BUCHMANN Emanuel",
   "built_from": [
-    "2017 Tour de France Stage 16",
+    "2017 Vuelta a Espana Stage 1",
+    "2018 Itzulia Basque Country Stage 2",
+    "2018 Itzulia Basque Country Stage 6",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Vuelta a Espana Stage 4",
+    "2018 Vuelta a Espana Stage 4",
+    "2018 Vuelta a Espana Stage 7",
+    "2019 Criterium du Dauphine Stage 4",
+    "2019 Criterium du Dauphine Stage 7",
+    "2019 Tour de France Stage 14",
     "2019 Tour de France Stage 15",
-    "2022 Giro d'Italia Stage 20"
+    "2019 Tour de France Stage 20",
+    "2019 Tour de Romandie Stage 1",
+    "2019 UAE Tour Stage 3",
+    "2020 Criterium du Dauphine Stage 2",
+    "2020 Criterium du Dauphine Stage 4",
+    "2021 Giro d'Italia Stage 11",
+    "2021 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 20",
+    "2023 Vuelta a Espana Stage 6"
   ]
 }

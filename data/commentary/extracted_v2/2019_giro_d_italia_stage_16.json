@@ -1,0 +1,29 @@
+{
+  "label": "2019 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-28",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHEEK CORNY Giulio won from 21-rider breakaway while NIBALI attacked with 6.5km remaining on Mortirolo, exploding ROGLIC who lost 1:23 and dropped to third overall",
+    "winner": "CHEEK CORNY Giulio",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Nibali attacked immediately at Mortirolo base (6.5km from summit) before gradient steepened, creating separation before rivals could respond.",
+      "Roglic isolated without teammates on Mortirolo while Yates maintained two-man support, revealing critical team depth difference on hardest climbs.",
+      "MAL OMA advanced position despite not attacking, benefiting from Nibali forcing selection while conserving energy for later stages.",
+      "21-rider breakaway contained multiple GC threats, forcing favorites to chase themselves rather than relying on team structure."
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "positive: initiated decisive attack at Mortirolo base, dropped Roglic permanently, finished 4th on stage gaining substantial GC ground",
+      "ROGLIC Primoz": "negative: suffered catastrophic isolation on Mortirolo, lost 1:23 and dropped from 2nd to 3rd GC, showed first major weakness",
+      "CARAPAZ Richard": "positive: held pink jersey without teammates doing work, maintained position while Nibali attacked and Roglic cracked",
+      "YATES Simon": "positive: maintained two-teammate support on Mortirolo while rivals isolated, finished in lead group despite not attacking personally",
+      "MAL OMA Bauke": "positive: moved up GC without attacking, tactically smart to gain time while Nibali forced selection",
+      "LOPEZ Miguel Angel": "neutral: dropped initially then recovered to lead group, erratic positioning but salvaged time gains on others",
+      "HIRT Jan": "positive: challenged for stage win from breakaway, never won Grand Tour stage before, showed sprint strength"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:49:10.025442+00:00"
+}

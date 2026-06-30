@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-10",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won the sprint in Messina using both his teammate's leadout and parasitically drafting BORA-hansgrohe's train in the final 500m.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAVIRIA parasitically attached to BORA-hansgrohe leadout train final 500m when Quick Step positioning initially failed",
+      "Quick Step riders GAVIRIA and EWAN both boxed 400-500m out, requiring cross-road repositioning salvage"
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: salvaged sprint win despite being fouled/boxed at 500m, shows composure under positional chaos",
+      "EWAN Caleb": "negative: also fouled 500m out alongside teammate GAVIRIA, suggests Quick Step positioning error not individual",
+      "BENNETT Sam": "positive: podiumed despite no visible leadout support, indicates independent sprint strength",
+      "MARECZKO Jakub": "positive: second place finish, competitive in reduced bunch sprint",
+      "GREIPEL André": "neutral: mentioned as present but finished down the order despite BORA train",
+      "PIBERNIK Luka": "neutral: mistakenly celebrated thinking he won intermediate sprint lap early, mental error"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:01:03.094964+00:00"
+}

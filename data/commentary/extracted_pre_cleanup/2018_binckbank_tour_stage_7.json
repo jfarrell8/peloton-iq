@@ -1,0 +1,27 @@
+{
+  "label": "2018 BinckBank Tour Stage 7",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-19",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won stage 7 after MOHORIČ Matej's solo attack was neutralized, holding off VAN AVERMAET Greg in sprint.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOHORIČ Matej bridged to break then immediately attacked solo rather than cooperating, forcing jersey defense from MATTHEWS.",
+      "KRAGH ANDERSEN Søren sacrificed GC leader role to chase for MATTHEWS sprint, revealing team prioritization hierarchy mid-race.",
+      "VAN BAARLE Dylan attempted podium challenge against MOHORIČ in final, showing team willing to attack GC position opportunistically.",
+      "Multiple attacks from MOHORIČ and KRAGH ANDERSEN inside final kilometers failed to crack MATTHEWS, confirming his superior finish strength."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: defended GC under sustained attacks then won sprint, showing rare combination of resilience and speed",
+      "MOHORIČ Matej": "positive: bridged to break alone then immediately counter-attacked, demonstrating exceptional late-race aggression and strength",
+      "KRAGH ANDERSEN Søren": "neutral: sacrificed GC leader position to chase for teammate, strong but unable to crack MATTHEWS defensively",
+      "VAN AVERMAET Greg": "neutral: marked MATTHEWS closely but lacked final kick, second place without being able to contest sprint",
+      "ŠTYBAR Zdeněk": "neutral: present in final group for third but unable to challenge top two positions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:20:55.899110+00:00"
+}

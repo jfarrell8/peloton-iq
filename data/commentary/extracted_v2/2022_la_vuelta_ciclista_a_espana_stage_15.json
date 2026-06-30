@@ -1,0 +1,30 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 15",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-04",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "AARONSMEN Thymen won from 29-rider breakaway on Sierra Nevada queen stage while ROGLIC Primoz gained only 15 seconds on EVENEPOEL Remco despite repeated attacks with 7km remaining.",
+    "winner": "AARONSMEN Thymen",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC waited until sub-7km on final climb to attack EVENEPOEL, suggesting concern about overextending on longer efforts at altitude.",
+      "AG2R Citroen chased 29-rider breakaway despite having O'CONNOR inside it, revealing unwillingness to cede GC positioning even to own rider.",
+      "CRADDOCK Lawson bridged solo from 29-rider break, indicating original group lacked sufficient quality climbers to deter individual ambition.",
+      "QUICK-STEP and JUMBO-VISMA planted riders in 29-man break but never activated them to pace, suggesting insurance tactics over proactive disruption."
+    ],
+    "rider_signals": {
+      "AARONSMEN Thymen": "positive: won queen stage from elite breakaway at age suggesting pure climbing engine can convert long-range positioning into victories",
+      "ROGLIC Primoz": "negative: gained only 15 seconds despite using teammates early and attacking with 7km left, exposing limited superiority over EVENEPOEL on HC climbs",
+      "EVENEPOEL Remco": "positive: absorbed ROGLIC attack without teammates on Sierra Nevada final 7km, conceding minimal time despite being isolated earlier than rivals",
+      "RODRIGUEZ Carlos": "negative: dropped position despite CARAPAZ pacing support, suggesting Stage 14 effort compromised recovery on consecutive mountain stages",
+      "KELDERMAN Wilco": "negative: abandoned before first categorized climb on crucial GC stage, indicating physical collapse rather than tactical withdrawal",
+      "MAS Enric": "positive: attacked GC group independently on final climb, showing recovered form despite being teammate-less when LOPEZ also jumped",
+      "AYUSO Juan": "negative: caught out of position entering final climb despite being in podium contention, revealing positioning inexperience in summit finishes",
+      "O'CONNOR Ben": "positive: finished with ROGLIC despite team chasing his own breakaway, exploiting AG2R confusion to maximize personal GC without team sacrifice"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:13:16.859427+00:00"
+}

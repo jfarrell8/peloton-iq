@@ -1,0 +1,28 @@
+{
+  "label": "2023 Giro dItalia Stage 13",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-19",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "RUBIO Einer won from the breakaway after PINO Thibaut launched repeated attacks on the final climb but got his pocket picked in the sprint.",
+    "winner": "RUBIO Einer",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pino attacked repeatedly on final climb but exhausted himself, allowing fresher Rubio to outsprint him in final 200m.",
+      "Ineos rode tempo with Swift controlling valley before Fortunato attacked, revealing they protected top-10 Carthy rather than chasing stage.",
+      "Break held 4-minute gap through valley with tensions over work share, suggesting fractured cooperation weakened their margin management.",
+      "GC group lost only handful seconds at finish despite break's dominance, showing descending skill differential minimal on wet roads."
+    ],
+    "rider_signals": {
+      "PINO Thibaut": "negative: animating race with most attacks on final climb but lacked sprint finish, suggesting over-racing in likely final GT",
+      "RUBIO Einer": "positive: sat on Pino's repeated attacks then delivered decisive sprint, showing tactical maturity beyond typical aggression",
+      "CARTHY Hugh": "neutral: dropped Fortunato but couldn't follow break's best, confirming fringe top-10 status without stage-winning acceleration",
+      "SWIFT Ben": "positive: controlled valley and early climbs for Ineos despite non-climber profile, indicating unexpected high-mountain domestique utility",
+      "LEKNERSUND Andreas": "negative: lost 7 seconds in shortened mountain stage, revealing weakness when extreme weather eliminates standard preparation rhythms",
+      "CEPEDA Alexander": "negative: teammate in break but fell out with Pino and couldn't attack effectively, suggesting poor communication under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:00:41.418870+00:00"
+}

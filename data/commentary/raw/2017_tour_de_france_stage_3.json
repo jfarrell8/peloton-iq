@@ -7,32 +7,9 @@
     "video_id": "DzRmQS1SdOE",
     "title": "2017 Tour de France: Stage 3 Recap",
     "url": "https://youtube.com/watch?v=DzRmQS1SdOE",
-    "channel": "NBC Sports",
-    "published": "2017-07-03T20:41:04Z",
-    "match_score": 130.0,
-    "all_candidates": [
-      {
-        "video_id": "DzRmQS1SdOE",
-        "title": "2017 Tour de France: Stage 3 Recap",
-        "channel": "NBC Sports",
-        "published": "2017-07-03T20:41:04Z",
-        "match_score": 130.0
-      },
-      {
-        "video_id": "Z2-h3PFjQHA",
-        "title": "Uphill sprint leads to photo finish in Stage 3 of Tour de France",
-        "channel": "NBC Sports",
-        "published": "2017-07-03T17:02:49Z",
-        "match_score": 115.0
-      },
-      {
-        "video_id": "XyXYl-X3-yI",
-        "title": "Tour de France 2017: Stage 4 ends in chaos with two massive crashes | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-04T17:05:44Z",
-        "match_score": 80.0
-      }
-    ]
+    "channel": "playlist_import",
+    "published": "2018-02-20T00:42:06Z",
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 249,

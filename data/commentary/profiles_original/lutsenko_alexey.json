@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Solo attacks at medium distance (15-20km out), targeting disruptive timing rather than stage victory. Exploits gaps in sprint team organization windows.",
+  "team_tactics": "Operates independently without visible team setup. Attacks appear opportunistic, designed to create chaos rather than win from breakaway.",
+  "terrain_preference": "Flat to rolling terrain where sprint teams exist but aren't yet organized. Avoids pure sprint finishes where his lack of top-end speed is exposed.",
+  "vulnerability": "Lacks sprint speed to convert solo efforts into victories. Vulnerable once organized chase with fresh domestiques mobilizes against him.",
+  "key_patterns": [
+    "Launches solo disruption attacks 15-20km from finish despite lacking winning sprint speed",
+    "Times attacks to force premature domestique burns, disrupting opponent sprint trains",
+    "Operates as individual tactical disruptor rather than seeking personal stage wins"
+  ],
+  "form_trajectory": "unknown: single observation shows willingness to animate race tactically but insufficient data for trend",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "LUTSENKO Alexey",
+  "built_from": [
+    "2019 UAE Tour Stage 2",
+    "2019 UAE Tour Stage 2"
+  ]
+}

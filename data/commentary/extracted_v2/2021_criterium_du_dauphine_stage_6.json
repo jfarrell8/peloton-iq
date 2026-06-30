@@ -1,0 +1,28 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-04",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won the uphill sprint finish after GEGENHART Tao's premature attack with 200m remaining, while LUTSENKO secured yellow via time bonuses.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar setup revealed: LOPEZ paced final 2km to deliver VALVERDE from fifth wheel, exploiting numerical advantage over isolated GC threats.",
+      "LUTSENKO targeting time bonuses rather than stage win shows Astana prioritizing GC over glory with teammate IZAGUIRRE placing second overall.",
+      "GEGENHART's attack with 200m remaining failed because solo Ineos rider launched too far out against teams with multiple finishers present.",
+      "CRADDOCK's repeated breakaway success (second consecutive day at front) suggests EF deliberately burning domestique before mountains to save climbers."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: At 41, closing speed in uphill sprint exceeded younger specialists, suggesting peak form timing differs from standard GC contenders",
+      "POSTELBERGER Lukas": "negative: Yellow jersey faded on late climbs after minimal teamwork earlier, confirming Bora prioritizing KELDERMAN over jersey defense",
+      "GEGENHART Tao": "negative: Mistimed solo move with 200m left when outnumbered by Movistar/Astana riders reveals poor tactical awareness in group finishes",
+      "LUTSENKO Alexei": "positive: Secured yellow via strategic third-place finish for time bonus rather than contesting win, showing mature GC race management",
+      "LOPEZ Miguel Angel": "positive: Willingness to pace final 2km for VALVERDE rather than own result indicates Movistar flexible hierarchy favoring in-form rider",
+      "CRADDOCK Lawson": "neutral: Second consecutive day initiating successful break suggests EF using him as expendable asset before decisive mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:35:26.691165+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets early moves rather than late attacks, showing willingness to survive in breaks for extended periods rather than launching decisive late accelerations.",
+  "team_tactics": "Flexible role oscillating between full domestique sacrifice (extended pace-making on climbs/descents) and independent breakaway hunting when team leadership not required.",
+  "terrain_preference": "Medium-mountain stages and single difficult climbs suit best; exposed and suffers badly on consecutive mountain stages in Grand Tours, particularly in final week.",
+  "vulnerability": "Consecutive mountain stages destroy form - finished dead last on Stage 17 TDF 2023 after accumulated fatigue. Cannot sustain aggressive KOM point hunting when marked.",
+  "key_patterns": [
+    "Breakaway specialist who survives long rather than attacks late, evident in Dauphiné and TDF appearances.",
+    "Reverts to defensive riding when marked, prioritizing survival over point collection (TDF 2022 KOM behavior).",
+    "Capable of surprise podium results in week-long stage races (Romandie 2nd) when fresh and unfocused upon.",
+    "Performs exemplary domestique work with extended pace-making sacrifices when team requires (Giro 2017 for Dumoulin)."
+  ],
+  "form_trajectory": "negative: 2023 TDF showed severe decline with dead-last finish on mountain stage, contrasting sharply with competitive 2022 breakaway presence",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "GESCHKE Simon",
+  "built_from": [
+    "2017 Giro d'Italia Stage 19",
+    "2022 Criterium du Dauphine Stage 8",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de Romandie Stage 5",
+    "2023 Tour de France Stage 18"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 18",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-14",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won solo from breakaway after dropping Caruso/Cron on final climb ascent, extended advantage on descent while Ayuso-Lando battled for best Spaniard",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL responded to CRON attack with immediate counter-acceleration that crushed psychological momentum, created 1:21 gap before final descent",
+      "VLASOV attacked alone following DENZ wheel late in stage to defend top-10, suggesting GC team support already dissolved",
+      "VINGEGAARD and ROGLIC super-domestiques paced SEPP final kilometers showing inverted hierarchy for protecting 17-second red jersey margin",
+      "AYUSO vs LANDO best-Spaniard battle reached physical sprint contest at line despite AYUSO theoretically leading team"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: dismissed CRON attack as disrespectful then immediately distanced him, showing psychological dominance translates to physical acceleration",
+      "CRON Andy": "negative: attack on second-to-last climb was tactically premature and psychologically read/countered by EVENEPOEL instantly",
+      "SEPP Kuss": "neutral: relied on VINGEGAARD/ROGLIC pacing in closing kilometers rather than own legs, 17-second margin indicates fragility",
+      "VLASOV Aleksandr": "negative: reduced to solo defending GC position by following DENZ without team support, signals isolation",
+      "AYUSO Juan": "negative: couldn't drop LANDO despite team leadership status, lost best-Spaniard battle in final sprint",
+      "VINGEGAARD Jonas": "positive: worked as super-domestique for SEPP despite being 17 seconds down, confirms team hierarchy resolution"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:48:42.506405+00:00"
+}

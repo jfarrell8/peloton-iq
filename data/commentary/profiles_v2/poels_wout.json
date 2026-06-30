@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Versatile attacker comfortable with sustained aggression from kilometer zero for jersey hunting, but also capable of precisely timed late attacks (inside 1km) when in breakaways or select groups. Shows tactical intelligence in choosing when to commit.",
+  "team_tactics": "Functions primarily as climbing domestique but given freedom to hunt stages and jerseys when team GC ambitions are secure or when specific objectives (KOM jersey) are prioritized. Team confident releasing him from support duties.",
+  "terrain_preference": "Strong on sustained climbs where he can match GC contenders (Nibali, Quintana level), but shows rare finishing speed for a climbing domestique in reduced sprint situations. Comfortable on uncategorized and categorized climbs alike.",
+  "vulnerability": "Limited observations of weaknesses, but role as domestique suggests lacks explosiveness of pure climbers. Most effective in breakaways or reduced groups rather than mass sprint finishes.",
+  "key_patterns": [
+    "Demonstrates high-level climbing ability, staying with top GC riders (Nibali, Quintana) multiple times.",
+    "Given tactical freedom for stage hunting when team GC situation allows or secured.",
+    "Shows unexpected sprint calculation and timing for climbing domestique archetype, winning from small groups.",
+    "Deployed for alternative objectives beyond GC support, including KOM jersey hunting missions.",
+    "Maintains strong finishing form in multi-week Grand Tours, performing late in races."
+  ],
+  "form_trajectory": "positive: 2023 Vuelta showed evolved tactical sophistication with stage win from late attack, combining climbing strength with sprint timing rarely seen in earlier domestique-focused roles",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "POELS Wout",
+  "built_from": [
+    "2017 Giro d'Italia Stage 16",
+    "2017 Giro d'Italia Stage 20",
+    "2021 Tour de France Stage 8",
+    "2023 La Vuelta Ciclista a Espana Stage 20",
+    "2023 La Vuelta Ciclista a Espana Stage 20",
+    "2023 Vuelta a Espana Stage 16"
+  ]
+}

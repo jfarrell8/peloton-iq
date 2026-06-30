@@ -1,0 +1,25 @@
+{
+  "label": "2017 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2017-03-20",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "LAGESSE won sprint on Stage 1 after BOUHANNI started too early and inadvertently led him out, while MOVISTAR won Stage 2 TTT before later time penalties.",
+    "winner": "Unable to determine from roster",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BOUHANNI initiated sprint prematurely from second position, allowing trailing rider to use slipstream momentum for line victory.",
+      "GREIPEL positioned fifth wheel in Stage 1 sprint, abandoned effort early recognizing positioning error.",
+      "MOVISTAR surprisingly competitive in TTT despite lacking time trial reputation, suggesting peaked preparation for Catalunya."
+    ],
+    "rider_signals": {
+      "BOUHANNI Nacer": "negative: poor sprint timing and positioning, started effort too early and led out competitor for defeat",
+      "GREIPEL André": "neutral: recognized poor positioning fifth wheel in sprint, conserved energy by sitting up early",
+      "VALVERDE Alejandro": "positive: team unexpectedly fast in TTT, set fastest time before later penalties on Stage 3",
+      "CONTADOR Alberto": "negative: Trek team lost 1:15 to MOVISTAR in TTT, significant deficit for GC contender this early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:14:47.712664+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Aggressive early-race positioning, targeting breakaways from the gun rather than late attacks. Prefers committing to long-range moves on mountain stages, often bridging to establish groups in opening kilometers.",
+  "team_tactics": "Teams deploy him as breakaway specialist rather than protected GC asset. Given freedom to chase early moves without domestique support, expected to position independently before mountains and commit to long efforts.",
+  "terrain_preference": "Excels on high-volume climbing stages (9000ft+) where climbing endurance matters more than explosive power. Strongest in long breakaways on multi-climb stages. Struggles on steep, short climbs requiring sudden accelerations.",
+  "vulnerability": "Dropped on steep finishing climbs (4km to go) when gradients spike. Cannot respond to explosive crosswind accelerations or sudden pace changes. Weakness closes down in final kilometers of sustained climbs when fresh riders attack.",
+  "key_patterns": [
+    "Immediate race-start aggression across multiple Tours and stage races, targeting early breaks consistently.",
+    "Repeatedly bridges from peloton to chase groups, showing willingness to burn matches early (4+ instances).",
+    "Strong in long breakaways but frequently arrives too late or fades in final kilometers (3 instances).",
+    "Climbing endurance outweighs power: performs better on volume than explosive gradients (Dauphiné 9000ft finish).",
+    "American coordination with compatriots (Powless, McNulty) suggests tactical cooperation in break formation.",
+    "Multiple white jersey competitions indicate focus on U25 classification over outright stage wins."
+  ],
+  "form_trajectory": "positive: Career-best Tour podium (3rd, 2023) plus Dauphiné climbing breakthrough shows upward trajectory through 2023. Increased aggression frequency suggests growing confidence in Grand Tour breakaway hunting.",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "JORGENSON Matteo",
+  "built_from": [
+    "2021 Paris-Nice Stage 4",
+    "2022 Criterium du Dauphine Stage 3",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Nice Stage 5",
+    "2022 Paris-Nice Stage 7",
+    "2022 Tour de France Stage 13",
+    "2022 Tour de France Stage 16",
+    "2023 Criterium du Dauphine Stage 1",
+    "2023 Criterium du Dauphine Stage 1",
+    "2023 Paris-Nice Stage 7",
+    "2023 Tour de France Stage 10",
+    "2023 Tour de France Stage 12",
+    "2023 Tour de France Stage 9",
+    "2023 Tour de France Stage 9"
+  ]
+}

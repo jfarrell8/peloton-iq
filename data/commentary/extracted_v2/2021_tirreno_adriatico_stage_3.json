@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-12",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won stage 3 after Quick-Step launched ALAPHILIPPE as a decoy with 900m remaining, forcing VAN AERT to chase and waste energy.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step used ALAPHILIPPE as a decoy lead-out at 900m, forcing VAN AERT to chase and drag VAN DER POEL into winning position.",
+      "Mass Bora-Hansgrohe crash in slow finale suggests overcrowding from poor positioning strategy before 1km kite.",
+      "VAN AERT admitted post-race that chasing ALAPHILIPPE's move cost him energy—decoy tactic worked despite losing."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: converted frustration from stage 2 mistake into immediate win, showed superior decision-making by following VAN AERT's wheel",
+      "ALAPHILIPPE Julian": "positive: sacrificed personal sprint chances to create tactical chaos as decoy for Quick-Step with 900m remaining",
+      "VAN AERT Wout": "negative: acknowledged tactical error taking VAN DER POEL's wheel was 'waste of energy' after chasing ALAPHILIPPE's decoy move",
+      "VIVIANI Elia": "negative: Cofidis sprinter dropped on grippy final climb with 46km remaining, suggesting vulnerability on false-flat finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:49:15.031461+00:00"
+}

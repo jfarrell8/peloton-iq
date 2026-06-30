@@ -1,0 +1,29 @@
+{
+  "label": "2017 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-27",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PINOT attacked late on the final climb to Asiago, won with 10-second bonus, DUMOULIN lost 15 seconds and the pink jersey calculations tight within 75 seconds across top five.",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ZAKARIN forced tempo surges multiple times before the finish climb, softening DUMOULIN before PINOT's decisive late attack.",
+      "QUINTANA required repeated wheel-following efforts rather than initiating attacks, signaling depleted form relative to ZAKARIN and PINOT.",
+      "POZZOVIVO bridged to winning move and contested sprint, teams underestimated his TT ability at 75-second deficit.",
+      "DUMOULIN isolated without teammates on final climb, lost 15 seconds through accumulation rather than single explosive attack."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "positive: attacked late on final climb with enough reserves to win sprint and take 10-second bonus against direct GC rivals",
+      "ZAKARIN Ilnur": "positive: initiated multiple accelerations to fracture the group, finished second on stage showing dual threat of attacks and sprint speed",
+      "DUMOULIN Tom": "negative: isolated and lost 15 seconds to main rivals, showed vulnerability on lumpy finishes when team cannot control",
+      "QUINTANA Nairo": "neutral: followed wheels effectively but never initiated decisive attacks, same time as winner but required teammates to chase",
+      "POZZOVIVO Domenico": "positive: bridged to lead group and nearly won stage at 75-second GC deficit, underrated time trial threat",
+      "NIBALI Vincenzo": "neutral: remained in contact with favorites throughout attacks but showed no offensive capability",
+      "YATES Adam": "negative: distanced when ZAKARIN accelerated early, unable to follow initial surge before final climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:00:19.214045+00:00"
+}

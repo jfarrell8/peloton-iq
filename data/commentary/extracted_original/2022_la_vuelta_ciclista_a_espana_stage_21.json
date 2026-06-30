@@ -1,0 +1,25 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 21",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-11",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MOLANO Juan Sebastian won Stage 21 in Madrid after being forced to continue his leadout when PEDERSEN Mads chased, accidentally taking victory ahead of the sprint.",
+    "winner": "MOLANO Juan Sebastian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JOHANSSON Julius and PLAPP Luke's late breakaway forced sprinter teams to chase deep into final lap, disrupting leadout organization.",
+      "UAE Emirates tried distance sprint setup with OLIVEIRA Ivo to MOLANO to ACKERMANN but leadout man kept going under PEDERSEN pressure.",
+      "Stage 21 intermediate sprint saw RODRIGUEZ Carlos attempt bonus seconds attack on AYUSO Juan to defend podium position but failed."
+    ],
+    "rider_signals": {
+      "MOLANO Juan Sebastian": "positive: forced to abandon leadout role and continue sprinting when PEDERSEN chased, showing hidden finishing speed for domestique",
+      "PLAPP Luke": "positive: animated late breakaway attempt with technical corners remaining suggests confidence in criterium-style handling",
+      "RODRIGUEZ Carlos": "negative: attempted intermediate sprint bonus seconds to gain podium over AYUSO but couldn't execute tactical plan",
+      "PEDERSEN Mads": "neutral: won points classification by enormous margin but second place shows he peaked earlier in race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:44:12.701593+00:00"
+}

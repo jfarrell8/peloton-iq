@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-05",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DE MARCHI Alessandro attacked solo on the final climb, refusing to arrive with RESTREPO for a sprint finish, winning his first race in three years.",
+    "winner": "DE MARCHI Alessandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PINOT Thibaut went in break 2:33 down overall to claim virtual race lead, but GC group closed 19-second gap without declaring gaps.",
+      "DE MARCHI Alessandro attacked early on final climb specifically to avoid sprint finish with RESTREPO, recognizing tactical sprint disadvantage.",
+      "Education First team hit front with mass during rain shower, suggesting aggressive weather-based positioning to animate GC race.",
+      "VALVERDE Alejandro and Lotto-Jumbo stayed engaged in final GC skirmish despite no gaps declared, testing YATES Simon without committing fully."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "positive: positioned 2:33 down but comfortable riding away from peloton to claim virtual lead, suggesting climbing form returning",
+      "DE MARCHI Alessandro": "positive: first win in three years after admitting he questioned whether he'd lost feeling for winning, mental barrier broken",
+      "YATES Simon": "neutral: red jersey held but required team support when Education First accelerated in rain, not controlling race solo",
+      "VALVERDE Alejandro": "neutral: actively positioned in final GC skirmish but unable to force time gaps despite terrain and conditions",
+      "ROLLAND Pierre": "neutral: animated mountains classification competition but beaten by MOLARD Rudy at intermediate point"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:46:37.261411+00:00"
+}

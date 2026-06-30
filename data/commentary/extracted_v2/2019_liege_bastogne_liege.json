@@ -1,0 +1,28 @@
+{
+  "label": "2019 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2019-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGELSANG Jakob attacked over the final climb (1.3km Côte de la Roche-aux-Faucons, 13km to go), shed Formolo and Woods on descent, survived massive slide.",
+    "winner": "FUGELSANG Jakob",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Van Avermaet attacked repeatedly on Côte de la Locked (74km out) to fatigue favorites before final climb selection.",
+      "Movistar accelerated hard after Valverde abandoned (103km to go), revealing team shifts strategy when captain drops.",
+      "Fugelsang's winning move came 200m after Côte de la Roche-aux-Faucons summit, not on climb itself—descent attack caught favorites recovering.",
+      "Wellens initiated final selection at climb base for Lotto-Soudal, demonstrating domestique-led selection attempts when team lacks pure climber."
+    ],
+    "rider_signals": {
+      "FUGELSANG Jakob": "positive: consistent spring podiums across all classics preceding this win suggests peaking strategy works for stage racers in monuments",
+      "ALAPHILIPPE Julian": "negative: visibly cracked on Roche-aux-Faucons, worked backward through group—unusual vulnerability on short steep finale he typically dominates",
+      "VAN AVERMAET Greg": "neutral: multiple testing attacks at 74km suggests one-day specialists probe earlier on cold/wet days, but lacked finishing power",
+      "WOODS Michael": "negative: bridged to lead group over final climb but immediately shed by Fugelsang's post-summit acceleration—acceleration deficit after sustained efforts",
+      "VALVERDE Alejandro": "negative: abandoned at 103km, Movistar immediately changed tactics—suggests team tactics predetermined around leader presence",
+      "FORMOLO Davide": "positive: held second behind Fugelsang after summit attack, confirming Barcelona solo stage win showed genuine climbing emergence"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:52:43.988407+00:00"
+}

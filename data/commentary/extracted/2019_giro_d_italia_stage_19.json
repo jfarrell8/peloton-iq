@@ -1,0 +1,26 @@
+{
+  "label": "2019 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-31",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHAVES attacked repeatedly in final 3km on climb, finally dropped LOPEZ and BIDARD with 2.5km to go, soloed to victory while LÓPEZ attacked behind to claw back time.",
+    "winner": "CHAVES Esteban",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CHAVES repeated accelerations (5+ attacks) depleted group before decisive move at 2.5km, overwhelming rivals' recovery capacity rather than single explosive attack.",
+      "LÓPEZ attacked in pink jersey group after losing contact with CHAVES, gaining ~1min on CARAPAZ group when numerical superiority prevented coverage.",
+      "ROGLIČ attempted late attacks suited to his punchy finish capability, but CARAPAZ wheel-covered instantly showing INEOS protective vigilance before TT."
+    ],
+    "rider_signals": {
+      "CHAVES Esteban": "positive: multiple explosive accelerations before decisive move reveals elite recovery between efforts, not just single-attack capacity",
+      "LÓPEZ Miguel Ángel": "positive: attacked behind race-winning move to gain substantial time, showing aggressive mindset despite lower GC position",
+      "CARAPAZ Richard": "positive: covered every ROGLIČ late attack despite pink jersey defensive posture, maintaining control into decisive TT stage",
+      "ROGLIČ Primož": "neutral: attempted multiple late accelerations on finish-suited terrain but couldn't split group, signaling limited climbing superiority over CARAPAZ",
+      "BIDARD François": "negative: held CHAVES initially but cracked when attacks repeated, demonstrating threshold durability gap versus explosive recovery capacity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:57:06.181067+00:00"
+}

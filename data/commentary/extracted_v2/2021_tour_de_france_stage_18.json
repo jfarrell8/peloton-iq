@@ -1,0 +1,24 @@
+{
+  "label": "2021 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-15",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked early on final climb to Luz Ardiden, took stage win plus time bonuses to extend GC lead over VINGEGAARD by 6 seconds.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "POGAČAR prioritized time bonuses even with 5:45 GC lead, attacking early on Luz Ardiden rather than waiting for maximum damage.",
+      "INEOS tempo during PAGACHO breakaway attempt prevented any meaningful GC reshuffling despite aggressive riding from lower-placed contenders.",
+      "B&B Hotel explicitly hunting breakaway spots pre-Tourmalet with MAHORIČ/PÉRICHON/ALAPHILIPPE, suggesting team directive to salvage Tour with stage hunting."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Won stage, extended GC lead, and claimed polka dots on final mountain stage, signaling complete dominance across all terrain",
+      "VINGEGAARD Jonas": "negative: Lost 6 additional seconds to POGAČAR despite already trailing by nearly 6 minutes, showing no capacity to reduce deficit",
+      "VAN AERT Wout": "negative: Lost polka dot jersey by 40 points on final mountain stage after multiple breakaway days, revealing futility of accumulation strategy against true climber"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:52:00.349867+00:00"
+}

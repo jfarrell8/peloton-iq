@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 20",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-04",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CHAPATTE Clement won from a late solo attack at 1.7km after YATES Adam's pace-forcing for INEOS shattered the race, while LOPEZ Miguel Angel abandoned.",
+    "winner": "CHAPATTE Clement",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS sacrificed entire team 78km out to close 12-minute gap, revealing willingness to burn roster for GC defense.",
+      "YATES Adam attacked for INEOS but BERNAL Egan refused to chase, exposing internal team hierarchy conflict on mountain stage.",
+      "ROGLIC Primoz declined chasing CHAPATTE's 1.7km attack despite bonus seconds available, prioritizing energy conservation before final TT.",
+      "LOPEZ Miguel Angel abandoned mid-stage after teammates set tempo, suggesting team tactics can psychologically break even top-5 GC riders."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: attacked away from own team leader BERNAL, showing he was riding for himself not team GC position",
+      "BERNAL Egan": "negative: called for pace early but refused to chase YATES's move, suggesting physical crisis despite being aggressor",
+      "LOPEZ Miguel Angel": "negative: abandoned mid-race while in GC contention, catastrophic mental collapse under sustained INEOS tempo",
+      "MAEDA Gino": "positive: worked for HAIG all day then claimed white jersey, revealing Team BikeExchange miscalculated his own GC potential earlier",
+      "CHAPATTE Clement": "positive: solo attack 1.7km out when GC riders hesitated over who would chase, exploiting stalemate psychology",
+      "HAIG Jack": "negative: burned domestiques MAEDA and PARDJON from break but suffered most when GC group attacked, poor pacing judgment",
+      "ROGLIC Primoz": "neutral: watched CHAPATTE go without chasing bonus seconds, cold TT specialist math with 2:38 advantage heading to final stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:27:48.869323+00:00"
+}

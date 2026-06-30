@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-01",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE sprinted from SAGAN's wheel inside final kilometer after MACHADO caught at 6km, using technical uphill corners.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MACHADO granted 22-minute gap reveals GC teams willing to allow deep time deficits when breakaway non-threatening overall.",
+      "VALVERDE positioned behind SAGAN's leadout through final technical corner, exploiting world champion as unwitting pilot through dangerous turn.",
+      "GARCÍA CORTINA opened sprint too early on uphill finish, allowing patient wheels behind to benefit from his wind-breaking.",
+      "Groupama-FDJ sat out chase work despite MOLARD in red, forcing sprinter teams to control while protecting GC position."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: demonstrated uphill sprint superiority and tactical patience on technical finish compared to pure sprinters",
+      "SAGAN Peter": "negative: mechanical issues disrupted positioning preparation, then unable to hold off VALVERDE despite leading final corner",
+      "MACHADO Tiago": "positive: survived solo longest from three-man break, showing endurance capacity under extreme heat conditions",
+      "GARCÍA CORTINA Iván": "negative: poor sprint timing on uphill finish, accelerating too early and fading as launchpad for others",
+      "MOLARD Rudy": "neutral: defended red jersey passively, using breakaway time gap to avoid team chase responsibility"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:50:04.419496+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2019 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-26",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CATALDO Daniel won from a 200km+ breakaway after Mitchelton-Scott's repeated attacks on the final climb fractured the GC group, with NIBALI gaining time on descent.",
+    "winner": "CATALDO Daniel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Mitchelton-Scott attacked repeatedly on Civiglio despite Yates being down in GC, prioritizing stage hunting over defending position.",
+      "Nibali gained time on technical Como descent when Carapaz's Movistar refused to chase, exploiting descending skill differential decisively.",
+      "Roglic suffered mysterious mechanical/crash at back of bunch during attacks, revealing team positioning vulnerability when pace surges.",
+      "Movistar kept high tempo before final climb despite leading GC, inviting attacks rather than controlling defensively with numbers."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Attacked multiple times despite being 9th GC, prioritizing bonus seconds and stage result over conservation tactics.",
+      "NIBALI Vincenzo": "positive: Bridged solo to leaders on descent after attacking Civiglio, showing late-race aggression unusual for veteran.",
+      "ROGLIC Primoz": "negative: Lost 40+ seconds due to positioning error or mechanical during attacks, caught behind crash/problem at crucial moment.",
+      "CARAPAZ Richard": "neutral: Movistar maintained high tempo before climbs but refused to chase Nibali's descent move, conservative maglia rosa strategy.",
+      "CARTHY Hugh": "positive: Initiated move on Civiglio that forced reactions, EF positioning him aggressively despite modest GC position.",
+      "CATALDO Daniel": "positive: Survived 200km+ breakaway with 15-minute max gap, holding off chasers by 20 seconds after Mitchelton brought back significantly."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:48:55.768465+00:00"
+}

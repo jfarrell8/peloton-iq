@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Launches solo attacks after summit or on descents (55km+ from finish), exploiting hesitation rather than pure climbing power. Prefers long-range moves that test pursuers' commitment over explosive finale accelerations.",
+  "team_tactics": "Willing to sacrifice GC and work deep into finales as super-domestique. When riding for himself, often isolated early and forced to attack solo without team support to create winning opportunities.",
+  "terrain_preference": "Ardennes-style punchy climbs and technical descents where all-rounder skills shine. Strong time trialist on flatter courses but fades when climbs extend. Non-specialist build limits sustained climbing against pure GC riders.",
+  "vulnerability": "Prone to tactical errors (doomed long solos, refusing to chase when advantageous). Struggles to sustain TT power on climbing parcours. Can be isolated early when team commits elsewhere, forcing premature attacks.",
+  "key_patterns": [
+    "Attacks after summit not on climb itself, using descents tactically (LBL, Tour 2022)",
+    "Launches solo moves 50-55km from finish, testing commitment over explosive power (LBL, Tour)",
+    "Often isolated without domestique support, forced into repeated solo attacks (Giro 2017 multiple stages)",
+    "Strong opening TT efforts but fades when climbing integrated (Giro 2019, Paris-Nice 2019)",
+    "Versatile super-domestique willing to sacrifice own result until 800m (Catalunya 2018)",
+    "Maintains GC through positioning not stage heroics when targeting overall (Giro 2017 rosa)"
+  ],
+  "form_trajectory": "positive: 2022 Tour win after 'years of struggling form' and Tour de Suisse renaissance signals return to competitive level after 2019-2022 slump",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "JUNGELS Bob",
+  "built_from": [
+    "2017 Giro d'Italia Stage 10",
+    "2017 Giro d'Italia Stage 15",
+    "2017 Giro d'Italia Stage 4",
+    "2017 La Fleche Wallonne",
+    "2017 Tirreno-Adriatico Stage 2",
+    "2018 Liege-Bastogne-Liege",
+    "2018 Liege-Bastogne-Liege",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2019 Giro d'Italia Stage 9",
+    "2019 Paris-Nice Stage 5",
+    "2022 Tour de France Stage 9",
+    "2022 Tour de France Stage 9",
+    "2022 Tour de Suisse Stage 8"
+  ]
+}

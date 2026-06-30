@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-10",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked final climb (11% ramps) after marking EVENEPOEL's move, closed down LAFAY and soloed for stage win and race lead takeover",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL's early long-range attack attempt was immediately marked by POGAČAR, forcing QuickStep to wait for final climb",
+      "POGAČAR used LAFAY's attack as launchpad rather than initiating himself, conserving energy until French domestique created separation",
+      "ALAPHILIPPE working as domestique for EVENEPOEL on climbs reveals QuickStep prioritizing GC over stage hunting despite sprinter form"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: early long-range move marked easily by POGAČAR, couldn't follow on final 11% ramps despite team support",
+      "POGAČAR Tadej": "positive: tactically patient marking all threats before accelerating, turned 9-second deficit into 9-second lead with stage win",
+      "LAFAY Victor": "positive: strong enough to force POGAČAR's hand on final climb, held second place after being used as springboard",
+      "BINGOL Muhammed Enes": "positive: third place unexpected from domestique role, suggests underhyped climbing form on steep gradients",
+      "SIMMONS Quinn": "neutral: targeted KOM points aggressively from breakaway, signaling stage hunting rather than GC ambitions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:19:48.240491+00:00"
+}

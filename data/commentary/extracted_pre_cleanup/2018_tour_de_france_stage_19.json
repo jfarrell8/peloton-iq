@@ -1,0 +1,35 @@
+{
+  "label": "2018 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-27",
+  "stage": 19,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked on the descent after Tourmalet, gained 19 seconds on THOMAS through daredevil descending, and moved into third overall ahead of FROOME.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LANDA's long-range Tourmalet attack temporarily put him virtually second overall, forcing KRUIJSWIJK domestique work.",
+      "ROGLIČ positioned directly behind DUMOULIN's attacks, then countered on descent when Dutchman had exhausted himself.",
+      "Movistar three-pronged strategy failed when VALVERDE and QUINTANA both dropped before LANDA could consolidate gains.",
+      "THOMAS never initiated, only reacted to every attack with closed mouth, revealing confidence-based defensive strategy."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: descending superiority plus LottoNL-Jumbo strength nearly matched Sky, now hunting DUMOULIN's second place only 19 seconds back",
+      "LANDA Mikel": "positive: solo Tourmalet attack gained 3+ minutes before being reeled, capable of ambitious long-range moves",
+      "THOMAS Geraint": "positive: responded effortlessly to all attacks with mouth closed, complete control suggests deeper reserves than rivals",
+      "FROOME Chris": "negative: suffered compared to THOMAS, lost podium spot to teammate ROGLIČ, appears weaker than 2017 form",
+      "DUMOULIN Tom": "negative: attacked multiple times but unable to distance ROGLIČ, then couldn't follow on descent despite maximum effort",
+      "QUINTANA Nairo": "negative: dropped from fifth to out of top-five, previous day's crash injury clearly compromising climbing ability",
+      "VALVERDE Alejandro": "negative: dropped early on final climb, preventing Movistar from numerical advantage when LANDA attacked",
+      "KRUIJSWIJK Steven": "positive: big acceleration on descent took huge chunk from LANDA's advantage, key domestique work",
+      "AMADOR Andrey": "positive: breakaway positioning allowed him to assist LANDA when they merged, intelligent team placement",
+      "ALAPHILIPPE Julian": "positive: clinched polka dots with 79-point margin, quick enough to win intermediate sprints for KOM points",
+      "LATOUR Pierre": "positive: survived 50km solo time trial after being dropped early, retained white jersey through solid time-trialing",
+      "BERNAL Egan": "positive: domestique work for Sky while 21 years old, identified as future yellow jersey contender",
+      "MARTIN Dan": "neutral: finished in group 19 seconds back, solid but not exceptional performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:35:51.237693+00:00"
+}

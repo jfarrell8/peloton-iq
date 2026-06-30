@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro dItalia Stage 2",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-07",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MILAN Yonatan won the sprint on debut after a crash at 3.7km split the field, catching CAVENDISH and dropping GEOGHEGAN HART 6 places on GC.",
+    "winner": "MILAN Yonatan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LA PERA attacked both KOM climbs aggressively on debut to secure jersey before home region stage, typical young rider overcommitment.",
+      "Break caught at 38km remaining triggered positioning chaos; teams failed to control narrowing roads before 3km rule protection zone.",
+      "Crash occurred exactly 700m before 3km banner, suggesting positioning pressure intensifies precisely in that unprotected window before safety rule."
+    ],
+    "rider_signals": {
+      "MILAN Yonatan": "positive: Won Grand Tour debut sprint showing track power translates to road despite February win drought",
+      "CAVENDISH Mark": "negative: Caught in late crash despite local knowledge from 2011 win suggests positioning deterioration",
+      "GEOGHEGAN HART Tao": "negative: Lost 4 GC positions (4th to 8th) on supposed easy stage, revealing weak positioning team support",
+      "GROVES Kaden": "neutral: Led by SINKELDAM but only 3rd suggests leadout timing issues on debut with team",
+      "LA PERA Paul": "positive: 22-year-old debutant won KOM jersey through calculated double-climb attack, not break survival",
+      "VLASOV Aleksandr": "positive: Moved up to 7th GC on flat stage crash carnage, indicating superior positioning instincts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:44:11.287656+00:00"
+}

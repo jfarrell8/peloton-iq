@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Not an attacker; pure leadout specialist who executes high-speed accelerations in final 1km, typically peeling off 180-200m from finish.",
+  "team_tactics": "Positioned as penultimate leadout rider, delivering final sprinter with massive accelerations through technical sections (tunnels, bends) starting earlier than rival trains to create separation.",
+  "terrain_preference": "Flat sprint stages where sustained high-speed leadout work is required; particularly effective through technical features like tunnels that allow team to create selections.",
+  "vulnerability": "Tactical positioning errors when peeling off on bends (right-side peel-off on right bend cost sprinter inside line); reliant on having elite sprinter to convert his work.",
+  "key_patterns": [
+    "Executes penultimate leadout role, peeling off 180-200m from finish line (2 observations)",
+    "Delivers through technical features using surging accelerations to create selections (2 observations)",
+    "Team initiates sprint trains earlier than rivals to establish control (2 observations)",
+    "Elite-level leadout execution often wasted without top sprinter positioned behind him (2 observations)"
+  ],
+  "form_trajectory": "unknown: switched teams between observations (Jumbo-Visma to Bahrain), role consistent but no recent data post-2019",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "JANSE VAN RENSBURG Reinardt",
+  "built_from": [
+    "2017 Tour de France Stage 7",
+    "2017 Tour de France Stage 7",
+    "2019 Tour de France Stage 4",
+    "2019 UAE Tour Stage 7"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-27",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won the Stage 3 ITT, retaining yellow by 6 seconds over BERNAL after THOMAS collapsed to 25th place.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint rode in service of BERNAL despite being third overall, revealing Sky's hierarchy before mountain stages.",
+      "PORTE Richie set fastest split at halfway but faded to third, suggesting ITT pacing issues after injury comeback.",
+      "ROGLIC held 6-second gap despite BERNAL's strong ride, indicating defensive ITT strategy when holding small GC lead."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: relegated to domestique role despite being 3rd GC, finishing 25th shows Sky prioritized BERNAL over him",
+      "PORTE Richie": "neutral: fastest halfway split but faded significantly, suggesting endurance limitations despite stage win form",
+      "BERNAL Egan": "positive: moved to 2nd at 6 seconds with Thomas working for him, Sky's protected rider pre-mountains",
+      "ROGLIC Primoz": "positive: defended yellow by exact margin needed, showing mature GC race management in short ITT",
+      "DENNIS Rohan": "negative: only 6th place despite time trial specialty, weak signal for GC contention",
+      "MARTIN Dan": "positive: strong ride after poor season start, indicating mid-stage race form coming"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:34:35.347675+00:00"
+}

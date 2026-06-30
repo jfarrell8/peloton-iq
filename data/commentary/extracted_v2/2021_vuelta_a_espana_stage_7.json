@@ -1,0 +1,29 @@
+{
+  "label": "2021 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "STORER Michael won from 30-rider breakaway while GROSSCHARTNER Felix missed GC lead by 8 seconds through conservative cat-and-mouse tactics in final group.",
+    "winner": "STORER Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM committed five of nine riders to breakaway, overwhelming numerical advantage enabled STORER's stage win with teammates controlling tempo.",
+      "GROSSCHARTNER Felix lost red jersey by 8 seconds by playing cat-and-mouse in chase group instead of attacking hard.",
+      "Movistar lost tactical advantage of three riders in top-five after VALVERDE crashed, neutralizing their numerical superiority over ROGLIC.",
+      "YATES Adam rode aggressively for BERNAL despite losing time stage 2, suggesting Ineos prioritizing BERNAL over YATES for GC."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: Won from major breakaway with DSM team support, confirming aggressive climbing form.",
+      "GROSSCHARTNER Felix": "negative: Miscalculated final chase group dynamics, lost red jersey by 8 seconds through passive tactics.",
+      "VALVERDE Alejandro": "negative: High-speed crash eliminated him, destroying Movistar's 3-in-top-5 numerical advantage over ROGLIC.",
+      "LANDA Mikel": "negative: Dropped badly on Balcon de Alicante, already 1:12 down confirms poor GC form.",
+      "CARUSO Damiano": "negative: Dropped long before finish on final climb, Bahrain GC ambitions collapsing early.",
+      "YATES Adam": "positive: Setting hard tempo for BERNAL despite own GC losses, strong climbing legs shown.",
+      "KUSS Sepp": "positive: Best time from chase group on final climb, strongest domestique performance."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:03:08.057769+00:00"
+}

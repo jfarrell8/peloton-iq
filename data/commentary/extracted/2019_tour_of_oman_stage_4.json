@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour of Oman Stage 4",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-19",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COLBRELLI Sonny out-sprinted VAN AVERMAET Greg from a reduced peloton after CCC set pace to reel in late breakaway.",
+    "winner": "COLBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CCC team paced climb to thin peloton for NAESEN sprint, revealing team sprint-climb hybrid tactics on hilly stages.",
+      "Three-rider breakaway caught inside final kilometer despite crosswinds suggests critical gap threshold around 15-20 seconds with 1km remaining.",
+      "VAN AVERMAET launching first in reduced sprint indicates vulnerability when isolated without leadout on selective finishes."
+    ],
+    "rider_signals": {
+      "COLBRELLI Sonny": "positive: Won from reduced bunch after climb, confirming superior punch over pure sprinters on selective finales.",
+      "VAN AVERMAET Greg": "neutral: Second after opening sprint early suggests strong form but tactical error without leadout train support.",
+      "NAESEN Oliver": "positive: CCC using climbing pace to setup his sprint demonstrates team commitment and selective stage versatility.",
+      "VAN HOOYDONCK Nathan": "neutral: Survived in late breakaway until final kilometer, showing diesel engine suitability for long attacks.",
+      "LEVEAU Jérémy": "negative: First dropped from breakaway on climb reveals insufficient climbing watts to survive selective cooperation groups."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:13:31.305156+00:00"
+}

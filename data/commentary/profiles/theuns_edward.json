@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Functions primarily as sprint finisher rather than attacker, though capable of being part of late-race breakaway moves (as shown by CONTADOR bridging to him 10km out). Positioning strength in final kilometers without traditional leadout support.",
+  "team_tactics": "Trek-Segafredo prioritizes him as protected sprinter but lacks consistent leadout train execution. Team expends energy controlling race finale but delivers him isolated to final positioning battle. Benefits from having teammates in breakaways that force others to chase.",
+  "terrain_preference": "Flat to rolling sprint finishes where positioning skills compensate for lack of leadout. Struggles when gaps open on undulating terrain (14 seconds back when terrain fragments field). Best in pure power sprints with technical finales.",
+  "vulnerability": "Exposed when isolated without leadout support against teams with organized trains. Form inconsistency shows gaps between strong podium finishes and off-days where he loses contact. Team energy expenditure sometimes wasted when he can't convert.",
+  "key_patterns": [
+    "Consistently achieves podium placings (2nd, 3rd twice) without visible leadout, relying on personal positioning.",
+    "Team works for him but lacks cohesive sprint train, leaving him isolated in final 500m.",
+    "Form fluctuates significantly: podium contender one day, 14 seconds down the next.",
+    "Strong independent sprint positioning compensates for team tactical deficiencies in multiple races."
+  ],
+  "form_trajectory": "neutral: Mixed 2019 BinckBank results (3rd twice, 14 seconds back once) followed by strong Vuelta 2nd place suggests inconsistent but present form, not clear upward or downward trend",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "THEUNS Edward",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 19",
+    "2019 BinckBank Tour Stage 1",
+    "2019 BinckBank Tour Stage 2",
+    "2019 BinckBank Tour Stage 5",
+    "2019 Vuelta a Espana Stage 3"
+  ]
+}

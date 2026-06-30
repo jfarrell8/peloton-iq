@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won Stage 7 sprint after GOŁAŚ Michał break-checked the Quick-Step train protecting GAVIRIA Fernando, disrupting their leadout timing",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GOŁAŚ positioned solo in front of GAVIRIA to deliberately slow Quick-Step train, allowing rivals to close gaps.",
+      "KOREN Kristijan launched planned solo attack 18.7km out, forcing KIRYIENKA to chase and drain Sky's sprint support.",
+      "Quick-Step lost GAVIRIA by deploying leadout too early; final man peeled off with 300m remaining."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: won without dedicated leadout after HOFLAND pulled off prematurely, showing he can finish from chaos",
+      "GAVIRIA Fernando": "negative: Quick-Step train disrupted by rival blocking tactics; finished second despite numerical advantage",
+      "BENNETT Sam": "positive: third place without visible leadout support indicates raw sprint speed competitive with top tier",
+      "GREIPEL André": "neutral: present in final but lacked positioning to contest for podium",
+      "GOŁAŚ Michał": "positive: deliberately brake-checked peloton solo to disrupt Quick-Step timing, tactical sacrifice that worked",
+      "KOREN Kristijan": "neutral: late solo attack at 18.7km forced chase work but always calculated to fail"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:01:29.152504+00:00"
+}

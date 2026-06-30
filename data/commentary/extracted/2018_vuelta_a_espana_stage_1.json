@@ -1,0 +1,30 @@
+{
+  "label": "2018 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-25",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan won the opening time trial in 9:39, beating KWIATKOWSKI Michał by 6 seconds after enhancing his advantage throughout the course.",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS Rohan increased time gaps progressively through the course rather than fading, showing superior pacing execution.",
+      "KWIATKOWSKI Michał's Tour de France workload didn't produce expected time trial fatigue, taking second despite domestique duties.",
+      "CAMPENAERTS Victor nearly matched KWIATKOWSKI within split seconds despite European TT champion status suggesting course didn't suit pure power."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: Enhanced position at every split rather than holding early advantage, revealing superior race execution strategy.",
+      "PORTE Richie": "negative: Illness during stage severely compromised result, finishing far below expected GC contender position.",
+      "KWIATKOWSKI Michał": "positive: Only rider under 10 minutes initially, showing Tour fatigue concerns were overblown for short TT efforts.",
+      "CAMPENAERTS Victor": "neutral: European TT champion finished within seconds of podium but couldn't convert specialist status to victory.",
+      "OLIVEIRA Nelson": "positive: First to break 10-minute barrier, indicating early start advantaged riders who could gauge pacing correctly.",
+      "VAN BAARLE Dylan": "positive: Held provisional lead as only sub-10-minute rider initially, showing Quick-Step TT depth beyond specialists.",
+      "VALVERDE Alejandro": "positive: Performed very well among GC contenders despite age and non-TT specialist status.",
+      "CASTROVIEJO Jonathan": "positive: Top-ten finish confirms elite domestique TT ability translates to individual stage racing opportunities.",
+      "KELDERMAN Wilco": "positive: Top-ten placement signals strong condition entering three-week race for GC ambitions."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:46:11.883538+00:00"
+}

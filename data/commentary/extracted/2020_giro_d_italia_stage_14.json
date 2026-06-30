@@ -1,0 +1,28 @@
+{
+  "label": "2020 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-17",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 34.1km Valdobbiadene time trial by 26 seconds over DENNIS Rohan, while ALMEIDA João extended his Maglia Rosa lead to 56 seconds.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MCNULTY Brandon jumped from 11th to 4th GC with only 1:09 deficit to stage winner, exploiting time trial to vault into contention.",
+      "NIBALI Vincenzo showed uneven pacing: weak start, strong middle, weak finish pattern suggests declining TT endurance in Grand Tours.",
+      "ALMEIDA João gained time bonuses on Stage 13 before TT, using intermediate days to pad GC buffer before weak discipline."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: 17 seconds faster than DENNIS at final time check and 26 seconds at finish shows accelerating power through long TTs.",
+      "DENNIS Rohan": "positive: First road win since 2019 Harrogate Worlds confirms return to peak TT form after extended slump.",
+      "MCNULTY Brandon": "positive: Only 6 seconds slower than GANNA at first time check reveals explosive opening ability rare for GC riders.",
+      "ALMEIDA João": "positive: 6th on stage while extending GC lead to 56 seconds proves adequate TT form defies expectations for climber debut.",
+      "KELDERMAN Wilco": "neutral: Stayed 2nd GC but lost time to ALMEIDA despite no TT win in 5 years suggests chronic inability to challenge leaders.",
+      "BILBAO Pello": "neutral: Held 3rd but slipped to 2:11 down reveals time trialing as clear ceiling to GC ambitions.",
+      "NIBALI Vincenzo": "negative: Erratic pacing profile indicates age-related decline in sustained TT power management."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:24:25.342398+00:00"
+}

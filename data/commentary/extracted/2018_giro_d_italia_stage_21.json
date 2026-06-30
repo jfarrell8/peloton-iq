@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-27",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the final sprint in Rome after VIVIANI Elia's leadout train disintegrated inside 200m, while FROOME Chris sealed overall victory.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BENNETT Sam positioned fourth wheel then exploited final 150m acceleration advantage when VIVIANI committed early from SABATINI's leadout.",
+      "Quick-Step deployed three-man train for VIVIANI but PEDERSEN Mads disrupted positioning, causing MØRKØV Michael to pull VIVIANI off-line.",
+      "FROOME Chris reversed Sky's normal front-domination tactic, racing defensively from behind after arriving under-conditioned then attacking late stage 19."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: demonstrated superior top-end speed over 120m when correctly positioned, solving earlier positional deficits that cost him stages",
+      "VIVIANI Elia": "neutral: won points jersey but leadout train fractured under pressure when SABATINI Fabio delivered him too early at 150m",
+      "FROOME Chris": "positive: first British Giro winner by abandoning Sky's pace-domination model, attacking from deficit position successfully",
+      "PEDERSEN Mads": "positive: deliberately disrupted Quick-Step's sprint train organization, pulling MØRKØV Michael out of leadout sequence",
+      "MØRKØV Michael": "negative: failed to hold leadout lane under pressure from PEDERSEN, exposing VIVIANI to jostling and early commitment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:25:54.245137+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2018 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-02",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KING Benjamin attacked on uncategorized pre-climb ramps hitting 12%, survived brutal solo effort to win by 48 seconds over MØRKØV.",
+    "winner": "KING Benjamin",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KING Benjamin launched decisive move on uncategorized 9-12% pre-climb sections before official climb, exposing poor pacing by chasers.",
+      "DE GENDT Thomas waved MATÉ through mountain points sprint, appearing to protest perceived bullying of polka dot jersey.",
+      "GC group delayed response until final sections allowed KING's gap to become irretrievable despite MØRKØV's chase closing to 48 seconds."
+    ],
+    "rider_signals": {
+      "KING Benjamin": "positive: demonstrated exceptional ability to sustain power through variable gradient spikes (9-12%) when launched before categorized climb begins",
+      "MØRKØV Michael": "positive: closed significant gap to 48 seconds showing unexpected climbing durability for sprinter-domestique in breakaway scenario",
+      "LÓPEZ Miguel Ángel": "positive: finished strongest of GC favorites in reduced group, suggesting form building compared to earlier Vuelta weakness",
+      "KELDERMAN Wilco": "positive: pushed pace hardest through finale among GC group, more aggressive than expected for climbing domestique role",
+      "YATES Simon": "neutral: retained red jersey but allowed breakaway excessive gap, conservative tactics when holding race lead",
+      "IZAGIRRE Gorka": "positive: contradicted own stated weakness claims by making GC selection, sandbagging before mountain stage",
+      "DE GENDT Thomas": "neutral: political gesture waving MATÉ through points suggests team dynamics affecting breakaway cooperation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:50:19.779892+00:00"
+}

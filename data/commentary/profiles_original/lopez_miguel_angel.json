@@ -1,0 +1,43 @@
+{
+  "attacking_style": "Explosive attacks in final 2-7km on mountain finishes, often from reduced groups. Shows willingness to attack early (18-20km out) but struggles to sustain solo efforts, typically gaining minimal time despite initial separation.",
+  "team_tactics": "Frequently isolated or under-supported despite protected status. Teams provide positioning support (Van Baarle pacing) but lack sustained tempo control. History of intra-team tensions (Movistar 2019 sabotage). Now functions in dual-leader or stage-hunter role rather than sole GC focus.",
+  "terrain_preference": "Punchy, steep mountain finishes with short final climbs (2-7km). Struggles catastrophically on extreme gradients (rampa inhumana: -1:01) and sustained threshold efforts. Best on explosive, selective finishes rather than long, grinding ascents.",
+  "vulnerability": "Mental fragility under sustained tempo pressure (abandoned 2021 Vuelta vs INEOS pace). Cannot sustain threshold efforts (caught by riders 2min behind). Extreme gradient weakness. Prone to hesitation when rivals attack. Complete vulnerability when isolated.",
+  "key_patterns": [
+    "Attacks final 2-7km from reduced groups, multiple instances across 2019-2022 Vueltas.",
+    "Struggles to convert aggressive moves into significant time gaps, typically gaining <15 seconds solo.",
+    "Frequently isolated from team support despite GC positioning, across Astana and Movistar tenures.",
+    "Mental collapse under sustained tempo: abandoned 2021 Vuelta, hesitates when others attack.",
+    "Catastrophic weakness on extreme gradients and threshold efforts, loses 40s-1min on hardest sections.",
+    "Functions better as stage hunter or dual-leader than sole GC defender."
+  ],
+  "form_trajectory": "neutral: 2022 signal shows attacking capability remains (beat GC group with 7km attack), but limited recent data prevents clear trend assessment from primarily 2019-2021 collapse patterns",
+  "races_analysed": 18,
+  "confidence": "high",
+  "rider_name": "LOPEZ Miguel Angel",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 10",
+    "2019 Vuelta a Espana Stage 13",
+    "2019 Vuelta a Espana Stage 15",
+    "2019 Vuelta a Espana Stage 18",
+    "2019 Vuelta a Espana Stage 19",
+    "2019 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 20",
+    "2019 Vuelta a Espana Stage 5",
+    "2019 Vuelta a Espana Stage 8",
+    "2019 Vuelta a Espana Stage 9",
+    "2019 Vuelta a Espana Stage 9",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 14",
+    "2021 La Vuelta ciclista a Espana Stage 14",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2022 La Vuelta ciclista a Espana Stage 15"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Attacks immediately at the base of final climbs rather than waiting for steeper gradients, exploiting early positioning chaos to establish winning margins that hold to the summit.",
+  "team_tactics": "Insufficient data to establish clear team patterns from single race observation.",
+  "terrain_preference": "Final categorized climbs where early acceleration from the base can create separation; benefits from fields spread across road with hesitant positioning.",
+  "vulnerability": "Unknown - limited observations available. No weakness patterns identified in single race sample.",
+  "key_patterns": [
+    "Attacks at climb base rather than mid-climb, timing move when field positioning is disorganized.",
+    "Capable of sustaining solo efforts from bottom to top of final climbs without cracking.",
+    "Translates form effectively between major events (referenced post-Worlds form carrying into Tour de Suisse)."
+  ],
+  "form_trajectory": "positive: demonstrated strong post-Worlds form translation with solo climbing victory at 2018 Tour de Suisse",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MUSKAAN Jonny",
+  "built_from": [
+    "2018 Tour de Suisse Stage 4",
+    "2018 Tour de Suisse Stage 4",
+    "2018 Tour de Suisse Stage 4"
+  ]
+}

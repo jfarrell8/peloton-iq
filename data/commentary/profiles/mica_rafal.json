@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Attacks decisively on long, steady-gradient climbs (20km at ~5%), establishing dominance early on the ascent and holding power through sustained solo efforts rather than explosive accelerations.",
+  "team_tactics": "Limited team visibility in observations; appears to rely on individual strength rather than team setup, launching self-sufficient solo moves.",
+  "terrain_preference": "Excels on category one climbs with sustained moderate gradients (5-6%) over 20km where power-to-weight and diesel engine capabilities matter more than explosive accelerations. Unexposed on steep/punchy or high-altitude finishes in available data.",
+  "vulnerability": "Documented 'early Vuelta struggles' suggest susceptibility to poor form phases or difficulties with race rhythm in opening stages of Grand Tours.",
+  "key_patterns": [
+    "Establishes gaps on long climbs through sustained power rather than repeated accelerations (single observation).",
+    "Successfully defends solo advantages against organized chase groups over extended distances (1:27 margin).",
+    "Shows form recovery trajectory within single Grand Tour after documented early-race difficulties."
+  ],
+  "form_trajectory": "positive: Demonstrated recovery from early Vuelta struggles to win via 20km+ solo effort, indicating strong progression within the race",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MICA Rafal",
+  "built_from": [
+    "2021 Vuelta a Espana Stage 15",
+    "2021 Vuelta a Espana Stage 15",
+    "2021 Vuelta a Espana Stage 15"
+  ]
+}

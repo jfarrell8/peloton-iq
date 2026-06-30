@@ -1,0 +1,25 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 14",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-09",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco attacked from a 24-rider breakaway with less than 4km remaining, winning by over a minute after appearing collapsed on Tourmalet previous day.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Evenepoel dominated every breakaway incarnation despite previous day's collapse, revealing recovery capacity changes multi-stage targeting assumptions.",
+      "24-rider breakaway swelled while GC teams allowed 6+ minute gap, suggesting mutual consent to let non-threats contest stage.",
+      "Ayuso repeatedly marked by Kuss/Evenepoel teammates when attempting moves, indicating top-5 defense prioritized over stage hunting."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Complete physiological recovery within 24 hours from apparent collapse suggests tactical feint or exceptional recuperation ability",
+      "STORER Michael": "negative: Isolated in chase group for KOM points rather than breakaway, suggesting insufficient team support for jersey defense",
+      "AYUSO Juan": "neutral: Marked immediately on every acceleration attempt, confirming teams view him as GC threat worth controlling",
+      "BARDET Cyril": "negative: Limited to water-carrying role for Evenepoel rather than contesting hometown stage finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:05:37.479190+00:00"
+}

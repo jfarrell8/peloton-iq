@@ -1,0 +1,29 @@
+{
+  "label": "2021 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-08",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 8.6km Turin ITT by 10 seconds over AFFINI, crushing specialists at his home-region race.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma placed two riders (FOSS, AFFINI) in top positions before GANNA, revealing exceptional time trial depth across roster.",
+      "CAVAGNA flopped despite winning Swiss ITT week prior, suggesting short preparation races unreliable for Giro form prediction.",
+      "EVENEPOEL sixth at 21yo in Grand Tour debut after 2020 injury, signaling immediate GC threat capability post-recovery."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: demolished field by 10 seconds on home roads, confirming regional/motivational advantage multiplies existing TT superiority",
+      "AFFINI Edoardo": "positive: first-year Jumbo recruit beat established names, suggesting team's TT development program extracts immediate gains",
+      "FOSS Tobias": "positive: led briefly despite non-TT specialist background, indicating Jumbo's depth threatens even non-obvious stages",
+      "CAVAGNA Remy": "negative: disappointed despite recent Swiss ITT win, revealing peak timing issues or insufficient Giro-specific preparation",
+      "VLASOV Aleksandr": "positive: very high placement in Giro debut after 2020 abandonment, signals genuine GC readiness over previous year's failure",
+      "EVENEPOEL Remco": "positive: sixth place at age 21 in first Grand Tour start post-injury indicates no residual weakness from 2020 crash",
+      "ALMEIDA Joao": "positive: only 7.3 seconds down after spending 15 days in pink 2020, confirms repeatable TT competence for GC contention",
+      "BERNAL Egan": "neutral: just satisfactory for Tour winner, suggesting either sandbagging early or genuine ITT limitations persisting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:36:22.407555+00:00"
+}

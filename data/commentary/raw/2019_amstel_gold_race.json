@@ -4,57 +4,21 @@
   "race_date": "2019-04-21",
   "stage": null,
   "video": {
-    "video_id": "Yi4opDanurU",
-    "title": "One of the most impressive finishes of Mathieu van der Poel!| Amstel Gold Race 2019 | Eurosport",
-    "published": "2019-04-21 18:27:34+00:00",
-    "channel": "TNT Sports",
-    "url": "https://youtube.com/watch?v=Yi4opDanurU",
-    "match_score": 110.0,
-    "all_candidates": [
-      {
-        "video_id": "Yi4opDanurU",
-        "title": "One of the most impressive finishes of Mathieu van der Poel!| Amstel Gold Race 2019 | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-04-21 18:27:34+00:00",
-        "match_score": 110.0
-      },
-      {
-        "video_id": "J6rA9zou0PU",
-        "title": "Amstel Gold Race 2019 | Men's Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-04-22 15:13:48+00:00",
-        "match_score": 105.0
-      },
-      {
-        "video_id": "kmTpcWrnqdM",
-        "title": "The Best of the Amstel Gold Race from 2015 to 2019 | inCycle",
-        "channel": "inCycle",
-        "published": "2020-04-20 18:00:13+00:00",
-        "match_score": 50.0
-      },
-      {
-        "video_id": "6kHOuAUCtv0",
-        "title": "Colorado Classic 2019 Stage 3 LIVE: Golden | GCN Racing",
-        "channel": "GCN Racing",
-        "published": "2019-08-24 20:38:14+00:00",
-        "match_score": 32.5
-      },
-      {
-        "video_id": "B24vGcI4tUM",
-        "title": "1 Race, 5 Languages: Mathieu Van der Poel at Amstel Gold Race 2019 | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2022-04-08 16:24:29+00:00",
-        "match_score": -70.0
-      },
-      {
-        "video_id": "RMZEeIuTQxw",
-        "title": "Amstel Gold Race 2019 | Women's Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-04-22 12:27:49+00:00",
-        "match_score": -80.0
-      }
-    ]
+    "video_id": "J6rA9zou0PU",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=J6rA9zou0PU",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 92,
+    "raw_chars": 3368,
+    "clean_chars": 3357,
+    "duration_mins": 4.8,
+    "clean_text": "it's the soul one day Walter race in the Netherlands it's one of the best races of the year always entertaining today it's racing some of these guys so they left Master dick this morning beautiful city right on the border with both Belgium and Germany and as the flag dropped it will be a very very fast start in extremely good and warm weather in Limburg take a while for a break to go away when one did go there'd been nine riders up the road eleven in the end and they'd have a very very good gap Paula Scher Belmar Mason and Fonda Laker are all in the breakaway and they're joined by Simeon Furnace Brook Sprenger's for Ville Stan Mina okay together and mature von der Poel on the whole pathetic mature von der pool a game with such a distance to go takes off on the attack and AM sell gold race is alive and kicking it's been a little of a crash Alex ento and its anchor is called out that's very disappointing for Astana another rider down from Rome pot I'm afraid steamy lines are Philippe Trenton Michael Matthews in the break is about a me court that is that we're all back together at the Amstel Gold Race there are 38 kilometers to go and this is exploding - eeeep under the launch pad and off he goes this is ala Philippe on the ears of boss Wagner well this is anything that Vander pol can do well I can do better and goes clear again 36.2 case to go could this be a similar situation pork sang has had a wonderful season so far with his Astana team goes straight to the front with a lovely a formidable duo now leave this race following quickly on the heels of the two leaders cost ski the former winner and twin team the European champion 20 kilometers remain von der Pauw in the meantime attacks from behind and reaches up to long break now that's mad wha and what's in the future of these races on the roads now there's the final turn its tail crosswind for the final K now and it's out up any put the front and they're about to be joined by a whole new group and funding pool and company my turn yet what an exceptional day here comes to a cost key left-hand side it's the front he's right back in the game how did they let them do this and I feel it behind quick cost you at the front and full song in third place 600 minutes ago but we've got a group of other artists still ready to go quick Oscar is now telling other flip to the finish 400 meters thundered Paul behind Clarke with him Shakman Baldy mad wah there's long break 20 no Mikey and monomer but let's see front three were occupying ourselves with at the moment this still could be anybody's we've had one breathless finish already today we're gonna have another now inside the final couple of hundred meters if any protects up on the right side this is incredible done it this place erupts and Netherlands has a whole winner it's Roy of the rover's stuff imagine this is the top 10 massive under Paul wins in the Dutch champions Jersey the first Dutch win at the Amstel Gold Race for 18 season he beat Simon Clarke in second place Jakub full Sangin through with a defeat fourth and shopmen fifth long black De Marchi mad wah Baldy and Trenton make up a very very good top 10 unbelievable like a lunatic who could wear bonnets if I really didn't expect it at all before to finish it you know hoop and full begin attained and look at each other in the front it was I believe you",
+    "preview_start": "it's the soul one day Walter race in the Netherlands it's one of the best races of the year always entertaining today it's racing some of these guys so they left Master dick this morning beautiful city right on the border with both Belgium and Germany and as the flag dropped it will be a very very fast start in extremely good and warm weather in Limburg take a while for a break to go away when one did go there'd been nine riders up the road eleven in the end and they'd have a very very good gap ",
+    "preview_end": "op 10 massive under Paul wins in the Dutch champions Jersey the first Dutch win at the Amstel Gold Race for 18 season he beat Simon Clarke in second place Jakub full Sangin through with a defeat fourth and shopmen fifth long black De Marchi mad wah Baldy and Trenton make up a very very good top 10 unbelievable like a lunatic who could wear bonnets if I really didn't expect it at all before to finish it you know hoop and full begin attained and look at each other in the front it was I believe you"
+  },
+  "status": "transcript_saved"
 }

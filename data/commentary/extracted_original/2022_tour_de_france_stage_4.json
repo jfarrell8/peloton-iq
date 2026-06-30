@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-05",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT attacked with full Jumbo-Visma leadout 10km out, solo'd to win by 16 seconds over disorganized chase groups.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deployed full team attack 10km from finish, isolating GC riders despite no decisive climb present.",
+      "Quick-Step let early break reach 7min before reacting, revealing poor threat assessment on undulating terrain.",
+      "Chase groups fragmented into 1-4 riders, showing no cross-team cooperation even with 4km remaining to catch.",
+      "Van Aert extended GC lead by 16sec on non-mountain stage, exploiting disorganized sprinter teams on technical finish."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: winning from 10km solo break while in yellow reveals exceptional form beyond typical sprint finishes",
+      "YATES Adam": "neutral: only GC rider following Jumbo's acceleration suggests strong positioning but ultimately lost 16 seconds",
+      "VINGEGAARD Jonas": "neutral: present near front during team attack but didn't contribute, possibly following team orders to protect Van Aert",
+      "PHILLIPS Jasper": "negative: won chase sprint but thought he won stage, revealing spatial awareness failure and poor race radio communication",
+      "LAPORTE Christophe": "positive: finished third at 35 years old behind team leader, showing Jumbo depth on technical finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:52:52.230275+00:00"
+}

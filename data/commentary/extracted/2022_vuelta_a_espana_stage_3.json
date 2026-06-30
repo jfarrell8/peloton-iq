@@ -1,0 +1,28 @@
+{
+  "label": "2022 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a flat sprint at Breda with decisive advantage from VAN POPPEL Danny's leadout in final 200m after sharp right-hand corner with 800m remaining.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN POPPEL Danny's leadout timing at 200m post-corner proved decisive; teams without dedicated final pilot struggled with positioning panic.",
+      "ACKERMANN Pascal went early from distance without support, exposing weakness of isolated sprinters on technical finishes with late directional changes.",
+      "MERLIER Tim's team did significant work but he was incorrectly positioned at corner exit, demonstrating leadout execution matters more than total effort."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: two consecutive wins with VAN POPPEL Danny providing superior final 200m piloting compared to rivals lacking dedicated last man",
+      "PEDERSEN Mads": "positive: consecutive second places show patience through late corners rather than panic when initially 10-12 positions back post-turn",
+      "MERLIER Tim": "negative: team worked extensively but rider positioning at corner exit incorrect two days running, suggesting either tactical error or form issue",
+      "ACKERMANN Pascal": "negative: initiated sprint prematurely without leadout support, burning matches before corner rather than exploiting VAN POPPEL Danny vacuum",
+      "AFFINI Edoardo": "neutral: track specialist's team pursuit power engine critical to TTT success but acknowledges mountain stages will extract cost from 190lb frame",
+      "VAN POPPEL Danny": "positive: delivered BENNETT Sam perfectly positioned at 200m marker, demonstrating elite leadout timing through technical right-hand corner sequence",
+      "VANDENBROECK Julius": "neutral: attacked immediately for KOM jersey points with strategic awareness that second place suffices to retain polka dots under Vuelta scoring"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:56:13.564733+00:00"
+}

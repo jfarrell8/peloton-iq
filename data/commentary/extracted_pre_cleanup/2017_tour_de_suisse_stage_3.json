@@ -1,0 +1,21 @@
+{
+  "label": "2017 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2017-06-12",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MAILETSKII Jakob took his 12th career Tour of Hainan stage win in a bunch sprint finish.",
+    "winner": "Cannot determine from roster",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "HILL Ben spent multiple stages collecting intermediate sprint bonifications from breakaways, revealing jersey-by-bonuses strategy",
+      "Sprinter teams allowed multi-rider breaks to five kilometers before organizing chase, suggesting confidence in late catch ability"
+    ],
+    "rider_signals": {
+      "HILL Ben": "positive: consistently positioned in breakaways across multiple stages to harvest bonus seconds, showing tactical awareness beyond pure sprinting"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T21:13:30.452113+00:00"
+}

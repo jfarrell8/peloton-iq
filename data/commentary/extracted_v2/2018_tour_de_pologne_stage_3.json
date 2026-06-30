@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-06",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HODEG Danny won after MARKOV Michael went early at 300m, beating ACKERMANN Pascal who gambled on inside traffic and got boxed in.",
+    "winner": "HODEG Danny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step neutralized Lotto-Jumbo numerical advantage by launching Markov leadout early at 300m, catching Ackermann too far back.",
+      "Ackermann repeatedly choosing inside line gambles backfired when traffic appeared, suggesting positioning discipline beats pure speed.",
+      "Markov's Danish Champion-level strength allowed him to lead out from 300m and still nearly win himself, unusual durability."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "negative: After two stage wins, positional indiscipline cost him - chose inside traffic gamble and was 6-8 lengths back when Markov attacked",
+      "MARKOV Michael": "positive: Danish champion showed unusual diesel power, leading from 300m and nearly holding second himself despite full leadout effort",
+      "HODEG Danny": "positive: Finally broke Ackermann's winning sequence by recognizing Markov's early jump timing was optimal to avoid traffic chaos",
+      "SABATINI Fabio": "neutral: Quick-Step anchor moved early as intended but Markov's surprise timing mattered more than positioning setup"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:33:25.260543+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Sprinter who attacks from behind in final meters, exploiting positioning errors rather than committing early. Waits for directional commitments from rivals to create gaps on opposite side.",
+  "team_tactics": "Benefits from opponent team errors (NTT chasing too early in 2020) rather than dominant leadout train. Appears to rely on individual positioning intelligence over organized team delivery.",
+  "terrain_preference": "Chaotic, disorganized sprint finishes where positioning instincts matter more than pure power trains. Thrives when leadout structures break down.",
+  "vulnerability": "Likely exposed in highly organized sprint trains where early commitment is required. May struggle when teams execute disciplined, structured leadouts that deny late positioning opportunities.",
+  "key_patterns": [
+    "Wins from behind, trusting speed over early commitment in both observed victories (2 instances)",
+    "Exploits directional gaps when rivals commit too early or wrong direction (2 instances)",
+    "Positioning intelligence compared to prime Cavendish-style tactical sprint reading (2 Tour victories)",
+    "Capitalizes on opponent team tactical errors rather than own team dominance (both sprints)"
+  ],
+  "form_trajectory": "unknown: both observations from 2019-2020 Tour sprints, no recent data to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "EWING Caleb",
+  "built_from": [
+    "2019 Tour de France Stage 21",
+    "2020 Tour de France Stage 11",
+    "2020 Tour de France Stage 11"
+  ]
+}

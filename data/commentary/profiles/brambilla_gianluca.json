@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Early-stage attacks designed for team service rather than personal glory, willing to probe opportunistically but not characteristic of late, decisive moves. Shows maturity to abandon losing efforts.",
+  "team_tactics": "Classic domestique role: launches early attacks to soften fields before team leaders move. Coordinates with fellow domestiques (Masnada) in staged team setups to control race rhythm.",
+  "terrain_preference": "Insufficient data to determine clear terrain preference, though appears in breakaways on varied terrain including climbs and transitional stages.",
+  "vulnerability": "Breakaway cooperation and negotiation—documented conflict with Bennett cost him a stage win opportunity. Can be caught between team duty and personal ambition.",
+  "key_patterns": [
+    "Team-first attacking: early moves to set up leaders, not personal GC (2 instances)",
+    "Tactical intelligence: recognizes losing situations, drops back to rejoin favorable groups (2 instances)",
+    "Breakaway miscommunication: inter-rider conflict during crucial moments compromises results (2 instances)"
+  ],
+  "form_trajectory": "neutral: Recent 2022 observation shows tactical maturity improving, but limited performance data prevents trajectory assessment",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "BRAMBILLA Gianluca",
+  "built_from": [
+    "2020 Giro d'Italia Stage 8",
+    "2020 Tirreno Adriatico Stage 5",
+    "2020 Tirreno Adriatico Stage 5",
+    "2021 Giro d'Italia Stage 12",
+    "2022 Tirreno-Adriatico Stage 5"
+  ]
+}

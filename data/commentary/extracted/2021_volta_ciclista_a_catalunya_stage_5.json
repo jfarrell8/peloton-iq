@@ -1,0 +1,28 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 5",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-26",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KÄMNA Lennard attacked from the large breakaway on the final climb, time-trialed solo for 20km on descents/flats to win by a margin.",
+    "winner": "KÄMNA Lennard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos lost control when 40-rider break formed without their representation, forcing ROWE Luke to chase solo for 50km+",
+      "KÄMNA Lennard replicated Tour de France stage 16 pattern: attack late climb, exploit TT power on descent/flat finale",
+      "Large breakaways (40+ riders) strategically superior as riders skip turns, allowing solo attackers like CAVAGNA Rémi extended gaps",
+      "VERONA Carlos repeatedly attacked on ridgeline/descent sections, showing Movistar prioritizing stage hunting over GC support work"
+    ],
+    "rider_signals": {
+      "KÄMNA Lennard": "positive: demonstrated repeatable late-race pattern of attacking final climb then sustaining power on technical descents and flat runs",
+      "ROWE Luke": "negative: isolated doing entire chase work for Ineos when team failed to cover initial 40-rider break formation",
+      "CAVAGNA Rémi": "negative: went solo 30km out but cracked on final climb, showing vulnerability when extended efforts meet sustained gradients",
+      "VERONA Carlos": "positive: most active attacker from break on descent/ridgeline, suggesting strong current form beyond GC domestique role",
+      "GUERREIRO Ruben": "positive: second place after marking multiple attacks, showing EF had numbers and positioning advantage in large break",
+      "BIZKARRA Mikel": "positive: third place after attacking near climb crest, exploited false summit to split group before descent"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:16:21.189865+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-17",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won after fighting for STUYVEN Jasper's wheel through final 2km, launched on 12% cobbled ramp with 200m remaining.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN fought physically with DEGENKOLB for STUYVEN's wheel final 2km, prioritizing position over saving energy before steep finish.",
+      "Trek-Segafredo controlled final 2km for STUYVEN leadout, exposing SAGAN needed their train more than own teammates.",
+      "12% cobbled ramp final 200m after left bend rewards riders who secure position early, not pure sprinters launching late.",
+      "SAGAN changed bike twice under 20km out, BODNAR paced back—team willing to burn domestique despite sprint finish looming."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: mechanicals didn't compromise final positioning, power on steep cobbled ramp superior to pure sprinters",
+      "VIVIANI Elia": "neutral: finished second after overhauling DEGENKOLB but lacked positioning through final 2km to challenge SAGAN",
+      "STUYVEN Jasper": "positive: Trek leadout valuable enough that rivals fought physically for his wheel rather than organizing own trains",
+      "DEGENKOLB John": "negative: had STUYVEN wheel but lost physical battle to SAGAN, then faded to third behind VIVIANI",
+      "BODNAR Maciej": "neutral: burned pacing SAGAN back from second mechanical with 20km left, reducing sprint support options",
+      "ASGREEN Kasper": "neutral: sits second overall 10 seconds down, not contesting sprint suggests GC focus over stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:11:52.070122+00:00"
+}

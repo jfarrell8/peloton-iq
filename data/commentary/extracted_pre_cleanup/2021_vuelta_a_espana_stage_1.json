@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primož won by 6 seconds over ARANBURU Alex with devastating final 300m at 35mph, BERNAL Egan lost 21 seconds.",
+    "winner": "ROGLIC Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC Primož conserved energy on 2.5km climb, gained entire margin in final 300m at 35mph, reverse-pacing strategy successful.",
+      "ARANBURU Alex from sprinter squad beat pure climbers on uphill TT, took 5 seconds from YATES Adam on descent/flat finish.",
+      "BERNAL Egan unexpectedly slow on climb (17s down on ARANBURU), suggesting form concerns rather than pacing strategy for GC leader."
+    ],
+    "rider_signals": {
+      "ROGLIC Primož": "positive: reversed typical TT pacing by saving watts for final 300m, suggesting superior power reserve management for short efforts",
+      "ARANBURU Alex": "positive: sprinter beat climbing specialists YATES Adam and BERNAL Egan on technical hilly 7km TT, underestimated all-rounder",
+      "BERNAL Egan": "negative: lost 21 seconds (3s/km) and surprisingly slow on climb itself, team will question protected rider status",
+      "CRADDOCK Lawson": "positive: 8th place only 0.5s behind at KOM, EF rider showed unexpectedly strong climbing form for American domestique",
+      "TROTNIC Jan": "positive: Slovenian TT champion 2nd fastest, only 2s behind ARANBURU, Bahrain has second GC card if needed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:17:07.316120+00:00"
+}

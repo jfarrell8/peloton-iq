@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 1",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-07",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won from an impossible position inside 200m, surging up the barriers after GAVIRIA Fernando's leadout seemed decisive.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo's prolonged front turn inside 20km fragmented positioning, exposing teams who couldn't hold his wheel.",
+      "ACKERMANN chose barrier line at 200m when boxed, exploiting sprinters' hesitation to follow dangerous margins.",
+      "BORA commits to MAJKA Rafał GC over sprint stages despite leader's jersey, revealing hierarchy pre-stage 2."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: won after six days off bike illness, suggests peak form arrives faster than expected",
+      "GAVIRIA Fernando": "negative: UAE leadout delivered him perfectly but faded final 100m, conditioning question mark early season",
+      "MERLIER Tim": "negative: crashed inside 3km while positioned to lead out VAN DER POEL, support reliability concern",
+      "GANNA Filippo": "positive: INEOS deployed him as selection tool before sprint finish, shows tactical flexibility beyond TT",
+      "CORT Magnus": "neutral: EF positioned him fourth despite being non-specialist, suggests team sprint depth issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:31:45.707131+00:00"
+}

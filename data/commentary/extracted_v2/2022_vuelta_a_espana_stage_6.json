@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked from breakaway to win Pico Jano summit finish while EVENEPOEL Remco took red jersey, dropping ROGLIC Primoz by over a minute in cold/fog conditions",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL Remco's tempo on final climb exposed ROGLIC Primoz on long 12.6km ascent where historically Roglic dominates shorter punchy finishes",
+      "Cold/fog conditions at 4000ft altitude disproportionately affected ROGLIC and CARAPAZ Richard despite latter's historical wet-weather strength",
+      "VINE Jay's breakaway success on category 1 finish contradicts usual peloton control pattern on first genuine GC mountain stage"
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: Lost over a minute to Evenepoel on 12.6km climb, suggesting form issues extend beyond short TT, couldn't even manage rain jacket in cold",
+      "EVENEPOEL Remco": "positive: Dropped entire GC group except Mas on first major summit finish, answering doubts about grand tour climbing ability on long ascents",
+      "CARAPAZ Richard": "negative: Finished nearly 3 minutes down despite historical wet-weather prowess, alarming collapse from top-10 position",
+      "MAS Enric": "positive: Only rider to match Evenepoel's acceleration on final climb, finished within 15 seconds and limited losses to 28 seconds GC",
+      "VINE Jay": "positive: Won from breakaway on category 1 MTF against Padun, proving climbing evolution beyond earlier breakaway specialist reputation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:34:00.035421+00:00"
+}

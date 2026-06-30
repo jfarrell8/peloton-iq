@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 11",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-06",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HERRADA Jesus won from a 26-rider breakaway after GANNA Filippo set destructive pace that whittled group down, holding off KAITHEBO's flamme rouge attack",
+    "winner": "HERRADA Jesus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo rode tempo for THOMAS Geraint in breakaway, replicating Sky train tactic despite both being escaped riders themselves",
+      "KAITHEBO Jonathan attacked at flamme rouge but THOMAS Geraint bridged with HERRADA/GREGOIRE, suggesting breakaway coordination against isolated EF rider",
+      "GC group saw EVENEPOEL Remco attack neutralized when SEPULVEDA/ROGLIC immediately marked, showing peloton unwilling to race day after time trial",
+      "OTTERBROCK Sean went early from GC group targeting top-10 position, revealing teams now racing for minor placings mid-race"
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: showed willingness and ability to set destructive breakaway pace on 14-16% ramps despite being pure time trialist",
+      "THOMAS Geraint": "positive: positioned himself in 26-rider break and bridged to Kaithebo's attack, actively racing for top-10 despite GC deficit",
+      "KAITHEBO Jonathan": "negative: isolated when attacking at flamme rouge from breakaway, EF unable to place second rider in 26-man group",
+      "EVENEPOEL Remco": "neutral: attacked GC group in young rider jersey but immediately marked, no one willing to let him gain time post-TT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:04:58.628779+00:00"
+}

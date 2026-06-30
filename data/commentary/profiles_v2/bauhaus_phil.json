@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Pure sprinter who times final 200m acceleration through traffic. Not an attacker—relies on positioning and power in bunch sprints, showing improved craft in navigating congested finales.",
+  "team_tactics": "Dependent on full leadout train; struggled when domestiques depleted or absent. Bora/Bahrain provided strong positioning but conversion rate inconsistent. Less effective when forced to navigate alone.",
+  "terrain_preference": "Flat bunch sprints on straightforward finales. Exposed on repeated circuit climbs and any terrain requiring climbing durability—dropped by classics specialists like Sagan/Colbrelli on undulating courses.",
+  "vulnerability": "Cannot match top-tier sprinters on pure power when leadout is perfect. Lacks climbing durability for hilly sprint stages. Mental fragility in conversion—multiple second/third places without wins until 2023 breakthrough.",
+  "key_patterns": [
+    "Consistently reaches top-3 positioning but struggles to convert to wins (2019, 2023 Tour).",
+    "Dropped from sprint groups on repeated climbs/circuits, lacking durability (2021, exposed twice).",
+    "Improved tactical maturity: road-switching when boxed, mental recovery from crashes (2022, 2023).",
+    "Team leadout dependency critical; performance drops when isolated or domestiques depleted (2022 Catalunya, 2019).",
+    "Performance ceiling below top-tier sprinters despite team support (2022 Eschborn, 2019 BinckBank)."
+  ],
+  "form_trajectory": "positive: 2023 shows breakthrough mental resilience and conversion ability after years of near-misses, though Tour top-3s suggest ceiling remains",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "BAUHAUS Phil",
+  "built_from": [
+    "2019 BinckBank Tour Stage 1",
+    "2021 Tour de Romandie Stage 1",
+    "2022 Eschborn-Frankfurt",
+    "2022 Tirreno-Adriatico Stage 7",
+    "2022 Tirreno-Adriatico Stage 7",
+    "2022 Volta Ciclista a Catalunya Stage 5",
+    "2023 Tour de France Stage 4",
+    "2023 Tour de Romandie Stage 1",
+    "2023 Tour de Romandie Stage 1"
+  ]
+}

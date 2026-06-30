@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-21",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SOLER Marc attacked on the descent after Alto San Miguel with 1km remaining, soloing to victory while Roglic took 6-second time bonus for second to extend GC lead.",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar's Verona set tempo early on final climb before Soler attacked during single hesitation moment on descent.",
+      "Roglic prioritized time bonuses over stage win, sprinting for second place to gain 6 seconds on Carapaz who scored nothing.",
+      "Dan Martin positioned on Roglic's wheel specifically to stay with fastest rider for time gains, moving to second overall.",
+      "Wellens attempted long-range solo from 40+ miles out on shallow Cat 3 climb suited to diesel power riders."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "positive: Movistar home roads advantage materialized with decisive descending attack after hesitation, moving 20th to 10th overall in one stage",
+      "ROGLIC Primoz": "positive: Tactically astute to prioritize time bonus sprint over chasing stage winner, extending GC lead through calculated restraint",
+      "MARTIN Dan": "positive: Wheel selection intelligence riding Roglic specifically to maximize time gains, moved to second overall",
+      "CARAPAZ Richard": "negative: Failed to contest time bonus sprint at finish, losing 6 additional seconds to Roglic beyond stage time gaps",
+      "GROSSCHARTNER Felix": "negative: Lost significant time after strong fifth place on Stage 1, dropped on final climb despite yesterday's strength"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:31:13.197480+00:00"
+}

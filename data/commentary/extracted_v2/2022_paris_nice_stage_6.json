@@ -1,0 +1,25 @@
+{
+  "label": "2022 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GODOT Bjorg won from the breakaway after an 18-second gap inside 5km nearly closed, holding off sprinters by seconds after 5.5 hours racing.",
+    "winner": "GODOT Bjorg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo paced for sprint finish but miscalculated catch timing, allowing breakaway win despite 11-second gap at 2.5km remaining.",
+      "CLOUET Soren attacked solo from GC-7 position with 15km to go, revealing opportunistic GC raider tactics on transitional stages.",
+      "Final climb 10km from finish insufficient to shed sprinters; KISS and HAYTER still present suggesting categorized climb placement ineffective."
+    ],
+    "rider_signals": {
+      "GODOT Bjorg": "positive: First pro win at 23 for Total-NLG shows team desperate for results after Pidcock signing",
+      "CLOUET Soren": "neutral: Solo adventure from 15km showed ambition but caught, signaling willingness to gamble from mid-GC position",
+      "LAPORTE Christophe": "negative: Chasing bonus sprint instead of controlling break reveals Jumbo-Visma complacency on transitional stages",
+      "HOLMES Matthew": "neutral: Collecting KOM points on penultimate climb despite break being caught shows secondary competition tactical play"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:17:41.918935+00:00"
+}

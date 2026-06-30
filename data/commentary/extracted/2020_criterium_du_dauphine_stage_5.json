@@ -1,0 +1,28 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-16",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp attacked 2km out after full-day breakaway, won stage; MARTÍNEZ Daniel Felipe took 6-second bonus to steal GC from PINOT Thibaut by 29 seconds.",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SIVAKOV Pavel crash descending Côte de Mancy destroyed INEOS team cohesion when ALAPHILIPPE Julian abandoned pace to wait for him.",
+      "KUSS Sepp freed for stage hunting after ROGLIČ Primož abandoned overnight; Jumbo-Visma pivoted tactics immediately from GC defense to stage aggression.",
+      "MARTÍNEZ Daniel Felipe attacked final climb targeting 6-second time bonus to overcome 18-second deficit, stealing GC while PINOT Thibaut chased wrong wheels.",
+      "DUMOULIN Tom repeatedly tested rivals on final climb despite not contending GC, using Tour de France recon to break morale of competitors."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: When freed from domestique duties, executed patient attack with 2km remaining on steep section after full-day effort",
+      "MARTÍNEZ Daniel Felipe": "positive: Calculated exactly which time bonuses needed and attacked precisely to steal GC by 29 seconds despite starting stage 1:03 down",
+      "PINOT Thibaut": "negative: Lost GC lead by chasing tactically wrong moves, failed to mark MARTÍNEZ Daniel Felipe's bonus-hunting attacks on final climb",
+      "SIVAKOV Pavel": "negative: Uncharacteristic pedal-strike crash descending Mancy destroyed rhythm, required ALAPHILIPPE Julian to sacrifice position waiting",
+      "DUMOULIN Tom": "positive: Despite 2:03 GC deficit and no leadership role, aggressively tested rivals on final climb as Tour de France reconnaissance",
+      "ROGLIČ Primož": "negative: Abandoned overnight after holding yellow jersey through four stages, forcing Jumbo-Visma complete tactical pivot"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:23:06.564490+00:00"
+}

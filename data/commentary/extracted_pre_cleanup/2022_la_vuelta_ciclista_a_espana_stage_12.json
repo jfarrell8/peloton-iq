@@ -1,0 +1,29 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 12",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-01",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAZ attacked from 32-rider breakaway on final climb, won solo while EVENEPOEL answered all GC attacks to retain red jersey despite earlier crash.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BATTISTELLA solo bridge attempt 65km out from oversized break failed; group too large to cooperate on chasing lone ranger.",
+      "FABBRO paced KELDERMAN up final climb despite being breakaway rider himself, revealing team willingness to sacrifice stage contention for GC.",
+      "Quick-Step isolated EVENEPOEL early on final climb yet he responded personally to attacks rather than teammates controlling pace.",
+      "EVENEPOEL counterattacked at summit after absorbing pressure, signaling confidence in finishing power over sustained climbing defense."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: Stage win as Ineos team principal suggests freedom from GC support role unlocks offensive capabilities.",
+      "EVENEPOEL Remco": "positive: Maintained GC gaps despite crash and isolated position on climb, showing resilience under repeated attacks.",
+      "KELDERMAN Wilco": "positive: Moved into top-six GC with dedicated team pacing from FABBRO, indicating form building mid-race.",
+      "VINE Jay": "negative: Finished 7th from break after winning two prior stages, suggesting accumulated fatigue limits consecutive breakthrough efforts.",
+      "POLANC Jan": "positive: Struggled initially but recovered to finish 4th, demonstrating veteran ability to manage efforts on long climbs.",
+      "BATTISTELLA Samuele": "neutral: Solo attack 65km out showed ambition but lack of cooperation from 32-rider break made success impossible.",
+      "ROGLIC Primož": "neutral: Team attacked repeatedly but failed to distance EVENEPOEL, suggesting current form insufficient to break race leader."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:31:43.995145+00:00"
+}

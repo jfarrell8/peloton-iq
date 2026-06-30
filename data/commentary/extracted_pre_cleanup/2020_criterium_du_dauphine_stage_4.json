@@ -1,0 +1,40 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-15",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KÄMNA Lennard won from a 15-rider breakaway, soloing to victory at Megève Altiport after dropping DE LA CRUZ David in the final kilometers.",
+    "winner": "KÄMNA Lennard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ Primož crashed at km 82 yet finished in lead group, suggesting crash timing pre-finale allows GC salvage on uphill finish.",
+      "LANDA Mikel attacked late but lacked finish power; initiating tempo without final acceleration reveals incomplete form rather than strength.",
+      "ALAPHILIPPE Julian attacked for podium placing after DE LA CRUZ faded, indicating recovery acceleration tests trump conservation in non-GC stages.",
+      "INEOS collapsed entirely: BERNAL DNS, THOMAS dropped, FROOME lost 26:30, SIVAKOV failed, KWIATKOWSKI dropped—total team breakdown signals systemic issue."
+    ],
+    "rider_signals": {
+      "KÄMNA Lennard": "positive: first WorldTour win from 15-rider break, dropped DE LA CRUZ in finale showing breakaway finishing power",
+      "ROGLIČ Primož": "positive: crashed at km 82, lost skin and clothing, yet finished with GC group showing exceptional resilience",
+      "KRUIJSWIJK Steven": "negative: dislocated shoulder in crash on Col de Plan de Baix, DNS Tour implications for team leadership depth",
+      "BUCHMANN Emanuel": "negative: crashed out on Col de Plan de Baix while third overall, significant Tour preparation disruption",
+      "BERNAL Egan": "negative: DNS due to back problems after suffering previous days, suggests structural issues not acute fatigue",
+      "THOMAS Geraint": "negative: dropped early while sweating profusely, indicating form deficit not tactical patience",
+      "FROOME Chris": "negative: dropped early, lost 26:30, confirms continued lack of competitive form despite preparation objective",
+      "LANDA Mikel": "neutral: attacked late to set tempo, shed riders, but lacked legs to finish, revealing incomplete peak form",
+      "PINOT Thibaut": "positive: attacked at finish trying to crack ROGLIČ, moved to second GC, showing aggressive intent despite failed distancing",
+      "ALAPHILIPPE Julian": "positive: much stronger than previous day, attacked for third place finish as form test showing upward trajectory",
+      "MARTIN Guillaume": "positive: moved to third GC at 24 seconds showing consistency in attritional mountain stage",
+      "DE LA CRUZ David": "neutral: led breakaway nearly to finish, took KOM jersey but almost stopped near line showing energy management failure",
+      "HIRSCHI Marc": "positive: finished 1:43 down as under-23 world champion showing transition to senior mountain racing",
+      "SIVAKOV Pavel": "negative: failed to produce for INEOS on day of team collapse indicating shared form deficit",
+      "KWIATKOWSKI Michał": "negative: dropped and couldn't rescue INEOS day showing domestique depth problem when leaders fail",
+      "VALVERDE Alejandro": "negative: in trouble early on stage suggesting altitude racing form not present",
+      "VAN GARDEREN Tejay": "negative: dropped early confirming inability to match climber pace in grand tour preparation",
+      "GREIPEL André": "negative: abandoned after 50km choosing training ride over competition, indicates selection mismatch for terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:22:49.951997+00:00"
+}

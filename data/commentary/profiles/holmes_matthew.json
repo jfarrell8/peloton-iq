@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Early breakaway specialist who targets KOM points from long-range moves rather than stage wins. Attacks focus on accumulating classification points across multiple climbs, not final-kilometer aggression.",
+  "team_tactics": "Team employs passive jersey defense strategy, using domestiques to collect intermediate points and protect classification leads rather than controlling peloton tempo.",
+  "terrain_preference": "Medium mountain stages with multiple categorized climbs that allow breakaway survival and KOM point accumulation. Less effective on explosive summit finishes where GC riders engage.",
+  "vulnerability": "Dropped from finale groups when pace intensifies; prioritizes breakaway survival over contesting stage victories, limiting winning opportunities to non-GC days.",
+  "key_patterns": [
+    "Consistently targets KOM jersey through breakaways across multiple stage races (4 observations)",
+    "Accepts being caught for stage win if KOM points secured (3 observations)",
+    "Team supports jersey defense via domestique point collection, not peloton control (2 observations)",
+    "Abandons GC ambitions to maximize breakaway opportunities and classification points (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2022 Paris-Nice showed sustained ability to defend KOM jersey across multiple stages but repeatedly dropped from winning groups, suggesting solid but not peak form",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "HOLMES Matthew",
+  "built_from": [
+    "2020 Giro d'Italia Stage 8",
+    "2022 Paris-Nice Stage 1",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Nice Stage 3",
+    "2022 Paris-Nice Stage 6"
+  ]
+}

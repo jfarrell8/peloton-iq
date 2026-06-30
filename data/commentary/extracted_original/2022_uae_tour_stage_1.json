@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 1",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-20",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won from position after Alpecin-Fenix controlled final kilometer, defeating Groenewegen/Bennett who were too far back at flamme rouge",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix successfully positioned Philipsen at flamme rouge while UAE/BikeExchange pace-setting failed to organize their own sprinters",
+      "Bennett (Bora-Hansgrohe) deliberately stayed rear peloton until late, finishing strongly but from too far back to contest",
+      "Groenewegen took barriers in sprint suggesting positioning panic when losing Philipsen's wheel in final 200m"
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: won despite UAE/BikeExchange controlling pace, revealing Alpecin's positioning superiority over stronger lead-out teams",
+      "BENNETT Sam": "positive: finished fast from dead-last positioning suggests knee concerns resolved but team lead-out disorganized",
+      "ACKERMANN Pascal": "negative: UAE paced for home sprinter but Ackermann finished mid-pack, exposing team's inability to deliver their own rider",
+      "GROENEWEGEN Dylan": "negative: took barriers while losing Philipsen's wheel indicates positioning errors despite team pace-setting",
+      "CAVENDISH Mark": "negative: faded after being well-positioned suggests form concerns this early in season"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:56:25.725222+00:00"
+}

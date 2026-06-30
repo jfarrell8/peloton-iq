@@ -4,85 +4,21 @@
   "race_date": "2018-02-16",
   "stage": 4,
   "video": {
-    "video_id": "oCdreJx2pM8",
-    "title": "Dubai Tour 2018 | Stage 4 Race Report",
-    "published": "2018-02-09 14:02:58+00:00",
-    "channel": "GCN",
-    "url": "https://youtube.com/watch?v=oCdreJx2pM8",
-    "match_score": 77.5,
-    "all_candidates": [
-      {
-        "video_id": "oCdreJx2pM8",
-        "title": "Dubai Tour 2018 | Stage 4 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-09 14:02:58+00:00",
-        "match_score": 77.5
-      },
-      {
-        "video_id": "QX3RKe5mpWY",
-        "title": "Tour Down Under 2018 | Stage 4 Report",
-        "channel": "GCN",
-        "published": "2018-01-19 10:28:31+00:00",
-        "match_score": 66.67
-      },
-      {
-        "video_id": "v2ubiWjl3s4",
-        "title": "Abu Dhabi Tour 2018 | Stage 4 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-24 14:23:27+00:00",
-        "match_score": 62.5
-      },
-      {
-        "video_id": "78XnO8iXYwU",
-        "title": "Abu Dhabi Tour 2018 | Stage 1 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-21 19:32:09+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "ALoP2tj8wFc",
-        "title": "Abu Dhabi Tour 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-23 16:15:00+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "-KTuqGMzJ14",
-        "title": "Dubai Tour 2018 | Stage 5 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-10 15:39:21+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "tq6giNZAEgI",
-        "title": "Abu Dhabi Tour 2018 | Stage 2 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-22 15:37:33+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "lxab7eXHM1c",
-        "title": "Tour Down Under 2018 | Stage 6 Report",
-        "channel": "GCN",
-        "published": "2018-01-21 10:56:11+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "C4dKaCJtEyA",
-        "title": "Tour Down Under 2018 | Stage 5 Report",
-        "channel": "GCN",
-        "published": "2018-01-20 09:59:36+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "Wy8QYQbdENY",
-        "title": "Who Is Geraint Thomas? Tour de France Winner 2018 | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-29 17:40:05+00:00",
-        "match_score": 26.67
-      }
-    ]
+    "video_id": "OcEcUpu2coI",
+    "title": "Summary - Stage 4 - Tour of Oman 2018",
+    "url": "https://youtube.com/watch?v=OcEcUpu2coI",
+    "channel": "playlist_import",
+    "published": "2018-02-19T07:25:30Z",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 44,
+    "raw_chars": 1570,
+    "clean_chars": 1562,
+    "duration_mins": 2.3,
+    "clean_text": "day four of the tour of Vermont taking the riders from deity to the Ministry of Tourism a short stage of 117 and a half kilometers but packing a real punch at the end with many climbs on the running to the finish no sooner that the peloton rolled out of the starts than the first skirmishes started Loic shet who going clear and six riders combining at the front shetty van Rensburg Kevon yup Edison winning and Irizarry Shetty's legs gave out this time he was caught five riders continued at the front on the second climb of al-jamal Street two more riders tried to go across - Vanya was finally dropped but the peloton never really giving in a huge attack by petr stetner of the united states of america in the red jersey of trek sake afraid oh combining with jag van Rensburg the two riders trying to hold off the might of the peloton van Rensburg suffered stepner continued he's been sixth in a Tour of California the shark of Messina Vincenzo Nibali he decided to try and test out his form on our Javel street where a mridu gave it the killer blow as well the schoolkids aguirre went clear but on the descent everything reformed the group of riders at the front Niki Terpstra the winner of pari Roubaix tried his hand he went clear but the Astana pro team had everything in control they brought their sprinter forward and it was the danish rider magnus court Neilson who took the win finally magma Scott Nielsen gets the big win he's been looking for vanna vomit stays at the red jersey with the Green Mountain beckoning behind him Lysenko nine seconds down",
+    "preview_start": "day four of the tour of Vermont taking the riders from deity to the Ministry of Tourism a short stage of 117 and a half kilometers but packing a real punch at the end with many climbs on the running to the finish no sooner that the peloton rolled out of the starts than the first skirmishes started Loic shet who going clear and six riders combining at the front shetty van Rensburg Kevon yup Edison winning and Irizarry Shetty's legs gave out this time he was caught five riders continued at the fro",
+    "preview_end": "he schoolkids aguirre went clear but on the descent everything reformed the group of riders at the front Niki Terpstra the winner of pari Roubaix tried his hand he went clear but the Astana pro team had everything in control they brought their sprinter forward and it was the danish rider magnus court Neilson who took the win finally magma Scott Nielsen gets the big win he's been looking for vanna vomit stays at the red jersey with the Green Mountain beckoning behind him Lysenko nine seconds down"
+  },
+  "status": "transcript_saved"
 }

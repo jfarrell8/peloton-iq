@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-04",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won the sprint into Krakow without leadout support after spending the entire final 10km at the front of the peloton.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ACKERMANN Pascal won sprinting from impossible position at front for 10km, suggesting rivals misjudged his endurance threat level.",
+      "Quick-Step Floors and Mitchelton-Scott trains collided in finale, creating chaos that allowed isolated sprinter to capitalize on disorganization.",
+      "VAN POPPEL Boy (Lotto NL-Jumbo) launched from too far back at 600m, revealing team's poor positional awareness entering final kilometer."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: exceptional diesel engine endurance to win from front after 10km exposure, not just pure speed",
+      "VAN POPPEL Boy": "negative: poor positioning forced him too far back to contest despite apparent form",
+      "MODOLO Sacha": "neutral: present in front group for EF but no finishing speed materialized"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:38:52.790332+00:00"
+}

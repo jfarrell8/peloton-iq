@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not an attacker. Pure domestique role focused on sustained tempo riding on climbs and rolling terrain to control gaps and set up team leaders.",
+  "team_tactics": "Deployed on penultimate climbs to set tempo and erode breakaway advantages, preserving energy of team leaders for final effort. Classic Sky train methodology.",
+  "terrain_preference": "Rolling terrain and sustained climbs where diesel engine capabilities shine. Excels at tempo work that can erase significant time gaps through power output rather than acceleration.",
+  "vulnerability": "Technical descents and corner transitions show exposure, with crash history at predictable technical sections suggesting limited bike handling or insufficient course reconnaissance.",
+  "key_patterns": [
+    "Penultimate climb tempo setter role, allowing leaders to conserve energy for final ascent (2 observations)",
+    "High-power tempo riding on climbs erases substantial gaps efficiently through sustained effort (2 observations)",
+    "Technical descent crashes at predictable danger points reveal handling weakness (2 observations)"
+  ],
+  "form_trajectory": "positive: 2018 Giro showed elite diesel engine capability erasing 5-minute gap rapidly, core domestique strength intact",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "KIRYIENKA Vasil",
+  "built_from": [
+    "2017 Giro d'Italia Stage 10",
+    "2017 Giro d'Italia Stage 10",
+    "2017 Tour de France Stage 12",
+    "2018 Giro d'Italia Stage 5"
+  ]
+}

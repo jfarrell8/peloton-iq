@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 12",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-07",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MOLANO Juan Sebastian won via UAE's audacious right-side space creation with Oliveira's leadout, defeating favored Groves who dropped chain at critical moment.",
+    "winner": "MOLANO Juan Sebastian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE deliberately chose right-hand side against conventional left-bend wisdom, creating space frontier others ignored for Molano upset.",
+      "Roglic opportunistically contested intermediate sprint at 20km out, gaining 4sec bonus over Evenepoel despite being GC-focused before mountain stage.",
+      "GC riders mass-exited at 3km marker, revealing collective tactical agreement to avoid technical finale crashes before Tourmalet stage."
+    ],
+    "rider_signals": {
+      "MOLANO Juan Sebastian": "positive: UAE GC team delivered sprint win through unconventional positioning, suggesting deeper leadout resources than expected",
+      "GROVES Kaden": "negative: mechanical failure (dropped chain) cost win despite being marked favorite and extending points lead to 200",
+      "ROGLIC Primoz": "positive: actively hunting 4sec intermediate bonus despite being 1:32 down, showing aggression to close 23sec gap to Evenepoel",
+      "VAN POPPEL Boy": "neutral: third place after supposed leadout role for Houle who got trapped, suggesting team miscommunication on finale",
+      "OLIVEIRA Rui": "positive: delivered dominant leadout from middle pack position, UAE showing sprint firepower despite GC focus with three top-30 riders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:47:16.237640+00:00"
+}

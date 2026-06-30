@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Attacks from breakaways late in races with emotional intensity, compensating for physical depletion with psychological drive. Serves as high-tempo pacemaker on steep slopes for team leaders rather than launching solo moves.",
+  "team_tactics": "Classic super-domestique role: sets unsustainable pace on steep climbs to distance rivals for team leader (Nibali, Froome era). Positioned behind lead domestique (e.g., Kiryienka) to conserve energy until final climb. Energy conservation tightly managed across penultimate and final climbs.",
+  "terrain_preference": "Steep gradient slopes where sustained high tempo causes attrition. Most effective as pacemaker on categorized climbs rather than explosive attacks. Less suited to technical descents where risk-taking tendencies emerge.",
+  "vulnerability": "Excessive risk-taking on descents, evidenced by crash into camper vehicle. Late-race physical depletion requiring psychological compensation. Appears to struggle maintaining form across multi-week Grand Tours.",
+  "key_patterns": [
+    "Deployed as tempo weapon on steep slopes to distance GC rivals, not personal glory (2 instances).",
+    "Energy conservation protocols via lead domestique before final effort deployment (2 instances).",
+    "Late-race attacks driven by emotion/anger when legs depleted, psychological override mode (2 instances).",
+    "Dangerous descending tendencies, taking excessive risks in low-reward situations (1 crash documented)."
+  ],
+  "form_trajectory": "negative: 2018 observation shows depleted legs requiring psychological compensation, suggesting declining physical capacity across Grand Tour efforts",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "NIEVE Mikel",
+  "built_from": [
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 12",
+    "2017 Vuelta a Espana Stage 17",
+    "2018 Giro d'Italia Stage 20"
+  ]
+}

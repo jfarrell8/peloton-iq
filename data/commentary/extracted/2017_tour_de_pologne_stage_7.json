@@ -1,0 +1,23 @@
+{
+  "label": "2017 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-04",
+  "stage": 7,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MOHORIČ Matej won the sprint finish and the overall GC after his Bahrain-Merida team controlled the climbs to neutralize a dangerous late attack from GREENS (Colombian, 19 years old) who came within 1.6km of stealing the race.",
+    "winner": "MOHORIČ Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain-Merida positioned multiple teammates in top-10 GC to control tempo when MOHORIČ was dropped on climbs",
+      "Colombian rider attacked solo under 20km, gaining 45s and threatening GC before being caught at 1.6km remaining",
+      "MOHORIČ deliberately allowed attacks to unfold before relying on teammates to pace him back, conserving energy for sprint"
+    ],
+    "rider_signals": {
+      "MOHORIČ Matej": "positive: Won 5 of 7 stages plus GC by using team tactically to survive climbs then sprint, showing both patience and team resource management",
+      "BONIFAZIO Niccolò": "negative: Crashed on narrow roads during crucial GC selection phase, abandoning his own top-10 ambitions early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:13:06.163339+00:00"
+}

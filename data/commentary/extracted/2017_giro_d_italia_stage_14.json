@@ -1,0 +1,30 @@
+{
+  "label": "2017 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-20",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN attacked final 800m of Oropa summit finish after controlling QUINTANA's moves, beating ZAKARIN by 3 seconds plus 10-second bonus.",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROSA sacrifice ride fractured Movistar domestiques early, isolating QUINTANA despite team initially setting tempo on climb approach.",
+      "ZAKARIN's attack 6.2km from summit forced DUMOULIN to reveal climbing strength prematurely, enabling QUINTANA to mark without working.",
+      "DUMOULIN bridged to ZAKARIN while dragging QUINTANA, then counter-attacked final 800m when Colombian stopped contributing to pace.",
+      "POZZOVIVO's isolation as GC threat eliminated despite early move, showing no alliance willingness from QUINTANA or DUMOULIN camps."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Won summit finish after controlling multiple attacks, extending GC lead to 2:47 over QUINTANA with climbing strength revelation.",
+      "QUINTANA Nairo": "negative: Lost 24 seconds total failing to respond to DUMOULIN's final 800m surge, relied entirely on marking without offensive contribution.",
+      "ZAKARIN Ilnur": "positive: Stage-threatening attack 6.2km out forced GC response, held on for second place demonstrating sustained climbing power.",
+      "YATES Adam": "negative: Dropped when DUMOULIN accelerated to bridge ZAKARIN's move, unable to follow GC group's elite pace.",
+      "MOLLEMA Bauke": "negative: Distanced early when ROSA's tempo fractured peloton, suggesting vulnerability on sustained HC climbs.",
+      "POZZOVIVO Domenico": "neutral: Early attack showed willingness but tactically isolated without alliance support from GC contenders.",
+      "NIBALI Vincenzo": "neutral: Followed initial ZAKARIN move but faded from contention before final 800m decisive acceleration.",
+      "ROSA Diego": "positive: Sacrifice pacemaking destroyed Movistar's depth despite being dropped himself, textbook super-domestique performance."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:58:32.471434+00:00"
+}

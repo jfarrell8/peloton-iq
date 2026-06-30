@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-16",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PAULS Wout won from the breakaway with 48km attack on final climbs while POGACAR attacked multiple times in final kilometer but VINGEGAARD responded easily",
+    "winner": "PAULS Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates isolated VINGEGAARD by driving tempo, but POGACAR's final-kilometer attacks yielded zero time despite YATES Adam support presence.",
+      "SOLER Marc's 48km attack triggered the winning move, suggesting UAE aggressive race-shaping even when POGACAR isn't directly benefiting.",
+      "RODRIGUEZ Carlos maintained GC podium position through consecutive Alpine stages, revealing unexpected stage-race resilience beyond time trial strength."
+    ],
+    "rider_signals": {
+      "PAULS Wout": "positive: First Grand Tour stage win at 35 after Monument victory, suggesting untapped stage-winning capability when freed from domestique duties",
+      "POGACAR Tadej": "negative: Multiple final-kilometer attacks gained zero seconds on VINGEGAARD, signaling either declining superiority or opponent's improved form",
+      "VINGEGAARD Jonas": "positive: Responded comfortably to every POGACAR acceleration in final kilometer, showing defensive confidence lacking in previous Tour editions",
+      "YATES Adam": "positive: Dropped RODRIGUEZ on final climb while pacing teammate, demonstrating GC climbing legs stronger than fourth-place suggests",
+      "HINDLEY Jai": "negative: Lost GC place to YATES despite defending champion status, revealing vulnerability in consecutive high-mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:20:29.853741+00:00"
+}

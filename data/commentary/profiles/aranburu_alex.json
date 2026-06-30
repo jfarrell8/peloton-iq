@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a traditional attacker. Thrives in technical, short time trials with mixed terrain (climbs + descents), where power-to-weight and handling offset pure climbing limitations.",
+  "team_tactics": "Team (Astana) attempts jersey defense through intermediate sprint control, though execution has proven tactically wasteful and energy-inefficient.",
+  "terrain_preference": "Technical hilly courses with 5-10km distances featuring descent/flat finishes. Exposed on pure climbing stages and in lengthy uphill finishes where specialists prevail.",
+  "vulnerability": "Sprint timing errors (goes too early), particularly from disadvantageous positions. Energy management for jersey defense compromises race performance. Misjudges finish distances.",
+  "key_patterns": [
+    "Underestimated all-rounder: labeled sprinter but defeats pure climbers on technical hilly terrain (2 instances)",
+    "Premature sprint launches: initiates efforts too early, caught before line despite opening gaps (2 instances)",
+    "Inefficient jersey defense: team efforts for points classification waste energy without tactical payoff (2 instances)"
+  ],
+  "form_trajectory": "negative: Multiple tactical errors in 2021 including mistimed sprints and energy-wasting jersey defense attempts suggest declining tactical sharpness",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ARANBURU Alex",
+  "built_from": [
+    "2021 Criterium du Dauphine Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 2",
+    "2021 Vuelta a Espana Stage 1",
+    "2021 Vuelta a Espana Stage 1"
+  ]
+}

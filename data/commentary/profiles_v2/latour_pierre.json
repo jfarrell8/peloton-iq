@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Aggressive solo attacks on steep gradients with 10-11km to go, prioritizing podium ambition over conservative GC defense. Willing to attack even when holding favorable position (e.g., white jersey).",
+  "team_tactics": "Limited evidence of coordinated team support; often operates independently with teammates already forward. Capable of bridging from peloton to breakaway after pacing duties, showing dual domestique-leader capacity.",
+  "terrain_preference": "Steep opening ramps and sustained climbs where pure climbing strength applies. Significantly compromised on technical descents and exposed in echelon/positioning scenarios on flat stages.",
+  "vulnerability": "Poor positional awareness before echelon stages (caught as first significant rider in 2021). Severe descending issues (massive time loss in 2023) suggest psychological or technical weakness. Questionable GC race management when attacking from advantageous positions.",
+  "key_patterns": [
+    "Bridges from peloton to breakaway post-summit; documented twice showing exceptional recovery capacity.",
+    "Attacks on steep gradients with 10-11km remaining; consistent distance preference across multiple races.",
+    "Poor technical descending; 2023 shows massive time loss on descents while climbing normally.",
+    "Weak pre-stage positioning awareness; caught first in echelons, indicating tactical naivety off climbs.",
+    "Aggressive over conservative; attacks from white jersey position and reduced peloton despite GC implications."
+  ],
+  "form_trajectory": "negative: Recent 2023 evidence shows severe descending issues representing regression from earlier years, suggesting unresolved psychological or injury concerns",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "LATOUR Pierre",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 6",
+    "2018 Tour de France Stage 12",
+    "2018 Tour de France Stage 6",
+    "2018 Volta Ciclista a Catalunya Stage 4",
+    "2018 Volta Ciclista a Catalunya Stage 4",
+    "2021 Tour de France Stage 12",
+    "2022 Paris-Nice Stage 5",
+    "2023 Criterium du Dauphine Stage 5"
+  ]
+}

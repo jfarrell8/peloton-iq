@@ -1,0 +1,29 @@
+{
+  "label": "2020 Bretagne Classic - Ouest France",
+  "race_name": "Bretagne Classic - Ouest France",
+  "race_date": "2020-08-25",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won in a small group sprint after EEKHOFF Nils shut down late attacks, beating MEZGEC Luka easily at 247km.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EEKHOFF Nils sacrificed own chances by killing attacks for MATTHEWS, revealing Sunweb prioritized Matthews over own sprinter.",
+      "CAVAGNA Rémi's mid-race attack from breakaway forced peloton reorganization but proved too early at 60km-plus out.",
+      "GARCÍA CORTINA Iván attempted solo bridge to front group on Côte du Pondoff, showing dangerous late-race range.",
+      "Small sprint group formation after 247km brutality favored power-sprinters like MATTHEWS over pure fastmen who got shelled."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: Won easily in reduced sprint after 247km of attrition, seventh Bretagne Classic attempt yielded first win.",
+      "EEKHOFF Nils": "positive: Controlled finale for MATTHEWS despite being strongest rider, tactical maturity prioritizing leader over own result.",
+      "MEZGEC Luka": "neutral: Second place shows resilience over 247km but lacked sprint speed to challenge MATTHEWS in finale.",
+      "SIMMONS Quinn": "positive: Junior world champion finished seventh after leading peloton chases, notable endurance for rider age category.",
+      "SÉNÉCHAL Florian": "neutral: Third place after working for leader shows depth but possibly lacked committed team sprint support.",
+      "CAVAGNA Rémi": "neutral: Attacked from breakaway mid-race showing ambition but timing too early for solo success.",
+      "VANHOUCKE Harm": "neutral: Featured in late breakaway attempt showing aggression but caught before local lap finale."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:21:34.537360+00:00"
+}

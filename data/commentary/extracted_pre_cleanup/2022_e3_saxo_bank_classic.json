@@ -1,0 +1,30 @@
+{
+  "label": "2022 E3 Saxo Bank Classic",
+  "race_name": "E3 Saxo Bank Classic",
+  "race_date": "2022-03-25",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT and LAPORTE rode away as a Jumbo-Visma duo after BENOOT destroyed the Paterberg, finishing 1-2 with 36km remaining.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BENOOT sacrificing on Paterberg with three Jumbo riders front enabled clean 2-up breakaway with 36km remaining.",
+      "JUNGELS, BISSEGGER, VAN AERT attacking Taaienberg with 80km out created selection before traditional finale climbs.",
+      "Ineos Grenadiers chase brought gap down enough for MILAN to bridge, but no organizational payoff materialized."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: solo stomped 20% Paterberg gradient with only teammate for company, controlling race from 36km out",
+      "LAPORTE Christophe": "positive: matched VAN AERT on Paterberg and cooperated fully to finish line, rare 1-2 team result",
+      "BENOOT Tiesj": "positive: elite domestique performance setting tempo on Paterberg, buried himself with three teammates positioned ahead",
+      "GIRMAY Biniam": "positive: hung with select group post-Paterberg for fifth place at age 21 in debut cobbled classic",
+      "KÜNG Stefan": "positive: attacked disorganized chase group late to take solo third, only rider with confidence to move",
+      "MILAN Jonathan": "neutral: bridged successfully from Ineos chase to front group on Taaienberg but provided no tactical leverage",
+      "ASGREEN Kasper": "negative: defending champion unable to follow VAN AERT acceleration on Paterberg despite early front group position",
+      "VAN BAARLE Dylan": "negative: resigned to chasing group sprint despite quality, suggesting form below Jumbo trio standard",
+      "MOHORIC Matej": "neutral: two teammates in early move but no Bahrain payoff when race exploded on Paterberg"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:24:24.728665+00:00"
+}

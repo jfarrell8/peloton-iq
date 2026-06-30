@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Guangxi Stage 6",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-21",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won his second stage of the week from ACKERMANN Pascal's wheel after GILBERT Philippe delivered a perfect 1.5km leadout through a technical corner.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT Philippe's 1.5km leadout through the final corner positioned JAKOBSEN perfectly to jump ACKERMANN's wheel, revealing Quick-Step's corner timing advantage.",
+      "Team Sky allowed multiple early breaks as long as CAVAGNA Rémi stayed behind, showing 17-second overall gaps trigger defensive responses.",
+      "Quick-Step controlled closing stages despite ACKERMANN holding points jersey, indicating sprint confidence overrides jersey mathematics when form is strong."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Second win this week shows rookie sprinter peaks better in multi-stage blocks than one-off races",
+      "GILBERT Philippe": "positive: 1.5km leadout length suggests veteran still has diesel power for extended pulls in hilly finishes",
+      "ACKERMANN Pascal": "neutral: Led sprint first but got jumped from own wheel, showing leadout timing matters more than pure speed",
+      "CAVAGNA Rémi": "neutral: Early break attempts shut down due to 17-second GC gap, marking him as threshold for Sky intervention",
+      "MOSCON Gianni": "positive: Secured first World Tour stage race at 24 despite minimal commentary focus, suggesting controlled leadership"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:43:48.357721+00:00"
+}

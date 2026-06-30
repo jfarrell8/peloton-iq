@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-20",
+  "stage": 18,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BARGUIL Warren attacked from the GC group on the final climb Col d'Izoard, caught 7-minute breakaway leader Atapuma inside 1km to win.",
+    "winner": "BARGUIL Warren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARGUIL bridged 7-minute gap from GC group on final climb, revealing polka-dot leader had enormous watts in reserve.",
+      "BARDET Romain sprinted for 4-second bonus at finish with sub-1km attack, prioritizing time gaps over stage placing.",
+      "AG2R placed two riders in breakaway while keeping four for BARDET support, unusual dual-track resource allocation.",
+      "LANDA dropped in finale despite looking strongest early, suggesting he cracked on steepest pitches near summit."
+    ],
+    "rider_signals": {
+      "BARGUIL Warren": "positive: Best pure climber in race, not just consistent breakaway scavenger, can attack GC group and win.",
+      "BARDET Romain": "positive: Strategically sprinted for time bonuses in finale, gained 4 seconds on URAN to move second overall.",
+      "ATAPUMA Darwin": "positive: Held 7-minute lead until final kilometer on Colombian Independence Day, exceptional pacing under pressure.",
+      "LANDA Mikel": "negative: Looked strongest early on climb but cracked before summit, fitness or positioning issue in critical moments.",
+      "URAN Rigoberto": "negative: Lost 6 seconds to BARDET in time bonuses, showing vulnerability in tactical sprinting despite climbing well."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:10:17.620925+00:00"
+}

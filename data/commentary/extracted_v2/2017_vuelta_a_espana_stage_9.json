@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-27",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Chris attacked with 500m remaining on Cumbre del Sol, dropped rivals after Sky controlled on preceding Peñalosa climb",
+    "winner": "FROOME Chris",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Cannondale then Sky neutralized 10-rider break on Peñalosa approach, preventing any energy-saving moves before summit finish.",
+      "Sky replayed 2015 stage footage on team bus to calibrate exact attack point, suggesting precise power modeling.",
+      "Froome delayed acceleration until final 500m rather than sustained climb attack, exploiting punchy finale over pure climbing power."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: First stage win in a year signals return to explosive finishing form after sustained dominance period",
+      "CHAVEZ Esteban": "positive: Only GC rival not losing over 1 minute to Froome reveals consistent climbing rather than single-effort strength",
+      "WOODS Michael": "positive: Keeping pace with Chavez suggests Canadian adapting to three-week racing after one-day puncheur profile",
+      "BARDET Romain": "negative: Unable to follow when attacking partner Chaves got distanced indicates weakness not visible in earlier attacks",
+      "DE LA CRUZ David": "negative: Sky neutralizing his attack before finale shows he lacks accelerations dangerous enough to warrant marking"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:16:06.353749+00:00"
+}

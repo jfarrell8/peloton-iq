@@ -1,0 +1,29 @@
+{
+  "label": "2018 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-08",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim attacked inside final kilometer on uphill grind after late crash/pinch point split field, dropped BENNETT George and WOODS Michael in final 200m",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WELLENS Tim positioned left side before final kick, forcing BENNETT George to drag YATES Simon into position wastefully",
+      "Late-race pinch point at 1100m from flamme rouge split peloton tactically more than gradient on final climb",
+      "SCHACHMANN Maximilian recovered from crash to contest final kilometer, showing resilience rewarded on technical uphill finishes"
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: superior positioning on left entering final climb allowed him to avoid dragging duties unlike Bennett",
+      "YATES Simon": "positive: conserved energy by sitting on BENNETT George's wheel through final grind, limiting time loss despite uphill sprint weakness",
+      "BENNETT George": "negative: initiated kick too early, burned matches bringing YATES to optimal position without contesting win",
+      "WOODS Michael": "neutral: contested sprint with pink jersey shoulders but lacked final punch on steeper gradient portions",
+      "DENNIS Rohan": "positive: finished with lead group on uphill finish despite not being pure sprinter, gaining time on GC rivals",
+      "SÁNCHEZ Luis León": "positive: positioned well enough to contest reduced sprint group on technical uphill finish at 38 years old",
+      "BARBIN Enrico": "positive: won both intermediate KOM sprints to extend blue jersey lead, showing FRAPPORTI unwilling to contest every point",
+      "SCHACHMANN Maximilian": "positive: crashed before final kilometer but remounted quickly enough to finish in lead group on uphill finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:26:22.064121+00:00"
+}

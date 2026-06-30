@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "RUBIO Einer attacked repeatedly on final climb to Crans-Montana, outsprinted PINOT Thibaut and CEPEDA Alexander after weather-shortened 75km stage",
+    "winner": "RUBIO Einer",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PINOT Thibaut animated break with most attacks but positioned poorly for final sprint, revealing effort-timing weakness at altitude",
+      "CEPEDA Alexander cooperated poorly with PINOT in break despite teammate CARTHY Hugh attacking GC group, showing team coordination gap",
+      "FORTUNATO Lorenzo attacked early from GC group but only CARTHY Hugh could follow, exposing other favorites' reluctance to commit",
+      "LEKNERSUND Andreas lost 7 seconds on steep final kilometers despite being in GC group, signaling weakness on short explosive climbs"
+    ],
+    "rider_signals": {
+      "RUBIO Einer": "positive: won sprint after sitting on PINOT's repeated attacks, showing tactical maturity to conserve energy in break",
+      "PINOT Thibaut": "negative: dominated attacking but finished second, suggesting inability to convert aggression into results in final sprint",
+      "CARTHY Hugh": "neutral: attacked from GC group with teammate in break but gained minimal time, revealing limited climbing form",
+      "LEKNESSUND Andreas": "negative: lost 7 seconds on steep finish while other GC riders stayed together, exposing vulnerability on punchy gradients",
+      "ROGLIČ Primož": "positive: extended GC lead to 2 seconds without attacking, showing controlled defensive strength in shortened stage chaos"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:01:33.766818+00:00"
+}

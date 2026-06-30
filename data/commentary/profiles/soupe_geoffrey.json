@@ -1,19 +1,22 @@
 {
-  "attacking_style": "Opportunistic finisher who capitalizes on chaos. Attacks from final corner (~350m) when team plan disintegrates, showing flexibility to abandon domestique role and sprint independently.",
-  "team_tactics": "Normally operates as sprint leadout domestique (formerly for Bouhanni). When designated sprinter is absent or out of position, demonstrates situational awareness to switch from support to execution role.",
-  "terrain_preference": "Coastal sprint stages with technical finishes suit his ability to read chaotic situations and profit from positioning in tight corners.",
-  "vulnerability": "Likely struggles in organized sprints against pure fast-finishers when team structure is intact and he must fulfill domestique duties rather than hunt own opportunities.",
+  "attacking_style": "Opportunistic sprinter who launches from 200-250m out in disorganized finales, capitalizing when traditional sprint trains break down or fail to materialize.",
+  "team_tactics": "Typically functions as leadout rider for designated sprinters; when leadout duties dissolve or sprinter disappears, shifts to personal sprint mode rather than following rigid team structure.",
+  "terrain_preference": "Flat sprint stages where chaos in the finale creates opportunities; thrives when organizational structure collapses and raw positioning ability matters more than pure power.",
+  "vulnerability": "Well-organized sprint trains likely suppress his chances; designated team role as leadout man typically prevents him from contesting finishes when structure holds.",
   "key_patterns": [
-    "Converts from domestique to opportunist when team plan fails (1 observation only)",
-    "Attacks from technical corners in final 400m rather than pure power sprints",
-    "Shows exceptional situational awareness to recognize when designated sprinter is unavailable"
+    "Wins from disorganized finales when sprint trains fail, exploiting positioning over power (2 instances)",
+    "Launches longer sprints (250m) compared to traditional leadout-delivered sprinters seeking slipstream advantage",
+    "Converts from leadout role to personal finish when team structure dissolves (2 instances)",
+    "Career success at age 35 suggests late-blooming tactical intelligence over declining physical capacity"
   ],
-  "form_trajectory": "positive: Career-biggest win at 2023 Vuelta demonstrates emerging ability to seize opportunities beyond leadout duties",
-  "races_analysed": 1,
+  "form_trajectory": "positive: opportunistically converted suppressed finishing speed into Grand Tour wins when team structure allowed personal ambition",
+  "races_analysed": 2,
   "confidence": "low",
   "rider_name": "SOUPE Geoffrey",
   "built_from": [
     "2023 La Vuelta Ciclista a Espana Stage 7",
-    "2023 La Vuelta Ciclista a Espana Stage 7"
+    "2023 La Vuelta Ciclista a Espana Stage 7",
+    "2023 Vuelta a Espana Stage 7",
+    "2023 Vuelta a Espana Stage 7"
   ]
 }

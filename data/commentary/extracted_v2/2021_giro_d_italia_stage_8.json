@@ -1,0 +1,27 @@
+{
+  "label": "2021 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-15",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAFAY Victor won from the break, catching and dropping Carboni and Campenaerts on the final 3km climb after their premature attacks depleted them.",
+    "winner": "LAFAY Victor",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Campenaerts' repeated attacks before final climb (multiple efforts cited) backfired catastrophically when gradients increased, dropped by both rivals.",
+      "Carboni attacked only Campenaerts rather than waiting for final climb, allowing fresh Lafay to bridge and counter decisively.",
+      "Over 60km of attacking before break established suggests stronger-than-expected wind impact on peloton control despite non-mountainous terrain.",
+      "Gaviria prioritized intermediate sprint points despite being in winning break, revealing jersey competition trumping stage hunting for UAE."
+    ],
+    "rider_signals": {
+      "LAFAY Victor": "positive: Timed effort perfectly by sitting on during premature attacks, then dominated 3km climb while rivals paid for earlier moves",
+      "CAMPENAERTS Victor": "negative: Wasteful tactical approach with multiple failed attacks before final climb, completely empty when gradient hit",
+      "CARBONI Giovanni": "negative: Attacked too early with Campenaerts instead of conserving for steeper finale, caught and dropped by fresher Lafay",
+      "EWAN Caleb": "negative: Abandoned with knee pain after 60km of chaotic attacking, suggesting sprint leadouts may have structural injury vulnerability",
+      "GAVIRIA Fernando": "negative: Crashed after attacking on main climb then chased back, indicating desperation after prioritizing points over stage positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:40:27.166391+00:00"
+}

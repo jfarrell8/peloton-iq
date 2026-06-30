@@ -1,0 +1,22 @@
+{
+  "label": "2018 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-04",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won the sprint having led out himself for the final 10km without teammates, holding off disorganized Quick-Step and Mitchelton efforts",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ACKERMANN self-led final 10km without leadout train, exposing weakness in traditional sprint train doctrine for flat stages.",
+      "Quick-Step Floors failed to control despite numerical presence, suggesting coordination issues when multiple teams attempt simultaneous positioning."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: won after unprecedented 10km solo effort at front, indicating exceptional diesel engine capacity for extended high-tempo work",
+      "VAN POPPEL Boy": "neutral: Lotto NL-Jumbo effort faded inside final 600m, unable to close despite positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:33:01.008577+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-10",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR countered LE FAY's late attack on final 11% ramps to Folignano, gapped field by 2 seconds, reversed 9-second GC deficit to EVENEPOEL.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE attempted early move to isolate POGAČAR for EVENEPOEL's long-range attack, but POGAČAR marked directly negating tactic.",
+      "POGAČAR waited for LE FAY's wheel rather than initiating, using counterattack momentum to create decisive gap on 11% ramps.",
+      "Multiple UAE/QuickStep reconnaissance attacks on penultimate lap failed because POGAČAR personally marked every EVENEPOEL acceleration."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: long-range attacks repeatedly marked by POGAČAR personally; lost 11 seconds on final climb after failing pre-planned distance move",
+      "ALAPHILIPPE Julian": "neutral: executed domestique role attempting isolation tactics for EVENEPOEL, showing team leadership transfer complete",
+      "LE FAY Victor": "positive: late attack strong enough to draw POGAČAR's wheel, finishing third showing climbing form resurging",
+      "SIMMONS Quinn": "positive: aggressively hunted KOM points from breakaway despite teammate DE BAIE holding jersey, prioritizing personal ambition over team",
+      "BINGOL Omer": "positive: fourth place on selective 11% finish unexpected for rider recovering from time trial disappointment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:48:55.127743+00:00"
+}

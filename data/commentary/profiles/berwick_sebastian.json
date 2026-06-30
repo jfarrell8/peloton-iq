@@ -1,19 +1,20 @@
 {
-  "attacking_style": "Not primarily an attacker; demonstrates ability to survive hard selections and position for sprint finishes after sustained climbing efforts.",
-  "team_tactics": "Limited data, but as Continental rider in mixed-level races shows independent positioning without WorldTour-level team support through technical finales.",
-  "terrain_preference": "Can handle medium-length climbs (15km) at high intensity before sprinting; suited to hilly stages with sprint finishes rather than pure climbing tests.",
-  "vulnerability": "Unknown competitive ceiling against full WorldTour sprint specialists; Continental team resources likely limit ability to control positioning consistently.",
+  "attacking_style": "Attacks immediately after climb crests when pure sprinters are distanced, exploiting transition moments when stronger climbers have dropped fast finishers but haven't fully recovered.",
+  "team_tactics": "Limited data on team support; appears to make opportunistic selections when racing naturally fragments rather than through orchestrated team-led setups.",
+  "terrain_preference": "Punchy uphill finishes that eliminate pure sprinters but aren't steep enough for specialist climbers; excels in reduced bunch scenarios with 10-30 riders remaining.",
+  "vulnerability": "Cannot win from small group sprints even after making difficult selections; lacks top-end sprint speed when matched against similar rider types in final 200m.",
   "key_patterns": [
-    "Survives WorldTour-intensity selections despite Continental-level status (1 observed instance)",
-    "Leads out sprints after sustained climbing efforts showing durability-speed combination (1 instance)",
-    "Outperforms expected level as non-WorldTour rider in professional mixed fields (1 instance)"
+    "Attacks at climb crests targeting transition moments when sprinters dropped (2 observations)",
+    "Makes final selections but loses in small-group sprints, positioning or speed deficit (2 observations)",
+    "Targets situations where pure sprinters eliminated but group still too large for solo"
   ],
-  "form_trajectory": "unknown: single observation from early 2020 insufficient to assess trajectory or subsequent development",
-  "races_analysed": 1,
+  "form_trajectory": "neutral: Made key selection at 2023 Giro but sprint weakness persists from 2022; no improvement in finishing ability despite selection strength",
+  "races_analysed": 2,
   "confidence": "low",
   "rider_name": "BERWICK Sebastian",
   "built_from": [
-    "2020 UAE Tour Stage 2",
-    "2020 UAE Tour Stage 2"
+    "2022 Tour de Pologne Stage 4",
+    "2022 Tour de Pologne Stage 4",
+    "2023 Giro dItalia Stage 12"
   ]
 }

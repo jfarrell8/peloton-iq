@@ -1,0 +1,30 @@
+{
+  "label": "2018 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-04",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DÉMARE Arnaud attacked 300m from the line on wet cobbles after the final climb, held off IZAGIRRE's counterattack to win on the uphill finish",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DÉMARE attacked at 300-400m on uphill cobbled finish, not from longer range, exploiting explosive power over sustained climbing",
+      "Breakaway survived 100+km until 14km remaining, suggesting peloton misjudged energy needed for technical uphill finale in rain",
+      "Crash at bottom of final climb (Cote de Mûr) eliminated approximately 10 riders, creating selection before gradient began",
+      "VUILLERMOZ solo attack in final kilometer failed on wet cobbles, proving surface neutralized sustained efforts favoring late explosive moves"
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: won uphill cobbled finish with 300m attack, showing climbing improvement beyond pure sprinter profile",
+      "IZAGIRRE Gorka": "positive: resisted DÉMARE's attack and nearly caught him, indicating strong uphill sprint capability for GC rider",
+      "ALAPHILIPPE Julian": "neutral: mentioned as pre-race favorite for parcours but no result noted, suggesting underperformance on custom-suited terrain",
+      "VUILLERMOZ Alexis": "negative: solo attack in final kilometer failed completely on wet cobbles, tactical error or lack of power",
+      "VAN GARDEREN Tejay": "negative: abandoned after only 100km on opening stage, major early-season form concern",
+      "LAPORTE Christophe": "positive: top six finish on uphill cobbled finish shows versatility beyond standard sprint profile",
+      "EL FARES Julien": "positive: top six finish on selective uphill finale suggests stronger climbing than expected",
+      "ROELANDTS Jürgen": "neutral: breakaway rider caught at 14km, standard long-range attempt without decisive positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:29:35.269706+00:00"
+}

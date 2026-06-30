@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker. Participates in breakaway efforts but lacks finishing power after bridging efforts. Energy management appears problematic when attempting solo chase efforts of 20km+.",
+  "team_tactics": "Elite domestique for JUMBO-VISMA, anchoring tempo work to keep protected riders together. Sacrifices individual opportunities for team cohesion and collective finishes.",
+  "terrain_preference": "Most effective on controlled, tempo-driven stages where sustained diesel pace-making is required. Exposed when requiring explosive accelerations or repeated efforts after significant solo bridging attempts.",
+  "vulnerability": "Gets dropped from breakaways after expending energy on long solo bridge efforts (20km chase). Cannot sustain position after high-cost bridging work, suggesting poor recovery from anaerobic efforts.",
+  "key_patterns": [
+    "Functions as team anchor/tempo setter rather than individual finisher (2 observations)",
+    "Energy depletion after solo bridging attempts leads to being dropped (2 observations)",
+    "Strong team-oriented riding prioritizing collective over individual results (2 observations)"
+  ],
+  "form_trajectory": "negative: Showed initial strength as domestique but subsequent energy mismanagement and dropped from break suggests declining form or poor tactical execution within same race",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MARTIN Tony",
+  "built_from": [
+    "2019 Tour de France Stage 2",
+    "2019 Tour de France Stage 9"
+  ]
+}

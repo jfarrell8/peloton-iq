@@ -1,0 +1,35 @@
+{
+  "attacking_style": "Launches decisive moves on final climbs inside 6-10km to go, converting teammate numerical advantages into solo victories. Excels at timing late accelerations on punchy terrain rather than explosive sprints.",
+  "team_tactics": "Quick-Step deploys multi-rider positioning for numerical superiority, with Gilbert making tactical sacrifice attacks to shred groups for teammates or exploiting coverage when teammates are in moves (Boonen mechanical, Küng ejection).",
+  "terrain_preference": "Punchy late climbs in Ardennes Classics and cobbled Monuments where positioning discipline matters more than raw power. Crosswinds suit his tactical intelligence. Struggles in pure sprint finishes and sustained solo efforts into headwinds.",
+  "vulnerability": "Lacks explosive sprint power when races come down to pure speed (faded badly at Dauphiné). Solo attacks caught close to finish in tailwind conditions (Tour stage). Early dangerous moves without team support immediately shut down.",
+  "key_patterns": [
+    "Wins from calculated 6-10km attacks on final climbs, not explosive sprints (3 Monument/Classic victories).",
+    "Team uses him for tactical sacrifice attacks to shred groups for teammates despite winner potential.",
+    "Quick-Step provides multi-rider numerical advantages he converts through positioning discipline over raw power.",
+    "Crosswind splits favor his tactical intelligence over pure physicality (Vuelta stage win, 40km split).",
+    "Fades in pure sprint finishes; lacks explosive power for short punchy accelerations (Dauphiné negative signal).",
+    "Still tactically trusted at 38 years old for coordinated attacks showing enduring race intelligence."
+  ],
+  "form_trajectory": "negative: 2019 showed declining explosive power (faded Dauphiné sprint), only 2021 observation at age 38 was tactical coordination role rather than personal victory threat",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "GILBERT Philippe",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Amstel Gold Race",
+    "2017 Ronde Van Vlaanderen",
+    "2017 Ronde Van Vlaanderen",
+    "2018 La Fleche Wallonne",
+    "2018 Liege-Bastogne-Liege",
+    "2018 Paris-Roubaix",
+    "2018 Ronde Van Vlaanderen",
+    "2018 Tour de France Stage 13",
+    "2018 Tour de France Stage 13",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Paris-Roubaix",
+    "2019 Paris-Roubaix",
+    "2019 Vuelta a Espana Stage 17",
+    "2021 Paris-Nice Stage 1"
+  ]
+}

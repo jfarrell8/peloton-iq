@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Long-range breakaway specialist, willing to go solo from 160km out. Targets early breakaway placement in hilly/undulating stages rather than attacking on major climbs. Works breakaway-to-selection tactics rather than pure climbing duels.",
+  "team_tactics": "Team supports long breakaway attempts even when mathematically futile for sponsor exposure. Used as high-value domestique on final climbs for team leaders when not given breakaway freedom.",
+  "terrain_preference": "Hilly stage finales and undulating Monument-style parcours (6th Il Lombardia). Survives selection races better than pure mountain stages. Diesel engine suits long efforts over explosive climbing.",
+  "vulnerability": "Gets distanced on pure climbing efforts (dropped then regrouped at Paris-Nice). Not a finisher from reduced groups - relies on breakaway survival rather than final kick or summit finish punch.",
+  "key_patterns": [
+    "Breakaway podiums in World Tour: 3rd Dauphiné, 6th Lombardia from early moves (2 confirmations)",
+    "Exceptional endurance ceiling: 160km solo, paced Quintana group on GT climb (2 confirmations)",
+    "Team exploits his diesel engine for exposure plays, supporting futile-but-visible long efforts",
+    "Better Monument/hilly results than pure mountain stages; selection racing suits him more"
+  ],
+  "form_trajectory": "neutral: 2022 observation shows regression to chase group survival vs 2019-2020 breakaway success; needs more recent data",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "HAGEN Carl Fredrik",
+  "built_from": [
+    "2019 Criterium du Dauphine Stage 8",
+    "2019 Il Lombardia",
+    "2019 Vuelta a Espana Stage 18",
+    "2020 Tirreno Adriatico Stage 6",
+    "2020 Tirreno Adriatico Stage 6",
+    "2022 Paris-Nice Stage 2"
+  ]
+}

@@ -4,43 +4,21 @@
   "race_date": "2018-04-01",
   "stage": null,
   "video": {
-    "video_id": "bY0FgGNiIL8",
-    "title": "De Ronde van Vlaanderen 2018 | Full Race Highlights | inCycle",
-    "published": "2018-04-01 15:58:08+00:00",
-    "channel": "inCycle",
-    "url": "https://youtube.com/watch?v=bY0FgGNiIL8",
-    "match_score": 123.0,
-    "all_candidates": [
-      {
-        "video_id": "bY0FgGNiIL8",
-        "title": "De Ronde van Vlaanderen 2018 | Full Race Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2018-04-01 15:58:08+00:00",
-        "match_score": 123.0
-      },
-      {
-        "video_id": "Zc7aTewgwH0",
-        "title": "Dwars door Vlaanderen 2018 | Full Race Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2018-03-28 16:00:36+00:00",
-        "match_score": 69.25
-      },
-      {
-        "video_id": "5EypckceWx0",
-        "title": "Dwars door Vlaanderen 2018 | Final Kilometre Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-03-28 15:36:01+00:00",
-        "match_score": 61.25
-      },
-      {
-        "video_id": "GEMPVYA-3fU",
-        "title": "Dwars door Vlaanderen 2018 | Ellen Van Dijk's Champagne Malfunction | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-03-28 15:57:44+00:00",
-        "match_score": 56.25
-      }
-    ]
+    "video_id": "5EryZIoVTR8",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=5EryZIoVTR8",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 86,
+    "raw_chars": 3058,
+    "clean_chars": 3047,
+    "duration_mins": 4.3,
+    "clean_text": "it's on television all over the world a modern peloton here a lot of race tactics and a quick step team versus the world who's got um unseat them today it's Ted on them have landed and the 102nd edition and it's just left Antwerp very good first crash of this role of a plan that I'm afraid so Ryder from BMC now let's look around because of course BMC have the pre-race favorite Oh market involved SEP for market thankfully looks alright is checking these mechanical stuff and here we go on to the old apartment we go and listen to this and we're entering the last 145 kilometers it's race time he himself loads all riders down and Oliver nation' of them are not developed as they might have been the first to go their steam the waters involved as well nasan can not believe it even Garcia Cortina the man to crown the mood in the 102nd edition of the Oliver blind and the fans are there that religious holy cycling imagery on Easter Sunday it's Garcia and deferring to the noon time for an angelic race 70 kilometers to go peloton a woman in six happy to let them dangle out for a while maybe and that positioning world that the battle was fought a crash at the back we've got riders at the back or no pitch docker and he's in the barbed wire Oh No Kanda attacking from behind it looks as though Paulette has been caught look at Lund pot here lump pot on the front of the bunch and we're getting some movement lump art is there as being followed by from marker sterben a nurse the only critical rider there where way down here the quickstep riders look at crap cops kid crap cost kids gonna take it up stand on them betting is chasing pirate house sir was there as well in the middle you had been schenzel neibling and here's your bath just making it back on at the right time good Nikki Jennifer look at Nikita Nusrat is making his move Nikki temperatures making his move and nobody table to follow him just yet liebelei is going girly it carries on they've done their recon they know happens neibling into the right position and who's gonna chase him or anybody can't hold it teletraan absolute machine Nikki Telep sir takes off and this is a move to watch 10 extra is about a rich stuff he's not gonna sit why TJ goes straight past upon the our departments he bunches them out the way Nikita - OH place is about like this race up and the filings know that now and Nicki Telep stir looks as though he's about a half company it's the comeback kid 22 years of age Matz pettersen comes out of nowhere and he's suddenly a force to be reckoned with again six 21 minutes of racing and it all comes down to this outside of our de nada it's been a quick step game and for the first time in 32 years a Dutchman we're dead on the mouflon a quick step 21 wins and telleth to the man to do it look at this wine second much medicine 22 years of age once again to finish in the top five much medicine second Phillips you pair competing the podium with Vibram fourth phenom at fifth and another placing for him Sagan stove and burn note for Nath and debarred",
+    "preview_start": "it's on television all over the world a modern peloton here a lot of race tactics and a quick step team versus the world who's got um unseat them today it's Ted on them have landed and the 102nd edition and it's just left Antwerp very good first crash of this role of a plan that I'm afraid so Ryder from BMC now let's look around because of course BMC have the pre-race favorite Oh market involved SEP for market thankfully looks alright is checking these mechanical stuff and here we go on to the o",
+    "preview_end": " again six 21 minutes of racing and it all comes down to this outside of our de nada it's been a quick step game and for the first time in 32 years a Dutchman we're dead on the mouflon a quick step 21 wins and telleth to the man to do it look at this wine second much medicine 22 years of age once again to finish in the top five much medicine second Phillips you pair competing the podium with Vibram fourth phenom at fifth and another placing for him Sagan stove and burn note for Nath and debarred"
+  },
+  "status": "transcript_saved"
 }

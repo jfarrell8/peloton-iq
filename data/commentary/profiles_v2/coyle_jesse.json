@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Prone to committing to aggressive solo bridge efforts without proper calculation of energy expenditure, leading to premature exhaustion before key moments.",
+  "team_tactics": "Limited evidence of coordinated team support; appears to make independent tactical decisions that leave him isolated and overextended.",
+  "terrain_preference": "Insufficient data to determine clear terrain preferences, though flat sprint scenarios have exposed pacing judgment issues.",
+  "vulnerability": "Poor energy management on solo efforts; misjudges when to commit versus when to wait for peloton dynamics to play out, resulting in early exhaustion.",
+  "key_patterns": [
+    "Misjudges effort required for solo bridge attempts, burning matches prematurely (2 observations)",
+    "Unable to contest sprints after committing to unsuccessful chase efforts (2 observations)",
+    "First to abandon efforts when initial tactical gamble fails (2 observations)"
+  ],
+  "form_trajectory": "unknown: Single race observation insufficient to determine trend, but tactical decision-making appears problematic",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "COYLE Jesse",
+  "built_from": [
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 1"
+  ]
+}

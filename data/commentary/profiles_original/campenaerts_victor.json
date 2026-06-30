@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who exploits technical descents and time trial power to establish gaps. Capable of sustaining efforts in small groups deep into finales (sub-1km).",
+  "team_tactics": "Operates with autonomy in breakaways, relying on individual time trial strength rather than team support. Positioned to capitalize on selective racing rather than controlled leadouts.",
+  "terrain_preference": "Technical descents where TT power and bike handling combine effectively. Flat-to-rolling finales that reward sustained threshold efforts. Surprisingly capable on cobbled classics despite TT specialist profile.",
+  "vulnerability": "Lacks sprint speed for reduced bunch finishes. Vulnerable when peloton commits to organized chase in final kilometers, as pure power cannot compensate for numbers.",
+  "key_patterns": [
+    "Uses oversized gearing (62-tooth) on descents to maximize time trial advantage over puncheurs",
+    "Excels in late-race breakaway scenarios, maintaining gaps under extreme pressure inside final kilometer",
+    "TT specialist profile allows competitive results in cobbled classics, defying traditional archetypes"
+  ],
+  "form_trajectory": "positive: 2023 Tour showed improved ability to sustain breakaway efforts under maximum pressure compared to 2022 classics",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CAMPENAERTS Victor",
+  "built_from": [
+    "2022 Dwars door Vlaanderen",
+    "2023 Tour de France Stage 18"
+  ]
+}

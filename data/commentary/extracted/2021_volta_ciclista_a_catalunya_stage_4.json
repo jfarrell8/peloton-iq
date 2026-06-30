@@ -1,0 +1,34 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-25",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHAVES Esteban attacked the INEOS train on final climb to Port Ainé, winning by 7 seconds after KÄMNA forced INEOS to chase all day.",
+    "winner": "CHAVES Esteban",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KÄMNA infiltrating break only 1:30 down forced INEOS to chase entire day, wasting domestique firepower before final climb.",
+      "INEOS deployed full train on final climb despite 50+ second GC lead, revealing tactical conservatism when protecting multiple podium positions.",
+      "CHAVES attacked with 500m remaining when INEOS prioritized protecting multiple GC spots over stage win, exposing team hierarchy constraints.",
+      "ALMEIDA dropped in final 500m under pace on Port Ainé suggests altitude/sustained gradients expose weakness despite earlier GC position."
+    ],
+    "rider_signals": {
+      "CHAVES Esteban": "positive: First win since 2019 Giro, climbing better than two years, attacked successfully against INEOS train protection",
+      "KÄMNA Lennard": "positive: Tactical nuisance forcing INEOS hand despite no stage win, shows understanding of GC gap leverage for break infiltration",
+      "YATES Adam": "positive: Controlled stage comfortably but chose not to attack for stage win, prioritizing GC security with 50+ second buffer",
+      "THOMAS Geraint": "positive: Rode tempo when CARAPAZ mechanicals threatened, moved into podium position with bonus seconds, strong final climb",
+      "PORTE Richie": "positive: Second on GC, part of dominant INEOS trident controlling race at will on mountain stages",
+      "CARAPAZ Richard": "neutral: Mechanical on final climb but recovered quickly to maintain GC position within INEOS train",
+      "YATES Simon": "negative: Failed to show Tirreno form where he won Prati di Tivo, unable to challenge INEOS dominance",
+      "ALMEIDA João": "negative: Dropped in final 500m when pace intensified, suggests weakness on sustained altitude climbs",
+      "DENNIS Rohan": "positive: World TT champion climbing at domestique level, brought back KÄMNA after 4km on Port Ainé",
+      "ROWE Luke": "positive: Policed break formation and contributed to valley chase before final climb, classic super-domestique work",
+      "FROOME Chris": "negative: Dropped halfway up penultimate climb, altitude issues cited from earlier racing",
+      "HIRSCHI Marc": "neutral: Mentioned as stage 5 target but no signal from stage 4 commentary"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:16:04.692783+00:00"
+}

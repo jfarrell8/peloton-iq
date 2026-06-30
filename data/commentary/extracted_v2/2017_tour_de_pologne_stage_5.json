@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour de Pologne Stage 5",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-02",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ABER-STORY Juan came from nowhere on the left side to win mass sprint after Israeli Academy disrupted Billia Tristina's leadout in final 600m corner.",
+    "winner": "ABER-STORY Juan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israeli Academy used 4-rider train final 600m to box MARESCO out, disrupting Billia Tristina leadout for first time.",
+      "LOWNDES Jason sacrificed own sprint setting tempo for teammate VAUGHN, revealing Academy prioritizing GC over stage wins.",
+      "Repeated breakaway rider CARTIER showed diminishing returns; sprinter teams now ignore sub-3min gaps after 3 stages learning curve."
+    ],
+    "rider_signals": {
+      "MARESCO Jakob": "negative: boxed in final corner for first time after winning 2 stages, shows vulnerability when leadout disrupted",
+      "VAUGHN Jambo": "positive: held GC lead despite team working for him in sprint, suggesting climbing legs intact at race midpoint",
+      "ABER-STORY Juan": "positive: won from left side blind spot while favorites watched each other, Spanish climber with hidden sprint speed",
+      "CARTIER Alexis": "neutral: third consecutive day in breakaway signals desperation or team has no sprint option"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:09:22.053484+00:00"
+}

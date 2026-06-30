@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks before steep climbs rather than on them, then uses technical descending skills to create separation. Prefers to launch moves ahead of gradients where others expect attacks.",
+  "team_tactics": "Insufficient data to determine team setup patterns across multiple races.",
+  "terrain_preference": "Excels on technical descents (20% gradient handled) and can position aggressively before steep climbs (10%+). Descending ability appears to be key weapon for distancing pure climbers.",
+  "vulnerability": "Unknown - limited observations available to identify weaknesses across different scenarios.",
+  "key_patterns": [
+    "Attacks positioned before major climbs, not during them (1 observation)",
+    "Uses descending as primary separation tool against climbing specialists (1 observation)",
+    "U23 world champion pedigree translating to Grand Tour stage-winning capability (1 observation)"
+  ],
+  "form_trajectory": "positive: Won solo at Vuelta with tactical maturity, confirming progression from U23 world champion status",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "LUCHENKO Alexei",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 5",
+    "2017 Vuelta a Espana Stage 5"
+  ]
+}

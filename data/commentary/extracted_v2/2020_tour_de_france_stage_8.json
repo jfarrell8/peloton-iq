@@ -1,0 +1,27 @@
+{
+  "label": "2020 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-05",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERS Nans won from a 13-rider breakaway given 7+ minutes, while BARDET Roman attacked the final climb to claw back 13 seconds lost to a crash.",
+    "winner": "PETERS Nans",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway of 13 riders released within first 2 miles gained 7:25, suggesting peloton pre-negotiated GC teams' willingness to concede stage.",
+      "BARDET Roman attacked final climb immediately after teammate PETERS won, converting emotional momentum into 13-second GC recovery from earlier crash.",
+      "BENNETT Sam contested intermediate sprint despite 170km remaining and mountains ahead, revealing obsessive point-defense against SAGAN in green jersey battle.",
+      "POWLESS Neilson placed 5th from breakaway while best-placed GC rider there, prioritizing time recovery over stage win after previous day's mechanical."
+    ],
+    "rider_signals": {
+      "BARDET Roman": "positive: recovered crash-lost seconds via final climb attack, showing resilience but also exposing AG2R's need to gamble for time",
+      "POWLESS Neilson": "positive: contested breakaway finish despite GC focus, recovered 7 minutes day after mechanical loss showing strong climbing form",
+      "YATES Adam": "neutral: defended yellow by following BARDET's attack but couldn't prevent 13-second leak, suggests tactical conservatism",
+      "POGACAR Tadej": "positive: finished with YATES group to reclaim time lost previous day, showing consistency at age 20",
+      "COSNEFROY Benoit": "positive: 40 KOM points available yet he prioritized polka dot consolidation from breakaway position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:26:33.987520+00:00"
+}

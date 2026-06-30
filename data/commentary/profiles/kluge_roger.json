@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Mid-race disruptive attacks designed to fracture the peloton and test sprint teams before final kilometers. Targets moments when sprint trains haven't fully organized, leveraging track endurance to sustain tempo.",
+  "team_tactics": "Deployed as an early-stage disruptor rather than finale finisher. Used in small breaks (2-man groups) to force rival teams into chase work and create blocking opportunities for teammates.",
+  "terrain_preference": "Flat to rolling stages where his track-developed sustained power can be exploited. Best suited to long-range efforts on courses where pure climbers aren't contesting.",
+  "vulnerability": "Cannot sustain gaps once organized sprint teams commit full chase trains. Lacks explosiveness to finish off breaks he helps establish when faced with coordinated pursuit.",
+  "key_patterns": [
+    "Deployed in small breaks (2-man) to pressure disorganized pelotons before sprints coalesce (2 instances)",
+    "Mid-stage attacks fracture fields, creating tactical blocking opportunities for team strategy (2 instances)",
+    "Olympic track endurance credentials used for sustained tempo rather than explosive finishes (2 instances)",
+    "Unsuccessful against fully committed, organized sprint team chases in finale (2 instances)"
+  ],
+  "form_trajectory": "unknown: insufficient recent data (last observation 2021) to assess current trajectory or development",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KLUGE Roger",
+  "built_from": [
+    "2019 UAE Tour Stage 4",
+    "2021 UAE Tour Stage 6",
+    "2021 UAE Tour Stage 6"
+  ]
+}

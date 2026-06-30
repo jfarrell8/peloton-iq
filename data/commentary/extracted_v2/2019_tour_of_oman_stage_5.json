@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour of Oman Stage 5",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-20",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alexey caught GRELLI Fabian with 100 meters remaining after the Direct Energie rider solo'd 144km including most of Jebel Akhdar",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Direct Energie placed two riders in early break then rode prolonged solo summit finish attempt, nearly stealing from favorites",
+      "Astana controlled peloton tempo entire stage despite two Direct Energie escapees, suggesting confidence in Lutsenko's uphill sprint finish",
+      "AG2R Puma exhausted domestiques early on Green Mountain climb, leaving protected rider without support for final kilometer"
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: Won from heavily controlled peloton while Astana set tempo all day, indicating exceptional form with three stage wins",
+      "GRELLI Fabian": "positive: Nearly held 144km solo effort through entire Jebel Akhdar ascent, cracking only final 100m despite Direct Energie gamble",
+      "SEVILLA Oscar": "negative: Distanced from red jersey group on Green Mountain despite being race leader, lost jersey by gaps opening late"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:04:13.609006+00:00"
+}

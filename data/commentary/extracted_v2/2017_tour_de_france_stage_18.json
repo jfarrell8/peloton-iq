@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-20",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BARGUIL Warren attacked from the GC group on the final climb Izoard, hunted down 7-minute breakaway leader Atapuma inside final kilometer.",
+    "winner": "BARGUIL Warren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AG2R placed two riders in breakaway while holding four back for Bardet, demonstrating dual-stage racing approach.",
+      "Barguil left GC contenders group on final climb despite 7-minute deficit, calculated he had superior climbing legs.",
+      "Melanda attacked to draw out Froome's competitors late on Izoard; when they refused bait, Froome bridged himself.",
+      "Bardet sprinted for third-place time bonus in final kilometer, prioritizing 4 seconds over energy conservation for TT."
+    ],
+    "rider_signals": {
+      "BARGUIL Warren": "positive: won from GC group after 7-minute chase, commentary confirms best pure climber in race not just consistent breakaway rider",
+      "BARDET Romain": "positive: aggressive sprint for third-place bonus shows desperation for podium time gaps before Marseille TT",
+      "URAN Rigoberto": "negative: lost 6 seconds to Bardet in stage finish, commentary expects him to gain time in final TT suggesting climbing weakness",
+      "LANDA Mikel": "negative: attacked for Froome but dropped in finale, reduced to domestique role despite earlier stage-winning form",
+      "ATAPUMA Darwin": "negative: held 7-minute advantage entering final climb but caught with 1km remaining, Colombian Independence Day opportunity wasted"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:05:49.175498+00:00"
+}

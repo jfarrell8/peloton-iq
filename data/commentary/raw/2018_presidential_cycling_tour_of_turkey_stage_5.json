@@ -14,75 +14,85 @@
       {
         "video_id": "6XaFazvzAfA",
         "title": "Tour of Turkey 2018 | Stage 5 Highlights: Finish | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-15 11:25:50+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 109.29
       },
       {
         "video_id": "VG2Usdo6D2I",
         "title": "Tour of Turkey 2018 | Stage 4 Highlights: Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-12 14:23:25+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 84.29
+      },
+      {
+        "video_id": "o_f1fpskA5E",
+        "title": "Tour de Pologne 2018 | Stage 5 Finish Highlights | Cycling | Eurosport",
+        "published": "2018-08-08 15:53:57+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.1
       },
       {
         "video_id": "Ell54VvQskw",
         "title": "Tour of Utah 2018 | Stage 5 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-13 09:14:24+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "u-lMmPr-PSY",
         "title": "BinckBank Tour 2018 | Stage 5 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-17 16:53:01+00:00",
-        "match_score": 72.1
-      },
-      {
-        "video_id": "o_f1fpskA5E",
-        "title": "Tour de Pologne 2018 | Stage 5 Finish Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
-        "published": "2018-08-08 15:53:57+00:00",
-        "match_score": 72.1
-      },
-      {
-        "video_id": "z_dbucITixc",
-        "title": "Tour of the Alps 2018 | Stage 5 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-04-21 08:12:08+00:00",
-        "match_score": 72.1
-      },
-      {
-        "video_id": "4lMx5eESeuE",
-        "title": "Tour de Romandie 2018 | Stage 5 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-04-30 16:41:43+00:00",
-        "match_score": 72.1
-      },
-      {
-        "video_id": "v5u3Faps0cM",
-        "title": "Critérium du Dauphiné 2018 | Stage 5 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-06-08 15:25:08+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "sqBRy3rSW_g",
         "title": "Tour du Pays Basque 2018 | Stage 5 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-04-06 16:03:48+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
-        "video_id": "Lw8apg9oXes",
-        "title": "Tour of Turkey 2018 | Stage 1 Highlights: Final Kilometre | Cycling | Eurosport",
+        "video_id": "z_dbucITixc",
+        "title": "Tour of the Alps 2018 | Stage 5 Highlights | Cycling | Eurosport",
+        "published": "2018-04-21 08:12:08+00:00",
         "channel": "TNT Sports",
-        "published": "2018-10-10 15:19:29+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.1
+      },
+      {
+        "video_id": "4lMx5eESeuE",
+        "title": "Tour de Romandie 2018 | Stage 5 Highlights | Cycling | Eurosport",
+        "published": "2018-04-30 16:41:43+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.1
+      },
+      {
+        "video_id": "v5u3Faps0cM",
+        "title": "Crit\u00e9rium du Dauphin\u00e9 2018 | Stage 5 Highlights | Cycling | Eurosport",
+        "published": "2018-06-08 15:25:08+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.1
+      },
+      {
+        "video_id": "knGb9v4dfy8",
+        "title": "Tour of Turkey 2018 | Stage 2 Highlights: Final Kilometre | Cycling | Eurosport",
+        "published": "2018-10-10 15:19:28+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 69.29
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-24",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GEOGHEGAN HART won stage via 10-second bonus after DENNIS paced INEOS attacks from 51km out, tied HINDLEY on GC",
+    "winner": "GEOGHEGAN HART Tao",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS dictating tempo from 51km neutralized HINDLEY attacks, proving super-domestique pacing trumps solo counterattacks at altitude.",
+      "KELDERMAN cracked on first Sestriere ascent 51km out while HINDLEY survived, revealing second-tier GC riders fold earliest multi-lap formats.",
+      "INEOS prioritized stage bonus seconds over pure time gaps, GEOGHEGAN HART sprinting for 10-second bonus despite controlling race."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: MVP performance controlling 51km finale suggests peak form enables domestiques to dictate GC battles decisively",
+      "HINDLEY Jai": "neutral: survived DENNIS pacing but couldn't attack away, signaling time trial weakness forced defensive racing for pink",
+      "KELDERMAN Wilco": "negative: dropped 51km from finish on first lap suggests multi-climb formats expose recovery deficit versus pure climbers",
+      "ALMEIDA João": "positive: attacked for podium after cracking earlier shows recovery capacity exceeded expectations for first Grand Tour",
+      "FUGLSANG Jakob": "negative: dropped immediately when DENNIS accelerated reveals declining form or poor altitude acclimatization third week"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:26:04.667947+00:00"
+}

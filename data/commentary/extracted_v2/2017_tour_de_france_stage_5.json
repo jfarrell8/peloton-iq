@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-05",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ARU Fabio attacked in a massive gear at 1.5 miles to go on La Planche des Belles Filles, soloing to his first Tour stage win while FROOME took yellow.",
+    "winner": "ARU Fabio",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Team Sky deployed six riders to base of final climb, unprecedented depth for 5.9km finish suggests insurance against Froome off-form.",
+      "Aru attacked in oversized gear initially appearing doomed, but sustained power on steep gradient dropped everyone despite tactical inefficiency.",
+      "Dan Martin counterattacked seconds after Aru, exploiting Port's hesitation to gain time while Froome watched—revealing GC hierarchy uncertainty.",
+      "Yates offensive riding secured white jersey by minimal gaps, suggesting 2017 youth competition unusually tight (seconds not hours) unlike historical pattern."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "neutral: won yellow but lacked expected emphatic dominance on first mountain test, suggesting less sharpness than previous Tours despite fresh preparation claims",
+      "ARU Fabio": "positive: two wins in two weeks indicates peaking form trajectory, looks exceptionally light on steep gradients unlike typical Grand Tour fade pattern",
+      "PORT Richie": "negative: locked up when Martin counterattacked, losing additional time through hesitation not climbing legs—continues chronic trend of losing seconds to Froome",
+      "MARTIN Dan": "positive: timed counterattack precisely after Aru initial surge, gaining time on Port while Froome neutralized—tactically sharper than positioning suggested",
+      "YATES Simon": "positive: best-looking climber in GC group per commentary, offensive riding unusual for white jersey contender prioritizing defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:07:20.955874+00:00"
+}

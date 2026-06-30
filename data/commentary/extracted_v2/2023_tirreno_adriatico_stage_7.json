@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 7",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won the sprint after a late breakaway was caught, denying GROENEWEGEN with DAINESE surprising on podium",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step pivoted from Jakobsen to Ballerini as finisher, suggesting Jakobsen wasn't positioned well pre-chicane.",
+      "Eight-rider quality breakaway forced UAE/Soudal to chase without help, gap controlled to 3.5min showing calculated team power.",
+      "Chicane at 750m to go required top-10 positioning beforehand; teams outside that were eliminated regardless of sprinter quality.",
+      "De Lie water-carrying duties suggest Lotto prioritizing spring classics over stage hunting after Roglic's GC dominance."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: doubled stage wins using chicane positioning while rivals stayed too wide through technical finale",
+      "GROENEWEGEN Dylan": "neutral: strong positioning through finale but couldn't match Philipsen's throw after chicane unwound",
+      "DAINESE Alberto": "positive: DSM sprinter podiumed despite being on leadout duty for Meyerhoffer, suggesting emerging fast-twitch upgrade",
+      "JAKOBSEN Fabio": "negative: Quick-Step switched finisher to Ballerini mid-finale indicating poor positioning or form concerns",
+      "ROGLIC Primoz": "positive: swept all mountain stages and classifications showing complete stage-race dominance across disciplines",
+      "CAVENDISH Mark": "neutral: complained about helicopter positioning suggesting heightened race stress, but mood indicated motivation still present"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:55:13.938175+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 15",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-04",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "AARONSMAN Thymen won from 29-rider breakaway on Sierra Nevada queen stage while ROGLIC attacked with 7km remaining, taking 15 seconds from EVENEPOEL.",
+    "winner": "AARONSMAN Thymen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AG2R Citroën drove chase to protect O'CONNOR's GC, revealing unwillingness to let multi-threat breaks survive unchallenged.",
+      "CRADDOCK Lawson bridged alone from initial break, suggesting original 29-man group contained too many GC threats for comfort.",
+      "ROGLIC attacked under 7km when EVENEPOEL had only VERMAERKE for support, revealing deliberate teammate attrition strategy by Jumbo."
+    ],
+    "rider_signals": {
+      "KELDERMAN Wilco": "negative: abandoned early after crash on category 3 climb at 35km, suggesting continued poor form",
+      "LOPEZ Miguel Angel": "positive: attacked GC favorites group before final 7km, finished with MAAS ahead of GC contenders",
+      "RODRIGUEZ Carlos": "negative: struggled on final climb despite CARAPAZ dropping back to pace, lost a GC place",
+      "AYUSO Juan": "negative: caught out of position entering final climb, relegated to retrieval mode with ALMEIDA",
+      "CARAPAZ Richard": "neutral: sacrificed own result by dropping back to pace RODRIGUEZ, also assisted AYUSO and ALMEIDA",
+      "O'CONNOR Ben": "positive: followed ROGLIC's late attack, finished on same time as stage winner group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:42:48.876697+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-07",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard attacked solo inside final 2km on sustained uphill finish, held off disorganized chase led by ULISSI for stage win and yellow jersey.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos isolated CARAPAZ by letting Deceuninck-QuickStep/Bora burn matches chasing HAAS, enabling late GC rider attack on uphill sprint finish.",
+      "ULISSI Diego led chase but launched too early on sustained uphill gradient, burning sprinters before CARAPAZ could be caught.",
+      "Yellow jersey PEDERSEN completely dropped on final circuits suggests GC contenders should position aggressively even on semi-sprint finishes with climbing."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: Won from solo attack inside 2km against sprinters on uphill finish, revealing tactical opportunism beyond pure GC riding",
+      "HAAS Nathan": "negative: Burned 2.5-year winless streak attempting solo from 2 laps out, mistimed effort against organized trade teams",
+      "BALLERINI Davide": "negative: First to chase CARAPAZ but exploded immediately, suggests poor form or positioning error for uphill sprint finish",
+      "PEDERSEN Mads": "negative: Yellow jersey completely distanced on final technical circuits, exposed weakness in positioning or climbing on hybrid finishes",
+      "KELDERMANN Bauke": "positive: Finished third mixing with sprinters on uphill finish, unexpected sprint capacity for pure GC rider"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:27:26.054203+00:00"
+}

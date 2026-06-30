@@ -1,0 +1,29 @@
+{
+  "label": "2017 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-19",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan led BMC to TTT victory in Nîmes, gaining critical seconds over Sky (3rd) and major gaps on GC favorites ARU and CONTADOR (+30s).",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC measured time on fifth rider, forcing Sky to actively brake before finish line despite superior front group speed.",
+      "ATAPUMA crashed first bend; technical urban TTT courses expose handling weaknesses more than pure power deficits early season.",
+      "CONTADOR's Trek team lost 30+ seconds despite home-hero status; aging GC squads lack TTT depth even with motivated leaders.",
+      "Quick-Step set early 60:04 benchmark that held against 15 teams; small rosters without pure TT specialists struggle to break established times."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: Track specialist background translated to driving BMC's technical urban TTT win, suggesting TTT-to-prologue form correlation.",
+      "FROOME Chris": "neutral: Sky placed third but had to brake for fifth rider rule, indicating thinner TTT roster depth than 2016 edition.",
+      "ARU Fabio": "negative: Astana lost 30+ seconds in opening TTT, revealing team weakness that compounds his known late-race vulnerability.",
+      "CONTADOR Alberto": "negative: Trek squad 30+ seconds down signals retirement-year roster inadequacy around him despite Nîmes homecoming motivation boost.",
+      "ATAPUMA Darwin": "negative: First-bend crash on technical opening reveals bike-handling liability that will haunt punchy mountain finishes under pressure.",
+      "CHAVES Esteban": "positive: Orica-Scott 17 seconds back at rank 5 shows strong TTT depth around twin GC options with Yates brothers.",
+      "BUCHMANN Emanuel": "neutral: Bora team set early reference time; his Tour top-15 form carried over but team lacks stage-winning TTT firepower."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:15:41.844621+00:00"
+}

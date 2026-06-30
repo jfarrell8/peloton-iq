@@ -1,0 +1,27 @@
+{
+  "label": "2021 E3 Saxo Bank Classic",
+  "race_name": "E3 Saxo Bank Classic",
+  "race_date": "2021-03-26",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ASGREEN Kasper attacked at 4.8km after Deceuninck-QuickStep controlled with 7 riders, isolating FØNDERPO and VAN AERT despite being numerically weaker.",
+    "winner": "ASGREEN Kasper",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Deceuninck-QuickStep used all 7 riders in team time trial before Taaiegemberg, orchestrating splits to burn rivals numerically.",
+      "ASGREEN attacked at 4.8km despite being domestique all day, exploiting hesitation when rivals expected freshest riders to move.",
+      "VAN AERT and FØNDERPO isolated despite superior form when 3 QuickStep riders sat in final 7-man group.",
+      "Pre-Paterberg attacks by WVA-FØNDERPO neutralized by having LAMPAERT and VAN BAARLE bridge, not chase."
+    ],
+    "rider_signals": {
+      "ASGREEN Kasper": "positive: Won after full domestique duties suggests exceptional diesel engine for 200km+ attrition races.",
+      "VAN AERT Wout": "negative: Failed to convert Paterberg attack despite FØNDERPO partnership, suggesting tactical inflexibility against numerical disadvantage.",
+      "FØNDERPO Matteo": "negative: Dropped move at 4.8km despite being marked as strongest rider, indicating vulnerability to repeated accelerations after 190km.",
+      "VAN AVERMAET Greg": "neutral: Present in final 7 but no punch in finale, confirming post-peak status but still positioning ability.",
+      "LAMPAERT Yves": "positive: Bridged to WVA-FØNDERPO move rather than chasing, key tactical nuance that kept QuickStep numbers up."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:36:06.871553+00:00"
+}

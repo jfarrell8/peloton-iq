@@ -1,0 +1,22 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-20",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won a chaotic sprint finish after late crashes fractured the peloton inside 6km, beating EVENEPOEL Remco by ~1 second.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Breakaway absorbed inside final 6km suggests teams waited unusually long to organize sprint trains on technical urban circuit.",
+      "Final corners before line created positioning chaos that negated pure sprint speed; course recon critical for this finish type."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: caught out of position through corners despite being fastest finisher, suggesting sprint positioning weakness on technical finishes",
+      "ROGLIC Primoz": "positive: demonstrated sprint savvy on technical finish despite being stage race GC rider, positioned perfectly through final turns"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:02:59.068950+00:00"
+}

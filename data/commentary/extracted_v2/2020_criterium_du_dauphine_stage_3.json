@@ -1,0 +1,28 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-14",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FORMOLO David soloed from Col de la Madeleine descent through final 14.8km climb, holding 33 seconds over surging ROGLIC",
+    "winner": "FORMOLO David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma four-rider pacemaking systematically shattered Ineos morale before teammates could contribute, reversing traditional Grand Tour dynamics.",
+      "FORMOLO attacked on Madeleine descent not summit, gambling on technical advantage over pure climbing to build 4:19 buffer before finale.",
+      "ROGLIC delayed final acceleration until sub-100m, prioritizing bonus seconds over stage win when gap to breakaway was manageable."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: dropped immediately on final climb without doing any work, pre-Tour leadership battle with Bernal effectively resolved",
+      "FROOME Chris": "negative: dropped with 12km remaining alongside domestiques, Castroviejo escorted him suggesting protective team strategy not fitness crisis",
+      "SIVAKOV Pavel": "negative: dropped before contributing any pacemaking effort, Ineos depth unexpectedly shallow",
+      "KUSS Sepp": "positive: ex-mountain biker delivered final pacing shift before Roglic, signaling Jumbo's superior climbing reserve compared to Ineos",
+      "ALAPHILIPPE Julian": "neutral: dropped early but commentary suggests deliberate conservation for upcoming stages, not competitive collapse",
+      "FORMOLO David": "positive: descended Madeleine recklessly fast despite multiple scares, tactical risk-taking paid off with 4+ minute buffer",
+      "ROGLIC Primoz": "positive: accelerated sub-100m only for bonus seconds despite having firepower to chase stage, coldly pragmatic GC racing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:11:59.249824+00:00"
+}

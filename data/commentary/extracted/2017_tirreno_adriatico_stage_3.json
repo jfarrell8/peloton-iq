@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-10",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked on the final steep climb in Trevi, holding off a closing YATES Adam by 3 seconds despite late pursuit.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ attacked solo on final steep climb with sufficient gap that YATES Adam's late counter fell 3 seconds short.",
+      "THOMAS Geraint took race lead via countback tie-breaker with VAN AVERMAET Greg, both finishing same time as BENOOT.",
+      "MAJKA Rafał crashed 30km from finish, losing all GC contention on critical mountain stage before final climb.",
+      "MOSCON Gianni marked VAN AVERMAET Greg's initial move but was countered by YATES, revealing Sky's rider hierarchy weakness."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: timed solo attack perfectly on steep finish, powerful enough to hold off elite chasers including YATES",
+      "YATES Adam": "positive: strongest chaser response but launched counter slightly late, closed massive gap to only 3 seconds",
+      "THOMAS Geraint": "neutral: took race lead on countback but couldn't follow YATES's acceleration, revealing climbing limitation",
+      "MAJKA Rafał": "negative: crashed 30km out on decisive stage, eliminated from GC contention before final climb even started",
+      "BENOOT Tiesj": "positive: finished third on mountainous finish days after winning Strade Bianche, showing unexpected climbing range",
+      "VAN AVERMAET Greg": "neutral: initiated move on final climb but immediately countered, strong but not climbing elite",
+      "MOSCON Gianni": "neutral: tracked VAN AVERMAET's attack but faded when YATES countered, decent climbing but not decisive"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:05:28.092910+00:00"
+}

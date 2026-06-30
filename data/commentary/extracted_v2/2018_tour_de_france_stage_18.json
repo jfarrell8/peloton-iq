@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-26",
+  "stage": 18,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnaud won stage 18 sprint after finishing last two consecutive days in Pyrenees, delivered by flawless Groupama-FDJ leadout.",
+    "winner": "DEMAR Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Demar recovered from back-to-back lanterne rouge finishes in mountains to sprint victory, revealing pure sprinters' recovery superiority over all-rounders.",
+      "Groupama-FDJ controlled bunch sprint from start, closing gaps potentially too early but executing flawless final kilometer positioning.",
+      "ALAPHILIPPE abandoned peloton 7km from finish to rest for stage 19 breakaway, prioritizing polka dot security over meaningless sprint placement.",
+      "Third-week sprint featured subdued peloton pace allowing puncheurs like FINNEY to contest top-10 against fatigued pure sprinters."
+    ],
+    "rider_signals": {
+      "DEMAR Arnaud": "positive: surviving mountain brutality then sprinting optimally reveals exceptional recovery capacity for pure sprinters in third week",
+      "FINNEY Taylor": "positive: 9th place mixing with specialists shows third-week sprint degradation creates opportunities for versatile domestiques",
+      "SAGAN Peter": "negative: visibly exhausted post-sprint and surfing wheels suggests green jersey defense costing him usual finishing power",
+      "ALAPHILIPPE Julian": "positive: tactical abandonment 7km out to conserve energy for stage 19 attack shows polka dot math already secured",
+      "FROOME Chris": "negative: described as one-off poor mountain performance requiring reassurance about stage 19 form from commentators",
+      "GUARNIERI Jacopo": "positive: leadout man execution described as beautiful, key to Demar's positioning entering final corner"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:30:11.946392+00:00"
+}

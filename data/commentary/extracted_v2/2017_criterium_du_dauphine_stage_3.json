@@ -1,0 +1,24 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-06",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BUCHMANN Kimmel won from a 6-rider breakaway at 2km that survived despite only 2-minute gap and 46kph pace, attacking 300m from line.",
+    "winner": "BUCHMANN Kimmel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Six-rider break survived with 2-minute gap at 30km thanks to tailwind pushing 46kph average, losing only 10sec/km.",
+      "Cofidis deployed dual sprinter leadout (FDJ-Nasser-Bora) 30km out despite 2-minute deficit, revealing coordination failure between sprint teams.",
+      "BUCHMANN attacked 300m out despite being marked as non-fastest finisher, capitalizing on break exhaustion and surprise timing."
+    ],
+    "rider_signals": {
+      "BUCHMANN Kimmel": "positive: Yellow jersey holder animated early 2km break, cleared all climbs first for points, still had finishing kick after 170km",
+      "HOULE Hugo": "neutral: 85th overall but best-placed escapee suggests weak GC field allowed low-ranked rider in dangerous move",
+      "DEMARE Arnaud": "negative: Won peloton sprint but failed to close 2-minute gap with organized chase, revealing sprint train coordination issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:53:30.411034+00:00"
+}

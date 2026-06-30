@@ -1,0 +1,28 @@
+{
+  "label": "2018 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-13",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won with a single late attack after CICCONE animated the climb, while FROOME Chris collapsed and lost over a minute.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CICCONE attacked repeatedly from breakaway despite being young domestique, softening favorites before YATES Simon's winning move.",
+      "BALLERINI Davide beat BELKOV Maxim in intermediate sprint despite latter's superior strength, revealing tactical confidence over raw power.",
+      "FROOME Chris required radio support mid-climb before collapse, showing GC distress manifests as communication dependency before time loss.",
+      "YATES Simon attacked only once at finish after sitting wheel entire climb, proving first acceleration matters more than early aggression."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: won stage by being patient and attacking once at finish after riding wheels, showing superior race economy",
+      "FROOME Chris": "negative: used radio mid-climb then lost over minute, revealing both physical and tactical distress before collapse",
+      "CICCONE Giulio": "positive: attacked repeatedly from breakaway despite youth, animated race before stage win, signals future aggressive capability",
+      "BALLERINI Davide": "positive: outsprinted stronger BELKOV Maxim at intermediate by tactical positioning, shows racecraft beyond second-year experience",
+      "CHAVES Esteban": "positive: only rider seated in final quartet with YATES PINOT POZZOVIVO, demonstrating superior climbing efficiency",
+      "CARAPAZ Richard": "neutral: dropped two bike lengths in finale while defending young rider jersey, marginal but controlled loss"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:27:33.676679+00:00"
+}

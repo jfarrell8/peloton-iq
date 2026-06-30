@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-10",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DOWSETT attacked solo with one finishing circuit lap remaining after the final climb, held 25-second gap through hesitation, won by over a minute.",
+    "winner": "DOWSETT Alex",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DOWSETT second attack created winning move after first effort dropped him; persistence on same climb pays dividends.",
+      "Peloton hesitation at 1-lap-to-go allowed DOWSETT gap to expand from 25s back to race-winning margin.",
+      "Trek-Segafredo forced peloton after crashes reunited break, revealing concern about breakaway quality threatening stage result."
+    ],
+    "rider_signals": {
+      "DOWSETT Alex": "positive: won from late solo move after being dropped earlier, showed tactical intelligence attacking twice same climb",
+      "HOLMES Matthew": "positive: collected 20 KOM points plus third place, active throughout breakaway suggests strong form",
+      "PUCCIO Salvatore": "positive: second breakaway appearance this race, finished second in final sprint, team using opportunistically",
+      "BRAMBILLA Gianluca": "neutral: crashed but continued after medical check, persistence notable but no performance signal",
+      "ALMEIDA João": "neutral: retained pink by 43 seconds over BILBAO, survived without testing ahead of mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:27:34.858277+00:00"
+}

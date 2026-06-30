@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 20",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-16",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POELS Wout attacked inside 1km from a five-rider breakaway quintet, timing his move perfectly to hold off late-charging EVENEPOEL Remco on the throw.",
+    "winner": "POELS Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway of 32 riders ballooned to 10 minutes because Jumbo-Visma prioritized protecting KUSS's jersey over controlling quality escapees.",
+      "EVENEPOEL repeatedly bridged at 80+ km/hr on descents after being dropped on climbs, revealing superior descending as breakaway tactic.",
+      "POELS attacked inside lane with 300m remaining from quintet, exploiting hesitation rather than waiting for traditional sprint leadout.",
+      "Spanish riders skirmished 10+ minutes behind breakaway despite GC being decided, suggesting team orders couldn't suppress individual ambitions on penultimate mountain stage."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: dropped on final climb at 70km but relied purely on descending prowess to rejoin, suggesting climbing durability issues late-race",
+      "POELS Wout": "positive: precisely timed inside-lane attack with 300m remaining from select group, showing sprint calculation rare for climbing domestiques",
+      "KUSS Sepp": "neutral: Jumbo-Visma finally committed full protection despite minimal 17-second margin, revealing team indecision throughout race",
+      "VAN AERT Wout": "positive: made quintet selection on final climb despite not being pure climber, demonstrating sustained form late in three-week race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:49:25.035533+00:00"
+}

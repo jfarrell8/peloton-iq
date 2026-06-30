@@ -1,0 +1,29 @@
+{
+  "label": "2019 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LÓPEZ Miguel Ángel won stage 1 TTT with Astana by 2 seconds over Deceuninck-Quick Step, while ROGLIČ lost 40 seconds after Jumbo-Visma crashed on a wet corner.",
+    "winner": "LÓPEZ Miguel Ángel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VANGAARDEN Tejay pulled massive turns for EF, revealing team time trial depth despite lack of pure GC ambition.",
+      "Jumbo-Visma crashed on wet painted corner mid-course, losing 40 seconds; paint visibility in TTTs predicts crash risk.",
+      "VALVERDE Alejandro and QUINTANA Nairo sprinted final meters against each other, exposing internal Movistar leadership tension despite team result.",
+      "Astana held 1-second advantage at midpoint checkpoint over Groupama-FDJ, suggesting first 7km section rewarded pure power over technical handling."
+    ],
+    "rider_signals": {
+      "LÓPEZ Miguel Ángel": "positive: Took red jersey with TTT win, Astana fully committed to his GC leadership unlike multi-leader rivals.",
+      "ROGLIČ Primož": "negative: Lost 40 seconds in crash plus visible left hip contusion, immediate physical damage beyond time loss.",
+      "FUGLSANG Jakob": "neutral: Rode for LÓPEZ despite claiming sub-100% form post-Tour crash, questions about his true condition remain.",
+      "VALVERDE Alejandro": "positive: Movistar only 16 seconds back at 7th, keeps multiple GC options live despite internal tension.",
+      "QUINTANA Nairo": "positive: Led Movistar through technical sections post-Tour, recovery faster than expected; statement ride about leadership claim.",
+      "MARTIN Tony": "positive: Immediately took front after crash to limit losses, organizational instinct under pressure remains elite.",
+      "KNOX James": "positive: Led Ineos through technical corners smoothly, emerging as valuable domestique for stage racing support."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:15:49.070050+00:00"
+}

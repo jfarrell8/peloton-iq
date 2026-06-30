@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who commits to long-distance moves (169km+) and finishes with sprint speed when in reduced groups. Capitalizes on tactical miscalculations by competitors.",
+  "team_tactics": "Insufficient data to establish pattern. Solo breakaway effort observed without clear team setup support.",
+  "terrain_preference": "Performs well in extended breakaway scenarios requiring endurance and finishing speed. Exact terrain preference unclear from single observation.",
+  "vulnerability": "Three-year win drought (March 2019-June 2022) suggests inconsistency or difficulty converting opportunities. May struggle when not in breakaway scenarios.",
+  "key_patterns": [
+    "Wins from small breakaway groups with sprint finish rather than solo efforts.",
+    "Benefits from peloton miscalculations allowing narrow margins (5-second gap held).",
+    "Capable of sustained 169km+ breakaway efforts with finishing speed intact."
+  ],
+  "form_trajectory": "positive: First win in 3+ years suggests breakthrough or return to form, demonstrated race-winning fitness",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VEAMOS Alexis",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 2",
+    "2022 Criterium du Dauphine Stage 2"
+  ]
+}

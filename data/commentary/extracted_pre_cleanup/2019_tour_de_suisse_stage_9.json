@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de Suisse Stage 9",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-23",
+  "stage": 9,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CARTHY attacked from the start over three HC climbs, built winning gap through sustained tempo over Lukmanier and Oberalp, held off DENNIS counterattack on Furka descent.",
+    "winner": "CARTHY Hugh",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARTHY exploited early positioning on first climb when favorites expected late-race selection, accumulating time across multiple summits rather than single explosive move.",
+      "DENNIS waited until final descent to attack BERNAL, revealing INEOS allowed liberty only when GC mathematically secure via time gaps.",
+      "KONRAD climbed into podium via survival while others cracked in sunny conditions, showing heat management separated final GC positions more than climbing strength."
+    ],
+    "rider_signals": {
+      "CARTHY Hugh": "positive: sustained tempo over three consecutive HC climbs from race start indicates exceptional diesel engine suited to ultra-long efforts",
+      "DENNIS Rohan": "negative: attacked near Furka summit but couldn't gap BERNAL despite being fresher, suggests climbing deficit persisted even with GC pressure removed",
+      "BERNAL Egan": "positive: marked DENNIS attack on final descent while defending 22 seconds, showing superior descending confidence and race management for stage race victory",
+      "KONRAD Patrick": "positive: climbed onto podium via attrition while others wilted in heat, indicating superior thermoregulation as tactical asset in hot mountain stages",
+      "ŠPILAK Simon": "negative: drifted back from seventh place despite earlier breakaway attempt on Oberalp, revealing single-effort capacity without recovery for sustained climbing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:12:48.025272+00:00"
+}

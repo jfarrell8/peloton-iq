@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour of Oman Stage 6",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-19",
+  "stage": 6,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the sprint after VAN AVERMAET Greg and BARDET Romain's late attack was caught inside 2km.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET attacking with VAN AVERMAET despite both lacking sprint finish suggests desperation to avoid Kristoff's speed",
+      "KEISSE Iljo escaped early on climb of Al Hamri rather than flat terrain, revealing crosswind sections were neutralized",
+      "HERMANS Ben crashes near climb base yet still secures GC, exposing weak final stage offensive efforts by rivals"
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: third stage win demonstrates unmatched sprint form when positioned correctly through chaotic finale",
+      "VAN AVERMAET Greg": "neutral: willing to attack with Bardet inside 2km despite minimal winning chance reveals opportunistic racing over calculated risk",
+      "BARDET Romain": "neutral: initiating late attack on stage with multiple crosswind sections suggests team failed earlier to create selection",
+      "HERMANS Ben": "positive: surviving early crash near climb then defending GC without team support shows individual resilience under pressure",
+      "KEISSE Iljo": "neutral: leading breakaway on climb rather than forcing crosswind selection indicates questionable tactical choice from experienced classics rider"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:14:36.280815+00:00"
+}

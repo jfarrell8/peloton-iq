@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-15",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan won the 9.5km opening time trial by 0.14 seconds over BODNAR Maciej in wet conditions that affected late starters",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Early starters avoided forecast rain; GC favorites started early sacrificing optimal conditions for guaranteed dry roads over marginal gains",
+      "DENNIS Rohan beat BODNAR Maciej by just 0.14 seconds in 9.5km, suggesting minimal power advantage despite rainbow jersey status"
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: third Tour de Suisse career stage win but margin suggests he lacks dominant TT form in rainbow jersey",
+      "THOMAS Geraint": "neutral: 17 seconds down in 13th shows acceptable GC positioning without revealing time trial ceiling",
+      "BODNAR Maciej": "positive: second place just 0.14 seconds behind world champion reveals strong early-season TT form",
+      "SAGAN Peter": "neutral: seventh place indicates points jersey focus without compromising time trialing effort for later stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:11:27.376330+00:00"
+}

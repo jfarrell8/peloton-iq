@@ -1,26 +1,34 @@
 {
-  "attacking_style": "Aggressive breakaway rider who targets long-range moves, particularly in final 30km and uphill sections. Shows diesel engine capability to survive deep into finales, often outlasting specialized climbers.",
-  "team_tactics": "Bahrain provides positioning support for punchy finishes but Wright operates independently in breakaways. Limited evidence of systematic team-led setup; relies on opportunistic moves rather than controlled lead-outs.",
-  "terrain_preference": "Excels on punchy uphill finishes and prolonged breakaway scenarios with mixed terrain. Surprising climbing resilience for sprinter profile, surviving selective mountain pace and uphill finale positioning battles.",
-  "vulnerability": "Spray chaos on ramped finishes (involved in Roglic crash incident). Tactical calculation over winning instinct when jersey considerations arise—refused chase when 6-second gap threatened competition standings.",
+  "attacking_style": "Opportunistic breakaway specialist who targets medium-mountain and uphill finishes rather than pure sprints. Demonstrates raw power but occasionally lacks tactical timing, particularly in break finishes where he leads out too early.",
+  "team_tactics": "Often positioned as leadout support for primary sprinters (e.g., Girmay) but increasingly given freedom in breakaways. Team sets climbing tempo that eliminates pure sprinters while keeping him in contention for reduced bunch sprints.",
+  "terrain_preference": "Excels on uphill finishes and medium-mountain stages. Survived Flemish climbs (Paterberg, Koppenberg) in elite group. Struggles in pure flat sprints against world-class finishers but competitive when gradient or attrition reduces field.",
+  "vulnerability": "Sprint timing and tactical awareness remain inconsistent—led out from too far multiple times in breakaways. Dangerous in bunch sprints (caused Roglič crash). Lacks final acceleration against fresher or more experienced finishers despite superior sustained power.",
   "key_patterns": [
-    "Three consecutive breakaway appearances in Vuelta 2022, showing sustained aggressive approach (3 observations)",
-    "Multiple uphill finish competitiveness including fourth place, defying pure sprinter categorization (3 observations)",
-    "Post-rest day aggression pattern: bridged to breaks twice after recovery days (2 observations)",
-    "Exceptional breakaway survival rate, outlasting specialists in closing kilometers (2 observations)",
-    "Jersey/competition calculations influence tactical decisions over stage-winning opportunities (1 negative instance)"
+    "Consistent breakaway podiums across Grand Tours, including multiple top-4 finishes at Vuelta 2022",
+    "Superior durability allows survival on team-imposed climbing pace that eliminates pure sprinters",
+    "Raw power evident but sprint timing immature: repeatedly leads out too early from breaks",
+    "Tactically cautious in jersey calculations, refuses chase duty when threatening GC math",
+    "Emerging time trial capability revealed alongside breakaway/sprint hybrid skillset"
   ],
-  "form_trajectory": "positive: consistent aggressive racing and results improvement through Vuelta 2022, including podium finish and repeated late-race survival suggesting peak condition",
-  "races_analysed": 7,
-  "confidence": "medium",
+  "form_trajectory": "positive: Evolution from pure breakaway opportunist to versatile threat combining TT ability, climbing durability, and sprint capacity across 2022-2023. Recent Dauphiné result shows continued progression.",
+  "races_analysed": 11,
+  "confidence": "high",
   "rider_name": "WRIGHT Fred",
   "built_from": [
+    "2022 Eschborn-Frankfurt",
     "2022 La Vuelta ciclista a Espana Stage 13",
     "2022 La Vuelta ciclista a Espana Stage 16",
     "2022 La Vuelta ciclista a Espana Stage 19",
     "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 5",
     "2022 La Vuelta ciclista a Espana Stage 7",
-    "2022 Tour de France Stage 10",
-    "2022 Tour de France Stage 8"
+    "2022 Ronde van Vlaanderen - Tour des Flandres",
+    "2022 Tour de France Stage 13",
+    "2022 Tour de France Stage 19",
+    "2022 Tour de France Stage 19",
+    "2022 Vuelta a Espana Stage 7",
+    "2022 Vuelta a Espana Stage 7",
+    "2023 Criterium du Dauphine Stage 4"
   ]
 }

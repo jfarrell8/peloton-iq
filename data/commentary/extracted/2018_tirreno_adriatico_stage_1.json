@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-07",
+  "stage": 1,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "BMC won the TTT by 4 seconds over Mitchelton-Scott, with DENNIS driving the line to secure the margin in the final 50 meters.",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS positioned on front for BMC's final push demonstrates sprinter-led TTT finishes preserve GC riders for selective stages ahead.",
+      "Mitchelton-Scott's unexpected speed (22:23) suggests hidden TTT strength that makes them dark horses for team-dependent stages this season.",
+      "KELDERMAN maintained position with only 5 finishers, revealing Sunweb accepts rider losses to preserve core GC group's time competitiveness.",
+      "Sky's 9-second deficit despite FROOME/THOMAS presence signals their TTT decline creates exploitable GC vulnerability in stage race openings."
+    ],
+    "rider_signals": {
+      "MEINTJES Louis": "negative: finished 1:07 down in group of four, far from ideal and signals early GC time loss vulnerability",
+      "ARU Fabio": "neutral: UAE posted respectable 23:04, on parity with education first, suggests steady but unremarkable early form",
+      "MAJKA Rafał": "positive: finished 30 seconds down at 22:49, making big gains on other GC riders like Kelderman and Nibali",
+      "NIBALI Vincenzo": "neutral: 22:49 sixth place is not bad at all, only 30 seconds down shows solid early positioning",
+      "KELDERMAN Wilco": "neutral: maintained classification position with only 5 finishers, improved relative to Sunweb despite rider losses"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:31:49.749478+00:00"
+}

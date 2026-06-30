@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Pure flat sprint finisher who launches extremely late (100-300m) with explosive speed differential that requires minimal acceleration distance. Thrives in chaotic, disrupted sprints where positioning trumps organized leadouts.",
+  "team_tactics": "Relies on team positioning control through finale rather than traditional high-speed leadout train. Team focuses on keeping him in top-10 positions through final 3km, but execution consistency varies—positioning errors repeat across multiple races.",
+  "terrain_preference": "Flat, technical finales where late positioning and cornering awareness create advantages. Exposed and vulnerable on crosswind stages despite winning on coastal roads—struggles to stay with front groups when echelons form.",
+  "vulnerability": "Loses crucial positions in technical sections inside final 3km (turns, crashes, compression). Crosswind splits consistently expose him despite team strength. Physical durability questionable—used barriers for balance after consecutive race days.",
+  "key_patterns": [
+    "Extreme speed differential allows 100m maximum sprint duration versus competitors needing 250-300m (3 observations)",
+    "Positioning errors in final 3km repeatedly compromise sprint setup despite team control (3 instances)",
+    "Excels in disrupted/chaotic sprints without organized leadouts, showing tactical opportunism (2+ wins)",
+    "Crosswind vulnerability: caught behind splits or struggles physically despite team presence (2 observations)",
+    "Late-season form builder: performs better deeper into stage races after initial struggles"
+  ],
+  "form_trajectory": "positive: 2023 data shows season form building with winning acceleration distance increasing, though crosswind vulnerability and physical struggles after consecutive stages remain concerns from 2022 comeback",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "JACOBSEN Fabio",
+  "built_from": [
+    "2018 BinckBank Tour Stage 1",
+    "2018 BinckBank Tour Stage 1",
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 4",
+    "2021 Vuelta a Espana Stage 16",
+    "2021 Vuelta a Espana Stage 16",
+    "2021 Vuelta a Espana Stage 5",
+    "2022 Tour de France Stage 2",
+    "2023 Tirreno-Adriatico Stage 2",
+    "2023 Tirreno-Adriatico Stage 2",
+    "2023 Tirreno-Adriatico Stage 3"
+  ]
+}

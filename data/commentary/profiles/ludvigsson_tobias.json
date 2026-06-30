@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Participates in breakaway moves rather than late attacks, willing to attempt tactical bridges when breakaways fragment. Shows capacity for sustained solo efforts in time trials.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns. Operates with autonomy in breakaways and individual time trial stages.",
+  "terrain_preference": "Excels in time trials with strong power output. Capable on moderate climbs like Peñón de Ifach but profile suggests TT specialist rather than pure climber.",
+  "vulnerability": "Limited observations suggest vulnerability when breakaways collapse on punchy finishes, unable to capitalize on fragmentation into winning position.",
+  "key_patterns": [
+    "Strong time trial specialist: set benchmark time 23 seconds ahead of junior world champion.",
+    "Breakaway tactician: attempts bridges when groups fragment rather than sitting in."
+  ],
+  "form_trajectory": "positive: Set significant TT benchmark at Vuelta, showing strong form in speciality discipline during Grand Tour",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LUDVIGSSON Tobias",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 16",
+    "2017 Vuelta a Espana Stage 9"
+  ]
+}

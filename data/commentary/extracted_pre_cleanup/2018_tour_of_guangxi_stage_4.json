@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Guangxi Stage 4",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-19",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "MOSCON Gianni attacked from the bottom of the final climb to Mashan, winning solo with GROßSCHARTNER Felix taking second",
+    "winner": "MOSCON Gianni",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOSCON attacked immediately at climb base creating consternation behind, riders spread across road unable to organize chase effectively",
+      "KÜNG Stefan animated early breakaway despite time trial specialty, suggesting Sky wanted insurance rider forward if climb tactics failed",
+      "Trek-Segafredo and EF Education First controlled peloton tempo approaching climb, yet neither placed rider on podium revealing positioning superiority gaps"
+    ],
+    "rider_signals": {
+      "MOSCON Gianni": "positive: attacked from climb base and held solo advantage 17.5km, converting early aggression into race lead without teammates",
+      "GROßSCHARTNER Felix": "positive: outsprinted CHERNETSKI for second after failing to bridge to MOSCON, signaling superior finishing speed among chasers",
+      "URÁN Rigoberto": "negative: EF Education First controlled approach yet URÁN invisible on decisive climb, suggesting form deficit despite team investment",
+      "KÜNG Stefan": "positive: animated breakaway and won all three intermediate sprints despite time trial specialty, showing unexpected endurance willingness",
+      "JAKOBSEN Fabio": "neutral: held race lead into queen stage but predictably lost it, retained comfortable points lead cushion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:43:18.707008+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-04",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DUJARDIN Thomas attacked from early breakaway, dropped DELAPART on final ascent repetition of Kasen climb to win solo.",
+    "winner": "DUJARDIN Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Dimension Data paced peloton hard enough to eliminate pure sprinters but deliberately allowed breakaway margin for Anag positioning.",
+      "Second passage of same climb (Kasen repetition) proved decisive selection point after first passage only thinned group.",
+      "AG2R secured stage placing via two-pronged tactic: mountain jersey rider DELAPART plus late descender LATOUR avoiding chase duty."
+    ],
+    "rider_signals": {
+      "DUJARDIN Thomas": "positive: won stage that mirrors his Tour de Suisse Malbun victory profile, confirming specialized talent on repetitive circuit climbs",
+      "DELAPART Axel": "negative: cracked when DUJARDIN accelerated on second Kasen ascent despite surviving first passage, exposing repeatability weakness",
+      "LATOUR Pierre": "positive: bridged from peloton on final descent for 4th place while teammates were forward, showing AG2R depth",
+      "KITTEL Marcel": "negative: distanced before final circuits despite Dimension Data's controlled pace, suggesting poor form even for hilly opener standards"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:53:09.625981+00:00"
+}

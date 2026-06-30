@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-03",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked solo on final descent of Col de la Colombière, gained 5 minutes on GC contenders to take yellow jersey.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked on descent of Col de la Colombière, not summit, unprecedented tactical move that surprised entire peloton.",
+      "UAE team appeared weak early allowing POGACAR solo time-gaining strategy rather than traditional team defense of yellow jersey.",
+      "POELS attacked on uncategorized first climb to position BAHRAIN for KOM competition, revealing multi-stage KOM tactical planning.",
+      "URAN rode defensively doing minimal work while staying in top-10, conserving energy suggests podium ambitions over stage wins."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: gained 5 minutes on GC rivals in single stage through unprecedented descending attack, now holds overwhelming yellow jersey advantage",
+      "CARAPAZ Richard": "negative: started strong on Col de Rome then completely blew up, disappointing performance suggests form issues for GC contention",
+      "URAN Rigoberto": "positive: top-10 time trial plus minimal work output while maintaining GC position indicates smart energy conservation for later stages",
+      "POELS Wout": "positive: attacked from kilometer zero including uncategorized climbs showing BAHRAIN prioritizing KOM jersey through sustained aggressive positioning",
+      "VINGEGAARD Jonas": "negative: lost 5 minutes to POGACAR creating insurmountable white jersey lead, suggesting GC gap already decisive after first mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:54:05.736776+00:00"
+}

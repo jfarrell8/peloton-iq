@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-30",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "IGUITA Sergio won from late-caught breakaway via final 300m acceleration, DENNIS Rowan defended jersey through JUMBO-VISMA's stranglehold pacing",
+    "winner": "IGUITA Sergio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUMBO-VISMA stranglehold pacing neutralized 2-minute breakaway advantage on penultimate climb without DENNIS attacking himself",
+      "RUBIO Einer's headwind solo effort caught in final 300m; PLAPP Luke's Australian champion chase showed JAYCO's ITT-specialist Stage 5 setup",
+      "BORA-HANSGROHE's 1-2 finish via IGUITA/VLASOV suggests preplanned leadout rather than individual opportunism on steep hilltop finish"
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: defending champion dropped from lead group on penultimate climb, unexpected weakness for INEOS protected rider",
+      "RUBIO Einer": "positive: MOVISTAR domestique dropped teammate RODRIGUEZ Oscar with solo acceleration, signal of emerging leadership ambitions",
+      "PLAPP Luke": "positive: Australian champion bridged solo to flying RUBIO then contested finish, ITT specialist showing climbing transformation",
+      "VLASOV Alexander": "positive: BORA co-leader finished 2nd without visible work, conserving form for final ITT where 15-second gap is vulnerable",
+      "DENNIS Rowan": "neutral: controlled via team pacing without testing rivals, risky strategy with only 15-second margin before ITT specialty stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:26:52.629810+00:00"
+}

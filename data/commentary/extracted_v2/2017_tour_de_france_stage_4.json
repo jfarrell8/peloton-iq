@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-04",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMARE Arnaud won a chaotic sprint after CAVENDISH crashed into barriers following contact with SAGAN Peter at 200m to go.",
+    "winner": "DEMARE Arnaud",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FDJ rider returned to leadout so fast that when Demare dove sideways, following riders couldn't react, causing first crash 1.5k out.",
+      "Cavendish committed to barrier-side gap at 200m that closed, suggesting sprinters gamble on disappearing spaces when desperate for positioning.",
+      "Two crashes in final 1.5k meant fewer sprinters contested finish, suggesting early positioning crashes can accidentally benefit those who navigate cleanly."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "negative: attempted gap against barriers that wasn't there at 200m, showing desperation from poor positioning or declining sprint instincts",
+      "SAGAN Peter": "negative: body motion deemed extreme by commentators and team manager called it 'act of violence,' facing potential Tour disqualification",
+      "DEMARE Arnaud": "positive: won but team manager suggested he'd want another sprint win to prove fastest without chaos intervening",
+      "KITTEL Marcel": "neutral: started sprint from too far back and wouldn't have beaten Demare even without crashes",
+      "KRISTOFF Alexander": "positive: secured third despite chaos, riding well through dangerous finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:07:05.127133+00:00"
+}

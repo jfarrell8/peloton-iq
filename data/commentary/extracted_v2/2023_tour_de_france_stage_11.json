@@ -1,0 +1,24 @@
+{
+  "label": "2023 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-12",
+  "stage": 11,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won his 4th sprint of 2023 TDF after UNO-X led out KRISTOFF too early, Philipsen timing his final acceleration perfectly.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "UNO-X led out KRISTOFF spectacularly but hit the front too far from line, allowing PHILIPSEN to time superior.",
+      "JUMBO-VISMA positioning VAN AERT in sprints despite no wins suggests team desperation for stage victory is affecting tactics.",
+      "VINGEGAARD's GC team actively positioning him in flat sprint finales indicates crash avoidance prioritized over energy conservation."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Won all 4 pure sprint stages attempted, demonstrating perfect finish reading and no tactical errors.",
+      "KRISTOFF Alexander": "negative: UNO-X delivered him ideally positioned but lacked final acceleration to capitalize, suggesting declining top-end speed.",
+      "VAN AERT Wout": "negative: JUMBO deploying full leadout train for him despite 0 wins shows team growing desperate for results."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:55:57.689410+00:00"
+}

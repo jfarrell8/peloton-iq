@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-11",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI attacked on final categorized climb approximately 5km from finish, caught breakaway rider CATALDO, and won to take overall lead",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CATALDO collected points on all three categorized climbs despite breakaway being doomed, maximizing classification opportunities before inevitable catch",
+      "Team Sky positioned THOMAS at front with KWIATKOWSKI in the wheels, then reversed roles for KWIATKOWSKI's decisive attack",
+      "LUTSENKO's late bridge attempt from Astana failed because Sky controlled tempo perfectly preventing gap closure from scattered chasers"
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michał": "positive: attacked from protected position in wheels to win and take race lead, showing Sky tactical flexibility",
+      "CATALDO Dario": "positive: broke away three times despite mechanical issues, systematically collected mountain points on all three climbs",
+      "THOMAS Geraint": "neutral: worked at front to position KWIATKOWSKI, reversed team hierarchy suggests secondary GC role at this race",
+      "LUTSENKO Alexey": "negative: late bridge attempt failed, indicating lack of firepower or poor positioning when KWIATKOWSKI attacked",
+      "YATES Adam": "negative: commentary noted LUTSENKO bridging would be trouble for him, suggesting he was already distanced or isolated"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:32:43.796309+00:00"
+}

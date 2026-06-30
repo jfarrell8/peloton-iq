@@ -4,85 +4,103 @@
   "race_date": "2023-04-29",
   "stage": 4,
   "video": {
-    "video_id": "UFFdxDgCP2s",
-    "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
-    "published": "2023-07-04 17:18:04+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=UFFdxDgCP2s",
-    "match_score": 78.75,
+    "video_id": "wKqykUXtrPA",
+    "title": "Tour Down Under 2023 | Stage 4 Highlights",
+    "published": "2023-01-21 10:08:57+00:00",
+    "channel": "Velon",
+    "url": "https://youtube.com/watch?v=wKqykUXtrPA",
+    "match_score": 76.67,
     "all_candidates": [
       {
-        "video_id": "UFFdxDgCP2s",
-        "title": "A Relaxed Day With A Hectic Finale! | Tour De France 2023 Highlights - Stage 4",
-        "channel": "GCN Racing",
-        "published": "2023-07-04 17:18:04+00:00",
-        "match_score": 78.75
+        "video_id": "wKqykUXtrPA",
+        "title": "Tour Down Under 2023 | Stage 4 Highlights",
+        "published": "2023-01-21 10:08:57+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 76.67
       },
       {
-        "video_id": "UTsghf4DpQE",
-        "title": "GC Battle On The Final Climb! | Tour De Suisse 2023 Highlights Men - Stage 4",
-        "channel": "GCN Racing",
-        "published": "2023-06-14 15:32:40+00:00",
-        "match_score": 75.62
+        "video_id": "lKnPJ1hhtg4",
+        "title": "Sprint showdown | UAE Tour 2023 Stage 4 highlights",
+        "published": "2023-02-23 15:29:18+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "5EU_ZBivtPs",
+        "title": "Frenetic Sprint | UAE Tour 2023 Stage 4 on-bike highlights",
+        "published": "2023-02-23 18:46:51+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 72.5
       },
       {
         "video_id": "kixZ4M_UllY",
         "title": "Wind Causes Chaos On Penultimate Stage! | Tour Down Under 2023 Highlights - Men's Stage 4",
-        "channel": "GCN Racing",
         "published": "2023-01-21 06:13:26+00:00",
-        "match_score": 75.62
+        "channel": "GCN Racing",
+        "channel_id": "UCu7phdCr-raU7OaJfEpHZww",
+        "match_score": 70.62
       },
       {
-        "video_id": "CGTw-oKH7gc",
-        "title": "Sprint Showdown In Dubai! | UAE Tour 2023 Highlights - Stage 4",
+        "video_id": "UTsghf4DpQE",
+        "title": "GC Battle On The Final Climb! | Tour De Suisse 2023 Highlights Men - Stage 4",
+        "published": "2023-06-14 15:32:40+00:00",
         "channel": "GCN Racing",
-        "published": "2023-02-23 14:50:09+00:00",
-        "match_score": 70.94
+        "channel_id": "UCu7phdCr-raU7OaJfEpHZww",
+        "match_score": 70.62
       },
       {
-        "video_id": "CVmA1i6ZxSw",
-        "title": "A Close Battle From The Sprinters! | Renewi Tour 2023 Highlights - Stage 4",
-        "channel": "GCN Racing",
-        "published": "2023-08-26 16:40:28+00:00",
-        "match_score": 70.94
+        "video_id": "3t23R9pEaT0",
+        "title": "Tour of Britain 2023 Stage 4 race analysis with Dan Martin",
+        "published": "2023-09-14 11:59:14+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 70.0
       },
       {
-        "video_id": "YBxHc_bcFbQ",
-        "title": "Can Kopecky Keep Yellow? | Tour De France Femmes Avec Zwift 2023 Highlights - Stage 4",
-        "channel": "GCN Racing",
-        "published": "2023-07-26 17:25:44+00:00",
-        "match_score": 48.75
+        "video_id": "eRPQImZpgAU",
+        "title": "Victor Campenaerts Pays Emotional Tribute To Uncle After Stage 4 Victory | 2023 Tour De Luxembourg",
+        "published": "2023-09-23 17:30:34+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 69.06
       },
       {
-        "video_id": "bgzFgOzVBGg",
-        "title": "Battle For Sprint Supremacy! | UAE Tour Women 2023 Highlights - Stage 4",
-        "channel": "GCN Racing",
-        "published": "2023-02-12 14:24:41+00:00",
-        "match_score": 42.5
+        "video_id": "CcZBL0-7Gpo",
+        "title": "Victor Campenaerts Wins Stage 4 Time Trial Edging Out Brandon McNulty | 2023 Tour De Luxembourg",
+        "published": "2023-09-23 17:04:26+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 69.06
       },
       {
-        "video_id": "Y4UL2SMcRvE",
-        "title": "Tour de France Champions Already On The Attack! | Paris-Nice 2023 Highlights - Stage 1",
-        "channel": "GCN Racing",
-        "published": "2023-03-05 17:29:01+00:00",
-        "match_score": 40.0
+        "video_id": "Y88Zj97Eeok",
+        "title": "Stage 4 Highlights - #TourofOman 2023",
+        "published": "2023-02-14 19:40:24+00:00",
+        "channel": "Tour de France",
+        "channel_id": "UCSpycUnuU0IVF7gGIhGojhg",
+        "match_score": 67.9
       },
       {
-        "video_id": "nTGWORHukVo",
-        "title": "GC Battle Explodes In High Mountains Of The Queen Stage! | Tour De France 2023 Highlights - Stage 17",
-        "channel": "GCN Racing",
-        "published": "2023-07-19 17:18:34+00:00",
-        "match_score": 38.75
-      },
-      {
-        "video_id": "S_nZsYgeyFA",
-        "title": "Final Chance For Some In Last Mountain Test | Tour De France 2023 Highlights - Stage 20",
-        "channel": "GCN Racing",
-        "published": "2023-07-22 17:19:14+00:00",
-        "match_score": 38.75
+        "video_id": "NlQVDe4lbjc",
+        "title": "Photo Finish! 🤯 Molano Claims Thrilling Stage 4 Victory of 2023 Tour of UAE | Eurosport",
+        "published": "2023-02-23 16:59:53+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 67.5
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 131,
+    "raw_chars": 4581,
+    "clean_chars": 4570,
+    "duration_mins": 5.6,
+    "clean_text": "just take on and entered the zero kilometer 133.2 lie ahead of the Riders now that is Jonas Rich confirmation there number 165. got a few links lead looks like Oscar isabik the Dutchman is the man riding across to him Simon Clark is one writer who thinks that this might be the Breakaway the Peloton will let go that's a writer you don't want to leave out in front either Simon Clark stage winner last year of the Tour de France the Australian oh this is the perfect opportunity to go on the attack with these little risers Jonas Rich again so he's absolutely determined to get himself off the front Daryl MB yeah so former winner of the Santos tour down under twice in a row in fact the South African Daryl Impe he goes with roots a quick look across and a quick word yep let's do it where we finished and Richie Port became the king of rolonga and I saw the spectators earlier today they put the crown now on the road just after the Finishing Line and so they've uh they haven't forgotten the great days of Ritchie Port either he's waiting for the Peloton to arrive at the Finishing Line first time through here and look at this now a little bit of the FX Jersey of honoree is going for that one pointer and try and stay very much in the competition to make that Jersey himself on his birthday so it's a nice birthday present that for me kill on the way and Jayco or Lula going to the front through that chicane getting positioned as they come onto the main road which takes them back down towards the beach side down at all dinga and this is where the wind is coming for that look at that flag on the right they have a plan and they were about to try and execute hats off to them Robbie and well spotted yes the wind will rip the field apart they've worked it out last time here we come up to the zip tracks no spin that olympi gets the two seconds and Rich takes two seconds now the catch is going to be made it's an opportunity for impie and Roost to catch their breath a little bit and then drop themselves into this group and after being out here for a number of kilometers it feel nice to actually just sit in the wheels we'll fight for it though when they hit the cross wins again yes they're gonna be very surprised look at this small Bunch come around the corner now small to The Compassion of and this is in aldinga still a little bit of crosswind coming through it's a southeasterly today so there are there's really a section on this course where the wind is straight behind them so there's always that threat of the bunch splitting still pushing hard the Gap 107 back to the chase group they'll get a glimpse of them on this long section back towards Tada Chilla and they are lined out they're still pushing as hard as they can 20 seconds is the gap the race referees are now doing what they call a barrage they've told all the cars to stop so the Gap remains Fair nothing in between except the referee's car and there's the vehicles pulled off but the pace being set on the right of picture by the ineos grenadiers they are winding things up but no here comes the acceleration now he's there it's on the way he's right there he's gonna got it three points and Yates wants his lead out man back but as we go to the middle there oh I saw Jay Vine sorry it wasn't Jay Vine it was sack of Van Der horn who took it on the line oh Robbie it's a flyer today and there's nobody gonna catch this from box now it is now a done deal that second group will not return to the head of the race they got so close 20 seconds behind they just ran out of ammunition okay to use out of this one completely washed away Jay fine he's mixing it in the ogre Jersey this would be a great Victory if he scores this one and what a result for confidence is Brian Coco comes up Matthew's in the blue trying to break through in the middle here everybody diving up to the wheel of Brian Copart that is a tremendous win for Cocoa that'll be over in France enemy now he cannot believe that one yes he's got it Brian your first world tour win incredible yeah it's a long time I wait this win 10 years I never win in World War and here I'm very very prude and very happy of this of the swing betioli was who won the stage the other day another Frenchman there well yes another Frenchman in fourth place Corbin songs come back did I say it strong to get back in this way to the fifth place in the Sprint the vine has held his 15 second advantage over Bilbao but Yates has joined as well now two Riders at 15 seconds Sheffield stays there to 45. Schmidt stays there fifth and sixth is hater",
+    "preview_start": "just take on and entered the zero kilometer 133.2 lie ahead of the Riders now that is Jonas Rich confirmation there number 165. got a few links lead looks like Oscar isabik the Dutchman is the man riding across to him Simon Clark is one writer who thinks that this might be the Breakaway the Peloton will let go that's a writer you don't want to leave out in front either Simon Clark stage winner last year of the Tour de France the Australian oh this is the perfect opportunity to go on the attack w",
+    "preview_end": " win 10 years I never win in World War and here I'm very very prude and very happy of this of the swing betioli was who won the stage the other day another Frenchman there well yes another Frenchman in fourth place Corbin songs come back did I say it strong to get back in this way to the fifth place in the Sprint the vine has held his 15 second advantage over Bilbao but Yates has joined as well now two Riders at 15 seconds Sheffield stays there to 45. Schmidt stays there fifth and sixth is hater"
+  },
+  "status": "transcript_saved"
 }

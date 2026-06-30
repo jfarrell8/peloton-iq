@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Long-range attacks before final climbs, particularly on summit finishes. Shows willingness to go solo from distance rather than wait for steep gradients, as evidenced by 2019 Vuelta stage win attacking before final climb.",
+  "team_tactics": "Often granted tactical freedom when designated leaders struggle, suggesting fluid team hierarchy. Operates independently even as domestique, sometimes pursuing own interests over strict team discipline (Paris-Nice 2020).",
+  "terrain_preference": "Summit finishes and extended climbing stages where exceptional climbing engine can be deployed over distance. Less suited to punchy breakaway racing requiring repeated accelerations (dropped from Vuelta 2022 breakaway despite climbing pedigree).",
+  "vulnerability": "Struggles in high-intensity breakaway scenarios requiring repeated surges rather than sustained climbing tempo. Tactical awareness can lapse when balancing personal ambition against team duties.",
+  "key_patterns": [
+    "Long-range solo attacks before final climbs, sustaining power to summit (2019 Vuelta win)",
+    "Inverted team dynamics: attacks when leaders falter, granted freedom beyond typical domestique role",
+    "Strong diesel engine: competitive ITT performances unusual for pure climber (Paris-Nice 2020)",
+    "Dropped from quality breakaways before decisive climbs despite climbing specialization (Vuelta 2022)",
+    "Maintains podium/leading group fitness even in support roles (LBL 2022)"
+  ],
+  "form_trajectory": "neutral: 2023 Catalunya showed opportunistic attacking ability when given freedom, but 2022 Vuelta revealed limitations in breakaway racing. Continues finishing in quality groups but without consistent winning threat.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "HIGUITA Sergio",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 18",
+    "2019 Vuelta a Espana Stage 18",
+    "2020 Paris - Nice Stage 4",
+    "2020 Paris - Nice Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2022 Liege-Bastogne-Liege",
+    "2023 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

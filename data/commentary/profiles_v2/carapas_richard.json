@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches long-range solo attacks (20+ km) on mountain stages, typically from breakaways or on final climbs. Shows willingness to go early and alone rather than wait for final kilometers.",
+  "team_tactics": "Performs best when freed from domestique duties and given protected status. Previously constrained by team role at INEOS, requiring liberty to attack to maximize effectiveness.",
+  "terrain_preference": "Mountain stages with opportunities for long-distance efforts. Thrives when able to establish gaps on extended climbs rather than punchy finale sprints.",
+  "vulnerability": "Finale positioning and bonus seconds management - lost Grand Tour lead purely on bonus second deficit despite matching time. Weak in technical finales requiring precise placement.",
+  "key_patterns": [
+    "Executes long-distance solo attacks (20+ km) when given freedom, evidenced across both Grand Tours",
+    "Requires protected team leader status to perform optimally, not effective as domestique",
+    "Struggles with tactical positioning in sprint finales, losing crucial bonus seconds",
+    "Attacks from large breakaways on final climbs rather than GC group (32-rider break stage win)"
+  ],
+  "form_trajectory": "positive: evolved from constrained domestique role to stage winner when given leadership freedom in 2022 Vuelta",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "CARAPAS Richard",
+  "built_from": [
+    "2020 Tour de France Stage 17",
+    "2020 Tour de France Stage 17",
+    "2020 Vuelta a Espana Stage 10",
+    "2022 La Vuelta ciclista a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 12"
+  ]
+}

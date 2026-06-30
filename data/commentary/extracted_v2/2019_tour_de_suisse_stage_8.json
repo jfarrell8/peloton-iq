@@ -1,0 +1,18 @@
+{
+  "label": "2019 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-22",
+  "stage": 8,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "Insufficient tactical information: commentary fragment covers only positioning into climb base with no decisive moves or outcome.",
+    "winner": "Unknown",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Teams prioritized positioning into climb base at 5km mark, suggesting final climb attacks anticipated early."
+    ],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:03:15.712154+00:00"
+}

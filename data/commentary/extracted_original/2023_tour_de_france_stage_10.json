@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-11",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello won from a 14-rider breakaway after NAILENS Chris was caught with 3km to go despite a 33km solo effort.",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR and VINGEGAARD both infiltrated early breakaway within 15km, forcing INEOS to chase despite no GC threat established.",
+      "Israel Premier Tech placed two riders (SCHULTZ, NAILENS) in 14-man break, allowing NAILENS 33km solo attack while teammate sat on.",
+      "BAUDET Romain and GAUDU David were surprisingly distanced early despite being protected climbers, exposing FDJ/Groupama weakness in heat."
+    ],
+    "rider_signals": {
+      "BILBAO Pello": "positive: moved to top 5 GC while winning from break, demonstrating dual GC/opportunistic threat capacity",
+      "NAILENS Chris": "negative: caught with 3km remaining after 33km solo despite teammate support suggests misjudged power reserves",
+      "BAUDET Romain": "negative: dropped in first 15km on stage suited to his profile indicates poor heat management or form",
+      "GAUDU David": "negative: also distanced early with Baudet, confirming Groupama-FDJ struggling in extreme heat conditions",
+      "O'CONNOR Ben": "neutral: animated in break but couldn't win sprint, showing post-Giro fatigue or tactical positioning weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:19:33.537084+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-07",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PORTE Richie won the 23.5km time trial by 12 seconds over MARTIN Tony, taking 37 seconds from FROOME Chris and seizing race leadership ambitions.",
+    "winner": "PORTE Richie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PORTE Richie gained decisive advantage in second half of TT after being only slightly ahead at mid-race checkpoint against FROOME.",
+      "VALVERDE Alejandro lost only 1 second per kilometer to PORTE, revealing unusual TT strength for late-season stage races.",
+      "CONTADOR Alberto sustained only 24 seconds deficit to MARTIN Tony at mid-race but collapsed in second half, exposing form vulnerability.",
+      "BARDET Romain lost 2 minutes total, showing rare time trial weakness that rivals can exploit in future mountain stages."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "positive: Beat FROOME by 37 seconds and MARTIN by 12, demonstrating evolved TT capacity after focused winter training.",
+      "FROOME Chris": "negative: Lost 10 seconds by mid-race and continued bleeding time in second half, suggesting compromised form compared to romandy.",
+      "VALVERDE Alejandro": "positive: Third place finish with consistent pacing reveals he's carrying exceptional TT form into mountains despite racing continuously.",
+      "BARDET Romain": "negative: Lost over 30 seconds per checkpoint to PORTE, exposing exploitable weakness in discipline ahead of mountain showdowns.",
+      "CONTADOR Alberto": "negative: Competitive at mid-race but collapsed in second half, indicating insufficient sustained power for stage race ambitions.",
+      "MARTIN Tony": "neutral: Set benchmark 50kph average but beaten by PORTE's second-half surge, confirming pure TT specialists vulnerable to climbing engines."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:56:17.066653+00:00"
+}

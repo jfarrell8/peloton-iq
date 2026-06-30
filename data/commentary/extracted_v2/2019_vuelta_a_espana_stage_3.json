@@ -1,0 +1,25 @@
+{
+  "label": "2019 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-26",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won Stage 3 sprint after waiting patiently and opening afterburners with 100m remaining, beating rivals by two clear lengths.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-hansgrohe timed leadout perfectly at 2km, positioning earlier than rivals who moved too late in messy finale.",
+      "Sunweb's Theuns pulled off Bol's wheel prematurely, leaving sprinter Walscheid isolated and lost in finale despite teammate effort.",
+      "Bennett demonstrated tactical patience by staying fourth wheel until 100m, exploiting others' early acceleration at high speed."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Showed elite sprint timing discipline, waiting until 100m at 70kph to open sprint, winning by two lengths.",
+      "WALSCHEID Maximilian": "negative: Lost in finale despite Sunweb positioning effort, revealing team coordination weakness in chaotic sprint.",
+      "THEUNS Edward": "neutral: Took second but appeared disappointed, suggesting Trek-Segafredo expected more despite strong positioning.",
+      "ROCHE Nicolas": "positive: Race leader defending yellow at career tail-end shows durability despite being 39, unusual GC resilience."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:09:20.730128+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "label": "2020 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-28",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked final kilometer uphill, gapped CARAPAZ by 13 seconds with superior acceleration despite Movistar setting tempo all climb",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar tempo-setting for VALVERDE/CARAPAZ backfired—MAS dropped by own team's pace, exposing flawed strength-in-numbers strategy",
+      "ROGLIČ conserved energy mid-climb while KUSS set pace for Jumbo, then attacked final kilometer when CARAPAZ committed",
+      "VALVERDE early attack from 3rd GC forced Jumbo to respond, testing rivals before decisive final kilometer move",
+      "CARAPAZ faded final 200m despite holding ROGLIČ's wheel initially—acceleration gradient separator, not sustained power"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: 13-second gap final kilometer shows devastating uphill acceleration when already at threshold on steep gradients",
+      "CARAPAZ Richard": "negative: dropped by ROGLIČ final 200m despite leading into finale, acceleration deficit exposed on steep finish",
+      "MAS Enric": "negative: dropped by own Movistar's tempo despite being protected rider, concerning weakness relative to team strategy",
+      "KUSS Sepp": "positive: paced ROGLIČ through climb before final kilometer, critical Jumbo domestique strength at altitude",
+      "MARTIN Dan": "positive: 6 seconds off ROGLIČ pace for third, surprisingly strong on steep gradients against pure climbers",
+      "VLASOV Aleksandr": "positive: second place initially before fading final meters, strong positioning throughout climb",
+      "CARTHY Hugh": "neutral: 33 seconds back, solid ride but gap suggests may drop from top-3 GC",
+      "VALVERDE Alejandro": "neutral: early attack from 9th GC, aggressive tactics for Movistar but ultimately unsuccessful",
+      "GESINK Robert": "neutral: pulled for Jumbo to control VALVERDE, critical tempo management role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:45:44.588580+00:00"
+}

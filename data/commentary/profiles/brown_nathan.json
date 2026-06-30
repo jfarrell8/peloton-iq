@@ -1,19 +1,24 @@
 {
-  "attacking_style": "Early opportunist seeking KOM points and breakaway opportunities rather than late-stage attacks. Shows willingness to be aggressive in opening stages of Grand Tours to contest classification points.",
-  "team_tactics": "Appears given freedom to pursue breakaway opportunities and minor classifications in Grand Tours as a support rider without major GC protection requirements.",
-  "terrain_preference": "Selective mountain stages where he can survive in reduced GC groups. Capable on categorized climbs sufficient to contest KOM points in breakaways.",
-  "vulnerability": "Limited data but profile suggests domestique role rather than ability to challenge for stage wins or major GC positions in three-week races.",
+  "attacking_style": "Opportunistic breakaway rider who attacks early on sprint stages or minor climbs to harvest secondary classification points (KOM) or media exposure rather than stage wins. Targets low-risk, high-visibility moves when stronger teams control the race.",
+  "team_tactics": "Team shows limited commitment to defending breakaway positions, prioritizing jersey visibility and media time over sustained efforts. Cannondale allows individual opportunism but won't sacrifice sprint support or domestique strength to protect early breaks.",
+  "terrain_preference": "Minor categorized climbs on otherwise flat stages where sprinter teams will control the finale. Exposed on legitimate climbing stages where pure climbers compete, though showed unexpected resilience in chase groups at Tour de France.",
+  "vulnerability": "Lacks team support to convert breakaway positions into results. Abandons efforts when break is clearly doomed rather than persisting. Cannot compete for KOM points on high-mountain stages where specialists focus.",
   "key_patterns": [
-    "First-year Grand Tour rider showing early aggression for breakaways and KOM points (2 observations)",
-    "Capable of finishing with GC group on selective mountain stages, limiting losses (2 observations)",
-    "Targets opportunities suited to support riders rather than protected status (2 observations)"
+    "Targets KOM points on minor climbs when sprinter teams control pace, observed 2017 Tour",
+    "Pursues virtual race leader positions from distant GC to gain early jerseys, seen Dauphine",
+    "Abandons breakaway efforts once futility clear, efficient energy management for stage races",
+    "Team prioritizes media exposure over committing resources to defend breakaway positions"
   ],
-  "form_trajectory": "positive: showed promising first Tour de France with both breakaway aggression and ability to survive selective mountain stages",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2018 showed continuation of efficient breakaway tactics but no evolution toward winning from breaks or improving team support",
+  "races_analysed": 4,
+  "confidence": "medium",
   "rider_name": "BROWN Nathan",
   "built_from": [
+    "2017 Criterium du Dauphine Stage 2",
+    "2017 Criterium du Dauphine Stage 2",
     "2017 Tour de France Stage 3",
-    "2017 Tour de France Stage 8"
+    "2017 Tour de France Stage 3",
+    "2017 Tour de France Stage 8",
+    "2018 Tour de Suisse Stage 8"
   ]
 }

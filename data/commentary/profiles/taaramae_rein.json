@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who wins from reduced groups on steep summit finishes (18%+ gradients). Excels when strong break gets freedom from GC teams, typically finishing climbs rather than initiating long-range solo moves.",
+  "team_tactics": "Limited domestique support evident - crashes exposed inadequate team protection multiple times. Functions as sacrificial domestique for teammates (HIRT work at UAE Tour) rather than receiving lead-out or positioning support.",
+  "terrain_preference": "Thrives on exceptionally steep gradients (18%+) in summit finishes where pure climbing power dominates. Best suited to reduced breakaway groups (8 riders) on single defining climb. Exposed on technical descents and nervous flat finales.",
+  "vulnerability": "Significant bike handling issues in bunch scenarios - crashed on 4 separate documented occasions including consecutive days in leader's jersey. Vulnerable in nervous finales and fast straight roads despite correct positioning attempts.",
+  "key_patterns": [
+    "Breakaway specialist: won stage and GC lead from 8-rider break, documented across multiple races",
+    "Crashes frequently (4 instances): consecutive days in red jersey, inadequate positioning in finales, handling deficit",
+    "Exceptional steep gradient power: dominated climbers on 18% pitches at age 34, Picon Blanco winner",
+    "Veteran domestique role: willingly sacrifices personal GC for team tempo work (UAE Tour evidence)",
+    "Late-climb resilience: picked back up on final climbs after difficulties, third-place finishes"
+  ],
+  "form_trajectory": "negative: Despite 2022 climbing resilience (third place finish), repeated crashes and shift to pure domestique role suggest declining status from 2021 stage winner/GC contender to support rider",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "TAARAMAE Rein",
+  "built_from": [
+    "2021 Giro d'Italia Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 5",
+    "2021 Vuelta a Espana Stage 3",
+    "2021 Vuelta a Espana Stage 3",
+    "2021 Vuelta a Espana Stage 4",
+    "2021 Vuelta a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2022 UAE Tour Stage 4"
+  ]
+}

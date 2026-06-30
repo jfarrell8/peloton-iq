@@ -1,0 +1,24 @@
+{
+  "label": "2018 Omloop Het Nieuwsblad",
+  "race_name": "Omloop Het Nieuwsblad",
+  "race_date": "2018-02-24",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VALGREN Michael attacked solo with 48km to go, sustained the gap through cobbles/climbs to win by significant margin over VAN AVERMAET.",
+    "winner": "VALGREN Michael",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "VALGREN sustained 48km solo breakaway, suggesting Omloop course lacks firepower concentration zones to force recapture of strong soloists.",
+      "TRENTIN attempted bridge to VALGREN but failed, indicating even experienced classics riders misjudged effort required for 40km+ chase.",
+      "Astana rode tactically despite VALGREN solo, implying team protected leader rather than committing to chase with gap controllable."
+    ],
+    "rider_signals": {
+      "VALGREN Michael": "positive: Won from 48km solo attack, rare endurance/power combination suggesting classics breakthrough capacity beyond one-day result",
+      "TRENTIN Matteo": "negative: Failed bridge attempt revealed inability to sustain classics-winning power over extended distance despite team pedigree",
+      "VAN AVERMAET Greg": "negative: BMC Olympic champion finished second despite pre-race favoritism, suggesting team tactics or form deficit allowed excessive gap development"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:24:32.940564+00:00"
+}

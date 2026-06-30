@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-18",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won Stage 16 after Sunweb pre-split peloton on opening climb then Sky decimated field in crosswinds at km ~160 (20km to go)",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Sunweb publicly telegraphed dual-phase plan (early climb splits, late crosswind positioning) yet still executed flawlessly against informed peloton.",
+      "Sky triggered decisive crosswind echelon at km ~160 (20km to go) on righthand wind section, more damaging than mountain attacks.",
+      "Quick-Step spread thin protecting Kittel's green jersey cost Martin team support; domestiques off-road chasing shows resource allocation failure.",
+      "Aru/Uran showed superior crosswind positioning awareness compared to Martin, following Sky rotations rather than own teammates before km 180 split."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: executed work on opening climb, intermediate sprint, and crosswind chase yet still won finale sprint—exceptional diesel engine capacity",
+      "KITTEL Marcel": "negative: lost 12 minutes and conceded 20 intermediate sprint points to Matthews; Quick-Step's green jersey defense collapsing under sunweb pressure",
+      "MARTIN Dan": "negative: caught out of position before km 180 crosswind split despite universal knowledge of danger zone; lost 50 seconds without teammates",
+      "BUHAN Nils": "neutral: bridged 2-minute gap solo over 30km but gain negated by Sky's later crosswind attack; wasted diesel effort",
+      "ARU Fabio": "positive: positioned on Sky wheels before crosswind split rather than Astana teammates, reading race better than GC rivals",
+      "FROOME Christopher": "positive: Sky's crosswind execution more effective than mountain attacks for isolating rivals; team confidence visibly growing per Froome interview"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:05:15.612691+00:00"
+}

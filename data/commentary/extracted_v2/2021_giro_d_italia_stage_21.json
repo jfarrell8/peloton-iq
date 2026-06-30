@@ -1,0 +1,28 @@
+{
+  "label": "2021 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-30",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the final time trial despite a puncture at 1.5km to go, while BERNAL Egan secured overall victory with controlled ride.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA punctured at 1.5km remaining but bike change still secured victory, showing mechanical resilience matters even with cushion.",
+      "CAVAGNA crashed 500m from finish while in virtual second, indicating flat technical finale punishes late-stage aggression.",
+      "ALMEIDA moved up overall standings significantly on final TT, revealing climbers underestimate pure time trialists' GC threat.",
+      "CARUSO gained time on BERNAL despite losing GC, showing winner rode conservatively when gap was secure."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: fifth consecutive Giro ITT win maintained despite late puncture, unbeaten in grand tour time trials",
+      "BERNAL Egan": "neutral: rode defensively with 1:29 margin, prioritized securing GC over time trial performance",
+      "YATES Simon": "negative: lost time to second place CARUSO instead of gaining, revealing weakness in flat technical TTs",
+      "CAVAGNA Remi": "negative: crashed in final 500m while challenging for stage podium, technical handling failure in high-pressure moment",
+      "ALMEIDA Joao": "positive: wonderful ride moved him up in top ten, climber specialists underestimated his flat TT capability",
+      "CARUSO Gianni": "positive: first grand tour podium at age 34, gained time on winner in final stage showing strong finishing form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:39:18.367229+00:00"
+}

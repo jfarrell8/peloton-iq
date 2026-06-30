@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Does not initiate attacks from distance; capitalizes on late-race positioning chaos or disorganization in sprint finales, converting leadout duties into opportunistic finishes when openings emerge.",
+  "team_tactics": "Primary role as high-powered leadout domestique delivering extended, field-shattering pace in final kilometers. Team leverages his ability to fracture rival sprint trains through sustained tempo.",
+  "terrain_preference": "Flat sprint stages where sustained high pace serves dual purpose: leadout work and personal positioning. Classical one-day parcours suit podium capability when reduced bunch arrives.",
+  "vulnerability": "Lacks explosive acceleration for pure sprint duels when caught by faster finishers. Neutralized when forced to attack early against alert opposition on selective terrain.",
+  "key_patterns": [
+    "Extended high-pace leadouts fracture rival sprint train organization (Vuelta stages, 2 observations)",
+    "Converts from domestique to opportunistic winner when lead sprinter fails/disappears (Vuelta 2021)",
+    "Podium capable in classics but lacks winning punch when neutralized early (Bretagne 2020)",
+    "Finishing speed exceeds typical leadout domestique expectations, dual-threat capability evident"
+  ],
+  "form_trajectory": "positive: Successfully transitioned from neutralized classic attempt (2020) to dominant leadout performances with opportunistic Vuelta win (2021), showing tactical evolution",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SENECHAL Florian",
+  "built_from": [
+    "2020 Bretagne Classic - Ouest France",
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 8"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COBRELLI Sonny won the uphill sprint finish after ARANBURU Alex (Astana) jumped too early on the left side, while MCNULTY Brandon closed the gap to preserve POSTELBERGER's yellow jersey.",
+    "winner": "COBRELLI Sonny",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana's ARANBURU jumped left-side early in uphill sprint, creating gap before fading—premature acceleration pattern on slight gradients.",
+      "UAE's MCNULTY closed Astana's sprint gap in final meters, preserving teammate POSTELBERGER's GC by denying COBRELLI time bonus.",
+      "Bahrain failed sprint leadouts on Stages 1-2 despite fastest sprinter; finally delivered Stage 3 after breakaway absorption.",
+      "STUYVEN working for POSTELBERGER's GC defense rather than PEDERSEN sprint, revealing Trek's Stage 3 priority hierarchy."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "positive: finished third in uphill sprint beating pure sprinters KRISTOFF/JACOBSEN—significant power signal before next-day TT",
+      "COBRELLI Sonny": "positive: proved strongest sprinter across three stages but team execution failed twice before Stage 3 delivery",
+      "ARANBURU Alex": "negative: mistimed early sprint acceleration on left side, opened gap but couldn't sustain to finish",
+      "KRISTOFF Alexander": "negative: described as 'pedaling squares' and disorganized in final sprint positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:34:44.664250+00:00"
+}

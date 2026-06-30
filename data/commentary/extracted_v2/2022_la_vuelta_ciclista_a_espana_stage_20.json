@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 20",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-10",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KARAPAS Richard took his third stage win on the plateau finish, holding off ESMAN by 8 seconds while EVENEPOEL secured overall victory.",
+    "winner": "KARAPAS Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Red jersey group refused mutual cooperation on final climb, each rider neutralizing others' attacks despite narrow GC gaps.",
+      "STANARD Rob collected KOM points from breakaway despite not contesting stage, threatening KARAPAS's polka dot jersey on final day.",
+      "KARAPAS bridged from red jersey group to breakaway on penultimate climb, using stage hunting to defend KOM classification.",
+      "Red jersey group closed to 11 seconds behind KARAPAS before coordination collapsed, allowing him solo plateau run-in."
+    ],
+    "rider_signals": {
+      "KARAPAS Richard": "positive: Transitioned from team principal role to three stage wins and secured KOM, showing versatile race management.",
+      "ESMAN Jay": "positive: Eight-second deficit despite late solo chase suggests strong time trialing on plateau terrain.",
+      "MAS Enric": "neutral: Attacks consistently neutralized by EVENEPOEL group, unable to convert climbing strength into GC gains.",
+      "RODRIGUEZ Carlos": "negative: Spanish champion struggled badly on final mountain stage, dropped to seventh overall from podium contention.",
+      "EVENEPOEL Remco": "positive: Controlled all attacks while under pressure from Quick-Step team, maintaining 2:05 margin without offensive moves."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:14:33.367448+00:00"
+}

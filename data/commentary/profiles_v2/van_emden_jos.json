@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Not an attacker in traditional sense; excels in time trials where consistent power delivery and pacing precision are deployed from start to finish, regardless of distance.",
+  "team_tactics": "Functions as time trial specialist and domestique; sets early benchmarks in prologues and ITTs that provide psychological pressure on GC contenders and team morale boosts.",
+  "terrain_preference": "Flat to rolling time trial courses where aerodynamics and sustained power matter most. Exposed on mountain stages where climbing-specific power-to-weight becomes critical.",
+  "vulnerability": "Limited relevance outside time trial stages; lacks climbing ability to impact mountain stages where Grand Tours are typically decided.",
+  "key_patterns": [
+    "Consistently posts top provisional times in ITTs, often holding lead until WorldTour TT specialists finish.",
+    "Peaks specifically for time trial stages in stage races, showing preparation timing precision.",
+    "Delivers domestique-level ITT performances that exceed pure climbers, providing team tactical advantages.",
+    "Sets early benchmarks that eliminate GC contenders, creating race selection before favorites finish."
+  ],
+  "form_trajectory": "positive: Demonstrated progression from strong domestique ITT performances (2017 Tirreno) to Grand Tour stage victory (2017 Giro) to GC-impacting prologue performance (2018 Dauphine), showing sustained ITT excellence.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN EMDEN Jos",
+  "built_from": [
+    "2017 Giro d'Italia Stage 21",
+    "2017 Giro d'Italia Stage 21",
+    "2017 Tirreno-Adriatico Stage 7",
+    "2018 Criterium du Dauphine"
+  ]
+}

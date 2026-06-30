@@ -1,0 +1,29 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-09",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BOASSON HAGEN won from reduced sprint after LAMBRECHT's late breakaway acceleration with 7.5km left forced selection, eliminating pure sprinters.",
+    "winner": "BOASSON HAGEN Edvald",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quick-Step sent ALAPHILIPPE attacking at 20km on climb instead of protecting HODGE for sprint, revealing hierarchy shift.",
+      "LAMBRECHT's climbing accelerations in final 10km eliminated pure sprinters while preserving himself for breakaway, sophisticated neo-pro tactics.",
+      "Dimension Data positioned BOASSON HAGEN perfectly for reduced sprint, exploiting gap between climbers' breakaway and traditional sprint trains dissolving.",
+      "Bahrain-Merida paced hard in closing kilometers but lacked finisher in reduced group, wasted energy for rivals' benefit."
+    ],
+    "rider_signals": {
+      "LAMBRECHT Bjorg": "positive: At 21 years old initiated race-splitting accelerations with 20km left and stayed in winning break, climbs better than typical classics riders.",
+      "ALAPHILIPPE Julian": "positive: Quick-Step prioritized his GC moves over Hodge sprint setup at 20km, confirms protected status for stage race leadership.",
+      "HODGE Alvaro": "negative: Team abandoned sprint preparation for him when race split, indicates secondary status within Quick-Step hierarchy.",
+      "SAGAN Peter": "negative: Dropped when race accelerated on climb at 20km, signal of declining form or poor early-season condition.",
+      "FROOME Chris": "neutral: Present in reduced group but not animating, appears in conservative recon mode for Ineos leadership decisions.",
+      "GILBERT Philippe": "negative: Initiated final sprint but faded badly, short punchy finish should suit him but lacks explosive power.",
+      "BOASSON HAGEN Edvald": "positive: Won from reduced sprint after surviving climber's selection, retains explosive kick when fresher sprinters eliminated."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:45:29.101278+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2020 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-29",
+  "stage": 9,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint but was relegated for dangerous shouldering, handing victory to ACKERMANN Pascal.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck positioned Bennett perfectly via Morkov leadout but Bennett started sprint from too far back, approximately 200m out.",
+      "Bora maintained tempo control through final 500m, preventing teams from disrupting Ackermann's positioning despite not leading out.",
+      "UAE attempted right-side overtake for Phillips in final meters, exploiting gap left by Bora's narrow leadout train."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: won sprint from disadvantaged position 200m out but relegated for twice shouldering obstructing rider, suggesting desperation overcame discipline",
+      "ACKERMANN Pascal": "positive: first to launch sprint and held position despite Bennett's late surge, indicating superior positioning negated raw power deficit",
+      "MORKOV Michael": "positive: delivered textbook leadout for Bennett despite unfavorable starting position deeper in peloton with 500m remaining"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:32:46.431786+00:00"
+}

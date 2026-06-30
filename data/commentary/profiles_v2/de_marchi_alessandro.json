@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Prefers long-range breakaway moves rather than late explosive attacks, excelling on sustained steep gradients (11%+) where he can drop companions before easier terrain allows regrouping. Will attack before summit to maximize time gains on descents.",
+  "team_tactics": "Often isolated in breakaways without strong team support; relies on individual tactical intelligence rather than domestique-led setups. When paired with teammates (e.g., Rossetto), separation on climbs has undermined two-man tactics.",
+  "terrain_preference": "Strongest on sustained steep climbs (11%+ gradients) where power-to-weight ratio decisive. Vulnerable on cobbled/punchy finishes and moderate gradients where punchier riders can respond. Comfortable using descents to defend gaps.",
+  "vulnerability": "Struggles on cobbled/punchy finishes lacking explosiveness. Can be conservative in winning positions, playing tactical games rather than committing early. Less effective when gradients ease after initial steep attacks.",
+  "key_patterns": [
+    "Multiple breakaway successes through superior race-reading and positioning, not pure power (2018, 2021)",
+    "Strongest on steepest 11%+ gradients but gets caught when terrain moderates (2019, 2018)",
+    "Attacks before summit to exploit descending skills for time defense (2018 Vuelta win)",
+    "Can be overly tactical/conservative from winning positions rather than committing (2023, 2021)",
+    "Consistent late-race animation and breakaway participation; labeled 'never tiring' (2017, multiple appearances)"
+  ],
+  "form_trajectory": "neutral: 2023 showed tactical conservatism from strong position; 2021 breakthrough as maglia rosa at age 34 suggests maintained endurance but recent evidence of tactical overthinking rather than declining physical capacity",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "DE MARCHI Alessandro",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 21",
+    "2017 Vuelta a Espana Stage 7",
+    "2018 Vuelta a Espana Stage 11",
+    "2018 Vuelta a Espana Stage 11",
+    "2018 Vuelta a Espana Stage 5",
+    "2019 Criterium du Dauphine Stage 6",
+    "2021 Giro d'Italia Stage 4",
+    "2023 Giro d'Italia Stage 6"
+  ]
+}

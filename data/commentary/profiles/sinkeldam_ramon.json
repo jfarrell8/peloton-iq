@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not an attacker. Pure leadout specialist operating in final kilometer, typically launching final leadout man between 600m-400m to go.",
+  "team_tactics": "Functions as penultimate or final leadout man in structured sprint trains. Teams (FDJ, UAE) deploy him to control final kilometer positioning and deliver sprinter to optimal launch point.",
+  "terrain_preference": "Flat sprint stages exclusively. Exposed on any terrain requiring sustained power or climbing. Role disappears entirely in mountain stages.",
+  "vulnerability": "Timing errors lead to premature fading when deployed too early (600m+ to go). Crash risk high when fighting for position in leadout duties. Depth of team suffers significantly when unavailable.",
+  "key_patterns": [
+    "Dedicated leadout domestique role across multiple teams (FDJ, UAE) and years.",
+    "Operates in final 600m, fades badly when overcommitted earlier than optimal window.",
+    "Critical enough to team sprint infrastructure that crashes/losses expose shallow depth."
+  ],
+  "form_trajectory": "neutral: Still performing structured leadout duties in 2023 Giro, but role appears consistent rather than evolving across timeline",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SINKELDAM Ramon",
+  "built_from": [
+    "2019 BinckBank Tour Stage 5",
+    "2022 Giro d'Italia Stage 13",
+    "2023 Giro dItalia Stage 2"
+  ]
+}

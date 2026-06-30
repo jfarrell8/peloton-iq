@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Opportunistic late-race attacker who strikes inside the final kilometer from small breakaway groups (4-8 riders), or positions for reduced bunch sprints after climbs. Thrives in uncertain scenarios where pure sprinters are dropped.",
+  "team_tactics": "Benefits from full team commitment to control attacks and set up his finish. Astana demonstrated willingness to deploy entire squad for positioning. Effective use of teammates to neutralize late threats while he conserves energy.",
+  "terrain_preference": "Hilly sprint stages with late climbs that reduce the peloton but don't eliminate his speed. Excels in narrow, technical finishes where positioning matters more than raw power. Surprisingly competitive in time trials after stage race efforts.",
+  "vulnerability": "Pure flat sprints against top-tier specialists. Requires selective terrain or attrition to remove fastest finishers. Needs team support for optimal positioning—less effective in pure solo efforts without setup.",
+  "key_patterns": [
+    "Wins from front position in final kilometer, controlling rather than reacting (3 observations)",
+    "Exceptional recovery between efforts: multiple stage wins then competitive ITT performance days later",
+    "Thrives in reduced sprints after climbs eliminate pure sprinters (2+ observations)",
+    "Attacks from small breakaway groups (4-8 riders) in final kilometer rather than solo moves",
+    "Elite positioning recovery: won day after being caught 500m out, showing tactical adaptability"
+  ],
+  "form_trajectory": "positive: Multiple stage wins at 2021 Vuelta with progression from breakaway victories to reduced sprints, culminating in near-ITT win showing peak form maintenance",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "CORT NIELSEN Magnus",
+  "built_from": [
+    "2018 Tour de France Stage 15",
+    "2018 Tour de France Stage 15",
+    "2018 Tour of Oman Stage 4",
+    "2018 Tour of Oman Stage 4",
+    "2019 Paris-Nice Stage 4",
+    "2021 La Vuelta ciclista a Espana Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 21"
+  ]
+}

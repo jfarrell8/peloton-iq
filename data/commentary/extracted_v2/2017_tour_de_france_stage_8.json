@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-08",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CALMEJANE Lilian won from the breakaway after attacking solo on the final climb, holding off HESJEDAL despite severe cramping in final 4km.",
+    "winner": "CALMEJANE Lilian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROCHE Nicolas bridged from chase group to leaders then attacked, fragmenting break before CALMEJANE's winning move.",
+      "Team Sky placed both HENAO and KWIATKOWSKI in break despite needing to control GC threats, showing confused tactical priorities.",
+      "THOMAS Geraint delivered bottles while doing finale workload for Sky, revealing team's stretched resources on hard stages."
+    ],
+    "rider_signals": {
+      "CALMEJANE Lilian": "positive: overcame severe cramping at 4km to go without panicking, showing exceptional mental control under first Tour stage win pressure",
+      "ROCHE Nicolas": "positive: strong enough to bridge between groups and shatter the break's cohesion on final climb",
+      "ARU Fabio": "positive: finished with main GC group 50 seconds down, collecting KOM points on category 1 Planée",
+      "BROWN Nathan": "positive: unexpectedly finished with main GC group, suggesting climbing form better than anticipated",
+      "KWIATKOWSKI Michal": "negative: descended dangerously fast causing THOMAS and FROOME to crash off road, nearly destroying Sky's race",
+      "THOMAS Geraint": "positive: crashed off-road retrieving bottles but immediately resumed tempo work, exemplifying Sky's depth on difficult stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:08:01.700680+00:00"
+}

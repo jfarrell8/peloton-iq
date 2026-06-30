@@ -1,0 +1,29 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 6",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-25",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked from breakaway on final Cat-1 climb in torrential rain, held off EVENEPOEL by 15 seconds while ROGLIC lost 1:37",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL attacked without teammates after Quick-Step domestiques dropped, showing willingness to race exposed in foul weather.",
+      "ROGLIC group sat on his wheel unwilling to chase, revealing GC rivals prefer letting him close gaps alone.",
+      "YATES attempted to follow VINE's initial move but couldn't sustain, signaling form issues despite Trek defending leader.",
+      "PADUAN's 2-minute lead evaporated on descent between Cat-1 climbs due to excessive caution in wet conditions."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: bridged solo from peloton to breakaway on final Cat-1, immediately dropped PADUAN despite Ukrainian's earlier gap",
+      "EVENEPOEL Remco": "positive: took 21-second lead despite racing final climb without teammates after PHILIPPE and others dropped",
+      "ROGLIC Primoz": "negative: lost 1:37 despite entire GC group sitting on his wheel, suggesting either mechanical/tactical choice or genuine weakness",
+      "MAS Enric": "positive: matched EVENEPOEL's attack and finished only 1 second back, surprising podium placement indicates improving form",
+      "CARAPAZ Richard": "negative: lost 2:56 on single stage, catastrophic gap for GC ambitions this early in Grand Tour",
+      "YATES Simon": "negative: attempted to follow VINE but quickly abandoned effort, concerning given Trek-Segafredo's leader role",
+      "MOLLARD Rudy": "neutral: lost leader's jersey but Groupama-FDJ successfully defended it initially before weather/climbs intervened"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:15:31.404368+00:00"
+}

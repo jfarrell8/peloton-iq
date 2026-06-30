@@ -1,0 +1,35 @@
+{
+  "label": "2021 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-14",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ crashed twice in the opening 30km, lost over 2 minutes chasing solo, SCHACHMANN took GC by 52 seconds from VLASOV while CORT won the sprint finish.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ used BENNETT and KRAGH ANDERSEN as breakaway insurance before crashes, revealing team sacrificed stage ambitions for GC buffer.",
+      "SCHACHMANN's team buried themselves after 25km crashes, recognizing crosswind descent section would prevent ROGLIČ's teammates from pacing back effectively.",
+      "DECLERCQ appeared late in race attempting to pace ROGLIČ back, suggesting Jumbo-Visma called rival teams for help in desperation.",
+      "MÄDER's near-stage win on previous mountain stage showed Bahrain willing to exhaust young GC talent for stage hunting over placement."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "negative: two crashes within 30km on descent/crosswind sections exposed isolation vulnerability when teammates already spent from breakaway duties",
+      "SCHACHMANN Maximilian": "positive: team recognized tactical opportunity immediately after first ROGLIČ crash and committed fully to tempo rather than waiting",
+      "BENNETT Sam": "neutral: rode breakaway in green jersey to help CATTANEO and secure points, suggesting sprinters willingly sacrifice for team GC",
+      "CORT Magnus": "positive: fastest sprinter in reduced bunch finish, reliably converts reduced field opportunities into wins",
+      "VLASOV Aleksandr": "positive: finished 23 seconds behind SCHACHMANN for second overall, quietly consistent without single flashy performance",
+      "IZAGIRRE Ion": "positive: third overall shows Astana depth when protected throughout rather than working for single leader",
+      "MÄDER Gino": "neutral: caught by ROGLIČ at 25m on previous stage despite leading to line, lacks finishing punch against world-class riders",
+      "KRAGH ANDERSEN Søren": "negative: exhausted helping ROGLIČ after first crash, unavailable when second crash required immediate high-tempo chase",
+      "BENNETT George": "negative: used completely to pace ROGLIČ back after crashes, left nothing for teammate support in final kilometers",
+      "DECLERCQ Tim": "neutral: attempted late pacing for rival ROGLIČ suggesting cross-team desperation aid, nearly caused third crash on twisty roads",
+      "LAPORTE Christophe": "positive: second in stage sprint shows climbing resilience for non-pure climber in reduced field",
+      "LATOUR Pierre": "positive: third in stage sprint indicates improved positioning skills in chaotic finale",
+      "LUTSENKO Alexey": "negative: crashed separately from ROGLIČ incidents, suggesting descent/handling issues were course-wide not rider-specific"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:04:17.689321+00:00"
+}

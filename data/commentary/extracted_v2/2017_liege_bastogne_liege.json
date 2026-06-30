@@ -1,0 +1,25 @@
+{
+  "label": "2017 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2017-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro attacked under the red flame (1km to go), dropped MARTIN Dan on final gradient to Ans for fourth Liege victory",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Key selection happened on Côte de la Roche-aux-Faucons 35km out, not final climbs—Wellins bridged solo from favorites group.",
+      "Formolo attacked before red flame but was caught, revealing final kilometer timing beats early moves on Ans gradient.",
+      "Movistar chased breakaway alone from Côte de Boheau (sixth climb), showing other favorites' teams unwilling to share workload early."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: bridged solo from favorites group on Roche-aux-Faucons, showing unexpected diesel strength at 35km out",
+      "FORMOLO Davide": "negative: led under red flame but cracked on final Ans gradient, revealing insufficient explosive finishing power",
+      "ROSSETTO Stéphane": "neutral: Cofidis committed two riders to breakaway but caught on Roche-aux-Faucons, standard French team pattern",
+      "MARTIN Dan": "negative: stayed with favorites until final kilometer but dropped on Ans gradient, lacks Valverde's finishing punch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:59:38.861810+00:00"
+}

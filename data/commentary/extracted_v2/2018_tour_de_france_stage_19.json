@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-27",
+  "stage": 19,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked on the descent of the final climb to win the stage and jump Froome into third overall, while Thomas controlled all attacks.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LANDA Mikel attacked solo on Tourmalet over 100km from finish, gained 3min but isolated without Valverde/Quintana support.",
+      "ROGLIC benefited from DUMOULIN attacking ahead of him, using Dutch teammate attacks to mask his own move.",
+      "CROISWIJK counterattack on descent neutralized LANDA's long-range move more effectively than tempo riding.",
+      "LATOUR survived 50km solo time-trial effort after being dropped early, defending white jersey through time-trialing strength not climbing."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: responded to every attack with mouth closed, never showing strain despite multiple accelerations",
+      "LANDA Mikel": "neutral: showed willingness to attack 100km+ out but Movistar lacked numbers when Valverde/Quintana dropped",
+      "DUMOULIN Tom": "negative: attacked multiple times but inadvertently set up Roglic by opening gaps without distancing him",
+      "ROGLIC Primoz": "positive: combined daredevil descending with tactical patience sitting behind Dumoulin's attacks before launching own move",
+      "QUINTANA Nairo": "negative: dropped from 5th to outside top-10, previous day's crash injury clearly compromised climbing",
+      "BERNAL Egan": "positive: rode for Thomas domestique duty at 21 while challenging for white jersey, future Grand Tour winner",
+      "ALAPHILIPPE Julian": "positive: clinched KOM with 79pt margin, won stages in both Alps and Pyrenees showing versatile climbing/descending"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:30:28.137460+00:00"
+}

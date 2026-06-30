@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 14",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-20",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won from a 29-rider breakaway after bridging late from the chase group, timing his sprint perfectly on the uphill finish.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ARMIRAIL Bruno at 18.5min GC became viable Maglia Rosa threat only after 12min gap forced Ineos abandonment of chase.",
+      "DENZ bridged from third group to leaders inside final km, exploiting disorganization from multiple chase groups converging simultaneously.",
+      "BETTIOL Alberto launched sprint at 300m but uphill finish punished early acceleration, rewarding late-kickers from wheels."
+    ],
+    "rider_signals": {
+      "ARMIRAIL Bruno": "positive: First French Maglia Rosa since 1999, team willing to sacrifice stage win for 1:41 jersey advantage despite mountain stage next.",
+      "DENZ Nico": "positive: Second stage in three days shows repeatable sprint power even after bridging efforts late in stage.",
+      "GEE Derek": "negative: Third second-place finish this Giro reveals positioning skill but lacks top-end power to finish sprints.",
+      "ALDANI Umberto": "negative: Launched extremely long sprint on uphill finish but 2022 winner lacked legs to sustain effort home.",
+      "BAIS Davide": "positive: Recovered Maglia Azzurra after losing it previous day by attacking early on Passo Sempione in worsening weather."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:42:50.083713+00:00"
+}

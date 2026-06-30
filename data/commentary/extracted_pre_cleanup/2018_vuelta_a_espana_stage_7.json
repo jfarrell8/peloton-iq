@@ -1,0 +1,25 @@
+{
+  "label": "2018 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-31",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GALLOPIN Tony attacked from the breakaway with 2km remaining on rolling terrain and soloed to victory with 30 seconds margin.",
+    "winner": "GALLOPIN Tony",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GALLOPIN attacked with 2km on false-flat approach, gambling the chasing breakaway wouldn't organize effectively behind.",
+      "MOVISTAR pushed peloton aggressively into late narrow technical section to protect VALVERDE's points jersey despite no GC threat.",
+      "Narrow road pinch point caused major split, proving pre-stage positioning crucial even on 2.5% gradient profile."
+    ],
+    "rider_signals": {
+      "GALLOPIN Tony": "positive: maintained 30-second winning gap from 2km solo move, showing recovery ability after injury-plagued early season",
+      "KWIATKOWSKI Michał": "negative: crashed in narrow technical section despite holding green jersey, exposing vulnerability in positioning",
+      "VALVERDE Alejandro": "neutral: fought hard to stay front for points sprint despite already leading classification",
+      "BUCHMANN Emanuel": "neutral: positioned well at front when peloton split occurred in narrow section"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:49:51.544526+00:00"
+}

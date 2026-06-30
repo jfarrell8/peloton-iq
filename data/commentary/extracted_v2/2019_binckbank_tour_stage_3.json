@@ -1,0 +1,25 @@
+{
+  "label": "2019 BinckBank Tour Stage 3",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-14",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won in a photo finish against Groenewegen after mechanical issues in final corner forced him to rely on pure momentum rather than power delivery.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bennett positioned aggressively from 60km out despite energy cost, revealing pre-emptive safety-over-efficiency calculation in crash-heavy conditions.",
+      "Groenewegen attacked right side while Bennett went left in finale, both isolated without trains—showing leadout collapse pattern.",
+      "Phillips/Groenewegen/Rolands all present but uncoordinated in finale—Jumbo-Visma/Movistar unable to organize against solo Bennett approach."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: won three consecutive sprints (unprecedented in race history) while managing mechanical in final corner through bike-lengthening technique",
+      "GROENEWEGEN Dylan": "neutral: matched Bennett to line without leadout support but positioning choice (right side) may have cost millimeters",
+      "PHILIPSEN Jasper": "negative: led out finale with train presence but faded to third, unable to convert organizational advantage",
+      "ROLANDS Jürgen": "positive: fourth place plus bonus seconds collection shows consistent top-5 finishing without sprint train investment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:44:20.329209+00:00"
+}

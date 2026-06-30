@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Long-range solo attacks from breakaways, typically surviving deep into finals (3-10km to go) through superior climbing endurance rather than explosive acceleration.",
+  "team_tactics": "Operates from breakaway positions rather than team-led setups; appears to race opportunistically without heavy domestique support visible in observations.",
+  "terrain_preference": "Mountain stages where climbing depth and endurance matter more than explosive power; performs strongly on home roads suggesting familiarity aids positioning.",
+  "vulnerability": "Unable to sustain solo efforts to the line when facing organized GC team pressure in final kilometers; lacks finishing power after extended efforts.",
+  "key_patterns": [
+    "Attacks from breakaways rather than peloton, surviving solo deep into finales (2 instances)",
+    "Strong on home terrain/roads, suggesting local knowledge aids tactical execution (2 instances)",
+    "Excels at long solo survival efforts 50km+, not short punchy attacks (2 instances)",
+    "Caught in final 3-10km despite strong rides, suggesting finishing limitation (2 instances)"
+  ],
+  "form_trajectory": "positive: showed consistent climbing strength and breakaway survival ability across June-August 2019 window",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "FRANK Mathias",
+  "built_from": [
+    "2019 Tour de Pologne Stage 7",
+    "2019 Tour de Suisse Stage 7"
+  ]
+}

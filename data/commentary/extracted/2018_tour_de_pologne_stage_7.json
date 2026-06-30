@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-10",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "YATES Simon soloed to Stage 7 victory with a brave attack and descent, while KWIATKOWSKI Michał secured overall despite missing time bonuses.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KWIATKOWSKI Michał failed to contest sprint bonuses despite close GC margin, revealing yellow jersey passivity cost him cushion.",
+      "PINOT Thibaut attacked for bonus seconds at finish despite no GC threat, showing FDJ prioritizes stage placings.",
+      "PREIDLER Georg paced PINOT Thibaut in final, inadvertently helping KWIATKOWSKI Michał by raising pace against breakaway."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: executed successful solo attack with strong descent to compensate for lost GC opportunity",
+      "KWIATKOWSKI Michał": "negative: passive tactics allowed 24-second gap and missed bonuses despite needing only 29-second margin over YATES",
+      "PINOT Thibaut": "neutral: attacked for bonus seconds at finish showing form but no GC impact",
+      "TEUNS Dylan": "neutral: assisted KWIATKOWSKI indirectly by chasing in final meters",
+      "BENNETT George": "neutral: finished ahead of KWIATKOWSKI in sprint, showing positioning awareness for minor GC gains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:39:49.384262+00:00"
+}

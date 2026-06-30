@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches long-range aggressive attacks in mountain breakaways, capable of building and holding multi-minute gaps over strong climbers on category climbs.",
+  "team_tactics": "Insufficient data to establish team tactical patterns; appears to operate independently in breakaway scenarios.",
+  "terrain_preference": "Mountain stages with long climbs (e.g., Col d'Ambodon) where sustained climbing power allows him to build gaps; less effective on tactical finale climbs requiring composure.",
+  "vulnerability": "Tactical immaturity in high-pressure breakaway situations, particularly when managing cooperation with rivals on final climbs; emotional control issues under stress.",
+  "key_patterns": [
+    "Aggressive breakaway rider capable of holding significant time gaps over quality climbers (2-minute advantage).",
+    "Struggles with in-race decision-making and collaboration, allowing rivals to escape through poor tactical choices.",
+    "Demonstrated ability to win after extended drought, suggesting resilience but inconsistent form/opportunity."
+  ],
+  "form_trajectory": "negative: Despite UAE Tour win, Giro showed tactical regression with costly errors. Long win drought (4+ years) suggests inconsistency.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BRAMBILA Gianluca",
+  "built_from": [
+    "2021 Giro d'Italia Stage 12",
+    "2021 UAE Tour Stage 2"
+  ]
+}

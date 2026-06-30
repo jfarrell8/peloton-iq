@@ -1,0 +1,30 @@
+{
+  "label": "2019 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-25",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ attacked 3km from summit of Lago Serrù, dropped GC group by 1:47, taking maglia rosa from ROGLIČ.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CARAPAZ attacked precisely when LOPEZ forced pace exhaustion, exploiting CARUSO's tempo work that distanced LANDA from ROGLIČ group.",
+      "Mitchelton-Scott's twin breakaway strategy with HAMILTON and JUUL-JENSEN forced ROGLIČ into isolated defensive riding without team support early.",
+      "YATES bridged alone after LÓPEZ's accelerations shattered GC group, gaining 1:30 on ROGLIČ while they watched each other.",
+      "NIBALI attacked immediately on first climb approach with ROGLIČ marking, revealing shark won't allow gaps even when isolated tactically."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: timed summit attack when CARUSO finished pulling and favorites hesitated, showing superior tactical awareness and climbing form",
+      "ROGLIČ Primož": "negative: completely isolated by kilometer one despite holding rosa, forced to chase every move personally without team",
+      "YATES Simon": "positive: recovered from apparent difficulty to attack alone while favorites marked each other, gaining 1:30 on ROGLIČ group",
+      "LÓPEZ Miguel Ángel": "neutral: multiple accelerations shattered GC group but lacked finishing power when CARAPAZ countered his pace-making",
+      "LANDA Mikel": "negative: distanced from ROGLIČ group during early LÓPEZ accelerations, couldn't follow when Movistar teammate CARAPAZ attacked",
+      "NIBALI Vincenzo": "positive: attacked aggressively first kilometer despite isolated position, contested bonus seconds at finish showing competitive instinct",
+      "CARUSO Damiano": "positive: paced until 3km to summit setting up CARAPAZ's winning move, perfect super-domestique execution",
+      "AMADOR Andrey": "positive: second consecutive day in breakaway revealing aggressive Movistar strategy to pressure GC group early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:55:49.348488+00:00"
+}

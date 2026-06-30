@@ -1,0 +1,27 @@
+{
+  "label": "2019 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-17",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "IZAGIRRE Ion attacked from the breakaway with 15km remaining, soloing to victory while BERNAL Egan managed QUINTANA Nairo's 50km-out move to seal overall by 39 seconds.",
+    "winner": "IZAGIRRE Ion",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QUINTANA Nairo attacked 50km out with teammates SOLER Marc and ANACONA Winner ahead to relay, gaining virtual lead.",
+      "Team Sky allowed 40-rider break containing top GC threats JUNGELS Bob, YATES Simon, ZAKARIN Ilnur to establish before controlling.",
+      "IZAGIRRE Ion counterattacked VAN GARDEREN Tejay late from leading group, gaining 20 seconds immediately on descent into Nice.",
+      "Bonus seconds at intermediate sprint crucial: QUINTANA collected three seconds, briefly becoming virtual leader before Sky's chase."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: defended 45-second lead against sustained 50km QUINTANA attack using team tempo control rather than responding personally",
+      "QUINTANA Nairo": "positive: long-range 50km move with positioned teammates showed aggressive tactics but only clawed back 7 seconds on stage",
+      "IZAGIRRE Ion": "positive: timed counterattack from breakaway perfectly with 15km left, demonstrating superior late-race positioning over VAN GARDEREN",
+      "VAN GARDEREN Tejay": "negative: went clear alone from break but lacked punch to hold off IZAGIRRE's late counter",
+      "KWIATKOWSKI Michał": "neutral: rolled in hand-in-hand with BERNAL, finishing third overall while providing critical domestique support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:02:28.194628+00:00"
+}

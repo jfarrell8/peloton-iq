@@ -1,0 +1,31 @@
+{
+  "label": "2020 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-13",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter survived chaotic finale after 40km+ breakaway battle, holding off BILBAO Pello and MCNULTY Brandon over final climb.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KONOVALOVAS Ignatas dropped back from break to chase for DÉMARE, showing FDJ prioritized maglia ciclamino points defense.",
+      "SAGAN Peter won intermediate sprint from breakaway reducing DÉMARE's points jersey lead to 45, attacking classification not stage.",
+      "UAE Emirates delayed peloton chase until final climbs, allowing 13-second margin at summit 5km from finish.",
+      "FUGLSANG Jakob lost 1+ minute to GC group via late mechanical, exposing vulnerability of isolated leaders without teammates."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: First win in 15 months, answered every acceleration in break then held solo over final climb",
+      "ALMEIDA João": "positive: Took 4 bonus seconds in third, extended GC lead despite lumpy aggressive stage",
+      "MCNULTY Brandon": "positive: Took 6 bonus seconds in second, moved into GC top-10 showing climbing strength",
+      "FUGLSANG Jakob": "negative: Lost 1+ minute to GC contenders via late mechanical without team support, dropped to 57 seconds back",
+      "POZZOVIVO Domenico": "negative: Mechanical on final climb and struggled to follow, exposed fragility on chaotic finales",
+      "BILBAO Pello": "positive: Solo bridged from peloton to leaders on final climb, caught at 5km showing diesel climbing strength",
+      "SWIFT Ben": "neutral: Survived in late 5-rider break but unable to contest finale against SAGAN",
+      "CATALDO Dario": "neutral: Animated late break with attacks but lacked punch to drop SAGAN",
+      "GANNA Filippo": "neutral: Initially in break but dropped on climbs, confirming TT specialist limits on repeated gradients"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:23:34.520233+00:00"
+}

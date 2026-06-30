@@ -1,0 +1,38 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-10",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan won a two-up sprint after DUMOULIN Tom exploded the early break on the penultimate climb, forcing selection 17km out that isolated BARDET, PORTE, and MARTIN.",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DUMOULIN Tom tested Giro injury by forcing tempo on penultimate climb, deliberately splintering front group before eventual break formed.",
+      "PINOT Thibaut attacked 17km out creating nine-rider elite selection, revealing Tour de France recon aggression despite moderate form.",
+      "BARDET, PORTE, MARTIN caught in third group 24+ seconds back despite being in initial lead group, poor positioning cost podium.",
+      "FROOME Chris and POELS Wout both made selection, showing Sky protected two GC options within 17km despite fragmented race.",
+      "Final climb averaging 54km/h at end of 43km/h stage prevented regrouping, showing sustained tempo more decisive than single attack."
+    ],
+    "rider_signals": {
+      "TEUNS Dylan": "positive: out-sprinted MARTIN Guillaume from two-up break after being allowed into winning move 17km out",
+      "DUMOULIN Tom": "positive: tested injured knee by forcing early selection on penultimate climb, looked sprightly before sitting up after work done",
+      "PINOT Thibaut": "neutral: aggressive as promised with multiple attacks 17km out but lacked finish to contest win from selection he created",
+      "BARDET Romain": "negative: caught in third group 24 seconds down despite being in initial lead selection, critical positioning error before key move",
+      "PORTE Richie": "negative: missed decisive nine-rider selection and trapped in chase group, unusually poor positioning for GC contender",
+      "MARTIN Dan": "negative: second place but lost 13 seconds in two-up sprint, also caught out initially before bridging back",
+      "FROOME Chris": "positive: bridged aggressively to Pinot selection and made all key moves despite limited 2019 racing",
+      "WOODS Michael": "positive: launched huge attack in winning selection, animated the move even without taking stage",
+      "YATES Adam": "neutral: made selection but appeared to lack legs on back of Froome's wheel in final climbs",
+      "FUGLSANG Jakob": "positive: made decisive nine-rider selection 17km out, positioning superior to fellow GC riders",
+      "QUINTANA Nairo": "neutral: present in winning selection but invisible, contrasts with Pinot's animation of same group",
+      "BOASSON HAGEN Edvald": "neutral: pushing pace early in yellow jersey group but dropped before decisive 17km selection",
+      "ALAPHILIPPE Julian": "negative: in early break but struggled and dropped on first major climb 11km in, unusually weak",
+      "BARGUIL Warren": "negative: couldn't find form on terrain that should suit, samsic continues bad season",
+      "POELS Wout": "positive: made elite selection alongside Froome, demonstrating Sky's dual-leader depth in fragmented race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:52:39.285681+00:00"
+}

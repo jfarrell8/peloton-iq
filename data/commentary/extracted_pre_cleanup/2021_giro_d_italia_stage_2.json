@@ -1,0 +1,30 @@
+{
+  "label": "2021 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-09",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim launched an early sprint from distance to hold off NIZZOLO Giacomo and VIVIANI Elia in Novara bunch finish.",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo took intermediate sprint bonus seconds despite wearing rosa, aggressively defending GC position rather than conserving energy.",
+      "MERLIER Tim's long-range sprint strategy succeeded where typical late acceleration failed; sustained power trumped positioning in chaotic finale.",
+      "GAVIRIA Fernando went wrong side of leadout MOLANO forcing barrier-side finish; Deceuninck leadout discipline fractured under pressure.",
+      "GROENEWEGEN Dylan's fourth place shows race fitness lacking top-end speed after nine-month absence; avoid backing early-season returns."
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: first Grand Tour stage win executing risky long sprint strategy, shows confidence in sustained power over positioning",
+      "GANNA Filippo": "positive: aggressively took intermediate sprint bonus seconds in rosa, moved to fourth GC, treating flat stage tactically not ceremonially",
+      "NIZZOLO Giacomo": "neutral: perfect positioning on MERLIER wheel but lacked final acceleration to come around, execution without penetration",
+      "VIVIANI Elia": "negative: had SABATINI leadout but hesitated at critical moment when MERLIER launched, decisiveness issue not legs",
+      "GAVIRIA Fernando": "negative: navigational error bypassing leadout wrong side shows positional awareness problem, barriers saved crash not skill",
+      "GROENEWEGEN Dylan": "negative: fourth after nine-month layoff confirms top-end speed deficit persists, positioning good but acceleration blunted",
+      "EWAN Caleb": "negative: tenth with poor positioning throughout suggests team support collapsed or personal awareness failed in chaos",
+      "SAGAN Peter": "neutral: fifth after weaving through traffic demonstrates salvage skills but starting position inadequate for pure sprinter role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:53:04.762599+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2021 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-07",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the Paris-Nice Stage 1 sprint from deep in the bunch, emerging from a box-in behind LAPORTE and passing ACKERMANN after diving left then center.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT Philippe's pre-planned dual attack with teammate fractured peloton early, forcing defensive reactions before intermediate sprint point.",
+      "BENNETT Sam deliberately sprinted on brake hoods for power optimization, replicating Tour de France 2020 technique under pressure.",
+      "Late crash 1km out reshuffled sprint trains completely; LUTSENKO Alexey held up critically but avoided fall itself.",
+      "ACKERMANN Pascal's leadout man positioned him perfectly, but premature kick from 400m allowed fresher riders through on superior trajectories."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Won from terrible position boxed behind LAPORTE, showing superior acceleration reserve and tactical sprint routing instincts.",
+      "GILBERT Philippe": "positive: Initiated coordinated twin attack with teammate, demonstrating pre-race planning despite being oldest rider at 38 years old.",
+      "LAWLESS Chris": "negative: Completely cracked on minor climb during breakaway formation, surprising weakness for rider targeting sprint leadout duties.",
+      "ACKERMANN Pascal": "negative: Faded to sixth despite perfect leadout positioning, suggests either premature sprint initiation or insufficient final 200m top-end power.",
+      "PEDERSEN Mads": "negative: Trapped on barriers right side in final 300m, tactical positioning error cost potential stage win despite strong form.",
+      "LUTSENKO Alexey": "negative: Held up by late crash losing sprint contention, positioning too far back with 1km remaining for sprinter ambitions."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:02:23.129067+00:00"
+}

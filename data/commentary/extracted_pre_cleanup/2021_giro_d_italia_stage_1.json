@@ -1,0 +1,32 @@
+{
+  "label": "2021 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-08",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo demolished the 8.6km Turin ITT by 10 seconds over teammate AFFINI Edoardo, setting early GC gaps before sprint stages.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AFFINI Edoardo's first-year Jumbo-Visma performance suggests team switching unlocked ITT capacity not shown at Bike Exchange previously.",
+      "EVENEPOEL Remco placing sixth despite grand tour debut inexperience signals his prologue specialists credentials translate immediately to three-week racing.",
+      "ALMEIDA João finishing 7.3 seconds down indicates deliberate pacing strategy to avoid overcommitment before mountain stages unlock his climbing advantage.",
+      "FOSS Tobias taking hot seat before AFFINI displaced him reveals Jumbo-Visma depth allows tactical flexibility in GC protection roles."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: 10-second margin on 8.6km course demonstrates flat power output remains unmatched even against specialist ITT field",
+      "AFFINI Edoardo": "positive: second place in first Jumbo-Visma year after Bike Exchange stint suggests environmental training upgrade unlocked hidden watts",
+      "EVENEPOEL Remco": "positive: sixth place in grand tour debut without specific preparation shows natural chrono ability transfers under fatigue pressure",
+      "ALMEIDA João": "positive: 7.3-second deficit suggests controlled effort rather than maximum output to preserve climbing legs for mountain stages",
+      "VLASOV Aleksandr": "positive: high GC placement after 2020 abandonment indicates complete recovery and renewed ambition for classification battle",
+      "FOSS Tobias": "positive: held hot seat against multiple specialists before AFFINI displaced him showing Tour de l'Avenir form carries to senior racing",
+      "CAVAGNA Rémi": "negative: disappointing performance one week after Swiss ITT win suggests peak timing miscalculation or travel fatigue impact",
+      "BERNAL Egan": "neutral: satisfactory ride indicates conservative power management prioritizing three-week durability over stage-one time gains",
+      "YATES Simon": "neutral: similar time to BERNAL suggests both climbing specialists adopted identical conservative prologue pacing strategy",
+      "NIBALI Vincenzo": "positive: performed admirably for veteran status indicating maintained TT discipline despite age-related power decline elsewhere"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:50:08.151335+00:00"
+}

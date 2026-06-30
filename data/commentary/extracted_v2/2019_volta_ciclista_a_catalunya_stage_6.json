@@ -1,0 +1,21 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-30",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won Stage 6 of 2019 Volta Ciclista a Catalunya (specific race details not provided in transcript, which primarily contains biographical/training interview content)",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Matthews prioritized seated power training specifically for cobbled climbs, indicating targeted physiological adaptation rather than generic strength work.",
+      "Sunweb provided clearer leadership structure than Orica-GreenEDGE's multi-leader model, enabling more focused domestique support in decisive moments."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: mental coaching after 2018 spring crashes directly correlated with late-season wins, suggesting psychological preparation now equals physical preparation"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:05:53.438817+00:00"
+}

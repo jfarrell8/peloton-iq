@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-31",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MYLETSKYY Jakob won Stage 3 bunch sprint for his 12th career Tour de Pologne stage win, outsprinting PADALKO and MARINI.",
+    "winner": "MYLETSKYY Jakob",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MYLETSKYY dominated Tour de Pologne historically with 7 wins in single early edition, revealing consistent form at this race.",
+      "Teams Winner and United Healthcare attacked on flat terrain unsuccessfully, suggesting poor tactical judgment on inappropriate terrain.",
+      "Japanese rider worked specifically for sprint train control, indicating Asian continental teams developing leadout sophistication."
+    ],
+    "rider_signals": {
+      "MYLETSKYY Jakob": "positive: 12th career stage win at Tour de Pologne shows exceptional race-specific form and familiarity",
+      "MARINI Nicolas": "neutral: hunting contract pressure but relaxed demeanor, prioritizing stage win over GC jersey",
+      "PADALKO": "negative: visibly frustrated punching handlebars after third place, suggesting expectations exceeded capabilities",
+      "BEN HILL": "positive: consistently infiltrating all breakaways and collecting bonus sprints, maximizing GC opportunities on non-climbing terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:08:52.698870+00:00"
+}

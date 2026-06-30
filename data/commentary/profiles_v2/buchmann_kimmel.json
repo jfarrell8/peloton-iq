@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Combines early breakaway animation (2km from start) with late tactical finishing kick (300m to go). Capable of controlling race rhythm throughout distance stages before explosive finale.",
+  "team_tactics": "Insufficient data - only single race observation showing individual initiative in early break formation without clear team setup pattern.",
+  "terrain_preference": "Climbing terrain - demonstrated ability to clear multiple climbs first while competing for points, maintaining freshness over 170km mountainous stages.",
+  "vulnerability": "Unknown - single observation shows only strengths; no data on performance under team pressure, time trials, or when break is caught.",
+  "key_patterns": [
+    "Animates early breakaways from race start (2km), establishing position before selection occurs.",
+    "Targets intermediate climb points aggressively, clearing all categorized climbs first in stage.",
+    "Reserves finishing speed despite long-distance efforts, attacking inside final 300m from small groups."
+  ],
+  "form_trajectory": "unknown: Only single 2017 observation showing winning form, but no progression data available",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BUCHMANN Kimmel",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 3",
+    "2017 Criterium du Dauphine Stage 3"
+  ]
+}

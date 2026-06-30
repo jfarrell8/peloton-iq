@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who rarely attacks himself, instead relying on joining early moves and conserving maximum energy for a final sprint finish. Prefers to let others drive the breakaway throughout the stage.",
+  "team_tactics": "Uses domestiques for aggressive pre-softening attacks (evidenced by Conti's repeated moves at 2017 Giro). Costa himself remains passive until final kilometer, avoiding all pacemaking duties even when having clear superiority.",
+  "terrain_preference": "Medium mountain stages and breakaway-friendly parcours where tactical games and energy conservation matter more than pure climbing power. Vulnerable on stages requiring sustained efforts or pure sprint speed against specialized sprinters.",
+  "vulnerability": "Struggles to close gaps when needing to chase (Tour of Oman 2018). Lacks cooperation instincts that could strengthen breakaway positions. May struggle against pure sprinters with superior acceleration in larger bunch finishes.",
+  "key_patterns": [
+    "Refuses breakaway cooperation to conserve sprint advantage, observed across multiple Vuelta and Giro stages.",
+    "Extreme energy conservation: avoids all pacemaking until final kilometer despite having strongest sprint.",
+    "Relies on psychological warfare and tactical positioning rather than power superiority in sprint finishes.",
+    "Team employs repeated domestique attacks to soften groups before his sprint effort.",
+    "Thrives in small-group finales from breakaways rather than bunch sprints or solo efforts."
+  ],
+  "form_trajectory": "positive: 2023 Vuelta showed peak tactical maturity with two wins demonstrating calculated energy management and psychological control, significant evolution from earlier passive approach",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "COSTA Rui",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 17",
+    "2017 Tour of Oman Stage 2",
+    "2018 Tour of Oman Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 15",
+    "2023 Vuelta a Espana Stage 15",
+    "2023 Vuelta a Espana Stage 15",
+    "2023 Vuelta a Espana Stage 15"
+  ]
+}

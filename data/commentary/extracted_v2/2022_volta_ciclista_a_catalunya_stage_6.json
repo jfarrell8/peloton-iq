@@ -1,0 +1,28 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-26",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAZ won two-up sprint after 28-rider breakaway held, taking stage while IGITA won race lead by 16 seconds through cooperation pact.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "UAE and Ineos cooperated in 28-rider break, suggesting pre-race arrangement where Carapaz takes stage, Igita takes GC lead.",
+      "Jumbo-Visma abandoned chase after Soler consultation at team car, revealing unwillingness to work for rivals' interests mid-stage.",
+      "AYUSO isolated without race radio attacked unaware of small gap behind, showing communication failure cost bridging opportunity to leaders.",
+      "Only Jumbo briefly chased when UAE tired, but peloton refused cooperation allowing 28-rider group to hold minute with 80km remaining."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: Won sprint from wheel after full cooperation, showing superior tactics and finishing speed despite equal workload",
+      "IGITA Juan Pedro": "neutral: Lost stage sprint from front but achieved primary GC objective, started sprint too early at 100m out",
+      "AYUSO Juan": "negative: Bridged to leaders solo but lacked race radio awareness, caught by chase group due to poor communication",
+      "QUINTANA Naiqui": "negative: Lost race lead by failing to make 28-rider move, relegated to chasing group showing diminished climbing form",
+      "ALMEIDA João": "negative: Finished minute down after UAE worked for breakaway instead of defending his GC, poor team tactical coordination",
+      "SOLER Marc": "negative: Abandoned work after team car consultation despite being in position to chase, showed lack of commitment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:31:28.176166+00:00"
+}

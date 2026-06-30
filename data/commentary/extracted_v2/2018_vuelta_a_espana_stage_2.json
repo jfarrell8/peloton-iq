@@ -1,0 +1,25 @@
+{
+  "label": "2018 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-26",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KŘÍŽEK Michal took stage in late drag race against Valverde after Sky-led attrition shed early favorites on final climb",
+    "winner": "KŘÍŽEK Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky isolated contenders through sustained climbing pace despite no GC leader, revealing team can control without Froome.",
+      "Valverde initiated pace-making but positioned Křížek perfectly by leading out from 500m, tactical error against fresher legs.",
+      "Quick-step launched speculative attack at 1300m causing hesitation between Křížek/Valverde, nearly stealing stage through psychological gap."
+    ],
+    "rider_signals": {
+      "OLIVEIRA Nelson": "neutral: rode aggressively in polka dots but no stage threat, positioning for KOM points not GC",
+      "GONÇALVES José": "negative: cramped and abandoned chase early in moderate heat, conditioning concerns for mountain stages ahead",
+      "DEGENBACHER Thomas": "negative: dropped on final climb despite proven Grand Tour breakaway pedigree, form question for week 1",
+      "VALVERDE Alejandro": "negative: controlled final kilometer but lacked punch in last 200m against younger rider, possible early-race fatigue"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:41:49.502059+00:00"
+}

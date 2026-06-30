@@ -1,0 +1,27 @@
+{
+  "label": "2018 BinckBank Tour Stage 6",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-18",
+  "stage": 6,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MÜHLBERGER attacked with 1km to go from a four-rider group, held off SCHACHMANN and ŠTYBAR's late chase through the Tom Dumoulin bike park",
+    "winner": "MÜHLBERGER Gregor",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MÜHLBERGER's 1km solo attack succeeded because Quick-Step commitment split between SCHACHMANN chase duty and ŠTYBAR positioning.",
+      "VAN AVERMAET and MATTHEWS lost time in chasing group despite being marked favorites, revealing weakness after 120km attrition.",
+      "Final kilometer attack timing through technical bike park neutralized Quick-Step's numerical two-rider breakaway advantage."
+    ],
+    "rider_signals": {
+      "MÜHLBERGER Gregor": "positive: won first WorldTour stage from unexpected breakaway position after admitting it was hardest stage he'd raced",
+      "SCHACHMANN Maximilian": "neutral: Quick-Step's two riders in break couldn't convert numbers advantage when MÜHLBERGER attacked late",
+      "ŠTYBAR Zdeněk": "neutral: salvaged third but Quick-Step's dual presence failed to control final kilometer",
+      "WELLENS Tim": "neutral: took second from breakaway group but lacked acceleration to follow MÜHLBERGER's decisive move",
+      "VAN AVERMAET Greg": "negative: lost time from chasing group despite being expected to contend after 120km of attrition",
+      "MATTHEWS Michael": "negative: gapped with VAN AVERMAET from chase group, suggesting cumulative fatigue from week-long racing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:20:45.803719+00:00"
+}

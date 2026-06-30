@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Aggressive early race positioning, covering multiple breakaway attacks before launching decisive solo moves in final 1-2km when competition hesitates or fatigues.",
+  "team_tactics": "Limited data, but appears to operate with autonomy in breakaways, relying on personal effort rather than team setup.",
+  "terrain_preference": "Breakaway scenarios where exceptional recovery capacity allows bridging efforts without compromising finishing power. Exposed in pure climber battles or sprint finishes.",
+  "vulnerability": "Insufficient data to identify clear vulnerabilities, though high energy expenditure early suggests potential weakness if breakaway fails to establish.",
+  "key_patterns": [
+    "Exceptional within-race recovery: maintains freshness despite chasing multiple early attacks",
+    "Timing specialist: capitalizes on hesitation/fatigue in closing kilometers after aggressive positioning",
+    "Breakaway specialist: success comes from long-range efforts rather than bunch finishes"
+  ],
+  "form_trajectory": "unknown: single observation shows strong form with stage win, but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "IZAGIRRE Gorka",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 11",
+    "2019 Vuelta a Espana Stage 11"
+  ]
+}

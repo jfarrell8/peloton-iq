@@ -1,0 +1,31 @@
+{
+  "label": "2018 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-20",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked on the final climb, dropped FROOME Chris by 1:30+, extended GC lead with summit victory.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon accelerated when PINOT Thibaut showed puffing weakness, exploiting teammate-isolated rivals rather than waiting for steeper gradients.",
+      "DUMOULIN Tom chased for bonus seconds despite already limiting losses, revealing concern about YATES's margin even mid-stage.",
+      "CARAPAZ Richard attacked for MOVISTAR before POZZOVIVO Domenico cracked, sacrificing domestique to test SKY's isolation before final kilometers.",
+      "FROOME Chris finished 1:30+ down after previous day's Zoncolan effort, confirming multi-stage damage rather than single-day weakness."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: hammered rhythm on climb when PINOT showed weakness, demonstrating race-reading ability beyond raw power",
+      "FROOME Chris": "negative: 1:30+ loss suggests Zoncolan累积damage, uncharacteristic isolation indicates SKY tactical failure",
+      "DUMOULIN Tom": "neutral: chased bonus seconds despite limiting losses, showing GC anxiety but no ability to distance rivals",
+      "PINOT Thibaut": "negative: puffing visibly before summit triggered YATES acceleration, telegraphed weakness at critical moment",
+      "POZZOVIVO Domenico": "negative: cracked after CARAPAZ Richard's probing attack, unable to follow when pace lifted",
+      "CARAPAZ Richard": "positive: attacked for MOVISTAR before summit to test rivals, tactical sacrifice role suggests team confidence",
+      "LUTSENKO Alexey": "neutral: made early breakaway on rolling terrain, positioning for stage hunting despite 9s GC deficit",
+      "BALLERINI Davide": "neutral: contested intermediate sprint against MODOLO Sacha despite non-sprinter profile, seeking visibility",
+      "CICCONE Giulio": "neutral: led breakaway over climb then took intermediate points, maximizing KOM opportunities before selection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:24:25.885099+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; functions as a setup rider who drives pace on earlier climb sections before leaders launch final moves.",
+  "team_tactics": "Deployed as high-altitude domestique to soften competition through sustained climbing tempo before team leader attacks. Positioned on penultimate or early final climb sections.",
+  "terrain_preference": "Mountain stages with multiple categorized climbs where pacemaking value maximizes team strategy. Less effective on explosive steep finishes requiring personal results.",
+  "vulnerability": "Role limits personal ambitions; completely dependent on team leadership structure. No evidence of capability when protection is withdrawn or personal opportunity emerges.",
+  "key_patterns": [
+    "Consistently used for pre-finale pacemaking on climbs, setting up CONTADOR attacks (2 instances)",
+    "Commits domestique effort before final kilometer, exhausting himself for leader benefit (2 observations)",
+    "Functions within aggressive team strategies at Trek/Tinkoff, enabling late-race attacks (2 races)"
+  ],
+  "form_trajectory": "neutral: Shows reliable domestique form across 6-month span but no progression toward protected status",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PANTANO Jarlinson",
+  "built_from": [
+    "2017 Volta Ciclista a Catalunya Stage 3",
+    "2017 Vuelta a Espana Stage 6"
+  ]
+}

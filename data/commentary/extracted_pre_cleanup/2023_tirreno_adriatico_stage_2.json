@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-07",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won from long range after GAVIRIA Fernando went too early from 250m, Phillips closing but falling short by three bike lengths.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAVIRIA Fernando's three-bike-length lead from 250m evaporated when JAKOBSEN Fabio found cleaner center-road line versus edges.",
+      "GIRMAY Biniam punctured 10km out yet salvaged fourth, suggesting Intermarché sprint train dysfunction rather than form deficit.",
+      "Jayco and Soudal-QuickStep shared pace-making burden before circuit, revealing neither team confident monopolizing finale control."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Opened season slowly but won with longest sprint of contenders, suggesting peak form delayed versus 2022 trajectory.",
+      "GAVIRIA Fernando": "negative: Led by three lengths at 250m but faded badly, indicating either positioning error or insufficient top-end speed.",
+      "GIRMAY Biniam": "positive: Fourth after 10km mechanical demonstrates exceptional chase capability and form despite zero leadout support.",
+      "PHILIPSEN Jasper": "neutral: Third despite chasing from Groenewegen's wheel suggests leadout malfunction but finishing speed intact.",
+      "ALAPHILIPPE Julian": "neutral: Working for Jakobsen reveals QuickStep prioritizing sprint stages over GC aggression even with former world champion."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:19:43.348006+00:00"
+}

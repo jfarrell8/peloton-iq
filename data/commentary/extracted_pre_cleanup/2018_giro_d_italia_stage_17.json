@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-23",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the Stage 17 sprint after Quick-Step controlled through rain, BENNETT Sam boxed in at final left turn with 750m remaining.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POELS Wout negotiated intermediate sprint bonus seconds with breakaway companions to maintain group cohesion before continuing cooperation.",
+      "Quick-Step positioned VIVIANI Elia with dual lead-out through wet final 2km while BENNETT Sam lost positioning at critical left-hand turn 750m out.",
+      "VAN POPPEL Boy launched premature sprint from distance enabling VIVIANI to time final acceleration with superior positioning against boxed BENNETT."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: Sealed points classification with fourth stage win showing superior positioning discipline through technical wet finale.",
+      "BENNETT Sam": "negative: Isolated without lead-out train and tactically boxed at crucial left turn despite maintaining front-of-bunch presence earlier.",
+      "SABATINI Fabio": "positive: Executed dual Quick-Step lead-out through rain-soaked finale demonstrating team's sprint train depth beyond primary lead-out man.",
+      "POELS Wout": "neutral: Collected intermediate sprint bonuses through breakaway negotiation though 10-minute GC deficit renders time gains symbolic.",
+      "VAN POPPEL Boy": "negative: Mistimed sprint launch from excessive distance allowing positioned sprinters to draft and overwhelm late."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:24:48.233050+00:00"
+}

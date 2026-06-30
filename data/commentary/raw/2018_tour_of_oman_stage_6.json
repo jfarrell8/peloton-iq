@@ -4,85 +4,21 @@
   "race_date": "2018-02-18",
   "stage": 6,
   "video": {
-    "video_id": "YlZpW7oedMY",
-    "title": "Tour of Guangxi 2018: Stage 6 - extended highlights",
-    "published": "2018-10-22 03:49:49+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=YlZpW7oedMY",
-    "match_score": 95.83,
-    "all_candidates": [
-      {
-        "video_id": "inkH0HjvwdQ",
-        "title": "Summary - Stage 6 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 09:58:24+00:00",
-        "match_score": 125.0
-      },
-      {
-        "video_id": "OAFd15fAYPo",
-        "title": "Last kilometer - Stage 6 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 10:23:28+00:00",
-        "match_score": 125.0
-      },
-      {
-        "video_id": "gJPBxSxHlT0",
-        "title": "Best landscapes - Stage 6 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 09:53:20+00:00",
-        "match_score": 125.0
-      },
-      {
-        "video_id": "YlZpW7oedMY",
-        "title": "Tour of Guangxi 2018: Stage 6 - extended highlights",
-        "channel": "Velon",
-        "published": "2018-10-22 03:49:49+00:00",
-        "match_score": 95.83
-      },
-      {
-        "video_id": "XrPJgbSrUlc",
-        "title": "Best landscapes - Stage 5 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 08:18:18+00:00",
-        "match_score": 85.0
-      },
-      {
-        "video_id": "hsf6k_QdqEE",
-        "title": "Summary - Stage 5 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 08:18:34+00:00",
-        "match_score": 85.0
-      },
-      {
-        "video_id": "rGZWFtsrK-U",
-        "title": "Best of - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 12:49:05+00:00",
-        "match_score": 85.0
-      },
-      {
-        "video_id": "3e6e_CkjHBk",
-        "title": "Last kilometer - Stage 5 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 09:48:27+00:00",
-        "match_score": 85.0
-      },
-      {
-        "video_id": "tr4r3cNiAE8",
-        "title": "Last kilometer - Stage 4 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 08:05:23+00:00",
-        "match_score": 85.0
-      },
-      {
-        "video_id": "OcEcUpu2coI",
-        "title": "Summary - Stage 4 - Tour of Oman 2018",
-        "channel": "Tour de France",
-        "published": "2018-02-19 08:05:23+00:00",
-        "match_score": 85.0
-      }
-    ]
+    "video_id": "inkH0HjvwdQ",
+    "title": "Summary - Stage 6 - Tour of Oman 2018",
+    "url": "https://youtube.com/watch?v=inkH0HjvwdQ",
+    "channel": "playlist_import",
+    "published": "2018-02-19T09:58:31Z",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 47,
+    "raw_chars": 1603,
+    "clean_chars": 1587,
+    "duration_mins": 2.4,
+    "clean_text": "the final day of the Tour of Oman stage number six from al Moo's Muscat to mattre corniche a race of 135 in our half kilometers the peloton roll out for the final day and immediate attacks by five riders who went clear led by Remy Cavani of the quickstep floors team ferrocene also in their sport Flandre maurice of warranty group nick type of rune pot Ferrari of cassia RAL the fans cheered the riders on first it was ferrocene who dropped back as the riders raced towards the laps of the magical niche who was REME qivana who went clear he was joined by lick tart could they hold off the might of the peloton on each side of the corniche the peloton able to see the breakaway riders on the climb it was Cavani I went clear treks a gofredo trying to set things up for Giacomo nerd Zolo could they bring the lone breakaway back one lap to go 32 seconds still the advantage for the lone leader he gave absolutely everything taking every possible risk to try and stay away it looked like it might be possible but the peloton closed in on the final climb Nathan house and his Kurdish our person team tried to explode the race on the run into the finish pass desperately tried to get everyone to work but it all came back together and it was all about the man who has made this road completely his own Alexander Christoph bursting out of the pack racing to the finish challenged by card but a Norwegian took the win he has been looking for all week celebration for Alexei lysenko of the Astana team he takes the 2018 race ahead of Lopez and is aguirre in third place his advantage 11 seconds",
+    "preview_start": "the final day of the Tour of Oman stage number six from al Moo's Muscat to mattre corniche a race of 135 in our half kilometers the peloton roll out for the final day and immediate attacks by five riders who went clear led by Remy Cavani of the quickstep floors team ferrocene also in their sport Flandre maurice of warranty group nick type of rune pot Ferrari of cassia RAL the fans cheered the riders on first it was ferrocene who dropped back as the riders raced towards the laps of the magical ni",
+    "preview_end": "rson team tried to explode the race on the run into the finish pass desperately tried to get everyone to work but it all came back together and it was all about the man who has made this road completely his own Alexander Christoph bursting out of the pack racing to the finish challenged by card but a Norwegian took the win he has been looking for all week celebration for Alexei lysenko of the Astana team he takes the 2018 race ahead of Lopez and is aguirre in third place his advantage 11 seconds"
+  },
+  "status": "transcript_saved"
 }

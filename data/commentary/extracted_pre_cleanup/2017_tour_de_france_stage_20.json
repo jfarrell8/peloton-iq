@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2017-01-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BODNAR Maciej won the Stage 20 time trial by 1 second over KWIATKOWSKI Michał, while FROOME Chris extended his GC lead from 23 to 54 seconds to virtually clinch the Tour.",
+    "winner": "BODNAR Maciej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET Romain took excessive cornering risks and overcooked the flat sections before the climb, suffering badly uphill when it mattered.",
+      "FROOME Chris rode tactically conservative on the climb after dominating early splits, preserving energy rather than maximizing time gains once advantage was clear.",
+      "LANDA Mikel finished 15th in TT despite GC support role, positioning just 1 second behind BARDET for podium without team clearance.",
+      "MATTHEWS Michael and team SUNWEB targeted polka dot sprint points in mountain stages to weaken DE GENDT Thomas's jersey defense."
+    ],
+    "rider_signals": {
+      "BODNAR Maciej": "positive: First Tour stage win at 32 suggests late-career TT specialist can peak for single-day targets",
+      "FROOME Chris": "positive: Extended 23-second lead to 54 seconds in Stage 20 TT, demonstrating decisive time trial superiority when marginal GC defense required",
+      "BARDET Romain": "negative: Took dangerous corners and overextended on flats before climb, visibly suffering uphill and watching podium spot evaporate to LANDA",
+      "LANDA Mikel": "positive: 15th place TT finish while in GC support role reveals untapped podium capacity, now 1 second from BARDET's third place",
+      "URÁN Rigoberto": "neutral: Knew time trial limitations before stage but lacked sufficient GC buffer, finishing 2:20 behind FROOME overall",
+      "MATTHEWS Michael": "positive: Overcame 100-point deficit week prior to secure green jersey through SUNWEB's coordinated mountain sprint attacks",
+      "KITTEL Marcel": "negative: Won five stages and led green jersey but lost 100-point advantage as MATTHEWS targeted intermediate sprints in mountains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:09:41.148066+00:00"
+}

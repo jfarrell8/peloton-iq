@@ -1,0 +1,26 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-26",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won stage 7 in a two-up sprint with ROGLIC after Quick-Step's relentless chase shredded all domestiques, leaving GC rivals to attack/chase themselves in final 26km.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step's sustained pace on circuits eliminated all domestiques before decisive moves, forcing leaders into solo tactical decisions.",
+      "UAE's team cohesion failed: SOLER marked moves while AYATES helped chase, fragmenting their ability to contest ROGLIC/EVENEPOEL dominance.",
+      "EVENEPOEL attacked solo at 26km when Quick-Step domestiques exhausted, demonstrating willingness to race offensively despite time gap pressure.",
+      "Circuit races with 8km laps and technical descents favor duo breakaways over solo attacks when GC contenders are evenly matched."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Won two stages and mountains jersey while finishing 6 seconds down on GC, showing form progression through week",
+      "ROGLIC Primoz": "positive: Controlled race through team pacing then marked EVENEPOEL personally in finale, referenced as 'unbeatable' after Tirreno win",
+      "SOLER Marc": "neutral: Rode for own placement finishing third while teammate AYATES chased, exposing UAE's unclear tactical hierarchy",
+      "AYATES Adam": "negative: Helped chase down teammate SOLER's group, demonstrating team confusion in critical GC moments"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:04:24.528947+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-13",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the sprint in Orbetello but was disqualified for deviation, handing GAVIRIA Fernando the stage victory.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ Primož lacks technical positioning experience, dropped to 30-40th in Grosseto's roundabouts despite pink jersey.",
+      "ACKERMANN Pascal launched sprint early into headwind with 350m remaining, completely gassed before 100m mark.",
+      "DÉMARE Arnaud targeted both intermediate sprints unopposed while rival sprint trains conserved energy for finale.",
+      "VIVIANI Elia abandoned SABATINI leadout mid-sprint to jump ACKERMANN wheel, tactical switch enabled winning acceleration."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "negative: Pink jersey but exposed poor bunch positioning skills in technical urban sections, lost teammates easily",
+      "ACKERMANN Pascal": "negative: Won Stage 2 but tactical naivety shown launching 350m out into headwind, completely empty at 100m",
+      "VIVIANI Elia": "positive: Won sprint then disqualified for deviation, but demonstrated superior timing leaving acceleration to sub-100m",
+      "GAVIRIA Fernando": "positive: Strong late acceleration, immediately competitive after early-season struggles, showed good sportsmanship pre-DQ news",
+      "DÉMARE Arnaud": "positive: Opportunistic double intermediate sprint wins while rivals saved legs, team mopped secondary points efficiently"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:58:03.548639+00:00"
+}

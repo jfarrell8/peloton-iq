@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Launches long-range attacks (10km+ from finish) from breakaway situations, typically on climbs or transitional terrain. Lacks explosive acceleration for decisive separation, relies on sustained effort and race reading rather than pure speed.",
+  "team_tactics": "Deployed as early attacking card to soften field before team leader moves, or as high-tempo domestique to pace GC groups in finals. Given stage-hunting freedom when team has no GC pressure.",
+  "terrain_preference": "Sustained climbs and technical descents where power and bike-handling compensate for acceleration deficit. Vulnerable in situations requiring explosive attacks or sprint finishes after efforts.",
+  "vulnerability": "Sprint finishes expose critical weakness—repeatedly caught or outkicked after making race-winning efforts. Telegraphed attacks from breakaways allow marking and countering in closing kilometers.",
+  "key_patterns": [
+    "Attacks from breakaways 3-10km out but gets marked/outsprinted (3 instances across 2019-2022)",
+    "Functions as early-race disruptor before team leader moves (2 confirmed tactical setups)",
+    "Strong descending/bridging ability showcased on technical finales like Selvino descent",
+    "High-tempo domestique pacing GC groups in finals when not stage hunting",
+    "Exceptional one-day form windows but inconsistent podium threat across season"
+  ],
+  "form_trajectory": "neutral: 2022 showed persistent attacking intent but same finishing limitations; no progression in conversion rate from strong positioning to victories since 2019 breakthrough",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "MASNADA Fausto",
+  "built_from": [
+    "2018 Giro d'Italia Stage 11",
+    "2019 Giro d'Italia Stage 6",
+    "2019 Giro d'Italia Stage 6",
+    "2019 Il Lombardia",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 5",
+    "2020 Tirreno Adriatico Stage 5",
+    "2021 Il Lombardia",
+    "2022 Tour de Suisse Stage 6",
+    "2022 Tour de Suisse Stage 6"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2018 BinckBank Tour Stage 1",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-13",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN won a chaotic sprint after late crash disrupted leadouts, beating KITTEL and EWAN in tight finish",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GROENEWEGEN crash in final kilometer forced sprinter teams to reorganize without structured leadouts, favoring opportunistic positioning",
+      "Quick-Step delivered JAKOBSEN without visible leadout train, suggesting pre-positioned final 300m strategy rather than traditional pilot",
+      "Trek-Segafredo had THEUNS leading out but lost KITTEL early, revealing fragile German sprint infrastructure compared Belgian teams"
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: won from chaos without apparent leadout, shows tactical maturity to capitalize when structured trains collapse",
+      "KITTEL Marcel": "negative: had positioning through THEUNS but couldn't finish, suggests declining ability to navigate disrupted sprints",
+      "EWAN Caleb": "neutral: reached podium despite Mitchelton-Scott having no visible leadout support in final 500m",
+      "GROENEWEGEN Dylan": "negative: crashed in crucial final kilometer positioning phase, likely mechanical positioning error rather than contact",
+      "ŠTYBAR Zdeněk": "neutral: present congratulating JAKOBSEN suggests Quick-Step used Classics riders for positioning rather than pure sprinter pilots"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:20:25.647247+00:00"
+}

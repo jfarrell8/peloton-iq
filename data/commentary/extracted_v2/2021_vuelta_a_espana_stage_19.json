@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won his third Vuelta stage from a breakaway, towed to victory by EF teammate CRADDOCK Lawson's sacrificial pace-setting through final kilometers.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF executed textbook leadout where CRADDOCK Lawson drove tempo final 1.5km, preventing attacks while giving CORT ideal second-last wheel position.",
+      "DSM tried early peloton control but abandoned chase mid-stage, revealing insufficient team depth to sustain breakaway suppression on consecutive hard days.",
+      "SIMMONS Quinn showed late-Vuelta form recovery with aggressive acceleration at 60km-to-go split, signaling U23 riders gain fitness while veterans fade."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: Third stage win demonstrates repeatable breakaway success pattern when protected by domestique through technical finishes.",
+      "CRADDOCK Lawson": "positive: Sustained 31mph tempo final 1.5km while exhausted on Stage 19 shows exceptional diesel engine capacity late in Grand Tour.",
+      "SIMMONS Quinn": "positive: Made decisive split at 60km despite hard previous days, suggesting improving form trajectory exiting Vuelta into fall classics.",
+      "BAGGIOLI Nicola": "neutral: Deckuninck tactics correct but legs insufficient in sprint, indicating team strategy execution better than rider condition Stage 19.",
+      "MEINTJES Louis": "negative: Involved in crash after moving into top-10 GC, showing vulnerability when fatigued riders navigate technical sections late-race."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:01:22.731432+00:00"
+}

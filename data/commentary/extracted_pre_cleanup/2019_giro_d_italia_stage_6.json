@@ -1,0 +1,25 @@
+{
+  "label": "2019 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-16",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MASNADA Fausto attacked with CONTI Valerio over 10km from climb summit, cooperated until final meters when MASNADA took the sprint",
+    "winner": "MASNADA Fausto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MASNADA and CONTI executed dual-objective cooperation: trading pulls for stage win and maglia rosa respectively until final 500m.",
+      "UAE Emirates allowed breakaway over 5 minutes specifically to plant CONTI in pink jersey while defending ROGLIČ's top-10 position.",
+      "Early two-man move with 10km climbing remaining from 13-rider break preempted chasers' coordination attempts in wet conditions."
+    ],
+    "rider_signals": {
+      "MASNADA Fausto": "positive: identified tired faces in 13-rider break and launched decisive 10km attack, held off three chasers by 34 seconds",
+      "CONTI Valerio": "positive: secured 5:21 advantage for maglia rosa by cooperating with MASNADA through final kilometer despite sacrificing stage win",
+      "ROGLIČ Primož": "negative: crashed early stage, lost significant shorts fabric right side, UAE controlled tempo suggesting GC concern",
+      "ROJAS José Joaquín": "neutral: bridged to chase group but finished 34 seconds behind winner, showed strength but poor positioning from break"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:58:42.361926+00:00"
+}

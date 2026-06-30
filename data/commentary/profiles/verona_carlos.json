@@ -1,20 +1,33 @@
 {
-  "attacking_style": "Prefers breakaway positioning over late attacks. Shows tactical creativity by attacking on flat terrain rather than steep climbs, though lacks explosive power on gradient.",
-  "team_tactics": "Limited team support visible; operates independently in breakaways, managing group politics and positioning solo without heavy domestique support.",
-  "terrain_preference": "Thrives on sustained climbing efforts where engine beats pure power. Final climbs suit him better than steep punchy gradients. Vulnerable on explosive steep terrain.",
-  "vulnerability": "Lacks sufficient power advantage on steep gradients. Relies on endurance over explosivity, making him susceptible to pure climbers on pitches.",
+  "attacking_style": "Attacks on non-traditional terrain (flat sections of climbs, ridgelines, descents) rather than steep gradients. Prefers breakaway scenarios where energy conservation and tactical positioning matter more than pure climbing power.",
+  "team_tactics": "Movistar deploys him in sequenced pacing roles on early climb kilometers before leaders attack, or releases him for stage hunting from breakaways when GC protection isn't priority. Minimal domestique support when attacking himself.",
+  "terrain_preference": "Ridgelines, descents, and transitional terrain between climbs. Struggles on steep gradients (16%+) and extended final climbs where pure climbing watts determine outcomes. Excels when finishing involves tactical positioning over pure power.",
+  "vulnerability": "Lacks final climb punch after bridging efforts. Steep gradient finishes (16%+) expose limited explosive climbing power. Without team support on flat approaches, cannot sustain gaps against organized chases.",
   "key_patterns": [
-    "Succeeds from breakaways rather than bunch sprints or late attacks (2 races)",
-    "Strong on final climbs when race is already selective (2 races)",
-    "Chooses tactical positioning over raw power, surviving group dynamics (2 races)"
+    "Attacks on flat/descent sections rather than steep gradients (3 races: Romandie, Catalunya, Basque).",
+    "Refuses cooperation in breakaways to conserve energy for final effort (2 races: Basque, Dauphine implication).",
+    "Serves as early-climb pacing domestique in Movistar's sequenced attacks (2 races: Vuelta 2020, 2021).",
+    "Bridges to groups but struggles matching accelerations on steep final climbs (2 races: Vuelta 2021 stages).",
+    "Stage hunting prioritized when released from GC duties, showing versatility beyond domestique role (3 races)."
   ],
-  "form_trajectory": "positive: Won from 18-rider breakaway holding off Roglic surge, showing strong climbing endurance on final ascent",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "positive: First World Tour win at 29 in 2022 Dauphine suggests career-best form, holding off Roglič despite solo finale pressure. Most aggressive rider recognition confirms attacking confidence peak.",
+  "races_analysed": 7,
+  "confidence": "high",
   "rider_name": "VERONA Carlos",
   "built_from": [
+    "2018 Itzulia Basque Country Stage 5",
+    "2018 Itzulia Basque Country Stage 5",
+    "2018 Itzulia Basque Country Stage 5",
+    "2020 Vuelta a Espana Stage 2",
+    "2020 Vuelta a Espana Stage 2",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Volta Ciclista a Catalunya Stage 5",
+    "2021 Volta Ciclista a Catalunya Stage 5",
     "2022 Criterium du Dauphine Stage 7",
     "2022 Criterium du Dauphine Stage 7",
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 Tour de Romandie Stage 3",
     "2022 Tour de Romandie Stage 3"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Not an attacker; finishes races in sprint scenarios, typically in reduced bunch or selective finishes rather than pure flat sprints.",
+  "team_tactics": "Teams invest leadout resources but execution frequently misaligns with rider's actual form or positioning capabilities, leading to suboptimal results.",
+  "terrain_preference": "Selective or reduced sprint finishes after hard racing (247km classics, hilly stages). Struggles in pure power sprints against top-tier fastmen.",
+  "vulnerability": "Lacks top-end sprint speed against elite sprinters; positioning fragility in technical finales; form inconsistency undermines team leadout investments.",
+  "key_patterns": [
+    "Repeated runner-up finishes in similar scenarios showing consistent ceiling below elite sprinters (3 observations)",
+    "Team leadout efforts frequently wasted through rider form deficit or tactical miscalculation (2 observations)",
+    "Late-race crash vulnerability and positioning errors in finale kilometers (2 observations)",
+    "Better results in attritional races than pure sprint showdowns (2 observations)"
+  ],
+  "form_trajectory": "negative: consecutive second places in 2020 Tour suggest plateau, with earlier 2020 sixth place and 2017-2019 struggles indicating declining competitiveness",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "MEZGEC Luka",
+  "built_from": [
+    "2017 Giro d'Italia Stage 12",
+    "2017 Tour de Pologne Stage 1",
+    "2019 Vuelta a Espana Stage 14",
+    "2020 Bretagne Classic - Ouest France",
+    "2020 Tour de France Stage 19",
+    "2020 Tour de France Stage 5"
+  ]
+}

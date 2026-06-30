@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour of Oman Stage 2",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-17",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alexey attacked 5km from summit of final Alisa climb, held off KRISTOFF's chase to win by 3 seconds",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN HECKE attacked solo from early breakaway on climb, forcing CCC to chase despite strong 5-minute gap",
+      "CCC team controlled without Van Avermaet attempting stage win, revealing non-aggressive tactics despite hilly finish",
+      "LUTSENKO attacked 5km from summit not at steepest gradients, catching sprinter teams during organized chase phase"
+    ],
+    "rider_signals": {
+      "VAN HECKE Preben": "positive: strong enough to drop breakaway companions on climb and solo attack, GP de Denain form translating",
+      "LUTSENKO Alexey": "positive: punchy climbing legs sharp enough to create 3-second gap on sprinters over final 5km climb",
+      "VAN AVERMAET Greg": "negative: CCC rode defensively for him but he didn't contest hilly finish despite team support",
+      "KRISTOFF Alexander": "positive: climbed well enough on Alisa to limit losses to 3 seconds, unusual sprinter resilience on climbing finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:03:45.272282+00:00"
+}

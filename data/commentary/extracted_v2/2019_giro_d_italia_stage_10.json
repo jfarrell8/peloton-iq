@@ -1,0 +1,26 @@
+{
+  "label": "2019 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-21",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMARE Arnaud won from chaos after Ackerman crashed 1.2km out, exploiting Viviani's reliance on Caleb Ewan's wheel selection.",
+    "winner": "DEMARE Arnaud",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Viviani shadowed Caleb Ewan's wheel from 5-6km out instead of positioning independently, losing tactical flexibility when sprint fractured.",
+      "Lotto-Soudal deliberately let Dorthea solo 2.3km knowing exact power calculations to reel him precisely at flamme rouge.",
+      "Groupama-FDJ positioned Demare independently left side while rivals clustered right, avoiding the barriers crash at 1.2km."
+    ],
+    "rider_signals": {
+      "ACKERMAN Pascal": "negative: crashed 1.2km out when leading sprinters clipped barriers left side, eliminated from sprint contention",
+      "VIVIANI Elia": "negative: second place again despite perfect positioning reveals inability to win without dominant leadout train",
+      "DEMARE Arnaud": "positive: first 2019 win shows strength returning, critically positioned left independently while chaos erupted right barriers",
+      "EWAN Caleb": "neutral: carried Viviani's wheel from 6km but couldn't convert, suggesting leadership burden without finishing power",
+      "DORTHEA Ramblin": "neutral: late solo attack 2.3km out calculated by Lotto power data, never realistically threatening organized sprint teams"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:47:44.658286+00:00"
+}

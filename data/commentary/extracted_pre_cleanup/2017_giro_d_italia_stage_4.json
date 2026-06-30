@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-09",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POLANC attacked with 4.1km remaining on Etna's headwind finish, dropped everyone for a 19-second solo victory over ZAKARIN.",
+    "winner": "POLANC Jan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POLANC attacked into headwind finish instead of waiting, exploiting that others couldn't respond in unfavorable conditions despite feeling strong.",
+      "GAVIRIA sprinted intermediate points early stage, signaling genuine three-week GC points ambition rather than stage-hunting mentality.",
+      "JUNGELS took pink jersey by limiting losses on Etna rather than attacking, conservative approach when rivals faltered."
+    ],
+    "rider_signals": {
+      "POLANC Jan": "positive: Won biggest career victory by attacking 4.1km out in headwind when others expected cooperation",
+      "ZAKARIN Ilnur": "negative: Crashed twice during stage, finished 19 seconds down despite surviving to final group",
+      "GAVIRIA Fernando": "positive: Contested intermediate sprint targeting overall points jersey, indicating three-week racing commitment",
+      "JUNGELS Bob": "positive: Took pink jersey by defensive riding on first mountain stage when favorites couldn't separate",
+      "THOMAS Geraint": "positive: Followed key moves on Etna, only 6 seconds behind JUNGELS in GC after mountain test"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:00:52.699433+00:00"
+}

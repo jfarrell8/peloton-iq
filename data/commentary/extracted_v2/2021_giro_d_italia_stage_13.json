@@ -1,0 +1,25 @@
+{
+  "label": "2021 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-21",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIZZOLO Giacomo won bunch sprint after teammate AFFINI Eduardo's leadout nearly held for solo victory, losing only 15m from line.",
+    "winner": "NIZZOLO Giacomo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AFFINI's time trial engine from leadout nearly stole victory, caught only 15m from line suggesting TT specialists underutilized in sprint leadouts.",
+      "Belgian DEBUSSCHERE attack with 50km triggered peloton wakeup that forced break's recapture earlier than teams wanted at 7km out.",
+      "NIZZOLO broke 16-podium winless streak, indicating mental barrier or tactical positioning issues finally resolved in home Giro sprint."
+    ],
+    "rider_signals": {
+      "AFFINI Eduardo": "positive: time trial power nearly held off sprinters from leadout position until final 15 meters",
+      "NIZZOLO Giacomo": "positive: finally converted after record 16 Giro podiums without winning, suggests tactical adjustment or equipment change",
+      "GAVIRIA Fernando": "negative: finished fifth despite being best at intermediate sprints, positioning failure in finale",
+      "VIVIANI Elia": "negative: home roads Verona advantage failed to materialize despite Olympic flag bearer announcement boost"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:37:21.419271+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2019 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2019-04-21",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu attacked with 36km remaining, bridged from behind after being caught, won from group sprint on Cauberg finish.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POEL Mathieu's 36km solo attack absorbed by chasers, but energy reserves sufficient to win final sprint anyway.",
+      "FUGLSANG Jakob and KWIATKOWSKI Michał bridging together created numerical disadvantage that paradoxically allowed regrouping before Cauberg.",
+      "CLARKE Simon marking VAN DER POEL in final 400m instead of initiating own sprint cost potential victory.",
+      "Cauberg crosswind from final turn favored right-hand positioning; leaders hesitation in final 200m allowed chasers back into contention."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: demonstrated ability to recover from failed long-range effort and still win tactical sprint finish",
+      "ALAPHILIPPE Julian": "positive: responded immediately to attacks at 36km, showing form to bridge significant gaps late-race",
+      "FUGLSANG Jakob": "neutral: bridged effectively with Kwiatkowski but unable to capitalize in final sprint from reduced group",
+      "KWIATKOWSKI Michał": "neutral: chase work successful but sprint positioning inadequate despite being in winning move",
+      "CLARKE Simon": "negative: finished second despite perfect position in final 200m, suggesting hesitation or misjudged timing cost victory",
+      "DE MARCHI Alessandro": "positive: survived from early breakaway to finish sixth, indicating exceptional diesel endurance for Amstel distance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:50:31.835645+00:00"
+}

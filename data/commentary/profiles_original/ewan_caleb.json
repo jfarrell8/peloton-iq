@@ -1,0 +1,40 @@
+{
+  "attacking_style": "Pure sprinter who launches from 250m out, often from 5-7 positions back. Excels on technical finishes with late turns or geometry-based positioning advantages rather than pure power straights.",
+  "team_tactics": "Historically dependent on structured leadout trains (Lotto-Soudal 2019-2020), but showed positioning independence in 2023. Team domestique shortage at BikeExchange/Jayco exposed vulnerability when leadout dissolves or on transitional stages.",
+  "terrain_preference": "Technical sprint finishes with roundabouts, late turns, or rising/cobbled sections where positioning and timing trump pure watts. Severely exposed on anything above 3-4% gradients or transitional stages with late climbs.",
+  "vulnerability": "Crashes frequently in sprint positioning (5 documented incidents). Cannot follow on climbs above 4%, gets isolated and time-cut threatened. Completely reliant on structured approaches when leadout disrupted—checks sprint if chaos occurs.",
+  "key_patterns": [
+    "Wins from deep in field (7+ positions back) by overhauling organized leadout trains. Documented 3 times.",
+    "Crashes/mechanicals in critical moments: 5 separate incidents including wheel contact, tangles, positioning errors.",
+    "Dropped and isolated on any gradient above 4%: finished 2+ minutes down multiple times.",
+    "Superior race craft on technical finishes with geometry advantages: wins on cobbles, roundabouts, late turns.",
+    "Exceptional recovery capacity: crashed inside 10km then won same stage in 2019 Tour.",
+    "Team domestique shortage exposed 2022: isolated immediately when attacks occur, broom wagon chased."
+  ],
+  "form_trajectory": "positive: 2023 Tour showed return to competitive sprinting (2nd, 3rd) without full leadout support, suggesting positioning maturity after injury-plagued 2021-2022 seasons",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "EWAN Caleb",
+  "built_from": [
+    "2017 Tour de Pologne Stage 1",
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 11",
+    "2019 Tour de France Stage 11",
+    "2019 Tour de France Stage 16",
+    "2019 Tour de France Stage 16",
+    "2019 Tour de France Stage 21",
+    "2019 Tour de France Stage 21",
+    "2020 Paris - Nice Stage 3",
+    "2021 Tour de France Stage 3",
+    "2022 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 5",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2022 Tirreno-Adriatico Stage 3",
+    "2022 Tirreno-Adriatico Stage 3",
+    "2022 Tour de France Stage 13",
+    "2022 Tour de France Stage 14",
+    "2022 Tour de France Stage 2",
+    "2023 Tour de France Stage 3",
+    "2023 Tour de France Stage 4"
+  ]
+}

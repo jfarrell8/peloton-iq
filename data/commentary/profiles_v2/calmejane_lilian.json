@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches decisive solo attacks on final climbs from established breakaways, willing to commit with significant distance remaining (4km+) despite physical distress.",
+  "team_tactics": "Operates with minimal visible team support; relies on breakaway positioning rather than domestique-led setups for opportunities.",
+  "terrain_preference": "Final categorized climbs within breakaway scenarios where sustained power can create separation; struggles to convert when terrain favors pure sprint finishes.",
+  "vulnerability": "Fails to deliver in sprint finishes even within small groups (8-rider break); susceptible to severe cramping under pressure despite mental resilience.",
+  "key_patterns": [
+    "Attacks solo from breakaways on final climbs rather than contesting group finishes (2 instances)",
+    "Exhibits strong mental control under physical crisis, maintaining focus when cramping severely (2017 win)",
+    "Underperforms in tactical sprint scenarios within small groups despite breakaway success (7th from 8-rider break)"
+  ],
+  "form_trajectory": "negative: 2017 Tour stage win from break with cramping overcame showed promise, but 2018 failure to convert hometown break advantage suggests declining effectiveness",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CALMEJANE Lilian",
+  "built_from": [
+    "2017 Tour de France Stage 8",
+    "2017 Tour de France Stage 8",
+    "2018 Tour de France Stage 15"
+  ]
+}

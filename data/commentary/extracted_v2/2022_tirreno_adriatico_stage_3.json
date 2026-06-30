@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-09",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 3 after timing his sprint perfectly on a cobbled, rising finale with five roundabouts, while UAE's aggressive pre-sprint tactics for Ackermann backfired.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE burned Pogacar 50km from finish to setup Ackermann sprinter, revealing multi-leader roster confusion under race pressure.",
+      "Bonus second hunting by Pogacar with 50km remaining created chase that fatigued rival sprint trains, tactical gambit despite failure.",
+      "Late rising cobbled finale with five roundabouts punished early positioning, rewarding sprinters who waited like Ewan versus early launchers."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "neutral: hunted intermediate bonus seconds 50km out despite racing for Ackermann, suggests GC ambition overriding sprint leadout duties",
+      "GEOGHEGAN HART Tao": "positive: bridged to Pogacar group on rolling terrain showing Giro-winning climbing form returning",
+      "ACKERMANN Pascal": "negative: faded outside top-5 despite entire UAE train sacrificing itself, questions sprinting form versus tactical execution",
+      "VAN AERT Wout": "positive: another podium finish without dedicated leadout shows freakish positioning instincts on technical finales",
+      "DEMARE Arnaud": "negative: called season disappointing before this stage, pressured enough to launch early and lose to Ewan"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:19:34.882685+00:00"
+}

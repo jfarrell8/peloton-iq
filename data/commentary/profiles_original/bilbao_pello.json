@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who can win from reduced groups while maintaining GC position. Capitalizes on stage chaos and reduced sprinter fields rather than pure climbing attacks.",
+  "team_tactics": "UAE deploys him as secondary GC threat with freedom to join breakaways when GC group is controlled. Can lead chase efforts but team conserves his energy for dual GC/stage hunting role.",
+  "terrain_preference": "Punchy Basque-style climbs (performed well on Jaizkibel). Thrives in reduced breakaway scenarios on medium mountain stages. Less effective on prolonged high-mountain attrition.",
+  "vulnerability": "Exposed on penultimate climbs when top GC teams (Jumbo) apply sustained attrition tactics. Lacks explosive finishing power in final 2km after bridging efforts. Top-5 GC ceiling clearly defined.",
+  "key_patterns": [
+    "Fades in final 2km after leading chase/bridging efforts (UAE Tour 2022, 2023)",
+    "Opportunistic in chaotic finishes, securing bonus seconds and podiums from crashes (Giro 2022, TDF 2023)",
+    "Maintains top-5 GC while winning from breakaways, dual-threat capacity confirmed multiple times",
+    "Dropped on penultimate climbs when pure climbers apply sustained pressure, not final climbs",
+    "UAE alternative GC card when Pogačar marked, can contest podium places independently"
+  ],
+  "form_trajectory": "positive: Emerged as legitimate top-5 GC rider at 2023 Tour with stage win from break while holding GC position, though ceiling against Jumbo tactics confirmed",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "BILBAO Pello",
+  "built_from": [
+    "2022 Giro d'Italia Stage 1",
+    "2022 UAE Tour Stage 7",
+    "2023 Tour de France Stage 10",
+    "2023 Tour de France Stage 10",
+    "2023 Tour de France Stage 14",
+    "2023 Tour de France Stage 17",
+    "2023 Tour de France Stage 2",
+    "2023 UAE Tour Stage 7"
+  ]
+}

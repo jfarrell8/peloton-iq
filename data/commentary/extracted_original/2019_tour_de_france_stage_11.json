@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-17",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won a technical finish sprint in Toulouse, latching onto teammate GROENEWEGEN Dylan's wheel after a crash inside 10km.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma committed to dual-sprinter leadout, Teunissen's work enabled Ewan to parasitically overtake Groenewegen at line.",
+      "Crash at 31km delayed Porte and Quintana, revealing vulnerability of GC riders without strong positioning squads.",
+      "Degenkolb attacked solo with 25s gap under 10km, showing combativity prize hunting overrides breakaway cooperation dynamics."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: crashed inside 10km, regained peloton, then still won—exceptional recovery capacity and positioning instinct",
+      "GROENEWEGEN Dylan": "negative: delivered perfect leadout but lost to own teammate Ewan, suggesting inferior final 200m kick",
+      "CICCONE Giulio": "negative: dropped time at team car, fell out of top 10 GC on flat stage—Trek's race management questionable",
+      "QUINTANA Nairo": "negative: caught in 31km crash while 8th GC at 2:04, demonstrates persistent positioning weakness",
+      "PORTE Richie": "negative: caught in second crash after stage 10 crosswind losses, pattern of bad positioning continues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:13:11.352420+00:00"
+}

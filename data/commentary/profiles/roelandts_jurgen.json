@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Engages in long-range breakaway attempts rather than explosive late attacks, typically getting caught inside final 15km without decisive positioning to convert.",
+  "team_tactics": "Operates independently without dedicated team support in finals, relying on personal positioning and finishing speed rather than organized leadout.",
+  "terrain_preference": "Flat to rolling finales where consistent top-5 finishing speed can be deployed; struggles to convert breakaway efforts into results when caught.",
+  "vulnerability": "Long-range breakaway efforts lack the decisive power to hold off organized pelotons; absence of team support in critical final kilometers limits winning opportunities.",
+  "key_patterns": [
+    "Demonstrates consistent top-5 finishing speed when arriving in bunch sprints (BinckBank 4th place)",
+    "Attempts long-range breakaways that get absorbed 14-15km from finish without conversion ability",
+    "Operates without team support in finals, collecting minor placings through individual positioning"
+  ],
+  "form_trajectory": "neutral: Shows consistent finishing capability but no evidence of progression in converting efforts to wins across 2018-2019 period",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ROELANDTS Jurgen",
+  "built_from": [
+    "2018 Paris-Nice Stage 1",
+    "2019 BinckBank Tour Stage 3"
+  ]
+}

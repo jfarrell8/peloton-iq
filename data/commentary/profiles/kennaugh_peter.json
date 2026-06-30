@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Attacks from breakaways on mountain stages, making decisive moves on final climbs to eliminate stronger sprinters before technical descents. Shows ability to time attacks strategically in final kilometers.",
+  "team_tactics": "Bora positions him for opportunistic breakaway success and secondary classification targets (KOM points). Team allows autonomy in breakaways rather than working for protected leaders.",
+  "terrain_preference": "Mountain stages with technical descents where climbing ability can eliminate pure sprinters. Excels on HC climbs like Col de la Croix de Fer where sustained climbing power decides outcomes.",
+  "vulnerability": "Requires breakaway scenarios to succeed; unlikely to challenge in sprint finishes or when race stays together. Needs selective fields where sprinting specialists can be dropped on climbs.",
+  "key_patterns": [
+    "Wins from breakaways on mountain stages, not bunch sprints (2 observations)",
+    "Eliminates superior sprinters on climbs before technical finishes (2 observations)",
+    "Targets multiple classifications including KOM points when stage win unlikely (2 observations)",
+    "Shows exceptional climbing form in stage races, capable of solo efforts (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2017 showed exceptional climbing with stage win, but 2018 reduced to support role collecting classification points rather than contending for wins",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KENNAUGH Peter",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 7",
+    "2017 Criterium du Dauphine Stage 7",
+    "2017 Criterium du Dauphine Stage 7",
+    "2018 Tour of Guangxi Stage 1"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-04",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won shortened stage sprint after course cut from 177km to 107km, surviving team positioning chaos before final climb.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Course shortened by 70km created positioning chaos at climb base with Jumbo-Visma winning the pre-climb fight for position.",
+      "ANACONA Winner attacked from bunch during final climb but Martinez breakaway caught, nullifying early break importance completely.",
+      "GEOGHEGAN HART Hugh moved with 300m but mistimed sprint badly against Roglic's late power on downhill finish."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: Won second sprint finish in four stages, demonstrating unexpected sprint power rather than GC-only focus",
+      "THOMAS Geraint": "neutral: Third place shows Tour de France preparation progressing after poor year start, but couldn't match Roglic sprint",
+      "GEOGHEGAN HART Hugh": "negative: Initiated sprint 300m out but lacked finishing power to convert positioning advantage into first pro win",
+      "WOODS Michael": "neutral: Unable to come around despite good positioning behind Geoghegan Hart's early sprint initiation",
+      "MARTINEZ Daniel": "negative: Most important breakaway rider caught after Anacona's bunch attack, breakaway completely neutralized on climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:02:04.597807+00:00"
+}

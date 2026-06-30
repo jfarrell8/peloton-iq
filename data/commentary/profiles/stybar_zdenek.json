@@ -1,19 +1,24 @@
 {
-  "attacking_style": "Demonstrates capacity to catch breakaway riders but struggles with final kilometer execution, particularly mistiming sprint acceleration when positioned favorably.",
-  "team_tactics": "Benefits from Quickstep's numerical advantage and team pace-setting, but appears dependent on domestique work rather than creating own winning opportunities through individual accelerations.",
-  "terrain_preference": "Can handle varied terrain including gravel sections, though doesn't exhibit explosive acceleration on specialty surfaces despite team support providing optimal positioning.",
-  "vulnerability": "Final kilometer sprint timing is a critical weakness; unable to convert strong positioning into victories when requiring a decisive late acceleration against fresher finishers.",
+  "attacking_style": "Opportunistic late-race attacks testing peloton fatigue rather than sustained climbing efforts. Exploits technical descents and difficult conditions using cyclocross skill set, but struggles to close final gaps on sustained climbs or gravel.",
+  "team_tactics": "Quick-Step deploys him as positioning asset for sprinters and tactical probe rather than protected finisher. Used to test peloton without full commitment, allowing team flexibility in finale.",
+  "terrain_preference": "Wet, technical descents where weight and handling skills provide advantage. Exposed on sustained climbs and long gravel sectors where pure power-to-weight matters more than bike handling.",
+  "vulnerability": "Final decisive moments when gaps open on climbs or gravel - visible frustration closing efforts. Unable to convert strong positioning into wins when peloton remains organized for sprint.",
   "key_patterns": [
-    "Mistimes final sprint efforts when in contention, lacking explosive acceleration in closing kilometer (2 observations)",
-    "Relies heavily on team numerical advantage and domestique pace rather than personal attacks (2 observations)",
-    "Can bridge to breakaways but struggles to finish off winning moves individually (2 observations)"
+    "Technical descending in wet conditions creates advantage through superior bike handling and weight (1 observation)",
+    "Placed in top finishes but unable to challenge winners, suggesting steady decline (3 races)",
+    "Late-race attacks serve tactical testing function rather than genuine winning moves (2 observations)",
+    "Quick-Step uses Classics pedigree for positioning work rather than GC or sprint lead-out (3 observations)"
   ],
-  "form_trajectory": "negative: Both observations show inability to convert favorable positions into wins, suggesting declining finishing power or tactical execution issues",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "negative: progression from frustrated fourth at 2017 Strade Bianche through supportive role in 2018 to near-miss in 2019 suggests declining ability to convert positioning into results despite strong technical skills",
+  "races_analysed": 6,
+  "confidence": "medium",
   "rider_name": "STYBAR Zdenek",
   "built_from": [
     "2017 Strade Bianche",
+    "2017 Tour de France Stage 21",
+    "2018 BinckBank Tour Stage 1",
+    "2018 BinckBank Tour Stage 6",
+    "2018 BinckBank Tour Stage 7",
     "2019 Vuelta a Espana Stage 8"
   ]
 }

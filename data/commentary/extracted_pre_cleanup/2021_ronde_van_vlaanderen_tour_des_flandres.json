@@ -1,0 +1,31 @@
+{
+  "label": "2021 Ronde van Vlaanderen - Tour des Flandres",
+  "race_name": "Ronde van Vlaanderen - Tour des Flandres",
+  "race_date": "2021-04-04",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ASGREEN attacked on Oude Kwaremont with ALAPHILIPPE, dropped VAN AERT on Paterberg, then outsprinted VAN DER POEL after the Dutchman fatally decelerated in final 50 meters.",
+    "winner": "ASGREEN Kasper",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ASGREEN bridged to ALAPHILIPPE's move at 39km with VAN AERT and VAN DER POEL, proving E3 winners carry form.",
+      "VAN DER POEL attacked early to isolate VAN AERT before crucial climbs, reversing 2020 patience tactics that won him the race.",
+      "ALAPHILIPPE's Oude Kwaremont acceleration gave teammate ASGREEN the bridge opportunity, decoupage world champion sat in chasing group after.",
+      "VAN BAARLE led quality chase group that absorbed VAN AERT after Paterberg, revealing INEOS committed riders behind front trio."
+    ],
+    "rider_signals": {
+      "ASGREEN Kasper": "positive: converted E3 form into Ronde victory by reading ALAPHILIPPE's attack perfectly and holding superior sprint power deep",
+      "VAN DER POEL Mathieu": "negative: tactical aggression at 39km correct but unprecedented sprint deceleration in final 50m suggests power collapse",
+      "VAN AERT Wout": "negative: isolated by VAN DER POEL's early forcing, dropped on Paterberg despite making front group on Oude Kwaremont",
+      "ALAPHILIPPE Julian": "neutral: world champion's attack created winning move for teammate but sat up rather than contesting finish himself",
+      "VAN AVERMAET Greg": "positive: only Belgian podium finisher showed endurance chase ability absent from favorites VAN AERT and STUYVEN",
+      "VAN BAARLE Dylan": "positive: led organized INEOS chase on Paterberg that reabsorbed VAN AERT, proving super-domestique quality in classics",
+      "TURGIS Anthony": "positive: bridged to favorites group solo for Total Direct Energie before Paterberg selection, unexpected climbing strength",
+      "BISSEGGER Stefan": "neutral: initiated early break and lasted longest from original seven before favorites' bridge on climbs",
+      "HAUSSLER Heinrich": "neutral: attacked at 39km for Bahrain as favorites marked each other, showing team willing to gamble on counter-moves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:04:53.042265+00:00"
+}

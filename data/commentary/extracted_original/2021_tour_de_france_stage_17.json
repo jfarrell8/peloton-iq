@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-14",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked with 8.4km remaining on Col du Portet, tested VINGEGAARD multiple times over the final 7km, won the summit finish and extended GC lead to 5:39.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE isolated GC rivals early before Pogacar's 8.4km attack, showing team strength preservation for final climb offense.",
+      "Pogacar launched multiple accelerations over 7km rather than single decisive move, testing Vingegaard's recovery repeatedly.",
+      "Carapaz attacked inside 1.5km despite sitting on earlier, revealing he was preserving energy while others worked.",
+      "Uran received Igita teammate support while others rode alone, demonstrating value of having domestique survive to finale."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "negative: showed first sign of weakness after Carapaz attack inside 1.5km but recovered, concerning fragility signal",
+      "CARAPAZ Richard": "positive: sat on while others attacked then launched own move at 1.5km, tactical discipline under pressure",
+      "MASS Enrique": "negative: dropped before final climb even started, unexpectedly poor form on critical GC stage",
+      "O'CONNOR Ben": "negative: dropped during Pogacar's initial 8.4km attack, lacked response capacity at critical GC moment",
+      "POGACAR Tadej": "positive: UAE strength allowed early 8.4km attack with repeated accelerations, superior recovery on sustained efforts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:31:29.901644+00:00"
+}

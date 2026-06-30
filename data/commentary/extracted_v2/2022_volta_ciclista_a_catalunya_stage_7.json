@@ -1,0 +1,25 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-27",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAGGIOLI Andrea timed final acceleration perfectly on rolling finale into Barcelona after INEOS failed to distance IGITA on Montsouche climbs",
+    "winner": "BAGGIOLI Andrea",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS Grenadiers ground pace on Montsouche climbs targeting 16-second gap but IGITA neutralized CARAPAZ attacks by sitting his wheel",
+      "JUMBO Visma drove descent with 3.5km remaining, bringing 12-15 riders back to front sextet and neutering breakaway advantage",
+      "BAGGIOLI exploited rolling Barcelona finale terrain while GC favorites watched each other, preserving energy through descent regrouping"
+    ],
+    "rider_signals": {
+      "IGITA": "positive: Neutralized CARAPAZ wheel-to-wheel on Montsouche despite INEOS grinding pace to exploit 16-second deficit",
+      "CARAPAZ Richard": "negative: Struggled slightly on final Montsouche ascent, needed descent to regain front group with 3.5km remaining",
+      "QUINTANA Nairo": "neutral: Appeared dropped on climb but fought back, ultimately missed podium by single place despite late positioning",
+      "BAGGIOLI Andrea": "positive: Showed QuickStep pattern of targeting rolling finales over pure climbing, avoided GC marking to take stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:31:38.981011+00:00"
+}

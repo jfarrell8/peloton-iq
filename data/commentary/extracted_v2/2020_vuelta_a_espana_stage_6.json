@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-25",
+  "stage": 6,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "IZAGIRRE Ion won after brother Dylan sacrificed from breakaway, setup attack in final climb while Roglic lost 43 seconds to Carapaz due to clothing/mechanical issue.",
+    "winner": "IZAGIRRE Ion",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos attacked on descent early stage forcing selection, aggressive tactics despite dangerous wet conditions revealed comfort racing in rain.",
+      "Dylan Izagirre stayed 15 seconds ahead for 10+ kilometers giving brother Ion perfect draft and position for final climb attack.",
+      "Roglic suffered 43-second loss due to clothing/mechanical stop from cold, not legs, showing preparation failure for rain conditions.",
+      "Carapaz gained race lead without attacking, benefiting from Roglic's misfortune while pacing conservatively on Formigal's shallow 4.7% gradient."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: Lost 43 seconds and race lead due to clothing/mechanical issue from cold, tactical preparation failure not physical weakness",
+      "CARAPAZ Richard": "positive: Took race lead without attacking, paced intelligently on shallow Formigal climb while rivals suffered equipment problems",
+      "CARTHY Hugh": "positive: Finished 38 seconds behind stage winner, moved to second overall, showing unexpected Grand Tour GC legs for EF",
+      "IZAGIRRE Ion": "positive: Capitalized on brother's 10km+ sacrifice ride, timed final attack perfectly despite being stage race non-favorite",
+      "WOODS Mike": "positive: Second place finish shows strong form in cold/wet conditions often problematic for Canadian-based riders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:32:03.954014+00:00"
+}

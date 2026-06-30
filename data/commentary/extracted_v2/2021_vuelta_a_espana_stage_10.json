@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "STORER Michael won from 31-rider breakaway that averaged 31mph early; ROGLIC crashed descending after attacking the category 2 climb, losing red jersey to breakaway rider IKING.",
+    "winner": "STORER Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma deliberately let 9-second deficit rider IKING into 31-rider break, surrendering jersey before harder stages 11-12 ahead.",
+      "ROGLIC attacked category 2 climb despite holding red jersey, unprecedented aggression that backfired via descent crash and jersey loss.",
+      "TRENTINE attacked breakaway 24 miles out before category 2 climb, burning matches too early when gap already inflating past 13 minutes.",
+      "Ineos riders BERNAL and YATES dropped on category 2 despite moderate difficulty, catastrophic morale collapse with both losing GC time."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: Won solo from breakaway after being strongest on category 2 climb and proved exceptional descending skills.",
+      "ROGLIC Primoz": "neutral: Unnecessary aggression attacking category 2 while in red jersey suggests overconfidence; crash on descent cost jersey but bike damage could've been catastrophic.",
+      "IKING Odd Christian": "positive: Gained red jersey via breakaway 9 seconds behind at start; Jumbo-Visma intentionally allowed gap, revealing strategic weakness.",
+      "BERNAL Egan": "negative: Dropped on moderate category 2 climb alongside YATES, exposing severe form crisis and team morale collapse at Ineos.",
+      "YATES Adam": "negative: Getting dropped on non-selective stage alongside BERNAL indicates fundamental inability to follow wheels on medium-difficulty climbs.",
+      "SEPCOOS Koen": "positive: Led tempo work for ROGLIC group after crash, showing exceptional domestique performance throughout stage."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:59:51.481172+00:00"
+}

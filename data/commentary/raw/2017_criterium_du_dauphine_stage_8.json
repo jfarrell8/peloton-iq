@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-11",
   "stage": 8,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "MjQDdchItlA",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=MjQDdchItlA",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 99,
+    "raw_chars": 3510,
+    "clean_chars": 3442,
+    "duration_mins": 4.4,
+    "clean_text": "another great Showdown can be expected for this final stage of the Crum 2017 for a sense are on the menu of this 115 km long stage the main difficulty being the outof category Plateau Deon an aggressive race for Richie port's yellow Jersey can be expected the Australian has a lead of 1 minute to his Rivals and the pack won't disappoint the expectations first none less than Fabio aru and alesandro Valverde test team BMC on the ca colomer Port is soon devoid of teammates and doesn't manage to follow the two strong climbers it's an opportunity for port's Rivals then Martin Roman Bard and Alberto contador take off one after the other and Port soon finds himself alone with his former team at Chris FR Port suffers today and fr leaves him behind on the last meters of the Colombia ascent and takes off on The Descent just as he had done on the Misha FR manages to join aru and valver in the leading group when it comes to the Ascend of the plateau de Solon an 11 km climb with a slope of 9% It's All or Nothing for Port he lies 1 minute and 15 seconds behind his Rivals and virtually lost a yellow Jersey everything is open again and the first to sees the opportunity is Dan Martin the Irish man attacks and takes his teammate yakob fuguang third in the overall ranking with him under the burning Sun the Danish leaves Dan Martin behind and takes off for a solitary run behind Richie Port tries to catch up in the manner of a time trialist he reels in most of his Rivals but 3 kmet from the Finish Line fugang still has a lead of 1 minute and 15 seconds and that's the time Port needs to beat for fuglesang the stage win his second on the 69th Edition is certain but he gives it all with hopes to a more than unexpected race win port won't make it and the former mountain biker fugang can Rejoice it's the first success on the road race since the Danish joined estana and after the Crum fugang has proven that he'll have to be reckoned with on the tour to fronts the suspense couldn't have been greater today on the plateau de Solon and the final kilometer must have seemed endless to Richie port a bit sooner yakob fuguang had taken the lead passing the line with a 10-second bonus and the Australian had 1 minute and 4 seconds to beat him but it wasn't enough for Port a final showdown worthy of the Dual lemon feno at the tour to France 89 because the two men offered us a virtual time trial on the final Ascent a duel where the Danish from Team Asana emerged Victorious oh amazing uh know what to say of course we tried to to keep our GC was the plan of the day but it came down to to a big big big fight and uh with me and Fabio we played it really good and and then of course also we had a few a few a few things that played in our favor like that uh fry had to pull after Fabio he went so hard uh in the end that the Daniel Martin attacked and I just I just followed I tried to keep uh keep cool the whole day and uh without without even pushing it too much he uh he dropped on the flat and then it was all for the for the stage to start with and uh yeah and then we got it all last Friday at lotex had won by a hair today yakob fugang stage win couldn't have been clearer the Criterium once again offered the breathtaking final last year only 12 seconds stood between Roman Bard and winner Chris Frum this year it's even closer fugang wins by 10 seconds only just like in 2016 Den Martin finish a third 1 second ahead of Chris room",
+    "preview_start": "another great Showdown can be expected for this final stage of the Crum 2017 for a sense are on the menu of this 115 km long stage the main difficulty being the outof category Plateau Deon an aggressive race for Richie port's yellow Jersey can be expected the Australian has a lead of 1 minute to his Rivals and the pack won't disappoint the expectations first none less than Fabio aru and alesandro Valverde test team BMC on the ca colomer Port is soon devoid of teammates and doesn't manage to foll",
+    "preview_end": " even pushing it too much he uh he dropped on the flat and then it was all for the for the stage to start with and uh yeah and then we got it all last Friday at lotex had won by a hair today yakob fugang stage win couldn't have been clearer the Criterium once again offered the breathtaking final last year only 12 seconds stood between Roman Bard and winner Chris Frum this year it's even closer fugang wins by 10 seconds only just like in 2016 Den Martin finish a third 1 second ahead of Chris room"
+  },
+  "status": "transcript_saved"
 }

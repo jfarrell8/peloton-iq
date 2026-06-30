@@ -1,0 +1,23 @@
+{
+  "label": "2017 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-08",
+  "stage": 4,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE won the stage 18 seconds faster than CONTADOR on the ITT finishing climb to Mombru, taking yellow jersey",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ALAPHILIPPE gained 26 seconds on CONTADOR at intermediate checkpoint before finish climb, indicating early pacing aggression paid off",
+      "GILBERT finished 53 seconds down on CONTADOR but retained GC position, revealing shallow time gaps in overall standings"
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Beat prime Contador by 18 seconds on uphill ITT despite claiming cautious pre-race mindset, masking true form",
+      "CONTADOR Alberto": "negative: Lost 18 seconds to young puncheur on uphill finish suggests declining power-to-weight against explosive riders",
+      "GILBERT Philippe": "neutral: Large time loss to Contador on climb but maintained GC position shows tight overall classification"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:07:39.540458+00:00"
+}

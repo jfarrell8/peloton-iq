@@ -1,0 +1,30 @@
+{
+  "label": "2019 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-16",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTÍNEZ Daniel Felipe attacked from breakaway on Col de Turini, dropped YATES Simon with LÓPEZ Miguel Ángel cooperating, won stage while BERNAL Egan regained yellow by limiting losses.",
+    "winner": "MARTÍNEZ Daniel Felipe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MARTÍNEZ and LÓPEZ cooperated to neutralize YATES despite competing for stage win, revealing tactical maturity in breakaway scenarios.",
+      "Sky allowed 39-rider breakaway containing ŠIŠKEVIČIUS at 2:01 GC deficit, demonstrating controlled risk tolerance with Turini finish ahead.",
+      "KWIATKOWSKI dropped from podium to 4th defending BERNAL, exposing Sky's willingness to sacrifice domestique GC for leader protection.",
+      "YATES Simon isolated when MARTÍNEZ and LÓPEZ paired against him, showing weakness when outnumbered by coordinated climbers."
+    ],
+    "rider_signals": {
+      "MARTÍNEZ Daniel Felipe": "positive: 22-year-old won biggest career victory by tactically isolating stronger-positioned YATES through Colombian cooperation",
+      "LÓPEZ Miguel Ángel": "positive: sacrificed stage win chance to work against YATES, then still finished 2nd demonstrating tactical intelligence",
+      "BERNAL Egan": "positive: recovered yellow jersey with 45-second margin despite not featuring in stage action, revealing underlying strength",
+      "ŠIŠKEVIČIUS Evaldas": "neutral: highest-placed breakaway rider at 2:01 deficit, used as Sky's risk calculation threshold for allowing escape",
+      "KWIATKOWSKI Michał": "negative: dropped from podium to 4th at 46 seconds while defending BERNAL, confirming domestique role over personal GC",
+      "YATES Simon": "negative: isolated and dropped by MARTÍNEZ/LÓPEZ cooperation despite initiating decisive attack, vulnerable when outnumbered",
+      "SÁNCHEZ Luis León": "negative: 2009 winner dropped on Turini climb, confirming age-related decline on sustained steep gradients",
+      "KELDERMAN Wilco": "negative: unable to follow BERNAL's pace on Turini, exposing gap to elite climbers on decisive summit finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:02:15.653438+00:00"
+}

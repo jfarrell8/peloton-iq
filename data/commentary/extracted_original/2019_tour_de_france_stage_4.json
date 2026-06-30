@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-09",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won stage 4 via perfect Deceuninck-QuickStep leadout after Lotto-Soudal and Sunweb shredded sprinters' trains on Côte de Meron 15km out",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sunweb and Bora-Hansgrohe paced hard over Côte de Meron (15km out) specifically to isolate pure sprinters from their leadout trains",
+      "Deceuninck-QuickStep uniquely kept Cofidis-Reichenbach-Viviani intact through high-speed finale where rivals' trains fractured, revealing superior train discipline",
+      "Jumbo-Visma sprinters Groenewegen and Van Aert finishing 5th-6th separately suggests team confusion over sprint leadership allocation"
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: first Tour stage win two months after disastrous Giro suggests late-season peaking pattern over grand tour duration",
+      "SUNWEB Team": "neutral: pacing over final categorized climb fractured sprinters' trains but didn't deliver own sprint result, tactic benefits others",
+      "ALAPHILIPPE Julian": "neutral: yellow jersey leading out at 1km indicates Quick-Step prioritizing his GC position security over pure sprint optimization",
+      "GROENEWEGEN Dylan": "negative: Jumbo allowing both him and Van Aert to sprint independently reveals unclear team sprint hierarchy on contested stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:16:11.875210+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Commits early on steep ramps (200m+ to go) with sustained power efforts rather than explosive accelerations, often leading climbs but vulnerable to late kicks in final meters.",
+  "team_tactics": "Israel Start-Up Nation frequently lacks numerical support to control race finales, forcing Woods into solo efforts. Team unable to provide protective positioning or late-race setups on key climbs.",
+  "terrain_preference": "Sustained steep climbs (2:35+ efforts at ~520W) where pure watts-per-kilo dominate. Struggles on punchy finales requiring explosive accelerations in final 200m, particularly Mur de Huy's steepest gradient.",
+  "vulnerability": "Lacks finishing kick on ultra-steep ramps under 200m; poor early-stage positioning costs KOM opportunities; insufficient team support exposes him in close GC battles despite superior individual form.",
+  "key_patterns": [
+    "Leads steep climbs too early, gets passed in final 200m (Fleche 2020, 2023)",
+    "Superior climbing form undermined by weak team support in decisive moments (UAE 2021 GC loss)",
+    "Struggles with explosive accelerations despite strong sustained power output (multiple Fleche appearances)",
+    "Positioning errors cost opportunities beyond physical capabilities (KOM jersey loss Tour 2021)",
+    "Performs well in adverse weather contrary to expectations (Vuelta 2020 cold/wet)"
+  ],
+  "form_trajectory": "neutral: Most recent 2023 data shows maintained climbing strength but persistent tactical/finishing limitations unchanged since 2020-2021 observations",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "WOODS Mike",
+  "built_from": [
+    "2020 La Fleche Wallonne",
+    "2020 Vuelta a Espana Stage 6",
+    "2021 Tour de France Stage 15",
+    "2021 UAE Tour Stage 2",
+    "2021 UAE Tour Stage 2",
+    "2023 La Fleche Wallonne"
+  ]
+}

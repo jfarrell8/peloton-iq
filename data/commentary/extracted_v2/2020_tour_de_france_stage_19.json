@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-18",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRAGH ANDERSEN Søren won from breakaway after CAVANIA Rémi shredded peloton at 31.6mph opening hour, fastest of entire Tour.",
+    "winner": "KRAGH ANDERSEN Søren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVANIA Rémi produced Tour's fastest opening hour at 31.6mph, weaponizing breakaway specialist role to exhaust rival leadout trains.",
+      "BENNETT Sam strategically avoided stage win contention despite being well-positioned, prioritizing green jersey security over additional glory.",
+      "Quick Step and Ineos simultaneously attacked early to control intermediate sprint 30 miles from finish, coordinated cross-team tactical move."
+    ],
+    "rider_signals": {
+      "KRAGH ANDERSEN Søren": "positive: second identical stage win (Lyon rematch with Mozzato second again), Sunweb's young Danish contingent overperforming Tour expectations",
+      "CAVANIA Rémi": "positive: late Tour addition to Deceuninck roster immediately delivered strategic value through pace-forcing rather than personal results",
+      "POSTELBERGER Lukas": "negative: bee sting retirement removes Sagan's key leadout man on stage 19, catastrophic timing blow to green jersey challenge",
+      "BENNETT Sam": "positive: deliberately chose not to contest stage win despite positioning, mature tactical restraint with 50+ point green jersey cushion",
+      "SAGAN Peter": "negative: losing Postelberger this late eliminates leadout infrastructure when Bennett still vulnerable, team depth gap exposed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:24:30.452326+00:00"
+}

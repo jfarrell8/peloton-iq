@@ -1,0 +1,31 @@
+{
+  "label": "2017 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-26",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LANDA Mikel escaped late after DUMOULIN Tom was dropped on a mid-race descent where Movistar attacked, winning by 8:10 over the Dutchman.",
+    "winner": "LANDA Mikel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar attacked DUMOULIN Tom on descent when spotting him out of position, exploiting his inferior descending skills mid-stage",
+      "GESCHKE Simon paced DUMOULIN Tom back to group after descent attack, depleting Sunweb domestique support with 30-40km remaining",
+      "ZAKARIN Ilnur attacked with NIBALI Vincenzo in final 2.4km, cracking QUINTANA Nairo who required ARU tow to rejoin",
+      "LANDA Mikel benefited from early breakaway containment then attacked solo when GC riders marked each other on final climb"
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: exposed as vulnerable descender when caught out of position, lost maglia rosa despite strong chase effort",
+      "QUINTANA Nairo": "negative: cracked when ZAKARIN attacked with 2.4km left, needed ARU's wheel to barely limit losses",
+      "LANDA Mikel": "positive: secured mountains jersey then won stage by 8+ minutes, shows he peaks better when pressure removed",
+      "ZAKARIN Ilnur": "positive: aggressive repeated attacks in final 3km dropped QUINTANA, moved into podium contention",
+      "GESCHKE Simon": "positive: sacrificed stage ambitions to pace DUMOULIN back after Movistar descent attack, crucial domestique work",
+      "NIBALI Vincenzo": "positive: followed ZAKARIN's winning move in final kilometers, distanced QUINTANA for time gains",
+      "MOLLEMA Bauke": "neutral: present in chase group after descent crisis but marked others' attacks rather than initiating",
+      "YATES Adam": "neutral: contributed work to chase DUMOULIN back after descent split alongside Movistar riders",
+      "POZZOVIVO Domenico": "positive: animated finale with late attacks, commentary noted him as podium threat for final stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:59:48.213645+00:00"
+}

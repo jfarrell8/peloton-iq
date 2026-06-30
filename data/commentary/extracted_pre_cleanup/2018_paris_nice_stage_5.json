@@ -1,0 +1,26 @@
+{
+  "label": "2018 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-08",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COUSIN Jérôme won from a breakaway that survived despite a late crash disrupting the peloton's chase in the final 2km.",
+    "winner": "COUSIN Jérôme",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POLITT Nils bridged solo to breakaway in final 15km, demonstrating Katusha's willingness to commit without sprint leadout.",
+      "Quick-Step and Lotto-Soudal took over chase from Sky despite no protected sprinter, revealing control priorities over stage win.",
+      "Break survived final crash in peloton with just 25-second gap at 2km, suggesting chase hesitation after organizational disruption."
+    ],
+    "rider_signals": {
+      "COUSIN Jérôme": "positive: won stage and secured polka-dot jersey by targeting all climbs before main broadcast, showing strategic breakaway point accumulation",
+      "POLITT Nils": "positive: bridged solo to break in final 15km without team support, second on stage despite late arrival",
+      "SÁNCHEZ Luis León": "neutral: retained yellow with ALAPHILIPPE and SOLER within 30 seconds, leader group neutralized on medium mountain stage",
+      "QUINTANA Dayer": "negative: mentioned disrupting chase in descent suggesting poor positioning or tactical confusion for team leadership role",
+      "VIVIANI Elia": "negative: ranked 28th on medium mountain stage, revealing clear limitation when any climbing required despite early week success"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:30:21.890551+00:00"
+}

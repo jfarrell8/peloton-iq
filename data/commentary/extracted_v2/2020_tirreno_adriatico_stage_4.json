@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 4",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-10",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HAMILTON Lucas attacked late on the final climb (stage 4 summit finish), soloing to victory over MASNADA who chased but couldn't close.",
+    "winner": "HAMILTON Lucas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon attacked immediately at descent base to test GC rivals, revealing Mitchelton's aggressive posture despite no GC ambitions.",
+      "VLASOV Alexander countered hard when others hesitated, forcing MICKA/KNOX to bridge rather than let Astana escape unchallenged.",
+      "MASNADA Fausto rode solo all day in breaks but couldn't match HAMILTON's late acceleration, suggesting altitude training differential matters.",
+      "WOODS Michael took bonus seconds for third despite no stage win attempt, prioritizing GC positioning over collaboration."
+    ],
+    "rider_signals": {
+      "HAMILTON Lucas": "positive: claims altitude training at Andorra home gave form advantage, first World Tour win suggests emerging climbing capability",
+      "MASNADA Fausto": "neutral: strong all-day effort but beaten in final sprint, stage win form from 2019 Giro not replicated",
+      "NIBALI Vincenzo": "negative: explicitly noted as 'found wanting' when YATES attacked, concerning signal for former grand tour winner",
+      "VLASOV Alexander": "positive: aggressive counter-attacking in best young rider jersey, Astana allowing opportunistic moves",
+      "WOODS Michael": "positive: took bonus seconds tactically for 9-second GC lead, prioritizing overall over stage hunting",
+      "YATES Simon": "neutral: allowed HAMILTON freedom for opportunistic wins while preserving GC role, Mitchelton dual-threat strategy working"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:20:58.238166+00:00"
+}

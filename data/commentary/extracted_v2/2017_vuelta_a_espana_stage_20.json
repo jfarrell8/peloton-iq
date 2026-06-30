@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-09",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CONTADOR attacked on the final climb of Alto de l'Angliru in his career finale, catching and dropping breakaway while Sky controlled GC group behind.",
+    "winner": "CONTADOR Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Contador attacked l'Angliru final climb on last mountain stage of career, catching two-minute breakaway solo through superior climbing.",
+      "Sky controlled peloton pace despite wet dangerous roads; Froome maintained GC with Poels support two kilometers from summit.",
+      "Zakarin and de la Cruz crashed in wet final kilometers, demonstrating peril of aggressive descending before decisive climb."
+    ],
+    "rider_signals": {
+      "CONTADOR Alberto": "positive: attacked l'Angliru on final career mountain stage, caught 2-minute breakaway solo, showing exceptional third-week form despite GC deficit",
+      "NIBALI Vincenzo": "negative: fell back 2km from l'Angliru summit, losing podium fight despite being second overall entering stage",
+      "FROOME Chris": "positive: defended red jersey with Poels support on l'Angliru, showing Sky's controlled approach even on difficult wet roads",
+      "ZAKARIN Ilnur": "neutral: crashed in wet final kilometers but maintained third overall, demonstrating resilience despite mishap"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:14:39.698499+00:00"
+}

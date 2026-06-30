@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BARDET Romain won from an 18-rider breakaway after attacking for KOM points then holding off chasers to the mountaintop finish at Pico Villuercas.",
+    "winner": "BARDET Romain",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET attacked specifically for KOM points on first climb, used those efforts to select himself for stage win later.",
+      "LOPEZ Miguel Angel launched late steepest-gradient attack, gained 20 seconds on ROGLIC before team closed to single digits at line.",
+      "JUMBO-VISMA allowed LOPEZ time gap rather than burn ROGLIC on back-to-back mountain stages, clear multi-day energy management.",
+      "18-rider break gained 10+ minutes as peloton conceded stage entirely, showing GC teams prioritizing following day's bigger mountains."
+    ],
+    "rider_signals": {
+      "BARDET Romain": "positive: Outsprinted breakaway rivals for KOM points then maintained superiority to finish, motivated by teammate STORER's recent wins",
+      "LOPEZ Miguel Angel": "positive: Strongest GC climber on steepest gradients of final climb, took back significant time from ROGLIC with late acceleration",
+      "IKING Odd Christian": "positive: Defended red jersey at back of GC group on category 1 finish despite INEOS lacking mountain firepower",
+      "KUSS Sepp": "positive: Paced entire final climb for ROGLIC after earlier work, still had strength to close LOPEZ gap in final meters",
+      "HOLMES Matthew": "negative: Flatted during early break selection with team car too far back, demonstrates support vehicle positioning critical in breakaway formation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:00:29.733681+00:00"
+}

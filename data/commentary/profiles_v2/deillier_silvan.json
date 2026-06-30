@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range breakaway specialist willing to commit to 190km+ efforts. Reserves sprint for finale rather than attacking late from break.",
+  "team_tactics": "Insufficient data on team support. Victory came from individual breakaway effort with superior energy management over rivals.",
+  "terrain_preference": "Flat to rolling stages suited to very long breakaways where endurance and sprint economy trump pure power. Thrives when rivals have conflicting team interests.",
+  "vulnerability": "Lacks superior sprint credentials - relies on draining rivals' energy over extreme distances and exploiting tactical compromises in break composition.",
+  "key_patterns": [
+    "Commits to ultra-long breakaways exceeding 190km requiring elite energy management",
+    "Tactically patient within breaks, waiting for finale rather than premature attacking",
+    "Exploits team dynamic conflicts among breakaway companions to neutralize stronger sprinters"
+  ],
+  "form_trajectory": "unknown: single observation from 2017, insufficient recent data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DEILLIER Silvan",
+  "built_from": [
+    "2017 Giro d'Italia Stage 6",
+    "2017 Giro d'Italia Stage 6"
+  ]
+}

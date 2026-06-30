@@ -1,0 +1,26 @@
+{
+  "label": "2019 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-06-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello won from the breakaway-turned-GC group sprint after LOPEZ Miguel Angel crashed from crowd interference on the descent, CARAPAZ Richard securing overall victory.",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lopez attacked twice on Croce d'Aune but crashed descending from crowd interference, eliminating strongest climber from GC podium fight.",
+      "Carapaz led out Landa for stage win attempt despite holding GC lead, revealing Movistar prioritized stage over preserving leader energy.",
+      "Roglic rode tempo for entire final climb defending 3rd place, cracked completely losing 54 seconds showing TTT domestique role depleted reserves."
+    ],
+    "rider_signals": {
+      "LOPEZ Miguel Angel": "negative: attacked strongly on Croce d'Aune but crashed descending from crowd interference, fifth mechanical/incident of race revealing fragility under pressure",
+      "CARAPAZ Richard": "positive: led out teammate Landa for sprint despite defending GC, showing exceptional confidence in 1:54 advantage with ITT remaining",
+      "LANDA Mikel": "positive: nearly won stage after massive day, sealed podium with time gaps showing peak form arrives late in Grand Tours",
+      "ROGLIC Primoz": "negative: rode entire final climb defending third place but cracked losing 54 seconds, domestique work earlier in race left insufficient reserves",
+      "BILBAO Pello": "positive: took Carapaz's wheel knowing leadout was for Landa, tactical awareness to exploit teamwork dynamics for personal stage win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:50:19.661367+00:00"
+}

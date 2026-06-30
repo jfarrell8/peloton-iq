@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Not a primary attacker; excels in select group sprints from reduced bunches. Strongest in final 2km positioning battles on technical finishes rather than distance attacks.",
+  "team_tactics": "Versatile role player: sacrifices for teammates on cobbles, opens sprints when leadout unavailable, but thrives when given protected status with positioning freedom in finales.",
+  "terrain_preference": "Cobbled classics and technical finales suit best; shows surprising uphill sprint capability. Exposed in pure flat sprints requiring full leadout trains.",
+  "vulnerability": "Struggles when forced to mark moves within breakaways, exhausting himself before finale. Underperforms when deployed as emergency leadout man rather than protected finisher.",
+  "key_patterns": [
+    "Exceptional resilience: recovers from seemingly losing positions to finish strong (Paris-Roubaix 2022, Tour 2018)",
+    "Superior positioning instinct in reduced sprints within final 2km (Omloop 2020, Paris-Nice 2022)",
+    "Often miscast in team roles: sacrifices for others or opens sprints when better suited as finisher",
+    "Performs best with relaxed approach and protected status rather than heavy workload expectations",
+    "Stronger on technical/uphill finales than pure flat sprints requiring traditional leadout"
+  ],
+  "form_trajectory": "positive: 2022 showed exceptional resilience at Paris-Roubaix and climbing strength at Paris-Nice, suggesting evolution beyond pure classics sprinter role",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "STUYVEN Jasper",
+  "built_from": [
+    "2017 Giro d'Italia Stage 6",
+    "2018 Tour de France Stage 14",
+    "2018 Tour de France Stage 9",
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 5",
+    "2022 Paris-Nice Stage 3",
+    "2022 Paris-Roubaix"
+  ]
+}

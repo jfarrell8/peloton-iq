@@ -1,0 +1,39 @@
+{
+  "attacking_style": "Pure sprinter who launches in final 200m on pan-flat finishes. Occasionally attacks long (bunched sprint after early move) when tactical situation favors energy conservation.",
+  "team_tactics": "Relies heavily on leadout train execution and positioning reconnaissance. Team often stays anonymous until final 500m, then exploits rival leadout collapses. Multiple instances of leadout disintegration (Vuelta 2021-2022) indicate fragility under pressure.",
+  "terrain_preference": "Exclusively pan-flat coastal or technical city finishes. Exposed and dropped on any sustained climbing: 7.1% grades eliminate him by 15km to go. Rolling Ardennes-style terrain drops him at 8km.",
+  "vulnerability": "Cannot survive even minor sustained climbs on lumpy sprint stages (dropped 4+ times before final 15-20km). Positioning failures in Grand Tours suggest either fitness deficits or team coordination breakdown when fatigued. Mechanical fragility under pressure.",
+  "key_patterns": [
+    "Dropped on any climb >7% gradient with 15+ km remaining, confirmed across Giro and Vuelta (5 instances)",
+    "Wins require either reconnaissance-based positioning advantage or rival leadout collapse (3 documented wins)",
+    "Leadout train disintegrates in Grand Tours: missing from sprints despite team control (Vuelta 2021-2022 pattern)",
+    "Struggles maintaining position behind own leadout in stage races, indicating fitness degradation over 3 weeks",
+    "Technical finish positioning failures contrast with coastal/straight sprint success (Paris-Nice, UAE Tour divergence)"
+  ],
+  "form_trajectory": "positive: 2023 UAE Tour and Paris-Nice show restored sprint execution and positioning intelligence after 2022 struggles, suggesting one-week race specialization",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "MERLIER Tim",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 1",
+    "2020 Tirreno Adriatico Stage 6",
+    "2020 Tirreno Adriatico Stage 6",
+    "2021 Benelux Tour Stage 4",
+    "2021 Benelux Tour Stage 5",
+    "2021 Giro d'Italia Stage 10",
+    "2021 Giro d'Italia Stage 2",
+    "2021 Giro d'Italia Stage 3",
+    "2021 La Vuelta ciclista a Espana Stage 8",
+    "2021 Tour de France Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2022 Tirreno-Adriatico Stage 2",
+    "2022 Vuelta a Espana Stage 3",
+    "2023 Paris-Nice Stage 1",
+    "2023 Paris-Nice Stage 1",
+    "2023 Paris-Nice Stage 2",
+    "2023 UAE Tour Stage 6",
+    "2023 UAE Tour Stage 6"
+  ]
+}

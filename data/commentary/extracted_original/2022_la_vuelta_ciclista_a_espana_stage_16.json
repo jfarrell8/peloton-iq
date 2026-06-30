@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 16",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-06",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won from reduced sprint after ROGLIC Primož crashed with WRIGHT Fred's knee hitting his bars inside final 500m.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC Primož initiated acceleration on 8.3% finishing ramp revealing GC riders willing to contest sprint stages for time gaps.",
+      "Breakaway of only two riders on 207km stage signaled peloton consensus that sprint teams would control despite steep finish.",
+      "EVENEPOEL Remco punctured within 3km protection zone, exposing vulnerability of race leader without strong team support at critical moments."
+    ],
+    "rider_signals": {
+      "ROGLIC Primož": "positive then negative: strong enough to attack steep finishing ramp but crash with Wright's knee contact raises durability questions for final week",
+      "PEDERSEN Mads": "positive: proved sprint capability on 8.3% gradient ramps, unlike pure sprinter Groves who punctured, confirming hardman classification advantage",
+      "WRIGHT Fred": "neutral: positioned well for uphill finish but knee contact caused Roglic crash, showing sprint chaos risk on ramped finishes",
+      "ACKERMANN Pascal": "positive: followed Roglic's acceleration on steep ramp showing adaptation beyond traditional flat sprint profile",
+      "GROVES Kaden": "negative: punctured before steep finish suggesting equipment or positioning vulnerability when power surges begin on ramps",
+      "EVENEPOEL Remco": "negative: late puncture without team protection reveals DSM squad weakness in critical final kilometers despite time neutralization"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:43:02.076376+00:00"
+}

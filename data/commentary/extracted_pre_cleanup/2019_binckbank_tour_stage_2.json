@@ -1,0 +1,27 @@
+{
+  "label": "2019 BinckBank Tour Stage 2",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-13",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won with a late surge after HODEG Álvaro José opened early left-side, avoiding chaos when GROENEWEGEN Dylan squeezed PEDERSEN Casper wide in final chicane.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "HODEG moved left-side early for UAE creating slipstream BENNETT exploited, revealing leadout riders as unwitting pace donors.",
+      "GROENEWEGEN squeezed PEDERSEN wide in final chicane, showing Jumbo's willingness to compromise own sprint for positioning disruption.",
+      "ČERNÝ expended energy on intermediate sprint bonuses despite 1-minute gap revealing GC ambitions override breakaway survival logic.",
+      "BENNETT admitted legs felt poor at 70km but energy conservation via team positioning trumped raw form in final."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: won while feeling weak at 70km, suggesting superior team shelter and energy management overcomes inferior physical state",
+      "HODEG Álvaro José": "positive: tactical early acceleration left-side created unexpected leadout for rivals, shows dangerous positioning instinct",
+      "PEDERSEN Casper": "negative: squeezed wide by GROENEWEGEN in final chicane when positioned for sprint, vulnerable to aggressive lateral movement",
+      "ČERNÝ Josef": "neutral: aggressively chased intermediate bonuses in doomed break, prioritizing GC seconds over breakaway cooperation",
+      "THEUNS Edward": "negative: mentioned as potential factor but finished 14 seconds back, form not matching pre-race expectations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:50:56.340375+00:00"
+}

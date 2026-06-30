@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-07",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won Stage 1 sprint with Quick-Step controlling front from race start through 200m, gapping SAGAN by 3 bike lengths",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step deployed 5-man leadout with 1.5km remaining on technical finish, preventing positional challenges from Bora-Hansgrohe entirely.",
+      "Gaviria captured 26-point lead in green jersey by winning intermediate sprint 4th place, devastating Sagan's accumulation strategy early.",
+      "Froome lost 1:01 in sub-5km crash, revealing Sky vulnerability in technical finishes despite neutralization protocol expectations."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: Track omnium background enables superior bike handling on technical finishes compared to pure power sprinters like Kittel",
+      "SAGAN Peter": "negative: Bora-Hansgrohe positioning inferior to Quick-Step despite Sagan's finishing speed, 26-point deficit catastrophic for green jersey",
+      "FROOME Chris": "negative: Lost 1:01 on Stage 1 crash, heavy impact suggests positioning errors uncharacteristic for experienced GC leader",
+      "MATTHEWS Michael": "negative: Lost time in finish despite strong 2017 Tour, suggests preparation or positioning deficiencies from previous year"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:28:09.371106+00:00"
+}

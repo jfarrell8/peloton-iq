@@ -1,0 +1,29 @@
+{
+  "label": "2023 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked early on the 4.8km/9% final climb, distanced KUSS by 29 seconds and ROGLIC to move into second overall.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD attacked on steepest gradients in second half of 4.8km climb, reversing expected ROGLIC sprint finish pattern.",
+      "Jumbo-Visma sent TRATNIK alone to bridge breakaway, demonstrating team strength demoralizes rivals rather than conserving domestiques.",
+      "GROVES drove breakaway pace solo for 10 miles pre-sprint despite being pure sprinter, sacrificing recovery for points classification.",
+      "EVENEPOEL sat up and lost time deliberately, suggesting stage hunting incompatible with Jumbo-Visma's break-chasing control."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: attacked aggressively early on final climb despite claiming stomach issues first week, claims third-week improvement coming",
+      "KUSS Sepp": "negative: lost 29 seconds to teammate after leading race, vulnerability exposed on steep second-half gradients",
+      "ROGLIC Primoz": "negative: expected to sprint finish but dropped when VINGEGAARD attacked early, tactical surprise neutralized his strength",
+      "EVENEPOEL Remco": "neutral: deliberately abandoned GC defense by sitting up, repositioning for stage hunting without Jumbo chase pressure",
+      "POELS Wout": "positive: finished strong in chase group, showing climbing form despite domestique role",
+      "GROVES Kaden": "positive: rode powerfully on front for extended period despite sprinter profile, unusual endurance display",
+      "FISHER-BLACK Finn": "positive: 21-year-old held solo effort to finish 40 seconds down on VINGEGAARD, surprising climbing strength"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:06:13.370189+00:00"
+}

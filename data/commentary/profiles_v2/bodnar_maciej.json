@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a traditional attacker. Exploits TT engine for extended solo breakaways (30km+) on flat/rolling stages, using power and cornering skills to resist organized chases.",
+  "team_tactics": "Primary role as high-level domestique for team leaders (Sagan). Deployed for pacing duties after mechanicals and likely for tempo control in flat stages. Can be freed for breakaway opportunities when team doesn't need sprint support.",
+  "terrain_preference": "Flat to rolling terrain where time-trial power creates advantage. Extended solo efforts through technical sections with corners favor his skillset. Likely struggles on steep climbs given domestique role and TT specialization.",
+  "vulnerability": "Organized sprint team chases can overwhelm even 30km+ solo efforts. As a domestique, sacrifices personal opportunities when team leader needs support. Steep mountain stages likely expose power-to-weight limitations.",
+  "key_patterns": [
+    "Functions as high-value domestique for team leaders, particularly Sagan at Bora (2 observations).",
+    "Time-trial strength enables unusually long solo breakaway resistance, 30km+ documented (1 major observation).",
+    "Deployed for critical pacing duties after mechanicals, indicating trusted engine status (2 observations)."
+  ],
+  "form_trajectory": "neutral: Limited recent data. 2019 showed continued reliability in domestique role, but no opportunities to showcase individual capabilities seen in 2017.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BODNAR Maciej",
+  "built_from": [
+    "2017 Tour de France Stage 11",
+    "2019 Tour de Suisse Stage 3"
+  ]
+}

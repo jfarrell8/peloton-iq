@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Favors late accelerations from 3-7.5km out, particularly on roundabouts or tactical road features. Thrives in reduced sprints after climber selections eliminate pure sprinters, leveraging superior sustained power over 3km+ efforts.",
+  "team_tactics": "Dimension Data shows willingness to gamble on long breakaways and unconventional tactics, but struggles with leadout execution—premature train burns and misallocated marking resources undermine sprint setups. Often operates without dedicated train support.",
+  "terrain_preference": "Hilly stages that shed pure sprinters but retain sprint finishes. Excels when 3km+ sustained power efforts precede finale. Struggles in pure mass sprints requiring perfect positioning and leadout trains.",
+  "vulnerability": "Exposed in technical mass sprints without proper leadout support—resorts to wheel-surfing when team positioning fails. Team tactical errors (premature leadouts, misallocated marking) compromise results despite individual strength.",
+  "key_patterns": [
+    "Wins from reduced sprints after climber selections, not pure mass gallops (2 wins)",
+    "Demonstrates 3km+ sustained power ceiling that pure sprinters cannot match (3 observations)",
+    "Operates effectively without dedicated leadout train, relying on positioning and raw power (3 instances)",
+    "Team Dimension Data commits tactical errors in marking and leadout timing (3 race failures)",
+    "Succeeds via late breakaway efforts or solo bridging, not traditional sprint setups (4 observations)"
+  ],
+  "form_trajectory": "negative: Most recent 2020 observation shows reduced capacity, desperately wheel-surfing after team errors, finishing outside podium—contrasts sharply with 2017-2019 winning capability",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "BOASSON HAGEN Edvald",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 5",
+    "2017 Tour de France Stage 19",
+    "2017 Tour de France Stage 19",
+    "2017 Tour de France Stage 7",
+    "2018 Tour de Pologne Stage 2",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Criterium du Dauphine Stage 5",
+    "2020 Tour de France Stage 11"
+  ]
+}

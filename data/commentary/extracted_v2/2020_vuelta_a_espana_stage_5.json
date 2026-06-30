@@ -1,0 +1,25 @@
+{
+  "label": "2020 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-24",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim won from a 12-rider breakaway after Sunweb's 3-man numerical advantage forced tactical stalemate, outsprinting ARENSMAN in final 200m",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sunweb placed three riders in 12-man break, creating numerical superiority that paralyzed chase cooperation near finale.",
+      "SEPP became virtual race leader mid-stage by sitting last wheel in breakaway, demonstrating energy conservation awareness.",
+      "ROGLIC gained 4 seconds on GC rivals in final 400m crash despite 3km rule, suggesting tactical positioning advantage."
+    ],
+    "rider_signals": {
+      "SEPP Lawson": "neutral: positioned himself as virtual leader by conserving energy at back of breakaway, tactically aware for young rider",
+      "ARENSMAN Thymen": "positive: Grand Tour debut at 20 years old, strong enough to contest stage win from break despite inexperience",
+      "ROGLIC Primoz": "positive: gained time on GC rivals in crash-affected finale through better positioning, demonstrating race control beyond just climbing",
+      "WELLENS Tim": "positive: breakaway specialist pattern emerging; non-Tour selection appears motivational factor for aggressive Vuelta racing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:31:49.919342+00:00"
+}

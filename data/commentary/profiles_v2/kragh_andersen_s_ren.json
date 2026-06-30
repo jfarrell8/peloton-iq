@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who excels in sustained high-speed efforts rather than explosive attacks. Proven ability to finish hard tempo-based stages where power endurance trumps pure acceleration.",
+  "team_tactics": "Sunweb allows him freedom to join breakaways in stages unsuited to pure sprinters. Benefits from teammates like Cavania setting brutal early pace that fragments peloton and discourages chase organization.",
+  "terrain_preference": "Fast, technical courses requiring sustained power output over 45+ km/h. Time trial background gives advantage on rolling terrain with tempo-based selection rather than steep punchy climbs.",
+  "vulnerability": "Limited observations suggest potential weakness in explosive uphill finishes or situations requiring repeated accelerations. Relies on breakaway opportunities rather than creating separation from strong groups.",
+  "key_patterns": [
+    "Wins from breakaways after exceptionally fast opening hours that discourage peloton chase efforts",
+    "Demonstrates repeatable success pattern: identical stage win formula executed successfully twice at Tour",
+    "Time trial engine (48km/h TT speed) translates to breakaway endurance in road stages",
+    "Overperforms expectations in Grand Tours, suggesting strong three-week racing adaptation"
+  ],
+  "form_trajectory": "positive: progression from first pro TT win (March) to double Tour stage wins (September) shows rising trajectory and consistency throughout 2020 season",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KRAGH ANDERSEN Søren",
+  "built_from": [
+    "2020 Paris - Nice Stage 4",
+    "2020 Paris - Nice Stage 4",
+    "2020 Tour de France Stage 19",
+    "2020 Tour de France Stage 19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-03",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CORENGO Eros won stage 3 after recovering from poor positioning before the final climb, surging past VILELA and KWIATKOWSKI in final 200m.",
+    "winner": "CORENGO Eros",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VILELA Andrea attacked on final climb approach but faded after leading into final turn, suggesting punch insufficient for sub-300m sprints.",
+      "CORENGO used climbing ability to recover positioning lost before finale rather than sitting in, revealing hybrid climber-puncher tactical advantage.",
+      "ROGLIC Primoz lost yellow jersey margin from 3+ minutes to 6 seconds, exposing Jumbo vulnerability on technical uphill finishes.",
+      "Final climb's variable gradient favored late accelerations over sustained attacks, VILELA caught despite leading through final corner."
+    ],
+    "rider_signals": {
+      "CORENGO Eros": "positive: converted poor pre-climb positioning into stage win using climbing prowess, demonstrated tactical maturity beyond young rider status",
+      "VILELA Andrea": "negative: initiated winning move but lacked final 200m power after right-hand corner, punch insufficient despite Astana support",
+      "ROGLIC Primoz": "negative: lost nearly all GC advantage on technical uphill finish, down to 6-second margin suggests weakness on steep punchy climbs",
+      "THOMAS Geraint": "neutral: present in finale moves but dropped to 5th at 22 seconds, positioning adequate but finishing speed lacking",
+      "KWIATKOWSKI Michal": "neutral: strong positioning through finale but beaten by pure climbers, confirming limits on steeper uphill sprints"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:01:52.266008+00:00"
+}

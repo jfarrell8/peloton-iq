@@ -4,85 +4,103 @@
   "race_date": "2021-08-11",
   "stage": 3,
   "video": {
-    "video_id": "H7D-K5Hb5e0",
-    "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
-    "published": "2021-06-28 16:32:57+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=H7D-K5Hb5e0",
-    "match_score": 77.39,
+    "video_id": "Prk6Le6XotM",
+    "title": "Tour de Luxembourg 2021 - Stage 3 | Highlights | Cycling | Eurosport",
+    "published": "2021-09-16 16:15:00+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=Prk6Le6XotM",
+    "match_score": 78.75,
     "all_candidates": [
       {
-        "video_id": "H7D-K5Hb5e0",
-        "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
-        "channel": "GCN Racing",
-        "published": "2021-06-28 16:32:57+00:00",
+        "video_id": "Prk6Le6XotM",
+        "title": "Tour de Luxembourg 2021 - Stage 3 | Highlights | Cycling | Eurosport",
+        "published": "2021-09-16 16:15:00+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "NCdgsayAGB4",
+        "title": "Tour de Romandie 2021 | Stage 3 Highlights | inCycle",
+        "published": "2021-05-01 14:30:27+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 78.0
+      },
+      {
+        "video_id": "kZ1e81akMBI",
+        "title": "Tour de Romandie 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2021-05-04 09:22:57+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 78.0
+      },
+      {
+        "video_id": "QNp3wIzRqM8",
+        "title": "Tour de Suisse 2021: Stage 3 On-bike highlights",
+        "published": "2021-06-08 20:33:16+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 77.39
       },
       {
-        "video_id": "70WNLec0zG4",
-        "title": "Who Will Win La Vuelta a España? | GCN's 2021 Tour Of Spain Preview Show",
-        "channel": "GCN Racing",
-        "published": "2021-08-10 14:36:46+00:00",
-        "match_score": 48.33
+        "video_id": "Zo8rYTZnNxI",
+        "title": "Tour de Suisse 2021: Stage 3 highlights",
+        "published": "2021-06-08 19:48:29+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 77.39
       },
       {
-        "video_id": "_NIaEwGWhWU",
-        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-        "channel": "GCN Racing",
-        "published": "2021-07-14 16:30:32+00:00",
-        "match_score": 37.39
+        "video_id": "V8Wv88r1YQY",
+        "title": "2021 Tour de Suisse - Stage 3 | Highlights | Cycling | Eurosport",
+        "published": "2021-06-08 20:20:21+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 75.0
       },
       {
-        "video_id": "Lou_5_FxJOQ",
-        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
-        "channel": "GCN Racing",
-        "published": "2021-07-15 16:33:10+00:00",
-        "match_score": 37.39
+        "video_id": "IPSu_rDD_f8",
+        "title": "Tour of Norway 2021: Stage 3 On-Bike Highlights",
+        "published": "2021-08-21 19:47:06+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
       },
       {
-        "video_id": "JDqt96CevYc",
-        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
-        "channel": "GCN Racing",
-        "published": "2021-07-17 17:03:43+00:00",
-        "match_score": 37.39
+        "video_id": "SHo5UDwIeeI",
+        "title": "Tour of Norway 2021: Stage 3 Highlights",
+        "published": "2021-08-21 17:29:25+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
       },
       {
-        "video_id": "khNB4kSu1bk",
-        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
-        "channel": "GCN Racing",
-        "published": "2021-07-16 16:26:55+00:00",
-        "match_score": 37.39
+        "video_id": "UZB0h0ifuNs",
+        "title": "2021 Baloise Belgium Tour - Stage 3 | Highlights | Cycling | Eurosport",
+        "published": "2021-06-11 17:07:16+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 73.33
       },
       {
-        "video_id": "JZk6a1Z7Csk",
-        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
-        "channel": "GCN Racing",
-        "published": "2021-07-13 16:41:29+00:00",
-        "match_score": 37.39
-      },
-      {
-        "video_id": "g_A-6CM_N4g",
-        "title": "Tour de France 2021 Stage 13 Highlights | Can Mark Cavendish Equal Eddy Merckx's Stage Wins Record?",
-        "channel": "GCN Racing",
-        "published": "2021-07-09 16:41:45+00:00",
-        "match_score": 37.39
-      },
-      {
-        "video_id": "UFeZ8wwgJpc",
-        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
-        "channel": "GCN Racing",
-        "published": "2021-07-11 16:54:14+00:00",
-        "match_score": 37.39
-      },
-      {
-        "video_id": "3PeuXUd6yHE",
-        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
-        "channel": "GCN Racing",
-        "published": "2021-07-18 18:57:54+00:00",
-        "match_score": 37.39
+        "video_id": "Gqgn5Y1izfk",
+        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2021-04-13 14:21:08+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 71.67
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 110,
+    "raw_chars": 3584,
+    "clean_chars": 3576,
+    "duration_mins": 4.5,
+    "clean_text": "sometimes you get a stage where you just can't tell how it'll pan out and so it was on stage three of the tour of luxembourg well for all the world it looked like it would be one for the sprinters on the day but a breakaway had other ideas on lumpy terrain with climbing yet again exceeding 2 000 meters as a total likewise it was to be a loop circuit at the end and so familiar to rain with some drags along the way including one up towards the finish what was the spirited breakaway that went up the road and uh it was desal of big knoll powell's that was the first to be shaken out of the back of it they'd had a margin of around three and a half minutes on the peloton and the fact that ben o'connor was in there and was virtual leader for much of the day and there was a spirited chase by de kerning quickstep for yao al-maida who still has designs on the title overall he wearing the points jersey on the day with mark hershey the lead after yesterday's stage win yes brother boyce was one of those that seemed to be struggling as well for lots of sadal so would indeed part of the chase be for roger kluger after caleb ewan decided not to start the day after two lackluster days of the suspicion of illness so would it be the sprinters teams that chased down or the gc men to make sure that ben o'connor didn't run away with this in the end it was a mixture of both a sort of a half-hearted chase really and when we came to our final lap and 12.2 kilometers to go the gap was still a healthy 50 seconds but it started to be clawed back some of the sprinters teams with sport vladimir with marit their choice were coming up decline for rally cycling also had some options edward bozenhagen perhaps four total energies who've been doing a lot of the chase and then jack bauer just decided to release himself and bridge over well that was a red flag to a bull really for those chasing behind they decided to close that gap and in fact slowly but surely they wound back jack bauer and teams like delco like kylo real thought you know what this could well turn out to be a sprint after all work was being done i represent fenix just uh guarding if you like the fact that volkswagen would have been a favorite amongst the break they were trying to destabilize and upset the chase in the end the chase was to win so who would it be that would come out of the pack and rise to the top anybody's guess so many sprinting options especially in the absence of caleb ewan and bryan cocar appearing not to be functioning or firing on all cylinders and so the last few hundred meters were to be a sad one for the break it wasn't to be their day but who then would come out of the pack it was all a bit cagey out there pennelava in the plum colors of burgers bh had options likewise turgis perhaps for total energies finally it was time to reach out for a little bit of glory and springing out of the center a man who hasn't won for a long time sasha modello got his nose to the fore and held off the charging pack phenomenal effort by him kosner for the nearest man to him for ag2r situation and the emotions just poured out of the italian victory for model ahead of costner foie grosso was there for delco bozenhagen in the top five along with bendram so the breakaway didn't make it sasha modelo did and it was a very emotional man acknowledging the gap that had been between his last win and this mark hershey stays in the lead but by a major of just four seconds ahead of uh almeida goto at 19 seconds pino at 23 and delacruz at the same margin time trialling to come tomorrow you",
+    "preview_start": "sometimes you get a stage where you just can't tell how it'll pan out and so it was on stage three of the tour of luxembourg well for all the world it looked like it would be one for the sprinters on the day but a breakaway had other ideas on lumpy terrain with climbing yet again exceeding 2 000 meters as a total likewise it was to be a loop circuit at the end and so familiar to rain with some drags along the way including one up towards the finish what was the spirited breakaway that went up th",
+    "preview_end": "tuation and the emotions just poured out of the italian victory for model ahead of costner foie grosso was there for delco bozenhagen in the top five along with bendram so the breakaway didn't make it sasha modelo did and it was a very emotional man acknowledging the gap that had been between his last win and this mark hershey stays in the lead but by a major of just four seconds ahead of uh almeida goto at 19 seconds pino at 23 and delacruz at the same margin time trialling to come tomorrow you"
+  },
+  "status": "transcript_saved"
 }

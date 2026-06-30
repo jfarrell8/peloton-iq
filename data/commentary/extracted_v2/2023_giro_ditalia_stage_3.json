@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 3",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won a reduced bunch sprint after Jayco-AlUla paced hard on two categorized climbs to thin the field, Pedersen recovering from being dropped.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jayco-AlUla controlled both climbs to shed sprinters for Matthews, investing domestique energy pre-final climb for sprinter positioning.",
+      "Evenepoel contested intermediate sprint bonus seconds despite holding pink, suggesting UAE unwilling to cede time incrementally to Roglič.",
+      "Pinot attacking twice for KOM points after being in break shows Groupama-FDJ prioritizing jersey competition over stage hunting."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: first Giro stage win since 2015 after team executed controlled attrition sprint setup on categorized terrain",
+      "PEDERSEN Mads": "positive: recovered from being dropped on climb to contest sprint, showing unexpectedly strong climbing recovery for pure sprinter",
+      "McNULTY Brandon": "negative: dropped on categorized climbs when expected to survive, early GC weakness signal for UAE backup rider",
+      "KÄMNA Lennard": "negative: absent from finale when terrain suited breakaway specialists, suggests poor form or team role confusion",
+      "CORT Magnus": "negative: dropped when this exact hilly-sprint profile typically favors his puncheur characteristics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:44:45.634804+00:00"
+}

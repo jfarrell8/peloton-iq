@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 14",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-09",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won solo after dominating every breakaway formation from the start, taking victory by over a minute after apparently collapsing on Stage 13.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL attacked repeatedly in early breakaway formations despite previous day's collapse, revealing exceptional recovery or prior day's tactical bluff.",
+      "24-rider breakaway swelled as GC teams allowed gap over 6 minutes, suggesting Soudal lacks domestique strength to control from peloton.",
+      "AYUSO marked every time by KUSS/ROGLIC teammates when attempting moves, showing Jumbo's tactical focus on stopping UAE gaps.",
+      "STORER isolated from chase groups while hunting KOM points, indicating AG2R failed to commit team resources to jersey competition."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: complete reversal from Stage 13 collapse to dominating breakaway formations suggests either sandbagging or superhuman recovery capacity",
+      "BARDET Cyril": "neutral: offered domestique support to EVENEPOEL despite being potential stage contender himself on hometown roads",
+      "AYUSO Juan": "negative: repeatedly marked by Jumbo riders when testing legs, suggesting GC rivals view him as primary threat to podium positions",
+      "STORER Michael": "negative: isolated in KOM chase despite starting as favorite, lost jersey to opportunistic EVENEPOEL showing poor team support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:47:44.455129+00:00"
+}

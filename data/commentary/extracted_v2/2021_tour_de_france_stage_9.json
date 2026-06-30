@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-04",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "O'CONNOR Ben won solo by 5:07 after attacking leaders on final climb, while Israel Startup Nation controlled tempo from kilometer zero specifically for Woods polka dot points.",
+    "winner": "O'CONNOR Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Startup Nation controlled from km 0 sacrificing team resources solely to position Woods for KOM points collection.",
+      "O'Connor attacked the breakaway leaders at 5km-to-go mark on final climb, winning by exceptional 5:07 margin.",
+      "Quick-Step left two riders with dropped Cavendish to ensure time cut survival, revealing team commitment threshold.",
+      "Quintana specifically targeted high-altitude KOM points rather than stage wins, suggesting altitude-based jersey strategy."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "positive: Attacked breakaway companions on final climb with enough power to win by 5:07, unusual gap for breakaway-vs-breakaway",
+      "WOODS Michael": "neutral: Israel committed full team resources from km 0 for KOM points but Quintana still outscored him",
+      "QUINTANA Nairo": "positive: Altitude specialist strength showed at high elevation, targeted KOM points not stage win which suggests calculated jersey campaign",
+      "CAVENDISH Mark": "neutral: Required two Quick-Step domestiques sacrificed to make time cut, revealing team's cutoff anxiety threshold"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:54:17.323105+00:00"
+}

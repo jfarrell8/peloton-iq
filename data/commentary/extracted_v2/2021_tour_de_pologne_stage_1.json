@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-09",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ŠABUZAN Lorenzo won after UAE/AG2R trains neutralized GORDO's 250m-to-go attack on 12-13% finishing ramps, exploiting left-side road space compression.",
+    "winner": "ŠABUZAN Lorenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-QuickStep overcooked domestique workload chasing break pre-10km, compromising ALMEIDA's sprint train for Cote de Stavelot finish.",
+      "GORDO attacked 250m out on 12% ramps, but AG2R chase gave UAE free leadout exposing French team's tactical naivety.",
+      "Left-hand road compression after final 250m turn created passing lane while right side was blocked by barging sprinters."
+    ],
+    "rider_signals": {
+      "GORDO David": "positive: Still dangerous enough to force chase on 12% gradients despite not being designated leader for Groupama-FDJ",
+      "HIRSCHI Marc": "negative: Lost podium to bar-room battling despite positioning, suggests struggles in physical sprint finishes even on punchy terrain",
+      "ALMEIDA João": "neutral: Won bonus seconds but team burned matches early chasing break, raising sustainability questions for week-long Luxembourg format",
+      "QUINTANA Nairo": "positive: Top-five on punchy 12-13% finish indicates resurgent climbing punch beyond pure mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:54:29.675159+00:00"
+}

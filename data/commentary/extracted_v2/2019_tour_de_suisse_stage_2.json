@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-16",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "LEÓN SÁNCHEZ attacked with 12km remaining on final climb sequence, held solo to win as SCREEUWS took GC lead by narrowest margin",
+    "winner": "LEÓN SÁNCHEZ Luis",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Astana forced pace on final two climbs (last 35km) to set up selection rather than defending GC fractions.",
+      "Spanish veteran León Sánchez capitalized on forced pace with 12km attack, suggesting late-stage positioning over early aggression."
+    ],
+    "rider_signals": {
+      "LEÓN SÁNCHEZ Luis": "positive: first Tour de Suisse win off forced pace suggests improved late-race positioning in multi-climb finales",
+      "SCREEUWS Kasper": "positive: took GC lead by fractions despite not winning, indicating bonus seconds awareness and positioning discipline",
+      "MATTHEWS Michael": "negative: lost bonus seconds to Parrish at intermediate sprint despite GC being decided by fractions",
+      "IMHOFF Claudio": "neutral: track specialist's mechanical on solo break confirms unsuitability for sustained breakaway efforts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:02:32.103546+00:00"
+}

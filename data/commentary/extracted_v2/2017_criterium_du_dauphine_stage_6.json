@@ -1,0 +1,27 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-09",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob won from lead group sprint after ARU Fabio's 8km solo attack absorbed, with BARDET/CONTADOR losing over 1 minute on Montée de la Môndaz.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET Roman initiated early chase before Mâcherand climb but couldn't sustain through 10% gradient finale, losing 50 seconds.",
+      "ARU Fabio's 8km attack on 10% slopes neutralized by FROOME group despite dropping VALVERDE and intermediate escapees.",
+      "ASTANA placed two riders (FUGLSANG, ARU) in winning group despite ARU being nominal leader, revealing planned dual-threat strategy."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: outsprinted Tour favorites after working for ARU earlier, suggesting hidden finishing speed post-mountain effort",
+      "BARDET Roman": "negative: initiated chase but cracked on 10% slopes of Môndaz climb, losing 50 seconds to main contenders",
+      "CONTADOR Alberto": "negative: lost 1:06 on 10% finale, worst among GC contenders, signaling major weakness on steep gradients",
+      "ARU Fabio": "neutral: strong solo attack 8km out but caught by FROOME group, then lacked sprint to capitalize",
+      "VALVERDE Alejandro": "negative: attacked first but quickly overtaken by ARU, unable to follow pace on steepest section",
+      "PORTE Richie": "positive: matched FROOME on climb and took yellow jersey via time bonus in sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:54:08.505713+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour de Suisse Stage 9",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-17",
+  "stage": 9,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PORTE Richie won Tour de Suisse GC after dominating the Stage 9 ITT, holding off KRUIJSWIJK Steven who surged to second overall.",
+    "winner": "PORTE Richie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KRUIJSWIJK Steven clawed back all but 27 seconds on PORTE Richie through mountain stages after 75-second team time trial loss.",
+      "BMC saved PORTE Richie's GC on earlier stage through VAN AVERMAET Greg's domestique work, revealing their emergency response protocols.",
+      "MATTHEWS Michael's 4th place in 35km TT signals expanded capacity beyond short prologues, changes sprinter handicapping for long ITTs."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "positive: commanded ITT victory to seal GC, BMC's team unity under sponsor uncertainty translated to protective domestique support",
+      "KRUIJSWIJK Steven": "positive: jumped QUINTANA Nairo to second overall via ITT, confirming pre-Tour test event specialization like 2017 Dauphiné win",
+      "KRAGH ANDERSEN Søren": "positive: 2nd in ITT at age 23 plus stage win reveals major engine development, Sunweb's next Dumoulin archetype",
+      "QUINTANA Nairo": "negative: lost 55 seconds to PORTE Richie and dropped to 3rd overall, exposes ITT vulnerability before cobbles/TT-heavy Tour",
+      "LANDA Mikel": "negative: 86th in ITT after crumbling in final mountain stages, either sandbagging or concerning form collapse before Tour",
+      "MATTHEWS Michael": "positive: 4th in 35km ITT vastly exceeds prologue-only TT capacity, expands threat profile beyond traditional sprinter handicapping",
+      "VAN AVERMAET Greg": "positive: super domestique work saved PORTE Richie on mountain stage, demonstrates ITT specialists' climbing utility under pressure",
+      "KÜNG Stefan": "positive: rode front in leader's jersey earlier, demonstrating BMC's depth in combining ITT power with stage racing workload"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:42:22.140817+00:00"
+}

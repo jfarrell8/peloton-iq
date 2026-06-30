@@ -1,0 +1,25 @@
+{
+  "label": "2022 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HIRATA Intermarché won from reduced breakaway sprint, outfoxing WRIGHT Fred who was strongest but led out and faded in final meters.",
+    "winner": "HIRATA Intermarché",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WRIGHT Fred strongest in break but led out from too far, demonstrating inexperience costs wins despite superior power.",
+      "Trek drove tempo on Cat-1 climb to eliminate non-climbing sprinters, targeting BENNETT Sam's green jersey specifically.",
+      "EVENEPOEL Remco first GC leader to hold jersey consecutive days reveals other teams conceded mid-mountain stage control."
+    ],
+    "rider_signals": {
+      "WRIGHT Fred": "positive: Clearly strongest in breakaway but tactically naive, leading out sprint from front and fading—raw power present.",
+      "PEDERSEN Mads": "positive: Trek executing green jersey takeover strategy on selective stages where BENNETT Sam cannot survive climbing.",
+      "EVENEPOEL Remco": "positive: First repeat red jersey wearer signals peloton acknowledging his GC strength after Stage 6 mountain dominance.",
+      "ROGLIC Primoz": "negative: Lost major time to EVENEPOEL on Stage 6, now sitting well back in GC standings."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:57:06.180472+00:00"
+}

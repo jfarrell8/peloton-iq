@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who capitalizes on extreme gradients (30%+ pitches) and slight uphill finishes. Attacks inside final kilometer when gradient favors persistence over pure power.",
+  "team_tactics": "Primarily functions as domestique doing preparatory positioning work for teammates in breaks. When given freedom, commits fully to all-in pacing strategies rather than measured efforts.",
+  "terrain_preference": "Excels on extreme gradient climbs (30%+ walls like Los Machucos) and slight uphill sprint finishes. Rolling stages suit his positioning work; sustained steep pitches expose pure climbers.",
+  "vulnerability": "Limited observations show success against cracking favorites rather than head-to-head superiority. Likely struggles when forced to respond to accelerations rather than setting tempo.",
+  "key_patterns": [
+    "Wins from breakaways on summit finishes with extreme gradient changes (2 instances)",
+    "Effective all-in pacing strategy on climbs rather than reactive racing (2 instances)",
+    "Capable late-race accelerations inside final kilometer on uphill finishes (1 documented win)",
+    "Transitions between domestique duties and personal opportunities within same stage race (2017-2018 Vuelta)"
+  ],
+  "form_trajectory": "neutral: Showed winning form in 2017 Vuelta mountain stage, returned to domestique duties by 2018 Vuelta with one opportunistic Poland win between",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "PREIDLER Georg",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 17",
+    "2017 Vuelta a Espana Stage 17",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Vuelta a Espana Stage 7"
+  ]
+}

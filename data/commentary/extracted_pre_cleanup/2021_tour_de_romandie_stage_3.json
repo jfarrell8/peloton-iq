@@ -1,0 +1,31 @@
+{
+  "label": "2021 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2021-04-30",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "SOLER attacked solo on final circuit lap descent/technical section, held 26-38 seconds through to win ahead of CORT and SAGAN",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SOLER timed attack on technical descent after KÜNG's climb failure, exploiting Movistar isolation without chase coordination behind.",
+      "BISSEGGER cracked on early climb when KÜNG attacked, revealing TT specialists' vulnerability before decisive loop circuits began.",
+      "Breakaway groups neutralized before final 34.5km circuit loop, signaling peloton control until late-race positioning became critical."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "positive: solo descent attack on wet technical section with 26-38s gap shows confidence in bike handling that overwhelmed chasers",
+      "KÜNG Stefan": "negative: failed early climb attack then dropped back into peloton before decisive move, wasted energy in wrong phase",
+      "BISSEGGER Stefan": "negative: cracked immediately when KÜNG accelerated on early climb, showed insufficient climbing form for hilly stage circuits",
+      "GOOSSENS Kobe": "neutral: stayed with KÜNG briefly on early attack but lacked finishing power to sustain breakaway effort",
+      "CORT Magnus": "positive: second place finish despite wet conditions suggests strong late-race positioning on technical circuits",
+      "SAGAN Peter": "positive: podium finish on wet technical circuit shows maintained bike handling skills translate to non-sprint stages",
+      "COLBRELLI Sonny": "positive: fourth place at 14s shows GC awareness and ability to follow decisive moves on circuits",
+      "THOMAS Geraint": "neutral: finished at 14s in GC group, maintaining contact but not animating race on wet technical day",
+      "PORTE Richie": "neutral: same time as THOMAS at 14s, conservative riding in wet conditions to preserve GC position",
+      "HIRSCHI Marc": "neutral: finished at 24s within top-10 blanket, positioned defensively rather than attacking on home roads"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:12:54.108021+00:00"
+}

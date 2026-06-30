@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Specializes in breakaway wins rather than solo attacks from the peloton. When attacking from breaks, prefers final 500m-1.5km on uphill finishes with perfectly timed accelerations, demonstrating superior finish speed management.",
+  "team_tactics": "Operates primarily as a breakaway opportunist with minimal visible team setup. Relies on personal positioning and timing within established breaks rather than domestique-led attacks.",
+  "terrain_preference": "Moderate uphill finishes and sustained high-pace days suit him best, showing superior freshness management. Severely exposed on gradients exceeding 15% where he loses contact with lead groups.",
+  "vulnerability": "Steep gradients (15%+) where power-to-weight becomes critical. Historically struggled to convert breakaway presence into wins (Tour de France 'nearly-man syndrome') though this improved from 2022 onward.",
+  "key_patterns": [
+    "Breakaway specialist: 5 of 5 wins came from established breaks, never from peloton attacks.",
+    "Late accelerations: prefers attacking with 500m-1.5km remaining rather than early moves.",
+    "Sustained Vuelta form: multiple wins across 2019, 2022, 2023 editions showing consistent performance.",
+    "Superior freshness after long efforts: repeatedly demonstrates better condition than break companions on finale.",
+    "Struggles on extreme gradients: lost contact when gradients hit 15%, prefers moderate climbs."
+  ],
+  "form_trajectory": "positive: Three wins across 2022-2023 Vuelta editions with sustained form between stage wins shows marked improvement from earlier 'nearly-man' status. Confirmed ability to animate and win from breaks consistently.",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "HERRADA Jesus",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 14",
+    "2019 Tour de France Stage 9",
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 6",
+    "2020 Tour de France Stage 6",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 Vuelta a Espana Stage 11"
+  ]
+}

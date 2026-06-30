@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches long-range solo attacks from the base of summit finishes rather than waiting for steep gradients, capable of sustaining effort over entire climb to the line.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Summit finishes where early positioning at climb base allows solo efforts; benefits from longer climbs that reward sustained power over explosive acceleration.",
+  "vulnerability": "Unknown - limited observations. May struggle in races requiring repeated attacks or tactical positioning in larger groups given preference for early solo moves.",
+  "key_patterns": [
+    "Attacks from bottom of climbs rather than waiting for steeper sections or finale.",
+    "Peaks form for late-season races, suggesting periodization focused on autumn objectives.",
+    "Capable of converting solo breakaways into stage victories and race lead positions."
+  ],
+  "form_trajectory": "positive: Victory at Tour of Guangxi indicated peak form timed for late October after difficult season, suggesting strong finish to 2018 campaign.",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MUSKAAN Johnny",
+  "built_from": [
+    "2018 Tour of Guangxi Stage 4",
+    "2018 Tour of Guangxi Stage 4"
+  ]
+}

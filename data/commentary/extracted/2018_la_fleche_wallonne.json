@@ -1,0 +1,25 @@
+{
+  "label": "2018 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2018-04-18",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked on final Mur de Huy ascent, overtook VAN ENDERT and held off BETTIOL to end VALVERDE's four-year winning streak",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ALAPHILIPPE waited until final Mur ascent to attack, departing from typical early-move strategy that characterized his 2015-2016 podiums.",
+      "Quick-Step sent LANDA in early breakaway at first Mur crossing, forcing rivals to chase while ALAPHILIPPE preserved energy.",
+      "BETTIOL showed unexpected climbing punch to finish third, marking him as dangerous late-race aggressor on steep finale walls."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: third podium transformed to victory by delaying final move to last 200m versus premature 2015-2016 attacks",
+      "VALVERDE Alejandro": "negative: four-peat winner beaten despite favored status, suggesting vulnerability when opponents delay attacks until steepest pitch",
+      "BETTIOL Alberto": "positive: Milan-Sanremo winner's third place confirms he can sustain efforts on repeated steep walls, not just one-day flat classics",
+      "LANDA Mikel": "neutral: early breakaway role at first Mur crossing reveals Quick-Step willing to sacrifice GC riders as tactical pawns"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:29:00.308298+00:00"
+}

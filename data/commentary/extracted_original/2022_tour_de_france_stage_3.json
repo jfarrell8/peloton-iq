@@ -1,0 +1,24 @@
+{
+  "label": "2022 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-03",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DE LA CRUZ Dylan won from bunch sprint after solo CORT Magnus collected all KOM points uncontested for 182km.",
+    "winner": "DE LA CRUZ Dylan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Magnus CORT solo breakaway for KOM points went uncontested by entire peloton despite telegraphed attack from opening pedal strokes.",
+      "Quick Step attempted hat-trick of stage wins with LAMPAERT leading out but GROENEWEGEN attacked through center gap successfully.",
+      "Crash at 11km caused GC time splits before 3km rule despite calm 12-13kph winds suggesting positioning not aggressive enough."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: Six consecutive KOM wins shows peloton willing to gift jersey rather than contest early breakaways on flat stages.",
+      "GROENEWEGEN Dylan": "positive: First Tour win in three years finding gap through center when LAMPAERT leadout boxed in traditional sprint trains.",
+      "VAN AERT Wout": "negative: Boxed in sprint position for second consecutive stage despite Jumbo-Visma resources suggests leadout coordination problems."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:52:38.582009+00:00"
+}

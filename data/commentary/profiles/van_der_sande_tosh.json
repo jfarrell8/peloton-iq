@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches aggressive attacks inside 1km on uphill finishes, often going early enough to gain a gap but mistiming the final sprint. Shows willingness to attack from breakaways on technical finales.",
+  "team_tactics": "Appears to operate with limited team support, relying on personal timing rather than leadout trains. Exploits when sprinters' teams lose control on gradient changes.",
+  "terrain_preference": "Steep uphill finishes and technical finales where pure sprinters struggle. Thrives in reduced bunch scenarios where gradient disrupts organized leadouts.",
+  "vulnerability": "Timing judgment on uphill attacks—goes too early inside final kilometer, allowing others to close gap and outpace in final meters. Third places suggest strong but not strongest kick.",
+  "key_patterns": [
+    "Attacks prematurely inside final 1km on uphill finishes, gaining gaps but fading to third (2 observations)",
+    "Performs well in technical/challenging finales requiring positioning skill over pure power (2 observations)",
+    "Operates from breakaways or reduced groups rather than mass bunch sprints (2 observations)"
+  ],
+  "form_trajectory": "neutral: showed consistent ability to contest uphill/technical finishes but repeated third places indicate plateau rather than progression",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VAN DER SANDE Tosh",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 14",
+    "2019 Vuelta a Espana Stage 14",
+    "2019 Vuelta a Espana Stage 8"
+  ]
+}

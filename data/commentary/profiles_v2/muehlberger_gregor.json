@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not appear to be a primary attacker; positioned as a finisher on climbing stages where pure sprinters are dropped, using team positioning to contest reduced bunch sprints.",
+  "team_tactics": "Bora deploys him as a secondary option on hilly stages, providing leadouts into technical or climbing-influenced finales where pure sprinters cannot survive.",
+  "terrain_preference": "Climbing stages with sprint finishes suit him best, where reduced bunch allows him to leverage positioning. Headwinds and technical finales expose tactical inexperience.",
+  "vulnerability": "Tactical indecisiveness in sprint execution against experienced finishers; struggles to convert strong positioning into wins when racing requires quick decision-making.",
+  "key_patterns": [
+    "Positioned for finishes on climbing stages, not flat sprint stages (2 observations)",
+    "Relies heavily on team leadout positioning rather than solo attacking (2 observations)",
+    "Fails to convert advantageous positions into wins, showing tactical inexperience (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent role as secondary finisher, but recurring tactical hesitation suggests development plateau rather than progression",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MUEHLBERGER Gregor",
+  "built_from": [
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2019 Criterium du Dauphine Stage 6"
+  ]
+}

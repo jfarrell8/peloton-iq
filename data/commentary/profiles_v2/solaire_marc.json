@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Specializes in perfectly timed solo attacks late in races, typically on climbs or finishing circuits when peloton organization breaks down. Strikes with 1-3km remaining on final ascents, exploiting hesitation in chase groups.",
+  "team_tactics": "Operates with minimal team support, often working from domestique role into opportunistic breakaways. Self-sufficient raider who bridges solo to breaks rather than being prepositioned.",
+  "terrain_preference": "Category 1 climbs and technical finishing circuits suit best. Excels on repeated short climbs where resilience and recovery matter. Thrives in chaotic, disorganized race situations where reading ability trumps raw power.",
+  "vulnerability": "Initial difficulty on first climb passages before recovering suggests early-race struggles or slow warmup. Relies on peloton disorganization—unlikely to succeed against coordinated chase from strong teams.",
+  "key_patterns": [
+    "Solo late attacks (3 observations): strikes alone with timing precision, not in groups",
+    "Exceptional race-reading in chaos: capitalizes when peloton caught or disorganized (2 observations)",
+    "Bridge specialist: solo efforts to join or create breaks mid-race (2 observations)",
+    "Resilience/recovery ability: shows unusual capacity to bounce back after struggling (2 observations)",
+    "Holds narrow gaps: wins by 6-22 seconds, sufficient power to maintain but not dominate"
+  ],
+  "form_trajectory": "positive: 2022 Vuelta showed evolution from pure domestique to resilient attacker, successfully defending solo efforts across multiple race types",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SOLAIRE Marc",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 11",
+    "2021 Tour de Romandie Stage 3",
+    "2021 Tour de Romandie Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 5"
+  ]
+}

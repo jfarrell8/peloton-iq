@@ -1,0 +1,28 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 14",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-28",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BARGUIL Romain attacked from 18-rider breakaway on final climb, dropped rivals with 6.2km to go after VINE crashed but remarkably finished third.",
+    "winner": "BARGUIL Romain",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "18-rider breakaway quality forced GC teams to react; DSM's numbers allowed BARGUIL tactical freedom to attack chapela late.",
+      "LOPEZ Miguel Angel tested ROGLIC on final climb but ROGLIC's counter-sprint suggests he's deliberately saving energy while marking.",
+      "VINE Jay recovered from crash to finish third, revealing breakaway riders given excessive leeway by peloton on steep gradients."
+    ],
+    "rider_signals": {
+      "BARGUIL Romain": "positive: DSM transfer vindicated with first GT win outside France, positioned ahead of feared rival Champoussin before final climb",
+      "VINE Jay": "positive: crashed mid-stage but recovered to podium, shows resilience beyond typical breakaway specialist",
+      "LOPEZ Miguel Angel": "neutral: attacked ROGLIC but gap immediately closed, suggesting probing rather than genuine form advantage",
+      "ROGLIC Primoz": "positive: shut down LOPEZ then counter-sprinted hard, implying confidence to burn matches defending rather than conserving",
+      "EIKING Odd Christian": "negative: lost 2 seconds to MARTIN in sprint, gap now only 54s suggests red jersey under genuine threat",
+      "VAN MOER Brent": "negative: crashed with NAVARRO taking his front wheel in corner while in winning position from breakaway",
+      "CHAMPOUSSIN Clément": "negative: BARGUIL identified him as most feared rival but couldn't follow on final climb despite DSM pacing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:42:16.076009+00:00"
+}

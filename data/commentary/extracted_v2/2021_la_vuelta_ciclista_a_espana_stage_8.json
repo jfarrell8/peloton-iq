@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 8",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-21",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the sprint after skipping the intermediate sprint to conserve position, taking green jersey from PHILIPSEN on countback.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck attempted splits 30km out using crosswinds but elite GC riders like Nielsen got caught showing vulnerability.",
+      "Jakobsen deliberately skipped intermediate sprint while Philipsen contested it, preserving leadout train positioning for finale superiority.",
+      "SENECHAL Florian's extended leadout caused Merlier to lose contact with own train, revealing Quick-Step pace superiority fractures rival teams."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Won after strategic intermediate sprint skip, indicating superior race craft over raw speed rival Philipsen",
+      "PHILIPSEN Jasper": "neutral: Won intermediate sprint but third in finale suggests contesting bonuses compromises final positioning",
+      "MERLIER Tim": "negative: Unable to hold position behind own leadout man, indicating fitness deficit on this sprint-heavy Vuelta",
+      "NIELSEN Magnus Cort": "negative: Caught out in 30km crosswind split despite being elite GC-capable rider, poor positioning awareness",
+      "SENECHAL Florian": "positive: Extended high-pace leadout shattered field organization, exceptional domestique performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:45:38.233935+00:00"
+}

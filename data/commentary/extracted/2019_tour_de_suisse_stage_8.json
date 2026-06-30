@@ -1,0 +1,16 @@
+{
+  "label": "2019 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-22",
+  "stage": 8,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "Insufficient commentary data to determine winner or decisive moves from this brief unclear transcript fragment",
+    "winner": "UNKNOWN",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T22:12:34.919587+00:00"
+}

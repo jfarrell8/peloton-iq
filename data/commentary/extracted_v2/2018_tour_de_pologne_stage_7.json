@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-10",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked early enough to hold 24 seconds at 500m to go, taking the stage while KWIATKOWSKI rode defensively to protect yellow despite missing time bonuses.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KWIATKOWSKI defended yellow passively without contesting bonus seconds, revealing Sky/conservative tactics prioritize gap protection over offensive racing.",
+      "PINOT Thibaut attacked after finish for bonus seconds despite stage being decided, showing aggressive pursuit of overall position.",
+      "Mitchelton-Scott's YATES descended aggressively to build 24-second gap, showing descending skills as underutilized weapon in stage-race finales."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked early and descended to build decisive 24-second gap, combining climbing and technical skills effectively",
+      "KWIATKOWSKI Michal": "neutral: defensive yellow-jersey tactics succeeded but revealed unwillingness to contest bonus seconds despite close GC",
+      "PINOT Thibaut": "positive: continued attacking post-finish for bonus seconds showing relentless GC focus even in minor placings",
+      "BENNETT George": "positive: finished ahead of Kwiatkowski in final sprint, showing unexpected sprint speed for GC rider"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:33:58.060394+00:00"
+}

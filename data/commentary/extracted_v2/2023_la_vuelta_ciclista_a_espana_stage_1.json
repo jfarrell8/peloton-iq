@@ -1,0 +1,25 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 1",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-26",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MILESI Lorenzo won Stage 1 TTT as DSM exploited early dry conditions before rain intensified, beating Movistar by 0.5s and benefiting from UAE/Jumbo crashes.",
+    "winner": "MILESI Lorenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Early start order proved decisive: DSM rode on dry/evaporating tarmac before rain intensified for later favorites.",
+      "Soudal-QuickStep kept waiting for Evenepoel through standing water/darkness, showing defensive TTT philosophy over aggressive pacing.",
+      "UAE didn't wait for Almeida after crash, revealing team hierarchy below GC leader in opening TTT."
+    ],
+    "rider_signals": {
+      "ALMEIDA Xiao": "negative: UAE left him after bike change, signaling he's not the protected GC rider",
+      "EVENEPOEL Remco": "neutral: Soudal waited through darkness/water but his post-race anger suggests mental vulnerability to adverse conditions",
+      "VINGEGAARD Jonas": "negative: Jumbo-Visma lost 32s waiting for hobbled teammates, exposing TTT depth issues",
+      "MILESI Lorenzo": "positive: DSM gave him leader jersey over Ganna, indicating possible stage-racing role expansion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:46:35.221511+00:00"
+}

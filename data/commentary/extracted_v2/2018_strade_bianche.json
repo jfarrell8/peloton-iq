@@ -1,0 +1,21 @@
+{
+  "label": "2018 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2018-03-03",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout attacked solo from a strong breakaway on white road sector, distancing chasers with superior gravel handling",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Van Aert's cyclocross background provided decisive advantage on technical white road sectors over pure road specialists.",
+      "Breakaway containing legitimate contender forced standoff in peloton, exploitable when team dynamics unclear with unknown riders."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: attacked decisively after bridging effort showed superior recovery on gravel compared to breakaway companions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:26:29.974638+00:00"
+}

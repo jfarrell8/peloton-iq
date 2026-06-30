@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 4",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-09",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVAGNA Alex attacked from 7-rider break in final 3km but was caught and outsprint by stage winner at Lago Laceno finish, while LEKNESSUND Andreas took pink by gaining 2:00+ on peloton.",
+    "winner": "CAVAGNA Rémi",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "UAE Emirates caught napping with leader MAIOLA dropped early at 95km+ into stage, required tow back to bunch.",
+      "LEKNESSUND collected 3 bonus seconds at final intermediate sprint despite being in break, tactical awareness for GC calculation.",
+      "VAN WILDER Ilan last DSM domestique dropped inside 3km, suggesting team rode front of GC group longer than competitors."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: youngest breakaway rider at 23 took pink jersey by 28 seconds, showing maturity to manage 80km break formation",
+      "MAIOLA Davide": "negative: UAE leader caught out in early split requiring teammate assistance, vulnerability on difficult parcours",
+      "EVENEPOEL Remco": "neutral: willingly relinquished pink jersey control to DSM, conserving resources after three days defending"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:44:56.778598+00:00"
+}

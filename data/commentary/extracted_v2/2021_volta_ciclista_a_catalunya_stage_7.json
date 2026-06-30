@@ -1,0 +1,27 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-28",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEGENT Thomas attacked MOHORIČ Matej on the final climb of a 5-lap circuit with 3km to go, exploiting Mohorič's tactical decision to keep pulling despite having teammate SOLER Marc in the chase group.",
+    "winner": "DEGENT Thomas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar let 5-minute break with multiple own riders go instead of chasing for VALVERDE stage win/podium despite past success here.",
+      "MOHORIČ waited for DEGENT after dropping him every descent, telegraphing weakness and enabling final climb counter-attack with 3km remaining.",
+      "INEOS used CARAPAZ Richard as domestique to police climbers despite being Giro champion, revealing hierarchy prioritization over individual ambitions.",
+      "Lotto-Soudal bookended race with stage wins (KRON, DEGENT) via breakaway control, not GC firepower, signaling viable alternative tactical model."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: First World Tour GC win in Europe, improved TT losing only 7s to Almeida on stage 2 versus 30s+ to Pogačar in UAE Tour",
+      "THOMAS Geraint": "positive: Last-kilometer surge on climbs showing 2018-level form, concerning signal for Tour rivals if he maintains trajectory",
+      "VALVERDE Alejandro": "positive: At 41, still Movistar's strongest climber per stage 3 performance, warranted more team commitment than SOLER breakaway play",
+      "MOHORIČ Matej": "negative: Tactical passivity waiting for DEGENT on descents despite superior descending, should have forced harder pace knowing KELDERMAN chase threatened",
+      "CARAPAZ Richard": "neutral: Reigning Giro champion relegated to policing breakaways (stage 4 mass chase), signals INEOS views him as super-domestique not co-leader"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:59:21.325656+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Long-range breakaway specialist who escapes early (80-90km out) then makes decisive tactical moves inside final 12-15km. Capable of both sustained efforts and explosive sprint finishes from reduced groups.",
+  "team_tactics": "Team softens pursuit through domestique presence (GAMPER, GAUTIER at Dauphiné) while Van Moer stays clear. Benefits from teammates infiltrating chase groups to control pace behind breakaways.",
+  "terrain_preference": "Circuit finishes and rolling terrain where breakaways can survive. Strong on KOM points collection, suggesting comfort on repeated moderate climbs. Thrives when breakaway margins are manageable (6-7 minutes) requiring late tactical racing.",
+  "vulnerability": "Misjudges effort timing on early bridges, fading from decisive selections after premature attacks (Dwars door Vlaanderen 90km effort). Bike-handling liability in peloton crashes. Struggles when selections become too selective for his power profile.",
+  "key_patterns": [
+    "Wins exclusively from long-range breakaways, never from bunch sprints or late attacks. (3 wins observed)",
+    "Makes tactical pivots inside final 12-15km after extended breakaway efforts, showing strong endurance reserve management.",
+    "Demonstrates superior sprint power from breakaway groups, winning from poor positions and outkicking specialists.",
+    "Collects KOM points opportunistically while in breaks, suggesting aggressive comprehensive breakaway commitment.",
+    "Bridges aggressively but tends to overcommit early, fading when initial efforts exceed 80-90km from finish."
+  ],
+  "form_trajectory": "negative: 2022 showed misjudged early effort at Dwars door Vlaanderen after successful 2021 breakaway wins, suggesting tactical regression or declining form",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "VAN MOER Brent",
+  "built_from": [
+    "2021 Criterium du Dauphine Stage 1",
+    "2021 Criterium du Dauphine Stage 1",
+    "2021 Tirreno-Adriatico Stage 6",
+    "2021 Tirreno-Adriatico Stage 6",
+    "2021 Tour de France Stage 19",
+    "2021 Tour de France Stage 4",
+    "2022 Dwars door Vlaanderen"
+  ]
+}

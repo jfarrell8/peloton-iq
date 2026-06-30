@@ -1,0 +1,26 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 3",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-04",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MCCARTHY Jay won the sprint finish with a perfectly timed kick, half a bike length ahead of MÜHLBERGER Gregor, while MATTHEWS Michael disappeared.",
+    "winner": "MCCARTHY Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MCCARTHY Jay's punchy kick sprint unsuited to pure sprinters; MATTHEWS Michael completely out of position suggests transition stages expose specialists.",
+      "ALAPHILIPPE Julian sprinted hard for bonus seconds despite no win chance, revealing GC time gaps tight enough for aggressive accumulation.",
+      "KWIATKOWSKI Michał did extensive leadout work then contested sprint himself, indicating tactical flexibility when team sprinter absent or struggling."
+    ],
+    "rider_signals": {
+      "MCCARTHY Jay": "positive: demonstrated superior punch-sprint timing on transition finishes, half-bike win suggests explosive acceleration advantage over fastmen on rolling terrain",
+      "MATTHEWS Michael": "negative: completely absent from sprint finish despite being pre-race favorite, signals weakness on punchy rollers or positioning collapse",
+      "ALAPHILIPPE Julian": "positive: actively contested bonus seconds despite no win threat, shows GC aggression and confidence in time trial capability",
+      "KWIATKOWSKI Michał": "neutral: performed leadout duties then sprinted competitively, tactical utility player role but lacked finishing punch against specialists",
+      "MÜHLBERGER Gregor": "positive: second place after extended leadout work shows unusual sprint capacity for domestique role, possible breakaway threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:28:23.312460+00:00"
+}

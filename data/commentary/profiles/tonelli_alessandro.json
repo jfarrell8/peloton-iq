@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Engages in late-race breakaway attempts, typically in the closing kilometers when the main field is still organized. Shows willingness to attack solo or in small groups without team support.",
+  "team_tactics": "Operates with minimal team support, often the last or only Bardiani rider in contention. No evidence of coordinated team leadout or tempo control - relies on individual opportunism.",
+  "terrain_preference": "Insufficient data to determine specific terrain preferences. Has shown ability to survive in WorldTour-level races across varied parcours.",
+  "vulnerability": "Lacks team support in decisive moments, making it difficult to sustain attacks against organized opposition. Breakaway attempts have been absorbed before the finish.",
+  "key_patterns": [
+    "Frequently isolated without teammates in finale, must rely entirely on individual strength (2 instances)",
+    "Attempts late-race moves that are ultimately unsuccessful, absorbed by organized peloton or favorites",
+    "Capable of holding position in reduced groups despite lack of team support"
+  ],
+  "form_trajectory": "unknown: insufficient recent data and too large gap between observations to assess trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "TONELLI Alessandro",
+  "built_from": [
+    "2019 Tirreno-Adriatico Stage 3",
+    "2022 UAE Tour Stage 6"
+  ]
+}

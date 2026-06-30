@@ -1,0 +1,42 @@
+{
+  "attacking_style": "Late-climb attacker who typically moves inside final 5km, especially on steep gradients in final 500m-2.5km. Prefers tactical positioning over long-range moves, showing patience to counter or sprint from reduced groups.",
+  "team_tactics": "Team plants domestiques ahead for crucial pacing on decisive climbs (Kemner 2022 Giro). Benefits from dual GC card strategy creating tactical complexity. Tempo control less emphasized than strategic positioning.",
+  "terrain_preference": "Excels on steep-gradient finishes where gradients kick up in final kilometers. Strong on multi-climb mountain stages where positioning and late accelerations matter more than sustained power. Sprint from reduced groups is a weapon.",
+  "vulnerability": "Time trialing is critical weakness - lost 39 seconds in 15.7km ITT when GC-tied (2020), though improved by 2022 to match Carapaz. Cramping issues suggest pacing or recovery problems when racing into form.",
+  "key_patterns": [
+    "Launches attacks inside final 5km on decisive climbs, not long-range moves (2022 Giro, UAE Tour)",
+    "Superior on steep gradients, particularly final 500m kicks (Dauphine 2023, UAE Tour 2020)",
+    "Strong positioning sense in finale: won corner battle for sprint, took bonus seconds via photo finish",
+    "Time trial weakness improved 2020-2022: lost 39s to Geoghegan Hart, matched Carapaz within 1s two years later",
+    "Tactically patient: wheel-sits stronger riders before late attacks (Stelvio 2020, followed Nibali chase 2022)",
+    "Cramping under pressure suggests form/pacing vulnerabilities when building condition (Romandie 2023)"
+  ],
+  "form_trajectory": "neutral: 2023 Tour podium confirmed Giro form translates beyond single race, but Romandie cramping suggests inconsistent condition. Peak performance remains Giro-focused but broader GC threat emerging.",
+  "races_analysed": 18,
+  "confidence": "high",
+  "rider_name": "HINDLEY Jai",
+  "built_from": [
+    "2020 Giro d'Italia Stage 17",
+    "2020 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 19",
+    "2020 Giro d'Italia Stage 20",
+    "2020 Giro d'Italia Stage 21",
+    "2020 UAE Tour Stage 2",
+    "2020 UAE Tour Stage 4",
+    "2021 Paris-Nice Stage 8",
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 20",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Giro d'Italia Stage 9",
+    "2022 Giro d'Italia Stage 9",
+    "2023 Criterium du Dauphine Stage 7",
+    "2023 Tour de France Stage 5",
+    "2023 Tour de France Stage 5",
+    "2023 Tour de France Stage 6",
+    "2023 Tour de Romandie Stage 2"
+  ]
+}

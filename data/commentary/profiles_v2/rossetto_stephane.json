@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Participates in planned breakaways rather than late-race attacks. Appears in multi-rider moves with team support, though struggles to maintain pace when racing intensifies.",
+  "team_tactics": "Cofidis deploys multiple riders to breakaways (2+ riders committed), following standard French team pattern of numerical presence in early moves rather than late positioning for leaders.",
+  "terrain_preference": "Best suited to flatter breakaway stages where sustained tempo matters more than explosive climbing. Exposed on steep climbs like Roche-aux-Faucons where pure climbing power required.",
+  "vulnerability": "Cannot sustain pace when break collaborations intensify - dropped 10-12 seconds from partner during Vuelta break. Lacks ability to hold position when caught on major climbs.",
+  "key_patterns": [
+    "Deployed in multi-rider breakaway formations with teammates - pattern across both races observed",
+    "Struggles to maintain contact with break companions when pace increases under pressure",
+    "Cofidis uses him in standard French tactics: early numerical breakaway presence, not late positioning"
+  ],
+  "form_trajectory": "negative: Most recent observation (2018 Vuelta) showed inability to match planned break partner's pace",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ROSSETTO Stephane",
+  "built_from": [
+    "2017 Liege-Bastogne-Liege",
+    "2018 Vuelta a Espana Stage 5"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-04",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "IZAGIRRE Gorka won stage 11 after repeatedly covering early breakaway attacks, then soloing in final 1.5km when chasers hesitated.",
+    "winner": "IZAGIRRE Gorka",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "IZAGIRRE exposed himself covering every attack in 14-rider break, but this aggressive policing left him freshest for final move.",
+      "O'CONNOR attacked early in breakaway to test who would chase, immediately revealing IZAGIRRE as primary threat before paying price later.",
+      "Chasers hesitated when within 10 seconds with 1500m remaining, allowing IZAGIRRE's solo to stick despite group momentum advantage.",
+      "Dimension Data placed two riders (O'CONNOR 37min down, AMANUEL 38min down) in break, rare GC positioning tactic for wildcard team."
+    ],
+    "rider_signals": {
+      "IZAGIRRE Gorka": "positive: showed counterintuitive freshness after chasing everything early, suggests exceptional recovery capacity within breakaways",
+      "CRADDOCK Lawson": "positive: second consecutive day bridging gaps aggressively, finished third after massive effort suggests improved grand tour form",
+      "O'CONNOR Ben": "negative: tactical attack smart but paid immediately, went red zone and dropped on climbs afterward",
+      "HAUSER Damien": "positive: bridged multiple times solo showing power, but lacked final kick when group reformed",
+      "CAVAGNA Rémi": "neutral: attacked late with apparent strength but caught in final hesitation that cost group the win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:06:38.054964+00:00"
+}

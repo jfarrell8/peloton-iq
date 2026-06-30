@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data to determine attacking patterns. Observed as sprinter being led out rather than attacking independently.",
+  "team_tactics": "UAE employs flexible sprint train hierarchy with DEGENKOLB sometimes holding wheel through corners rather than leading out, suggesting adaptive positioning based on race situation.",
+  "terrain_preference": "Appears positioned for sprint finishes, though specific terrain preferences cannot be determined from single observation.",
+  "vulnerability": "Lack of established lead-out hierarchy may indicate uncertain sprint train dynamics or development phase within UAE structure.",
+  "key_patterns": [
+    "Insufficient repeated observations to establish reliable patterns across multiple races."
+  ],
+  "form_trajectory": "unknown: single 2019 Vuelta observation insufficient to determine trajectory or current form",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KIRSCH Alex",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 21",
+    "2019 Vuelta a Espana Stage 21"
+  ]
+}

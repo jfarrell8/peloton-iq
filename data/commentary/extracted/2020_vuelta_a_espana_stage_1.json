@@ -1,0 +1,31 @@
+{
+  "label": "2020 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-20",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked before the final twists of the category 1 summit finish after KUSS shelled the group, taking both the stage and red jersey by 5 seconds over CARAPAZ.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KUSS paced so hard on final climb that GC contenders couldn't contest KOM points even if they wanted, gifting him polka dots.",
+      "ROGLIČ attacked just before technical finish twists, exploiting hesitation between CARAPAZ and MARTIN who played cat-and-mouse instead of chasing immediately.",
+      "Jumbo-Visma placed 5 riders in top 10 on a mountain stage, demonstrating tactical depth rendering individual GC rivals helpless.",
+      "EF's double GC crash (MARTÍNEZ early, WOODS on narrow pinch zone) reveals vulnerability on wet narrow roads before key climbs."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: paced final climb so violently that he won KOM by default while working, suggesting untapped stage-winning potential when unleashed",
+      "ROGLIČ Primož": "positive: attacked tactically before finish twists rather than on steep gradient, showing race craft beyond pure power",
+      "CARAPAZ Richard": "neutral: chased ROGLIČ for second but hesitated initially in cat-and-mouse with MARTIN, suggesting strategic uncertainty without team support",
+      "FROOME Chris": "negative: struggled on descent and couldn't follow on final climb, already appearing to pack it in on stage 1",
+      "WOODS Michael": "negative: crashed on narrow pinch zone mid-race, eliminated from stage win contention despite being pre-race favorite",
+      "MARTÍNEZ Daniel Felipe": "neutral: remounted after early crash and rejoined via 6.5-mile chase with OWEN, ankle complaint but finished",
+      "MAS Enric": "positive: took white jersey 50 seconds ahead of second-placed young rider, nearly as impressive as ROGLIČ in GC demolition",
+      "VALVERDE Alejandro": "negative: lost over a minute on final climb, dropped from key GC group",
+      "SOLER Marc": "negative: had a hard day, losing over a minute with VALVERDE"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:41:33.986110+00:00"
+}

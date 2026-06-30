@@ -1,0 +1,26 @@
+{
+  "label": "2019 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won the opening ITT by 19 seconds over YATES Simon, using superior climbing power on the steep 2km finale.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ took 23 seconds on NIBALI and 19 on YATES in just 2km of climbing, revealing exceptional steep gradient power.",
+      "YATES Simon lost 18 seconds to ROGLIČ in flat section but limited climbing losses, signaling changed ITT pacing strategy.",
+      "NIBALI surprised with 5 seconds faster than time trial specialist DUMOULIN, exploiting local knowledge from Giro dell'Umbria reconnaissance."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Won all three stage races in 2019 before Giro, showing unprecedented consistency and peak timing",
+      "YATES Simon": "positive: Second place despite losing 18 seconds on flat suggests he sacrificed early watts to preserve climbing legs",
+      "NIBALI Vincenzo": "positive: Beat world TT champion Dumoulin by riding same climb in competition two years prior at Giro dell'Umbria",
+      "DUMOULIN Tom": "negative: Former world TT champion beaten by both NIBALI and YATES, suggesting form concerns despite benchmark-setting early start",
+      "DENNIS Rohan": "neutral: Mechanical issues prevented clean ride, rendering performance uninterpretable for form assessment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:47:31.507626+00:00"
+}

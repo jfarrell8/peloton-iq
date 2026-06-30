@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-07",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANA Filippo soloed from a 3-man break remnant with 7km to go on the descent, winning by 34 seconds while THOMAS attacked the GC group with 20km left on the 24km climb.",
+    "winner": "GANA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS attacked with 20km remaining on 24km climb, forcing ALMEIDA/GC to respond mid-climb rather than at summit.",
+      "GANA recognized cooperation breakdown in 3-man break, attacked on descent with 7km left when gaps already visible.",
+      "KELDERMAN dropped on final climb despite being only 48 seconds down, revealing vulnerability on long shallow gradients."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: attacked GC group with 10k climbing still remaining, forcing tempo increase mid-ascent",
+      "GANA Filippo": "positive: first non-TT victory, showed ability to recognize tactical moment and execute solo descent",
+      "KELDERMAN Wilco": "negative: dropped on 24km climb despite being close on GC, concerning for long mountain stages",
+      "ALMEIDA Joao": "positive: extended GC lead to 43 seconds after responding to THOMAS attack, took bonus seconds at finish",
+      "KONRAD Patrick": "positive: took bonus seconds at finish despite not being in early break, smart positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:15:51.827742+00:00"
+}

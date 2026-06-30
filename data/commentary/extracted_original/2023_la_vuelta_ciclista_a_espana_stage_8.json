@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 8",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-02",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp attacked 3km from final climb summit, gained enough time to take race lead while ROGLIC won stage sprint from reduced group",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deployed VALTER and VINGEGAARD pacing to isolate MARTINEZ, preventing EVENEPOEL from attacking with three-rider numerical advantage retained.",
+      "KUSS attacked for race lead not stage win, demonstrating team hierarchy where GC ambition splits from stage hunting responsibilities.",
+      "EVENEPOEL led out finale despite being outnumbered three-to-three, revealing reluctance to let UAE/Jumbo control closing kilometers even when tactically disadvantaged."
+    ],
+    "rider_signals": {
+      "MARTINEZ Lenny": "negative: Lost 1:09 to leaders 3km from summit, showing insufficient climbing form when pace lifted beyond threshold on steep gradients",
+      "KUSS Sepp": "positive: Attacked for time gaps rather than stage victory, demonstrating confidence in sustained climbing power over explosive finish speed",
+      "EVENEPOEL Remco": "neutral: Coped extraordinarily well with steep percentages but led out sprint from disadvantaged position, suggesting frustration with tactical isolation",
+      "ROGLIC Primoz": "positive: Reserved enough after hard climb to outsprint AYUSO and EVENEPOEL, indicating superior recovery within reduced gruppo",
+      "AYUSO Juan": "positive: Second place from steep finish despite crash earlier, UAE's three-rider presence signals genuine GC depth beyond ALMEIDA"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:08:39.440223+00:00"
+}

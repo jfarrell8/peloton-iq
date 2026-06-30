@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Targets penultimate climbs for attacks, demonstrating a preference for setting up moves before the final ascent. Opportunistically infiltrates breakaways on varied terrain to accumulate KOM points.",
+  "team_tactics": "Operates with significant autonomy, often riding for personal objectives (KOM classification) rather than strict team hierarchy. Limited evidence of dedicated domestique support for attacks.",
+  "terrain_preference": "Multi-climb stages where penultimate ascents allow selection before finale. Adapts well to non-mountain stages with classified climbs for opportunistic points gathering.",
+  "vulnerability": "Vulnerable to stronger riders bridging solo attacks and refusing cooperation. Lacks explosive power to sustain attacks when tactical cooperation breaks down on final climbs.",
+  "key_patterns": [
+    "Attacks on penultimate climbs rather than saving effort for final ascent (2 observations)",
+    "Actively pursues KOM classification through strategic breakaway infiltration across stage types (2 observations)",
+    "Susceptible to tactical isolation when bridging riders refuse to share workload (2 observations)"
+  ],
+  "form_trajectory": "unknown: 5-year gap between observations makes trajectory assessment impossible, though 2022 shows continued KOM hunting capability",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ROLLAND Pierre",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2022 Criterium du Dauphine Stage 6"
+  ]
+}

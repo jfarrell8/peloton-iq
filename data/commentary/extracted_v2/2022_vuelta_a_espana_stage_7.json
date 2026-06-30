@@ -1,0 +1,25 @@
+{
+  "label": "2022 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HIRATA Pacie won from a 6-rider breakaway at the line, outpositioned WRIGHT Fred who was strongest but led out the sprint from too far",
+    "winner": "HIRATA Pacie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WRIGHT Fred strongest but inexperienced, led out sprint from front and got passed in final meters by positioning.",
+      "Trek controlled category-1 climb for PEDERSEN to drop BENNETT, prioritizing green jersey over stage hunting.",
+      "EVENEPOEL held red jersey through flat stage with minimal team support, Quick-Step saving energy before weekend mountains."
+    ],
+    "rider_signals": {
+      "WRIGHT Fred": "negative: clearly strongest in break but tactically naïve, slammed handlebars after leading out sprint and finishing second",
+      "HIRATA Pacie": "positive: 33-year-old with experience beat younger stronger riders purely on positioning confidence, fourth wheel into sprint",
+      "PEDERSEN Mads": "neutral: Trek working for him on climbs to drop BENNETT for green jersey rather than stage wins despite three second places",
+      "BENNETT Sam": "negative: lost 29 seconds on category-1 climb despite Trek pace-making, green jersey under real threat from better climbers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:34:11.024290+00:00"
+}

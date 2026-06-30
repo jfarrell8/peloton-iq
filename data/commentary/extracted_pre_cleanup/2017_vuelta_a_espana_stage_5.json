@@ -1,0 +1,29 @@
+{
+  "label": "2017 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-23",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alexey attacked solo on final 20% descent from 4-man breakaway, held 42 seconds to win at Alto de Cabra",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LUTSENKO attacked before the climb started, not on steep sections, using tailwind and pre-positioning to maximize descent advantage.",
+      "Team Sky controlled peloton with calculated concession strategy, allowing 4-5 minute gap knowing break would fragment on 10% finish.",
+      "FROOME's team paced steadily to gain time on rivals while avoiding work, taking 8 seconds on VAN GARDEREN without effort."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: at 24, showed mature tactical anticipation attacking before climb, not on it, confirming progression pattern from Swiss/Nice stages",
+      "CONTADOR Alberto": "positive: described as 'reborn' leading favorites group, significant context signal given his decline narrative entering race",
+      "KUDUS Merhawi": "positive: finished second at 42 seconds in select break group, strong positioning for Eritrean on punchy summit finish",
+      "SOLER Marc": "neutral: made early 16-rider break but couldn't follow final moves, useful baseline for his climbing ceiling",
+      "ALAPHILIPPE Julian": "neutral: present in key 16-rider move but didn't animate finale, reserving for different terrain profile",
+      "FERNÁNDEZ Rubén": "neutral: made key early selection but lacked descending speed to follow LUTSENKO's explosive descent acceleration",
+      "CHAVES Esteban": "positive: jumped from 6th to 3rd GC without visible effort, positioning behind FROOME group suggests tactical restraint",
+      "VAN GARDEREN Tejay": "negative: lost 8 seconds to main GC group despite no attacks, red flag for sustained steep gradient weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:19:08.176729+00:00"
+}

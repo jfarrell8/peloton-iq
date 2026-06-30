@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-28",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "FUGLSANG attacked solo on the final climb, held off BETANCUR and ROGLIC on descent, won stage and took yellow by 8 seconds",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC marked BETANCUR's repeated attacks while sitting, conserving energy by staying seated versus out-of-saddle efforts.",
+      "BETANCUR attacked multiple times on climb but tempo-controlled seated responses from ROGLIC neutralized each acceleration.",
+      "FUGLSANG attacked in yellow jersey opportunistically when rivals were recovering from their own attacks.",
+      "Final climb positioning allowed FUGLSANG to go straight through without chasing, exploiting opponents' marking each other."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: Won from yellow jersey with bold attack, suggesting confidence to defend rather than conservative riding",
+      "ROGLIC Primoz": "positive: Controlled BETANCUR's attacks through superior seated power management, limiting energy expenditure",
+      "BETANCUR Carlos": "negative: Multiple attacks failed to drop ROGLIC, suggesting insufficient power delta despite aggressive intent",
+      "PORTE Richie": "negative: Lost 35 seconds after following early moves, poor positioning for final climb selection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:34:44.964242+00:00"
+}

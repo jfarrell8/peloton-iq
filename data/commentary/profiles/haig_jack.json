@@ -1,25 +1,30 @@
 {
-  "attacking_style": "Relies primarily on sustained climbing pace rather than explosive attacks. Shows ability to follow key selections and maintain position in elite GC groups through consistent power output.",
-  "team_tactics": "Bahrain employs elimination tactics through brutal sustained tempo-setting (multiple observations). Can burn through domestiques quickly with aggressive pacing strategies, sometimes misjudging resource management.",
-  "terrain_preference": "Excels on high-altitude sustained climbs (2135m+ demonstrated strength). Performs well in prolonged grinding efforts that favor steady power over explosive accelerations. Shows competence in time trials under pressure.",
-  "vulnerability": "Poor pacing judgment when domestiques commit early—suffers when GC attacks come after team resources exhausted. Struggles when left without team support, though shows individual resilience to limit losses.",
+  "attacking_style": "Rarely initiates attacks; prefers to match moves from GC contenders in final groups. Operates defensively in final climb selections, lacking explosive acceleration to bridge or create gaps.",
+  "team_tactics": "Team uses domestiques (MÄDER, PADUN) for early climb pace-setting then sacrifices them before finale. Insurance breakaway positioning when GC under threat. Limited high-mountain support in final kilometers.",
+  "terrain_preference": "Steep punchy finishes suit him better than extended high-mountain slogs. Strong time trialist who can defend GC positions against the clock. Struggles on climbs requiring repeated accelerations or long-range bridging efforts.",
+  "vulnerability": "Cannot respond when top GC riders accelerate hard (evidenced by inability to follow ROGLIČ). Lacks offensive firepower when isolated without teammates. Exposed when race becomes explosive rather than steady-state climbing.",
   "key_patterns": [
-    "Sets or benefits from brutal elimination pace on climbs (3 instances across Vuelta)",
-    "Makes key GC selections, distancing top riders like Bernal/Yates through sustained efforts",
-    "Demonstrates high-altitude climbing strength above 2000m (Catalunya, Vuelta mountain stages)",
-    "Resource management issues: burns domestiques early then vulnerable to later attacks (2 documented instances)",
-    "Strong mental resilience in ITTs and when isolated, holding positions despite pressure"
+    "Defensive GC rider: holds position rather than attacks, three Vuelta stages show reactive racing.",
+    "Strong time trialist: superior ITT execution defended podium under pressure versus YATES.",
+    "Early breakaway insurance: positioned in break when GC threatened, tactical safety net approach.",
+    "Finishes best without teammates: fourth twice without support, suggests self-sufficient climbing ability.",
+    "Reliable domestique background: protected EWAN when at Orica, shows tactical discipline and team-first mentality."
   ],
-  "form_trajectory": "neutral: 2023 observation shows continued climbing strength in support role, but limited recent GC leadership data to assess current podium-contending form versus 2021 Vuelta",
-  "races_analysed": 6,
-  "confidence": "medium",
+  "form_trajectory": "neutral: 2023 shows relegation to safety-net breakaway role rather than outright GC leader, suggesting diminished status since 2021 Vuelta podium",
+  "races_analysed": 10,
+  "confidence": "high",
   "rider_name": "HAIG Jack",
   "built_from": [
+    "2017 Tour de Pologne Stage 4",
+    "2019 Criterium du Dauphine Stage 8",
     "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 11",
     "2021 La Vuelta ciclista a Espana Stage 17",
-    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 20",
     "2021 La Vuelta ciclista a Espana Stage 20",
     "2021 La Vuelta ciclista a Espana Stage 21",
-    "2023 Volta Ciclista a Catalunya Stage 2"
+    "2021 Vuelta a Espana Stage 20",
+    "2021 Vuelta a Espana Stage 9",
+    "2023 Giro dItalia Stage 16"
   ]
 }

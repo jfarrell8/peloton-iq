@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-09",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won the bunch sprint after attacking long, while GANNA took defensive bonus seconds at intermediate sprint to protect maglia rosa.",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Maglia rosa GANNA attacked intermediate sprint for bonus seconds, defending GC rather than conserving energy for team sprinter.",
+      "MERLIER went long into closing kilometer, exploiting lead-out confusion rather than waiting for optimal launch timing.",
+      "GAVIRIA forced wrong side of lead-out Milano when barriers held, showing sprint chaos creates barrier-side positioning gambles."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: Attacking second intermediate sprint for bonus seconds shows Quick-Step prioritizing his GC defense over Viviani sprint setup",
+      "GROENEWEGEN Dylan": "neutral: Fourth place impressive for first race in nine months but lacks top-end speed, suggesting form still building",
+      "GAVIRIA Fernando": "negative: Had to navigate wrong side of own lead-out when barriers held, indicating positioning breakdown in final 200m",
+      "EWAN Caleb": "negative: Never found position for 10th place, suggesting Trek lead-out train ineffective or absent on opening sprint stage",
+      "VIVIANI Elia": "neutral: Glued to Gaviria's wheel tactically but couldn't accelerate past, revealing dependence on draft rather than independent positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:38:51.963917+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MCNULTY Brandon won from 3-rider breakaway finale after HEALY Ben attacks failed, holding off late surge from FRIGO Marco on Bergamo cobbles.",
+    "winner": "MCNULTY Brandon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HEALY Ben repeatedly attacked climbs 50km-35km out but couldn't sustain gaps on descents, signaling insufficient power reserves for solo efforts.",
+      "MCNULTY Brandon marked HEALY's moves without taking pulls, preserving sprint legs to win from select break at 500m on technical finish.",
+      "ALMEIDA Bruno lost 30+ seconds while ROGLIC Primoz's team set tempo, revealing defensive weakness of first-time GC leader on selective stage.",
+      "UAE sent MCNULTY into break while protecting ALMEIDA in GC group, demonstrating dual-objective racing with sufficient team depth."
+    ],
+    "rider_signals": {
+      "HEALY Ben": "positive: won KOM sprints and attacked multiple times 50-35km out but lacked diesel to sustain solo efforts to finish",
+      "MCNULTY Brandon": "positive: first Grand Tour stage win after tactical patience, marked without working, closed 40s gap on descent",
+      "FRIGO Marco": "positive: dropped twice but regained contact, nearly won sprint from disadvantaged position showing resilience",
+      "ALMEIDA Bruno": "negative: lost 30+ seconds as first-time Grand Tour leader under pressure from ROGLIC team tempo",
+      "ROGLIČ Primož": "neutral: team controlled pace but gained minimal time, suggests waiting for Monte Bondoni MTF"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:02:01.465044+00:00"
+}

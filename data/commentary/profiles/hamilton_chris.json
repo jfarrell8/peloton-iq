@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches solo attacks from small breakaway groups on final climbs, typically when cooperation among rivals breaks down. Shows willingness to commit early but struggles to sustain on steepest gradients.",
+  "team_tactics": "DSM deploys him as breakaway animator with autonomy to attack when group dynamics fracture. Positioned as first responder to dangerous moves but lacks sustained domestique support in finale.",
+  "terrain_preference": "Final climbs with moderate gradients where sustained power matters more than explosive watts. Thrives in small group dynamics where tactical timing can compensate for raw power deficits.",
+  "vulnerability": "Steep final ramps expose lack of reserves after initial response efforts. Cannot sustain pursuit when required to chase down accelerations on maximum gradients after early expenditure.",
+  "key_patterns": [
+    "Attacks solo from breakaway groups on final climbs when positioned (2 observations)",
+    "First to respond to dangerous moves but lacks reserves to complete pursuit (2 observations)",
+    "Exploits breakaway cooperation breakdowns to gain advantage through tactical timing (2 observations)"
+  ],
+  "form_trajectory": "negative: 2023 showed inability to sustain efforts after initial response, suggesting declining top-end power compared to 2021 attacking effectiveness",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HAMILTON Chris",
+  "built_from": [
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 12",
+    "2023 La Vuelta Ciclista a Espana Stage 9"
+  ]
+}

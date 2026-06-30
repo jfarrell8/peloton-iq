@@ -1,0 +1,32 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 2",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-03",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE won from a quality front group after GUERREIRO's attack on the final climb splintered the race, outsprinting ROGLIČ again.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana burned matches driving chase of 11-rider break but had no finisher when GUERREIRO attacked final climb.",
+      "MAS Enric's attack sheltered ALAPHILIPPE before ROGLIČ response; Quick-Step using young rider leader as domestique tactically.",
+      "MATTHEWS Michael survived into final climb selection despite being pure sprinter, signaling weakness in final ascent's difficulty.",
+      "BUCHMANN and KONRAD both finishing strongly suggests Bora sending dual climber threats on selective finishes."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: consecutive stage wins confirms peak form and ability to outsprint climbers after selective climbs",
+      "ROGLIČ Primož": "neutral: second again to ALAPHILIPPE suggests slight sprint deficit but matching climbing ability",
+      "GUERREIRO Ruben": "positive: attack on final climb created selection, showing aggressive form beyond expected level",
+      "MAS Enric": "positive: working for ALAPHILIPPE despite holding young rider jersey reveals team confidence in his condition",
+      "LANDA Mikel": "positive: made front selection with IZAGIRRE Gorka as dual Movistar threat on steep finale",
+      "IZAGIRRE Gorka": "positive: both IZAGIRRE brothers stronger on second day, suggesting slow start to stage race",
+      "BUCHMANN Emanuel": "positive: strong finish with KONRAD suggests Bora deploying multiple protected riders on hard finales",
+      "KONRAD Patrick": "positive: bridged to lead group late, indicating climbing form superior to GC positioning suggests",
+      "PRADES Eduard": "positive: sixth place surprise finish reveals climbing development beyond expectations",
+      "BILBAO Pello": "negative: disappointing result after Astana's chase work indicates form below team investment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:28:11.568087+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-03",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won Stage 3 bunch sprint with a perfectly timed bike throw over VAN AERT after getting caught in a crash at 10km to go.",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GROENEWEGEN won despite crash involvement at 10km out; adrenaline spike from near-crashes can enhance sprint performance on recovery.",
+      "VAN AERT moved left over SAGAN in final meters possibly illegally, mirroring SAGAN's own relegation incident—no consistency from officials.",
+      "CORT Magnus attacked solo at race start for uncontested KOM point to avoid tie scenarios, prioritizing mathematical certainty over energy conservation."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: first Tour stage win in nearly three years post-9-month ban, showing full sprint form recovery after controversial 2020 crash",
+      "VAN AERT Wout": "negative: three consecutive second places despite superior positioning suggests either poor bike-throw timing or tactical hesitation in final 10 meters",
+      "SAGAN Peter": "neutral: got squeezed by VAN AERT but only finished fourth, indicating declining sprint power compared to positional disadvantage",
+      "JAKOBSEN Fabio": "positive: fifth place after being on wrong side of SAGAN yesterday shows consistent positioning improvement stage-over-stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:23:46.407916+00:00"
+}

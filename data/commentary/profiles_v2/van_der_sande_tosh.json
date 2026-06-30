@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic late attacks on uphill drags and breakaway exploitation in reduced bunch scenarios. Shows willingness to attack from breakaways rather than waiting for sprint finishes.",
+  "team_tactics": "Lotto positioning skills evident in reduced bunch situations, though appears to operate with some autonomy in breakaway scenarios rather than dedicated leadout support.",
+  "terrain_preference": "Uphill drags and transition stages that reduce pure sprinter numbers. Struggles less in reduced bunch sprints than flat mass gallops, exploiting positioning over pure speed.",
+  "vulnerability": "Limited Grand Tour breakaway experience until late career suggests unfamiliarity with multi-week racing dynamics. Pure flat sprints against full sprinter contingents not preferred terrain.",
+  "key_patterns": [
+    "Breakaway specialist who finishes rather than bridges: podium results from breakaways twice observed",
+    "Prefers reduced bunch scenarios over mass sprints, attacks late rather than contests full sprint",
+    "Late-career Grand Tour breakaway debut suggests tactical evolution after nine professional seasons",
+    "Uphill finish preference: attacks on drags to surprise pure sprinters"
+  ],
+  "form_trajectory": "neutral: 2021 Tour breakaway showed continued willingness but no tactical advancement from 2019 Vuelta performances",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN DER SANDE Tosh",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 14",
+    "2019 Vuelta a Espana Stage 8",
+    "2021 Tour de France Stage 10"
+  ]
+}

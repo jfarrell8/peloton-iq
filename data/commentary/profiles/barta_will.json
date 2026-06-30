@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not an attacker - pure time trialist who excels in sustained power efforts over long ITT distances (40+ km). Focuses on pacing consistency rather than explosive attacks.",
+  "team_tactics": "Minimal team involvement visible; operates independently in ITT scenarios with strong technical execution including seamless bike changes under pressure.",
+  "terrain_preference": "Long, flat to rolling time trials where sustained aerobic power at 44+ km/h can be maintained. Technical bike handling (equipment changes) is a strength. Weakness on final punchy climbs where pure climbers gain time.",
+  "vulnerability": "Final climb finishes in time trials where pure climbers can claw back time despite being matched on flatter sections. Lost crucial seconds on stage finale despite 38km of equal power output.",
+  "key_patterns": [
+    "Exceptional ITT pacing: maintained professional-level 44 km/h speeds in first Grand Tour appearance",
+    "Strong sustained power output: matched GC contender Roglič for 38km in mountainous ITT",
+    "Technical proficiency under pressure: flawless bike changes mid-race without losing significant time",
+    "Vulnerable on steep gradients: lost stages on final climbs despite matching power earlier"
+  ],
+  "form_trajectory": "positive: Progressed from debut Grand Tour ITT competitiveness (2019) to matching elite GC riders over extended distances (2020), losing by minimal margins",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BARTA Will",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 10",
+    "2020 Vuelta a Espana Stage 13"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2022 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-24",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HIT Jan attacked with 8km remaining on Valle Santa Cristina after teammate BILBAO crashed attacking, dropped HINDLEY/CARAPAS group for solo stage win.",
+    "winner": "HIT Jan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bahrain Victorious attacked via BILBAO on final climb before leader HIT countered after crash, revealing staged team aggression.",
+      "NIBALI attacked on Mortirolo descent despite isolation, testing GC rivals' willingness to chase without team support mid-stage.",
+      "INEOS controlled early despite SIVAKOV mechanical, showing depth over individual pink jersey protection in final week.",
+      "ALMEIDA intentionally limited effort on final climb managing 15-second loss, signaling longer-range GC calculation over daily placement."
+    ],
+    "rider_signals": {
+      "HIT Jan": "positive: Solo'd final 8km Valle Santa Cristina after teammate crash disrupted group dynamics, showing opportunistic timing.",
+      "NIBALI Vincenzo": "negative: Attacked Mortirolo alone without support, lost nearly minute when isolated, exposing Astana's numerical weakness.",
+      "ALMEIDA Joao": "neutral: Deliberately paced final climb losing only 15 seconds, suggesting management rather than weakness with three-second GC gap.",
+      "BILBAO Pello": "negative: Crashed while attacking for BILBAO Mikel, creating chaos that teammate HIT exploited for stage win.",
+      "HINDLEY Jai": "positive: Gained four bonus seconds via photo finish despite losing stage, moved from seven to three seconds off pink.",
+      "SIVAKOV Pavel": "negative: Required running repairs and massive chase effort on penultimate climb, vulnerability for pink jersey defense.",
+      "CARTHY Hugh": "negative: Present early Mortirolo but dropped final climb, showed climbing form deteriorating in third week."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:08:28.594335+00:00"
+}

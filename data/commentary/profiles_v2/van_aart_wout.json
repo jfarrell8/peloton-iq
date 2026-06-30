@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic late-race attacks from breakaway positions, capable of holding off peloton surges inside final kilometer. Exploits tactical situations rather than predetermined attack points.",
+  "team_tactics": "Dual-role flexibility: capable of full domestique duties for team leaders (Vingegaard) while opportunistically pursuing personal results when tactical situation permits. Team adjusts strategy based on his intermediate sprint positioning.",
+  "terrain_preference": "Excels in breakaway scenarios on mixed terrain where power and tactical awareness matter more than pure climbing. Strong enough to bridge gaps and hold off reduced pelotons in finale.",
+  "vulnerability": "Role conflict between personal ambitions and domestique duties can force energy conservation choices. Must choose between intermediate sprint points and team support responsibilities.",
+  "key_patterns": [
+    "Toggles between personal ambition and team domestique role based on race situation",
+    "Uses intermediate sprints strategically to secure classifications early, enabling role flexibility",
+    "Thrives in late breakaway scenarios requiring sustained power and tactical timing",
+    "Capable of outsprinting breakaway companions and holding off reduced peloton pursuits"
+  ],
+  "form_trajectory": "positive: successfully secured green jersey mathematically mid-Tour, demonstrating consistency and tactical intelligence across sprint competitions",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN AART Wout",
+  "built_from": [
+    "2019 Criterium du Dauphine Stage 5",
+    "2022 Tour de France Stage 12",
+    "2022 Tour de France Stage 17"
+  ]
+}

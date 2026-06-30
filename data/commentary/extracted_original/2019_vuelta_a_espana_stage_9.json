@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-01",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR Tadej attacked multiple times in final 3km on Cortals d'Encamp MTF, dropped Quintana by 23 seconds to win Stage 9",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LOPEZ Miguel Angel attacked 18km out but Movistar ordered domestique SOLER to quit working, sabotaging own teammate's GC gain.",
+      "POGACAR repeatedly attacked after being caught by QUINTANA/VALVERDE group, wore them down through persistence rather than single explosive move.",
+      "QUINTANA sat on ROGLIC wheel despite having three Movistar teammates present, allowing rival to control chase instead of using numbers.",
+      "Crash during TV blackout destroyed LOPEZ's GC ambitions, dropping from leading break to 1:01 behind while Movistar played team politics."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: At 20 years old, won Tour de l'Avenir, California, Algarve, now first GT stage via repeated attacks against experienced climbers",
+      "LOPEZ Miguel Angel": "negative: Crashed during weather-related TV blackout after strong 18km solo attempt, lost over a minute and team support simultaneously",
+      "SOLER Marc": "negative: Visibly furious when ordered to stop working for Lopez and wait for Quintana, exposing Movistar's GC hierarchy confusion",
+      "QUINTANA Nairo": "neutral: Took red jersey but relied on Roglic's pacing instead of deploying three Movistar teammates, lost 23sec to Pogacar",
+      "ROGLIC Primoz": "negative: Set own tempo on front despite being isolated against three Movistar riders, poor tactical awareness of numbers disadvantage",
+      "VALVERDE Alejandro": "negative: Couldn't match Pogacar's accelerations in final 3km despite being with lead group, showing age limitations on explosive efforts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:22:36.362477+00:00"
+}

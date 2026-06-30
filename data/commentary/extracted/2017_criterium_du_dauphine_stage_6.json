@@ -1,0 +1,29 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-09",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob won Stage 6 after ASTANA paced aggressively on Col de la Miserey, then ARU Fabio attacked 8km from summit but was caught by podium finishers who sprinted.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET Roman initiated pace-lifting before classified climbs rather than waiting, forcing early selection and limiting late-race recovery options.",
+      "ARU Fabio attacked 8km from Miserey summit on 10% gradient but lacked teammates to discourage chasers after bridging alone.",
+      "ASTANA placed FUGLSANG Jakob to work early then kept him positioned to exploit sprint finish against stronger climbers.",
+      "VALVERDE Alejandro attacked early on Miserey but counterattack from ARU neutralized move, suggesting premature acceleration before steepest gradients."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: First WorldTour win in five years outside TTT suggests peak form timing before Tour, outsprinted climbers after pacing duties",
+      "PORTE Richie": "positive: Took yellow jersey and matched ARU/FROOME on decisive climb despite sprint loss, positioned well for remaining stages",
+      "ARU Fabio": "neutral: Strong enough to bridge solo and drop initial attackers but unable to hold off fresh chasers on final approach",
+      "FROOME Chris": "positive: Matched ARU acceleration and contested sprint finish, showing recovery from earlier Dauphiné weakness",
+      "BARDET Romain": "negative: Initiated early pace then lost 50 seconds at finish, tactical aggression backfired without sustained climbing power",
+      "CONTADOR Alberto": "negative: Lost 1:06 after being distanced on Miserey, confirming declining climbing ability on sustained gradients",
+      "VALVERDE Alejandro": "neutral: Early attack showed form but was immediately countered, suggesting insufficient power differential to create selection alone"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:56:42.023605+00:00"
+}

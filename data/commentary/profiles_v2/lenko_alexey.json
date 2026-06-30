@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Decisive attacks with under 3km to go on short, punchy climbs. Explosive power suited to steep finishes rather than extended climbing efforts.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Short, steep punchy climbs like Fossa Brone. Capable of holding off pursuers in headwind sprint finishes after attacking on gradient.",
+  "vulnerability": "Crash-prone in technical finales (crashed twice in final 20km). Unknown performance on longer climbs or high-altitude efforts.",
+  "key_patterns": [
+    "Exceptional resilience and power retention after crashes in race-critical moments",
+    "Late-race attacks inside 3km on steep gradient finishes",
+    "Able to sustain power in headwind sprint after explosive climb attack"
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to determine trajectory despite impressive win",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "LENKO Alexey",
+  "built_from": [
+    "2019 Tirreno-Adriatico Stage 4",
+    "2019 Tirreno-Adriatico Stage 4"
+  ]
+}

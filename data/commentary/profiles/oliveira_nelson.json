@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic breakaway infiltrator who moves early in stages, particularly effective in coordinated attacks with teammates or other riders. Prefers to establish position in large breaks rather than late solo moves.",
+  "team_tactics": "Movistar deploys him as strategic asset for jersey hunting and breakaway representation rather than pure GC support. Shows willingness to coordinate with non-teammates (Fuglsang) when tactical opportunity presents.",
+  "terrain_preference": "Solid climber capable of surviving breakaways on hilly terrain, but lacks explosive acceleration on steep gradients. Time trial pacing discipline evident (sub-10min ITT). Exposed on punchy finishes requiring repeated accelerations.",
+  "vulnerability": "Tactical positioning errors in breakaway contexts—tendency to over-contribute and lead out others rather than conserve for finish. Unable to match sharp accelerations from pure climbers like Barguil.",
+  "key_patterns": [
+    "Infiltrates large multi-rider breakaways for strategic positioning (21-rider break Vuelta, 6-minute break Tirreno)",
+    "Demonstrates coordination with other riders in late-race testing moves (Fuglsang Tour de Suisse)",
+    "Tactical errors organizing breakaways: wasted energy leading out rather than positioning for finish (2021 Tirreno)",
+    "Solid climbing endurance but lacks final acceleration against specialized climbers (4th Tirreno, recaught Suisse)"
+  ],
+  "form_trajectory": "neutral: 2022 showed improved tactical awareness (coordinated Fuglsang attack) after 2021 positioning errors, but still unable to convert breakaway presence into wins",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "OLIVEIRA Nelson",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 8",
+    "2018 Vuelta a Espana Stage 1",
+    "2021 Tirreno-Adriatico Stage 6",
+    "2021 Tirreno-Adriatico Stage 6",
+    "2022 Tirreno-Adriatico Stage 5",
+    "2022 Tour de Suisse Stage 1"
+  ]
+}

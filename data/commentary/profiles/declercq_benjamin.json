@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Utilizes breakaways tactically for intermediate sprint points rather than stage victory, abandoning offensive moves once sprint objectives are achieved.",
+  "team_tactics": "Deployed in calculated breakaway missions with specific point-collection goals; team appears to prioritize intermediate classifications over stage hunting for this rider.",
+  "terrain_preference": "Insufficient data to determine terrain preferences from single race observation.",
+  "vulnerability": "Lacks commitment to see breakaways through to finish; may be limited in pure stage-winning capability when faced with sustained effort requirements.",
+  "key_patterns": [
+    "Abandons breakaways after collecting intermediate sprint points rather than contesting stage finish.",
+    "Enters breakaways with predetermined tactical objectives rather than opportunistic stage-winning ambitions."
+  ],
+  "form_trajectory": "unknown: single observation insufficient to determine trajectory; tactical deployment suggests domestique role",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DECLERCQ Benjamin",
+  "built_from": [
+    "2017 Tour of Oman Stage 1",
+    "2017 Tour of Oman Stage 1"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2017 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-23",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIBALI attacked with 5km remaining on Bormio descent, beat LANDA on final corner using tighter line after catching him descending.",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "NIBALI attacked alone from chase group with 5km left, caught LANDA purely on descent skill not climbing strength.",
+      "DUMOULIN suffered stomach issue forcing roadside stop but peloton waited showing tactical ceasefire still honored despite QUINTANA's earlier benefit.",
+      "LANDA isolated from teammates went solo over Stelvio summit despite 1:43 deficit showing desperation from time gap pressure.",
+      "NIBALI avoided wet tire zones on descent corners intentionally, showing equipment management matters as much as cornering aggression."
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "positive: Attacked from group with summit deficit but superior descending turned certain loss into stage win",
+      "LANDA Mikel": "negative: Went all-in solo over Stelvio but couldn't sustain gap when caught, suggesting desperation not strength",
+      "DUMOULIN Tom": "negative: Stomach issues forced public roadside stop losing 2:18 but retained pink, revealing physical vulnerability under mountain stress",
+      "QUINTANA Nairo": "neutral: Waited for DUMOULIN reciprocating earlier favor but couldn't match NIBALI's descent acceleration when it mattered",
+      "POELS Wout": "positive: Stayed with NIBALI and QUINTANA on climbs finishing 31 seconds down, showing Sky depth beyond DUMOULIN protection",
+      "ZAKARIN Ilnur": "positive: Consistent sixth place quietly banking time while GC contenders marked each other"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:56:22.127611+00:00"
+}

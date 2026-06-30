@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Pragmatic opportunist who prioritizes time bonuses and GC gains over stage wins. Attacks strategically for podium positions that maximize time gaps rather than always contesting victories.",
+  "team_tactics": "Relies on strong positional discipline in technical finales rather than heavy domestique support. Team setup appears minimal, with Lutsenko executing individually in critical moments.",
+  "terrain_preference": "Technical circuit finishes and time trial-influenced stages where power and bike handling combine. Thrives in scenarios requiring tactical positioning over pure climbing.",
+  "vulnerability": "Limited data, but profile suggests pure mountain-top finishes against specialized climbers may expose limitations if unable to gain time through bonuses or TT segments.",
+  "key_patterns": [
+    "Prioritizes time bonuses strategically, taking third for bonus seconds over risky win attempts (2 observations)",
+    "Translates time-trial strength into race-winning defensive riding and positioning (2 observations)",
+    "Demonstrates mature GC calculation, defending small time gaps through technical finishes (2 observations)",
+    "Prefers tactical placement over raw aggression in stage finales (2 observations)"
+  ],
+  "form_trajectory": "unknown: 3-year gap between observations makes recent form impossible to assess reliably",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LUTSENKO Alexei",
+  "built_from": [
+    "2018 Tour of Oman Stage 6",
+    "2021 Criterium du Dauphine Stage 6"
+  ]
+}

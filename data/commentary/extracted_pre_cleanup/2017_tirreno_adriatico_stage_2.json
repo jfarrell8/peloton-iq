@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-09",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked 5km from finish on Poman climb, soloed to victory while DUMOULIN bridged late for second ahead of SAGAN Peter",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS attacked same location ŠTYBAR used previous year, suggesting Poman 5km-out point is key reconnaissance knowledge for winning moves",
+      "Quick-Step set tempo for JUNGELS but THOMAS counter-accelerated within existing move, exploiting domestique hesitation between protected riders",
+      "DUMOULIN chose late solo bridge rather than organize chase, prioritizing GC seconds over stage win when collaboration stalled"
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: responded to every acceleration before launching winning move, rediscovered form after TTT disappointment",
+      "JUNGELS Bob": "neutral: animated attacks but refused chase duty when CASTROVIEJO pressured him, protecting energy over team tactics",
+      "DUMOULIN Tom": "positive: late solo effort gained GC time on rivals when group wouldn't chase, tactical pragmatism over stage hunt",
+      "SAGAN Peter": "positive: unexpected podium on selective climb suggests untapped late-race climbing form beyond sprint finishes",
+      "EWAN Caleb": "negative: abandoned race early, removing expected sprint threat and altering finale tactics",
+      "CASTROVIEJO Jonathan": "negative: demanded JUNGELS chase instead of contributing, exposed Quick-Step internal hierarchy confusion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:05:16.189469+00:00"
+}

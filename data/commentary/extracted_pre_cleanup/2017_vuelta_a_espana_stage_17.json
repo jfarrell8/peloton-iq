@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-06",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENIFL Stefan held off CONTADOR Alberto's late attack on Los Machucos' 30% slopes, taking breakthrough win as FROOME Chris cracked badly losing 1:20.",
+    "winner": "DENIFL Stefan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CONTADOR Alberto attacked steep ramps to exploit FROOME's time trial fatigue, gaining 1:20 despite missing stage win by 28 seconds.",
+      "NIBALI Vincenzo used NIEVE Mikel pacing on steep slopes to distance FROOME, gaining 42 seconds with team support tactics.",
+      "CHAVES Esteban launched supported by ATAPUMA Darwin before final climb, revealing Orica's willingness to spend domestiques early on steep finishes."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "negative: showed clear weakness day after time trial effort, unable to respond to any attacks on 30% gradients",
+      "CONTADOR Alberto": "positive: relentless attacking on steep slopes gained 1:20 on leader, proving super-steep finishes remain his strength",
+      "NIBALI Vincenzo": "positive: strong team-supported ride gained 42 seconds on race leader, using NIEVE's pacing effectively",
+      "DENIFL Stefan": "positive: held off late chase from breakaway position on brutal gradient, revealing strong climbing form",
+      "KELDERMAN Wilco": "neutral: retained podium position at 1:20 behind leader with CONTADOR closing gap to same margin"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:17:28.434704+00:00"
+}

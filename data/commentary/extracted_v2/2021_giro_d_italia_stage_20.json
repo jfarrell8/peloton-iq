@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-29",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARUSO attacked with Bilbao/Bardet on Splugen descent, gained 24 seconds as MARTINEZ's pace-making isolated BERNAL but controlled the gap perfectly.",
+    "winner": "CARUSO Damiano",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team DSM caught break on Bernardino descent then sheltered BARDET while BILBAO/CARUSO attacked, forcing INEOS to chase understaffed.",
+      "MARTINEZ's pace on final climb was calibrated to drop YATES/ALMEIDA while preserving BERNAL's advantage over CARUSO's gap.",
+      "CARUSO attacked when only 2 INEOS domestiques remained after Splugen, exploiting numerical disadvantage before final climb started."
+    ],
+    "rider_signals": {
+      "MARTINEZ Daniel": "positive: Colombian's pace on final climb dropped YATES and ALMEIDA consecutively, showing he's evolved beyond pure domestique role",
+      "CARUSO Damiano": "positive: First-ever GT stage win after career as domestique suggests late-race fatigue neutralizes typical power差gaps",
+      "ALMEIDA Joao": "negative: Fourth place on third consecutive mountain stage reveals ceiling at altitude against lighter climbers",
+      "YATES Simon": "negative: Dropped by MARTINEZ's pace suggests declining form in third week, vulnerable even on moderate gradients",
+      "BARDET Romain": "neutral: Sat on CARUSO's wheel entire Splugen attack but couldn't contest stage, prioritizing GC over opportunism"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:39:05.711337+00:00"
+}

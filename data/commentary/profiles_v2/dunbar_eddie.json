@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Initiates early breakaway moves on hard stages, particularly on cobbled or technical climbs. Shows willingness to go from distance rather than waiting for summit finishes, as evidenced by attacking first on cobbled climbs and surviving hardest stages from early breaks.",
+  "team_tactics": "Often operates without direct team protection as an unprotected GC rider. Capable of autonomous racing when isolated, taking initiative to force splits rather than relying on teammates to set tempo. Breakaway specialist rather than protected climber.",
+  "terrain_preference": "Cobbled climbs and technical gradients where tactical positioning matters more than pure watts. Thrives on complex, hard stages (noted as 'hardest since 2006') where chaos favors opportunistic riders. Struggles on sustained steep gradients.",
+  "vulnerability": "Explicitly suffers on steepest sustained climbs when racing tempo increases. Lacks team support to cover attacks or control pace when under pressure. Condition can be variable, showing deficit on maximum gradient efforts.",
+  "key_patterns": [
+    "Emerges as unexpected GC contender through breakaway survival, not protected climbing (2023 Giro, 5th at 3:03)",
+    "Initiates attacks on technical/cobbled climbs rather than pure gradients (2019, 2023 observations)",
+    "Performs better when isolated/autonomous than when expected to follow wheels on steep climbs",
+    "Shows GT maturity beyond domestique role, willing to animate racing offensively (2019, 2023 Giro)"
+  ],
+  "form_trajectory": "positive: 2023 Giro shows significant development as unexpected GC contender (5th overall), surviving hardest stages and moving up despite isolation. Major progression from 2020 struggles.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "DUNBAR Eddie",
+  "built_from": [
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 12",
+    "2020 Tirreno Adriatico Stage 3",
+    "2023 Giro d'Italia Stage 16",
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro dItalia Stage 16",
+    "2023 Giro dItalia Stage 18"
+  ]
+}

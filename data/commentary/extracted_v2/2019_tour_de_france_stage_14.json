@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-20",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PINOT attacked inside 500m on Tourmalet summit finish, dropped ALAPHILIPPE and BERNAL in final meters after Movistar's tempo destroyed QUINTANA 6.5 miles from summit",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar's Soler tempo on Tourmalet eliminated their own leader Quintana 10km from summit, revealing catastrophic team dysfunction",
+      "Thomas lost 36 seconds despite sitting wheels in final group, showing weakness even without attacks—not the form expected",
+      "Pinot's late acceleration inside 500m proved more effective than earlier attacks, suggesting summit finishes reward patience over distance attacks"
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "negative: dropped by own team's tempo 10km from summit on Tourmalet, losing 2+ minutes despite being pre-stage GC contender",
+      "THOMAS Geraint": "negative: lost 36s without being attacked, sitting wheels in final group—defending champion showing alarming weakness when simply following",
+      "ALAPHILIPPE Julian": "positive: took 2nd plus time bonuses despite being pure puncheur, extending GC lead to 2+ minutes when expected to crack",
+      "PINOT Thibaut": "positive: late 500m acceleration on Tourmalet summit dropped pure climbers Bernal/Alaphilippe after earlier failed attack was neutralized",
+      "BERNAL Egan": "neutral: marked moves but couldn't counter Pinot's final kick, suggesting sprint weakness on summit finishes despite climbing strength",
+      "KRUIJSWIJK Steven": "neutral: finished in lead group but faded to 3rd in GC as others took time bonuses",
+      "SOLER Marc": "negative: paced so hard for Movistar he dropped own leader Quintana, then had to abandon tempo to help"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:57:31.405205+00:00"
+}

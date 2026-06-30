@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-06",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with under 3km to go after VINGEGAARD launched earlier, took the stage but VINGEGAARD gained yellow via intermediate bonuses accumulated through the stage",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma attacked from kilometer zero with 80km remaining, using HOFSTETTER in break to soften Bora-controlled pace before finale.",
+      "POGAČAR waited for VINGEGAARD's attack with 3km to go then countered immediately, reversing momentum despite appearing isolated on Tourmalet.",
+      "VINGEGAARD took yellow despite losing stage by 20+ seconds through accumulated bonus seconds strategy, not just summit finish time."
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "negative: lost yellow jersey and dropped 4km from Tourmalet summit, suggesting week 1 leadership was unsustainable",
+      "O'CONNOR Ben": "negative: dropped early on Tourmalet when pace intensified, major podium threat eliminated before decisive kilometers",
+      "JOHANNESSEN Tobias": "positive: finished third behind two Grand Tour champions, only other rider to follow late accelerations",
+      "RODRIGUEZ Carlos": "neutral: best Ineos rider but finished with Hindley group, unable to match top two's accelerations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:22:38.769081+00:00"
+}

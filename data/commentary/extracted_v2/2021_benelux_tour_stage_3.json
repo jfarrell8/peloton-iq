@@ -1,0 +1,24 @@
+{
+  "label": "2021 Benelux Tour Stage 3",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-01",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "EWEN Caleb won stage 3 sprint after PHILLIPS Jasper crashed and Lotto-Soudal controlled finale positioning perfectly on right side of road",
+    "winner": "EWEN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto-Soudal positioned right side while VANPOPPEL opened left, creating easy speed-match for EWEN indicating road-side choice critical",
+      "VAN HOOVERDINK's late attack controlled by LAMPAERT shows Deceuninck still protecting EVENEPOEL's 45-second teammate gap despite sprint stage",
+      "BONIFAZIO and ACKERMANN both on EWEN's wheel suggests sprinter trains converging rather than separate team leadouts in finale"
+    ],
+    "rider_signals": {
+      "PHILLIPS Jasper": "negative: crashed with teammate SBARAGLI, knee injury significant enough to raise sprint form doubts for subsequent stages",
+      "VANPOPPEL Danny": "negative: opened sprint early from left side, easily matched by EWEN suggesting poor positioning choice or mistimed effort",
+      "EVENEPOEL Remco": "positive: extended teammate gap to 45 seconds on VANHOUCKE without working, suggesting team willing to sacrifice sprint stage control for GC cushion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:33:21.487985+00:00"
+}

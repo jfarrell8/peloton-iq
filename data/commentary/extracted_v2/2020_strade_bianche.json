@@ -1,0 +1,27 @@
+{
+  "label": "2020 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2020-08-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN AERT attacked solo 12km out on the Tolfè sector descent, time-trialed away from a select group including Bettiol/Formolo/Schachman on white gravel.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT attacked on Tolfè descent not climb, proving downhill acceleration on gravel neutralizes pure climbers' advantage.",
+      "Extreme heat eliminated traditional climber advantage—gap to 10th was 3:8 suggesting attrition favored diesel engines over pure watts.",
+      "VAN AVERMAET rode defensively watching others work, suggesting former winners prioritize podium over chasing longshot victory.",
+      "FULLSANG/FORMOLO burned matches early on San Martino then faded, indicating premature positioning before final sectors wastes legs."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: won at 25 after two consecutive runner-up finishes, showing rapid gravel adaptation despite 2019 injury layoff",
+      "BETTIOL Alberto": "negative: defending champion couldn't respond to downhill acceleration despite being present in decisive group",
+      "SCHACHMAN Max": "neutral: made final selection but gapped when Van Aert attacked, suggesting strong endurance but lacking explosive gravel power",
+      "VAN AVERMAET Greg": "negative: rode passively despite experience, suggesting age/form decline prevents offensive racing even on favorable terrain",
+      "FORMOLO Davide": "negative: animated early on San Martino but cracked in finale, revealing Italian aggression backfires in extreme heat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:20:01.830480+00:00"
+}

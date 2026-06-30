@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking patterns. Monument result suggests ability to survive and compete in final selections rather than long-range attacks.",
+  "team_tactics": "Insufficient data across multiple races to determine team tactical patterns.",
+  "terrain_preference": "Wet cobblestones appear to be a strength based on Paris-Roubaix performance. Monument-level paved classics suit his capabilities.",
+  "vulnerability": "Insufficient data to identify specific vulnerabilities across multiple race conditions.",
+  "key_patterns": [
+    "Unable to identify repeating patterns - only single race data available for analysis"
+  ],
+  "form_trajectory": "unknown: Only single race observation from 2021 available, insufficient for trajectory analysis",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VERMEERSCH Florian",
+  "built_from": [
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix"
+  ]
+}

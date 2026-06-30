@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Team does not follow conventional attacking patterns; prioritizes opportunistic stage hunting and protecting selected leaders rather than predictable GC attacks or sprint trains.",
+  "team_tactics": "Flexible role allocation where former stars work as domestiques for designated leaders; strong anticipatory positioning in technical/dangerous zones 3-5km from finish; willingness to sacrifice team hierarchy for tactical objectives.",
+  "terrain_preference": "Demonstrates competence across diverse terrain (TTT, Classics, Grand Tours) but shows particular strength in technical finishes requiring positioning and crash avoidance rather than pure climbing or sprinting.",
+  "vulnerability": "Lack of dedicated sprint train infrastructure; relies on opportunistic approaches rather than controlled lead-outs, limiting options in pure bunch sprint scenarios.",
+  "key_patterns": [
+    "Hierarchy inversion: former stars like Vanmarcke domestique for tactical picks (2 instances)",
+    "Proactive danger anticipation: front positioning 3+ km before technical/crash zones (2 instances)",
+    "Stage hunting over GC consolidation: chasing stages rather than defending minimal gaps (2 instances)",
+    "TTT competence when built around specialists despite non-GC team status (1 instance, 14:58 time)",
+    "Immediate bike sacrifice protocols to protect GC leaders under 3km rule (1 instance)"
+  ],
+  "form_trajectory": "positive: 2019 Flanders tactics showed sophisticated team commitment delivering Bettiol victory, evolving from 2018 reactive protection",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "EF Education First",
+  "built_from": [
+    "2018 Giro d'Italia Stage 12",
+    "2018 Tour de France Stage 4",
+    "2018 Tour of Guangxi Stage 4",
+    "2018 Vuelta a Espana Stage 6",
+    "2019 Ronde Van Vlaanderen",
+    "2019 Vuelta a Espana Stage 1"
+  ]
+}

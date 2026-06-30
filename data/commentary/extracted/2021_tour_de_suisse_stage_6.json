@@ -1,0 +1,22 @@
+{
+  "label": "2021 Tour de Suisse Stage 6",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-06-11",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KRON Andreas won Stage 6 sprint after COSTA Rui disqualified for irregular sprint behavior, despite Kron experiencing illness setbacks earlier in race week.",
+    "winner": "KRON Andreas",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "KRON recovered from mid-race illness period post-Catalunya to deliver sprint win, suggesting fitness can rebound within single stage race.",
+      "Commissaires intervened in sprint finish with disqualification, indicating sprint behavior crossed boundaries in leftward drift from right side start."
+    ],
+    "rider_signals": {
+      "KRON Andreas": "positive: Won despite hard day previous stage and illness setbacks after Catalunya, showing resilience within stage races.",
+      "COSTA Rui": "negative: Disqualified from sprint win for irregular positioning, moved excessively left from right-side sprint initiation."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:13:37.616945+00:00"
+}

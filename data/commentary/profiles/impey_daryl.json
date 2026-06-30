@@ -1,22 +1,41 @@
 {
-  "attacking_style": "Opportunistic breakaway specialist who bridges decisive gaps on final climbs, disguising form before late-race accelerations. Shows ability to survive sustained climbs then accelerate when others fade.",
-  "team_tactics": "Operates with freedom in breakaway situations rather than protected team leadership; positioned to exploit reduced group scenarios where tactical awareness trumps pure power.",
-  "terrain_preference": "Medium-mountain stages with Cat-2 final climbs where climbing durability separates breakaway survivors; excels when terrain filters peloton but doesn't require pure climbing prowess.",
-  "vulnerability": "Limited recent evidence of pure sprint finishes or high-mountain stages; effectiveness may depend on avoiding direct confrontation with pure climbers or sprinters in full-strength groups.",
+  "attacking_style": "Opportunistic sprinter from reduced groups after climbing selections, typically launching 180-200m out on uphill or technical finishes. Excels in breakaway sprints where tactical positioning trumps pure speed.",
+  "team_tactics": "Relies on minimal leadout support (1-2 riders maximum), often self-positioning in final kilometers. Team sets tempo on climbs to thin field rather than protecting for mass sprints. Functions independently when needed.",
+  "terrain_preference": "Uphill sprint finishes after prolonged climbs (12-15km) that eliminate pure sprinters but not punchy climbers. Thrives in reduced bunch scenarios where positioning and diesel endurance matter more than explosive watts.",
+  "vulnerability": "Distance judgment on gradual climbs—repeatedly goes too early (50m+ too far) when leading out own sprint. Exposed in headwind finishes and pure flat sprints against specialist fast-finishers.",
   "key_patterns": [
-    "Wins exclusively from breakaways, never from bunch sprints or GC group finishes (2 wins)",
-    "Thrives in reduced groups on final climbs, using experience over power (2 observations)",
-    "Long gaps between WorldTour wins suggests opportunistic rather than consistent winning threat (3-year gap documented)",
-    "Demonstrates unexpected late-career climbing durability into late 30s (documented at age 37)"
+    "Hunts time bonuses aggressively at intermediate sprints and bonus finishes for GC positioning (3 instances)",
+    "Launches sprint attacks 180-200m out, often too early on gradual climbs requiring recalibration (4 instances)",
+    "Elite breakaway finishing: refuses pulls final kilometer to conserve energy, then outsprints fresher rivals (2 wins)",
+    "Survives climbing selections via diesel durability rather than explosive power, fights back when dropped (3 instances)",
+    "Tactical maturity in reduced groups: exploits positioning over pure speed when sprinter field thinned (4 instances)"
   ],
-  "form_trajectory": "positive: Returned to WorldTour winning form in 2022 at age 37 after 3-year drought, showing renewed climbing legs on sustained Cat-2 ascents",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "positive: 2022 resurgence after 2021 crash—Tour de Suisse and Poland wins show full recovery, returning to 2018-2019 breakaway sprint effectiveness",
+  "races_analysed": 15,
+  "confidence": "high",
   "rider_name": "IMPEY Daryl",
   "built_from": [
+    "2017 Tour de France Stage 21",
+    "2018 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 2",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2019 Criterium du Dauphine Stage 1",
     "2019 Tour de France Stage 9",
     "2019 Tour de France Stage 9",
+    "2020 Criterium du Dauphine Stage 1",
+    "2020 Criterium du Dauphine Stage 1",
+    "2020 Tour de Pologne Stage 1",
+    "2020 Tour de Pologne Stage 1",
+    "2020 Tour de Pologne Stage 2",
+    "2020 Tour de Pologne Stage 2",
+    "2021 Volta Ciclista a Catalunya Stage 6",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 Tour de Pologne Stage 4",
     "2022 Tour de Suisse Stage 4",
-    "2022 Tour de Suisse Stage 4"
+    "2022 Tour de Suisse Stage 4",
+    "2022 Vuelta a Espana Stage 5"
   ]
 }

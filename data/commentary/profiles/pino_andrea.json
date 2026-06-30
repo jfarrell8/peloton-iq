@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Capable of making successful breakaway selections but lacks the finishing power to convert, showing a pattern of getting into the right moves without closing them out.",
+  "team_tactics": "Israel Premier Tech shows willingness to animate races with multiple riders but suffers from coordination issues, with domestiques forced to chase separately rather than working as a unified block.",
+  "terrain_preference": "Selective enough to make breakaway cuts on varied terrain, though specific gradient preferences unclear from limited data.",
+  "vulnerability": "Sprint finishes from breakaways expose a critical weakness - lost two sprint finishes in three days despite making successful selections, indicating poor top-end speed.",
+  "key_patterns": [
+    "Gets into breakaways but consistently fails to finish them off in sprints.",
+    "Team lacks tactical cohesion when multiple riders are active in same race."
+  ],
+  "form_trajectory": "negative: pattern of failed sprint conversions from breakaways suggests fundamental finishing weakness rather than temporary form issue",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PINO Andrea",
+  "built_from": [
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro d'Italia Stage 18"
+  ]
+}

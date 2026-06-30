@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-03",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GAUDU David surged in final 300m after poor positioning before climb, winning by using climbing strength to recover and then accelerate late on uphill finish.",
+    "winner": "GAUDU David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAUDU recovered from pre-climb positional error by using climbing superiority to not just rejoin but counterattack in final 200m.",
+      "VILLELLA Davide led out finale but faded final 100m, suggesting Astana misjudged pacing on steep gradient kick.",
+      "Multiple attacks inside final 3km (THOMAS Benjamin, others) failed because speeds too high before base climb positioning critical."
+    ],
+    "rider_signals": {
+      "GAUDU David": "positive: Won after poor positioning shows superior climbing acceleration on 300m uphill finishes can overcome tactical errors",
+      "ROGLIČ Primož": "neutral: Retained yellow by only 6 seconds despite stage placing, indicating limited time gap defense on punchy finishes",
+      "COSTA Rui": "positive: Third at 8 seconds shows strong positioning and sprint on steep uphill finales for classics-type rider",
+      "WOODS Michael": "neutral: Fifth place suggests struggled to match final acceleration despite being on GAUDU's wheel in final 200m",
+      "THOMAS Geraint": "negative: Dropped to fifth GC at 22 seconds after initiating early attacks that failed, wasting energy before decisive moment",
+      "VILLELLA Davide": "negative: Led finale but faded badly suggests Astana's pacing strategy poor on variable gradient punchy climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:10:52.199890+00:00"
+}

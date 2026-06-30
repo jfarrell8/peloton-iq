@@ -1,0 +1,27 @@
+{
+  "label": "2019 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-14",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won the Stage 5 ITT, while BERNAL Egan surprisingly finished only 15 seconds back to move into 2nd overall at 19 seconds.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERNAL already 15 seconds off ITT winner despite climbing specialty reveals transforming GC versatility for multi-week races.",
+      "Education First placed four riders in top-10 ITT positions, suggesting deep squad time-trialing investment beyond van Garderen.",
+      "KWIATKOWSKI extends GC lead in flat ITT despite climbing specialist profile, 14 bonus seconds from earlier aggression proving decisive.",
+      "QUINTANA loses over minute in flat ITT to slip 17th, confirming extreme vulnerability in non-mountain disciplines persists."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: finished 15 seconds behind specialist Yates in flat ITT and moved to 2nd overall, suggesting all-around GC evolution",
+      "YATES Simon": "positive: first professional ITT victory while targeting Giro reveals peak form despite claiming course unsuitable for climbers",
+      "JUNGELS Bob": "negative: finished 8th despite being pre-stage favorite and Luxembourg TT champion, recovering from 11th at intermediate checkpoint",
+      "KWIATKOWSKI Michał": "neutral: dropped 1:15 to Yates but extended overall lead through earlier bonus seconds, survives rather than dominates",
+      "QUINTANA Nairo": "negative: finished 17th and dropped over minute overall, now trails by 1+ minute confirming time-trial liability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:53:46.560861+00:00"
+}

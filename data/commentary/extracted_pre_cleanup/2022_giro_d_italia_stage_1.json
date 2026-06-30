@@ -1,0 +1,30 @@
+{
+  "label": "2022 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-06",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won the uphill finish in Visegrád after EWAN Caleb crashed touching GIRMAY Biniam's wheel in the final sprint.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KÄMNA Lennard attacked solo inside 3km on uphill finish, revealing Bora's willingness to gamble early GC bonus seconds.",
+      "NASSEN Lawrence attacked for AG2R before Kämna, showing teams testing whether uphill gradient could create separation before sprint.",
+      "ALPECIN controlled final kilometers after EF and Groupama helped chase, indicating sprint teams willing to share pace on hybrid finishes.",
+      "EWAN Caleb survived gradient as only pure sprinter, but positioning third wheel proved fatal on steep uphill sprint."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: won uphill sprint convincingly as pre-stage favorite, validating strength on 4% gradients at race start",
+      "GIRMAY Biniam": "positive: finished second in uphill sprint and took white jersey, immediately competitive against puncheurs at Grand Tour debut",
+      "BILBAO Pello": "positive: rolled third for 4 bonus seconds after crash, opportunistically gaining time despite uphill sprint not suiting pure climbers",
+      "EWAN Caleb": "negative: only pure sprinter to survive gradient but crashed touching wheel in top-3 position, revealing poor bike handling under fatigue",
+      "KÄMNA Lennard": "neutral: solo attack gained 10 seconds but caught inside final km, showing form but insufficient gradient for true separation",
+      "NASSEN Lawrence": "neutral: first to attack for AG2R despite not being original roster selection, suggesting team tactical flexibility",
+      "ULISSI Diego": "neutral: FORMOLO and VILLELLA led him out but finish position unclear, UAE train intact but execution questionable",
+      "CORT Magnus": "neutral: EWAN positioned third on his wheel before crash, suggesting EF sacrificed own sprint for leadout work"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:24:55.755119+00:00"
+}

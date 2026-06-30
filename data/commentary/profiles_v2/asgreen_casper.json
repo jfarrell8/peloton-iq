@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Excels in ultra-long breakaways (185km documented), combining diesel engine endurance with finishing speed to outlast companions. Capable of strong individual finishes without team support in Classics.",
+  "team_tactics": "Historically under-utilized as domestique despite top-tier capacity; positioned for crosswind splits and sprint leadouts rather than protected status. Soudal shift in 2023 suggests evolving prioritization.",
+  "terrain_preference": "Cobbled Classics terrain (RVV second place) and long, attrition-based stages where superior diesel power and tactical patience outlast punchier rivals. Crosswind situations play to positioning instincts.",
+  "vulnerability": "Sprint team misjudgments can negate breakaway efforts if caught on the line. Past team role confusion limited results despite individual strength, suggesting need for clear protected status.",
+  "key_patterns": [
+    "Consistent underestimation by rivals: sprint teams misjudge breakaway threats, teams undervalue his capacity (2 instances)",
+    "Strong individual results without team support: second at RVV, Tour stage win both show autonomy (2 races)",
+    "Elite positioning instincts: immediate second-wheel placement in crosswinds, breakaway selection timing (2 documented)",
+    "Late-career trajectory: first Tour stage win in fifth attempt at age 28+ suggests delayed recognition (2023 breakthrough)"
+  ],
+  "form_trajectory": "positive: 2023 Tour stage win from long breakaway represents breakthrough as protected rider after years as underutilized domestique, suggesting peaked maturity and tactical confidence",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ASGREEN Casper",
+  "built_from": [
+    "2019 Ronde Van Vlaanderen",
+    "2019 Ronde Van Vlaanderen",
+    "2021 Tour de France Stage 12",
+    "2023 Tour de France Stage 18",
+    "2023 Tour de France Stage 18"
+  ]
+}

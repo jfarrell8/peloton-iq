@@ -1,18 +1,21 @@
 {
-  "attacking_style": "Opportunistic breakaway rider who capitalizes on GC-irrelevant status to gain freedom. Finishes with unconventional sprint tactics adapted to conditions.",
-  "team_tactics": "Insufficient data to establish clear team tactical patterns from single race observation.",
-  "terrain_preference": "Demonstrated ability to survive challenging conditions (wet roads) and execute technical sprints from reduced selections. Terrain profile unclear from limited data.",
-  "vulnerability": "Requires GC-neutral status and race situation allowing large breakaway gaps. Effectiveness in head-to-head against pure sprinters or climbers unknown.",
+  "attacking_style": "Infiltrates early breakaways rather than late attacks, positioning himself as a supporting element or chasing presence. Shows sprint capability within break scenarios but primarily executes tactical roles.",
+  "team_tactics": "Deployed as advanced domestique in breaks to support team leaders arriving later. Team (DSM/Sunweb) uses him for breakaway infiltration, allowing him to wait and assist stronger finishers.",
+  "terrain_preference": "Breakaway-friendly stages where early moves form. Capable in varied terrain but role suggests medium mountain stages and transitional stages where breaks have success potential.",
+  "vulnerability": "Final acceleration against pure sprinters or climbers in break finishes. Led chasing groups but evidence suggests difficulty converting position into wins when it matters.",
   "key_patterns": [
-    "Adapts sprint technique to conditions rather than conventional methods (seated vs jumping in wet)",
-    "Succeeds from reduced breakaway selections requiring both endurance and finishing speed"
+    "Breakaway specialist role across all three observations, never observed in bunch finishes.",
+    "Domestique execution within breaks: waits for teammates, leads chase groups for others.",
+    "Sprint capability present but secondary acceleration lacking in decisive moments (2017, 2021).",
+    "Team DSM/Sunweb consistently deploys him in aggressive breakaway scenarios across years."
   ],
-  "form_trajectory": "unknown: Single stage win shows capability but insufficient longitudinal data to assess trend",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "neutral: Still performing breakaway infiltration role in 2021 Giro, but leading chase groups rather than contesting wins suggests plateaued status as supporting rider",
+  "races_analysed": 3,
+  "confidence": "medium",
   "rider_name": "ARNDT Nikias",
   "built_from": [
-    "2019 Vuelta a Espana Stage 8",
-    "2019 Vuelta a Espana Stage 8"
+    "2017 Tour de France Stage 19",
+    "2020 Paris - Nice Stage 6",
+    "2021 Giro d'Italia Stage 15"
   ]
 }

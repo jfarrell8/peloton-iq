@@ -1,0 +1,25 @@
+{
+  "label": "2018 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2018-04-15",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VALGREN Michael won Amstel Gold 2018 by waiting until final 300m after Astana's two-man advantage forced rivals to stare rather than chase",
+    "winner": "VALGREN Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana's two-rider advantage (Valgren/unnamed teammate) in final selection paralyzed chase dynamics, forcing rivals into tactical stalemate",
+      "Cauberg eliminated with 43.5km remaining, forcing selection on earlier Keutenberg climb rather than traditional finishing venue",
+      "GASPAROTTO caught final group from behind during hesitation phase, proving chase groups remained viable until 700m mark"
+    ],
+    "rider_signals": {
+      "VALGREN Michael": "positive: Won despite course change removing traditional Cauberg finish that typically favors pure puncheurs",
+      "GASPAROTTO Enrico": "positive: Third place after bridging from chase group shows exceptional late-race form despite being caught earlier",
+      "VALVERDE Alejandro": "negative: Fourth despite being in winning move, still winless at Amstel revealing tactical weakness in multi-rider finales",
+      "CRADDOCK Lawson": "positive: Ninth place as American on parcours traditionally dominated by Benelux puncheurs signals climbing adaptation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:16:17.640422+00:00"
+}

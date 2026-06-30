@@ -1,27 +1,37 @@
 {
-  "attacking_style": "Prefers extremely long-range attacks (35-50km from finish) on sustained climbs, showing exceptional confidence in aerobic power rather than explosive finishes. Struggles on steep, punchy gradients requiring acceleration.",
-  "team_tactics": "Limited evidence of team support; appears to operate independently with emphasis on early solo moves rather than waiting for organized leadouts or positioning trains.",
-  "terrain_preference": "Sustained, moderate gradient climbs in stage races and hilly Classics. Exposed on steep explosive walls (Mur de Huy) and when facing repeated attacks from elite GC riders.",
-  "vulnerability": "Cannot respond when attacked by top-tier climbers; immediately distanced when pace escalates. Lacks finishing punch on steepest sections despite strong positioning. Defense of leads is passive.",
+  "attacking_style": "Ultra-long range attacks from breakaways, typically 50-35km out on climbs. Exceptional diesel engine for sustained solo efforts when in form, but descent positioning and power reserves often fail to sustain gaps on technical terrain.",
+  "team_tactics": "EF Education-EasyPost provides early positioning for breakaway infiltration but limited high-mountain support. Healy operates as protected option in Ardennes/stage hunting roles, exposed when crashes eliminate him as team leader.",
+  "terrain_preference": "Medium-length climbs (Salita Capuccini-style) where he can collect KOM points and launch 50km attacks. Strong in hilly Ardennes classics (2nd Amstel, podium at Brabantse). Struggles on flat roads and technical descents where he cannot sustain gaps or loses positioning.",
+  "vulnerability": "Poor energy management on flat roads before climbs (lost KOM jersey twice after premature attacks). Insufficient power reserves to close gaps on descents. Sprint weakness forces tactical gambling from chase groups. Crash risk in technical finales.",
   "key_patterns": [
-    "Attacks ridiculously early 35-50km out in multiple Grand Tour stages, showing elite aerobic capacity.",
-    "Strong Ardennes week form across multiple Monuments (Amstel, Fleche, Liege) with consistent near-podium results.",
-    "Positioned well inside final kilometer but fades on steepest gradients requiring explosive power.",
-    "Cannot follow or respond to attacks from elite stage racers; immediately dropped when pace increases.",
-    "Willing to attack repeatedly after previous efforts, showing exceptional recovery and aggressive mentality."
+    "Attacks 50km out from breakaways on climbs, repeated across multiple Giro stages (at least 4 instances)",
+    "Targets KOM jersey aggressively, collects points from early breaks but exhausts reserves defending (3+ occasions)",
+    "Loses sustained gaps on descents despite strong climbing attacks, lacking diesel on technical downhills (3 observations)",
+    "Full-gas efforts on flat/early terrain backfire, causing energy depletion and jersey losses (2 documented instances)",
+    "Exceptional form when diesel engine firing: won by 1:49 margin, biggest in 5 years",
+    "Late-race positioning weakness in sprints forces solo attacks from chase groups despite power deficit"
   ],
-  "form_trajectory": "neutral: Strong early 2023 Monument performances and Giro stage win, but Tour de Suisse showed clear gap to elite level remains",
-  "races_analysed": 7,
+  "form_trajectory": "positive: Demonstrated exceptional progression during 2023 Giro with historic 1:49 margin victory and KOM jersey capture, though energy management errors and crash in Ardennes week show tactical refinement still needed",
+  "races_analysed": 12,
   "confidence": "high",
   "rider_name": "HEALY Ben",
   "built_from": [
     "2023 Amstel Gold Race",
+    "2023 Giro d'Italia Stage 15",
+    "2023 Giro d'Italia Stage 15",
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro d'Italia Stage 19",
+    "2023 Giro d'Italia Stage 8",
+    "2023 Giro d'Italia Stage 8",
+    "2023 Giro d'Italia Stage 8",
     "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 16",
     "2023 Giro dItalia Stage 18",
+    "2023 Giro dItalia Stage 4",
     "2023 Giro dItalia Stage 8",
     "2023 Giro dItalia Stage 8",
     "2023 La Fleche Wallonne",
-    "2023 Liege-Bastogne-Liege",
-    "2023 Tour de Suisse Stage 7"
+    "2023 Liege-Bastogne-Liege"
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "label": "2019 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-09",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "FULL-SANG Jakob attacked 9.6km from summit of Alto de la Cubilla, dropped KNOX and GHEBREIGZABHIER in final 2km for solo victory.",
+    "winner": "FULL-SANG Jakob",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LOPEZ Miguel attacked inside final 4km from GC group, forcing ROGLIC/POGACAR to bridge while VALVERDE cracked on final slopes losing 23s.",
+      "Deceuninck positioned KNOX 18min down on GC to infiltrate breakaway on long climb, forcing Movistar to control behind.",
+      "FULL-SANG attacked with 9.6km remaining on 18km climb, exploiting fact that shorter distance deterred immediate chase from co-breakaway riders.",
+      "BOUCHARD took maximum KOM points twice deliberately while MADRAZO struggled, revealing jersey can be won tactically from breaks on medium mountains."
+    ],
+    "rider_signals": {
+      "FULL-SANG Jakob": "positive: Won from 9.6km solo attack on 18km climb after working for LOPEZ all race, showing hidden form reserve",
+      "LOPEZ Miguel": "positive: Attack inside 4km forced ROGLIC to chase and dropped VALVERDE, signaling recovery from earlier weakness",
+      "VALVERDE Alejandro": "negative: Lost 23s on final slopes after LOPEZ attack, unable to match accelerations despite teammate SOLER pacing",
+      "ROGLIC Primoz": "positive: Responded immediately to LOPEZ attack and extended GC lead without teammate support in final kilometers",
+      "KNOX James": "positive: Infiltrated strong break 18min down on GC, finished 4th showing Deceuninck willing to sacrifice GC for stage hunting",
+      "QUINTANA Nairo": "negative: Had another bad day and dropped to 6th overall,Pattern of weakness continuing in third week",
+      "MADRAZO Angel": "negative: Struggled on both Cat-1 climbs taking only second place points, vulnerable to aggressive KOM hunting from breaks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:19:31.359494+00:00"
+}

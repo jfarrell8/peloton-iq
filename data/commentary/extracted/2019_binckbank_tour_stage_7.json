@@ -1,0 +1,27 @@
+{
+  "label": "2019 BinckBank Tour Stage 7",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-18",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "NAESEN Oliver won the sprint from a four-man breakaway that gained time through bonus second sprints on the Bosberg golden kilometer, while DE PLUS Laurens secured overall victory.",
+    "winner": "NAESEN Oliver",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE PLUS Laurens collected seven bonus seconds across golden kilometer sprints to flip five-second GC deficit into overall victory.",
+      "NAESEN Oliver allied with HIRSCHI Marc and VAN AVERMAET Greg to chase DE PLUS after bonus sprint, preventing GC-motivated sitting-in.",
+      "WELLENS Tim lost podium by 38 seconds despite green jersey, revealing sprinters struggle when breakaway targets bonus seconds aggressively.",
+      "Deceuninck-Quick-Step placed four riders in 100km-forming break, showing willingness to commit numbers when stage suits multiple agendas."
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "positive: converted breakaway bonus opportunities into GC win despite lacking stage-winning speed against NAESEN",
+      "NAESEN Oliver": "positive: timed final kick perfectly on technical cobbled finish, beat VAN AVERMAET in two-up sprint",
+      "HIRSCHI Marc": "positive: 20-year-old contested bonus sprints aggressively and finished fifth, showing tactical maturity beyond years",
+      "WELLENS Tim": "negative: lost 38 seconds and GC podium spot despite green jersey, unable to follow when breakaway attacked",
+      "VAN AVERMAET Greg": "neutral: strong throughout but narrowly beaten in sprint, lost podium by one second to WELLENS"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:51:57.972331+00:00"
+}

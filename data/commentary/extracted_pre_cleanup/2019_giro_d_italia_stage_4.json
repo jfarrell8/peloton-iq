@@ -1,0 +1,29 @@
+{
+  "label": "2019 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-14",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ attacked inside final kilometer on uphill finish, held off EWAN and others after crash split peloton with 3km to go",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CARAPAZ attacked pink jersey ROGLIČ's group on 4% uphill finish inside 1km, exploiting crash-reduced numbers before sprinters organized",
+      "UAE exhausted leadout leaving ULISSI isolated second wheel, proving crashes favor positioned climber-puncheurs over depleted sprint trains",
+      "DUMOULIN lost 4:05 in crash 3km out, demonstrating positioning vulnerability even for GC riders on expected sprint stages"
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: attacked elite group uphill inside 1km, beating pure sprinters EWAN and ACKERMANN despite losing time earlier stages",
+      "DUMOULIN Tom": "negative: crashed 3km out losing 4+ minutes, appeared in distress with mechanical and visible injuries",
+      "ROGLIČ Primož": "positive: stayed front group through crash chaos at 3km, pink jersey gained time on GC rivals caught behind",
+      "ULISSI Diego": "positive: positioned second wheel with no teammates after crash eliminated sprint trains, nearly won from tactical placement",
+      "VIVIANI Elia": "negative: Italian champion dropped from reduced group on 4% uphill finish despite making front crash split",
+      "EWAN Caleb": "positive: finished second on 4% uphill drag despite being pure sprinter, shows climbing improvement",
+      "YATES Simon": "neutral: limited damage in chase group behind crash, tactical non-involvement suggests stage sacrifice accepted",
+      "GAVIRIA Fernando": "negative: caught behind crash split with 3km remaining, positioning failure on expected sprint stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:58:20.013901+00:00"
+}

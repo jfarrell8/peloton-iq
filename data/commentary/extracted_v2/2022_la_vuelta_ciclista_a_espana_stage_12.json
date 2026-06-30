@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 12",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-01",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAS Richard attacked from 32-rider break on final climb to take stage, while POGACAR survived crash and GC attacks to retain red jersey unchanged",
+    "winner": "CARAPAS Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma attacked repeatedly on final climb despite no time gaps materializing, revealing ineffective pressure tactics against resilient Pogacar.",
+      "32-rider break allowed with 4 teams unrepresented indicates peloton miscalculation on selective final climb's GC potential.",
+      "Carapas as team principal rather than pure GC rider enabled aggressive freedom from breakaway that domestique role previously constrained.",
+      "Kelderman moved to 6th GC via breakaway positioning with Fabro pacing, showing Bora using stage hunting for GC advancement."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: absorbed crash and sustained GC attacks on final climb without losing time, then counterattacked at finish",
+      "CARAPAS Richard": "positive: won from large break after role change to team principal freed him from domestique duties",
+      "VINE Jay": "negative: struggled on final climb after two prior stage wins, suggesting accumulated fatigue affecting climbing form",
+      "POLANC Jan": "positive: survived difficult final climb despite struggling early to protect top-10 GC position",
+      "KELDERMAN Wilco": "positive: moved into top-6 GC using breakaway rather than peloton tactics, with strong Fabro support",
+      "FABRO Mattia": "positive: paced Kelderman through entire final climb from breakaway, demonstrating domestique excellence in reduced group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:12:32.690282+00:00"
+}

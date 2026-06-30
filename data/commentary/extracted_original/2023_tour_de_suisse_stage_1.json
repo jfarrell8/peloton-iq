@@ -1,0 +1,24 @@
+{
+  "label": "2023 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-11",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KUNG Stefan won the 12.7km opening time trial by 6 seconds over EVENEPOEL, gaining time in the technical uphill finale despite trailing at mid-race.",
+    "winner": "KUNG Stefan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "KUNG Stefan slower at 7km intermediate but gained 11+ seconds on Sheffield in technical uphill second half.",
+      "EVENEPOEL Remco 6 seconds down despite returning from COVID layoff, best among pure GC contenders present."
+    ],
+    "rider_signals": {
+      "KUNG Stefan": "positive: dominated technical uphill finale on home roads after trailing Sheffield at halfway, third career TdS stage win",
+      "EVENEPOEL Remco": "neutral: 6 seconds down in first race back from COVID, still best GC contender result",
+      "SHEFFIELD Magnus": "negative: led at 7km by 7-8 seconds over eventual winner but lost 11+ seconds in technical uphill finale",
+      "BISSEGGER Stefan": "negative: European TT champion unable to match expected performance level on home roads"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:23:23.962665+00:00"
+}

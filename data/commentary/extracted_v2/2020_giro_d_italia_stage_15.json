@@ -1,0 +1,28 @@
+{
+  "label": "2020 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-18",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GEOGHEGAN HART Tao won stage 15 after solo attack by DENNIS Rohan failed with 1:03 gap at 10km to go, ALMEIDA held pink by 37 seconds despite visible exhaustion.",
+    "winner": "GEOGHEGAN HART Tao",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS launched solo attack 46km out after recognizing peloton cutting gap to three minutes, exploiting breakaway disintegration.",
+      "NTT forced into dual chasing duty after SOBRERO crash weakened support structure, revealing team fragility under personnel attrition.",
+      "INEOS rode defensively following wheels despite GEOGHEGAN HART's strength, suggesting team hierarchy confusion or GC calculation shift.",
+      "ALMEIDA's 37-second gap minimal given extreme visible exhaustion, signaling imminent GC collapse more reliably than time gaps."
+    ],
+    "rider_signals": {
+      "GEOGHEGAN HART Tao": "positive: First GT stage win while looking comfortable following wheels suggests sandbagging earlier, now under 3min deficit makes podium viable.",
+      "ALMEIDA Joao": "negative: Described as 'absolutely exhausted' while keeping pink by only 15sec over KELDERMAN indicates maglia rosa tenure ending imminently.",
+      "DENNIS Rohan": "positive: Recognized peloton acceleration pattern at 46km out and preemptively went solo, showing tactical awareness beyond typical breakaway riding.",
+      "NIBALI Vincenzo": "negative: Distanced on Pian Cavallo climb where he'd previously performed, eliminating him as viable GC threat in final week.",
+      "KELDERMAN Wilco": "positive: Finished 2sec behind stage winner while HINDLEY rode hard for him, confirming SUNWEB dual-leader strategy favoring Kelderman.",
+      "VISCONTI Giovanni": "neutral: Won first KOM but dropped DENNIS on long climb, exposing pure climber weakness in sustained power efforts."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:13:56.251491+00:00"
+}

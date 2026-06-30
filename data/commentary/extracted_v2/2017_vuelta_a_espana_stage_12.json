@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-31",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARCZYNSKI Thomas attacked twice on final climb Puerto de Torcal (21km out), soloed to win while CONTADOR Alberto late-race attack plus FROOME crash gained 40 seconds.",
+    "winner": "MARCZYNSKI Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Contador attacked 20km from finish to join teammate in breakaway, exploiting Froome mechanical/crash vulnerability on descent.",
+      "Marczynski's double acceleration on Torcal eliminated Friday/Rojas, proving Polish champion could sustain repeated efforts at altitude.",
+      "Sky's tempo control gave breakaway 9 minutes but collapsed when Froome crashed, losing defensive formation at critical descent moment."
+    ],
+    "rider_signals": {
+      "CONTADOR Alberto": "positive: Aggressively attacked with 20km remaining to join teammate in break, exploiting terrain knowledge for 40-second gain",
+      "FROOME Christopher": "negative: Mechanical issue plus crash on descent revealed nervousness and vulnerability when isolated from Sky teammates",
+      "MARCZYNSKI Thomas": "positive: Second Vuelta stage win confirms ability to repeat explosive efforts on climbs, Tour de France weakness doesn't translate to Vuelta",
+      "DEVAL Julian": "negative: Crashed on Puerta de Leon descent while in winning break, lost contact with 14-man group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:12:57.790955+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Attacks on punchy, explosive climbs (10-12% gradients) rather than sustained long climbs. Prefers bridging to moves or following accelerations in final 30-40km rather than initiating solo attacks from distance.",
+  "team_tactics": "Team leadership often unclear with shared responsibilities (Kwiatkowski at Amstel). Used as high-altitude domestique for GC riders when not leading. Limited evidence of coordinated lead-out or tempo control from teammates.",
+  "terrain_preference": "Explosive punchy climbs (10-12%) and technical circuits suit best. Struggles on sustained pure climbing efforts and longer Ardennes-style drags. Time trial capable (beat Ganna in Tour debut). Excels on technical descents and positioning battles.",
+  "vulnerability": "Distanced on sustained climbs and longer drags (dropped Côte de Cherave, distanced Amstel climbs, only closed gaps on flatter sections). Illness disrupts form significantly (2022 Fleche). Crash-prone with multiple incidents across seasons.",
+  "key_patterns": [
+    "Crash incidents frequent but recovery capacity exceptional (finished 6th Fleche after crash relay, 2023)",
+    "Elite positioning instincts: bridges to key moves and follows accelerations rather than solo attacks (4 instances)",
+    "Stronger on explosive punchy gradients 10-12% than sustained climbing (Fleche dropped, Tour stage podiums)",
+    "Time trial ability exceeds typical classics specialist profile (beat Ganna Tour debut TT)",
+    "Form fragility: illness and crashes disrupt preparation, affecting performance windows (2022 Fleche, 2023 Tirreno crash)",
+    "Extending climbing range for stage races but still limited on pure climbing tests (LBL 2nd notable)"
+  ],
+  "form_trajectory": "neutral: 2023 showed range extension (LBL 2nd) but also form inconsistency (Tirreno crash/struggles). Transition from classics focus to GC domestique role by Tour suggests tactical repositioning rather than pure form trajectory.",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "PIDCOCK Tom",
+  "built_from": [
+    "2021 Amstel Gold Race",
+    "2021 La Fleche Wallonne",
+    "2022 Amstel Gold Race",
+    "2022 Dwars door Vlaanderen",
+    "2022 La Fleche Wallonne",
+    "2022 Tour de France Stage 1",
+    "2022 Tour de France Stage 6",
+    "2022 Tour de France Stage 8",
+    "2023 Amstel Gold Race",
+    "2023 Liege-Bastogne-Liege",
+    "2023 Tirreno-Adriatico Stage 4",
+    "2023 Tirreno-Adriatico Stage 6",
+    "2023 Tour de France Stage 20"
+  ]
+}

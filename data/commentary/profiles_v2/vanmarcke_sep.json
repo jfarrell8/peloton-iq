@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not typically animate races himself; prefers to position conservatively and wait for opportunities rather than initiating attacks, even when in contention for podium positions.",
+  "team_tactics": "Conservative team tactics that prioritize positioning over aggressive racing. Limited evidence of team setting tempo or creating launching opportunities for Vanmarcke.",
+  "terrain_preference": "Flemish monument terrain suits him well - consistently places in top-5 on cobbled climbs and pavé sectors. Strong enough to stay with leading groups but not explosive enough to create separation.",
+  "vulnerability": "Susceptible to bad luck in critical moments (crashes on key climbs). Lacks animation and attacking impulse when positioned well, potentially missing podium opportunities through passivity.",
+  "key_patterns": [
+    "Consistent top-5 finisher in Flemish monuments without animating the race (2 races)",
+    "Positioned well in chase groups on critical climbs but doesn't attack (2 races)",
+    "Conservative racing approach even when podium positions are realistic (2 races)"
+  ],
+  "form_trajectory": "neutral: Consistent top-5 placement suggests steady form in Flemish races, but lack of progression from chase to podium indicates plateau",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VANMARCKE Sep",
+  "built_from": [
+    "2017 Ronde Van Vlaanderen",
+    "2018 Ronde Van Vlaanderen"
+  ]
+}

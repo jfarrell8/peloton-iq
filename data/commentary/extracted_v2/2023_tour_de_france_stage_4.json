@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-04",
+  "stage": 4,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won stage 4 intermediate sprint and stage finish after late crashes split the peloton, executing textbook leadout while rivals scrambled.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal-Quick-Step radio explicitly ordered closing dangerous moves at intermediate sprint, anticipating breakaway attempts at mid-race sprint points.",
+      "Peloton crash immediately after intermediate sprint created split requiring desperate chase, eliminating organized leadouts for actual finish sprint.",
+      "Alpecin executed intact leadout despite chaos while Jumbo-Visma and others lost sprinter positioning in split peloton."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Won both intermediate sprint and stage finish despite peloton chaos, suggesting superior positioning instincts or team protection through crashes",
+      "EWAN Caleb": "positive: Six inches from victory after three winless years, finished second after also nearly winning stage 3, form clearly returning",
+      "BAUHAUS Phil": "neutral: Third on both stage 3 and stage 4, consistent top-3 finisher but unable to convert positioning to wins",
+      "CAVENDISH Mark": "negative: Visible struggle to find wheels in chaotic sprint, needed to 'break soon' but couldn't get clear position",
+      "GROENEWEGEN Dylan": "negative: Mentioned trying to get through but blocked, suggesting leadout issues or poor pre-sprint positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:58:49.445607+00:00"
+}

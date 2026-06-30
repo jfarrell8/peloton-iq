@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-09",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked within 5km to go on the final climb to Poman, gaining 24+ seconds on GC rivals when no organized chase emerged.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step/Soudal set pace on steepest climb section then immediately attacked, forcing Sky to respond rather than control",
+      "THOMAS attacked same location as Steels previous year, suggesting finish-specific tactical knowledge of Poman approach",
+      "DUMOULIN soloed across gaps when group neutralized behind Thomas, gaining time on GC rivals unwilling to chase",
+      "Lead group stalemate: CASTRAVIEJO and JUNGELS refused mutual chase responsibility, allowing 24-second gap to become unbridgeable"
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: Responded to Quick-Step attacks then immediately counterattacked within 5km, showing superior form recovery after TTT disappointment",
+      "DUMOULIN Tom": "positive: Bridged gaps solo to take second, demonstrating diesel power while others sat behind marked",
+      "SAGAN Peter": "neutral: Present in lead group but third place suggests inability to follow accelerations or contest sprint",
+      "JUNGELS Bob": "negative: Refused to chase THOMAS despite being in lead group, suggesting either tactical confusion or lack of form",
+      "CASTRAVIEJO Jonathan": "negative: Declined to organize chase when in lead group, potentially protecting teammate but allowing GC damage",
+      "YATES Caleb": "negative: Abandoned race early in stage, eliminating sprint threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:02:15.954790+00:00"
+}

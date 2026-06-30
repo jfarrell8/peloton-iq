@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-29",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAVENDISH won his 31st Tour stage in a bunch sprint at Fougères, delivered by Mørkøv after Ballerini mechanical, beating PHILIPSEN and NAESEN on the line.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Deceuninck lost Ballerini to mechanical in finale but pivoted to use world champion ALAPHILIPPE for final leadout pull.",
+      "PHILIPSEN nearly caught Cavendish at line suggesting UAE positioned too far back to overcome Mørkøv's textbook pilot.",
+      "VAN MOER rode for win to honor Lotto's Ewan injury, proving domestiques prioritized over regrouping sprint trains."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: First Tour stage win in 3 years at age 36 after near-retirement signals sustainable form, not fluke",
+      "BALLERINI Davide": "negative: Mechanical in finale exposed Deceuninck's thin sprint depth despite having green jersey as backup",
+      "ALAPHILIPPE Julian": "positive: World champion sacrificed position to pull for Cavendish demonstrates team commitment trumping individual GC",
+      "PHILIPSEN Jasper": "positive: Nearly caught Cavendish from disadvantaged position confirms top-3 sprint speed without perfect leadout",
+      "MØRKØV Michael": "positive: Delivered perfect pilot after losing Ballerini proves he's essential to Cavendish resurgence, not just complementary",
+      "VAN MOER Brent": "neutral: Rode aggressively for Ewan after teammate's crash but lacked pure speed against top sprinters"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:53:14.182443+00:00"
+}

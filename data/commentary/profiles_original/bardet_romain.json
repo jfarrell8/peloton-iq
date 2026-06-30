@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Launches late-race attacks in final 1-3km or from penultimate climbs, but often misjudges sustainability of efforts. Opportunistic breakaway rider who exploits mechanicals and rival weakness rather than pure power domination.",
+  "team_tactics": "AG2R showed ruthless attacking discipline when exploiting rival mechanicals (2017). By 2023 relegated to domestique/leadout duties at DSM, indicating loss of protected team status and GC leadership role.",
+  "terrain_preference": "Summit finishes and multi-climb stages where tactical positioning matters more than sustained watts. Struggles on sustained high-altitude tempo efforts and time trials where pacing strategy repeatedly fails.",
+  "vulnerability": "Cannot follow sustained high-altitude tempo (dropped by Roglič), poor time trial execution with equipment/pacing errors, lacks power to sustain long solo efforts (19km caught). Physically fragile with multiple mechanicals/crashes ending campaigns.",
+  "key_patterns": [
+    "Repeatedly misjudges effort sustainability: 19km solo caught, mid-TT bike change disaster, poor pacing strategy (3 instances)",
+    "Exploits time bonuses and tactical chaos rather than raw climbing dominance (bonus sprints, mechanical attacks)",
+    "Form fragility: chain throws, crashes, 12-minute losses suggest physical vulnerability compounds bad luck (3 races)",
+    "Declining status: GC podium contender 2017-2022, demoted to domestique duties by 2023 at DSM",
+    "Time trial weakness consistently hemorrhages GC time through equipment and pacing errors (2019 examples)"
+  ],
+  "form_trajectory": "negative: Declined from GC podium contender (2017-2022) to domestique role (2023). Recent attacks lack sustained power despite aggressive intent. Physical fragility and tactical errors compounding.",
+  "races_analysed": 14,
+  "confidence": "high",
+  "rider_name": "BARDET Romain",
+  "built_from": [
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 15",
+    "2017 Tour de France Stage 15",
+    "2017 Tour de France Stage 18",
+    "2017 Tour de France Stage 18",
+    "2019 Tour de France Stage 13",
+    "2019 Tour de France Stage 13",
+    "2019 Tour de France Stage 18",
+    "2019 Tour de France Stage 6",
+    "2021 La Vuelta ciclista a Espana Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2022 Tour de France Stage 11",
+    "2022 Tour de France Stage 12",
+    "2023 La Vuelta Ciclista a Espana Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 6",
+    "2023 Tour de Suisse Stage 2",
+    "2023 Tour de Suisse Stage 4"
+  ]
+}

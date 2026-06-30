@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Pure sprinter who launches final effort in last 200-300m. Thrives in disorganized, chaotic finishes where positioning gaps emerge rather than structured leadouts.",
+  "team_tactics": "Team employs blocking tactics (road choking 1200m out) to disrupt rivals' positioning, creating chaos that suits Modolo's opportunistic style over organized trains.",
+  "terrain_preference": "Flat bunch sprints with disorganized or compromised finales. Struggles when pure speed is required in perfectly structured sprints against top-tier sprinters.",
+  "vulnerability": "Launches sprint too early and fades when forced to go from distance. Lacks finishing speed when team tactics succeed but rider form doesn't match. Can be intimidated/boxed by stronger sprinters.",
+  "key_patterns": [
+    "Excels specifically in chaotic, messy sprints where organization collapses (3 observations).",
+    "Finds unconventional gaps through center or broken positioning when leadouts fail (2 observations).",
+    "Team blocking tactics frequently better than his finishing execution (2 observations).",
+    "Timing issues: launches too early and fades in pure speed contests (2 observations)."
+  ],
+  "form_trajectory": "neutral: 2021 win ended long drought but came in disorganized finale; 2018 form showed team tactics outperforming rider capabilities",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "MODOLO Sacha",
+  "built_from": [
+    "2017 Tour de Pologne Stage 2",
+    "2017 Tour de Pologne Stage 2",
+    "2017 Vuelta a Espana Stage 2",
+    "2018 Giro d'Italia Stage 13",
+    "2018 Giro d'Italia Stage 13",
+    "2018 Giro d'Italia Stage 3",
+    "2018 Tour de Pologne Stage 1",
+    "2021 Tour de Pologne Stage 3",
+    "2021 Tour de Pologne Stage 3"
+  ]
+}

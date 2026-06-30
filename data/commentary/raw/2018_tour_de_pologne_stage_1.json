@@ -4,12 +4,12 @@
   "race_date": "2018-08-04",
   "stage": 1,
   "video": {
-    "video_id": "B-jKFICcF0U",
-    "title": "Tour of Guangxi 2018: Stage 1 extended highlights",
-    "published": "2018-10-17 10:31:39+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=B-jKFICcF0U",
-    "match_score": 89.81,
+    "video_id": "_80nDmui9B8",
+    "title": "Tour de Pologne 2018 | Stage 1 Finish Highlights | Cycling | Eurosport",
+    "published": "2018-08-07 10:29:48+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=_80nDmui9B8",
+    "match_score": 120.0,
     "all_candidates": [
       {
         "video_id": "_80nDmui9B8",
@@ -26,6 +26,13 @@
         "match_score": 89.81
       },
       {
+        "video_id": "6IUJgiKJ_mE",
+        "title": "Tour of Utah 2018 | Stage 1 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2018-08-08 19:00:00+00:00",
+        "match_score": 89.29
+      },
+      {
         "video_id": "gXPMh7bky6M",
         "title": "Tour of Utah 2018 | Stage 1 Finish Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
@@ -33,11 +40,11 @@
         "match_score": 89.29
       },
       {
-        "video_id": "6IUJgiKJ_mE",
-        "title": "Tour of Utah 2018 | Stage 1 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2018-08-08 19:00:00+00:00",
-        "match_score": 89.29
+        "video_id": "Cz16Y4xLeqU",
+        "title": "Tour de Pologne 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-07 15:31:33+00:00",
+        "match_score": 80.0
       },
       {
         "video_id": "JDXjXLsKtAI",
@@ -54,24 +61,17 @@
         "match_score": 80.0
       },
       {
-        "video_id": "Cz16Y4xLeqU",
-        "title": "Tour de Pologne 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
+        "video_id": "dJA_UVhOpjU",
+        "title": "Tour de Romandie 2018 | Stage 1 Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
-        "published": "2018-08-07 15:31:33+00:00",
-        "match_score": 80.0
+        "published": "2018-04-25 17:02:08+00:00",
+        "match_score": 78.0
       },
       {
         "video_id": "E9YVh89sa4U",
         "title": "Tour de Romandie 2018 | Stage 1 Highlights | inCycle",
         "channel": "inCycle",
         "published": "2018-04-25 16:37:21+00:00",
-        "match_score": 78.0
-      },
-      {
-        "video_id": "dJA_UVhOpjU",
-        "title": "Tour de Romandie 2018 | Stage 1 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-04-25 17:02:08+00:00",
         "match_score": 78.0
       },
       {
@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 29,
+    "raw_chars": 1039,
+    "clean_chars": 1039,
+    "duration_mins": 1.4,
+    "clean_text": "and quick step floors on the front mitchelton's got drag racing then looks like we've got sasha modelo up there as well for ef drapac no one team really got control of this at the moment but step floors trying to do everything they can oh that was very close as well one of the uh mitchelton scott riders taking avoiding action lotto nl jumbo with boy van popple making a good run here 600 meters to go sky also getting involved in the mix but lotto and el jumbo not gonna be able to get on terms at the moment and it looks like quick step floors have got this one in the front but ackerman having been at the front for the whole of the last 10 kilometers he's really dominating this one hasn't got anyone in front of him from his own team but look at the gap he's opened up already he's being run out by mitchelton scott and quickstep flaws but pascal ackerman from borah has gone having taken a fantastic win in ride london holds on to take the first stage of the tour of poland into krakow passed our ackermann from borah handsgrove you",
+    "preview_start": "and quick step floors on the front mitchelton's got drag racing then looks like we've got sasha modelo up there as well for ef drapac no one team really got control of this at the moment but step floors trying to do everything they can oh that was very close as well one of the uh mitchelton scott riders taking avoiding action lotto nl jumbo with boy van popple making a good run here 600 meters to go sky also getting involved in the mix but lotto and el jumbo not gonna be able to get on terms at ",
+    "preview_end": " floors have got this one in the front but ackerman having been at the front for the whole of the last 10 kilometers he's really dominating this one hasn't got anyone in front of him from his own team but look at the gap he's opened up already he's being run out by mitchelton scott and quickstep flaws but pascal ackerman from borah has gone having taken a fantastic win in ride london holds on to take the first stage of the tour of poland into krakow passed our ackermann from borah handsgrove you"
+  },
+  "status": "transcript_saved"
 }

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Stage-hunting time trial specialist who targets late-GT ITTs rather than road stages. Preserves energy through early weeks to peak for specific TT opportunities.",
+  "team_tactics": "Operates independently as protected stage hunter rather than GC support; team allows anonymous positioning through road stages to conserve watts for TT efforts.",
+  "terrain_preference": "Flat to rolling individual time trials in final week of Grand Tours when accumulated fatigue creates opportunity against favorites. Exposed on mountain stages.",
+  "vulnerability": "Three-week road stages where anonymity suggests inability to compete; likely struggles when required to contribute to team tactics before target TT stages.",
+  "key_patterns": [
+    "Deliberately anonymous through GT road stages to preserve form for late-race time trial",
+    "Peaks timing perfectly for final week ITT after three weeks of energy conservation",
+    "Capable of beating pure TT specialists when fresh legs meet their accumulated fatigue"
+  ],
+  "form_trajectory": "unknown: Single observation shows successful peaking strategy but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HAGA Chad",
+  "built_from": [
+    "2019 Giro d'Italia Stage 21",
+    "2019 Giro d'Italia Stage 21"
+  ]
+}

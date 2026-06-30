@@ -1,0 +1,24 @@
+{
+  "label": "2021 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-11",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MODOLO Sacha won stage 3 of Tour de Luxembourg after breakaway containing virtual leader O'CONNOR Ben was caught inside final kilometers despite half-hearted peloton chase",
+    "winner": "MODOLO Sacha",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ALMEIDA João's DECEUNINCK QUICK-STEP chased O'CONNOR breakaway to protect 4-second GC deficit before final day TT, revealing willingness to work.",
+      "Sprinter teams split chase effort with GC squads when breakaway contains virtual leader, creating slower pursuit than pure sprint stage.",
+      "BAUER Jack bridge attempt with 12.2km remaining triggered coordinated peloton response, suggesting breakaway could have survived without late aggression."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "positive: positioned in breakaway to gain time as virtual leader, forcing GC teams into chase work",
+      "ALMEIDA João": "positive: team chased O'CONNOR breakaway aggressively despite wearing points jersey, prioritizing GC before TT stage",
+      "MODOLO Sacha": "positive: ended long winless drought in messy sprint, suggesting form timed for less-organized finales"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:12:11.717269+00:00"
+}

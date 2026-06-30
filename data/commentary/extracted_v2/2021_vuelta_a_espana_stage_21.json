@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 21",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won his 4th stage and 3rd consecutive Vuelta, sprinting past MARCEAU Enric in the final 200m of the stage 21 time trial to beat CORT Magnus by 14 seconds.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ attacked final 200m of TT to steal stage from CORT, showing willingness to empty tank even with 4:42 GC gap secured.",
+      "MARCEAU Enric sprinted full gas in closing meters of TT, forcing ROGLIČ to go around him for stage win despite massive GC cushion.",
+      "CORT Magnus went out 28 seconds ahead at second intermediate but couldn't extend lead, revealing pacing limitations on rolling TT courses."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Attacked final 200m of ITT for stage win despite 4:42 GC advantage, revealing unprecedented form and competitive aggression",
+      "MARCEAU Enric": "positive: Full sprint finish in TT suggests unexploited Tour de France opportunity had he not crashed week one",
+      "CORT Magnus": "positive: Led TT by 28s at checkpoint but faded, holding advantage through first half only on 2100ft climbing course",
+      "ARU Fabio": "negative: Retired at 31 after four consecutive years of declining results despite early Vuelta win and Giro podium",
+      "HAIG Jack": "neutral: Inside 3 minutes of ROGLIČ, only rider within podium threat range entering final TT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:02:02.517547+00:00"
+}

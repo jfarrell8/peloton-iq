@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker profile. Time trial specialist who focuses on individual efforts against the clock rather than road race attacks.",
+  "team_tactics": "Used strategically by BMC to shield from excessive work when protecting young rider classification. Team balances his developmental trajectory against immediate domestique duties for team leaders like Porte.",
+  "terrain_preference": "Time trials are his primary strength, demonstrated as only non-Sky rider competitive in TTT at young age. Flat and rolling terrain where TT power translates effectively.",
+  "vulnerability": "Exposed when forced into heavy domestique work on mountain stages. Team's reluctance to use him for Porte support suggests climbing limitations or desire to preserve energy for TT efforts.",
+  "key_patterns": [
+    "Strong time trial performances at young age, threatening established specialists (2 observations)",
+    "Team actively protects him from excessive workload to preserve GC/classification position (2 observations)",
+    "Positioned as future talent rather than current workhorse domestique by BMC management (2 observations)"
+  ],
+  "form_trajectory": "positive: Identified as emerging TT threat and protected for classifications, indicating upward development curve and team investment in long-term potential",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KUENG Stefan",
+  "built_from": [
+    "2017 Tour de France Stage 1",
+    "2017 Tour de France Stage 2"
+  ]
+}

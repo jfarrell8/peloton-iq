@@ -1,0 +1,30 @@
+{
+  "label": "2018 Criterium du Dauphine",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-01-01",
+  "stage": 0,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michał won the 6.6km prologue by 1.66 seconds over VAN EMDEN Jos, while GC contenders THOMAS Geraint crashed and BARDET/NIBALI lost 20+ seconds.",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky deployed three-card tactic in prologue with KWIATKOWSKI, THOMAS, MOSCON all top performers despite THOMAS crash.",
+      "VAN EMDEN Jos set early benchmark time forcing GC favorites to overextend; Dutch specialist pacing strategy exposed weaker time trialists.",
+      "BARDET Romain and NIBALI Vincenzo both lost 20+ seconds in flat prologue, signaling poor time trial form pre-Tour."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michał": "positive: Won prologue after 40-day racing absence, showing peak Tour preparation form in specialist discipline.",
+      "THOMAS Geraint": "negative: Major crash mid-prologue yet finished only 21 seconds down, indicating strong but compromised GC position.",
+      "VAN EMDEN Jos": "positive: Second place as non-GC rider proves Team LottoNL-Jumbo time trial depth threatens team time trial stages.",
+      "MOSCON Gianni": "positive: Third place confirms Sky's multi-leader depth beyond designated GC captains THOMAS and KWIATKOWSKI.",
+      "BARDET Romain": "negative: Finished ~50th, 20+ seconds down on flat 6.6km course exposes critical time trial weakness before Tour.",
+      "NIBALI Vincenzo": "negative: Similar 20+ second loss to BARDET after three-year Dauphiné absence suggests insufficient stage race preparation.",
+      "YATES Adam": "neutral: Finished alongside THOMAS at +21 seconds despite no crash, revealing time trial remains limiting factor.",
+      "CASTROVIEJO Jonathan": "positive: Top-ten finish as domestique suggests strong form for supporting Sky leaders in later time trials.",
+      "JUNGELS Bob": "positive: Top-ten performance confirms Quick-Step rider can challenge GC despite not being designated leader."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:21:11.700162+00:00"
+}

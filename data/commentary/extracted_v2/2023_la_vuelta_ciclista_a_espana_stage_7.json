@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 7",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-01",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SOUPE Geoffrey won the sprint from support duties when leadout target Van Gestel wasn't positioned, beating AULAR by centimeters at 350m.",
+    "winner": "SOUPE Geoffrey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Intermediate sprint at 35km out drew Vingegaard bonus-hunting, revealing GC ambitions despite flat stage—climbers fighting for seconds early.",
+      "Final corner at 350m to go created positioning chaos; Gonzales dive-bomb for Kikko Real scattered multiple leadout trains mid-sprint.",
+      "Coastal wind factor after intermediate sprint failed to split peloton; predicted echelon threat never materialized despite high speeds."
+    ],
+    "rider_signals": {
+      "SOUPE Geoffrey": "positive: Support rider capitalized when Van Gestel missed positioning, suggesting opportunistic sprint speed beyond pure domestique capability.",
+      "AULAR Orluis": "positive: Venezuelan champion showed independent sprint positioning through middle chaos, nearly winning without organized leadout.",
+      "GROVES Kaden": "negative: Dominant back-to-back winner disappointed despite extending points lead, suggesting fatigue or tactical error in technical finale.",
+      "VINGEGAARD Jonas": "neutral: Contested intermediate sprint for bonus seconds on flat stage, indicating GC time-gaps tight enough to justify energy expenditure.",
+      "ARENSMAN Thymen": "negative: Crashed heavily 5km out into already-fallen rider, abandoned race—Ineos losing key mountain support before critical weekend.",
+      "THOMAS Geraint": "negative: Early cornfield excursion requiring medical attention to knee, poor demeanor suggests injury affecting remaining Vuelta ambitions."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:50:39.823102+00:00"
+}

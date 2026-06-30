@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-20",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked inside final km on Cat-1 Alto de Arrate, soloed to win as KUSS destroyed the field with pace-making.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KUSS Sepp's sustained tempo on final Cat-1 eliminated contenders before ROGLIČ's attack, winning KOM jersey incidentally through domestique work.",
+      "Jumbo-Visma placed five riders in top positions showing depth overwhelmed rivals who lacked collective firepower on mountain stages.",
+      "ROGLIČ attacked before technical finish twists, not at steepest gradient, exploiting descending/cornering skills rather than pure climbing."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "negative: crashed on narrow roads mid-race, eliminated from stage win contention, revealing vulnerability on technical wet descents",
+      "MARTÍNEZ Dani": "neutral: crashed early but chased back with teammates waiting, ankle complaint suggested injury management concerns for stage race",
+      "FROOME Chris": "negative: struggled throughout, couldn't follow on descent, commentary suggests packing it in rather than contending",
+      "CARAPAZ Richard": "positive: only rider to chase ROGLIČ's attack effectively for second, animated on climbs unlike passive rivals",
+      "MAS Enric": "positive: finished strong as last Movistar rider behind KUSS, gained 50-second buffer in young rider classification over nearest rival",
+      "VALVERDE Alejandro": "negative: lost over a minute on hilly stage that commentators considered mountain-level difficulty, age showing early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:29:04.643062+00:00"
+}

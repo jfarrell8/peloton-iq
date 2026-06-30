@@ -1,0 +1,29 @@
+{
+  "label": "2021 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-27",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MOHORIČ attacked under 50km on Signal de Uchon debut climb, held off chasers while ROGLIČ lost 3+ minutes after early crashes.",
+    "winner": "MOHORIČ Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR infiltrated 29-rider break as race leader, unprecedented move forced rivals to chase entire stage exhausting support.",
+      "MOHORIČ launched winning move on Signal de Uchon's debut climb sub-50km, proving unfamiliar climbs favor aggressive specialists.",
+      "CARAPAZ late attack negated by MOVISTAR pacing down bonus seconds, revealing team interests conflicted with GC ambitions.",
+      "JUMBO-VISMA left ROGLIČ isolated losing 3+ minutes, indicating team already abandoning GC defense after early crashes."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "neutral: yellow jersey in 29-rider break forced UAE to miss breakaway coverage, risky but controlled green jersey threat",
+      "CAVENDISH Mark": "positive: picked up 20 points in break extending green lead to 66, showing willingness to ride 249km tactically",
+      "MOHORIČ Matej": "positive: redemption stage win after HAY crash disaster, attacked unfamiliar climb with confidence showing Bahrain morale intact",
+      "ROGLIČ Primož": "negative: lost 3+ minutes with zero teammates present, crashes degraded both form and team support structure",
+      "CARAPAZ Richard": "negative: strong attack nullified by Movistar chasing for MAS, revealing internal team GC hierarchy constraints",
+      "VAN AERT Wout": "positive: chased bonus seconds despite being in yellow group, showing dual GC-stage ambitions",
+      "VAN DER POEL Mathieu": "positive: actively chasing late despite yellow jersey, maintaining aggression on 249km stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:57:24.390589+00:00"
+}

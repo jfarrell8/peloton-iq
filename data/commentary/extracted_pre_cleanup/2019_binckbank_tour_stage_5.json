@@ -1,0 +1,28 @@
+{
+  "label": "2019 BinckBank Tour Stage 5",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-16",
+  "stage": 5,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HODEG won the sprint after Deceuninck-Quick-Step maintained composure through chaotic finale positioning, beating BENNETT who was trapped wide on barriers.",
+    "winner": "HODEG Álvaro José",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-Quick-Step conserved resources by sitting neutral until 1100m while Trek-Segafredo burned energy leading, revealing positioning patience outweighs tempo control.",
+      "BENNETT isolated wide on barriers after following Bahrain domestique drift shows sprinter vulnerability when following unfamiliar leadout trains in messy finales.",
+      "DÉMARE's FDJ leadout collapsed early forcing lone follow tactics, suggesting depth issues when SINKELDAM went down with 2-3km remaining."
+    ],
+    "rider_signals": {
+      "HODEG Álvaro José": "positive: delivered first WT win with full team support after team previously prioritized GILBERT overall, showing sprinter capability when unleashed",
+      "BENNETT Sam": "negative: beaten despite red jersey position, trapped wide by poor positioning choices following non-FDJ leadout, showing tactical vulnerability in chaos",
+      "HIRSCH Marc": "neutral: Sunweb uncertain whether deploying him as sprinter or BAUHAUS, 4 seconds off GC suggests TT capability could threaten WELLENS tomorrow",
+      "DÉMARE Arnaud": "negative: finished fifth after isolated late surge, FDJ leadout dysfunction left him tactically compromised despite being Milan-Sanremo winner",
+      "THEUNS Edward": "neutral: Trek-Segafredo worked primarily for him over MOSETTI, finished third showing sprint form but squad wasted energy leading finale",
+      "SINKELDAM Ramon": "negative: crashed helping DÉMARE's leadout, FDJ's key sprint domestique loss exposed team's shallow depth for stage racing",
+      "WELLENS Tim": "neutral: holds 4-second GC lead over HIRSCH into 8km TT, margin vulnerable given HIRSCH's age and specialist capability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:51:45.721175+00:00"
+}

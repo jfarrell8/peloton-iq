@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2021-04-28",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won the circuit finish sprint after BORA-hansgrohe controlled eight climbs on the repeated circuit, taking 10-second bonus.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-hansgrohe paced entire circuit with eight climbs to control for SAGAN rather than letting breakaway form.",
+      "SAGAN attacked entering final right-hander 650m out but soft-pedaled to win from draft, suggesting sprint confidence.",
+      "Teams selected sprinters on climbing ability: BAUHAUS absent from lead group after repeated 4-lap circuit climbs."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: frustrated by race speed but won first race after three-week break, planning Giro prep through difficult mountain stages",
+      "COLBRELLI Sonny": "neutral: second place with TRETNIK leadout shows climbing form holding despite repeated circuit ascents",
+      "BAUHAUS Phil": "negative: dropped from lead sprint group on repeated circuit climbs, less climbing durability than SAGAN/COLBRELLI",
+      "DENNIS Rowan": "positive: maintains GC lead by 9 seconds over teammate PIDCOCK after controlling stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:55:25.241165+00:00"
+}

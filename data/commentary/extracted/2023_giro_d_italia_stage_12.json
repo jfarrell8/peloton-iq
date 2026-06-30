@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENZ Nico attacked from 4-rider break at 12km to go on Colle Brianza, absorbed chasers in final 3km, won solo sprint.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "30-rider breakaway fractured to 5 then 4 on penultimate climb; GC teams allowed 8+ minute gap without chase.",
+      "DENZ attacked 12km out on Colle Brianza despite being marked as fastest sprinter, forcing others to chase.",
+      "Break composition with 26 initially suggested teams prioritized stage hunting over GC positioning before mountain stages."
+    ],
+    "rider_signals": {
+      "DENZ Nico": "positive: Won from 4-rider break despite nearly being dropped on final climb, showing resilience under duress converted to attack.",
+      "GROVES Kaden": "negative: Abandoned race due to illness, significant sprint threat removed from competition.",
+      "BATTISTELLA Samuele": "negative: Dropped from initial break due to sickness, unable to sustain early effort.",
+      "COMRAD Patrick": "negative: Lost several minutes in GC group, significant time leak for Bora-Hansgrohe backup plan."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:01:21.017679+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-08",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won the Stage 3 bunch sprint from 300m out after Quick-Step Alpha Vinyl broke their 4-year Giro stage win drought",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step controlled final kilometer despite no Giro stage win in 4 years, suggesting renewed sprint train confidence.",
+      "Pascal Eenkorn attacked pre-categorized climb 12km from finish for KOM points, revealing GC teams allowed non-threatening moves late.",
+      "Cavendish launched at 300 meters, unusually early for modern sprint finishes, yet held off faster closers through positioning.",
+      "Alpecine-Fenix led with 3km remaining but faded by 1km, exposing their leadout depth compared to Quick-Step."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: Won at nearly 37 years old after 9-year Giro absence, suggesting form peaked specifically for this race block",
+      "DE MAAR Arnaud": "positive: Second place without dedicated leadout indicates raw speed competitive with supported sprinters",
+      "GAVIRIA Fernando": "neutral: Third place matches pre-race form expectations but couldn't match Cavendish's early jump timing",
+      "NIZZOLO Giacomo": "negative: Alpecine-Fenix leadout dissolved before final kilometer, failed to deliver promised sprint support",
+      "EENKORN Pascal": "positive: Attacked for KOM points despite GC pressure building, shows KOM jersey ambitions overriding team sprint duties"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:10:05.243505+00:00"
+}

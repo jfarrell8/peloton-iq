@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive solo moves from reduced breakaway groups on uncategorized rises with 12-15km remaining, using classics power to sustain long efforts to the line.",
+  "team_tactics": "Operates with freedom in breakaways as stage-hunting specialist, relying on individual strength rather than team setup once in the move.",
+  "terrain_preference": "Punchy uncategorized climbs that thin breakaways but don't favor pure climbers; flat-to-rolling finales where classics power sustains solo efforts over 10+ kilometers.",
+  "vulnerability": "Likely exposed on categorized mountain stages where pure climbers dominate; requires breakaway freedom rather than team-dependent scenarios.",
+  "key_patterns": [
+    "Attacks from reduced breakaways rather than peloton, timing moves on terrain transitions.",
+    "Sustains long solo efforts (12km documented), leveraging classics engine over pure sprint speed.",
+    "Targets stages where classics power bridges gap between sprinters and climbers."
+  ],
+  "form_trajectory": "positive: Immediate Grand Tour stage success as first-year Bora signing demonstrates effective adaptation to three-week racing format",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "POLITT Nils",
+  "built_from": [
+    "2021 Tour de France Stage 12",
+    "2021 Tour de France Stage 12"
+  ]
+}

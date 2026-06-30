@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour of Oman Stage 4",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-17",
+  "stage": 4,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KELDERMAN Sam won Stage 4 after Sunweb let breakaway rider DLOOSE Lawrence absorb the pace-making effort before counterattacking in final meters on Qurayyat climb",
+    "winner": "KELDERMAN Sam",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Sunweb deployed domestique to bridge then counterattack rather than chase directly, preserving leader's energy for final sprint.",
+      "Pelaton split on climb approach suggests fast tempo before summit rather than traditional late acceleration pattern."
+    ],
+    "rider_signals": {
+      "DLOOSE Lawrence": "neutral: animated breakaway riding but caught meters from line suggests insufficient power reserve for summit finishes",
+      "KELDERMAN Sam": "positive: 22-year-old's first pro win via tactical patience shows Sunweb developing stage race finisher skills"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:10:59.180516+00:00"
+}

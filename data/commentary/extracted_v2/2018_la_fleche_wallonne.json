@@ -1,0 +1,25 @@
+{
+  "label": "2018 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2018-04-18",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won after overtaking VAN AVERMAET on the final Mur de Huy ascent, breaking VALVERDE's four-year winning streak",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step placed multiple riders including TOPSKAERT and DECLERCQ in early break, pre-positioning for Mur finale control",
+      "VAN AVERMAET attacked solo entering the valley before Huy, gaining 4-15 seconds but burned matches before final climb",
+      "ALAPHILIPPE waited until final Mur ascent to accelerate despite having teammates forward, refused to chase earlier"
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: third podium in three participations before breakthrough win, suggesting progressive climb mastery on Mur de Huy",
+      "VALVERDE Alejandro": "negative: five-time winner beaten to second after four consecutive victories, showing age vulnerability on steep finale",
+      "VAN AVERMAET Greg": "negative: Milan-San Remo winner's solo attack caught on final climb, classics power insufficient for Mur gradient",
+      "GILBERT Philippe": "neutral: fourth place suggests BMC lacked numerical advantage compared to Quick-Step's multi-rider positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:24:06.639929+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 15",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-10",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "COSTA Rui won a three-up sprint after mind games with BUTRAGO and KEMNA, who crashed late then recovered.",
+    "winner": "COSTA Rui",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma marked SOLAIRE specifically after his previous stage win here, revealing their memory-based threat assessment approach.",
+      "EVENEPOEL collected mountain points deliberately despite breakaway being his secondary objective, signaling KOM competition as fallback goal.",
+      "KEMNA bridged to leaders after DENZ was marked too dangerous, showing team willingness to sacrifice higher-placed riders tactically.",
+      "COSTA used sustained psychological warfare with both BUTRAGO and KEMNA on final climb to soften rivals before sprint."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "neutral: lacked resources on final climb compared to previous aggressive riding, suggesting selective energy management before rest day",
+      "THOMAS Geraint": "negative: crashed again with burst gels suggesting handling vulnerability that persists despite experience",
+      "DENZ Nico": "neutral: marked too dangerous by peloton to stay in break despite teammate KEMNA allowed forward, revealing GC threat assessment",
+      "KEMNA Lenny": "negative: misjudged corner badly enough to crash while holding winning position, then lost sprint after recovery",
+      "BUTRAGO Santiago": "negative: fell victim to COSTA's psychological tactics despite being physically present in winning move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:05:49.422549+00:00"
+}

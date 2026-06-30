@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data to determine attacking patterns. Single observation shows TT capability rather than road racing attack behavior.",
+  "team_tactics": "No team tactical patterns observable from available data.",
+  "terrain_preference": "Demonstrated unexpected time trial capability, finishing 2nd provisionally only 9s down despite being classified as non-TT specialist. Climbing background suggests versatility.",
+  "vulnerability": "Unknown - insufficient race observations to identify weaknesses or compromised scenarios.",
+  "key_patterns": [
+    "Insufficient observations to establish reliable patterns - only 1 race analyzed"
+  ],
+  "form_trajectory": "unknown: Single 2018 Giro TT result shows strong performance but no longitudinal data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GONZALEZ Jose",
+  "built_from": [
+    "2018 Giro d'Italia Stage 1",
+    "2018 Giro d'Italia Stage 1"
+  ]
+}

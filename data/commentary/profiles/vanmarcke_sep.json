@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Opportunistic rather than aggressive; targets bonus seconds and positioning moves (23km out at BinckBank) but rarely initiates decisive attacks in Monument finales even when well-positioned.",
+  "team_tactics": "Transitioned from protected leader (BMC 2018) to domestique role (EF 2019), suggesting teams recognized declining finishing capacity. Limited evidence of dedicated team setup in recent years.",
+  "terrain_preference": "Classic Flemish parcours (Roubaix sectors, Flanders bergs) where positioning matters, but lacks explosive power to capitalize on selective climbs despite being well-placed through them.",
+  "vulnerability": "Finale execution and tactical passivity; repeatedly reaches final groups but fails to animate or challenge for podium. Early crashes can completely eliminate race prospects (2018 Flanders).",
+  "key_patterns": [
+    "Tactically passive in finales despite strong positioning; multiple observations of presence without podium challenge",
+    "Form decline trajectory: protected leader 2017-2018 to domestique role by 2019 Flanders",
+    "Reaches decisive selections but fades in final sectors/kilometers across multiple Monuments",
+    "Bonus hunting and positioning moves early, but rarely follows through with decisive attacks"
+  ],
+  "form_trajectory": "negative: Clear regression from pre-race favorite (2018) to domestique duties (2019) with consistent fade pattern in Monument finales. No podium threats in most recent observations.",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "VANMARCKE Sep",
+  "built_from": [
+    "2017 Ronde Van Vlaanderen",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Ronde Van Vlaanderen",
+    "2018 Ronde Van Vlaanderen",
+    "2019 Paris-Roubaix",
+    "2019 Ronde Van Vlaanderen",
+    "2020 BinckBank Tour Stage 1"
+  ]
+}

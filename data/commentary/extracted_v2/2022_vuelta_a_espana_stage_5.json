@@ -1,0 +1,25 @@
+{
+  "label": "2022 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SOLER Marc attacked solo from mid-race, bridged 51 seconds to the breakaway, then won stage despite being dropped and catching back multiple times",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soler bridged 51 seconds solo after breakaway established, UAE allowed complete freedom suggesting GC squad prioritization shift.",
+      "Breakaway established extremely late after prolonged attacks, indicating peloton uncertainty about protecting red jersey with multiple team interests.",
+      "Jumbo-Visma gave Moliard 5-minute gap despite Fred Wright only 2 seconds behind, revealing willingness to sacrifice breakaway rider's GC position."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "positive: Either completely off or dominant with no middle ground, missed Tour time limit by 30 minutes weeks earlier then won here showing extreme volatility",
+      "MOLIARD Rudy": "positive: New race leader but only 2 seconds ahead suggests vulnerability, team may already dedicate resources elsewhere if told it's temporary",
+      "WRIGHT Fred": "negative: Breakaway companion given only 2-second deficit could have taken jersey with proper team support, Bahrain tactical passivity costly",
+      "ROGLIC Primoz": "neutral: Team allowed 5+ minute gap to breakaway riders, indicating either comfort with form or disinterest in defending red jersey this early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:33:46.708749+00:00"
+}

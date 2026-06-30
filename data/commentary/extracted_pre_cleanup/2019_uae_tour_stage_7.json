@@ -1,0 +1,27 @@
+{
+  "label": "2019 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2019-03-02",
+  "stage": 7,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won a sprint finish barely holding off EWAN Caleb after Team Jumbo-Visma delivered him perfectly positioned through the final kilometer",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MØRKØV Michael led out through final kilometer allowing Deceuninck Quick-Step's VIVIANI Elia third wheel positioning before peeling off late",
+      "SAGAN Peter lost positioning mid-sprint when teammateOSS Daniel advanced without him, forcing sagan to find gaps later",
+      "Team Jumbo-Visma controlled entire final kilometer setup, with JANSE VAN RENSBURG Reinardt doing heavy work before final leadout",
+      "EWAN Caleb timed finish rush perfectly from worse position, nearly overcoming GROENEWEGEN Dylan's superior leadout advantage"
+    ],
+    "rider_signals": {
+      "VAN GARDEREN Tejay": "negative: crashed into roadside barrier at 7km losing 2 minutes, suffered facial bleeding and required medical assessment before continuing",
+      "GROENEWEGEN Dylan": "positive: demonstrated precise positioning discipline staying in top-10 wheel positions through final 3km as planned",
+      "VIVIANI Elia": "neutral: secured optimal third-wheel position behind MØRKØV Michael leadout but lacked final acceleration to contest podium",
+      "SAGAN Peter": "negative: positioning error when separated fromOSS Daniel's forward move forced him to navigate through traffic mid-sprint",
+      "EWAN Caleb": "positive: overcame suboptimal positioning to nearly win, showing superior acceleration capacity from worse wheel than winner"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:14:47.698463+00:00"
+}

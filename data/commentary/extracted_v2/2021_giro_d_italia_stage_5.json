@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-12",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 5 bunch sprint after recovering from positioning deficit, passing VIVIANI and NIZOLO in final meters despite MALIA's dropped chain.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix leadout for MALIA collapsed with dropped chain under 3km, exposing vulnerability of single-train sprint setups in technical finales.",
+      "NIZOLO sprinted isolated on opposite side of road into headwind for extended duration, nearly held off protected sprinters despite tactical disadvantage.",
+      "Two separate breakaway waves from same teams (Androni, Bardiani) at 68km and earlier suggests coordinated sponsor exposure strategy on guaranteed sprint stages."
+    ],
+    "rider_signals": {
+      "SIVAKOV Pavel": "negative: crashed with peloton nervousness on flat sprint stage, finished 13 minutes down, suggests positioning fragility",
+      "LANDA Mikel": "negative: abandoned race after crash inside 5km on flat stage, eliminated GC contender before mountains",
+      "MALIA Tim": "negative: mechanical failure under 3km negated Alpecin-Fenix leadout investment, now 0-for-2 in sprint opportunities",
+      "NIZOLO Giacomo": "positive: 11th career second place but leads points classification, demonstrates consistency in chaotic sprints despite poor positioning",
+      "EWAN Caleb": "positive: recovered from poor positioning to win, shows exceptional acceleration when already committed late in sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:39:52.445420+00:00"
+}

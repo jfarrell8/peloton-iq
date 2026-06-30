@@ -1,0 +1,24 @@
+{
+  "label": "2021 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2021-03-06",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL attacked on final gravel sector, dropped ALAPHILIPPE and BERNAL on last climb 500m out to win solo",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POEL's decisive move came on penultimate gravel sector, not final climb—early selection forced rivals into reactive mode.",
+      "Final 800m gravel sector shattered peloton despite brevity, proving short sterrato more tactically valuable than long gradual ones.",
+      "Three-man selection emerged from gravel chaos with VAN DER POEL, ALAPHILIPPE, BERNAL—larger gear from ALAPHILIPPE noted but insufficient."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: Multiple accelerations across gravel sectors before final climb showed superior power endurance combination unusual for cyclocross specialists",
+      "ALAPHILIPPE Julian": "negative: Defended well through gravel but cracked when VAN DER POEL attacked on asphalt climb, suggesting pure power deficit",
+      "BERNAL Egan": "neutral: Stalked leaders effectively but lacked acceleration to counter, third place suggests strong day without winning kick"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:48:36.329121+00:00"
+}

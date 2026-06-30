@@ -1,19 +1,32 @@
 {
-  "attacking_style": "Not an attacker - pure sprinter who relies on final 200m power. Lacks positional awareness in chaotic bunch sprint finishes.",
-  "team_tactics": "Limited observations suggest minimal leadout support; rider often left to navigate own positioning in compressed finales.",
-  "terrain_preference": "Flat sprint stages suited to power; exposed in technical or positioning-dependent finishes where sprint awareness is critical.",
-  "vulnerability": "Poor positioning awareness in compressed sprints; susceptible to late-race crashes that have derailed his opportunities.",
+  "attacking_style": "Pure sprinter who relies on positioning and raw speed in final 200m rather than launching early. Lacks tactical maturity in deciding when to initiate sprint, often waiting too long or going too early.",
+  "team_tactics": "Dependent on team leadout but frequently left exposed or isolated in final kilometers. Multiple instances of losing team support before finale (Catalunya 4km solo, various crashes) suggesting weak train coordination or positioning.",
+  "terrain_preference": "Flat, technical finales with tailwind approaches where positioning matters more than power. Eliminated on any sustained climbing (30km+ ascending routes, steep late-race climbs). Surprisingly competitive on short uphill finishes (2km gradients).",
+  "vulnerability": "Crash-prone in technical roundabout-heavy finales with poor positioning outside top positions. Cannot survive extended climbs or tempo on ascents. Tactically indecisive on when to launch sprint, costing podiums and wins.",
   "key_patterns": [
-    "Sprint positioning deficiencies evident in high-pressure finales (2 observations across Vuelta stages)",
-    "Crash vulnerability ending race/sprint opportunities, particularly late in stages (2 observations)",
-    "Strong raw sprint power undermined by tactical positioning errors in final kilometers"
+    "Eliminated by climbing tempo on stages with 30km+ ascending or steep late climbs (3 instances)",
+    "Crash or mechanical issues inside final 10km destroy sprint opportunities repeatedly (3 documented cases)",
+    "Excels when field fractures in crosswinds/splits, eliminating pure sprinters (2 wins from reduced bunches)",
+    "Poor tactical decision-making: premature pulls or delayed sprints cost certain victories (2+ clear examples)",
+    "Performs above expectation on short uphill finishes where power sprinters struggle (2km gradients)"
   ],
-  "form_trajectory": "negative: hospitalized from 2023 Vuelta crash after already showing positioning issues in 2022; pattern of sprint execution problems",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "negative: 2023 showed first World Tour win breakthrough but ended with career-threatening shoulder fracture. Pattern of crashes and injuries persists.",
+  "races_analysed": 10,
+  "confidence": "high",
   "rider_name": "COQUARD Bryan",
   "built_from": [
-    "2022 La Vuelta ciclista a Espana Stage 3",
-    "2023 La Vuelta Ciclista a Espana Stage 4"
+    "2017 Criterium du Dauphine Stage 1",
+    "2017 Paris-Nice Stage 2",
+    "2018 Criterium du Dauphine Stage 2",
+    "2018 Tour of Oman Stage 1",
+    "2018 Tour of Oman Stage 1",
+    "2019 Tour of Oman Stage 1",
+    "2020 Paris - Nice Stage 3",
+    "2021 Paris-Nice Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 4",
+    "2023 La Vuelta Ciclista a Espana Stage 4",
+    "2023 Tour de Romandie Stage 4",
+    "2023 Tour de Romandie Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 4"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-05",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the reduced sprint after LAPORTE Christopher single-handedly chased down CAMPENAERTS Victor's late attack with 1km to go.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS sent LAPORTE solo to chase dangerous CAMPENAERTS move at 1km, burning domestique instead of sprinter HAYTER's lead-out.",
+      "Jumbo-Visma had KWIATKOWSKI do VAN AERT's lead-out from reduced group, exploiting opponents' depleted trains after late chase.",
+      "Final categorized climb crested 20km from finish with additional uncategorized climbing after, breaking GROENEWEGEN's preparation.",
+      "BikeExchange pushed tempo on final climb for HAYTER, treating versatile classics rider as viable sprint option."
+    ],
+    "rider_signals": {
+      "LAPORTE Christopher": "positive: Solo chase of CAMPENAERTS at 1km showed exceptional strength, sacrificing HAYTER's lead-out to control race",
+      "CAMPENAERTS Victor": "positive: Late solo attack with 1km remaining was dangerous enough to force INEOS into emergency response",
+      "HAYTER Ethan": "neutral: Had KWIATKOWSKI doing lead-out but couldn't match VAN AERT's power despite team controlling final climb",
+      "GROENEWEGEN Dylan": "negative: Team pulled plug on sprint effort over 2 minutes down, terrain with uncategorized climbing post-KOM unsuitable",
+      "KWIATKOWSKI Michal": "positive: Led out VAN AERT despite riding for different team, suggesting loan or tactical cooperation arrangement"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:04:15.681101+00:00"
+}

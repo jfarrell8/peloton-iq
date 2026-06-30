@@ -1,0 +1,26 @@
+{
+  "label": "2018 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2018-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter attacked 53km out after Mons-en-Pévèle cobbles, sustained 1:30 lead solo, won from two-up sprint against DILLIER",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sagan's attack succeeded at 53km (cobbled section 10 Mons-en-Pévèle), bridging to breakaway remnants before solo dominance.",
+      "Bora-Hansgrohe immediately shut down Teunissen-Gilbert-Politt trio, refusing dangerous early moves before Sagan's chosen moment.",
+      "Terpstra's chase group closed gap late but started organizing too late; 1:30 deficit never recovered despite quality pursuers."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Won while doing own bike repairs mid-race, suggesting mechanical resilience and technical self-sufficiency rare at this level.",
+      "DILLIER Silvan": "positive: Only rider maintaining Sagan's cobble rhythm through final 20km; track cycling background underutilized in final velodrome sprint.",
+      "TERPSTRA Niki": "neutral: Led chase organization but podium from 1:30 deficit suggests passive tactical approach by chase group.",
+      "GILBERT Philippe": "negative: Dangerous early move (with Teunissen, Politt) immediately shut down, lacking support to sustain pre-Sagan acceleration.",
+      "PHINNEY Taylor": "positive: American finished 8th, suggesting non-Belgian riders undervalued in cobbled classics handicapping despite Sagan's dominance."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:26:12.071679+00:00"
+}

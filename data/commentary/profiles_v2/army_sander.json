@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Attacks from established breakaways in the final kilometer, preferring gradients around 7% where tactical patience allows a well-timed late move rather than long-range efforts.",
+  "team_tactics": "Operates with minimal team support, relying on breakaway opportunities where individual timing and positioning matter more than domestique assistance.",
+  "terrain_preference": "Medium-gradient climbs (7%) in final kilometers suit best; capable of extended resistance in solo breakaways but most dangerous in small groups with sprint finish on gradient.",
+  "vulnerability": "Lacks firepower for sustained climbing against elite GC riders; relies on breakaway success rather than competing when favorites engage, suggesting limited recovery from prolonged efforts.",
+  "key_patterns": [
+    "Deploys tactical patience in breakaways, waiting until final 600m before committing attack (2 observations)",
+    "Breakaway specialist who extends efforts against peloton chase across multiple Grand Tours (2 observations)",
+    "Thrives on 7% gradient finishes where experience and timing outweigh pure power (2 observations)"
+  ],
+  "form_trajectory": "negative: 2020 showing 'contract-year desperation' suggests declining competitiveness from 2017 Vuelta victory performance",
+  "confidence": "low",
+  "races_analysed": 2,
+  "rider_name": "ARMY Sander",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 18",
+    "2017 Vuelta a Espana Stage 18",
+    "2020 Giro d'Italia Stage 11"
+  ]
+}

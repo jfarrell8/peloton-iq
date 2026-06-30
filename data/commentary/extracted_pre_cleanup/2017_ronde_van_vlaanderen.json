@@ -1,0 +1,29 @@
+{
+  "label": "2017 Ronde Van Vlaanderen",
+  "race_name": "Ronde Van Vlaanderen",
+  "race_date": "2017-04-02",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe attacked on the Oude Kwaremont creating a dangerous Quickstep group, then survived SAGAN Peter's late move and crash on the final Paterberg to win solo",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT Philippe's Oude Kwaremont attack forced Quickstep numerical advantage when Sky's ROWE Luke and MOSCON Gianni were distanced",
+      "BOONEN Tom's mechanical before Taaienberg neutralized Quickstep's own domestique, exposing risky all-leader group composition",
+      "SAGAN Peter waited until final Paterberg to move, revealing his team lacked resources to force earlier selection",
+      "TERPSTRA Niki sat on for final kilometers then lost sprint to VAN AVERMAET Greg, showing fatigue from earlier work"
+    ],
+    "rider_signals": {
+      "GILBERT Philippe": "positive: attacked Oude Kwaremont to create winning break, survived mechanical chaos to win solo",
+      "SAGAN Peter": "negative: crashed on Paterberg during his only decisive attack, timing too late for recovery",
+      "BOONEN Tom": "negative: mechanical before Taaienberg on his final Ronde destroyed ceremonial farewell",
+      "VAN AVERMAET Greg": "positive: out-sprinted TERPSTRA Niki for second despite less Quickstep team support throughout race",
+      "TERPSTRA Niki": "neutral: sat in well but lacked sprint freshness for podium, suggesting he did more work than VAN AVERMAET",
+      "VANMARCKE Sep": "neutral: present in finale sprint group but couldn't challenge for podium positions",
+      "NAESEN Oliver": "negative: crashed with SAGAN Peter on Paterberg, ending podium chances"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:04:41.822432+00:00"
+}

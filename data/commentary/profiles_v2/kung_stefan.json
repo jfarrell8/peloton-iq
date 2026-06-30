@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Primarily a time trial specialist who exploits uphill TT finishes and uses explosive TT power to bridge or animate on flat/rolling terrain. Rarely attacks decisively in mountain stages, cracking when attempting repeated accelerations on climbs.",
+  "team_tactics": "Functions as protected GC rider in week-long races when form is good, with team setting tempo before TT stages. Also deployed as breakaway animator and domestique when not targeting GC or TT stages.",
+  "terrain_preference": "Excels on uphill time trial finishes where climbing power complements TT pacing (gained entire winning margin in uphill sections). Shows unexpected strength in cobbled classics and punchy uphill sprint finishes. Struggles on sustained mountain climbs and pure flat TTs against top specialists.",
+  "vulnerability": "Cannot follow explosive accelerations from elite climbers in mountains (dropped at 6.5km when Evenepoel attacked). Loses time in closing kilometers of flat TTs to top specialists despite strong intermediate splits. Repeated attacks on climbs cause immediate collapse.",
+  "key_patterns": [
+    "Consistently stronger in uphill TT sections, flipping deficits into wins in final climbing kilometers (2023 Suisse)",
+    "Trails at intermediate checks but closes strong on uphill finishes through superior pacing strategy (multiple observations)",
+    "Shows complete rider evolution: top-5 GC while maintaining elite TT, unusual diesel climbing capacity emerging 2022",
+    "Immediate crack when attempting repeated accelerations on climbs despite TT pedigree (Romandie 2021 double-attack)",
+    "Strong cobbled classics performances exploiting hesitation from sprinters, finishing third at Roubaix and E3 2022",
+    "Loses 4-6 seconds to top TT specialists in final kilometers on flat courses (Dennis, Evenepoel, van Aert)"
+  ],
+  "form_trajectory": "negative: Lost yellow jersey unable to follow initial Evenepoel acceleration in 2023 Suisse mountains after winning opening TT, suggesting climbing evolution has plateaued and GC ambitions limited to TT-heavy courses",
+  "races_analysed": 18,
+  "confidence": "high",
+  "rider_name": "KUNG Stefan",
+  "built_from": [
+    "2018 Tour de Suisse Stage 4",
+    "2018 Tour of Guangxi Stage 4",
+    "2019 Tour de Romandie Stage 1",
+    "2020 Tour de France Stage 14",
+    "2021 Tirreno-Adriatico Stage 7",
+    "2021 Tour de France Stage 5",
+    "2021 Tour de Romandie Stage 3",
+    "2021 Tour de Romandie Stage 3",
+    "2022 E3 Saxo Bank Classic",
+    "2022 Paris-Nice Stage 4",
+    "2022 Paris-Roubaix",
+    "2022 Tour de Suisse Stage 4",
+    "2022 Tour de Suisse Stage 7",
+    "2022 Tour de Suisse Stage 8",
+    "2023 Giro d'Italia Stage 9",
+    "2023 Giro dItalia Stage 9",
+    "2023 Tour de Suisse Stage 1",
+    "2023 Tour de Suisse Stage 1",
+    "2023 Tour de Suisse Stage 1",
+    "2023 Tour de Suisse Stage 2",
+    "2023 Tour de Suisse Stage 3"
+  ]
+}

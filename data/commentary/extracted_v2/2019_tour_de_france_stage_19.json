@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-26",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan won Stage 19 when race was neutralized at Col de l'Iseran summit due to hailstorm, taking yellow jersey despite ALAPHILIPPE closing gap significantly on descent.",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "THOMAS Geraint attacked early on Iseran ascent, forcing rivals to respond and fragmenting GC group before summit.",
+      "ALAPHILIPPE Julian closed 2:07 deficit aggressively on Iseran descent before neutralization, showing descending strength traditionally rare for climbers.",
+      "Stage neutralization at summit timing point massively favored climbers over descenders, penalizing ALAPHILIPPE's risk-taking pursuit."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "negative: Abandoned mid-stage with apparent knee injury on Col de Vars despite being genuine GC contender, catastrophic timing.",
+      "THOMAS Geraint": "positive: Initiated decisive GC selection on Iseran by attacking before summit, showing form inconsistent with defending champion role.",
+      "ALAPHILIPPE Julian": "positive: Descended Iseran at exceptional speed while 2+ minutes down, nearly neutralizing summit losses before weather intervention.",
+      "BERNAL Egan": "positive: Gained yellow jersey via summit attack advantage, benefited from neutralization protocol favoring climbers over descenders."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:58:49.236481+00:00"
+}

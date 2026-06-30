@@ -1,0 +1,27 @@
+{
+  "label": "2023 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-11",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 2.5km remaining on Col de Turini, dropped VINGEGAARD and GULDAU before all regrouped, won from small group sprint after looking around.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FOSS isolated UAE by pacing alone for VISMA until 6km, exposing POGAČAR had no teammates left earlier than expected.",
+      "POGAČAR attacked at 2.5km but group hesitation in final 500m allowed VINGEGAARD/GULDAU back, wasting the gap gained.",
+      "MARTINEZ and SIVAKOV dropped early when FOSS paced, suggesting UAE's climbing depth weaker than VISMA/INEOS on sustained efforts."
+    ],
+    "rider_signals": {
+      "FOSS Tobias": "positive: solo-paced for VISMA from 15km to 6km, controlling entire finale and isolating rivals without teammates.",
+      "VINGEGAARD Jonas": "positive: recovered from POGAČAR's 2.5km attack better than Stage 4, limiting losses to regain contact before finish.",
+      "GULDAU Clément": "positive: only 12 seconds behind POGAČAR after sustained climb, suggesting GC threat still viable despite UAE dominance.",
+      "MARTINEZ Daniel": "negative: dropped early when FOSS accelerated at 9km, losing GC position despite being UAE protected rider.",
+      "JORGENSON Mattias": "negative: lost contact before 4km remaining despite VISMA support, exposing limitations on longest climbs of week.",
+      "SCANMOREZA Matteo": "negative: crashed and abandoned on approach to final climb, removing INEOS GC option."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:10:21.314778+00:00"
+}

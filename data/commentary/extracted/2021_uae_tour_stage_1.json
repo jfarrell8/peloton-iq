@@ -1,0 +1,28 @@
+{
+  "label": "2021 UAE Tour Stage 1",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-21",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 3km remaining on Luz Ardiden, distanced VINGEGAARD and CARAPAZ by 2 seconds for his third stage win and unassailable GC lead.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR delayed final attack until final 3km despite MAJKA pacing, suggesting deliberate energy conservation for stage hunting over gap-building.",
+      "INEOS leadership confusion revealed: GANNA and POELS both working on final climb despite having no GC card to play.",
+      "CARAPAZ held third GC despite VINGEGAARD gaining 6 seconds through intermediate bonuses, indicating bonus seconds decided final podium placement."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: secured unassailable 5:45 GC lead with 3 stages remaining, treating final mountain stage as sprint opportunity rather than time trial",
+      "VINGEGAARD Jonas": "positive: only rider to follow POGAČAR's acceleration in final 3km, moved 6 seconds clear of CARAPAZ for second overall",
+      "CARAPAZ Richard": "neutral: matched VINGEGAARD's acceleration but lost podium buffer through bonus seconds, not absolute climbing deficit",
+      "MAS Enric": "positive: moved into top-5 GC on final mountain stage while maintaining freshness for stage hunting on Stage 19",
+      "GAUDU David": "negative: opened minute gap on descent after LATOUR collaboration but cracked when INEOS controlled final climb tempo",
+      "POELS Wout": "neutral: working for INEOS on final climb despite no team GC interest suggests team riding for KOM jersey defense",
+      "KUSS Sepp": "neutral: paced VINGEGAARD in final kilometers but exhausted before decisive move, limiting Jumbo's tactical options"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:13:58.305566+00:00"
+}

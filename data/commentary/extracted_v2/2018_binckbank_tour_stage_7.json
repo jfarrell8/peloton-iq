@@ -1,0 +1,25 @@
+{
+  "label": "2018 BinckBank Tour Stage 7",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-19",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won stage 7 into Geraardsbergen after surviving repeated attacks from MAHARIČ and VAN AVERMAET on the final cobbled climb.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MAHARIČ attacked multiple times on final climb with VAN AVERMAET support, but Matthews defended using Koren's domestique work.",
+      "Sunweb sacrificed GC leader Koren to chase breakaway specifically to set up Matthews' sprint, reversing team hierarchy mid-race.",
+      "VAN AVERMAET and MAHARIČ coordinated attacks yet both chased stage win, allowing Matthews to mark both without counter-attacking."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: survived coordinated two-rider attacks on cobbled climb then still had sprint power for victory, exceptional late-race resilience",
+      "MAHARIČ Matej": "positive: strong enough to chase down breakaway solo then immediately attack, but lacked decisive acceleration to drop Matthews",
+      "KOREN Soren": "positive: willingly sacrificed GC leadership position to pull back breakaway for teammate Matthews, rare mid-race tactical pivot",
+      "VAN AVERMAET Greg": "negative: coordinated attacks with Maharič but inability to commit fully to breaking Matthews versus chasing stage win cost him both"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:16:58.043608+00:00"
+}

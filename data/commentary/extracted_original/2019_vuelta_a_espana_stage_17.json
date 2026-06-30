@@ -1,0 +1,30 @@
+{
+  "label": "2019 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-11",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe won from 47-rider wind split that formed from the gun, with Quintana gaining 5:19 on Roglic to jump to 2nd GC.",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Deceuninck Quickstep forced split immediately using 54-55 tooth chainrings pre-adapted for crosswinds, revealing pre-stage wind reconnaissance.",
+      "Movistar attacked FROM the front group to shell UAE/Jumbo/Astana domestiques, then sat up—isolating rivals rather than chasing their own leader.",
+      "Teams allowed 6+ minute gap to persist until 85km because chasing squads lost workers to Movistar's counter-attacks on uncategorised climbs.",
+      "Bennett launched 500m out in massive headwind finish but Gilbert could sit wheel and rest before countering, showing tailwind negated early jump."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: Best GC rider in 47-man split gained 5:19 despite being 7+ minutes down pre-stage, proving crosswind attentiveness",
+      "ROGLIC Primoz": "negative: Jumbo Visma caught out by immediate split despite GC lead, required Astana/UAE bailout for entire stage",
+      "POGACAR Tadej": "neutral: UAE committed full team to chase for entire day protecting 3rd GC, revealing weakness in wind reading",
+      "KELDERMAN Wilco": "positive: Sunweb placed him in split despite no obvious GC threat, moved to 7th showing team's wind anticipation",
+      "KNOX James": "positive: Deceuninck protected GC domestique in split while sacrificing sprinter Jakobsen, pragmatic resource allocation to reach 8th overall",
+      "VALVERDE Alejandro": "negative: Lost 30 seconds previous stage and missed crucial split today, age showing in wind awareness",
+      "SANCHEZ Luis Leon": "negative: Visibly unhappy over radio when ordered to drop back from break to chase, poor team discipline under pressure",
+      "BENNETT Sam": "negative: In winning break but mistimed 500m sprint into headwind, lacked power to hold off Gilbert's counter"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:19:50.408820+00:00"
+}

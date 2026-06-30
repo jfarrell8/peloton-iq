@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-17",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 34.1km wine country time trial by 26 seconds over DENNIS Rowan, while ALMEIDA João extended his Maglia Rosa lead despite six young riders finishing ahead of him.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MCNULTY Brandon at 22 years jumped from 11th to 4th GC, revealing massive TT ability uncaptured by pre-race odds.",
+      "INEOS dominated technical early climb Moto di Cadel, suggesting equipment/pacing strategy advantage on mixed-terrain TTs.",
+      "NIBALI Vincenzo showed uneven pacing (slow start, strong middle, weak finish), indicating fatigue management issues mid-Grand Tour."
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: first supersonic time suggests return to peak form after long drought since 2019 Worlds win",
+      "MCNULTY Brandon": "positive: only 6 seconds slower than GANNA at first checkpoint reveals explosive short power rare for GC climbers",
+      "ALMEIDA João": "positive: extended Maglia Rosa lead despite finishing only 6th, showing GC maturity to limit losses on weakness discipline",
+      "KELDERMAN Wilco": "positive: re-found best TT form after five-year win drought, stayed within minute of pink despite not being TT specialist",
+      "NIBALI Vincenzo": "negative: strange tri-phase pacing pattern suggests either tactical error or declining recovery capacity at 35 years old"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:13:40.237096+00:00"
+}

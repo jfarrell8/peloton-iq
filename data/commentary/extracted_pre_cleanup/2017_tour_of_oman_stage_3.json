@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour of Oman Stage 3",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-16",
+  "stage": 3,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KRAGH ANDERSEN Søren won stage 3 atop Curyat after catching late solo attempt by DE PLUS Laurens in final meters",
+    "winner": "KRAGH ANDERSEN Søren",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "DE PLUS Laurens went solo on finishing climb at Curyat but lacked reserves to hold off chasers from splintered peloton",
+      "KRAGH ANDERSEN Søren at 22 showed unexpected climbing speed for Sunweb on summit finish, suggesting stage race GC potential"
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "neutral: initiated winning move on final climb but couldn't sustain effort to finish, timing slightly premature",
+      "KRAGH ANDERSEN Søren": "positive: first pro win on summit finish ahead of fragmented group reveals climbing strength beyond expectations for domestique role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:14:07.497966+00:00"
+}

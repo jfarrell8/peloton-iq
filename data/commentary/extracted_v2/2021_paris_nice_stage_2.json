@@ -1,0 +1,25 @@
+{
+  "label": "2021 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-08",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BØHWAL Casper won sprint after DSM's BENOOT lead-out perfectly timed the slight right-hand bend 200m out, while earlier TREK caused echelon splits before first intermediate sprint.",
+    "winner": "BØHWAL Casper",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "TREK-Segafredo forced echelon splits before first intermediate sprint despite light wind, putting KREISWEG in difficulty early",
+      "DSM's BENOOT delayed final lead-out until after final right-hand bend 200m out, neutralizing earlier positioning by rivals",
+      "MATTHEWS accumulated race lead through intermediate sprint bonuses (2nd at both sprints) rather than stage wins, leap-frogging BENNETT"
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: aggressively hunted bonus seconds at both intermediate sprints to steal yellow from BENNETT without winning stage",
+      "KREISWEG Steven": "negative: caught out by TREK's echelon forcing before first intermediate sprint despite being GC contender",
+      "PEDERSEN Mads": "negative: appeared over-geared when BØHWAL accelerated, couldn't respond despite good lead-out positioning",
+      "BENOOT Tiesj": "positive: perfectly calibrated DSM lead-out delay, hitting front only after final corner negated other teams' earlier positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:46:37.260399+00:00"
+}

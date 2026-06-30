@@ -1,0 +1,26 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 4",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-23",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked inside final kilometer on lumpy finish, dropped Pedersen who followed his wheel, stayed in red",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Roglic contested mountain points mid-stage to deny Alaphilippe, revealing willingness to spend energy early on lumpy stages.",
+      "Pedersen followed Elissonde's leadout then Roglic's attack, showing he'll track GC riders over pure sprinters on selective terrain.",
+      "Bennett's slow puncture forced mechanical change too far back for regrouping, exposing green jersey vulnerability on aggressive days."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: attacking inside 1km on lumpy finish while already in red suggests superior form to previous Vuelta editions",
+      "PEDERSEN Mads": "positive: second place and intermediate sprint points gain despite following GC rider's acceleration shows climbing progression",
+      "BENNETT Sam": "negative: mechanical at critical moment plus inability to contest reduced sprint points indicates fragile green jersey control",
+      "ALAPHILIPPE Julian": "neutral: chasing mountain points suggests targeting KOM but blocked by Roglic's territorial defense",
+      "MAS Enric": "neutral: third place despite battling Vlasov indicates decent but not exceptional punch on short climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:15:05.693647+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-30",
+  "stage": 10,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ sprinted to victory on the uphill finish at Suances after BENNETT was dropped on minor climbs, reclaiming the red jersey via 10-second bonus.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MARTIN Guillaume attacked inside 1km for mountain points, revealing KOM jersey defense prioritized over stage result despite uphill finish.",
+      "MITCHELTON SCOTT controlled pace with SMITH Dion and STANNARD Robert to burn BENNETT on minor climbs before final 30km.",
+      "ROGLIČ targeted 10-second bonus on uphill finish to reclaim GC lead, showing GC teams willing to sprint punchy finales mid-race."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: Dropped on minor climbs 30km out on stage designed for punchers, exposing vulnerability on anything beyond pure flat sprints.",
+      "ROGLIČ Primož": "positive: Won uphill sprint after full stage of racing for third consecutive day, displaying exceptional condition before mountain weekend.",
+      "CARAPAZ Richard": "negative: Lost 3 seconds on uphill finale despite being in position, showing less explosive kick than ROGLIČ on power finishes.",
+      "MARTIN Guillaume": "neutral: Prioritized KOM points with late attack over stage placing, confirming classification hunting over stage wins.",
+      "GROßSCHARTNER Felix": "positive: Second place on uphill finish suggests strong condition and potential breakaway threat on mountain stages ahead."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:41:46.782723+00:00"
+}

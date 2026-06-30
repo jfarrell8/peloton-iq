@@ -1,0 +1,27 @@
+{
+  "label": "2021 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2021-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "POGACHAR Tadej won from a five-rider sprint after surviving a mid-race mechanical at 65km to go, timing his sprint from last wheel to edge ALAPHILIPPE Julian by three-quarters of a length.",
+    "winner": "POGACHAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AVERMAET Greg attacked from distance with VANDERSAN Tosh to force favorites into chasing, exploiting Lotto's breakaway rider.",
+      "POGACHAR mechanical at 65km forced desperate chase entering hardest section, yet UAE controlled finale group completely despite early chaos.",
+      "Five-rider sprint group stayed tactically bunched through final kilometer, ALAPHILIPPE forced to front too early around 300m enabling last-wheel advantage.",
+      "WOODS Michael and GAUDU David outsprinted VALVERDE Alejandro despite Valverde leading final corners, revealing sprint hierarchy among climber types."
+    ],
+    "rider_signals": {
+      "POGACHAR Tadej": "positive: survived mechanical at 65km into hardest climbs, then won sprint from last wheel position showing exceptional freshness from skipping midweek race",
+      "ALAPHILIPPE Julian": "neutral: fastest in chase group but tactically forced to front 300m out, losing positional advantage despite relegation lesson from previous year",
+      "WOODS Michael": "positive: led out final kilometer work yet still had legs for fourth, strongest Canadian ride showing climber-sprinter versatility",
+      "VAN AVERMAET Greg": "neutral: attacked from distance early to force tempo but ineffective spring showing AG2R investment yet to pay dividends",
+      "VALVERDE Alejandro": "negative: led final corners but faded to fifth when sprint opened, tactical positioning wasted without finishing speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:02:08.059517+00:00"
+}

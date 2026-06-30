@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Suisse Stage 6",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-17",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won breakaway photo finish atop Moosalp after THOMAS Geraint failed to split GC group in final sprint, FULSANG retains 1-second lead",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Premier Tech refused to chase nine-minute break despite Maznada inclusion, prioritizing energy conservation over stage control.",
+      "THOMAS attacked final meters of summit finish attempting split but GC contenders immediately closed, suggesting pure watts insufficient on shallow gradients.",
+      "SIMMONS dropped 11.2km from summit then rejoined breakaway for sprint, revealing false selection on steady-gradient HC climbs.",
+      "INEOS burned domestiques without PIDCOCK present due COVID, exposing thin roster depth when missing single key climbing lieutenant."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: initiated final sprint to force split but failed to create any gap, suggesting insufficient acceleration advantage over FULSANG/GITA on gradual finishes",
+      "SIMMONS Quinn": "positive: recovered from 11.2km-out drop to contest breakaway sprint, indicating sustainable threshold superior to explosive climbing ability",
+      "FULSANG Jakob": "positive: personally marked SCHACHMANN attack rather than using domestiques, conserving team for stage 7 while protecting one-second lead",
+      "MAZNADA Mattia": "neutral: controlled 18km climb pace from bottom but couldn't solo clear in final 3km despite repeated attacks against weakened break"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:28:14.629433+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-18",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRAGH ANDERSEN Søren won his second stage after covering 31.6 miles in the opening hour, the highest average of the Tour, with MEZGEC second for the second time to him.",
+    "winner": "KRAGH ANDERSEN Søren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVAGNA Rémi's early shredding attack at 73 miles out set record Tour pace, draining chaser leadout men while preserving Quick-Step's BENNETT support.",
+      "KRAGH ANDERSEN won both sprint stages where he personally drove opening-hour pace above Tour average, suggesting deliberate solo fatigue strategy.",
+      "Quick-Step placed both VAN BAARLE Dylan and STUYVEN Jasper in break alongside CAVAGNA, triple-loading to neutralize any organized chase from rivals.",
+      "BENNETT Sam deliberately avoided stage victory sprint despite green jersey competition, prioritizing survival over marginal points accumulation with 50-point buffer."
+    ],
+    "rider_signals": {
+      "KRAGH ANDERSEN Søren": "positive: Second stage win with identical pattern—record opening hour pace followed by sprint victory suggests repeatable tactical dominance.",
+      "CAVAGNA Rémi": "positive: Drove breakaway at 31.6mph opening hour, highest Tour average, demonstrating exceptional one-day sacrifice capacity for team tactics.",
+      "BENNETT Sam": "neutral: Strategically avoided stage win sprint despite position, showing calculated risk management with green jersey nearly secured.",
+      "SAGAN Peter": "negative: Lost leadout man PÖSTLBERGER to bee sting retirement stage 19, tactical disadvantage compounding points deficit.",
+      "MEZGEC Luka": "neutral: Second consecutive runner-up to KRAGH ANDERSEN in identical sprint scenarios suggests ceiling in stage-hunting ability.",
+      "CARAPAZ Richard": "neutral: Holds two-point polka dot lead into stage 20 uphill time trial, creating strategic dilemma between classification defense and conservation."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:36:17.188969+00:00"
+}

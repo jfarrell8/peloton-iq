@@ -1,0 +1,28 @@
+{
+  "label": "2022 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won reduced uphill sprint after Trek-Segafredo leadout by STUYVEN, with fastest sprinters dropped before 20km by lumpy circuit pace.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM's EEKHOFF double-attacked gaining 30s, forcing teams to burn matches before circuit controlled chaotic intermediate.",
+      "Trek isolated PEDERSEN for uphill finish by having STUYVEN execute leadout, unusual reversed leadout priority for World Champion.",
+      "Bonus sprint inside 20km became selection mechanism: LAPORTE 3s, ROGLIC 2s, WELLENS 1s while pure sprinters already dropped.",
+      "Movistar attempted GARCIA CORTINA setup recognizing reduced field, showing teams pivot tactics when A-tier sprinters eliminated early."
+    ],
+    "rider_signals": {
+      "EEKHOFF Cees": "positive: twice attacked solo gaining significant gaps, DSM using him as aggressor rather than domestique role",
+      "PEDERSEN Mads": "positive: first WT win in extended drought, climbed well enough on lumpy circuit to survive while faster sprinters dropped",
+      "STUYVEN Jasper": "positive: executed leadout for PEDERSEN rather than sprinting himself, tactical maturity prioritizing team result",
+      "JAKOBSEN Fabio": "negative: dropped before 20km mark on lumpy circuit, confirming climbing limitations in hilly sprint stages",
+      "BENNETT Sam": "negative: eliminated on circuit alongside JAKOBSEN and GAVIRIA, same climbing weakness pattern",
+      "LAPORTE Christophe": "neutral: kept yellow despite final km crash, took 3s bonus showing stage-racing awareness despite GC lead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:46:39.685799+00:00"
+}

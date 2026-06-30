@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-30",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR won the 27km ITT by 19 seconds over Küng, but VAN DER POEL defended yellow by exactly 14 seconds despite expectations he'd lose it.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Biarc given team green light over defending champion Pogacar early, revealing UAE hierarchy wasn't yet fully committed to GC.",
+      "Van der Poel unexpectedly held yellow by 14 seconds after final sprint, suggesting time trial specialists underperformed dry conditions.",
+      "Küng finished second at +19s but couldn't match Pogacar, showing pure TT specialists now lose 30+ seconds to GC climbers on 27km courses."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: defended yellow by exactly 14 seconds when expecting to lose it, finishing 5th at +33 seconds in specialist discipline",
+      "POGAČAR Tadej": "positive: won by 19 seconds over specialist Küng, never paused for time checks, pure dominance in 27km effort",
+      "VAN AERT Wout": "positive: finished 3rd as all-rounder, showing ability to compete with pure TT specialists on technical course",
+      "CARAPAZ Richard": "negative: lost significant time to 1:44 back overall, dropped to vulnerable GC position after expected TT weakness materialized",
+      "KÜNG Stefan": "neutral: second at +19s reveals even top TT specialists now concede 30+ seconds to elite climbers on short courses"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:53:26.272789+00:00"
+}

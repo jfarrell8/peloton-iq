@@ -1,0 +1,25 @@
+{
+  "label": "2020 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-12",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ANDERSON Søren Kragh won from breakaway after Bora drove tempo on early climbs trying to drop Bennett before intermediate sprint, sacrificing sprint points for Bennett's green jersey defense.",
+    "winner": "ANDERSON Søren Kragh",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora entire team rode tempo on Cat-4 climb 3 miles before sprint to distance Bennett, prioritizing attrition over sprint positioning.",
+      "Kung made explosive acceleration to bridge gap solo using time trial power, revealing breakaway selection depends on TT specialists' bridging ability.",
+      "Bennett's team fought hard on 6-mile climb mid-stage to defend minimal green jersey lead, exposing sprinter teams lack climbing depth."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: required full team support just to limit losses on what's supposedly a 'flat' stage with extended climbs",
+      "SAGAN Peter": "neutral: Bora's tactical effort on climbs gained only 3-4 points despite massive team expenditure, revealing diminishing returns strategy",
+      "KUNG Stefan": "positive: used TT power to bridge solo with explosive acceleration, showing time trialists can force breakaway selection",
+      "PORTE Richie": "negative: mechanical at critical moment nearly cost GC time, continuing pattern of ill-timed setbacks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:23:15.216644+00:00"
+}

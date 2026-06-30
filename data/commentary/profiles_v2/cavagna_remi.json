@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Favors bold, early attacks from breakaways or reduced groups (3-7km to go), but shows consistent tactical error of going too early and depleting himself before the finish. Attacks with national champion-level power but lacks precision timing.",
+  "team_tactics": "Team allows aggressive, high-risk racing rather than defensive protection. Given freedom to hunt breakaways and bonus seconds even when positioned reasonably on GC. Minimal visible tempo support or lead-out structure.",
+  "terrain_preference": "Excels on technical TT courses with sustained power demands (45.7 km/h speeds). Struggles on final climbs where early efforts lead to fading. Technical descents/finishes expose handling vulnerabilities.",
+  "vulnerability": "Premature attacking leaves him depleted before critical moments (observed in 2021 Giro selection, 2022 Romandie solo effort). Technical handling under pressure causes crashes and hesitation in sprint finishes. Fades on climbs when requiring equipment changes or after earlier efforts.",
+  "key_patterns": [
+    "Goes too early: depleted before finish in multiple breakaway/attack scenarios (3+ instances)",
+    "Generational TT talent: 45.7 km/h speed at 24, sustains power on technical courses",
+    "Technical handling failures: crashed final 500m, hesitation cost group win (2+ instances)",
+    "Hunts breakaways aggressively: contests sprints, launches 5-7km attacks from reduced groups (4+ races)",
+    "Fades on final climbs after earlier efforts or tactical complications (2+ instances)"
+  ],
+  "form_trajectory": "negative: Recent 2023 observations show fading on climbs and tactical complications. 2021-2022 showed crashes and ineffective solo efforts despite strength. TT excellence remains but stage racing execution declining.",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "CAVAGNA Remi",
+  "built_from": [
+    "2018 Tour de Suisse Stage 2",
+    "2018 Tour de Suisse Stage 6",
+    "2019 Vuelta a Espana Stage 10",
+    "2019 Vuelta a Espana Stage 10",
+    "2019 Vuelta a Espana Stage 11",
+    "2021 Giro d'Italia Stage 18",
+    "2021 Giro d'Italia Stage 21",
+    "2022 Tour de Romandie Stage 1",
+    "2023 Giro dItalia Stage 4",
+    "2023 Tour de France Stage 16"
+  ]
+}

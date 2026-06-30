@@ -1,0 +1,23 @@
+{
+  "label": "2019 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-02",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KUN Stefan soloed to victory from an early break, gaining 59 seconds as the peloton inexplicably failed to organize any chase",
+    "winner": "KUN Stefan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Kun targeted presumed sprint stage with skin suit preparation, revealing value in attacking 'guaranteed' sprint finishes when teams assume chase",
+      "No team took chase responsibility despite peloton losing only 10 seconds in final 10km, exposing coordination failure on transitional stages"
+    ],
+    "rider_signals": {
+      "KUN Stefan": "positive: won solo by 59 seconds on sprint stage, executes same tactical pattern every two years suggesting repeatable niche strength",
+      "ROGLIC Primoz": "neutral: defended GC lead at 10 seconds but team failed to control breakaway on stage profile suited to chase",
+      "THOMAS Geraint": "neutral: remains 13-14 seconds down but showed no initiative when peloton chase collapsed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:01:39.292211+00:00"
+}

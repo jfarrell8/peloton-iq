@@ -1,0 +1,28 @@
+{
+  "label": "2020 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-16",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ULISSI Diego infiltrated the reduced GC group sprint after Sagan/Swift were distanced on Muro di Calaone, beating Almeida by half a wheel.",
+    "winner": "ULISSI Diego",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bora isolated Sagan with Ballerini sitting on chase, forcing Sagan to work alone despite 15-second deficit.",
+      "Deceuninck Quick-Step paced climbs hard enough to drop Démare/sprinters while keeping GC contenders fresh for sprint.",
+      "Ulissi positioned among GC riders rather than sprinters' group, exploiting confusion when pure sprinters eliminated.",
+      "Gaviria/Hodeg accelerated at summit Muro di Calaone but Quick-Step domestiques Masnada/Knox controlled descent tempo."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "negative: distanced on Muro di Calaone despite team setup, couldn't bridge 15-second gap even with Swift",
+      "DÉMARE Arnaud": "negative: dropped multiple bike lengths on gentler Roccolo climb, barely regrouped before steeper Muro",
+      "BALLERINI Davide": "negative: sat on Sagan's chase wheel instead of contributing, revealing Quick-Step prioritized GC over breakaway chance",
+      "ALMEIDA João": "positive: second place finish gained 6 bonus seconds, sprinted competitively against puncheurs on selective uphill finish",
+      "ULISSI Diego": "positive: positioned perfectly among GC group despite being climber-sprinter, exploited tactical confusion for stage win number two",
+      "VIVIANI Elia": "negative: struggled alongside Démare on both climbs, unable to contest finish despite regaining contact"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:13:28.857215+00:00"
+}

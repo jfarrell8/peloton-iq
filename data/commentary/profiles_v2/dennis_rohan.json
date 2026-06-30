@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Leverages TT power for late hilltop attacks at 2km to go when gradient favors sustained power over W/kg ratios, rather than traditional explosive climbing attacks. Shows tactical awareness to launch preemptive solo moves when recognizing peloton acceleration patterns.",
+  "team_tactics": "Teams deploy him as GC leader with jersey defense through controlled tempo riding on semi-hilly terrain, avoiding excessive domestique burnout. Used as key weapon in valley neutralization tactics when climbing form permits.",
+  "terrain_preference": "Excels on gradual hilltop finishes where TT power translates (2km sustained efforts), and semi-hilly terrain suitable for tempo control. Exposed on sustained steeper climbs where W/kg matters more than raw power—loses 2+ minutes when gradient or duration increases.",
+  "vulnerability": "Pacing strategy failures on sustained climbs lead to dramatic time losses despite strong intermediate splits. Tactical hesitation prevents distancing rivals early when needing small time gaps. Pure climbing stages require team pacing support to limit losses.",
+  "key_patterns": [
+    "TT power enables competitive hilltop finishes via 2km attacks on power-friendly gradients (2022, 2021 observations)",
+    "Loses 2+ minutes on sustained climbs despite strong intermediates, indicating pacing or fitness issues (2022, 2019)",
+    "Demonstrates sprint capacity unusual for TT specialist when defending leader's jersey (2022 third place)",
+    "Tactical awareness to preempt peloton moves, launching solo before main accelerations materialize (2020 Giro)",
+    "Teams provide controlled tempo defense on semi-hilly terrain without exhausting support riders (2022, 2021)"
+  ],
+  "form_trajectory": "negative: 2022 showed GC collapse losing 2+ minutes after strong start, suggesting fitness decline or pacing failures in stage racing compared to earlier leadership performances",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "DENNIS Rohan",
+  "built_from": [
+    "2018 Giro d'Italia Stage 4",
+    "2018 Tirreno-Adriatico Stage 1",
+    "2018 Tour de Romandie Stage 3",
+    "2018 Vuelta a Espana Stage 1",
+    "2018 Vuelta a Espana Stage 1",
+    "2019 Giro d'Italia Stage 1",
+    "2019 Tour de Pologne Stage 7",
+    "2019 Tour de Suisse Stage 9",
+    "2020 Giro d'Italia Stage 15",
+    "2021 Volta Ciclista a Catalunya Stage 4",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 2",
+    "2022 Tour de Romandie Stage 3",
+    "2022 Tour de Romandie Stage 5"
+  ]
+}

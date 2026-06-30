@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Demonstrates versatility across long-range breakaways (200km+ efforts with 15min gaps) and time trial disciplines. Capable of exploiting GC opportunities through multi-day positioning rather than single explosive attacks.",
+  "team_tactics": "Employed in dual-threat GC confusion tactics, creating multiple team leaders in top positions to complicate rival response. Functions beyond traditional domestique role when form permits.",
+  "terrain_preference": "Excels in time trials (top-4 finishes) and sustained breakaway efforts requiring endurance over 200km. Best suited to GC racing requiring consistent performance rather than explosive climbing.",
+  "vulnerability": "Final sprint execution from breakaways—demonstrated positioning skills but finished second when leading out sprint. May lack ultimate explosiveness in reduced group sprints.",
+  "key_patterns": [
+    "Time trial strength creates GC opportunities: fourth and third in TT yielding top-4 GC",
+    "Deployed in team leader confusion tactics with multiple GC threats (top-3 GC placements)",
+    "Long-range breakaway endurance: sustained 200km+ efforts with double-digit time gaps",
+    "Sprint positioning skills exceed finishing power: led out but finished second"
+  ],
+  "form_trajectory": "positive: 2022 Dauphine showed GC capabilities (2nd overall, 4th in TT) suggesting elevation beyond domestique role compared to 2019 breakaway appearances",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CATTANEO Mattia",
+  "built_from": [
+    "2019 Giro d'Italia Stage 15",
+    "2022 Criterium du Dauphine Stage 4",
+    "2022 Criterium du Dauphine Stage 4"
+  ]
+}

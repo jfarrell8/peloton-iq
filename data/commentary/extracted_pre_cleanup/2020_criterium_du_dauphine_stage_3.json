@@ -1,0 +1,33 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-14",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FORMOLO David escaped over Col de la Madeleine and held off ROGLIČ by 33 seconds after soloing 40+ km, while THOMAS Geraint cracked early.",
+    "winner": "FORMOLO Davide",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FORMOLO attacked over Madeleine with 4:19 gap, calculated perfectly to hold 33s versus ROGLIČ finishing acceleration pattern.",
+      "Jumbo-Visma deployed four riders to dismantle Ineos morale systematically, KUSS finishing final turns before ROGLIČ accelerated for bonus seconds.",
+      "THOMAS Geraint dropped before doing any work early on final climb, revealing hidden weakness versus team expectations.",
+      "MARTÍNEZ Daniel Felipe counterattacked inside final kilometer when ROGLIČ hesitated, nearly catching solo leader before absorption."
+    ],
+    "rider_signals": {
+      "FORMOLO Davide": "positive: Italian champion executed 40+km solo with perfect power management, descending scared but holding gap calculation precisely",
+      "ROGLIČ Primož": "positive: destroyed field with late acceleration for bonus seconds, demonstrated Jumbo-Visma superiority with four-rider mountain train",
+      "THOMAS Geraint": "negative: dropped early on final climb without contributing work, 15:42 down suggests tour leadership battle ended",
+      "FROOME Chris": "negative: distanced 12km from summit with CASTROVIEJO pacing him back, clearly not contending for GC",
+      "KUSS Sepp": "positive: ex-mountain biker looked ominous finishing final Jumbo-Visma shift, controlled pace to summit without cracking",
+      "ALAPHILIPPE Julian": "negative: dropped early on climb, likely conserving for stage hunting rather than GC contention",
+      "BERNAL Egan": "neutral: finished group behind THOMAS but survived Jumbo-Visma decimation, leadership ambiguity remains",
+      "SIVAKOV Pavel": "negative: dropped before contributing work, Ineos depth exposed by Jumbo-Visma's systematic destruction",
+      "MARTÍNEZ Daniel Felipe": "positive: attacked inside final kilometer nearly catching FORMOLO, strongest Ineos climber on display",
+      "VALVERDE Alejandro": "negative: distanced early on climb, poor race form continues",
+      "VAN AERT Wout": "neutral: paced then stopped completely at 12km, executed domestique role before elimination"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:22:25.647006+00:00"
+}

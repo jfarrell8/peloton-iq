@@ -1,0 +1,30 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-10",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "BENNETT George won after ARU Fabio attacked and bridged, surviving MAJKA Rafał's final sprint after THOMAS Geraint suffered mechanical at critical moment.",
+    "winner": "BENNETT George",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BAGIOLI Nicola controlled breakaway KOM point distribution by forcing pre-agreement with MOSCA Jacopo before accelerating.",
+      "LANDA Mikel attacked immediately when race leader THOMAS Geraint suffered mechanical, exploiting Sky's momentary weakness.",
+      "ARU Fabio regained position after being distanced then counter-attacked showing recovery capacity others lacked on summit.",
+      "FROOME Chris sacrificed GC position to pace THOMAS back after mechanical, Sky prioritizing leader defense over individual placement."
+    ],
+    "rider_signals": {
+      "BENNETT George": "positive: Won summit finish despite being marked by GC contenders, strong positioning throughout finale.",
+      "ARU Fabio": "positive: Recovered from difficulty mid-climb to launch attack that stuck, unusual resilience for this season.",
+      "LANDA Mikel": "positive: Tactically astute attacking mechanical-stricken leader, gained significant time finishing second on stage.",
+      "THOMAS Geraint": "negative: Mechanical at worst moment lost race lead, relied entirely on FROOME Chris pacing to limit losses.",
+      "MAJKA Rafał": "neutral: Strong sprint finish for second but tactical passivity when ARU attacked suggests defensive mindset.",
+      "BAGIOLI Nicola": "positive: Three consecutive breakaway days with KOM dominance shows exceptional recovery and tactical consistency.",
+      "FROOME Chris": "neutral: Sacrificed own GC for team duty pacing THOMAS, demonstrates domestique role despite star status.",
+      "HERMANS Ben": "negative: Faded badly in final kilometers after being in contention, unable to sustain pace on steep gradient."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:32:32.473019+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe won after Jumbo-Visma drove final climb at 8km out, splitting peloton and delivering 1-2-3 with Roglic and Van Aert, gapping GC contenders by 30 seconds.",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma converted crosswind anxiety into climb aggression: Teunissen/Hofstede paced at 60kph then Laporte split field at 8km climb.",
+      "INEOS Grenadiers positioned defensively for crosswinds but failed to respond when Jumbo converted threat into climbing selection instead.",
+      "GC riders Quintana/Yates dropped on minor climb when pace hit 60kph, revealing hilly opener vulnerability despite sprinter expectations."
+    ],
+    "rider_signals": {
+      "COLBRELLI Sonny": "negative: dropped on minor final climb at 8km, unexpected weakness for rider contesting stage",
+      "SCHACHMANN Max": "negative: defending champion lost 22 seconds in third group, poor positioning when Jumbo accelerated",
+      "ROGLIC Primoz": "positive: nearly won 2021 Paris-Nice, took 6 bonus seconds in second, Jumbo sacrificed his win for Laporte team morale",
+      "LAPORTE Christophe": "positive: new Jumbo signing did final climb pull that created 30-second gap then gifted stage win",
+      "STEWART Campbell": "negative: crashed at 15km allowing Jumbo to exploit reduced numbers in leadout phase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:46:11.435836+00:00"
+}

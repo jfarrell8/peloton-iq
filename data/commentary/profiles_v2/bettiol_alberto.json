@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Attacks from reduced groups on climbs 14-23km from finish, targeting final or penultimate ascents. Struggles with sprint timing on uphill finishes, often going 100-300m too early.",
+  "team_tactics": "Receives full team support for uphill sprint finishes but leadout execution inconsistent. Sometimes deployed as tactical passenger in breaks when teammates are behind.",
+  "terrain_preference": "Excels on extended climbs in stage races and classics (Giro stages, Flanders hills). Vulnerable on downhill accelerations and punchy uphill sprint finishes requiring precise timing.",
+  "vulnerability": "Uphill sprint timing consistently problematic - goes too early, leading out rivals (3+ instances). Cannot respond to explosive downhill attacks. Crashes have ended promising races.",
+  "key_patterns": [
+    "Misjudges uphill sprint timing by 100-300m, accelerating early and fading (3 documented instances)",
+    "Attacks decisively from breakaways on climbs 14-23km out, not waiting for final kilometer",
+    "Shows unexpected climbing form for classics specialist, attacking on category climbs in Grand Tours",
+    "Displays exceptional late-season/Tour prep form with sprint wins against pure sprinters (Poland, Suisse)",
+    "As defending champion, unable to respond to explosive attacks (Strade Bianche, Flanders 2020)"
+  ],
+  "form_trajectory": "neutral: 2023 showed both crash (race management issue at Strade Bianche) and continued sprint timing problems at Giro, suggesting underlying tactical issues persist despite prior form peaks",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "BETTIOL Alberto",
+  "built_from": [
+    "2019 Ronde Van Vlaanderen",
+    "2019 Ronde Van Vlaanderen",
+    "2020 Paris - Nice Stage 7",
+    "2020 Ronde van Vlaanderen",
+    "2020 Strade Bianche",
+    "2021 Giro d'Italia Stage 18",
+    "2021 Giro d'Italia Stage 18",
+    "2022 Tour de Pologne Stage 2",
+    "2022 Tour de Suisse Stage 2",
+    "2022 Tour de Suisse Stage 4",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro dItalia Stage 14",
+    "2023 Strade Bianche"
+  ]
+}

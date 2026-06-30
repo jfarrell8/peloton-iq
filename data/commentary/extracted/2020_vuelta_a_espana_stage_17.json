@@ -1,0 +1,28 @@
+{
+  "label": "2020 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-07",
+  "stage": 17,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GAUDU David won from a reduced breakaway with 4km to go on Alto de la Aitana, while CARAPAZ Richard attacked in the GC group but gained only 24 seconds on ROGLIČ Primož.",
+    "winner": "GAUDU David",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MOVISTAR planted three riders in 34-rider breakaway then SOLER Marc bridged at kilometer 29 showing preplanned double-agent tactics.",
+      "GESINK Robert maintained high tempo before Puerto de las Basas forcing 40kph average for two hours, neutralizing GC attacks early.",
+      "CARAPAZ Richard waited for CARTHY Hugh to initiate GC attack before countering, avoiding wind exposure while gaining maximum time.",
+      "Jumbo-Visma stopped chasing once MÄDER-DONOVAN-IZAGIRRE break gained 40 seconds, calculating stage loss acceptable to protect 24-second GC lead."
+    ],
+    "rider_signals": {
+      "GAUDU David": "positive: Second stage win shows cold/rainy conditions advantage, attacked from reduced break with 4km remaining when others hesitated.",
+      "CARAPAZ Richard": "positive: Strong enough to drop CARTHY Hugh with 3km left, gained time on ROGLIČ but tactical delay cost podium opportunity.",
+      "ROGLIČ Primož": "negative: Required full team pacing to limit losses to 24 seconds, vulnerable when isolated on final uncategorized climb.",
+      "SOLER Marc": "neutral: Bridged 29km from summit after teammate acceleration but couldn't contribute to final winning move from break.",
+      "CARTHY Hugh": "neutral: Initiated GC attack but lacked acceleration to hold CARAPAZ wheel, still secured first Grand Tour podium.",
+      "MÄDER Gino": "positive: Part of decisive three-rider attack that gained 40 seconds forcing peloton abandon, tactical awareness in stage racing."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:43:39.112849+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2021 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-12",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC won stage 6 by launching his sprint before 1km on the uphill finish, using yellow jersey position and Jumbo-Visma control to neutralize sprint trains.",
+    "winner": "ROGLIC Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled 60k+ with 4min breakaway gap, preventing sprint teams organizing for 2k uphill finish sequence.",
+      "ROGLIC launched sprint early on uphill finale using GC position to discourage countermoves from pure sprinters going backwards.",
+      "PEREZ locked polka dot jersey by taking 4/5 climbs in breakaway, demonstrating breakaway specialist can control mountains before queen stage."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "negative: abandoned from 3rd GC after crash, revealing vulnerability in protecting white jersey on transitional stage",
+      "VLASOV Alexander": "negative: mechanical issues cost time despite regaining peloton, showing equipment fragility at critical moment",
+      "COCKER Bryan": "positive: 7th place on uphill sprint finish reveals unexpected climbing capacity for pure sprinter type",
+      "LAPORTE Christophe": "positive: 2nd on uphill finish demonstrates hybrid sprinter strength when pure speed specialists eliminated by gradient",
+      "MATTHEWS Michael": "neutral: 3rd place confirms uphill sprint capability but couldn't match GC rider's power on final 2k climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:47:27.137699+00:00"
+}

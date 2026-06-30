@@ -1,0 +1,28 @@
+{
+  "label": "2022 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-10",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KEMNA Leonard won from 14-rider breakaway after catching LOPEZ Juan Pedro inside final 3km who took maglia rosa 39 seconds up",
+    "winner": "KEMNA Leonard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "OLDANI Stefan attacked at climb base to bridge 12-minute gap for CAVENDISH's defense, teammate sacrificed stage for jersey protection.",
+      "BAHRAIN and INEOS controlled 12-minute gap collaboratively despite competing GC interests, revealing alliance to prevent Lopez from gaining excessive time.",
+      "LOPEZ Juan Pedro and KEMNA appeared to negotiate stage-versus-jersey split in final 3km rather than contesting both prizes maximally.",
+      "BORA placed three riders in GC group plus stage winner KEMNA ahead, demonstrating superior depth compared to singular team leadership models."
+    ],
+    "rider_signals": {
+      "LOPEZ Juan Pedro": "positive: Giro debutant gained 2.5 minutes on GC favorites on first mountain test, suggesting climbing form superior to pre-race expectations",
+      "DUMOULIN Tom": "negative: First major GC name dropped with 15km remaining on moderate gradient, signaling catastrophic form collapse from 2017 winner",
+      "NIBALI Vincenzo": "negative: Distanced with 5km to summit on home island Sicily where motivation should peak, career decline confirmed",
+      "CAVENDISH Mark": "neutral: Team committed OLDANI and MACHIAVELLI resources to defend pink despite only three Hungarian stages completed, revealing aggressive early-race strategy",
+      "LOPEZ Miguel Angel": "negative: Abandoned with hip injury on Stage 4 Sicily for second time in three Giros, revealing chronic vulnerability to specific race conditions",
+      "PORTE Richie": "negative: Lost time to main GC group on first mountain test while YATES survived despite knee injury, reversing intra-team hierarchy expectations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:10:21.212378+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-13",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked with approximately 1.8km remaining on Col de Porte, dropped BERNAL and held off PINOT by 8 seconds.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CASTROVIEJO paced BERNAL's group until ALAPHILIPPE cracked early, exposing Ineos's willingness to sacrifice domestiques before decisive moments.",
+      "BUCHMANN attacked at 3km forcing SIVAKOV to chase, strategically depleting Ineos before ROGLIČ's winning move at 1.8km remaining.",
+      "Jumbo set tempo through KUSS then ROGLIČ attacked only after rivals (LANDA, QUINTANA, BUCHMANN) had already probed unsuccessfully.",
+      "PORTE bridged multiple accelerations but cracked when ROGLIČ launched, suggesting bridging efforts cost more than sitting wheels on steepest gradients."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: waited for all rivals to attack first, then soloed to victory with decisive acceleration at 1.8km showing superior pacing discipline",
+      "BERNAL Egan": "negative: unable to respond when ROGLIČ attacked, suggesting fitness below 2019 form despite Ineos controlling early climb",
+      "FROOME Chris": "negative: described as 'couldn't do a turn' and sat in wheels entire climb, raising questions about Tour selection",
+      "PINOT Thibaut": "positive: limited losses to 8 seconds after chasing ROGLIČ alone, best GC response from non-Jumbo riders",
+      "POGAČAR Tadej": "negative: dropped before final kilometers described as 'big surprise' indicating unexpected weakness on long climbs",
+      "VAN AERT Wout": "neutral: crashed early in yellow jersey but completed pacing duties before abandoning on climb as planned",
+      "ALAPHILIPPE Julian": "negative: dropped very early on climb from near front to back in under 1km, confirming poor form from stage 1",
+      "PORTE Richie": "positive: bridged multiple attacks and remained contender until ROGLIČ's final acceleration, unexpected top-10 GC form",
+      "QUINTANA Nairo": "positive: attacked multiple times including late acceleration, finished fifth showing climbing legs despite no final response",
+      "BUCHMANN Emanuel": "positive: tactical attack at 3km forced Ineos domestiques to chase, finished third showing Tour preparation progressing",
+      "KUSS Sepp": "positive: paced group hard enough to drop SIVAKOV before ROGLIČ's attack, key Jumbo tactical domestique role",
+      "VAN GARDEREN Tejay": "negative: described as 'cracked' and dropped before final kilometers despite Trek positioning",
+      "BARDET Romain": "negative: dropped significantly before finale, losing considerable time on main GC group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:22:09.074446+00:00"
+}

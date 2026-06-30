@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Insufficient data to determine individual attacking patterns. Observations show team support role rather than personal attack initiation.",
+  "team_tactics": "Deployed as key domestique for team leaders in Monument and stage race contexts. Critical positioning work to support captain's winning moves.",
+  "terrain_preference": "Capable across varied terrain from cobbled Monuments to rolling stage race finishes, suggesting all-rounder domestique profile.",
+  "vulnerability": "Crash risk in technical Monument conditions (Paris-Roubaix cobbles) removes him from critical support role at decisive moments.",
+  "key_patterns": [
+    "Functions as essential support rider for team captains in Monument-level races (2 observations)",
+    "Presence in winning moves when stays upright; absence impacts team's tactical execution (2 observations)"
+  ],
+  "form_trajectory": "unknown: 2-year gap between observations prevents reliable trajectory assessment; limited recent data",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "OSS Daniel",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 1",
+    "2019 Paris-Roubaix"
+  ]
+}

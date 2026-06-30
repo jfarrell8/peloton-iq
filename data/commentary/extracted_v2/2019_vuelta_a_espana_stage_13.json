@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-06",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR Tadej won Stage 13 to Los Machucos attacking final 1.5km, with ROGLIČ playing team tactics settling for second to protect red jersey",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar deployed QUINTANA offensively on final climb rather than defensively, dropped LÓPEZ despite teammate status showing conflicting GC priorities.",
+      "ROGLIČ allowed POGAČAR stage win in apparent gentleman's agreement despite ability to contest sprint, prioritizing time gaps over stage.",
+      "29-rider breakaway formation indicates peloton willing to concede massive groups when GC teams confident in climbing superiority.",
+      "HÉRADA attacked precisely at categorized summit for KOM points then sat in, revealing optimal timing pattern for jersey hunters."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: at 20 years old won second stage and moved into genuine podium contention from 3:05 down, attacking decisively final 1.5km",
+      "LÓPEZ Miguel Ángel": "negative: dropped on final climb losing over 1 minute, fell to fifth overall despite being considered main ROGLIČ threat",
+      "QUINTANA Nairo": "positive: rode aggressively for Movistar on final climb rather than supporting co-leader LÓPEZ, limiting losses to 27 seconds",
+      "VALVERDE Alejandro": "neutral: hung on through maximal effort finishing with QUINTANA group at 27 seconds, but losing ground in GC battle",
+      "ROGLIČ Primož": "positive: controlled POGAČAR's winning move by finishing second at same time, intelligent team tactics prioritizing jersey over stage glory"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:07:05.139496+00:00"
+}

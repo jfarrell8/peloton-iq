@@ -1,0 +1,23 @@
+{
+  "label": "2022 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-02",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JACOBSEN Fabio won the sprint finish after peloton stayed together despite fears of crosswind splits on exposed Danish coastal roads",
+    "winner": "JACOBSEN Fabio",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "B&B Hotels deliberately dropped riders on first KOM to let ROLAND teammate chase alone, two-versus-two tactical positioning backfired.",
+      "Headwind conditions neutered expected crosswind chaos along northern coast, fundamentally changed predicted split dynamics despite narrow roads."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: second place again after thinking he won momentarily, twice in two days lost sprint finishes he believed secured",
+      "ROLAND Pierre": "neutral: most experienced rider in race (13th Tour start, 11 finishes since 2009) but team tactics failed KOM jersey ambition",
+      "CORT Magnus": "positive: solo Dane swept all three KOM points in two-man break with BYSTROM, polka dot jersey on home roads"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:23:10.856433+00:00"
+}

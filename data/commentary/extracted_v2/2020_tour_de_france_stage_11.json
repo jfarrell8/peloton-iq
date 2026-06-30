@@ -1,0 +1,27 @@
+{
+  "label": "2020 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-09",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWING Caleb won a chaotic sprint after NTT chased too early for BOASSON HAGEN, with SAGAN Peter headbutting VAN AERT Wout in final meters.",
+    "winner": "EWING Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NTT burned WALSCHEID Max too early chasing breakaway for BOASSON HAGEN, leaving him isolated before final kilometer.",
+      "VAN AERT Wout positioned himself perfectly off REZA Kevin's leadout then got headbutted by SAGAN in sprint.",
+      "BENNETT Sam found perfect third wheel position early but team leadout man mistakenly worked for him instead of COQUARD."
+    ],
+    "rider_signals": {
+      "WALSCHEID Max": "neutral: showed powerful chase capability but deployed too early by NTT, exhausting himself before finale",
+      "BOASSON HAGEN Edvald": "negative: surfing wheels desperately after own team burned leadout train prematurely, finished outside podium",
+      "VAN AERT Wout": "negative: despite perfect positioning off rival leadouts, lost what looked like certain third win to headbutt interference",
+      "BENNETT Sam": "positive: found third wheel despite chaotic positioning, benefited when someone else's leadout mistakenly worked for him",
+      "SAGAN Peter": "negative: resorted to illegal headbutting VAN AERT to defend position, signaling desperation in green jersey battle",
+      "EWING Caleb": "positive: won from behind with confidence-based positioning like prime Cavendish, trusting speed over early commitment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:22:37.682369+00:00"
+}

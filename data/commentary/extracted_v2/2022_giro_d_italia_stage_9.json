@@ -1,0 +1,28 @@
+{
+  "label": "2022 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-15",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai won Blockhouse sprint from 6-man group after YATES Simon abandoned with knee injury, LOPEZ Juan Pedro miraculously retained maglia rosa by 12 seconds",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS (CARAPAZ/PORT) paced entire final climb instead of attacking, allowing 6-man sprint finish reducing time gains.",
+      "YATES Simon's knee injury from Etna crash revealed itself only at 12km mark, not earlier climbs.",
+      "CARAPAZ lost positioning on final corner allowing HINDLEY to win from front, tactical error in stage-deciding moment.",
+      "LOPEZ Juan Pedro lost contact after touch-of-wheels incident mid-climb but limited losses to 1:46, defying GC expectations."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: knee injury from previous Etna crash eliminated him 12km from finish on first serious GC test",
+      "CARAPAZ Richard": "neutral: INEOS chose steady pacing over attacking despite having PORT as domestique, questionable tactics for stage win",
+      "LOPEZ Juan Pedro": "positive: survived contact incident and 1:46 loss to retain maglia rosa by 12 seconds, massive mental strength",
+      "HINDLEY Jai": "positive: won positioning battle in final corner to take first win since 2020 Giro, superior sprint from reduced group",
+      "KELDERMAN Wilco": "negative: mechanical at critical moment eliminated serious GC contender before final climb even started",
+      "POZZOVIVO Domenico": "positive: finished with lead group despite age, matched younger climbers on Blockhouse's 13km at 9-14% gradient"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:11:28.469284+00:00"
+}

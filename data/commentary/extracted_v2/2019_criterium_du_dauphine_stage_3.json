@@ -1,0 +1,28 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-11",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 3 via perfectly timed ARCHIBALD leadout that engaged at 1200m, beating WELLENS Wout who came off barriers late.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "De Kooning quickstep controlled HODGE positioning but released him too early at 1600m, allowing BENNETT's train to overtake.",
+      "ARCHIBALD engaged leadout at 1200m go, later than typical, preventing competitors from organizing counter-trains in chaotic finale.",
+      "GC teams fighting sprinter teams for front position created messy positioning that favored organized trains over raw speed.",
+      "QUINTANA showing unexpectedly high comfort level maintaining position at sprint speeds mixed with lead-out chaos."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Dominated sprint by 3+ lengths after Archibald's late leadout prevented counter-positioning",
+      "HODGE Alvaro": "negative: De Kooning quickstep controlled his position perfectly until 1600m but released too early for his sprint characteristics",
+      "WELLENS Wout": "positive: Second place riding barriers left-hand side shows strong positioning instincts when organized trains absent",
+      "ARCHIBOLD Shane": "positive: Timed 1200m leadout engagement later than competitors expected, disrupting counter-train formation",
+      "QUINTANA Nairo": "positive: Maintaining comfortable position at high sprint speeds suggests better form than anticipated for GC contender",
+      "YATES Adam": "negative: Losing concentration on penultimate climb going into grass while focused on camera suggests form issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:45:58.403375+00:00"
+}

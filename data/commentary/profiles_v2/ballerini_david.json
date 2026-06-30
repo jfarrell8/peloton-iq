@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Not a primary attacker; succeeds in mass sprints through late positional patience and timing in final kilometer. Showed early ability to take breakaway intermediate sprint opportunities as younger rider.",
+  "team_tactics": "Historically deployed in support roles at Deceuninck/Quick-Step despite possessing sprint speed. First WorldTour wins came when given protected status rather than domestique duties.",
+  "terrain_preference": "Flat sprint finishes where positioning and timing matter more than pure power. Can animate breakaways for intermediate prizes but primary threat is in bunch kicks.",
+  "vulnerability": "Years in Quick-Step support role suggest team may have underutilized sprint capabilities. Limited observations make it unclear how he performs when marked as primary threat versus opportunistic winner.",
+  "key_patterns": [
+    "Late race positioning discipline: won from patient blue-and-white position in final kilometer",
+    "Opportunistic finisher: first WorldTour wins came when designated sprinters neutralized or mechanicked",
+    "Early career breakaway skills: demonstrated ability to contest intermediates from breaks as young pro"
+  ],
+  "form_trajectory": "positive: breakthrough WorldTour wins in 2020 after years in support roles suggest ascending trajectory with proper team backing",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "BALLERINI David",
+  "built_from": [
+    "2018 Giro d'Italia Stage 9",
+    "2018 Giro d'Italia Stage 9",
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 5",
+    "2020 Tour de Pologne Stage 5"
+  ]
+}

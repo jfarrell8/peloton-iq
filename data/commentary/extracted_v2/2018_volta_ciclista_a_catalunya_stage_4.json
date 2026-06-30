@@ -1,0 +1,28 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-22",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won Stage 4 after sitting on BERNAL Egan's wheel on the final climb, refusing to pull until sprinting past him inside final 500m.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LATOUR Pierre attacked solo with 11km remaining on steep opening ramps, forcing Movistar to organize chase rather than defend.",
+      "VALVERDE refused all pulls while trailing BERNAL on final climb, parasitic tactics preserving sprint watts despite having teammates ahead.",
+      "QUINTANA invested heavily in late attacks but inadvertently dragged VALVERDE to victory, Movistar internal competition undermining team strength.",
+      "French contingent (LATOUR, BARGUIL) showed unexpected climbing form early season, signaling Tour de France peaking strategy differs from Spanish squads."
+    ],
+    "rider_signals": {
+      "LATOUR Pierre": "positive: Solo attack with 11km left on steep gradient demonstrates willingness to race aggressively for podium rather than defend",
+      "BERNAL Egan": "positive: Led final climb and matched accelerations on stage not suited to him, signaling exceptional climbing endurance early career",
+      "QUINTANA Nairo": "negative: Multiple attacks in finale failed to drop VALVERDE, revealing inability to shed teammate despite superior position and fresher legs",
+      "VALVERDE Alejandro": "positive: Tactical patience to refuse pulls while sitting on BERNAL wheel preserved sprint power, ruthless even against own team interests",
+      "YATES Simon": "neutral: Finished in chase group with BARDET, neither gaining nor losing significant time on GC rivals",
+      "MARTIN Dan": "negative: Commentary noted struggling to hold contact on final climb, suggesting declining form compared to previous Volta editions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:39:28.043910+00:00"
+}

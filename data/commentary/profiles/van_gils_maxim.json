@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Commits to long-range breakaway efforts on progressive or altitude stages, willing to animate races from distance rather than waiting for final climbs. Shows endurance over explosive finishing power.",
+  "team_tactics": "Often given freedom to join breakaways without heavy team support; capable of operating independently without leadout or positioning assistance, suggesting autonomous role within Lotto setup.",
+  "terrain_preference": "Progressive altitude stages and medium-mountain terrain where sustained effort matters more than explosive climbing. Can handle sprint finishes when breakaways fail, showing versatility beyond pure climber profile.",
+  "vulnerability": "Exposed when WorldTour GC contenders launch decisive attacks in Grand Tour finales; lacks top-end acceleration to follow when race explodes at highest level, as shown when caught by Pogačar.",
+  "key_patterns": [
+    "Joins animated breakaways on mountain stages, sustaining long-distance efforts (2 observations)",
+    "Catches caught before finale but survives to contest reduced sprint finishes (2 observations)",
+    "Operates without structured team support, functioning as independent attacker (2 observations)",
+    "Shows endurance on progressive climbs but lacks explosive acceleration against top-tier attacks (2 observations)"
+  ],
+  "form_trajectory": "positive: demonstrated progression from breakaway rider to multi-dimensional threat capable of both sustained efforts and sprint finishes in hilly terrain",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN GILS Maxim",
+  "built_from": [
+    "2023 Tour de France Stage 13",
+    "2023 Volta Ciclista a Catalunya Stage 3",
+    "2023 Volta Ciclista a Catalunya Stage 6"
+  ]
+}

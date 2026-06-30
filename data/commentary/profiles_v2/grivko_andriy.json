@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Consistent breakaway rider who targets early moves rather than late-race attacks. Demonstrates willingness to commit to consecutive days in the break, suggesting endurance-based opportunism rather than explosive climbing attacks.",
+  "team_tactics": "Used as a positioning tool for intermediate sprint competitions and general classification support rather than sprint train development. Functions as an expendable breakaway asset to gain team visibility and bonus points.",
+  "terrain_preference": "Suited to long breakaways on transitional stages where sustained effort matters more than explosive power. Avoids scenarios requiring final-kilometer punch or steep gradient attacks.",
+  "vulnerability": "Lacks finishing speed to capitalize on breakaway efforts - repeatedly present in breaks but unable to convert. Veterans status suggests susceptibility to sustained high-pace racing and multiple climbing efforts.",
+  "key_patterns": [
+    "Consecutive day breakaway presence across three separate stage races (Tour de Romandie, Suisse, Guangxi)",
+    "Deployed for intermediate sprint positioning rather than final result objectives across team changes",
+    "Veteran status maintaining aggressive racing form but without conversion to results in 2018"
+  ],
+  "form_trajectory": "neutral: Shows consistent willingness to race aggressively throughout 2018 season, but lack of result conversion suggests stable but limited form rather than progression",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "GRIVKO Andriy",
+  "built_from": [
+    "2018 Tour de Romandie Stage 2",
+    "2018 Tour de Suisse Stage 2",
+    "2018 Tour of Guangxi Stage 2"
+  ]
+}

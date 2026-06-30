@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not an attacker but a fast finisher who arrives late in sprint scenarios, capable of contesting on both flat and rising finales with top-end speed.",
+  "team_tactics": "Benefits from dedicated leadout support when available, though positioning failures suggest coordination issues or mid-race incidents disrupting sprint preparation.",
+  "terrain_preference": "Versatile sprint finisher effective on both flat pure sprints and rising/uphill finales. Rising finales appear to suit him particularly well despite not being a pure sprinter classification.",
+  "vulnerability": "Positioning and crash avoidance in chaotic sprint stages; completely absent from final on stage where leadout was present, indicating either crash involvement or critical positioning error.",
+  "key_patterns": [
+    "Top-5 finishes in sprint stages including podium, demonstrating consistent speed (2 observations)",
+    "Can contest sprints on rising finales despite non-sprinter classification (2 observations)",
+    "Critical absence from prepared sprint finale suggests positioning fragility (1 major incident)"
+  ],
+  "form_trajectory": "neutral: Mixed signals with podium finish and fifth place showing strong speed, but complete absence from prepared sprint indicates inconsistency or bad luck",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN GESTEL Dries",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 4",
+    "2023 La Vuelta Ciclista a Espana Stage 5",
+    "2023 La Vuelta Ciclista a Espana Stage 7"
+  ]
+}

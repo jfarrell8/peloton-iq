@@ -1,0 +1,26 @@
+{
+  "label": "2019 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-15",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a reduced bunch sprint in Brignoles after crashes on final descent eliminated Kristoff and Ewan, following passive GC riding.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott paced final categorized climb for Trentin despite no GC attacks, revealing sprinter team gambling on selection.",
+      "GC group actively slowed after crashes separated dropped riders, signaling gentlemen's agreement before queen stage preserving status quo.",
+      "Intermediate sprint at 4km saw Kwiatkowski take bonus seconds over Sanchez, suggesting Sky prioritizing tactical buffer over sprint energy."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Specifically targeted stage as Milan-Sanremo preparation while surviving Cat-2 climb, suggesting improved climbing form for monuments.",
+      "GROENEWEGEN Dylan": "negative: Dropped on category 2 climb before finale, exposing vulnerability on hillier sprint stages compared to Bennett.",
+      "KWIATKOWSKI Michal": "positive: Contested intermediate sprint 4km from finish despite yellow jersey, showing Sky unwilling to cede even minor time gaps.",
+      "TRENTIN Matteo": "neutral: Team paced final climb for him but finished third, suggesting Mitchelton-Scott misjudged selection difficulty.",
+      "DE GENDT Thomas": "negative: Dropped despite holding polka dots, revealing breakaway specialist unable to survive pace on classified stage finish."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:53:59.221931+00:00"
+}

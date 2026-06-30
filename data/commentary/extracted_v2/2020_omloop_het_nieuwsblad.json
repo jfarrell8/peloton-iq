@@ -1,0 +1,28 @@
+{
+  "label": "2020 Omloop Het Nieuwsblad",
+  "race_name": "Omloop Het Nieuwsblad",
+  "race_date": "2020-02-29",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "STUYVEN Jasper won from a select front group, outsprinting DE BUYST Jasper after LAMPAERT attacked with 2km remaining but couldn't drop him",
+    "winner": "STUYVEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Strong group split formed after second Leberg passage, exploiting wind before traditional finale climbs decided the race.",
+      "VAN AVERMAET Greg and VAN AERT Wout missing the decisive selection shows even favorites get caught out early.",
+      "LAMPAERT's 2km attack on Bosberg failed because STUYVEN stayed in draft position, revealing sprint>late attack in two-up finale.",
+      "Quick-step DE KLERK sitting in front group while leaders chased behind demonstrates value of numbers over marquee names."
+    ],
+    "rider_signals": {
+      "STUYVEN Jasper": "positive: relaxed season approach yielded career-best win, showed superior positioning instinct over LAMPAERT in final 2km",
+      "VAN AERT Wout": "negative: first race since Tour de France crash, looked decent on cobbles but missed crucial wind split",
+      "VAN AVERMAET Greg": "negative: two-time winner chasing behind decisive group suggests declining ability to read early race splits",
+      "LAMPAERT Jasper": "neutral: strong enough to make front group and attack late, but tactical error leading out sprint",
+      "HAUSSLER Heinrich": "neutral: bridged to early move but lacked conviction to maintain effort in headwind section",
+      "TRENTIN Matteo": "negative: desperately chasing alone before final climb instead of being in winning move shows CCC tactical isolation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:17:33.505714+00:00"
+}

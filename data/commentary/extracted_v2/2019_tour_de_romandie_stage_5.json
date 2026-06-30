@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-05",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won the time trial by 13 seconds over CAMPENAERTS Victor, defending his overall lead to claim his second consecutive Tour de Romandie title.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ beat world hour record holder CAMPENAERTS by 14.6 seconds at intermediate check, revealing exceptional pre-Giro form.",
+      "GANNA Filippo led through intermediate check despite being pursuit specialist, showing time trial depth beyond track credentials.",
+      "ROGLIČ validated road stage wins with TT dominance, proving complete stage race capability pre-Grand Tour."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Three wins including time trial suggests complete form package heading to Giro d'Italia, not single-discipline specialist",
+      "THOMAS Geraint": "positive: Third overall by fractions confirms return to form after poor early season, credible Grand Tour contender again",
+      "CAMPENAERTS Victor": "neutral: World hour record holder beaten by 13 seconds suggests ROGLIČ's TT level exceeds specialist benchmarks",
+      "GANNA Filippo": "positive: Leading intermediate check as pursuit specialist shows immediate transition to road TT excellence"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:02:14.923673+00:00"
+}

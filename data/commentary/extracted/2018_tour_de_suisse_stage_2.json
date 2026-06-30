@@ -1,0 +1,23 @@
+{
+  "label": "2018 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-10",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won the sprint in Qinzhou from JAKOBSEN Fabio and GROENEWEGEN Dylan after a five-rider break was absorbed on final lap.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "COVANHA Remi targeted intermediate sprint bonus seconds twice successfully, tactical pattern for GC positioning before mountain stages.",
+      "Lotto-Jumbo kept break on short leash entire stage, controlling without burning sprinter support team despite treacherous wet conditions."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "negative: abandoned stage two, ending BMC career prematurely in adverse weather conditions",
+      "ACKERMANN Pascal": "positive: fourth World Tour win of 2018 demonstrates emerging elite sprint consistency against established names",
+      "GROENEWEGEN Dylan": "neutral: held overall lead but lost sprint shows form maintaining rather than peaking"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:41:01.270581+00:00"
+}

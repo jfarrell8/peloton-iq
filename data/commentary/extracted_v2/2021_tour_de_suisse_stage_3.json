@@ -1,0 +1,22 @@
+{
+  "label": "2021 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-06-08",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GIRMAY Biniam won Stage 3 via pre-finish sprint lap reconnaissance, holding leader's jersey after making final climb hard with 30-40 riders remaining.",
+    "winner": "GIRMAY Biniam",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "GIRMAY pre-rode finish circuit one lap before, identifying sprint characteristics that suited him specifically over pure sprinters.",
+      "Intermarché executed full team effort to control final climb despite 30-40 rider group, protecting jersey rather than isolating.",
+      "GIRMAY recognizes next stage as winnable but mountains beyond as threshold, suggesting weight/climbing ratio limits jersey defense strategy."
+    ],
+    "rider_signals": {
+      "GIRMAY Biniam": "positive: consecutive dominant performances suggest early-season form peak, tactical maturity in course reconnaissance beyond pure sprinting ability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:56:03.678363+00:00"
+}

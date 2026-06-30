@@ -1,0 +1,26 @@
+{
+  "label": "2019 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2019-10-12",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MOLLEMA Bauke attacked solo on penultimate climb when favorites watched each other, held 30+ seconds through final climb to win by 16 seconds",
+    "winner": "MOLLEMA Bauke",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOLLEMA exploited pace lull on penultimate climb when favorites marked each other; 100% commitment immediately established decisive 30-second gap.",
+      "CICCONE early selection attack on Sormano drew strong group but regrouped on descent, revealing Monument attacks require final-climb positioning.",
+      "INEOS controlled early with BERNAL fresh from Piemonte win but failed to chase MOLLEMA, suggesting Monument favorites hesitate against non-GC threats."
+    ],
+    "rider_signals": {
+      "MOLLEMA Bauke": "positive: recognized tactical stalemate among favorites to launch winning move on penultimate climb, not traditional finale climb",
+      "BERNAL Egan": "negative: INEOS-backed favorite fresh from Piemonte win failed to respond decisively to MOLLEMA's penultimate climb attack",
+      "NIBALI Vincenzo": "negative: dropped on penultimate climb, former winner showing clear form decline unable to contest Monument",
+      "VALVERDE Alejandro": "positive: alert bridging to early CICCONE selection and sprinted to second despite 38 years old",
+      "FUGLSANG Jakob": "positive: fourth place caps incredible season, consistently present in key selections without Monument-winning punch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:12:31.712497+00:00"
+}

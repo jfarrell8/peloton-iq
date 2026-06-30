@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic finisher who capitalizes on chaos. Attacks from final corner (~350m) when team plan disintegrates, showing flexibility to abandon domestique role and sprint independently.",
+  "team_tactics": "Normally operates as sprint leadout domestique (formerly for Bouhanni). When designated sprinter is absent or out of position, demonstrates situational awareness to switch from support to execution role.",
+  "terrain_preference": "Coastal sprint stages with technical finishes suit his ability to read chaotic situations and profit from positioning in tight corners.",
+  "vulnerability": "Likely struggles in organized sprints against pure fast-finishers when team structure is intact and he must fulfill domestique duties rather than hunt own opportunities.",
+  "key_patterns": [
+    "Converts from domestique to opportunist when team plan fails (1 observation only)",
+    "Attacks from technical corners in final 400m rather than pure power sprints",
+    "Shows exceptional situational awareness to recognize when designated sprinter is unavailable"
+  ],
+  "form_trajectory": "positive: Career-biggest win at 2023 Vuelta demonstrates emerging ability to seize opportunities beyond leadout duties",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SOUPE Geoffrey",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 7",
+    "2023 La Vuelta Ciclista a Espana Stage 7"
+  ]
+}

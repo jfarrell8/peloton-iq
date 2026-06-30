@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-19",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HOULE Hugo won from breakaway after surviving category 1 climbs, beating JORGENSEN and WOODS in technical finishing circuit with 180-degree turn before uphill finish.",
+    "winner": "HOULE Hugo",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "GESCHKE Simon riding defensively for KOM points despite being marked, prioritizing survival over aggressive collection on Cat-4 climbs.",
+      "Final 300m featured 180-degree turn before uphill finish; JORGENSEN led into corner but HOULE's late positioning won it.",
+      "POGACAR attacked first Cat-1 climb catching VINGEGAARD unprepared, then closed gap at extreme speed on 7-8% gradients showing superior form."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: attacked Category 1 climb catching Vingegaard off-guard, then bridged gaps on 7-8% gradients at speeds that surprised commentators",
+      "VINGEGAARD Jonas": "negative: caught unprepared by Pogacar's first Cat-1 attack, needed to chase back rather than controlling tempo",
+      "BARDET Romain": "negative: dropped from 4th to 9th overall, significant GC collapse on stage with no reported mechanical issues",
+      "HOULE Hugo": "positive: first road race ever was Tour de France, won stage in debut showing exceptional racing instincts",
+      "JORGENSEN Matteo": "neutral: strong enough to lead final corner but lacked punch on short uphill finish sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:22:20.262650+00:00"
+}

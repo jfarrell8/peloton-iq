@@ -1,0 +1,25 @@
+{
+  "label": "2020 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-23",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint finish after MOVISTAR forced echelons at 100km to go using crosswinds near windmills, though no GC splits materialized.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOVISTAR attacked at 100km out in crosswinds near windmills, creating peloton splits at 50+mph speeds despite no GC consequences.",
+      "PHILIPSEN Jasper jumped early in final corner forcing BENNETT Sam's late 25-meter acceleration, revealing timing vulnerability for future sprints.",
+      "ACKERMANN Pascal finishing fourth suggests BORA's leadout failed on high-speed finishes compared to Deceuninck's MØRKØV-led train dominance."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: demonstrated superior top-end speed in final 25 meters after doubting he could close PHILIPSEN's corner attack gap",
+      "PHILIPSEN Jasper": "neutral: strong enough to force panic from BENNETT but mistimed final corner attack by jumping too early",
+      "ACKERMANN Pascal": "negative: distant fourth place suggests speed disadvantage on fast finishes, team seeking revenge opportunities in week two",
+      "MOSCHETTI Matteo": "positive: third place shows CCC can deliver sprint results without designated leadout train on downhill finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:44:41.452856+00:00"
+}

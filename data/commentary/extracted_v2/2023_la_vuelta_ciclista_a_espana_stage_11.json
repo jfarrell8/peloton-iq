@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 11",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-06",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HERRADA Jesus won from 26-rider breakaway after GANNA Filippo's infernal pace shattered group, then EF's CAICEDO attacked at flamme rouge before being caught.",
+    "winner": "HERRADA Jesus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo rode destructively for THOMAS despite winning TT previous day, showing Ineos willing to burn TT winner as domestique.",
+      "CAICEDO Jonathan attacked twice including at flamme rouge from small lead group, forcing THOMAS to close despite GC ambitions.",
+      "EVENEPOEL Remco attacked GC group on final climb but SEPP, ROGLIC immediately neutralized, revealing no GC team willing to work yet.",
+      "OTTERBROOKS Sean went early from GC group suggesting top-10 defense tactics, forcing CARTHY Hugh to respond to protect position."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: rode tempo destructively for Thomas day after TT win, showing exceptional recovery and team commitment on 14-16% ramps",
+      "THOMAS Geraint": "positive: closed Caicedo's flamme rouge move while controlling final, positioning for top-10 GC push despite being older GC rider",
+      "CAICEDO Jonathan": "positive: attacked twice from lead group including at flamme rouge, showing aggressive tactics from reduced breakaway",
+      "EVENEPOEL Remco": "neutral: attacked GC group but immediately marked by Sepp and Roglic, revealing peloton unwilling to let moves go pre-Tourmalet",
+      "HERRADA Jesus": "positive: took Spain's first stage victory on 14-16% finish with family waiting, demonstrating strong finishing kick from reduced break"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:47:02.695946+00:00"
+}

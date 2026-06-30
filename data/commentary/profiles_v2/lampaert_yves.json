@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic attacker who capitalizes on tactical chaos and echelons in final 10km, or launches powerful solo chases when gaps open. Excels in time-trial efforts and bridging moves rather than pure explosive attacks.",
+  "team_tactics": "QuickStep/Soudal deploys him as flexible asset who can bridge to threatening moves to maintain numerical advantage, or counter-attack from team-generated echelons. Benefits from team's willingness to spend energy early for positioning.",
+  "terrain_preference": "Flat to rolling cobbled classics and time trials in all conditions. Strong in crosswinds and echelon situations. Paris-Roubaix terrain suits him particularly well when avoiding mechanicals/crashes.",
+  "vulnerability": "Highly susceptible to crashes and equipment failures on cobbles despite suitability to terrain. Has fallen or crashed in multiple Paris-Roubaix editions (2021, 2022) when positioned for results. Team numerical advantage doesn't always translate to control in sprint finishes.",
+  "key_patterns": [
+    "Multiple Paris-Roubaix podium threats ended by crashes/mechanicals (2021, 2022), suggesting positioning or equipment vulnerability.",
+    "Elite time trial capacity in wet conditions, defeating Van Aert at 2022 Tour opener.",
+    "Powerful solo chaser: closed 40s to 18s at 2019 Roubaix, won from late attack after echelons.",
+    "Used tactically to bridge gaps and preserve team numbers rather than wait for chase.",
+    "Thrives in crosswind/echelon chaos, winning from Sky-triggered split at 2017 Vuelta."
+  ],
+  "form_trajectory": "neutral: Strong 2022 TT win followed by 2023 Classic selection but failed team execution suggests maintained physical level without breakthrough results",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "LAMPAERT Yves",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 2",
+    "2017 Vuelta a Espana Stage 2",
+    "2019 Paris-Roubaix",
+    "2019 Paris-Roubaix",
+    "2020 BinckBank Tour Stage 1",
+    "2021 E3 Saxo Bank Classic",
+    "2021 Paris-Roubaix",
+    "2022 Paris-Roubaix",
+    "2022 Tour de France Stage 1",
+    "2022 Tour de France Stage 1",
+    "2023 Classic Brugge-De Panne"
+  ]
+}

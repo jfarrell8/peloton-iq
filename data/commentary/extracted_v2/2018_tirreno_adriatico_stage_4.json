@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-10",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "BENNETT George attacked in final kilometer with Aru and Majka, sat up after gapping them to take stage win while Landa secured crucial time bonuses",
+    "winner": "BENNETT George",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Aru counterattacked immediately after Froome paced Thomas back from mechanical, exploiting precise moment rival team exhausted domestique",
+      "Bennett tactically surrendered stage win to secure victory margin after establishing gap, prioritizing certainty over 10-second bonus",
+      "Landa sprinted hard for bonus seconds despite losing stage, revealing GC calculation prioritized over stage hunting when gaps small"
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: mechanical at worst possible moment during Landa GC attack forced Froome sacrifice, lost race lead despite recovery",
+      "FROOME Chris": "positive: delivered exceptional chase ride to return Thomas to contention after mechanical, still had legs late in summit finish",
+      "BENNETT George": "positive: followed Aru's opportunistic counterattack and had speed to win but made mature call to sit up after securing gap",
+      "LANDA Mikel": "positive: launched GC attack then sprinted aggressively for bonus seconds when caught, maximizing every time gain opportunity from 44 seconds down",
+      "ARU Fabio": "positive: recognized Froome's pacing effort exhausted Sky's options and counterattacked immediately, nearly took stage before Bennett passed",
+      "KWIATKOWSKI Michal": "negative: burned as domestique to pace Thomas back from mechanical despite sitting 9 seconds back in fifth overall",
+      "BAGIOLI Nicola": "neutral: dominated KOM points in breakaway across three consecutive days, establishing tactical pattern for jersey hunt"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:27:33.516347+00:00"
+}

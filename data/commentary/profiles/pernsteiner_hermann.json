@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Exploits GC freedom when 8-10+ minutes down, targeting breakaways on mountain stages. Capable of sustained late-race accelerations in final kilometers to distance fading climbers.",
+  "team_tactics": "BORA deploys him in stage-hunting mode rather than pure GC defense, targeting bonus seconds and breakaway opportunities when overall classification is out of reach.",
+  "terrain_preference": "Mountain stages where climbing form allows exploitation of breakaway scenarios. Strong enough to survive selection races and finish ahead of fading GC contenders.",
+  "vulnerability": "Unable to sustain GC position across multi-week Grand Tours—loses significant time mid-race, forcing shift from classification to stage-hunting tactics.",
+  "key_patterns": [
+    "Transitions from GC fade to dangerous breakaway rider within same Grand Tour (2020 Giro evidence).",
+    "Tagged as primary threat by GC teams when 10 minutes down, indicating climbing caliber (2020 Giro pattern).",
+    "Finishes strong in final kilometers against fading climbers when in hunting mode (2019 Vuelta, 2020 Giro).",
+    "Team pivots to opportunistic stage tactics after GC hopes fade mid-race (2020 Giro multiple stages)."
+  ],
+  "form_trajectory": "neutral: 2020 Giro showed strong climbing legs in breakaways despite earlier GC fade, suggesting reliable stage-hunting form but inconsistent week-three GC sustainability",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "PERNSTEINER Hermann",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 9",
+    "2020 Giro d'Italia Stage 12",
+    "2020 Giro d'Italia Stage 17",
+    "2020 Giro d'Italia Stage 17",
+    "2020 Giro d'Italia Stage 5"
+  ]
+}

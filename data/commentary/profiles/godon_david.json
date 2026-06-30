@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Excels in long-range breakaways on mountainous stages, capable of surviving multiple categorized climbs and finishing with a sprint when the break stays away.",
+  "team_tactics": "Limited data, but demonstrated ability to operate independently in breakaways without visible team support in final kilometers.",
+  "terrain_preference": "Multi-climb mountain stages where breakaways can succeed; possesses both climbing endurance to survive repeated ascents and sprint speed to contest reduced bunch finishes.",
+  "vulnerability": "Insufficient data to identify specific weaknesses; late peloton surges (final 200m) nearly caught him, suggesting possible concern against organized GC team chases.",
+  "key_patterns": [
+    "Capable of winning from long breakaways on Grand Tour mountain stages (1 observation)",
+    "Holds sprint speed after sustained climbing efforts to contest reduced finishes (1 observation)",
+    "Defensive riding against late attacks, winning by positioning rather than counter-attacking (1 observation)"
+  ],
+  "form_trajectory": "unknown: single observation shows stage-winning capability but insufficient temporal data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GODON David",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 11",
+    "2020 Vuelta a Espana Stage 11"
+  ]
+}

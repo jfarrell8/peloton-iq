@@ -1,0 +1,26 @@
+{
+  "label": "2021 Benelux Tour Stage 3",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-01",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 3 sprinting from ACKERMANN Pascal's wheel after LOTTO SOUDAL controlled the entire finale in Scherpenheuvel.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LOTTO SOUDAL positioned EWAN on ACKERMANN's wheel rather than leading out, exploiting rival leadout train.",
+      "VAN POPPEL Danny launched early sprint that was easily matched, revealing premature timing cost position.",
+      "EVENEPOEL Remco maintains 45-second gap on teammate without defending, suggesting team comfortable with passive GC tactics."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: winning from ACKERMANN's wheel shows tactical maturity to steal rival leadout rather than force own train",
+      "ACKERMANN Pascal": "negative: strong leadout work resulted in only second place, team doing the work for EWAN's benefit",
+      "MØRKØV Michael": "neutral: third place shows individual speed but lack of podium suggests leadout timing issues",
+      "VAN POPPEL Danny": "negative: early sprint attempt easily matched by EWAN reveals poor timing judgment in finale",
+      "EVENEPOEL Remco": "positive: 45-second GC lead over teammate suggests dominant position without needing to actively defend"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:46:34.432103+00:00"
+}

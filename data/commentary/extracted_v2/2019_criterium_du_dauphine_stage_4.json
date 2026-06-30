@@ -1,0 +1,27 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-12",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the 26.1km ITT by 31 seconds over van Garderen, taking his first WorldTour victory while YATES Adam inherited race lead by 4 seconds from Tunes.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Van Aert beat Dumoulin by 47 seconds despite being cyclocross specialist, suggesting TT form peaks unexpectedly early season for multi-discipline riders.",
+      "Yates took race lead by exactly 4 seconds over Tunes, indicating GC contenders barely matched specialist TT riders like van Garderen.",
+      "Jumbo-Visma placed two riders in top four (van Aert 1st, Krijswijk 4th) despite lacking traditional TT specialist, revealing depth in discipline."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Beat Dumoulin by 47 seconds and van Garderen by 31 seconds for first WorldTour win, signaling elite TT ability beyond cyclocross reputation.",
+      "YATES Adam": "positive: Only lost 56 seconds to van Aert over 26.1km, strong descending mentioned, competitive TT ability unexpected for pure climber.",
+      "DUMOULIN Tom": "negative: Only third at 47 seconds down to van Aert as former world TT champion, concerning form indicator before Tour.",
+      "PINOT Thibaut": "negative: Lost 1:20 to van Aert including 30 seconds to Buchmann alone, chronic TT weakness confirmed for GC ambitions.",
+      "VAN GARDEREN Tejay": "positive: Second at 31 seconds, described as 'rock-solid' and 'eating up the road', best of traditional GC contenders.",
+      "TUNES Dylan": "negative: Lost yellow jersey by exactly 4 seconds after being 'talked about' pre-stage, failed to deliver on TT expectations."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:46:13.204698+00:00"
+}

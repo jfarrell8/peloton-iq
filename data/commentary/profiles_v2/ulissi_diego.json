@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Launches tactical late-climb attacks with 1-8km to go on uphill gradients, targeting reduced bunch sprints or uphill finishes where pure sprinters are distanced. Exploits the climber-sprinter gray zone to infiltrate GC groups on selective climbs.",
+  "team_tactics": "UAE commits domestiques to aggressive positioning and late attacks (1km+ to go), willing to gamble on uphill kicks. Team provides leadout support but Ulissi capable of solo tactical moves when needed.",
+  "terrain_preference": "Uphill sprint finishes and punchy selective climbs (like Muro di Calaone) where pure sprinters are dropped but gradients aren't steep enough for pure climbers. Excels in tactical confusion scenarios with reduced groups.",
+  "vulnerability": "Timing errors on sustained uphill gradients—launches too early and burns matches before finale. Cannot hold accelerations of elite climbers (Carapaz) in direct confrontations. Vulnerable when marked closely by alert rivals (Aru negating attacks).",
+  "key_patterns": [
+    "Attacks 1-8km from finish on final climbs to break peloton, documented in 3+ observations",
+    "Infiltrates reduced GC/climber groups when pure sprinters dropped, wins via superior positioning (2 Giro wins)",
+    "UAE team willing to commit aggressive 1km attacks, gambling on uphill finishing kicks",
+    "Timing errors: launching too early on sustained climbs, burning effort before optimal moment (Poland 2020)",
+    "Retained uphill sprint punch across multiple Giro editions (7 career stage wins mentioned)"
+  ],
+  "form_trajectory": "positive: multiple 2020 Giro stage wins (#7 career, #2 in same race) show sustained uphill sprint power and tactical sharpness into late career",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "ULISSI Diego",
+  "built_from": [
+    "2018 Giro d'Italia Stage 12",
+    "2018 Giro d'Italia Stage 5",
+    "2019 Giro d'Italia Stage 4",
+    "2019 La Fleche Wallonne",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 4",
+    "2020 Tour de Pologne Stage 3"
+  ]
+}

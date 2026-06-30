@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 3",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-28",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won from chasing GC group after KEMNA Lenny caught from breakaway in final kilometers on Andorran summit finish",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step chased aggressively despite Evenepoel leading race, signaling willingness to spend domestiques for stage wins not just defend.",
+      "AYUSO Juan and SOLER Marc attacked repeatedly to soften GC favorites before final kilometer, revealing UAE's aggressive defense strategy.",
+      "BARDET Romain attacked 10km from summit on penultimate climb with full descent remaining, showing distance miscalculation on short stage.",
+      "KUSS Sepp set extended tempo for Vingegaard/Roglic rather than attacking himself, confirming pure domestique role despite strong climbing form."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Responded to all attacks and still had sprint to win from select group, extending GC lead to 5 seconds",
+      "THOMAS Geraint": "negative: Dropped on penultimate climb before final ascent began, signaling unexpectedly poor climbing form this early in race",
+      "UIJTDEBROEKS Cian": "negative: Mentioned as suffering and off pace on final climbs despite being protected climber",
+      "KEMNA Lenny": "neutral: Refused to share breakaway work with Caruso, prioritizing stage win over cooperation but caught anyway",
+      "SEPULVEDA Eduardo": "negative: Led breakaway trio over penultimate climb but punctured on descent, losing winning opportunity to mechanical",
+      "KUSS Sepp": "positive: Controlled pace for Jumbo's GC riders throughout summit finish, showing willingness to sacrifice own results"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:49:51.204000+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Breakaway specialist targeting major summit finishes, particularly on Grand Tour mountain stages. Attacks from long-range moves rather than late explosive accelerations, typically establishing position early in climbs.",
+  "team_tactics": "Relies on breakaway insertion rather than team-led setups; minimal domestique support visible, suggesting autonomous riding role focused on opportunistic long-distance moves.",
+  "terrain_preference": "High-altitude summit finishes on Grand Tour stages where breakaways can succeed. Strong on sustained climbs (8+ km) that favor steady tempo over explosive accelerations. Volcanic terrain (Etna) proven effective.",
+  "vulnerability": "Lacks repeatability when initial attacks are neutralized; single-punch climbing profile limits ability to respond to multiple accelerations or counter-attacks in finale scenarios.",
+  "key_patterns": [
+    "Targets breakaway opportunities on major Grand Tour mountain stages (2 observations)",
+    "Succeeds on long summit finishes requiring sustained climbing power over explosiveness (2 observations)",
+    "Vulnerable when caught after timed attacks, limited response capacity (2 observations)",
+    "Performs above reputation level in underdog breakaway scenarios at Grand Tours (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 Vuelta showed tactical awareness with flamme rouge timing, but revealed same single-acceleration limitation seen in 2020, suggesting consistent rather than improving capabilities",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CAICEDO Jonathan Klever",
+  "built_from": [
+    "2020 Giro d'Italia Stage 3",
+    "2020 Giro d'Italia Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 11"
+  ]
+}

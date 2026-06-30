@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Long-range solo attacks on uphill finishes, willing to commit from far out when positioned outside GC contention. Capitalizes on GC teams' reluctance to chase when no threat to overall standings.",
+  "team_tactics": "Insufficient data to establish pattern - only single race observation available showing independent long-distance effort.",
+  "terrain_preference": "Uphill finales suit best; demonstrates ability to sustain power over extended solo efforts to the line.",
+  "vulnerability": "Insufficient data - need observations where tactics failed or rider was marked/caught to establish vulnerabilities.",
+  "key_patterns": [
+    "Only single race observation available - insufficient evidence to establish repeating tactical patterns"
+  ],
+  "form_trajectory": "unknown: single observation from 2020 shows strong legs despite being 1h07m down, but no subsequent data to track progression",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HIRSCHY Marc",
+  "built_from": [
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 12"
+  ]
+}

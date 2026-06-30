@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data on successful attacks. Observations focus on positioning failures rather than offensive actions, suggesting reactive rather than proactive racing in stage races.",
+  "team_tactics": "Bora team positioning appears problematic in critical moments, with Majka caught in teammate-involved crashes. Poor collective positioning protocol in danger zones compromises GC protection.",
+  "terrain_preference": "Designated for mountain stages as GC contender, but lack of successful positioning suggests difficulty managing technical descents or nervous race sections before climbs.",
+  "vulnerability": "Severely exposed by poor positioning in nervous race conditions. Both observations show GC elimination via crashes before reaching preferred climbing terrain, indicating spatial awareness issues in peloton.",
+  "key_patterns": [
+    "Eliminated from GC contention via crashes in identical race two consecutive years (2017, 2018)",
+    "Poor positioning cost entire race outcome before reaching decisive climbs both times",
+    "Clustered with own Bora teammates in crashes, suggesting team-wide positioning deficiency"
+  ],
+  "form_trajectory": "unknown: Both observations document positioning failures rather than form indicators. No data on climbing performance when reaching key terrain unscathed.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MAJKA Rafał",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 3",
+    "2018 Tirreno-Adriatico Stage 3"
+  ]
+}

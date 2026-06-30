@@ -1,19 +1,37 @@
 {
-  "attacking_style": "Pure sprinter who relies on team lead-out execution in technical finales, contesting from optimal position in final 200-300m rather than launching long-range efforts.",
-  "team_tactics": "Depends heavily on organized sprint train delivery with designated lead-out men (Zabel at Alpecin-Fenix, Israel Premier Tech train). Success contingent on final-km positioning precision through technical sections.",
-  "terrain_preference": "Technical finales where positioning matters more than raw power. Struggles to convert even when delivered perfectly, suggesting moderate power output or poor timing in chaotic sprints.",
-  "vulnerability": "Fails to capitalize on well-executed lead-outs. Both observations show strong team support but inability to finish top-3, indicating either poor final acceleration, mistimed kick, or insufficient top-end speed in elite-level bunch sprints.",
+  "attacking_style": "Pure sprinter who excels in reduced bunch sprints after selective climbs eliminate pure speed specialists. Lacks explosive final 200m acceleration to win from perfect positioning, relying instead on tactical superiority and endurance to outlast faster rivals.",
+  "team_tactics": "Heavily dependent on full leadout trains that frequently deliver perfect positioning but fail conversion. Teams commit all resources (Trek-Segafredo, Israel Premier Tech) to control finals, but leadout failures or isolation in headwinds repeatedly cost results.",
+  "terrain_preference": "Selective stages with tactical climbing that shed pure sprinters but don't require sustained high tempo. Thrives in reduced group sprints from breakaway catches or after small time gaps form. Technical finales expose acceleration deficiency.",
+  "vulnerability": "Sustained high-tempo pace-making before sprints (dropped when BORA set tempo despite support). Insufficient final 200m acceleration when leadout fails—repeatedly holds perfect position but cannot come around rivals. Accumulates near-misses under pressure.",
   "key_patterns": [
-    "Underperforms relative to lead-out quality: perfect positioning yields 5th or worse (2 instances)",
-    "Team mechanics calibrated but personal finishing power insufficient against top-tier sprinters (2 races)",
-    "Technical finales handled well positionally but conversion to podium lacking (2 observations)"
+    "Chronic second-place pattern: 11th Giro runner-up finish, 16-podium winless drought before 2021 breakthrough",
+    "Perfect positioning, insufficient acceleration: held dead-center/optimal wheels but lacked final kick in multiple races",
+    "Leadout dependency critical: isolation or technical zone failures directly correlate with poor results across teams",
+    "Vulnerable when sustained tempo precedes sprint: dropped by BORA pace-making, needs tactical not tempo racing",
+    "Mental resilience: rebounded from disappointments to win chaotic sprints, broke winless drought under pressure"
   ],
-  "form_trajectory": "negative: Consistent failure to convert quality lead-outs into top-3 finishes across different teams (Israel PT and Alpecin-Fenix), suggesting declining finishing speed or confidence issues in 2022",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2022 showed podium capability after selective climbing but Israel Premier Tech leadout failures continued. 2021 DNS suggests fragility, though Verona win proved top-end improvement. Pattern of strong positioning without conversion persists.",
+  "races_analysed": 13,
+  "confidence": "high",
   "rider_name": "NIZZOLO Giacomo",
   "built_from": [
-    "2022 Giro d'Italia Stage 3",
+    "2018 Tirreno-Adriatico Stage 2",
+    "2018 Tour of Oman Stage 6",
+    "2018 Tour of Oman Stage 6",
+    "2018 Vuelta a Espana Stage 3",
+    "2019 Tour of Oman Stage 6",
+    "2019 Tour of Oman Stage 6",
+    "2020 Paris - Nice Stage 2",
+    "2020 Paris - Nice Stage 2",
+    "2020 Tour de France Stage 3",
+    "2021 Giro d'Italia Stage 10",
+    "2021 Giro d'Italia Stage 13",
+    "2021 Giro d'Italia Stage 13",
+    "2021 Giro d'Italia Stage 15",
+    "2021 Giro d'Italia Stage 2",
+    "2021 Giro d'Italia Stage 5",
+    "2021 Giro d'Italia Stage 5",
+    "2022 Giro d'Italia Stage 5",
     "2022 Tirreno-Adriatico Stage 7"
   ]
 }

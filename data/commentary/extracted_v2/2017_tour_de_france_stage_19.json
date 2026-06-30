@@ -1,0 +1,24 @@
+{
+  "label": "2017 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-21",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BOASSON HAGEN Edvald attacked at 3km on a roundabout right-turn line choice, accelerated off the front with superior power ceiling that breakaway couldn't match despite all marking him as fastest finisher.",
+    "winner": "BOASSON HAGEN Edvald",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Boasson Hagen's roundabout geometry advantage at 3km eliminated braking/reacceleration penalty, gaining 50-meter gap before power application.",
+      "Breakaway completely paralyzed by single-rider marking problem: all knew Boasson Hagen fastest, attacks designed to avoid sprint still closed by him alone.",
+      "Sky isolated Froome with 4-minute deficit before final, signaling GC rivals conceded time trial advantages exceeding 45-60 seconds per commentary."
+    ],
+    "rider_signals": {
+      "BOASSON HAGEN Edvald": "positive: closed every breakaway attack solo without teammates, revealing power ceiling sustainable in 3km+ efforts unlike pure sprinters",
+      "ARNDT Nicholas": "negative: couldn't hold Boasson Hagen wheel despite being second-fastest sprinter in break, suggesting acceleration deficit not top-end speed",
+      "FROOME Chris": "positive: GC competitors gave 23-second lead into time trial despite historically smallest margin, revealing perceived 45-60 second chrono dominance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:06:01.252212+00:00"
+}

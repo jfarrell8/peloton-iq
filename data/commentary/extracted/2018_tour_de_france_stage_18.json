@@ -1,0 +1,30 @@
+{
+  "label": "2018 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-26",
+  "stage": 18,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "DÉMARE Arnaud won stage 18 sprint after surviving two last-place finishes in Pyrenees, team FDJ controlled finale perfectly.",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DÉMARE survived mountain stages in last place then recovered for sprint win—third-week recovery capacity underestimated in survivors.",
+      "FDJ paced too aggressively early but GUARNIERI delivered flawless final leadout, showing group sprint control over individual positioning.",
+      "ALAPHILIPPE peeled off 7km from finish to conserve energy for Stage 19 breakaway, pre-planning rest within transition stages.",
+      "THOMAS benefits from Stage 18 respite breaking Pyrenees into non-consecutive efforts, avoiding three-straight-days cracking risk."
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: Recovered from back-to-back lanterne rouge finishes to win sprint, exceptional third-week resilience for heavy sprinter.",
+      "GUARNIERI Jacopo": "positive: Delivered textbook leadout after FDJ controlled stage aggressively from start, elite domestique execution under fatigue.",
+      "LAPORTE Christophe": "neutral: Had position but lacked final acceleration against pure sprinters, confirmed as tier-two fastman.",
+      "FROOME Chris": "negative: Sitting third overall but commentary questions his climbing form, expecting him sharper Stage 19 after one-off bad day.",
+      "THOMAS Geraint": "positive: Route design with transition stage suits his consistent-but-not-explosive style, avoiding consecutive mountain cracking risk.",
+      "SAGAN Peter": "neutral: Looked unusually exhausted despite safe sixth-place finish, third-week accumulation showing in facial expression.",
+      "ALAPHILIPPE Julian": "positive: Abandoned sprint 7km out to rest for Stage 19 breakaway hunt, mature energy management for multi-day objectives.",
+      "PHINNEY Taylor": "positive: Ninth place mixing with specialist sprinters, dad former stage winner, criterium skills translating in third-week subdued racing."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:35:29.405894+00:00"
+}

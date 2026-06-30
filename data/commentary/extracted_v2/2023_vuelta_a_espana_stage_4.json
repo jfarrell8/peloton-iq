@@ -1,0 +1,25 @@
+{
+  "label": "2023 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won from the wheel, timing his sprint perfectly to overtake MILANO who went from 250m out on the uphill finish.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MILANO attacked from 250m on uphill finish with big gap, but went too early without leadout support.",
+      "Alpecin-Deceuninck controlled peloton all day without setting tempo, saving energy for final positioning sprint.",
+      "Final left-hand corner 350m out with decreasing radius caused EF crash, showing course recon advantage critical."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "positive: demonstrated superior uphill sprint timing and power, waited longest among contenders on steep gradient finish",
+      "MILANO Jonathan": "positive: showed unexpected diesel engine strength holding solo effort 250m uphill, lacks only final top-end speed",
+      "POGACAR Tadej": "neutral: deliberately avoided intermediate sprint bonus seconds, contrary to Tour de France behavior pattern",
+      "SEPULVEDA Eduardo": "neutral: won breakaway KOM points uncontested with peloton only 25 seconds back, suggesting minimal GC threat perception"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:07:33.394132+00:00"
+}

@@ -14,75 +14,85 @@
       {
         "video_id": "VG2Usdo6D2I",
         "title": "Tour of Turkey 2018 | Stage 4 Highlights: Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-12 14:23:25+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 134.29
       },
       {
         "video_id": "uVtGaxGKdi0",
         "title": "Tour of Turkey 2018 | Stage 3 Highlights: Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-11 16:55:20+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 84.29
       },
       {
         "video_id": "N9dM1vPgDQk",
         "title": "Tour du Pays Basque 2018 | Stage 4 Roglic's Time Trial Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-04-05 16:56:05+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.14
       },
       {
         "video_id": "_lYQuycKwxQ",
         "title": "Tour du Pays Basque 2018 | Stage 4 Alaphilippe's Time Trial Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-04-05 16:24:50+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.14
+      },
+      {
+        "video_id": "iEcPrK8v7mY",
+        "title": "Arctic Race of Norway 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
+        "published": "2018-08-20 10:01:48+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.1
       },
       {
         "video_id": "N-MAvqr0xNU",
         "title": "Tour of Utah 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-12 09:59:46+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "Cz16Y4xLeqU",
         "title": "Tour de Pologne 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-07 15:31:33+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
-        "video_id": "iEcPrK8v7mY",
-        "title": "Arctic Race of Norway 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
+        "video_id": "Iuezwq70L4s",
+        "title": "BinckBank Tour 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
+        "published": "2018-08-16 15:30:41+00:00",
         "channel": "TNT Sports",
-        "published": "2018-08-20 10:01:48+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "793GLV9-yCw",
         "title": "Colorado Classic 2018 | Stage 4 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-20 09:20:29+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "3PROFbOorAY",
         "title": "Tour de Romandie 2018 | Stage 4 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-04-30 10:42:38+00:00",
-        "match_score": 72.1
-      },
-      {
-        "video_id": "iTBX881Gozw",
-        "title": "Tour of the Alps 2018 | Stage 4 Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
-        "published": "2018-04-19 15:50:35+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

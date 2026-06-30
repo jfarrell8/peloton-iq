@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour of Guangxi Stage 2",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-17",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won the sprint at Qinzhou after BORA-hansgrohe executed textbook leadout, narrowly beating JAKOBSEN Fabio despite torrential conditions.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-hansgrohe leadout executed flawlessly in torrential rain, suggesting superior wet-weather train coordination over sprinter teams.",
+      "Five-rider break with strong TTers DOWSETT, GRIVKO, FENG kept short leash by Lotto-Jumbo, indicating sprint teams confident controlling weak break.",
+      "CAVAGNA Rémi collected bonus seconds at multiple sprints from break, revealing GC ambitions before mountain stages later in week.",
+      "GROENEWEGEN Dylan beaten despite holding race lead, suggesting BORA's leadout technical superiority neutralizes UAE's numerical advantage in sprint trains."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: fourth World Tour win of 2018, demonstrates ability to execute in treacherous wet conditions against quality field",
+      "JAKOBSEN Fabio": "positive: second place shows competitive sprint speed despite young age and difficult conditions",
+      "GROENEWEGEN Dylan": "negative: beaten while in race leader jersey suggests vulnerability when teams target him specifically with organized leadouts",
+      "CAVAGNA Rémi": "neutral: aggressive bonus second hunting from break indicates targeting GC on mountain stages, not sprints",
+      "DOWSETT Alex": "neutral: two consecutive days in break reveals form and willingness to animate races opportunistically",
+      "GRIVKO Andrey": "neutral: consecutive break attempts show strong current condition but inability to stay away on flat terrain",
+      "PORTE Richie": "negative: DNS stage 2, career-ending abandon in difficult weather conditions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:42:52.953580+00:00"
+}

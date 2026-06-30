@@ -1,0 +1,27 @@
+{
+  "label": "2017 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2017-10-07",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "NIBALI attacked on flat lakeside section 17km after descent, dropped PINOT with repeated accelerations, won by 28 seconds over MOSCON group",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NIBALI attacked on flat lake section not climbs, exploiting recovery moment after dangerous descent to isolate rivals immediately",
+      "Quick-Step prioritized ALAPHILIPPE over VAN AVERMAET when selection happened, revealing hierarchy shift despite latter's better palmares",
+      "PINOT signaled attack intention before executing, allowing NIBALI to mark and counter when Pinot visibly suffered",
+      "Teams fractured when DE POUS crashed on descent, preventing coordinated chase as FDJ lost organizing rider"
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "positive: attacked twice in rapid succession when PINOT showed weakness, reading opponent fatigue perfectly",
+      "PINOT Thibaut": "negative: telegraphed his moves and was on ragged edge when NIBALI countered, lacked explosiveness for repeated accelerations",
+      "ALAPHILIPPE Julian": "positive: bridged significant gaps alone after lakeside attacks, showing Quick-Step chose correctly between him and VAN AVERMAET",
+      "VAN AVERMAET Greg": "negative: described as out of sorts and not selected as Quick-Step leader despite monument pedigree",
+      "DE POUS Laurens": "negative: crashed badly on descent creating disorganization that enabled NIBALI's lakeside attack timing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:59:17.238256+00:00"
+}

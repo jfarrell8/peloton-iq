@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 16",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-12",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked with 4.8km remaining on the steep finish climb to Bejes, distancing KUSS by 1:05 and closing GC gap to 29 seconds.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GROVES prioritized intermediate sprint points over break survival, pulling out before climb knowing green jersey math favored abandonment.",
+      "INEOS Grenadiers chased after missing break formation, revealing desperation for stage opportunities with limited remaining chances.",
+      "ROGLIC deliberately checked behind for KUSS position before line, suggesting intra-team GC hierarchy still being negotiated within Jumbo-Visma.",
+      "VINGEGAARD attacked immediately upon final climb start at 4.8km, not waiting for steepest 16% gradient in final 2km."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: Tour de France fatigue signs completely erased, attacking strength on steep finishes returning at critical race moment",
+      "KUSS Sepp": "negative: lost 1:05 plus bonus seconds to Vingegaard on short steep climb, suggesting vulnerability on explosive gradients versus sustained efforts",
+      "ROGLIC Primoz": "neutral: checking for Kuss position before line indicates team dynamics unresolved, gained time on nominal leader without overtly attacking",
+      "FISHER BLACK Finn": "positive: UAE domestique finished second on punchy climb, unexpected result reveals climbing form",
+      "GROVES Kaden": "positive: tactical sprint point collection suggests green jersey calculation prioritized over stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:48:10.323038+00:00"
+}

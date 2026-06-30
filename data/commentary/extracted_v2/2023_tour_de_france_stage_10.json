@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-11",
+  "stage": 10,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BILBAO Payo won from a large breakaway, attacking in final kilometers and outsprinting ZIMMERMAN and O'CONNOR to move into 5th overall.",
+    "winner": "BILBAO Payo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Peloton allowed 3-minute gap to large breakaway containing Bilbao (11th GC), ceding major GC time without chase response.",
+      "O'Connor repeatedly attacked final kilometers showing stage-18-Alps form, forcing Bilbao to use Zimmerman's pace rather than solo.",
+      "Sepp proved strongest Vingegaard domestique across multiple Tour stages, only teammate consistently surviving to key moments."
+    ],
+    "rider_signals": {
+      "BILBAO Payo": "positive: moved from 11th to 5th GC via breakaway stage win, showing aggressive intent for 3-minute gains versus top GC",
+      "O'CONNOR Ben": "positive: returned to 2021 Tour form with repeated late attacks, nearly caught winning move after bridging",
+      "SEPP Michael": "positive: confirmed as Vingegaard's most reliable domestique, last man standing every stage except Puy de Dome",
+      "CAVAGNA Remy": "negative: attacked immediately after being caught, wasted energy without reading peloton's willingness to let breakaway go"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:55:39.303308+00:00"
+}

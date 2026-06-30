@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour of Oman Stage 3",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-16",
+  "stage": 3,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KELDERMAN Saurin Craig Anderson attacked late on Curyat climb finish to take his first pro win after DLOOSE's earlier move was caught",
+    "winner": "ANDERSON Saurin Craig",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Sunweb held back Anderson while DLOOSE bridged, timing final acceleration only after early move was neutralized",
+      "Peloton fragmented on Curyat approach before summit, suggesting gradient ramped unexpectedly hard in final kilometers"
+    ],
+    "rider_signals": {
+      "DLOOSE Lawrence": "negative: burned matches with premature solo effort on Curyat, got caught before summit",
+      "ANDERSON Saurin Craig": "positive: Sunweb neo-pro shows Curyat summit finish suits him better than established climbers expected"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:10:51.960816+00:00"
+}

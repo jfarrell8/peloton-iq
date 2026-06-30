@@ -1,0 +1,27 @@
+{
+  "label": "2021 UAE Tour Stage 6",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-26",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won a controlled sprint in Châteauroux after KLUGE Roger and VAN AVERMAET Greg's two-man break was absorbed inside 2km",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KLUGE Roger's Olympic track pedigree used in two-man break suggests targeting understrength chases before full sprint trains commit.",
+      "ASGREEN and VAN AVERMAET in early move with GC threat forced panic chase despite sprint teams represented showing coordination gaps.",
+      "DECEUNINCK quick-step controlled final kilometer with PHILIPPE Julian as world champion taking leadout duty revealing hierarchy depth."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: returning from near-retirement eight months prior, won with identical celebration to 2008 debut showing peak form restoration",
+      "KLUGE Roger": "neutral: selected for two-man break quality but couldn't sustain gap against organized sprint team chase",
+      "VAN AVERMAET Greg": "neutral: only rider to bridge after initial break caught suggests solo strength but failed to gain meaningful advantage",
+      "PHILIPPE Jasper": "positive: world champion deployed as leadout rather than own sprint option shows team confidence in hierarchical sacrifice",
+      "COLBRELLI Gianni": "neutral: took intermediate sprint points but unable to contest final sprint meaningfully despite positioning",
+      "GUARNIERI Jacopo": "neutral: closest challenger to Cavendish but gap significant, crashed inside 2km without injury showing vulnerability under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:14:31.508826+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-06",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGACAR won the sprint from the GC group in Laruns after catching Hershey's long breakaway inside 1km, with ROGLIC taking yellow jersey.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Martinez attacked mid-climb for stage hunting after losing GC hopes to crashes, revealing EF's pivot from GC to stages.",
+      "Jumbo-Visma controlled final climb despite Roglic being in yellow contention, allowing GC group to catch breakaway at 1km.",
+      "Hershey survived all-day breakaway through both Cat-1 climbs but GC group's time-chasing negated cooperation before sprint finish.",
+      "Pogacar sprinted from GC group for stage win rather than conceding to breakaway, prioritizing 10-second bonus over energy conservation."
+    ],
+    "rider_signals": {
+      "MARTINEZ Daniel": "neutral: attacked mid-climb for stage win after abandoning GC ambitions following 3+ minute crash losses in week one",
+      "PINOT Thibaut": "negative: dropped early on climb again with continued back issues, riding better than previous day but clearly not recovered",
+      "HERSHEY Marc": "positive: led breakaway over both Cat-1 climbs solo and still contested sprint at finish despite day-long effort",
+      "ROGLIC Primoz": "positive: took yellow jersey with 21-second advantage after being 3 seconds down, Jumbo controlled final climb",
+      "YATES Adam": "negative: lost yellow jersey and dropped to 1:02 down after struggling in final kilometers of last climb",
+      "POGACAR Tadej": "positive: won stage sprint from GC group and moved to 7th overall at 44 seconds, clawing back crosswind losses"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:26:50.377186+00:00"
+}

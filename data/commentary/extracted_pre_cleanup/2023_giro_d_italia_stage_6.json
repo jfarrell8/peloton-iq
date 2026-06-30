@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERSON Mads won a reduced bunch sprint after CLARK Simon and DEMARCHI Alessandro's breakaway was caught inside 200 meters following hesitation.",
+    "winner": "PETERSON Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CLARK and DEMARCHI hesitated in final 800m with 33-second gap, allowing catch inside 200m—experience gap fatal.",
+      "THOMAS Geraint and SCHRODLICH suffered mechanicals <15km remaining, forcing team TTT through convoy on flat finale stage.",
+      "CAVENDISH Mark dropped on first categorized climb, confirming knee injury from previous crash limits climbing tolerance significantly.",
+      "Peloton failed to organize chase until <3km despite break having only 1:03 at 15km—teams unwilling to commit."
+    ],
+    "rider_signals": {
+      "PETERSON Mads": "positive: completed grand tour stage win grand slam, outsprinted MILAN in technical finale positioning",
+      "CLARK Simon": "negative: tactical inexperience evident—sat up with 33s gap at 3km, allowed catch from winning position",
+      "MILAN Jonathan": "neutral: second place maintains points jersey but couldn't outsprint PETERSON despite leadout advantage",
+      "CAVENDISH Mark": "negative: dropped on Category 3 climb confirms knee injury severely limits even moderate climbing",
+      "THOMAS Geraint": "negative: late mechanical required team TTT through convoy, exposes GC vulnerability on seemingly safe stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:04:25.136964+00:00"
+}

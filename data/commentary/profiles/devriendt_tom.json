@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Commits to extremely long-range solo or small group breakaways (190km documented), willing to spend entire race off the front. Thrives in reduced sprint scenarios where attrition favors survivalists over pure sprinters.",
+  "team_tactics": "Operates with minimal team support; relies on individual initiative rather than coordinated setups. Functions as opportunistic breakaway specialist rather than protected leader.",
+  "terrain_preference": "Excels in attritional Classics conditions (cobbles, reduced bunch scenarios). Exposed in headwind situations where solo efforts prove futile despite exceptional endurance capacity.",
+  "vulnerability": "Solo breakaways in adverse wind conditions render stamina irrelevant; lacks firepower to hold off organized chases. Reputation deficit may limit counterattack responses from peloton.",
+  "key_patterns": [
+    "Executes ultra-distance breakaways exceeding 190km, showing exceptional stamina for extended efforts.",
+    "Achieves best results when attrition creates reduced finales, not pure bunch sprints.",
+    "Functions as unknown/underestimated rider, allowing breakaway survival when favorites mark each other.",
+    "Demonstrates persistence over calculated tactics; willingness to suffer outweighs strategic positioning."
+  ],
+  "form_trajectory": "positive: 2022 Paris-Roubaix fourth place represents significant breakthrough result, suggesting improved ability to convert long efforts into results in chaotic finales",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DEVRIENDT Tom",
+  "built_from": [
+    "2020 Paris - Nice Stage 3",
+    "2022 Paris-Roubaix"
+  ]
+}

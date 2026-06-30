@@ -1,0 +1,27 @@
+{
+  "label": "2017 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2017-04-16",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe attacked inside final 6km on late climb, held off KWIATKOWSKI who opened big gap at 300m but faded in final meters",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KWIATKOWSKI opened decisive gap at 300m marker but tactical timing error—went too early and cracked before line.",
+      "WELLENS attacked solo at 32km out in home region, forcing selection but likely wasting energy too early.",
+      "GILBERT followed attacks defensively until final 6km climb, then countered when KWIATKOWSKI and others looked around.",
+      "HAAS and ALBASINI missed critical wheel in decisive move, showing importance of positioning on penultimate climb."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "negative: sailed past rivals at 60% effort on climb but premature sprint at 300m revealed poor final-kilometer pacing judgment",
+      "GILBERT Philippe": "positive: conserved energy following wheels, then perfectly timed attack on final climb to hold off faster finisher",
+      "WELLENS Tim": "neutral: aggressive 32km solo move in home region showed strength but tactically isolated himself from decisive selection",
+      "CERNY Roman": "negative: crashed late and Gazprom team awareness was poor—head-in-hands reaction suggests lack of recovery support",
+      "HAAS Nathan": "negative: strong enough to be in winning move but missed critical wheel when group looked around"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:52:58.257598+00:00"
+}

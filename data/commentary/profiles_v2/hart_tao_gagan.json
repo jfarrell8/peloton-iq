@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not rely on early attacks; clinches victory through final-stage ITT performance after staying close in GC through mountain stages.",
+  "team_tactics": "Operated with low-domestique support profile, flying under radar as team workhorse before emerging as protected GC leader late in race.",
+  "terrain_preference": "Time trials are decisive weapon; capable of defending on mountain stages without showing clear dominance, then exploiting ITT to overturn deficits.",
+  "vulnerability": "Starting without clear team protection or protected status may limit ability to respond to early attacks in summit finishes if marked from stage 1.",
+  "key_patterns": [
+    "Late-race form progression; enters as domestique but peaks in final week.",
+    "ITT specialist capable of overturning 39-second deficit on final day decisive time trial.",
+    "Stealth GC progression avoiding early detection until threatening position becomes apparent."
+  ],
+  "form_trajectory": "positive: Demonstrated classic crescendo pattern peaking in week 3, winning Giro after starting as domestique with modest GC pedigree",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HART Tao Gagan",
+  "built_from": [
+    "2020 Giro d'Italia Stage 21",
+    "2020 Giro d'Italia Stage 21"
+  ]
+}

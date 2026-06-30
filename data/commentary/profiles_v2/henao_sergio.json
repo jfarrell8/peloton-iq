@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Attacks on steepest gradients of decisive climbs, targeting vulnerable GC rivals. Capable of holding slim advantages into final meters through sustained power rather than explosive accelerations.",
+  "team_tactics": "Sky provides measured support but Henao often operates with limited domestique support in finale. Relies more on individual strength than traditional Sky train tactics, possibly as opportunistic GC option.",
+  "terrain_preference": "Steep gradient climbs on Cat 1 ascents where sustained power becomes decisive. Excels on penultimate and decisive mountain stages where cumulative fatigue favors diesel engines over punchy climbers.",
+  "vulnerability": "Isolation tactics can reduce his margin for error—succeeded despite only two functional domestiques but suggests dependence on maintaining position rather than recovering it. Time bonuses critical to narrow victories.",
+  "key_patterns": [
+    "Targets steepest gradient sections to exploit rivals' weakness, documented across multiple stages.",
+    "Holds narrow time gaps through sustained effort rather than creating large advantages (2-30 seconds).",
+    "Emerges as GC threat on mountain stages, positioned as Sky's depth option beyond designated leaders.",
+    "Survives aggressive racing and chaos well, maintaining GC position through opening stages and finale pressure."
+  ],
+  "form_trajectory": "positive: Progressively strengthened through Paris-Nice week, from surviving chaos to taking yellow to defending against Contador's attack",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HENAO Sergio",
+  "built_from": [
+    "2017 Paris-Nice Stage 3",
+    "2017 Paris-Nice Stage 6",
+    "2017 Paris-Nice Stage 7",
+    "2017 Paris-Nice Stage 8",
+    "2017 Paris-Nice Stage 8"
+  ]
+}

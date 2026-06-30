@@ -1,0 +1,26 @@
+{
+  "label": "2023 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2023-10-07",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked on the Passo di Ganda descent (40km out), extended gap through Madonna del Ghisallo hairpins despite cramps, won by 1 minute",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Adam Yates initiated selection on penultimate climb with 40km remaining, thinning field before Pogacar's descent attack",
+      "Pogacar attacked on Passo di Ganda descent not summit, reversing his 2021 weakness on same 19 hairpins",
+      "Visma isolated without Wout van Aert: Roglic finished third without teammates in decisive seven-rider selection group"
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: showed cramp management at 12km to go but maintained solo effort, overcame previous descent weakness on identical terrain",
+      "EVENEPOEL Remco": "negative: crashed 21km in, distanced when Adam Yates attacked with 40km remaining, never rejoined elite group",
+      "YATES Adam": "positive: initiated winning move on penultimate climb, demonstrating UAE team depth allowed sacrificial pace-setting",
+      "MAS Enric": "negative: dropped early when Soudal Quickstep raised tempo, unable to reach final selection despite Monument pedigree",
+      "CARAPAZ Richard": "negative: Olympic champion dropped before final selection, finished 8th despite Monument-winning résumé"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:46:09.803393+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who excels in chaotic finale scenarios rather than pure power attacks. Wins by superior positioning and tactical awareness when stronger riders falter in disorganized sprints.",
+  "team_tactics": "Insufficient data - appears to operate with limited team support, relying on individual tactical acumen in breakaways rather than coordinated lead-outs.",
+  "terrain_preference": "Thrives in technical, chaotic finales where positioning and bike-handling trump pure power. Breakaway stages where organizational breakdown creates opportunities for tactically astute riders.",
+  "vulnerability": "Likely struggles when races remain controlled and organized, requiring pure physical dominance rather than tactical opportunism. May lack firepower against dedicated sprinters or climbers in controlled scenarios.",
+  "key_patterns": [
+    "Succeeds from doomed breakaways through superior final kilometer chaos management (Giro 2018 win)",
+    "Overperforms expectations as underdog without strong team support (contract-less 2017, breakaway win 2018)",
+    "Capitalizes on positioning errors by stronger riders when race organization breaks down"
+  ],
+  "form_trajectory": "positive: Stage win at 2018 Giro demonstrated ability to execute at WorldTour level after rebuilding from contract-less 2017 season",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BATTAGLIN Enrico",
+  "built_from": [
+    "2017 Tour de Pologne Stage 4",
+    "2018 Giro d'Italia Stage 5",
+    "2018 Giro d'Italia Stage 5"
+  ]
+}

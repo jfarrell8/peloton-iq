@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-01",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won the 238km stage sprint in Zabrze after VAN POPPEL Danny led him out from 800m but faded in final 50m.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN POPPEL Danny forced to lead from 800m out burned matches before finish, enabling EWAN to save energy.",
+      "SAGAN Peter threw for bonus seconds not victory, prioritizing GC gap protection over stage win.",
+      "Extreme heat (40°C) neutralized pure power sprinters, favoring lighter riders like EWAN in finale."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: First win since Giro stage, demonstrated mental resilience after early-week losses when needed confidence boost",
+      "VAN POPPEL Danny": "negative: Tactical error leading too early from 800m exposed lack of finisher support in Lotto squad",
+      "SAGAN Peter": "neutral: Shoulder contact mid-sprint then apologized, calculated bonus seconds priority shows GC focus over stage hunting",
+      "BATTAGLIN Enrico": "positive: Sixth place exceptional for rider without 2017 contract at season start, gaining 2018 leverage",
+      "PORSEV Alexander": "negative: Fourteenth place disappointing for Gazprom sprinter expectations on flat 238km stage",
+      "HAIG Jack": "positive: Protected EWAN all day despite Orica down to six riders, key domestique work enabled victory"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:12:30.592540+00:00"
+}

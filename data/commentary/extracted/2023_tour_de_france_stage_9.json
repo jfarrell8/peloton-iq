@@ -3,26 +3,30 @@
   "race_name": "Tour de France",
   "race_date": "2023-07-09",
   "stage": 9,
-  "channel": "GCN Racing",
+  "channel": "NBC Sports",
   "extraction": {
-    "one_line_summary": "WOODS Michael attacked final 400m to pass JORGENSEN on Puy de Dôme; POGAČAR took 8 seconds from VINGEGAARD on final slopes.",
+    "one_line_summary": "WOODS Michael caught JORGENSON Matteo in final meters of Puy de Dôme while POGAČAR Tadej distanced VINGEGAARD Jonas by 8 seconds in GC battle.",
     "winner": "WOODS Michael",
-    "commentary_quality": "moderate",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "JORGENSEN solo at 50km created 25-30 second gap but cracked final 400m on 14% gradient finishing slopes.",
-      "MOHORIČ bridged alone from chase group but was passed by WOODS's late acceleration showing explosive power beats diesel climbing.",
-      "POGAČAR attacked repeatedly final 300m on 14% slopes, taking 8 seconds from VINGEGAARD who couldn't respond to surges."
+      "POGAČAR attacked with 1km remaining, using explosive accelerations to test VINGEGAARD who could only respond at steady tempo.",
+      "VINGEGAARD looked back for KUSS Sepp when losing POGAČAR's wheel, revealing team dependence under maximum pressure.",
+      "JORGENSON Matteo bridged to early break with POWLESS Neilson, both Americans showing coordinated aggressive positioning before mountain stages.",
+      "CAMPENAERTS Victor struggled on pre-sprint Cat 4 climb despite being in 14-rider break, signaling vulnerability on undulating terrain."
     ],
     "rider_signals": {
-      "WOODS Michael": "positive: explosive final 400m attack on 14% gradient after 170km suggests superior short-effort climbing at extreme gradients",
-      "JORGENSEN Matteo": "negative: 25-30 second solo advantage disappeared final 400m revealing inability to maintain power on steepest finishing slopes",
-      "POGAČAR Tadej": "positive: repeated accelerations final 300m at 14% gradient took 8 seconds showing recovering form after early deficit",
-      "VINGEGAARD Jonas": "negative: couldn't respond to POGAČAR's surges on 14% finale suggesting weakness at extreme gradients under fatigue",
-      "HINDLEY Jai": "negative: distanced before final climb begins, concerning signal for defending podium on steep mountain finishes",
-      "RODRIGUEZ Carlos": "positive: stayed with POGAČAR/VINGEGAARD group again, consistently performing above pre-race expectations",
-      "BETTIOL Alberto": "negative: refused to work for MOSCON in chase behind breakaway showing internal team friction or conflicting objectives"
+      "POGAČAR Tadej": "positive: gained 8 seconds on VINGEGAARD with 1km attack, using repeated accelerations on steepest gradients to break yellow jersey's rhythm",
+      "VINGEGAARD Jonas": "negative: grimaced visibly under POGAČAR's accelerations, unprecedented pain display suggests nearing his limit on explosive steep gradients",
+      "WOODS Michael": "positive: caught JORGENSON from behind in final meters at age 36, exceptional late-climb surge ability",
+      "KUSS Sepp": "neutral: VINGEGAARD searched for him when losing wheel, positioned ninth overall but unable to assist in critical moment",
+      "JORGENSON Matteo": "positive: made 14-rider break and held lead until final meters, strong climbing from young American",
+      "POWLESS Neilson": "positive: attacked from gun with JORGENSON into 14-rider break, tactical polka dot jersey defense securing 4 points pre-finale",
+      "CAMPENAERTS Victor": "negative: visibly suffering on Cat 4 climb to intermediate sprint despite being in early break",
+      "PHILIPSEN Jasper": "neutral: took Cat 4 point despite irrelevance to green jersey, opportunistic point collection habit",
+      "CALMEJANE Lilian": "negative: crashed due to spectator barrier flags mid-stage, lost contact with peloton",
+      "ABRAHAMSEN Jonas": "neutral: won intermediate sprint from 14-rider break"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T22:23:15.058584+00:00"
+  "extracted_at": "2026-06-29T00:26:05.671835+00:00"
 }

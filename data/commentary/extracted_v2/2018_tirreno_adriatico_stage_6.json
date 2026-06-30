@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-12",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won the sprint, but the intermediate sprint saw CARUSO steal 1 second back from KWIATKOWSKI, exploiting Sky's positioning failure.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Sky allowed rival teams to contest intermediate sprint unchallenged, enabling Caruso to claw back GC time through bonus seconds.",
+      "EF Education launched long-range leadout with Modolo but surrendered to Quick-Step's controlled pace, revealing sprint train dominance hierarchy.",
+      "Sagan positioned only two wheels from Kittel with 1.4km remaining but failed to contest, signaling form deficit in power finishes."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: suffered second mechanical of the race at 17.7km, continuing pattern of equipment misfortune affecting GC defense",
+      "CARUSO Damiano": "positive: tactically alert to exploit intermediate sprint when Sky failed to cover, actively stealing back GC seconds",
+      "KWIATKOWSKI Michal": "negative: lost hard-won GC time at intermediate sprint through poor team positioning, Sky failed to protect his advantage",
+      "KITTEL Marcel": "positive: secured second stage win despite Ackermann's late challenge, showing recovered form after career struggles",
+      "SAGAN Peter": "negative: positioned perfectly 1.4km out but didn't contest sprint, either strategic or form-related weakness in flat power finishes",
+      "ACKERMANN Pascal": "positive: nearly overtook Kittel in final meters despite inferior leadout support, confirming top-tier sprint speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:27:56.641315+00:00"
+}

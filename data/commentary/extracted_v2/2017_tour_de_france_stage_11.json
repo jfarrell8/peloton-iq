@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-12",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won Stage 11 sprint from deep in the pack after BODNAR Maciej's solo breakaway was caught inside 500m.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BODNAR held 40s at 10km-to-go as solo breakaway versus peloton, demonstrating time-trial power extending into late-stage resistance.",
+      "FROOME positioned aggressively near front in closing kilometers on flat sprint stage, prioritizing crash avoidance over traditional GC positioning.",
+      "Sprint trains caught BODNAR only inside 500m despite peloton speed, revealing corners prolonged breakaway viability in urban finale."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Fifth stage win showing wheel-surfing precision ('jumping wheel to wheel') rather than pure leadout dependency",
+      "FROOME Chris": "positive: Tactical discipline positioning near sprinters in nervous finale, explicitly avoiding GC riders' crash fate",
+      "BODNAR Maciej": "positive: Time-trial engine translated to 30km+ solo resistance, nearly defeating organized sprint teams through corners",
+      "FUGLSANG Jakob": "negative: Required medical attention twice for wrist injury pre-Pyrenees, severely compromised for handlebar-intensive climbing",
+      "CONTADOR Alberto": "negative: Multiple mechanicals/crashes reveal declining race fortune, 5:15 down with body language showing mental defeat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:03:59.385739+00:00"
+}

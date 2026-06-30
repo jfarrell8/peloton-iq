@@ -1,0 +1,42 @@
+{
+  "attacking_style": "Long-range solo attacks (40+km) on descents or early climbs, leveraging superior bike-handling and sustained power rather than explosive accelerations. Targets breakaway scenarios more than bunch finishes.",
+  "team_tactics": "INEOS uses him flexibly: early bridging on cobbles/climbs to establish platforms, then freedom to attack from breaks. Sacrificed for team leaders (Rodríguez 2023) when GC priorities dictate.",
+  "terrain_preference": "Technical descents and mixed terrain (Strade Bianche, cobbled classics). Competitive but not elite on steep Monument-grade climbs; needs race fragmentation rather than pure climbing duels.",
+  "vulnerability": "Lacks explosive acceleration on steepest finale climbs against pure climbers (Pogačar, Remco). Form inconsistency evident across seasons (crashed/dropped Tirreno 2023, Fleche Wallonne 2022).",
+  "key_patterns": [
+    "Attacks from breakaways on final climbs, not bunch finishes (Tour stage wins, Alpe d'Huez).",
+    "Executes ultra-long solo efforts 40-50km from finish when chasers hesitate behind (Strade Bianche 2023).",
+    "Bridges aggressively early on technical/cobbled sections to establish winning platforms (Dwars door Vlaanderen, Strade Bianche).",
+    "Strong Monument podium results but lacks winning punch on steepest finales (LBL 2nd, Amstel 3rd).",
+    "Serves domestique role when team GC needs dictate, burning matches for leaders (Tour 2023 for Rodríguez)."
+  ],
+  "form_trajectory": "neutral: Monument podiums and Tour stage win 2023 show high ceiling, but Tirreno crash/struggle and domestique duties suggest role uncertainty and form peaks inconsistently",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "PIDCOCK Thomas",
+  "built_from": [
+    "2021 Amstel Gold Race",
+    "2021 La Fleche Wallonne",
+    "2021 La Fleche Wallonne",
+    "2021 Vuelta a Espana Stage 14",
+    "2022 Amstel Gold Race",
+    "2022 Dwars door Vlaanderen",
+    "2022 Dwars door Vlaanderen",
+    "2022 La Fleche Wallonne",
+    "2022 Tour de France Stage 1",
+    "2022 Tour de France Stage 12",
+    "2022 Tour de France Stage 12",
+    "2022 Tour de France Stage 8",
+    "2023 Amstel Gold Race",
+    "2023 Liege-Bastogne-Liege",
+    "2023 Strade Bianche",
+    "2023 Strade Bianche",
+    "2023 Strade Bianche",
+    "2023 Tirreno-Adriatico Stage 4",
+    "2023 Tirreno-Adriatico Stage 6",
+    "2023 Tour de France Stage 12",
+    "2023 Tour de France Stage 12",
+    "2023 Tour de France Stage 20",
+    "2023 Tour de France Stage 20"
+  ]
+}

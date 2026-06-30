@@ -33,17 +33,24 @@
         "match_score": 72.79
       },
       {
+        "video_id": "9noLNGPM_LQ",
+        "title": "BinckBank Tour 2019 | Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-08-15 16:44:08+00:00",
+        "match_score": 71.54
+      },
+      {
+        "video_id": "pq6jKsyb71s",
+        "title": "UAE Tour 2019 | Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2019-02-27 15:07:08+00:00",
+        "match_score": 71.54
+      },
+      {
         "video_id": "1seiqM-7AFw",
         "title": "Vuelta a España 2019 | Stage 4 Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
         "published": "2019-08-27 17:07:02+00:00",
-        "match_score": 71.54
-      },
-      {
-        "video_id": "D5HWdaKnE5A",
-        "title": "Critérium du Dauphiné 2019 | Stage 4 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-06-12 17:37:56+00:00",
         "match_score": 71.54
       },
       {
@@ -61,17 +68,10 @@
         "match_score": 71.54
       },
       {
-        "video_id": "xALiJNLZ07E",
-        "title": "Giro d’Italia 2019 | Stage 4 Highlights | Cycling | Eurosport",
+        "video_id": "D5HWdaKnE5A",
+        "title": "Critérium du Dauphiné 2019 | Stage 4 Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
-        "published": "2019-05-14 17:39:43+00:00",
-        "match_score": 71.54
-      },
-      {
-        "video_id": "pq6jKsyb71s",
-        "title": "UAE Tour 2019 | Stage 4 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-02-27 15:07:08+00:00",
+        "published": "2019-06-12 17:37:56+00:00",
         "match_score": 71.54
       },
       {
@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 17,
+    "raw_chars": 502,
+    "clean_chars": 494,
+    "duration_mins": 1.7,
+    "clean_text": "I would say to Johnny Phillips you me me me three Stephen eyes I think Markov me Erica Peggy I don't know even a pool and I'm craving a pool uh Bangkok city this year maybe being again till it's over Sabah typically in the cleric technically even put and i'm karina for knocks to declare I am no but we have cube big guy I don't know the weight think James not let's say Moscow I think Knox maybe in your in your Kaiser Elio probably I was a gigantic Philip you bet I don't know probably me you",
+    "preview_start": "I would say to Johnny Phillips you me me me three Stephen eyes I think Markov me Erica Peggy I don't know even a pool and I'm craving a pool uh Bangkok city this year maybe being again till it's over Sabah typically in the cleric technically even put and i'm karina for knocks to declare I am no but we have cube big guy I don't know the weight think James not let's say Moscow I think Knox maybe in your in your Kaiser Elio probably I was a gigantic Philip you bet I don't know probably me you",
+    "preview_end": "I would say to Johnny Phillips you me me me three Stephen eyes I think Markov me Erica Peggy I don't know even a pool and I'm craving a pool uh Bangkok city this year maybe being again till it's over Sabah typically in the cleric technically even put and i'm karina for knocks to declare I am no but we have cube big guy I don't know the weight think James not let's say Moscow I think Knox maybe in your in your Kaiser Elio probably I was a gigantic Philip you bet I don't know probably me you"
+  },
+  "status": "transcript_saved"
 }

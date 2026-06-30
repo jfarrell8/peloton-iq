@@ -1,0 +1,28 @@
+{
+  "label": "2023 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won by 1:41 over Bissegger, while KUSS Sepp shockingly defended red by 40 seconds over Soler in dead-flat TT.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "GANNA caught his 4-minute man before 16km mark, revealing unprecedented pacing aggression that emptied four riders unusually early.",
+      "KUSS defended red on pan-flat TT against Soler by 40 seconds, forcing recalibration of pure-climber TT capabilities.",
+      "AYUSO placed seventh among pure climbers on flat TT, signaling hidden TT strength often overlooked in GC calculations.",
+      "EVENEPOEL finished 16 seconds behind Ganna despite TT specialty, suggesting form decline or tactical pacing conservation for mountains."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: Held red by 40s over Soler on dead-flat TT despite being pure climber, contradicts assumed TT weakness",
+      "GANNA Filippo": "positive: 1:20 faster than Bissegger while catching 4-minute man early reveals unsustainable-seeming pacing that actually held",
+      "EVENEPOEL Remco": "negative: Only 16s faster than climbing specialist Kuss on flat TT raises questions about peak form",
+      "AYUSO Juan": "positive: Seventh place among pure climbers on flat TT suggests undertrained TT ability could swing future GC battles",
+      "SOLER Marc": "negative: Lost red by only 26 seconds but couldn't capitalize on Kuss's climber profile on flat terrain",
+      "ROGLIC Primoz": "neutral: 20 seconds slower than Evenepoel but 1:36 down on GC suggests tempo-controlled effort preserving energy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:04:49.821351+00:00"
+}

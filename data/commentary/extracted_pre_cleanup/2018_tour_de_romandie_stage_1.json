@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-25",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won the bunch sprint after DILLIER Silvan raided intermediate sprints twice for bonus seconds, positioning himself 2nd overall",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DILLIER Silvan contested both intermediate sprints for bonus seconds despite being sprinter, placing 2nd GC via time bonuses",
+      "Quick-Step launched late attack inside 10km not for stage win but to deliver JAKOBSEN Fabio armchair sprint position",
+      "Lotto-Soudal never let early break exceed 1min gap despite short 154km stage, controlling for GROENEWEGEN sprint"
+    ],
+    "rider_signals": {
+      "DILLIER Silvan": "positive: aggressively hunted bonus seconds at intermediates as GC strategy, finished 10th overall previous year using same tactic",
+      "GROENEWEGEN Dylan": "positive: 14th win of season, delivered by Lotto-Soudal tight pace control throughout short high-speed stage",
+      "JAKOBSEN Fabio": "positive: Quick-Step tactical sacrifice late to position him, five wins in debut season suggests emerging sprint threat",
+      "ACKERMANN Pascal": "neutral: visible in finale but beaten by GROENEWEGEN, Bora-Hansgrohe had HALLER Marco in early break taking first sprint",
+      "HALLER Marco": "positive: returned from 6-month broken kneecap layoff to contest early break and win first intermediate sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:40:02.462239+00:00"
+}

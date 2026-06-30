@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a traditional attacker. Focuses on time trials, particularly late-race efforts where form building through three weeks provides advantage over fatiguing specialists.",
+  "team_tactics": "Minimal team reliance evident. Operates independently in time trials and breakaways, suggesting role as opportunistic stage hunter rather than GC-supported rider.",
+  "terrain_preference": "Medium-length time trials (15-20km) in Grand Tours where cumulative fatigue neutralizes pure specialists. Shows ability to survive in breakaways but lacks finishing power for sustained attacks.",
+  "vulnerability": "Limited ceiling in quality breakaways - caught when facing stronger finishers. Unlikely to succeed in early-race time trials against fresh specialists or in pure climbing scenarios.",
+  "key_patterns": [
+    "Builds form progressively through three-week Grand Tours, peaking in final week (2 observations)",
+    "Exploits Grand Tour fatigue to beat time trial specialists in late-race ITTs (2 observations)",
+    "Can infiltrate quality breakaways but lacks strength to stay away until finish (2 observations)"
+  ],
+  "form_trajectory": "negative: 2022 showed reduced capacity, only surviving in breaks rather than winning. Three-year gap suggests declining competitiveness from 2019 peak.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HAGA Chad",
+  "built_from": [
+    "2019 Giro d'Italia Stage 21",
+    "2019 Giro d'Italia Stage 21",
+    "2019 Giro d'Italia Stage 21",
+    "2022 Tour de Suisse Stage 1"
+  ]
+}

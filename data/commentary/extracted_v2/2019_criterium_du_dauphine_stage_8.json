@@ -1,0 +1,28 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-16",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN BARLE Dylan attacked early in final sprint after breakaway collaboration, held off HAIG Jack's late charge for Ineos' second consecutive stage win",
+    "winner": "VAN BARLE Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana nullified all GC attacks through sustained tempo control on final climb, preventing even Pinot's multiple attempts from gaining time.",
+      "Haig's role transformed mid-race from domestique to stage hunter after Yates abandoned, revealing Mitchelton-Scott's tactical flexibility in breakaways.",
+      "Alaphilippe attacked aggressively to bridge on first climb but sat up 41 seconds behind leaders, prioritizing KOM points over stage win.",
+      "Van Barle launched sprint extremely early on slight downhill 300m out, gambling on power over positioning against stronger finisher Haig."
+    ],
+    "rider_signals": {
+      "YATES Adam": "negative: abandoned from 2nd overall with sickness/fever, showing vulnerability to previous day's cold/wet conditions despite strong GC position",
+      "KRUIJSWIJK Steven": "negative: dropped badly while 9th overall, suggesting similar illness issues as Yates after harsh weather stage",
+      "HAIG Jack": "positive: strong in breakaway climbs and nearly won stage, but hesitated tactically by leaving Van Barle on front into finish",
+      "PINOT Thibaut": "neutral: attempted multiple attacks on final climb but Astana tempo made gains impossible, testing form without meaningful result",
+      "FUGLSANG Jakob": "positive: defended yellow with ease through Astana's pacing strategy, no attacks troubled him despite Pinot's efforts",
+      "ALAPHILIPPE Julian": "neutral: aggressive bridging effort but abandoned stage chase 41s back, showing selective energy management for KOM competition"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:47:19.273034+00:00"
+}

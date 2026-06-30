@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-18",
+  "stage": 16,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD won the ITT by 1:38 over Pogačar using a TT bike all the way up the final 2.5km 9.4% climb, extending GC lead to 1:48",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Vingegaard used TT bike through entire 9.4% final climb while most switched to road bike, requiring exceptional power/discipline.",
+      "Pogačar caught his 2-minute man Rodriguez in final 300m, using him as draft/pacing reference to extract marginal gains.",
+      "Early corner crashes (3 riders including 2 DSM) suggest recon failure or overconfidence on technical descent section."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: gained 52 seconds on Pogačar between intermediate checks despite starting 2 minutes behind, unprecedented TT dominance",
+      "POGAČAR Tadej": "negative: second-best time by over a minute but lost 1:28 in GC, suggests physical limits reached mid-tour",
+      "PEDERSEN Mads": "positive: won sprinters' competition at 36:07, significantly outperformed expectations on climbing TT",
+      "YATES Adam": "positive: moved to third overall, outperformed twin Simon and Rodriguez on climbing TT discipline",
+      "CAVAGNA Rémi": "neutral: early leader but faded on final climb, confirms road bike switch cost time versus Vingegaard's approach"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:57:04.515896+00:00"
+}

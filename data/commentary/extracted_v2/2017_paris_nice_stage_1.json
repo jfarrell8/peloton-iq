@@ -1,0 +1,30 @@
+{
+  "label": "2017 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-05",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMARE Arnaud won stage 1 on a steep climb topping 1km from finish, only rider able to match Alaphilippe's acceleration before out-sprinting him.",
+    "winner": "DEMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FDJ matched traditional crosswind specialists Quickstep/Lotto in echelon positioning despite lacking northern racing pedigree, protecting Demare unexpectedly well.",
+      "Stage 1 summit finish with 1km remaining favored puncheur-sprinters over pure sprinters, Demare's dual capacity decisive against separated field.",
+      "Crosswinds on opening stages eliminated GC contenders before mountains, reversing traditional Paris-Nice selection pattern where TT/climbs decide."
+    ],
+    "rider_signals": {
+      "DEMARE Arnaud": "positive: Only sprinter matching Alaphilippe's acceleration on steep 1km-to-go climb reveals unexpected climbing capacity under race conditions.",
+      "ALAPHILIPPE Julian": "positive: Six seconds from yellow after stage 1 near-win puts him ahead of traditional GC men, suggesting stronger overall threat than anticipated.",
+      "PORT Richie": "negative: Lost 15+ minutes stage 2 after Tour Down Under win and solid training block indicates poor weather adaptation or underlying form issues.",
+      "KITTEL Marcel": "negative: Complete non-factor in sprints despite premium field suggests equipment change or tactical misalignment with Giant-Alpecin program.",
+      "CONTADOR Alberto": "negative: Yo-yoing off back group in opening two hours stage 2 required full team rescue, revealing vulnerability in crosswind positioning.",
+      "ZAKARIN Ilnur": "neutral: Finished with Contador group after splits but showed no proactive strength in crosswind selection.",
+      "MARTIN Dan": "positive: Hung with reduced front group stage 1 despite not being crosswind specialist, better echelon skills than climbing palmares suggests.",
+      "CICCONE Davide": "positive: FDJ signing from Lampre consistently at front in crosswinds protecting Demare, immediate tactical integration into French squad culture.",
+      "IZAGIRRE Jon": "neutral: Went off-road at worst moment in stage 1 crosswinds but regrouped to Contador group, limiting damage through positioning recovery."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:59:58.427216+00:00"
+}

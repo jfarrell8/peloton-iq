@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-29",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "COQUARD Bryan won bunch sprint after Jayco-AlUla's crosswind split attempt failed, caught before decisive finale despite 20-second gap",
+    "winner": "COQUARD Bryan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jayco-AlUla premeditated crosswind attack near Aldinga failed when chase group bridged within final 20km despite initial 20s gap.",
+      "Ineos Grenadiers paced chase aggressively to protect Yates' GC position rather than let domestiques dangle in second group.",
+      "Intermediate sprint points tactical: Honoré contested 1-pointer to stay in jersey hunt, showing unusual commitment for domestique role."
+    ],
+    "rider_signals": {
+      "COQUARD Bryan": "positive: first WorldTour win after 10-year career reveals late-bloomer potential in reduced bunch sprints",
+      "VINE Jay": "positive: held 15-second GC advantage through crosswind chaos while mixing it in sprint, showing versatility",
+      "YATES Adam": "negative: required team to burn matches chasing crosswind split rather than being alert in front group",
+      "IMPEY Daryl": "neutral: initiated breakaway attempt but willingly sat up when caught, suggesting reconnaissance rather than genuine escape effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:00:42.940850+00:00"
+}

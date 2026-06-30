@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro dItalia Stage 13",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-19",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "RUBIO Einer won a 75km shortened mountain stage after attacking from the break multiple times on the final climb to Crans-Montana, beating PINOT by 6 seconds.",
+    "winner": "RUBIO Einer",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Thibaut PINOT attacked repeatedly from the break on final climb but couldn't sustain sprint finish, losing despite animating most.",
+      "CARTHY Hugh attacked solo from GC group to claw back time, riding away from FORTUNATO while sitting outside top-10.",
+      "Break infighting over workload in valley roads before final climb suggests Movistar-Cepeda/Pinot alliance issues influenced late dynamics.",
+      "CEPEDA Alexander still working from break despite teammate CARTHY attacking from behind, unusual dual-team tactic for time gains."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "negative: dominated animation with most attacks but couldn't finish sprint in final grand tour, suggesting tactics exceed finishing power",
+      "CARTHY Hugh": "positive: attacked solo from GC group sitting outside top-10, shows form recovery despite earlier struggles",
+      "FORTUNATO Lorenzo": "negative: dropped by CARTHY despite attacking first from GC group, weaker than positioning suggested",
+      "LEKNESSUND Andreas": "negative: lost 7 seconds in Maglia Rosa despite short 75km stage, vulnerability on extreme weather days exposed",
+      "SWIFT Ben": "positive: rode fantastically uphill, downhill, and flat protecting Maglia Rosa, unexpected climbing strength for classics rider"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:42:33.372797+00:00"
+}

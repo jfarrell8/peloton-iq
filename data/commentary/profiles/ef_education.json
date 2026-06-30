@@ -1,21 +1,20 @@
 {
-  "attacking_style": "Opportunistic attacks targeting alternative objectives (KOM points, positioning) rather than pure stage wins. Attacks deployed across multiple laps/climbs when outright victory appears unlikely.",
-  "team_tactics": "Flexible resource allocation based on race situation: commits full domestique depth (including GC riders) for protected rider positioning, prioritizes GC support over sprint opportunities when hierarchy demands.",
-  "terrain_preference": "Circuit races with multiple climbing opportunities for repeated attacks; final climbs where deep domestique support can deliver tactical advantage for positioning or sprint leadouts.",
-  "vulnerability": "Appears to lack outright firepower for stage wins on difficult terrain, forcing pivot to secondary objectives. Mechanical incidents trigger resource-intensive recovery operations that expose team priorities.",
+  "attacking_style": "Does not typically attack; employs conservative breakaway positioning and tempo control rather than explosive offensive moves.",
+  "team_tactics": "Prioritizes controlled bunch management with tight gap monitoring (under 90 seconds) and dual-rider breakaway placement to protect sprint or GC assets through defensive racing.",
+  "terrain_preference": "Stages requiring tempo regulation over explosive power; reduced bunch sprints where climber-sprinters gain advantage through controlled attrition.",
+  "vulnerability": "Lacks aggressive firepower when race situation demands offensive tactics; relies on circumstances (crashes, breakaway success) rather than forcing outcomes.",
   "key_patterns": [
-    "Multiple riders attack for KOM points when stage win unlikely (2 observations)",
-    "Uses GC-caliber domestiques for leadout/positioning work, not reserved for pure GC support (2 observations)",
-    "Commits disproportionate resources to recover/protect designated leaders from setbacks (2 observations)",
-    "Tactical flexibility: shifts objectives mid-race based onwin probability assessment (2 observations)"
+    "Uses breakaways defensively to control tempo rather than seek stage wins (2 instances).",
+    "Adjusts objectives opportunistically based on race incidents affecting GC standings (crash-related plan shifts).",
+    "Employs precise gap management strategy keeping breaks within narrow margins for sprint setups."
   ],
-  "form_trajectory": "neutral: 2023 data shows continued opportunistic approach without clear performance progression from 2022 patterns",
+  "form_trajectory": "neutral: Consistent defensive tactical approach across 2021-2022 with focus on marginal gains rather than aggressive racing evolution",
   "races_analysed": 3,
-  "confidence": "medium",
+  "confidence": "low",
   "rider_name": "EF Education",
   "built_from": [
-    "2022 Tour de France Stage 2",
-    "2022 Tour de Suisse Stage 4",
-    "2023 Volta Ciclista a Catalunya Stage 7"
+    "2021 Vuelta a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 Tour de Pologne Stage 4"
   ]
 }

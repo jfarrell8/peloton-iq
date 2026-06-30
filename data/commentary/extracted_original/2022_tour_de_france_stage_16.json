@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-19",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "UL Hugo won from 28-rider breakaway while POGACAR attacked Port de Lers and descent but VINGEGAARD matched everything with CUSS domestique support.",
+    "winner": "UL Hugo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked Port de Lers climb then continued pressure on descent, revealing willingness to spend domestiques early in stage.",
+      "JUMBO deployed CUSS as super-domestique after MICHAEL mechanical, showing depth to cover THOMAS distancing without VINGEGAARD committing.",
+      "ISRAEL PREMIER TECH placed two riders in 28-man break, enabling JORGENSEN to sacrifice chase for UL's victory.",
+      "MARTINEZ from breakaway dropped back to pace THOMAS, showing INEOS using morning break riders as insurance policy."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "negative: attacked Port de Lers climb and descent 60km from finish but gained zero time, burning matches prematurely",
+      "CUSS Sepp": "positive: stepped up as lead domestique after MICHAEL mechanical, paced over final climb showing elite domestique form",
+      "THOMAS Geraint": "negative: required MARTINEZ assistance from breakaway to rejoin yellow group, indicating vulnerability with 2 Pyrenean stages remaining",
+      "JORGENSEN Matteo": "negative: crashed on final descent while chasing UL, lost podium after being best chaser on climb",
+      "UL Hugo": "positive: soloed 27km descent with 20-second gap, first road victory showing descending confidence under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:51:13.396371+00:00"
+}

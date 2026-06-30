@@ -1,0 +1,25 @@
+{
+  "label": "2020 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2020-10-04",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won via bike throw after ALAPHILIPPE Julian celebrated early and was relegated for deviating across the road in the final sprint.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Final sprint decided by elimination not attacks—top riders arrived together despite tailwind on Roche-aux-Faucons descent favoring breakaways.",
+      "Alaphilippe's line deviation caused Hirschi foot unclipping, revealing sprint chaos when monument finishes bunch together instead of selection."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Never stopped sprinting while others celebrated, showing mental discipline immediately post-Tour that others lacked",
+      "ALAPHILIPPE Julian": "negative: Celebrated 20+ meters early and deviated enough to merit relegation, poor tactical awareness in rainbow jersey debut",
+      "POGAČAR Tadej": "neutral: Podiumed year after 18th place but admitted backing off to avoid crashing rather than contesting win",
+      "HIRSCHI Marc": "negative: Pulled foot unclipping during sprint interference, lost potential victory through positioning behind erratic Alaphilippe",
+      "VAN AVERMAET Greg": "negative: DNF after hitting unmarked road furniture on Côte de Mont-le-Soie descent (94km to go), team vulnerability to course recon gaps"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:17:19.222181+00:00"
+}

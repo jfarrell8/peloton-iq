@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-12",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HIGUITA Sergio attacked long-range before final climb, held solo to summit finish while LOPEZ distanced QUINTANA/POGACAR late to reclaim white jersey.",
+    "winner": "HIGUITA Sergio",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "HIGUITA mid-season transfer signing (joined May 1) executed winning long-range move suggesting EF's talent identification outperformed traditional scouting.",
+      "LOPEZ made three successive attacks on final climb, demonstrating calculated aggression prioritizing white jersey defense over stage hunting.",
+      "MOVISTAR rode defensively for QUINTANA despite holding 2nd GC, allowing LOPEZ to gain 59 seconds and drop QUINTANA to 3rd.",
+      "ROGLIC isolated early but defended red by sitting wheels rather than controlling, revealing confidence in time buffer over active defense."
+    ],
+    "rider_signals": {
+      "HIGUITA Sergio": "positive: Third-division rider in April winning stage 18 of Grand Tour indicates exceptional climbing engine missed by major teams.",
+      "LOPEZ Miguel Angel": "positive: Triple-attacking final climb while managing white jersey math shows tactical maturity unusual for fourth-place GC rider.",
+      "QUINTANA Nairo": "negative: Dropped on final climb after moving to 2nd GC previous day, suggests vulnerability when isolated without MOVISTAR numbers.",
+      "POGACAR Tadej": "negative: Lost 59 seconds and white jersey on stage 18 despite being 20 years old, rare crack in debut Grand Tour.",
+      "ROGLIC Primoz": "neutral: Defended red with minimal teammates by conservation rather than control, banking on 2m24s buffer holding through mountains.",
+      "VALVERDE Alejandro": "positive: Sprinted for time bonuses at finish despite being 3rd GC, showing opportunistic racing uncommon in veteran domestique role."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:08:18.060486+00:00"
+}

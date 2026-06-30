@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 7",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAIS David won from a 4-man breakaway given the stage after Desmein-controlled peloton showed zero interest in contesting the Gran Sasso finish.",
+    "winner": "BAIS David",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Desmein controlled only to protect pink jersey, intentionally gifted mountain-top stage without contesting bonus seconds at finish.",
+      "Early 4-man breakaway established under 10km when brief selection fight was immediately extinguished, revealing peloton's complete disinterest.",
+      "KOM jersey holder deliberately dropped back to main group, prioritizing jersey relinquishment over breakaway fight at altitude finish."
+    ],
+    "rider_signals": {
+      "BAIS David": "positive: second stage win in only three Giro attempts demonstrates breakaway efficiency and finishing speed",
+      "EVENEPOEL Remco": "neutral: showed strength in GC group but strategically avoided bonus second contest at 28s deficit",
+      "LIEMESSEN Jonas": "positive: fourth consecutive day in pink extends his historical record for most Maglia Rosa days"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:03:26.292209+00:00"
+}

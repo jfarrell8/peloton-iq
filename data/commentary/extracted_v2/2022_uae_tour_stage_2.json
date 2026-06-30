@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 2",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-21",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won UAE Tour Stage 2 sprint after QuickStep concealed positioning until final corner at 1200m, emerging from chaos to beat PHILIPSEN.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QuickStep kept riders hidden mid-pack while rivals positioned early, only mobilizing after final right-hander at 1200m from finish.",
+      "Block headwind until 25km neutralized peloton aggression; crosswind activation after turn triggered positioning chaos, not earlier split attempts.",
+      "Israel Premier Tech controlled final corner entry despite no sprinter, suggesting corner-boss-then-sell tactic on compressed highway-to-turn finishes.",
+      "Gazprom three-rider breakaway monopolized intermediate sprint points, rendering points jersey competition effectively decided by Stage 2."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "negative: led out but boxed himself after corner, suggesting QuickStep's Morkov-Cavendish axis superior on technical finishes",
+      "BENNETT Sam": "negative: explicitly noted as boxed in at crucial 1200m corner, indicating positioning deficit compared to QuickStep/Alpecin",
+      "CAVENDISH Mark": "positive: won from non-lead position after chaos, revealing form peak and Morkov's value navigating compressed technical finishes",
+      "STRZELECKI Damian": "positive: accumulated points jersey lead via breakaway double-dipping intermediate sprints, exploiting peloton's headwind apathy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:29:05.763305+00:00"
+}

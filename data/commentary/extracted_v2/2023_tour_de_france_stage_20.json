@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-22",
+  "stage": 20,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "POGAČAR won Stage 20 sprint finish after YATES Adam paced him, beating VINGEGAARD for time bonuses in final mountain stage",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Adam sacrificed personal GC position by leading out POGAČAR in final sprint despite sitting third overall.",
+      "VINGEGAARD allowed POGAČAR inside line on final corner turn into headwind, losing crucial time bonus and sprint.",
+      "RODRIGUEZ Carlos crash on first ascent cost him podium position despite PIDCOCK pacing work to limit losses."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: Worked as domestique for POGAČAR in final kilometer despite protecting own third place GC, revealing UAE prioritized time bonuses over Adam's podium position",
+      "YATES Simon": "positive: Fourth place finish suggests stronger climbing than twin brother Adam who sacrificed for team tactics",
+      "RODRIGUEZ Carlos": "negative: Crash on first climb dropped him from podium contention despite having PIDCOCK support to limit damage",
+      "VINGEGAARD Jonas": "negative: Gave POGAČAR inside line on final corner into headwind, tactical error cost time bonus in sprint finish",
+      "PIDCOCK Tom": "positive: Paced RODRIGUEZ after crash to minimize GC losses, effective damage control domestique work"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:58:11.228216+00:00"
+}

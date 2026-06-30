@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-08",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked on the final 15% ramp to Lagos de Covadonga, dropped QUINTANA who hesitated tactically, taking stage and red jersey",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QUINTANA Nairo fatally waited for LOPEZ to lead rather than attacking himself when gradient hit 15%, losing both stage and time",
+      "YATES Simon's instinctive first attack when gradient steepened forced rivals to chase rather than organize, creating gaps when they looked back",
+      "VALVERDE Alejandro marked wheels throughout steep section then launched final hairpin sprint, gaining seconds on hesitant QUINTANA despite not winning",
+      "LOPEZ Miguel Angel only attacked when prompted by others rather than initiating, revealing he'll struggle in head-to-head GC battles"
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked instinctively when gradient hit maximum steepness, suggesting improved Lagos climbing form versus his previous vulnerability",
+      "QUINTANA Nairo": "negative: strategically passive on decisive steep gradient, waiting for LOPEZ to lead rather than imposing himself despite needing time",
+      "LOPEZ Miguel Angel": "neutral: strong enough to stay with leaders but consistently reactive, never initiating attacks on steepest gradients",
+      "VALVERDE Alejandro": "positive: accelerated through final hairpin when others faded, showing superior technical descending/flat sprint skills after steep climbing",
+      "HERRADA Jesus": "negative: lost contact with lead group on 15% section, disappointing for breakaway contender"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:40:35.858277+00:00"
+}

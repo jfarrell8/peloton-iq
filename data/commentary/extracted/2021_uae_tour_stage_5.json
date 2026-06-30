@@ -1,0 +1,16 @@
+{
+  "label": "2021 UAE Tour Stage 5",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-25",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "This transcript covers the 2021 Giro d'Italia route announcement, not UAE Tour Stage 5 racing commentary",
+    "winner": "N/A",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T23:14:19.477575+00:00"
+}

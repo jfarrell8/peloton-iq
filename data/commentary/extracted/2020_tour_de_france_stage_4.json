@@ -1,0 +1,29 @@
+{
+  "label": "2020 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ won atop Orcières-Merlette after KUSS paced relentlessly inside 2km, neutralizing all attacks and delivering his leader for the stage win.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KUSS sustained tempo inside 2km cracked KWIATKOWSKI immediately, demonstrating high-altitude pacing neutralizes late attacks more effectively than following wheels.",
+      "MARTIN Guillaume attacked inside 300m but ROGLIČ closed solo, suggesting late-stage accelerations on summit finishes require 500m+ gaps to survive.",
+      "SAGAN boxed himself in intermediate sprint chasing wheels instead of positioning early, costing him green jersey points to BENNETT."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: delivered devastating pace inside 2km that immediately dropped KWIATKOWSKI, exceptional high-altitude domestique work",
+      "ROGLIČ Primož": "positive: closed MARTIN's 300m attack solo and won, showing superior late-race acceleration on summit finish",
+      "KWIATKOWSKI Michał": "negative: cracked immediately when KUSS raised tempo inside 2km, unexpectedly poor climbing form",
+      "MARTIN Guillaume": "positive: strong enough to attack inside 300m on summit finish, confirming French expectations as dark horse",
+      "QUINTANA Nairo": "positive: fourth on stage in comeback, showing renewed climbing form after recent struggles",
+      "ALAPHILIPPE Julian": "neutral: faded to fifth but retained yellow with same time, revealing sprint punch insufficient against true climbers on summit finishes",
+      "SAGAN Peter": "negative: finished 12th at intermediate sprint after poor wheel selection, tactical error cost green jersey points",
+      "BENNETT Sam": "positive: gained crucial intermediate sprint points over SAGAN through superior positioning, tactical discipline paying dividends"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:37:33.533935+00:00"
+}

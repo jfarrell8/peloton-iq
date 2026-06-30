@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-18",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SKJELMOSE held yellow through superior second-half pacing in 25.6km Saint Gallen TT, while AYUSO won stage with negative splits taking 8s from EVENEPOEL",
+    "winner": "SKJELMOSE Mattias",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SKJELMOSE lost 24s at first check but exponentially improved second half, revealing negative-split TT preparation strategy.",
+      "AYUSO taking 8s from EVENEPOEL on technical descent finish shows climbing TTs suit him better than pure power courses.",
+      "EVENEPOEL dominated intermediate checks but faded final descent, suggesting he overcooked early effort defending slim 18s GC deficit."
+    ],
+    "rider_signals": {
+      "SKJELMOSE Mattias": "positive: won TT from 46s down on GC by improving exponentially second half, passing riders on course",
+      "AYUSO Juan": "positive: won stage in only second race of season, took 9s from Skjelmose and 8s from Evenepoel on hilly TT",
+      "EVENEPOEL Remco": "negative: dominated all intermediate checks but lost stage on final descent, couldn't convert 18s deficit despite early gains",
+      "GALL Felix": "negative: lost 46s at first check as fourth on GC, confirms weakness against specialists in ITTs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:02:27.099546+00:00"
+}

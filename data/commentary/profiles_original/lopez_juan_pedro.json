@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a natural attacker; operates opportunistically in breakaways with calculated tactical awareness, particularly regarding bonus seconds and stage negotiations rather than explosive climbing attacks.",
+  "team_tactics": "Appears to ride independently without heavy team support; personally marks dangerous moves rather than relying on domestiques to control threats.",
+  "terrain_preference": "Shows unexpected climbing durability on medium-mountain stages, able to limit losses on hard climbs (12km+ remaining) better than profile suggests. Not suited for explosive summit finishes.",
+  "vulnerability": "Loses contact on steep sustained climbs when pace intensifies with 10-15km remaining; lacks pure climbing firepower to stay with elite GC contenders on high-mountain finishes.",
+  "key_patterns": [
+    "Demonstrates tactical maturity beyond GC debut status, negotiating breakaway outcomes strategically (2 instances)",
+    "Shows personal responsibility for race positioning, marking attacks individually without team support (2 instances)",
+    "Exceeds expectations as non-climber on mountainous terrain, limiting time losses effectively (2 instances)"
+  ],
+  "form_trajectory": "positive: consistently exceeded expectations for GC debut rider across multiple mountain stages, showing both climbing durability and tactical sophistication",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "LOPEZ Juan Pedro",
+  "built_from": [
+    "2022 Giro d'Italia Stage 4",
+    "2022 Giro d'Italia Stage 8",
+    "2022 Giro d'Italia Stage 9"
+  ]
+}

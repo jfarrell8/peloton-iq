@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 6",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-12",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won stage 6 with perfectly timed sprint after HAGEN Carl Fredrik solo breakaway lasted 160km, holding off ACKERMANN Pascal and CORT Magnus",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Start-up Nation controlled peloton despite QUICKSTEP having numbers, suggesting they calculated leadout positioning over raw train strength.",
+      "HAGEN Carl Fredrik's 160km solo attempt was team-supported by Lotto until mathematically futile, extracting maximum sponsor exposure.",
+      "GAVIRIA Fernando launched earliest but faded, indicating leadout trains starting too far out neutralize pure speed on coastal drags."
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: recovered from stage 1 crash to win with superior positioning over faster pure sprinters",
+      "HAGEN Carl Fredrik": "positive: 160km solo shows exceptional diesel engine for future breakaway calculus",
+      "ACKERMANN Pascal": "negative: holding points jersey but beaten despite favorable positioning suggests fading form",
+      "GAVIRIA Fernando": "negative: launching first from strong position then fading badly reveals diminished closing punch",
+      "VAN DER POEL Mathieu": "neutral: mentioned in prime position but absent from finale, possibly marking rather than sprinting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:32:53.969845+00:00"
+}

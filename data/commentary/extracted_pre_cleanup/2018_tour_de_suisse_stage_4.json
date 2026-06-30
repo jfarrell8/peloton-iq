@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-12",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "MUSKAAN Jonny attacked from the bottom of the final climb to Nanning Masson Lulla, taking solo victory and race lead",
+    "winner": "MUSKAAN Jonny",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MUSKAAN Jonny attacked immediately at climb base rather than waiting, exploiting field hesitation spread across road positioning",
+      "Sky appeared willing to defend red jersey despite narrow margin, signaling confidence in MUSKAAN's form sustainability",
+      "Trek-Segafredo and EF paced peloton hard into climb base but failed to deliver their GC riders when critical move went"
+    ],
+    "rider_signals": {
+      "MUSKAAN Jonny": "positive: attacked alone from climb base with sufficient margin to hold solo, showing post-Worlds form translation",
+      "KÜNG Stefan": "positive: animated breakaway on queen stage suggests diesel engine capability beyond pure time trialing",
+      "YAKOBSEN Fabio": "neutral: maintained points lead despite irrelevance on summit finish, indicating comfortable buffer from sprint stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:41:22.555580+00:00"
+}

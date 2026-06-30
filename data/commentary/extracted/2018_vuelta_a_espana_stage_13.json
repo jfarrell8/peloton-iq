@@ -1,0 +1,30 @@
+{
+  "label": "2018 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-07",
+  "stage": 13,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "RODRÍGUEZ Óscar bridged to MAJKA and TEUNS in final 1.5km of 14% finish, dropped them with superior steep-gradient power; QUINTANA took 6 seconds from YATES in GC group sprint.",
+    "winner": "RODRÍGUEZ Óscar",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar controlled entire stage despite not holding leader's jersey, protecting dual-podium ambitions of QUINTANA and VALVERDE simultaneously.",
+      "32-rider breakaway given excessive leeway, suggesting GC teams banking energy reserves across three consecutive summit finishes rather than controlling early.",
+      "MAJKA attacked breakaway 1.5km out but cracked when RODRÍGUEZ bridged, revealing category-one riders underestimate specialists on 14% pitches.",
+      "QUINTANA-YATES rode shoulder-to-shoulder final 3km then QUINTANA accelerated only final 50m, gaming sprint rather than distancing on gradient."
+    ],
+    "rider_signals": {
+      "RODRÍGUEZ Óscar": "positive: bridged 1.5km gap on 14% gradient then immediately dropped MAJKA and TEUNS, exceptional steep-climb acceleration capacity",
+      "QUINTANA Nairo": "positive: won previous edition this climb, took 6 seconds from YATES with late acceleration, Movistar building dual-podium strategy around him",
+      "YATES Simon": "neutral: matched QUINTANA until final 50m but conceded sprint, possibly conserving for Sunday's Lagos de Covadonga queen stage",
+      "MAJKA Rafał": "negative: attacked breakaway early but cracked when RODRÍGUEZ bridged, insufficient power-to-weight for 14% finishes despite being Bora GC option",
+      "TEUNS Dylan": "neutral: reached final km with MAJKA but dropped by RODRÍGUEZ's bridge, competitive but lacking decisive punch",
+      "KING Ben": "positive: second overall in KOM competition, consistently infiltrating breakaways to accumulate mountain points across multiple stages",
+      "DE GENDT Thomas": "neutral: aggressively hunting KOM points in breakaway but unable to contest steep finish",
+      "VALVERDE Alejandro": "positive: top-five GC with QUINTANA, Movistar protecting dual-podium options rather than committing to single leader"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:47:05.788653+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-24",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Adam attacked 5km out on Vallter after Ineos forced rivals to chase via CARAPAZ bridging, dropping KUSS in final 1500m",
+    "winner": "YATES Adam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Ineos used CARAPAZ as sacrificial domestique to mark early VALVERDE/QUINTANA moves, protecting YATES/THOMAS from energy-draining bridges despite being 52s down.",
+      "Jumbo and Quick-Step foolishly paced peloton to reduce 10min breakaway gap, helping Ineos with only Dennis/Castroviejo on flat before climb.",
+      "KUSS attacked YATES too early on flatter gradient 5km out, costing himself when dropped in steep final 1500m above 2000m where altitude should've suited him.",
+      "VALVERDE showed resurgent form with repeated accelerations 8km+ out, forcing tempo surges that weakened rivals before strong 3rd place finish."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: attacked when legs felt good rather than waiting for bonus seconds tactically, suggesting exceptional form beyond just GC calculation",
+      "CARAPAZ Richard": "neutral: relegated to marking duty for teammates despite climbing strength, multiple surges likely cost him individual result",
+      "KUSS Sepp": "negative: tactical error attacking on flatter gradient 5km out instead of waiting for steeper final 1500m above 2000m where altitude suits him",
+      "VALVERDE Alejandro": "positive: best climbing performance in years with repeated attacks 8km+ out, finished 19s back after forcing pace",
+      "THOMAS Geraint": "positive: 4th place with signature last-kilometer attack suggests Tour de France peak form returning",
+      "SOLER Marc": "negative: dropped surprisingly early with 10km+ remaining on moderate gradients, significantly underperformed expectations",
+      "CHAVEZ Esteban": "positive: closed 7-second gap to within 100m of Yates in final 2km before flattening terrain stopped momentum"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:58:12.461330+00:00"
+}

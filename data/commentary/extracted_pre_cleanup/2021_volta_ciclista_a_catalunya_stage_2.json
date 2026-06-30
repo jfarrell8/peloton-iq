@@ -1,0 +1,30 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-23",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan won the 18.5km technical time trial by 5 seconds over CAVAGNA Rémi, with YATES Adam's unexpected 35-second deficit positioning INEOS perfectly for mountain stages.",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DENNIS Rohan maximized time gains through technical descents and corners rather than pure power sections, beating CAVAGNA by 5 seconds.",
+      "YATES Adam lost only 7 seconds to ALMEIDA João in 18.5km TT, reversing UAE Tour pattern where he conceded 30+ seconds.",
+      "ALMEIDA João must defend jersey against PORTE Richie and YATES Adam who sit 6-7 seconds back with superior climbing credentials.",
+      "YATES Simon losing 42 seconds forces aggressive mountain racing, while brother YATES Adam rides defensively with GC position secured."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: First win since 2019 Worlds, cornering superiority over pure power specialists remains decisive advantage in technical TTs",
+      "YATES Adam": "positive: 35-second deficit to ALMEIDA represents massive TT improvement from UAE Tour, now positioned 7 seconds behind with climbing advantage",
+      "ALMEIDA João": "neutral: Consistent TT performance gaining 28 seconds on YATES Adam insufficient given 6-7 second gap to INEOS climbers behind",
+      "CAVAGNA Rémi": "neutral: Lost 5 seconds to DENNIS through technical sections despite pure power advantage, confirms cornering as limiting factor",
+      "PORTE Richie": "positive: 35-second deficit to DENNIS while sitting 6 seconds behind race lead shows form recovery post-Paris-Nice crash",
+      "KUSS Sepp": "negative: 55-second TT loss creates tactical dilemma with KRUIJSWIJK Steven positioned higher on GC for team leadership",
+      "YATES Simon": "negative: 42-second deficit forces high-risk attacking strategy against brother with superior position",
+      "CARTHY Hugh": "negative: 40-second TT loss demands mountain aggression without demonstrated ability to distance YATES Adam on climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:15:22.626658+00:00"
+}

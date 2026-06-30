@@ -1,19 +1,23 @@
 {
-  "attacking_style": "Tends to operate conservatively, avoiding ostentatious displays of power. Capable of stealth positioning to finish high on GC stages without drawing attention before key TT stages.",
-  "team_tactics": "Movistar employs fluid hierarchy; willing to sacrifice Rodriguez's breakaway position when stronger teammates (e.g., Rubio) attack. Operates within multi-leader structure rather than receiving full team commitment.",
-  "terrain_preference": "Performs well on mixed mountain stages with time trial components. Capable on multi-climb stages but does not dominate steep gradients.",
-  "vulnerability": "Subordinated within team tactics when other riders show superior form. May be bypassed in favor of stage-hunting teammates even when already positioned in breakaways.",
+  "attacking_style": "Explosive accelerations on steep gradients (14%+) in final 1-2km, often bridging to breakaways rather than initiating attacks. Prefers finishing punches over sustained efforts.",
+  "team_tactics": "Operates with tactical freedom separate from team GC objectives, hunting stage wins from breakaway positions rather than supporting team leadership.",
+  "terrain_preference": "Excels on extremely steep finishing climbs (14%+ gradients) where power-to-weight ratios are decisive. Performs well from breakaway scenarios requiring late-race bridging efforts.",
+  "vulnerability": "Susceptible to being dropped on initial explosive attacks by pure climbers (Kuss example), suggesting weakness against sustained high-intensity accelerations early in climbs.",
   "key_patterns": [
-    "Conceals form on mountain stages, finishing efficiently without visible effort before TT stages.",
-    "Functions within flexible Movistar team hierarchy, accepting tactical subordination to stronger teammates.",
-    "Positioned for GC placement rather than stage wins in stage races."
+    "Finishes second stealthily without visible struggle, appearing fresher than result suggests (2 instances)",
+    "Bridges gaps on steep gradients then immediately attacks, superior late-race acceleration (2 instances)",
+    "Operates as stage hunter independent of GC ambitions, breakaway specialist approach (3 instances)",
+    "Shows smart pacing recovery after initial drops, tactical maturity over raw power (1 direct instance)"
   ],
-  "form_trajectory": "neutral: Limited recent data, but showed solid GC capability at Tour de Suisse while accepting support role at Romandie",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "positive: 2022 results show consistent stealth podiums and tactical awareness, maintaining competitive edge 4 years beyond 2018 Vuelta stage win",
+  "races_analysed": 4,
+  "confidence": "medium",
   "rider_name": "RODRIGUEZ Oscar",
   "built_from": [
-    "2022 Tour de Romandie Stage 4",
+    "2018 Vuelta a Espana Stage 13",
+    "2018 Vuelta a Espana Stage 13",
+    "2019 Vuelta a Espana Stage 15",
+    "2022 Tour de Pologne Stage 7",
     "2022 Tour de Suisse Stage 7"
   ]
 }

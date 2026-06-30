@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won from 14-rider breakaway going clear at race start, dominated final climb after letting others work, consolidating GC lead over KUSS Sepp",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EVENEPOEL sat on wheels entire breakaway until final climb, letting others work despite 8+ minute gap demonstrating polka dot priority.",
+      "KUSS team isolation forcing VINGEGAARD to work for him reverses typical Jumbo-Visma tactics from earlier mountain stages.",
+      "14-rider break with EVENEPOEL granted 8.5 minutes shows GC teams conceded stage with mountaintop finish to breakaway specialists.",
+      "MOSS Enric launched late sprint attack but EVENEPOEL wheel-sucked to line, proving better positioned sprinter than expected on steep finish."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Tactical maturity letting breakaway work before attacking final climb, responding to Belgian press criticism with intelligent racing.",
+      "KUSS Sepp": "positive: Successfully defended red jersey with VINGEGAARD working for him, critical time bonus gain over VINGEGAARD may secure overall by one second.",
+      "VINGEGAARD Jonas": "neutral: Dropped on final climb but worked for KUSS in reversal of prior team hierarchy, gap to KUSS now 17 seconds.",
+      "BERNAL Egan": "neutral: Early breakaway attempt shows improved power but didn't sustain effort into final 14-rider selection.",
+      "LANDA Mikel": "neutral: Fourth place GC battle with AYUSO stable, position unchanged despite hard stage."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:33:15.981150+00:00"
+}

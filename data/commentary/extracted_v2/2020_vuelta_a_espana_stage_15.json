@@ -1,0 +1,26 @@
+{
+  "label": "2020 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-05",
+  "stage": 15,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PHILLIPS Jasper won the longest stage of the Vuelta (143.5 miles) in a shattered uphill sprint after headwinds and rain fractured the peloton.",
+    "winner": "PHILLIPS Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma escorted peloton despite Roglic in no jersey danger, suggesting control tactics prioritized race rhythm over energy conservation.",
+      "13-rider breakaway caught despite 143-mile distance, revealing headwind nullified traditional escape mathematics on ultra-long stages.",
+      "Sunweb placed two riders in breakaway after yesterday's success, showing teams recalibrating break investment after Lastra stage win.",
+      "Final sprint peloton shattered in final 5km despite flat run-in, indicating accumulated fatigue trumps sprinter team organization on longest stages."
+    ],
+    "rider_signals": {
+      "MARTIN Guillermo": "positive: accumulated near-unassailable KOM lead (85 points, 51 ahead) by targeting early categorized climbs before peloton engagement",
+      "ROGLIC Primoz": "neutral: team burned energy escorting peloton despite massive GC/points leads, possible indication of controlling race tempo for future mountain stages",
+      "MORKOV Michael": "positive: led out Phillips despite UAE typically lacking sprint train depth, showing veteran positioning compensates for team strength",
+      "ACKERMAN Pascal": "negative: contested sprint finish decision despite not winning, suggesting positioning desperation rather than genuine sprint superiority"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:30:20.959460+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches late attacks from small breakaways at approximately 1km to go, even on flat finales. Willing to take risks against numerical disadvantages when opportunity presents.",
+  "team_tactics": "Often operates without team support in decisive moments, relying on individual initiative rather than coordinated setup from domestiques.",
+  "terrain_preference": "Capable on flat finales when attacking from breakaways. Struggles in tactical positioning battles, particularly in small group sprints where positioning dominance matters.",
+  "vulnerability": "Poor tactical awareness in small group sprint scenarios. Allows stronger tacticians to dictate positioning, negating any physical advantages. Ineffective when facing organized numerical disadvantages without element of surprise.",
+  "key_patterns": [
+    "Attacks at 1km to go from small breakaways, documented in both races analyzed",
+    "Operates without team support in critical phases, forced to rely on solo efforts",
+    "Struggles with tactical positioning when sprint dynamics require spatial awareness and timing"
+  ],
+  "form_trajectory": "negative: Despite Giro stage wins entering 2019 Tour, showed tactical regression and inability to execute in pressure situations",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MULBERGER Gregor",
+  "built_from": [
+    "2018 BinckBank Tour Stage 6",
+    "2018 BinckBank Tour Stage 6",
+    "2019 Tour de France Stage 12"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2018 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2018-04-15",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VALGREN Michael won after QUICK-STEP brought two riders to final selection, but their dual presence led to tactical paralysis in final 700m sprint",
+    "winner": "VALGREN Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QUICK-STEP two-man advantage (GASPAROTTO, KREUZIGER) in finale froze tactics, allowing VALGREN to win from behind at 300m.",
+      "CRADDOCK Lawson survived from early break to finish 9th, showing breakaway remnants viable in selective finale.",
+      "Cauberg climb 43.5km out shattered break but was too early for decisive selection among favorites."
+    ],
+    "rider_signals": {
+      "VALGREN Michael": "positive: Won both Omloop and Amstel showing dual capability in cobbled semi-classics and hilly Ardennes races",
+      "GASPAROTTO Enrico": "neutral: Strong enough for podium but QUICK-STEP numbers advantage created sprint hesitation costing potential win",
+      "KREUZIGER Roman": "neutral: Second place masks tactical failure where two QUICK-STEP riders watched each other instead of attacking",
+      "VALVERDE Alejandro": "negative: Fourth place marks continued Amstel failure despite presence in winning move, lacks decisive punch on this parcours",
+      "CRADDOCK Lawson": "positive: 9th from early break shows exceptional diesel endurance on repeated climbing circuits"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:20:13.229616+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "label": "2017 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2017-04-26",
+  "stage": 1,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARINI Nicolás won the opening road stage bunch sprint in wet conditions for Nippo-Vini Fantini after MORFIN Ivan held prologue lead by one second.",
+    "winner": "Unknown - cannot match to roster",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Nippo-Vini Fantini successfully positioned their sprinter using BONO Matteo as final leadout man in wet opening stage",
+      "Damp conditions neutralized pure power sprinters, allowing tactical positioning to determine outcome over raw speed"
+    ],
+    "rider_signals": {
+      "BONO Matteo": "positive: executed crucial final leadout work in wet conditions for winning sprint"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T21:13:13.982254+00:00"
+}

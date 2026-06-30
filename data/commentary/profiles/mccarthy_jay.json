@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Does not initiate attacks; instead positions for punchy sprint finishes on transition/rolling terrain. Excels in explosive kick-sprints after selective climbing pace, unsuited to pure flat sprints.",
+  "team_tactics": "Operates as both leadout rider for teammates (MAJKA, BENNETT) and as protected finisher himself. Team struggles when attempting late infiltration of established trains rather than early positioning.",
+  "terrain_preference": "Rolling/transition finishes where climbing pace eliminates pure sprinters but allows explosive finish. Technical flat finishes expose significant positioning vulnerabilities.",
+  "vulnerability": "Chronic crashes in technical finales when contesting position (kerb impacts Catalunya 2019 x2, Liège wet conditions). Late positioning battles consistently result in incidents or energy waste.",
+  "key_patterns": [
+    "Won and placed on transition stages via explosive kick-sprint after selective pace (2018 Basque, Catalunya).",
+    "Crashed into kerbs/barriers in technical positioning moments across multiple 2019 races (Catalunya x2, Liège).",
+    "Functions dual role: GC domestique positioning work and own finish opportunities on selective stages.",
+    "Team leadout efforts collapse when infiltrating established trains late rather than positioning early (Catalunya 2018)."
+  ],
+  "form_trajectory": "negative: 2018 showed winning punch-sprint capability, but 2019-2020 dominated by crash incidents and domestique duties without personal results",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "MCCARTHY Jay",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 3",
+    "2018 Itzulia Basque Country Stage 3",
+    "2018 Itzulia Basque Country Stage 3",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2019 Giro d'Italia Stage 2",
+    "2019 Volta Ciclista a Catalunya Stage 1",
+    "2019 Volta Ciclista a Catalunya Stage 2",
+    "2020 Liege-Bastogne-Liege"
+  ]
+}

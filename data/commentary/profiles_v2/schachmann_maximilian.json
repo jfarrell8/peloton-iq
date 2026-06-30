@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Rarely initiates attacks himself; relies on opportunistic gains through bonuses, team tempo, and capitalizing on rivals' misfortunes rather than explosive moves. Defensive posture when racing for GC.",
+  "team_tactics": "DSM (now Bora) uses controlled tempo riding to consolidate positions rather than aggressive domestique launches. Benefits when team can control pace on climbs, struggles when team support collapses (echelons, crashes).",
+  "terrain_preference": "Moderate climbs where tempo control matters more than explosive accelerations. Exposed in technical descents, high-speed echelon situations, and when requiring sustained isolation on final climbs.",
+  "vulnerability": "Catastrophic weakness in echelon scenarios (2+ observations of major time losses). Vulnerable to bad luck (crashes) and cannot respond when isolated without team support. Form appears inconsistent year-to-year.",
+  "key_patterns": [
+    "Won Paris-Nice 2021 primarily due to Roglic crashes, not superior climbing ability or attacks",
+    "Lost significant time in echelons/wind multiple times as defending champion in 2022",
+    "Relies on intermediate bonuses and tactical gains rather than raw climbing power",
+    "Defensive racing style: follows moves rather than initiating when under pressure (multiple observations)",
+    "Team tempo control critical to success; collapses without domestique support on climbs",
+    "Poor descending/technical skills evidenced by crashes and positioning losses"
+  ],
+  "form_trajectory": "negative: 2022 showed clear decline from 2021 Paris-Nice win, losing time in echelons as defending champion and crash-affected Tour de Suisse",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "SCHACHMANN Maximilian",
+  "built_from": [
+    "2020 Paris - Nice Stage 2",
+    "2020 Paris - Nice Stage 7",
+    "2021 Paris-Nice Stage 7",
+    "2021 Paris-Nice Stage 8",
+    "2022 Paris-Nice Stage 1",
+    "2022 Paris-Nice Stage 2",
+    "2022 Tour de Suisse Stage 3"
+  ]
+}

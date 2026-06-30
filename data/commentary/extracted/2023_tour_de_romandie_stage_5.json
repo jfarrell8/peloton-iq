@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-30",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "VINE Jay held 15-second GC lead over YATES Simon through five-lap technical circuit, YATES won stage sprint",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HAYTER Ethan mechanical at critical moment forced lone pacing from teammate, revealing depth fragility on compact circuits.",
+      "UAE controlled without riding, allowing INEOS to police early breaks protecting their minuscule 15-second GC cushion.",
+      "TIBERI Antonio's late positioning move gained two GC places, exploiting bonus seconds vulnerability of favorites in stage sprint."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: defended 15-second lead without teammates visibly working, suggests exceptional positioning autonomy on technical circuits",
+      "YATES Simon": "positive: won stage sprint despite team mechanical crisis, strong finishing speed after five technical laps",
+      "HAYTER Ethan": "negative: mechanical at decisive moment exposed INEOS lack of depth when Hepburn already in breakaway",
+      "TIBERI Antonio": "positive: tactical sprint positioning gained two GC places via bonus seconds, mature race-craft for late-stage opportunism",
+      "O'CONNOR Ben": "negative: dropped in final sprint lost two seconds, vulnerable against pure sprinters after hard circuits"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:27:08.153523+00:00"
+}

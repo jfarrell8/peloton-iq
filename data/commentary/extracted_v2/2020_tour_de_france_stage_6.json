@@ -1,0 +1,25 @@
+{
+  "label": "2020 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-03",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alexey won from an 8-man early break that gained 6+ minutes, surviving solo after attacks on the final climb while GC riders marked each other.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van Avermaet allowed to lead breakaway 6+ minutes as GC teams lacked motivation to chase non-threat riders.",
+      "Alaphilippe attacked final climb for symbolic time gain after yesterday's penalty, showing psychological need for redemption.",
+      "Bernal protected by Kwiatkoski while other GC favorites neutralized each other, none willing to test form early."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: drove the entire breakaway effort then survived solo attacks on final climb, exceptional engine for long efforts",
+      "POWLESS Neilson": "positive: launched decisive attack on climb in first Tour, finishing 4th on mountaintop at 24 shows elite climbing potential",
+      "VAN AVERMAET Greg": "neutral: CCC's sponsor troubles may have motivated aggressive breakaway tactics for visibility rather than GC ambitions",
+      "ALAPHILIPPE Julian": "neutral: attacked solely for symbolic gesture after time penalty, wasting energy outside tactical necessity",
+      "OSS Daniel": "neutral: breakaway role suggests Bora preserving Sagan energy, using domestique for intermediate sprint instead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:26:03.762921+00:00"
+}

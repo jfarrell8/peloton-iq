@@ -1,0 +1,26 @@
+{
+  "label": "2019 BinckBank Tour Stage 1",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-12",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint after skipping between leadout trains in final 5km rather than following his own Bora team's setup",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora's leadout for Bauhaus failed as Bennett ignored his own team's train to follow bigger squads",
+      "Trek-Segafredo positioned Mosschetti through turns 1.3km out but couldn't hold position through final left-hander under 500m",
+      "Groenewegen led out own sprint from 300m with Jumbo-Visma, got boxed finishing 7th—team didn't control",
+      "Weather-induced crashes 15-20 minutes before finish caused splits; gap-closing efforts cost positioning in finale"
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: tactically savvy ignoring own leadout to poach from rivals; first WorldTour win in new kit signals immediate comfort",
+      "BAUHAUS Phil": "negative: finished second despite perfect Bora leadout positioning him; failed to convert team's work",
+      "GROENEWEGEN Dylan": "negative: forced into self-leadout from 300m with Jumbo-Visma, got boxed—team offered no protection",
+      "TEUNISSEN Mike": "positive: Trek positioned him through technical turns 1.3km out showing classics-style navigation in bunch sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:43:54.655423+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2019 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-24",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ZAKARIN Ilnur attacked solo with 5km remaining on Cevedale/Madritsch climb, capitalizing on LOPEZ mechanical to win and vault into GC contention",
+    "winner": "ZAKARIN Ilnur",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LANDA Mikel attacked 15km from finish to shed climbers, gaining 1:19 on ROGLIC/NIBALI group despite fading final kilometer",
+      "ZAKARIN attacked precisely when gradient steepened with 5km remaining, exploiting LOPEZ wheel-change mechanical moment to solo away",
+      "NIBALI Vincenzo marked ROGLIC attacks but refused to chase down ZAKARIN, prioritizing energy conservation over stage hunting",
+      "LOPEZ Miguel suffered wheel-change then full bike swap, yet recovered to ROGLIC group showing exceptional crisis management"
+    ],
+    "rider_signals": {
+      "ZAKARIN Ilnur": "positive: Won from breakaway attack at 5km, referenced 2017 L'Aquila stage win proving repeated high-altitude finishing power",
+      "LANDA Mikel": "positive: Solo attack 15km out gained 1:19 on favorites despite fade, confirming offensive threat on long climbs",
+      "YATES Simon": "negative: Lost 5+ minutes to stage winner, already described as almost over, abandoned GC ambitions by stage 13",
+      "LOPEZ Miguel": "neutral: Double mechanical (wheel then bike) catastrophic but recovered to ROGLIC group, resilience masks lost opportunity",
+      "ROGLIC Primoz": "neutral: Marked attacks but allowed ZAKARIN 2:57 gap, prioritizing NIBALI over Russian 7:45 down pre-stage",
+      "NIBALI Vincenzo": "neutral: Solid marking of ROGLIC but passive toward breakaway threats, tactical conservatism on summit finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:48:27.777944+00:00"
+}

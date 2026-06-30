@@ -1,0 +1,26 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-04",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe won after VINGEGAARD Jonas personally led him out in final kilometer, catching late attacker HEGGENES Andreas mere meters from the line.",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD Jonas sacrificed GC positioning by leading out LAPORTE in final kilometer, unprecedented work by Tour champion.",
+      "Breakaway caught within 200 meters shows five category-four climbs plus 9000ft cumulative gain neutralizes escape chances.",
+      "HEGGENES Andreas nearly held off field despite looking back repeatedly in final kilometer, showing pure sprinters vulnerable here."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: Took personal responsibility for leadout work in final kilometer, revealing team prioritizes stage wins early over GC positioning",
+      "LAPORTE Christophe": "positive: Only true sprinter to survive 9000ft climbing in rain and still finish leadout, exceptional versatility",
+      "HEGGENES Andreas": "positive: Held off charging peloton until final 200 meters from long breakaway, nearly stole stage despite tactical errors",
+      "HEITER Ethan": "negative: Crashed twice during stage, early-race vulnerability signal",
+      "JORGENSON Matteo": "positive: Second place finish shows climbing sprinter capability, competitive against specialist LAPORTE"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:35:29.147612+00:00"
+}

@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-08",
   "stage": 5,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "e7Xr-EPMtjo",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=e7Xr-EPMtjo",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 92,
+    "raw_chars": 3045,
+    "clean_chars": 2953,
+    "duration_mins": 3.6,
+    "clean_text": "after yesterday's time trial the pack rides towards makon today probably the ultimate opportunity for the sprinters who have been surprised twice already since the beginning of the race week to take a stage five ents await the participants on the first 80 km and those who have the resources left may very well try something today for the never tiring K boomman this certainly is an opportunity and for the third time this week the holder of the mountain Jersey joins an early Escape group his objective is to collect further points for the mountain classification boomman has two compatriots by his side danyan F barle and Marco Minard the three Dutchmen are followed by Julian alarz from Delco Marse and the four escapes soon have a lead of 5 minutes and 50 seconds but the pack has no intention to let them go the Sprinter teams have built up a lot of frustration since Sunday and as soon as the road allows it Dimension data katusa and FD start the hunt in spite of doing 47 km in the third race hour the lead of the escapes has dwindled to 1 and A2 minutes 25 km before arrival K boomman has fulfilled this Mission and he knows the Escape group is doomed unable to repeat his afford at tance he falls back the rest of the Escape group is slowly reeled in also van barley tries a solitary effort but he too is taken 20 km from the Finish Line the expected showdown of the sprinters will finally take place but it turns out this year nothing goes as expected bhan and deara focus on Kristoff but to everyone's surprise it's Phil bous who darts out from the left and beats everyone on the line with only two Sprint finishes this week you had to be audacious and grasp the opportunity and Phil bous managed to do just that this wasn't an accident though team sunweb started working for their Sprinter after 90 km already teamwork that is rewarded with a stage taken right under the nose of the great favorites it's the greatest career win for the 22-year-old bous who just finished the Jiro diala uh I saw already the first stage at the second stage show you that my spr is quite good and uh yeah I felt from the beginning that my legs were good today and at the end we chased also with two guys and uh yeah I was confident and uh yeah my legs uh we're good enough to take the win home yeah a happy German followed by four disappointed Frenchmen behind bow house four locals complete the top five amongst them green Jersey arod dearu who finishes second nothing changes in the overall ranking the will reach the Alps in the yellow Jersey but his Rivals will do whatever it takes to quickly take it off his shoulders the first part of the 69th Edition was demanding the second part starting this Friday will lead to the mountains a first out of classification difficulty will need to be climbed on the way to lamot the Monda 9 km with a slope of 10% will certainly be a milestone for the stage WI just as the 15 km descend to the Finish Line right after",
+    "preview_start": "after yesterday's time trial the pack rides towards makon today probably the ultimate opportunity for the sprinters who have been surprised twice already since the beginning of the race week to take a stage five ents await the participants on the first 80 km and those who have the resources left may very well try something today for the never tiring K boomman this certainly is an opportunity and for the third time this week the holder of the mountain Jersey joins an early Escape group his object",
+    "preview_end": "d nothing changes in the overall ranking the will reach the Alps in the yellow Jersey but his Rivals will do whatever it takes to quickly take it off his shoulders the first part of the 69th Edition was demanding the second part starting this Friday will lead to the mountains a first out of classification difficulty will need to be climbed on the way to lamot the Monda 9 km with a slope of 10% will certainly be a milestone for the stage WI just as the 15 km descend to the Finish Line right after"
+  },
+  "status": "transcript_saved"
 }

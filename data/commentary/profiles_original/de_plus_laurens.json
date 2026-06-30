@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not an attacker — pure high-tempo domestique who sets sustained, ferocious pace on climbs and punchy terrain to control race for teammates.",
+  "team_tactics": "Deployed early in critical climbs to set prolonged, peloton-shredding pace that establishes team control before protected riders attack. Extended efforts of 20+ km typical.",
+  "terrain_preference": "Excels on sustained climbs and punchy non-categorized drags where prolonged tempo work fragments the peloton. Mountain domestique role suits best.",
+  "vulnerability": "Empties completely after extended efforts (5-6km before finish), leaving no capacity for late positioning or personal results. Pure sacrifice role.",
+  "key_patterns": [
+    "Sets exceptionally long pace efforts: 28km+ documented, well beyond typical domestique range.",
+    "Deployed on both categorized climbs and punchy uncategorized terrain to shred pelotons.",
+    "Ineos/team depth weapon: used to establish control before protected riders make moves.",
+    "Completely empties tank after extended work, no residual capacity for finale positioning."
+  ],
+  "form_trajectory": "neutral: Both observations show identical high-level domestique role across 3-year span, no evolution apparent",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DE PLUS Laurens",
+  "built_from": [
+    "2019 Tour de France Stage 20",
+    "2022 Tour de Romandie Stage 2"
+  ]
+}

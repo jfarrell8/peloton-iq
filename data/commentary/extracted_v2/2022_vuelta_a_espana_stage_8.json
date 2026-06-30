@@ -1,0 +1,28 @@
+{
+  "label": "2022 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked from breakaway on Cat-1 finish climb, won by 43 seconds over SOLER, while EVENEPOEL defended red jersey by following ROGLIC/MAS attacks.",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL rode tempo control rather than attacking on final climb, yet distanced ROGLIC and MAS without explosive efforts.",
+      "VINE overwhelmed SOLER in final 175m despite Soler being only 20 seconds back at 700m mark, revealing superior punch.",
+      "AYUSO struggled 20-40 seconds behind red jersey group on final climb, exposing weakness compared to stage 6 form.",
+      "ROGLIC moved into third overall but couldn't match EVENEPOEL's tempo riding, concerning GC signal for Quick-Step's rival."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: second stage win in three days confirms elite climbing status, not just breakaway opportunist",
+      "EVENEPOEL Remco": "positive: defended jersey by tempo control alone without attacking, dropped ROGLIC/MAS/YATES through sustained power",
+      "AYUSO Juan": "negative: dropped 20-40 seconds behind red jersey group, clearly weaker than stage 6 mountain finish performance",
+      "SOLER Marc": "neutral: bridged to breakaway and took second but faded badly in final 700m despite being close",
+      "ROGLIC Primoz": "negative: moved to third GC but couldn't respond when EVENEPOEL simply rode tempo, troubling for overall ambitions",
+      "RODRIGUEZ Carlos": "positive: moved into fourth overall, matching EVENEPOEL's pace better than more established climbers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:34:23.736720+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-06",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe won a chaotic flat stage sprint, beating BENNETT Sam and GROENEWEGEN Dylan after Bora-hansgrohe delayed their leadout until final 600 meters.",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bora-hansgrohe deliberately withheld leadout until 600m remaining, allowing rivals to fatigue themselves navigating technical corners first.",
+      "Jumbo-Visma positioned VINGEGAARD Jonas separately from sprint train to avoid late crashes, creating dual safety positioning system.",
+      "Multiple crashes occurred on slow-tempo flat stages where compact peloton created wheel-touching danger at 50kph through road furniture.",
+      "VAN POPPEL Danny's late leadout beat longer VERNON Ethan/SÉNÉCHAL Florian train by conserving energy through final technical sequence."
+    ],
+    "rider_signals": {
+      "LAPORTE Christophe": "positive: Won intermediate sprint for bonus seconds then finished sprint, showing dual-threat capacity beyond typical pure sprinter profile.",
+      "GROENEWEGEN Dylan": "negative: Visibly frustrated after third place, appeared to clash with BENNETT Sam in sprint suggesting positioning errors cost him.",
+      "BENNETT Sam": "positive: Second place despite leadout disintegrating in crashes shows individual sprint power can compensate for team failures.",
+      "ALAPHILIPPE Julian": "neutral: Contested intermediate sprint aggressively but crashed and suffered mechanical, revealing aggressive intent but execution issues.",
+      "VERNON Ethan": "negative: Soudal-Quick-Step invested heavily in leadout that failed to deliver result, suggesting insufficient firepower against top-tier sprinters.",
+      "MULLEN Ryan": "positive: Executed critical penultimate leadout man role for Bora-hansgrohe's late-engaging sprint train strategy."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:59:01.303296+00:00"
+}

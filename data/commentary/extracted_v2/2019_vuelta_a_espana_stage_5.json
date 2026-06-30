@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-28",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MADRAZO Angel won stage 5 after being dropped three times on the final climb, attacking inside 500m to beat breakaway companions.",
+    "winner": "MADRAZO Angel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Burgos-BH planted two riders in breakaway specifically to defend polka-dot jersey through points control, sacrificing stage hunting.",
+      "MADRAZO repeatedly dropped then fought back three times before winning, showing recovery between efforts matters more than instantaneous strength.",
+      "LOPEZ Miguel Angel attacked GC group on summit finish to reclaim red jersey, signaling deliberate leadership ambitions over conservative racing.",
+      "Astana tempo on approach to final climb fragmented peloton through narrow roads, creating selection before climb even started."
+    ],
+    "rider_signals": {
+      "MADRAZO Angel": "positive: Won despite appearing weakest in breakaway throughout climb, superior recovery between efforts and tactical patience",
+      "LOPEZ Miguel Angel": "positive: Attacked for bonus seconds and stage placing to reclaim red jersey, showing aggressive GC intent early in race",
+      "ROSCH Nicolas": "positive: Defended red jersey far beyond expected capability on summit finish as non-climber, lost only 7 seconds to LOPEZ",
+      "HARADA Jetse": "negative: Dropped by MADRAZO in final 500m despite sitting on wheel for 10km, tactical positioning without finishing power",
+      "VALVERDE Alejandro": "neutral: Finished 7 seconds behind LOPEZ, conservative positioning suggests waiting for later GC opportunities",
+      "KUSS Sepp": "positive: Paced ROGLIC throughout climb as domestique, Jumbo-Visma willing to burn climbers early for GC positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:09:46.142143+00:00"
+}

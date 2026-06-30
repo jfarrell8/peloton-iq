@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker; operates as a lead-out specialist and positioning anchor in sprint finishes, delivering his sprinter into optimal position in the final kilometers.",
+  "team_tactics": "Functions as the early-to-mid lead-out anchor for Quick-Step sprint trains, establishing position before final pilot takes over. Moves to front early to control positioning.",
+  "terrain_preference": "Flat sprint stages where technical finishes reward precise positioning. Excels in challenging conditions (wet, technical turns) where positioning discipline matters most.",
+  "vulnerability": "Effectiveness depends on team plan execution; when rivals disrupt timing or make surprise moves, his early positioning work can be neutralized regardless of quality.",
+  "key_patterns": [
+    "Serves as positioning anchor for Quick-Step lead-out, moving to front early in sprint stages.",
+    "Maintains composure and execution quality in difficult conditions when rival trains falter.",
+    "Tactical value diminished when opponents break expected timing patterns or make surprise accelerations."
+  ],
+  "form_trajectory": "neutral: Successfully executing lead-out duties but team outcomes mixed due to external tactical variables",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SABATINI Fabio",
+  "built_from": [
+    "2018 Giro d'Italia Stage 17",
+    "2018 Tour de Pologne Stage 3"
+  ]
+}

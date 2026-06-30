@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who bridges to early splits and times late kicks on technical finishes, particularly effective in reduced sprint scenarios from breakaways rather than solo attacks.",
+  "team_tactics": "Team (CCC historically) sets climbing tempo to position him for selective finishes; willing to form pragmatic alliances in breaks to prevent GC-motivated stalling, as seen with Hirschi and Van Avermaet.",
+  "terrain_preference": "Technical cobbled finishes where bike handling and positioning matter; excels in reduced sprint scenarios from breakaways. Struggles when race splits on climbs or requires sustained acceleration to match pure climbers.",
+  "vulnerability": "Crash-prone in nervous peloton phases (3 crashes recorded across Flanders races); fails to follow explosive accelerations from pure climbers like Alaphilippe; fades in long-distance efforts after bridging.",
+  "key_patterns": [
+    "Crashes repeatedly in Flemish Classics nervous phases: 2017, 2018, 2022 incidents documented.",
+    "Wins from small breakaway sprints on technical terrain, beating quality sprinters like Van Avermaet.",
+    "Bridges to early splits showing aggressive intent but consistently fades in race finales.",
+    "Effective second-wheel positioning in breakaways, tracking key moves like Bernard's Mont Brouilly attack.",
+    "Team sets sustained climbing tempo to deliver him to selective finishes rather than explosive moves."
+  ],
+  "form_trajectory": "negative: Most recent 2022 data shows hard crash from bunch positioning error; 2020-2021 showed inability to reach podium groups despite following moves, suggesting declining explosive power.",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "NAESEN Oliver",
+  "built_from": [
+    "2017 Ronde Van Vlaanderen",
+    "2018 Ronde Van Vlaanderen",
+    "2019 BinckBank Tour Stage 7",
+    "2019 BinckBank Tour Stage 7",
+    "2019 BinckBank Tour Stage 7",
+    "2019 Tour de France Stage 9",
+    "2019 Tour of Oman Stage 4",
+    "2020 Ronde van Vlaanderen",
+    "2021 Paris-Nice Stage 4",
+    "2021 Paris-Nice Stage 4",
+    "2022 Dwars door Vlaanderen"
+  ]
+}

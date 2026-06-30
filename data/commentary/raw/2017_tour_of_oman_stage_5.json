@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 45,
+    "raw_chars": 1604,
+    "clean_chars": 1596,
+    "duration_mins": 2.3,
+    "clean_text": "there was much discussion ahead of the queen stage of the tour of Aman could red jersey Ben hermans produce a climbing performance on Green Mountain or would the reowned climbers leav in behind the 152 and A2 km stage from samil to Jabba alakar The Green Mountain would be The Showdown of this year's race the early action in the cross wins resulted in the pelaton splitting into two parts after a long chase the pelaton reformed and five Riders broke clear Mark Christian of aquablu was on the hunt for points for the most aggressive Rider Jersey he was joined by prean Van Hecker Jonathan Clark of United Healthcare Diaz of Delo and Parini of WB Varan classic they rode well to build a huge lead of over 8 minutes but their momentum was slowed when Christian crashed at the same point a large number of the pelaton crashed causing Roman B some problems as they neared the Green Mountain the pelaton was closing in the Breakaway started to disintegrate and was caught on the lower slopes it was then time time for lackan Morton to launch and attack he was caught by aidu laala setting up Roman B he tried twice to break away but he just couldn't get an advantage an exciting final climb then saw white jersey Mari kudus take his chance he looked good but red jersey Ben hermans of BMC had been waiting the pre-race talk was about to be settled Herman's Ro hard going clear on the Green Mountain it was a spectacular performance behind him Fabu aru closed in fast but at the line Herman's held on by 3 seconds the red jersey secured the Belgian Rider now takes a 22 second lead into the final day",
+    "preview_start": "there was much discussion ahead of the queen stage of the tour of Aman could red jersey Ben hermans produce a climbing performance on Green Mountain or would the reowned climbers leav in behind the 152 and A2 km stage from samil to Jabba alakar The Green Mountain would be The Showdown of this year's race the early action in the cross wins resulted in the pelaton splitting into two parts after a long chase the pelaton reformed and five Riders broke clear Mark Christian of aquablu was on the hunt ",
+    "preview_end": " he tried twice to break away but he just couldn't get an advantage an exciting final climb then saw white jersey Mari kudus take his chance he looked good but red jersey Ben hermans of BMC had been waiting the pre-race talk was about to be settled Herman's Ro hard going clear on the Green Mountain it was a spectacular performance behind him Fabu aru closed in fast but at the line Herman's held on by 3 seconds the red jersey secured the Belgian Rider now takes a 22 second lead into the final day"
+  },
+  "status": "transcript_saved"
 }

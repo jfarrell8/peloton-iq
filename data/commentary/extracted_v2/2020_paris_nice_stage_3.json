@@ -1,0 +1,27 @@
+{
+  "label": "2020 Paris - Nice Stage 3",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-10",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GARCIA CORTINA Ivan won stage 3 after HOFSTETTER blocked EWAN from behind and BENNETT crashed, with favorites all waiting too long in hesitant sprint.",
+    "winner": "GARCIA CORTINA Ivan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE Julian attacked immediately after crash with 10km remaining, forcing SAGAN to bridge and splitting field before sprint.",
+      "Lead-out trains completely dissolved by late crashes, causing hesitant sprint where MATTHEWS and SAGAN both waited themselves out of contention.",
+      "Israel Start-Up Nation let domestique GARCIA CORTINA who worked all day finish sprint, revealing team prioritization over pure speed."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Second consecutive day showing exceptional strength supporting SCHACHMANN's GC, then bridged to ALAPHILIPPE late attack despite domestique duties.",
+      "EWAN Caleb": "negative: Blocked by HOFSTETTER from behind inside final kilometer after positioning well, suggesting vulnerability in chaotic non-leadout sprints.",
+      "BENNETT Sam": "negative: Crashed with bloodied hand in sprint finale, taken out by traffic despite being pre-stage favorite.",
+      "GARCIA CORTINA Ivan": "positive: Worked all day protecting team, then won sprint opportunistically when favorites hesitated after crashes disrupted trains.",
+      "MATTHEWS Michael": "neutral: Led out ACKERMANN then looked across shoulder waiting, missed winning opportunity in hesitant sprint.",
+      "ALAPHILIPPE Julian": "positive: Immediately attacked post-crash at 10km to exploit chaos and test GC rivals despite not being sprint contender."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:18:16.312498+00:00"
+}

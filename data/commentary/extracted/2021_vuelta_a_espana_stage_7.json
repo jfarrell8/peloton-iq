@@ -1,0 +1,30 @@
+{
+  "label": "2021 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "STORER Michael won from 30-rider breakaway with DSM placing 5 riders; GROSSHARTNER Felix missed red jersey by 8 seconds after sitting in GC group.",
+    "winner": "STORER Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM deployed 5 of 9 riders into breakaway, overwhelming numerical advantage secured STORER stage win over individual strength.",
+      "GROSSHARTNER Felix lost red jersey by 8 seconds after conservative riding in GC group instead of attacking on final climb.",
+      "YATES Adam set exceptionally high tempo for BERNAL on final climb, unusual domestique aggression for teammate already down on GC.",
+      "Movistar lost tactical advantage (3 in top 5) when VALVERDE crashed, neutralizing planned numerical attack on ROGLIC."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: Finished aggressive DSM team effort, strong enough to drop VERONA Carlos on steep final kilometers after full stage in break.",
+      "GROßSCHARTNER Felix": "negative: Miscalculated time gaps on final climb, lost red jersey by 8 seconds through passive riding in GC group.",
+      "YATES Adam": "positive: Rode exceptionally hard tempo for BERNAL despite losing time in crash stage 2, strong domestique form early race.",
+      "VALVERDE Alejandro": "negative: High-speed crash eliminated Movistar's 3-in-top-5 numerical advantage before critical mountain stage finished.",
+      "LANDA Mikel": "negative: Dropped significantly on final climb, distanced from ROGLIC group on stage expected to favor him.",
+      "CARAPAZ Richard": "negative: Also distanced from GC group on Balcon de Alicante, unexpected weakness for Ineos co-leader.",
+      "CARUSO Damiano": "negative: Dropped far from finish on final climb, Bahrain struggling to support LANDA.",
+      "ROGLIČ Primož": "neutral: Defended red jersey without strong team support, but Movistar unable to exploit numerical advantage after VALVERDE crash."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:20:44.241028+00:00"
+}

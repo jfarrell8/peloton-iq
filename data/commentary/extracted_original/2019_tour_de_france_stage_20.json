@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-27",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "NIBALI attacked solo on Val Thorens climb after teammate CICCONE's leadout, holding off VALVERDE for stage win while BERNAL secured GC.",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar deployed dual options with VALVERDE/QUINTANA attacking separately rather than combining forces, fragmenting their podium push.",
+      "JUMBO-VISMA used BENNETT then DE PLUS sequential pacing to elevate KRUIJSWIJK to podium, superior team depth execution.",
+      "NIBALI attacked with teammate CICCONE still visible ahead, using Bahrain's multiple presence to force MOVISTAR's response decision.",
+      "ALAPHILIPPE cracked precisely when DE PLUS went maximum on front, suggesting Deceuninck miscalculated yellow jersey pacing reserves."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: cracked when JUMBO increased pace through DE PLUS, revealing insufficient climbing preparation for multi-Alpine stage blocks",
+      "DE PLUS Laurens": "positive: set ferocious pace for 28km+ before emptying at 5.6km, exceptional domestique range rarely seen",
+      "THOMAS Geraint": "positive: personally paced BERNAL to finish line rather than delegating, showing defending champion prioritized team GC over personal placing",
+      "NIBALI Vincenzo": "positive: solo attack succeeded despite having teammate ahead, indicating rivals calculated he lacked stage-winning form",
+      "PORTE Richie": "negative: dropped before ALAPHILIPPE despite being protected GC rider, Trek's multi-leader strategy failed under pressure",
+      "VALVERDE Alejandro": "neutral: caught teammate LANDA for second, but inability to bridge to NIBALI suggests diminished acceleration at altitude"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:15:31.080193+00:00"
+}

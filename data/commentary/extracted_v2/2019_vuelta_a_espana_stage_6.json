@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-29",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HERRADA Jesus attacked early in final 500m, dropped TEUNS Dylan who still took red jersey via time bonuses and gaps to GC riders.",
+    "winner": "HERRADA Jesus",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana deliberately allowed DE LA CRUZ David into breakaway to offload red jersey workload, accepting time loss strategically.",
+      "TEUNS positioned back during initial breakaway attacks to conserve energy for counter-moves, superior tactical patience versus attacking early.",
+      "POGACAR Tadej attacked GC group solo in final kilometers as 20-year-old, forcing QUINTANA/LOPEZ to chase respectfully despite youth.",
+      "Breakaway disintegrated final 3km when OLIVEIRA Nelson surged repeatedly, separating strong climbers from opportunists before summit finish."
+    ],
+    "rider_signals": {
+      "TEUNS Dylan": "positive: took red jersey despite losing stage sprint, demonstrated tactical maturity sitting back during early breakaway attacks",
+      "POGACAR Tadej": "positive: attacked established GC riders solo at age 20, gained time on LOPEZ despite being marked, shows early Grand Tour aggression",
+      "DE LA CRUZ David": "positive: moved to 38 seconds GC via breakaway inclusion, Astana strategically willing to surrender red jersey workload",
+      "FORMOLO Davide": "negative: crashed early while 12th overall, initiated breakaway attacks but couldn't sustain effort on final climb",
+      "OLIVEIRA Nelson": "neutral: multiple late attacks fractured breakaway but couldn't hold off HERRADA's superior finishing speed",
+      "QUINTANA Nairo": "neutral: chased POGACAR personally rather than delegating to teammates, suggests leadership concern over 20-year-old's threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:10:00.804874+00:00"
+}

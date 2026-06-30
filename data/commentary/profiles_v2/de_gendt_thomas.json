@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Attacks at kilometer zero or from established breakaways with 20-30km remaining, specializing in extreme-distance solo efforts (up to 200km). Thrives in constant-effort parcours rather than explosive climbing finishes.",
+  "team_tactics": "Operates with minimal team support, self-sufficient breakaway specialist who creates gaps through relentless diesel pacing rather than coordinated team setups.",
+  "terrain_preference": "Constant-effort terrain like tunnels and long solo runs where steady power output advantages diesel engine; exposed on classified climbs with high-pace finishes requiring explosive changes.",
+  "vulnerability": "Cannot survive high pace on classified climb finishes despite holding climber jerseys. Lacks explosiveness when peloton or strong groups maintain threshold efforts on categorized ascents.",
+  "key_patterns": [
+    "Kilometer zero attacks: launches extreme early breaks, surviving 200km solo (Tour) and pre-final attacks (Catalunya).",
+    "Diesel engine pacing: holds constant power where others fade, exploiting no-rest parcours and tunnel sections.",
+    "Breakaway specialist limitations: dropped when caught by peloton pace on categorized climbs despite polka dots.",
+    "Self-sufficient solo artist: maintains 23-27 second gaps through individual pacing against organized team pursuit pressure."
+  ],
+  "form_trajectory": "neutral: 2019 Tour solo win demonstrates peak diesel capacity remains, but 2019 Paris-Nice drop confirms unchanged vulnerability to classified climb pace",
+  "races_analysed": 4,
+  "confidence": "high",
+  "rider_name": "DE GENDT Thomas",
+  "built_from": [
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2018 Vuelta a Espana Stage 9",
+    "2019 Paris-Nice Stage 6",
+    "2019 Tour de France Stage 8",
+    "2019 Tour de France Stage 8"
+  ]
+}

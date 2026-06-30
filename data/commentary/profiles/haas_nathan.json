@@ -1,19 +1,30 @@
 {
-  "attacking_style": "Insufficient data to establish clear attacking patterns. Observations show reactive positioning rather than proactive attacking behavior in decisive race moments.",
-  "team_tactics": "No clear team tactical patterns observed. Appears to race without dedicated domestique support in finale situations based on available data.",
-  "terrain_preference": "Struggles on punchy climbs like Cauberg when race selection occurs. Wheel positioning and tactical awareness appear as limiting factors rather than physical terrain capability.",
-  "vulnerability": "Exposed in chaotic finales and when quick accelerations occur. Loses positioning on decisive climbs not due to physical weakness but poor wheel selection and timing.",
+  "attacking_style": "Opportunistic late attacker who strikes in the final 5km or less, often exploiting peloton fatigue or disrupting sprint preparations. Demonstrates willingness to launch long-shot moves even in unfavorable conditions like headwinds (400m) or circuit finales (7km).",
+  "team_tactics": "Minimal dedicated leadout support observed; relies on personal positioning and tactical homework to identify rivals' patterns. Exploits fatigue windows when peloton is stretched from chasing breakaways rather than waiting for organized sprint trains.",
+  "terrain_preference": "Selective uphill finishes and reduced bunch sprints suit best, showing capacity to follow decisive moves on climbs with 5km to go. Struggles in pure flat sprint scenarios where leadout trains dominate.",
+  "vulnerability": "Lacks WorldTour win despite 2.5+ years of attempts (as of 2020). Late attacks frequently caught when rivals organize chase rotations. Appears unable to convert positioning into results in straightforward sprint scenarios.",
   "key_patterns": [
-    "Missed decisive moves despite being present, indicating positioning/anticipation weakness in critical moments",
-    "Failed to follow wheels on Cauberg climb, suggesting tactical inexperience in selective racing",
-    "Wheel positioning errors in finale situations reveal race craft deficits over physical limitations"
+    "Attacks late (400m-7km to go) across multiple race types to disrupt sprints or hunt bonuses.",
+    "Exploits peloton fatigue from breakaway chases rather than contesting organized sprint finishes (2 observations).",
+    "Studies rival positioning patterns for tactical advantage, notably Van Avermaet's predictable leadout at Oman 2018.",
+    "Positioned well but fails to convert: 10th without contesting, attacks caught, winless streak persists.",
+    "Shows unexpected uphill sprint capacity, following decisive moves on climbs (Amstel, Oman selections)."
   ],
-  "form_trajectory": "unknown: limited observations prevent assessment of physical form, but tactical execution shows developmental gaps",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "neutral: Consistent tactical aggression 2017-2020 but no breakthrough wins. Still hunting first WorldTour victory mid-2020 despite repeated attempts and good positioning.",
+  "races_analysed": 7,
+  "confidence": "medium",
   "rider_name": "HAAS Nathan",
   "built_from": [
     "2017 Amstel Gold Race",
-    "2017 Amstel Gold Race"
+    "2017 Giro d'Italia Stage 3",
+    "2017 Giro d'Italia Stage 3",
+    "2017 Tour de Pologne Stage 2",
+    "2018 Tour of Oman Stage 2",
+    "2018 Tour of Oman Stage 2",
+    "2018 Tour of Oman Stage 6",
+    "2018 Tour of Oman Stage 6",
+    "2020 Tour de Pologne Stage 2",
+    "2020 Tour de Pologne Stage 3",
+    "2020 Tour de Pologne Stage 3"
   ]
 }

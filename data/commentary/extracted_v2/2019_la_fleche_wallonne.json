@@ -1,0 +1,27 @@
+{
+  "label": "2019 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2019-04-24",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won by attacking on the final 1.3km Mur de Huy ascent, holding off FUGLSANG Jakob's late surge by staying left to close the door",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE punctured before key climbs but Deceuninck had spare disc-brake bike ready, showing equipment protocol matters for protected riders",
+      "Lotto-Soudal attacked repeatedly mid-race with WELLENS presumably to exhaust rivals before final Mur, showing pre-emptive attrition tactics",
+      "FUGLSANG launched earlier on final 1.3km Mur creating small gap, forcing ALAPHILIPPE to bridge then counter rather than pure sprint",
+      "ALAPHILIPPE used left side of road to block FUGLSANG's second acceleration attempt, tactical positioning matters on narrow finish"
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: multiple second places in major races signals consistent elite form but possible mental/tactical weakness in closers",
+      "VALVERDE Alejandro": "negative: finished outside top-10 despite positioning advantage, suggests declining explosive power on steep finale",
+      "WELLENS Tim": "neutral: team attacked repeatedly for him mid-race but ultimately not present in finale, attrition tactics failed",
+      "ULISSI Diego": "positive: podium third after DAN MARTIN dropped early, showing UAE had depth when leader failed",
+      "MATTHEWS Michael": "positive: top-10 finish on steep punchy climb reveals underestimated climbing development for pure sprinter type"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:52:29.615169+00:00"
+}

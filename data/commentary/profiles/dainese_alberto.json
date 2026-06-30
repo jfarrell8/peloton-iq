@@ -1,29 +1,40 @@
 {
-  "attacking_style": "Pure sprint finisher who excels in messy, disrupted situations requiring improvisation. Demonstrates ability to win from compromised positions rather than textbook leadouts, particularly effective in tight, technical finales.",
-  "team_tactics": "Evolved from domestique/leadout role to protected sprinter (2020-2023). Wins often come when traditional leadout trains fail or teammates absent, suggesting reliance on individual positioning over organized trains. DSM showed confused hierarchy in earlier races.",
-  "terrain_preference": "Flat bunch sprints with technical corners where bike handling compensates for positioning. Exposed on steep gradients and final climbs, suggesting weight/power-to-weight disadvantage limits him to pure flat stages.",
-  "vulnerability": "Positioning in predictable, high-speed finales (caught 50th in criterium). Distanced on steep climbs. Most success comes when chaos disrupts stronger leadout teams, suggesting pure power deficit against top-tier sprinters in organized sprints.",
+  "attacking_style": "Pure sprinter who launches in final 200m, thriving in disorganized/chaotic finales rather than structured leadout trains. Excels at late positioning decisions and wheel selection when sprints fragment.",
+  "team_tactics": "Operates with minimal or absent leadout support, freelancing off rival trains. Team DSM provided little dedicated sprint infrastructure, forcing self-reliance and opportunistic positioning behind competitors' leadouts.",
+  "terrain_preference": "Flat bunch sprints and technical finales where positioning trumps pure power. Vulnerable on even modest gradients before sprint finishes; struggles when climbs precede final kilometers despite occasional recovery resilience.",
+  "vulnerability": "Positional awareness in structured sprints can fail catastrophically (finished 50th when favored). Dropped on summit finishes with modest climbing before sprints. Requires chaotic conditions to overcome lack of leadout.",
   "key_patterns": [
-    "Wins from disrupted sprints: crash at 2.3km (Vuelta), teammate illness (Giro), compromised position (UAE). 3+ instances.",
-    "Career trajectory: domestique to leadout to protected sprinter (2020-2023), multiple signals of miscast role.",
-    "Superior bike handling in technical finales: tight corners, messy situations. Confirmed across 3 races.",
-    "Consistent weakness on climbs/gradients despite pure sprinter classification. Noted in 2 separate observations.",
-    "Beats top sprinters (Gaviria, Ewan, Cavendish, Ganna) when leadout advantage neutralized by race circumstances."
+    "Won 4+ sprints without dedicated leadout, freelancing off rival trains more effectively than supported sprinters",
+    "Thrives in chaos: multiple wins from disrupted sprints with crashes/late catches eliminating organized trains",
+    "Photo-finish specialist: won multiple tire-width margins, suggesting excellent bike-handling and timing in tight finishes",
+    "Early career positioning errors (50th when favored) evolved to tactical maturity by 2022-2023",
+    "Climbing vulnerability: dropped on modest gradients preceding sprints, limits stage-winning range to pure flat finales"
   ],
-  "form_trajectory": "positive: 2023 Vuelta win showed tactical maturity, self-sufficiency without team support. Evolution from opportunistic wins to adaptable, complete sprinter confirmed over 4-year span.",
-  "races_analysed": 7,
+  "form_trajectory": "positive: Won 2023 Vuelta and Giro stages after years of development, left DSM after breakthrough results, suggesting confidence in established sprint competitiveness",
+  "races_analysed": 15,
   "confidence": "high",
   "rider_name": "DAINESE Alberto",
   "built_from": [
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 5",
     "2020 UAE Tour Stage 1",
     "2020 UAE Tour Stage 1",
     "2020 UAE Tour Stage 3",
     "2020 UAE Tour Stage 5",
-    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 8",
     "2022 Giro d'Italia Stage 11",
     "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Tirreno-Adriatico Stage 7",
+    "2022 Tour de France Stage 19",
+    "2023 Giro d'Italia Stage 17",
+    "2023 Giro dItalia Stage 17",
+    "2023 Giro dItalia Stage 17",
     "2023 La Vuelta Ciclista a Espana Stage 19",
     "2023 La Vuelta Ciclista a Espana Stage 19",
-    "2023 Tirreno-Adriatico Stage 7"
+    "2023 Tirreno-Adriatico Stage 7",
+    "2023 Vuelta a Espana Stage 19",
+    "2023 Vuelta a Espana Stage 19"
   ]
 }

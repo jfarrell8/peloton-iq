@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won the 35km pan-flat time trial by 1 second over THOMAS Geraint, regaining the maglia rosa with a 45-second GC lead.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL started fastest, built 30+ second gap early on ROGLIC, then held advantages despite negative split from chasers.",
+      "ROGLIC employed deliberate slow-start negative-split strategy, clawing back 11+ seconds but insufficient for TT specialists on flat parcours.",
+      "HART outperformed GC expectations finishing third, only 4 seconds off winner, revealing unexpected flat TT strength for climber type."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: regained maglia rosa with front-loaded pacing strategy holding off stronger finishers, 45s GC buffer established",
+      "THOMAS Geraint": "positive: missed stage win by fraction of second, only 45s down GC suggests genuine podium threat despite age",
+      "ROGLIC Primoz": "neutral: negative split strategy limited losses to 47s but reveals flat TT weakness against pure specialists",
+      "HART Tao Gaughan": "positive: third place 4s back shocks as climbing specialist, sits 59s down GC as dark horse",
+      "KUNG Stefan": "negative: second-fastest early time beaten by teammates suggests Ineos depth but individual vulnerability in closing kilometers",
+      "LEKNESSUND Andreas": "neutral: lost rosa as expected but stays within 3 minutes, limited TT damage control successful"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:41:30.297630+00:00"
+}

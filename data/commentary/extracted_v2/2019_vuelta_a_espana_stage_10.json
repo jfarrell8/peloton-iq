@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-03",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won the Stage 10 ITT by 25 seconds over Bevan, gaining 3:06 on Quintana to take red jersey",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BEVAN Patrick emerged as unexpected GC threat, moving to second overall with ITT performance, revealing CCC GC ambitions.",
+      "CAVAGNA Remi's 45.7 km/h speed at 24 years signals emerging TT generation can sustain power on technical courses.",
+      "QUINTANA Nairo's 3:06 loss versus 2:00 target shows deteriorating TT performance under race fatigue, predictable GC vulnerability."
+    ],
+    "rider_signals": {
+      "BEVAN Patrick": "positive: Moved to second overall via ITT, showing genuine GC legs beyond expected breakaway domestique role",
+      "ROGLIC Primoz": "positive: 46+ km/h average confirms pre-race favorite status, demonstrating no fatigue from opening nine stages",
+      "QUINTANA Nairo": "negative: Lost red jersey with 3:06 deficit after targeting sub-2:00 loss, suggests declining form pattern in Grand Tours",
+      "CAVAGNA Remi": "positive: 45.7 km/h speed at 24 years old establishes him as generational TT talent, fastest intermediate splits",
+      "LOPEZ Miguel Angel": "neutral: Motivation spike when caught by Roglic suggests psychological vulnerability under pressure in ITTs",
+      "POGACAR Tadej": "positive: Top-15 ITT finish in first Grand Tour reveals hidden GC potential beyond expected stage hunting role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:06:22.985996+00:00"
+}

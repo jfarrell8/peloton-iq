@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won from a 30-rider breakaway after surviving the final climb by gritted teeth, then beating SQUINZI and BERWICK in the sprint.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Five riders attacked from 26-rider breakaway at 90km to go, proving oversized breaks fragment predictably on first selection.",
+      "DENZ attacked 12km out on Colle Briaglia despite visibly suffering, forcing others to chase rather than wait for sprint.",
+      "GC teams conceded 8+ minutes to breakaway before stage 13 Alps, revealing deliberate energy conservation pattern before key mountain stages."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "negative: abandoned due to illness from back of peloton, second major sprinter withdrawal suggesting virus spreading through race",
+      "DENZ Nico": "positive: won despite nearly being dropped on final climb, showed superior recovery and tactical aggression attacking weakened group",
+      "BATISTELLO Samuel": "negative: dropped from lead group despite making 90km selection, indicating illness affecting multiple breakaway riders",
+      "MILAN Jonathan": "neutral: required medical treatment mid-stage but continued, maintaining points jersey defense despite compromised condition",
+      "GAMBLE Patrick": "negative: lost multiple minutes on stage 12 despite being Denz's teammate, signaling form issues before crucial Alpine stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:37:52.639972+00:00"
+}

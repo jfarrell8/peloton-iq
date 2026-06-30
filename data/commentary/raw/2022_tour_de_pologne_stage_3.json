@@ -4,85 +4,103 @@
   "race_date": "2022-08-01",
   "stage": 3,
   "video": {
-    "video_id": "fL1hLT9LoNc",
-    "title": "Battle For The Podium | Tour De La Provence 2022 Stage 3 Highlights",
-    "published": "2022-02-13 17:04:27+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=fL1hLT9LoNc",
-    "match_score": 76.67,
+    "video_id": "W1ZcD0zZW38",
+    "title": "2022 Tour de Suisse - Stage 3 Highlights | Cycling | Eurosport",
+    "published": "2022-06-15 09:55:16+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=W1ZcD0zZW38",
+    "match_score": 75.0,
     "all_candidates": [
       {
-        "video_id": "fL1hLT9LoNc",
-        "title": "Battle For The Podium | Tour De La Provence 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-02-13 17:04:27+00:00",
-        "match_score": 76.67
+        "video_id": "W1ZcD0zZW38",
+        "title": "2022 Tour de Suisse - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2022-06-15 09:55:16+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "0dYzby-MCZI",
+        "title": "A sprinting legend returns | Tour de Suisse 2022 Stage 3 Highlights",
+        "published": "2022-06-14 18:13:35+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "-aMkpI4FDg0",
+        "title": "Step inside the pro peloton | Tour de Suisse 2022: Stage 3 On-Bike Highlights",
+        "published": "2022-06-14 19:53:46+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "P2SY45_Y59s",
+        "title": "Tour of Norway 2022: Stage 3 On-Bike Highlights",
+        "published": "2022-05-26 20:16:05+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
+      },
+      {
+        "video_id": "ujpCMpFe4dM",
+        "title": "Tour of Romandie 2022 - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2022-05-03 15:00:22+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "85Yhlepq24o",
+        "title": "Tour of the Alps 2022 - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2022-04-22 09:56:07+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "1S6KHv0_vTU",
+        "title": "UAE Tour 2022: Stage 3 On-Bike Highlights",
+        "published": "2022-02-22 18:32:24+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 71.67
       },
       {
         "video_id": "PxBF-gAI1BI",
         "title": "Reduced Bunch Sprint After Punchy Finale | Tour De Romandie 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
         "published": "2022-04-29 17:04:59+00:00",
-        "match_score": 76.67
-      },
-      {
-        "video_id": "b6aYipbilfw",
-        "title": "Nervous Finale Leads To Second Bunch Sprint | Tour De France 2022 Stage 3 Highlights",
         "channel": "GCN Racing",
-        "published": "2022-07-03 16:41:52+00:00",
-        "match_score": 76.67
-      },
-      {
-        "video_id": "eq-ErfDU2Gc",
-        "title": "A Long-Awaited Return To The Top Step! | Tour De Suisse 2022 Men's Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-06-14 16:37:39+00:00",
-        "match_score": 75.0
-      },
-      {
-        "video_id": "Zpqs8B5XFIk",
-        "title": "More High Speed Descents In The Alps! | Tour Of The Alps 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-04-20 14:15:28+00:00",
-        "match_score": 73.33
-      },
-      {
-        "video_id": "8xcndAT0HzI",
-        "title": "Crosswinds & Crashes Wreak Havoc | Saudi Tour 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-02-03 16:09:28+00:00",
-        "match_score": 73.33
-      },
-      {
-        "video_id": "UlvTsxW6MA8",
-        "title": "Over 55 Km/h On An Out & Back Time Trial | UAE Tour 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-02-22 16:43:53+00:00",
-        "match_score": 73.33
-      },
-      {
-        "video_id": "N4Spq--2FZs",
-        "title": "Torrential Rain & A Nail-Biting Finish! | Tour Of Britain 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-09-06 16:44:55+00:00",
-        "match_score": 71.9
-      },
-      {
-        "video_id": "tinUmoY88wE",
-        "title": "Breakaway Brilliance Leads To GC Shakeup | Tour Of Sicily 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-04-14 16:01:31+00:00",
+        "channel_id": "UCu7phdCr-raU7OaJfEpHZww",
         "match_score": 71.67
       },
       {
-        "video_id": "2Wf4WOw-H1w",
-        "title": "Can Anyone Beat Vos? | Tour Of Scandinavia 2022 Stage 3 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-08-11 18:02:05+00:00",
+        "video_id": "oLiXSybi9rA",
+        "title": "Pure joy and new leader! | 2022 Tour of Sicily - Stage 3 Highlights | Eurosport",
+        "published": "2022-04-14 16:47:19+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "5OWbwINrJk8",
+        "title": "GC Battle on Summit Finish | Tour of Norway 2022 Stage 3 Highlights",
+        "published": "2022-05-26 20:17:30+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 71.67
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 94,
+    "raw_chars": 3063,
+    "clean_chars": 3055,
+    "duration_mins": 4.1,
+    "clean_text": "the sun continued to shine over the hills of switzerland the tour de swiss moving on to day three and the race moving from ish to grenken just outside the national velodrome in the west of switzerland quite a bit of climbing to do the most so far in fact three thousand meters to climb but an opportunity perhaps with a flatter ending for a bunch sprint finish the ride is set off just after lunchtime and a really strong break yet again six riders up the road felicia bear in there the most dangerous at two minutes and two quinn simmons having a wonderful week and picking up more points in the king of the mountains competition totally anto riding for a sprint finish bahrain trying to keep philippe gilbert in check and stephan bisega attacking the rest of the breakaway they soon have him back but with 35 kilometers to go it wouldn't be long before he was off on another adventure the gap down at 49 seconds when he decided to go for ultimate climb of the day being taken on then he then extended that to 59 just over a minute before it started to calm down what's more that is bike exchange committed a man to the chase they were looking to set up michael matthews for a sprint finish bittig's adventure would be over inside the final 12 kilometers and as we came to the second intermediate sprint a surprise sprung by the ineos grenadiers luke rowe doing a great job to lead out garand thomas mark shachman was wise to it thomas taking three seconds two seconds going to sharkman who very briefly moved up into second overall thomas into the top five but then there'll be all sorts of incidents on the way in a messy setup a couple of crashes shachman caught out he would eventually move out of the top ten same for domenico pozovivo also caught out with a crash agonizingly just over a kilometer outside of the safe zone of three kilometers to go it was hectic up at the front all the way to the very end final corners were taken by anto malchie andrea posculon doing a great job for alexander kristoff but it would be peter sagan his team having ridden all day long him not having one in nine months no world tour win in over a year but the sprint launched the old power back and sustaining it to the line peter segan's win number 120 on the road one of his most important some thought they might not have seen him back at this level winning in this company again but peter sagan beat cookout christoph pitco trentine and the rest segan back handily just weeks before the tour de france stephen williams did a great job to hold on to the yellow jersey for a third successive day andreas kron moves up to second misfortune for shachman who drops out the top ten so the 26 year old man from wales and bahrain victorious continuing into the lead and this is what they'll be taking on stage four a trip around the lakes a couple of loops towards the end before a finish in brunen a flatter day however a big climb towards the end an intriguing prospect of a very very unpredictable finale stage four of the tour de swish will be live on gcn plus you",
+    "preview_start": "the sun continued to shine over the hills of switzerland the tour de swiss moving on to day three and the race moving from ish to grenken just outside the national velodrome in the west of switzerland quite a bit of climbing to do the most so far in fact three thousand meters to climb but an opportunity perhaps with a flatter ending for a bunch sprint finish the ride is set off just after lunchtime and a really strong break yet again six riders up the road felicia bear in there the most dangerou",
+    "preview_end": "jersey for a third successive day andreas kron moves up to second misfortune for shachman who drops out the top ten so the 26 year old man from wales and bahrain victorious continuing into the lead and this is what they'll be taking on stage four a trip around the lakes a couple of loops towards the end before a finish in brunen a flatter day however a big climb towards the end an intriguing prospect of a very very unpredictable finale stage four of the tour de swish will be live on gcn plus you"
+  },
+  "status": "transcript_saved"
 }

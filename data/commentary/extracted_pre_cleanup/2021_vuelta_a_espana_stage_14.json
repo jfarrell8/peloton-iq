@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BARDET Roman won from an 18-rider breakaway 9+ minutes clear, taking mountain points to claim KOM jersey on final Cat 1 climb.",
+    "winner": "BARDET Roman",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET Roman attacked for KOM points on first climb then saved energy for stage win, double objective execution.",
+      "18-rider breakaway given 10+ minutes suggests peloton accepted stage giveaway day before harder mountain stage tomorrow.",
+      "LOPEZ Miguel Angel attacked GC group on final climb solo, gaining ~20 seconds before ROGLIC Primoz late acceleration reduced gap.",
+      "EIKEN Odd Christian survived as red jersey holder riding at back of GC group, Jumbo-Visma controlled without overcommitting."
+    ],
+    "rider_signals": {
+      "BARDET Roman": "positive: Sprinted for KOM points early then stayed in break to win stage, showing both tactical awareness and recovery to finish climb.",
+      "LOPEZ Miguel Angel": "positive: Only GC contender to attack decisively on final climb, gaining time on ROGLIC despite late chase reducing margin.",
+      "ROGLIC Primoz": "neutral: Late acceleration clawed back most of LOPEZ's advantage but didn't chase full gas, preserving energy for tomorrow.",
+      "EIKEN Odd Christian": "positive: Defended red jersey hanging at back of GC group on Cat 1 finish despite team lacking mountain support.",
+      "KUSS Sepp": "positive: Did heavy lifting for Jumbo-Visma on final climb after long effort, enabling ROGLIC's late acceleration.",
+      "PIDCOCK Tom": "negative: Struggled near back of 18-rider breakaway on climb despite Olympic MTB form, positioning cost stage chance."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:18:00.792267+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 5",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-11",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked inside 10km on the Sarnano Sasotetto summit finish, distanced WOODS Michael and won solo by 35 seconds, taking race lead.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Simon attacked before final 3km where gradient eases, exploiting steeper lower slopes rather than false-flat finish.",
+      "VLASOV Aleksandr abandoned WOODS Michael to chase YATES alone, revealing NTT willingness to sacrifice race leader for GC.",
+      "BRAMBILLA Gianluca and MASNADA Fausto attacked early to soften field before YATES moved, classic Mitchelton team setup.",
+      "THOMAS Geraint sat on WOODS Michael's wheel refusing to pace, banking on bonus seconds over limiting losses."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked with enough margin that final 3km gradient ease didn't compromise advantage, superior pacing judgment",
+      "WOODS Michael": "negative: cracked when VLASOV attacked, couldn't follow any accelerations despite holding race lead with 10km remaining",
+      "VLASOV Aleksandr": "positive: strong enough to leave race leader and finish fourth at 49 seconds, prioritized own GC over team duty",
+      "THOMAS Geraint": "neutral: tactically refused to work for WOODS, secured 4 bonus seconds for second place, classic veteran positioning",
+      "MAJKA Rafał": "positive: limited losses to 35 seconds after initial difficulty, strong final 3km to secure podium and second overall",
+      "BRAMBILLA Gianluca": "neutral: early attack designed to soften field for YATES, team role rather than personal ambition",
+      "MASNADA Fausto": "neutral: covered BRAMBILLA attack early to disrupt rivals, finished sixth showing depth but not podium threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:32:42.352750+00:00"
+}

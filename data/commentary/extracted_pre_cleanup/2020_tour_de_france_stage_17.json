@@ -1,0 +1,37 @@
+{
+  "label": "2020 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-16",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LÓPEZ Miguel Ángel won from a reduced group after CARAPAZ attacked early on the Col de la Loze and URÁN cracked in the final kilometers.",
+    "winner": "LÓPEZ Miguel Ángel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bahrain team destructive pacing on Madeleine descent eliminated breakaway advantage five miles before summit, unconventional front-loaded aggression.",
+      "CARAPAZ attacked solo with 10 miles remaining, gap unsustained but forcing UAE/Jumbo to chase hard while LÓPEZ conserved energy.",
+      "ROGLIČ accelerated unnecessarily before Madeleine summit just to control descent positioning, revealing overcautious mindset despite already controlling race.",
+      "URÁN's irregular-gradient weakness exposed on Loze's steep kicks versus flat sections, losing 1:20 despite sitting 11 seconds back pre-stage."
+    ],
+    "rider_signals": {
+      "LÓPEZ Miguel Ángel": "positive: first Tour stage win on irregular-gradient climb, moved to 1:26 GC, high-altitude physiology advantage exploited perfectly",
+      "ROGLIČ Primož": "positive: extended GC lead from 40 to 57 seconds, shows defensive strength but unnecessary acceleration suggests nerves",
+      "POGAČAR Tadej": "neutral: lost only 15 seconds to ROGLIČ, took polkadot jersey, UAE now committed to jersey defense tomorrow",
+      "CARAPAZ Richard": "positive: solo attack at 10-mile mark, finished around 10th despite unsupported effort, strongest Ineos rider by far",
+      "URÁN Rigoberto": "negative: cracked on irregular gradients losing 1:20, motor unsuited to steep kicks with flat stretches, podium hopes damaged",
+      "KUSS Sepp": "positive: fourth place despite early work for ROGLIČ, exceptional climbing form on steep gradients",
+      "PORTE Richie": "positive: fifth at 1:01, solid result suggesting podium contention still viable",
+      "MAS Enric": "neutral: sixth place, consistently present in final group without threatening for stage",
+      "LANDA Mikel": "negative: team worked all day but finished 1:48 down, failed to capitalize on preparation",
+      "BENNETT Sam": "positive: beat SAGAN at intermediate sprint taking two-point gain, now 278 to 231 green jersey lead",
+      "SAGAN Peter": "negative: late positioning at intermediate sprint, cannot match BENNETT's acceleration when following",
+      "TRENTIN Matteo": "positive: jumped early at intermediate sprint showing superior positioning instincts",
+      "DUMOULIN Tom": "positive: top-10 finish supporting ROGLIČ on gradients that don't suit his motor",
+      "ALAPHILIPPE Julian": "neutral: joined early breakaway on Madeleine taking 15 KOM points, tactical presence only",
+      "MARTIN Dan": "neutral: early breakaway companion, 12 KOM points, no GC impact"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:35:43.569277+00:00"
+}

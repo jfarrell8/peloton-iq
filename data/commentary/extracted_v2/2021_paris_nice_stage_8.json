@@ -1,0 +1,27 @@
+{
+  "label": "2021 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-14",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC crashed twice (km 25 and on descent), lost yellow jersey while solo chasing, SCHACHMANN won GC by 52 seconds after DSM rode tempo when Jumbo-Visma emptied.",
+    "winner": "SCHACHMANN Maximilian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DSM accelerated tempo when Roglic crashed second time, forcing Jumbo domestiques to empty themselves pacing him back through crosswinds.",
+      "Roglic caught breakaway with 25m remaining on stage 7 summit finish, revealing excess form that vanished after stage 8 crashes.",
+      "Bennett attacked early in green jersey to help teammate Cattaneo on mountain stage, securing sprint points while Roglic absent.",
+      "Schachmann defended 2020 title without winning a stage, profiting from GC rival's mechanical misfortune rather than direct attacks."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: crashed twice in stage 8, first crash km 25 caused upper/lower thigh injuries that likely compromised descending for second crash",
+      "BENNETT Sam": "positive: willing to burn green jersey legs in mountain breakaway for teammate tactics, unconventional sprinter sacrifice play",
+      "MADER Gino": "positive: 24yo U23 Worlds 4th held off yellow jersey Roglic until final 25 meters on 16.3km summit finish",
+      "HINDLEY Jai": "neutral: DSM had Hindley available to support tempo when Roglic crashed but commentary suggests underutilization",
+      "DECLERCQ Tim": "neutral: nearly caused Roglic third crash while pacing him back, highlighting risk of using non-climbing domestique on technical descents"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:48:00.080081+00:00"
+}

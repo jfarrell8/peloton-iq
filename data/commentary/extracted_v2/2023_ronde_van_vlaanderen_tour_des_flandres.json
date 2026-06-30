@@ -1,0 +1,27 @@
+{
+  "label": "2023 Ronde van Vlaanderen - Tour des Flandres",
+  "race_name": "Ronde van Vlaanderen - Tour des Flandres",
+  "race_date": "2023-04-02",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked repeatedly on first Kwaremont-Paterberg pairing, dropped VAN DER POEL after chain unship, soloed 30+ seconds for victory",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR launched constant attacks on first Kwaremont-Paterberg pairing specifically to avoid sprint finish against VAN DER POEL",
+      "VAN DER POEL chased down quality 15-rider breakaway before favorites began attacking each other on climbs",
+      "PIDCOCK worked for GIRMAY after breakaway fractured, burning own chances despite being in leading group",
+      "Trek's PEDERSEN animated from breakaway to finish fourth, surviving favorite attacks after group splintered"
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: deliberately attacked early on first Kwaremont-Paterberg to eliminate sprint scenario, tactical maturity beyond prior fourth place",
+      "VAN DER POEL Mathieu": "negative: chain unship on crucial climb cost contact with POGACAR, couldn't close 15-second gap expanding to 30+",
+      "PIDCOCK Thomas": "neutral: strong enough for leading group but sacrificed own result for GIRMAY domestique work",
+      "PEDERSEN Mads": "positive: survived from 15-rider breakaway through favorite attacks to finish fourth, exceptional stamina",
+      "WOUT VAN AERT": "negative: Jumbo-Visma labeled strongest team pre-race but invisible in decisive moments, major underperformance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:53:19.491917+00:00"
+}

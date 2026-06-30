@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Does not initiate explosive attacks; instead rides calculated breakaway tempo to accumulate time gains. Prioritizes GC positioning over stage hunting when in podium contention.",
+  "team_tactics": "EF Education uses breakaways strategically for GC positioning rather than stage wins, willing to sacrifice victory chances to maximize overall classification gains through time accumulation.",
+  "terrain_preference": "Suited to medium-mountain stages where breakaway tempo can yield GC time. Exposed on hard category one finales and steep final climbs where pure climbing ability determines outcomes.",
+  "vulnerability": "Lacks explosive climbing power on category one finales and steep summit finishes. Gets distanced when pure climbers accelerate, revealing inadequate gradient resistance for sustained GC protection.",
+  "key_patterns": [
+    "Struggles on category one and steep final climbs, distanced twice in Vuelta observations",
+    "Uses breakaways for GC time accumulation rather than stage wins (Tour podium strategy)",
+    "Fades relative to stronger climbers in same breakaway groups on mountainous terrain",
+    "Protected as classification contender but lacks firepower to defend on hardest finales"
+  ],
+  "form_trajectory": "negative: consecutive Vuelta struggles on hard climbs suggest declining form or exposure at higher difficulty level compared to Tour podium performance",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MARTIN Guillaume",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Tour de France Stage 14"
+  ]
+}

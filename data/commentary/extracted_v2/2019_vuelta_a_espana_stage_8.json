@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-31",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ASAERTS Nikki won a chaotic wet finish after STEELS Stijn's late attack on slippery roundabouts was chased down in final 500m",
+    "winner": "ASAERTS Nikki",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana placed SANCHEZ in break while still protecting LOPEZ in peloton, hedging bets on break survival vs GC defense",
+      "STEELS attacked through technical wet roundabout with 500m left, exploiting big riders' caution but caught by sprinters' draft efficiency",
+      "Teams conceded 9+ minutes to break on transition stage before MTF, prioritizing crash avoidance over gap control",
+      "DE LA CRUZ as local rider attacked late but positioning through final corner negated earlier acceleration advantage"
+    ],
+    "rider_signals": {
+      "ASAERTS Nikki": "positive: sprinted seated in wet conditions for efficiency while others stood, tactical maturity from Sunweb rouleur",
+      "STEELS Stijn": "positive: timed attack for final wet roundabout exploiting height/handling advantage, nearly succeeded from non-sprinter profile",
+      "VAN DER SANDE Tosh": "positive: third place from breakaway showed Lotto positioning skills translate to reduced bunch sprints",
+      "SANCHEZ Luis Leon": "neutral: Astana's dual-track tactic placing him in break while protecting LOPEZ suggests team uncertainty about break survival",
+      "DE LA CRUZ David": "negative: local rider motivation couldn't overcome poor corner positioning despite late acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:10:27.671598+00:00"
+}

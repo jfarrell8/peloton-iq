@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-12",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "WILLIAMS Stephen won a reduced sprint after the breakaway was caught inside 5km, taking his first WorldTour victory on a selective lumpy finale.",
+    "winner": "WILLIAMS Stephen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange controlled for Matthews but couldn't prevent race from becoming too selective for pure sprinters like Sagan/Kristoff.",
+      "Ineos riders Porte/Fuglsang attacked before final uncategorized rise, forcing splits but couldn't hold off Williams' finishing speed.",
+      "Van Wilder leadout for Bahrain allowed Crom to position perfectly center, but Williams emerged from left to surprise."
+    ],
+    "rider_signals": {
+      "WILLIAMS Stephen": "positive: first WorldTour win shows he can survive selective climbs and still sprint against GC-type riders",
+      "SHACHMAN Max": "positive: strong second place suggests he's carrying form into Tour de France preparations",
+      "PINOT Thibaut": "negative: dropped on final uncategorized climb before finish, worrying sign for stage race ambitions",
+      "MARTINEZ Daniel Felipe": "negative: distanced on final rise despite being expected GC contender",
+      "VLASOV Aleksandr": "positive: positioned well in finale, showing good form after illness earlier in season",
+      "MATTHEWS Michael": "negative: BikeExchange's chase work failed as their sprinter couldn't survive the hills",
+      "VAN WILDER Ilan": "positive: tactical maturity leading out on selective finish shows Bahrain's team cohesion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:27:17.673473+00:00"
+}

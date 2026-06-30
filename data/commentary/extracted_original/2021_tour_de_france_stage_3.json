@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-28",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MELLIER Tim won a chaotic sprint from a 25-rider front group after a crash 150m from the line eliminated Ewan and Sagan.",
+    "winner": "MELLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix controlled finale despite van der Poel in yellow, delivered Phillips then Mellier won from reduced group.",
+      "Break caught inside final 10km on supposed sprint stage indicates high pace orchestrated by sprint teams.",
+      "Multiple crashes splintered peloton into 25-rider front group before finale, suggesting positioning errors by major sprint teams."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: retained yellow jersey and actively led out teammates Phillips/Mellier despite GC responsibilities",
+      "EWAN Caleb": "negative: caught in 150m-to-go crash, appeared seriously injured and possibly out of Tour",
+      "SAGAN Peter": "negative: caught in same final 150m crash, denied sprint opportunity from favorable front position",
+      "ROGLIC Primoz": "negative: lost time in finale crashes, dropped from top 10 GC on flat stage",
+      "THOMAS Geraint": "negative: early crash with dislocated shoulder put back in, lost 52 seconds despite teammate assistance",
+      "POGACAR Tadej": "negative: caught behind late crash, lost time on flat stage despite no mechanical issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:32:39.615567+00:00"
+}

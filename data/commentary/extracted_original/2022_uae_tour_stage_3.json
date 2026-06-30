@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 3",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-22",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BISSEGER Stefan won the 9km Ajman time trial by 7 seconds over GANNA, holding the hot seat for over an hour despite world champion starting late.",
+    "winner": "BISSEGER Stefan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BISSEGER held hot seat over one hour before GANNA started, suggesting weather conditions remained stable negating late-starter advantage.",
+      "POGACAR gained only 11 seconds on YATES in 9km, revealing minimal ITT differential before climbing stage.",
+      "DUMOULIN breaking 10-minute barrier post-layoff signals return to form, significant for future stage race GC threats."
+    ],
+    "rider_signals": {
+      "BISSEGER Stefan": "positive: EF punching above weight in short technical TTs, especially on dusty road surfaces requiring cornering precision",
+      "GANNA Filippo": "neutral: world champion losing to BISSEGER on 9km suggests distance too short for his sustained power advantage",
+      "POGACAR Tadej": "neutral: only 11-second gap to YATES in 9km reveals his GC cushion depends entirely on climbing stage",
+      "DUMOULIN Tom": "positive: breaking 10-minute mark post-extended layoff suggests full physical and mental recovery for GC contention",
+      "ALMEIDA João": "positive: second at 10:05 ahead of world champion signals underrated short TT capability for GC calculations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:56:46.367788+00:00"
+}

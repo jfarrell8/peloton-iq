@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late-race infiltrator who waits for the final kilometer to launch winning moves. Exploits positioning in established breakaways rather than initiating them.",
+  "team_tactics": "Operates with tactical freedom atypical for Dimension Data domestique role. Low team support observed, suggesting individual opportunism over coordinated setup.",
+  "terrain_preference": "Multi-terrain resilience demonstrated - survived early climbing difficulties yet strong enough to win sprint finishes from small groups. Suits transitional stages with mixed demands.",
+  "vulnerability": "Early climbs expose weakness, requiring recovery time. Fast sprinters in larger groups would likely overpower finishing speed. Depends on breakaway scenarios rather than controlled finishes.",
+  "key_patterns": [
+    "Infiltrates existing breakaways rather than initiating; waits for others to establish moves",
+    "Attacks inside final kilometer when positioned in small groups with slower sprinters",
+    "Shows recovery capacity within stage after early suffering on climbs"
+  ],
+  "form_trajectory": "positive: demonstrated unexpected resilience and tactical acumen with recovery from climb struggles to victory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FREIER Laurens",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 11"
+  ]
+}

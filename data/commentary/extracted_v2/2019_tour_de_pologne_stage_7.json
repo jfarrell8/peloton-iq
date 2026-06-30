@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2019-08-09",
+  "stage": 7,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked inside 3km on Gotthard Pass, distanced DENNIS by 23 seconds to extend GC lead before decisive TT stage.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERNAL attacked sub-3km on summit finish knowing TT deficit required banking time before Stage 8 ITT.",
+      "BAHR/Merida paced DENNIS in pursuit but couldn't close gap, revealing team TT preparation over summit support.",
+      "Movistar set pace entering final climb but couldn't sustain to defend BERNAL's lead, ceding to individual attack."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: attacked decisively inside 3km despite knowing he'd lose time in upcoming ITT, showing aggressive GC defense.",
+      "POZZOVIVO Domenico": "negative: dropped back from following BERNAL to pace DENNIS instead, revealing team hierarchy prioritization.",
+      "DENNIS Rohan": "neutral: required team pacing to limit losses on climb, confirming TT specialization over climbing strength.",
+      "FRANK Mathias": "positive: local rider survived solo to near-final 10km after attacking breakaway, showing superior climbing depth."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:01:17.984032+00:00"
+}

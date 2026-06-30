@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not typically initiate attacks; operates as a defensive climber who responds to others' moves and survives steep gradient finishes through steady pacing rather than explosive accelerations.",
+  "team_tactics": "Functions as protected rider with elite domestiques (Vingegaard/Roglič) setting tempo and controlling threats in closing kilometers; benefits from team's willingness to control race rather than needing to create own opportunities.",
+  "terrain_preference": "Steep gradient mountain finishes where pure climbing strength matters more than explosive power; struggles when required to produce own accelerations or ride independently without team support.",
+  "vulnerability": "Fragile margins when isolated from teammates; unable to match attacks when domestiques are unavailable; lacks ability to distance rivals through own offensive moves, relying instead on defensive survival.",
+  "key_patterns": [
+    "Requires elite teammates pacing in final kilometers rather than own offensive legs (2 observations)",
+    "Shows hidden climbing strength on steep gradients beyond traditional domestique role (2 observations)",
+    "Operates defensively rather than offensively, surviving attacks versus initiating them (2 observations)",
+    "Small winning margins indicate vulnerability when forced to race independently (2 observations)"
+  ],
+  "form_trajectory": "neutral: showed consistent climbing ability across 2020-2023 but 17-second margin in 2023 reveals ongoing dependence on team support",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SEPP Kuss",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 8",
+    "2023 La Vuelta Ciclista a Espana Stage 18"
+  ]
+}

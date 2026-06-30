@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-29",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won sprint finish in Geneva after BOHLI Tom's late solo attack was caught inside final kilometers",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BOHLI Tom attacked solo late mimicking prior border tactics, but Bora-hansgrohe remained disciplined and shut down panic",
+      "Education First-Drapac attempted opportunistic moves with no sprinter, revealing team willingness to gamble without designated finisher",
+      "Peloton acceleration into finale reduced breakaway gap from 90s to 30s in single click, indicating controlled chase not panic"
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: First pro win at 24 after multiple second/third places reveals maturation and sprint finishing power",
+      "BOHLI Tom": "positive: Strong enough to solo attack in finale despite being domestique, showing late-race opportunism",
+      "ROGLIČ Primož": "positive: Won tour by 8 seconds over BERNAL, maintaining gap through technical finale without incident",
+      "BERNAL Egan": "neutral: Second at 8 seconds confirms climbing strength but reveals inability to gain time on flat finale",
+      "PORTE Richie": "neutral: Third at 35 seconds, assured podium indicates consistent week but no stage-winning aggression shown"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:40:52.926551+00:00"
+}

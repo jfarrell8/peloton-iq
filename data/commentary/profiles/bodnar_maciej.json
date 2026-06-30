@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Launches long-range solo efforts (30+ km) at diesel tempo rather than explosive accelerations, timing attacks for TT-heavy stages or climbs where sustained power matters more than punchy accelerations. Holds tempo just below threshold to maintain 40-second gaps until final kilometers.",
+  "team_tactics": "Primary role is high-powered domestique forcing tempo on climbs to isolate rivals for team leader (Sagan). Sacrifices own chances to pace leader back from mechanicals. When given freedom, targets TT stages where team support is minimal.",
+  "terrain_preference": "Thrives on long time trials (9.5-30+ km) and sustained climbs requiring diesel power. Strong on penultimate climbs where tempo forcing isolates sprinters. Exposed on punchy/explosive finishes requiring repeated accelerations.",
+  "vulnerability": "Collapses dramatically in final 500m after long efforts, suggesting poor anaerobic capacity after sustained threshold work. Mechanicals requiring extended chasing burn sprint support capacity. Cannot sustain isolating tempo beyond single climbs.",
+  "key_patterns": [
+    "Executes 30+ km solo breakaways at time-trial power, maintaining gaps until final 500m collapse (2 instances)",
+    "Strong TT specialist finishing within 0.14 seconds of world champions in sub-10km efforts (2 instances)",
+    "Deploys as tempo-setter on penultimate climbs to isolate sprinters for team leader Sagan (2 instances)",
+    "Late-career peaking pattern: first Tour stage win at 32, maintaining TT form into mid-30s (3 instances)",
+    "Sacrifices personal positioning for team duties: pacing leaders back from mechanicals reduces own effectiveness (2 instances)"
+  ],
+  "form_trajectory": "neutral: Most recent 2020 observation shows continued tactical deployment but diminished impact (temporary isolation only). 2019 TT form remained elite-level, suggesting maintained diesel engine but reduced finishing punch.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BODNAR Maciej",
+  "built_from": [
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 20",
+    "2017 Tour de France Stage 20",
+    "2019 Tour de Suisse Stage 1",
+    "2019 Tour de Suisse Stage 1",
+    "2019 Tour de Suisse Stage 3",
+    "2020 Giro d'Italia Stage 13"
+  ]
+}

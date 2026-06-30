@@ -1,0 +1,32 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 7",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-28",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DE GENDT Thomas attacked MOHORIČ on the final climb ascent with 3km to go, dropped him on descent to win stage 7.",
+    "winner": "DE GENDT Thomas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MOHORIČ waited for DE GENDT after every descent drop instead of forcing selection, enabling final-climb counterattack vulnerability.",
+      "Movistar rode defensively with MAS pacing climbs despite VALVERDE needing bonus seconds, letting 5-minute break succeed with own riders.",
+      "BOUWMAN chased alone from breakaway remnants, reaching 1-minute deficit, preventing MOHORIČ from sitting on DE GENDT earlier.",
+      "Ineos used CARAPAZ as GC policeman after TT losses eliminated his own GC threat, critical domestique conversion pattern."
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: fifth Volta Catalunya stage win, decisive attack final climb with 3km remaining exploited MOHORIČ descent waiting tactics",
+      "MOHORIČ Matej": "positive: breakaway every stage showing Ardennes classics form but tactically passive waiting after descent gaps cost stage win",
+      "YATES Adam": "positive: first European WorldTour GC win, only 7-second TT loss to ALMEIDA massive improvement from 30-second UAE deficit",
+      "VALVERDE Alejandro": "positive: stage 3 climbing level impressive at 41, should have been Movistar sole GC focus not shared leadership",
+      "THOMAS Geraint": "positive: last-kilometer surges showing 2018 climbing level return, critical GC depth signal for Tour preparation",
+      "CARAPAZ Richard": "neutral: Giro champion relegated to domestique policing breaks after TT deficit, ate into MAS/CHAVES gaps on stage 4",
+      "KÄMNA Lennard": "positive: gained 3.5 minutes stage 4 while close on GC until Ineos domestiques ROWE/CASTROVIEJO/DENNIS shut down",
+      "BOUWMAN Koen": "positive: solo chase from breakaway remnants reached 1-minute gap, forced MOHORIČ to work against DE GENDT",
+      "MAS Enric": "neutral: paced all climbs for Movistar but team tactics prioritized defensive GC over VALVERDE stage/bonus offensive",
+      "PORTE Richie": "positive: only 6-second TT loss to ALMEIDA signals sustained GC level, second overall confirms Tour co-leadership viability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:16:53.285416+00:00"
+}

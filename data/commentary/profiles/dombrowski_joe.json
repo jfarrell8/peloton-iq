@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Attacks from established breakaways on final climbs rather than initiating moves from the pelon. Strikes with 1-2 climbs remaining when already in a reduced front group.",
+  "team_tactics": "Operates with limited team support, relying on breakaway cooperation rather than domestique-led setup. Positioned for stage hunting rather than GC protection.",
+  "terrain_preference": "Mountain stages with early breakaway opportunities and decisive final climbs. Strong on steep gradients at altitude. Vulnerable on flat, technical finishes where positioning matters.",
+  "vulnerability": "Positioning weakness on flat sprint stages leading to crash risk. Lacks team support for GC ambitions or controlling races. Requires breakaway formation to be effective.",
+  "key_patterns": [
+    "Wins from established breakaways, not solo attacks from peloton (Giro stage win)",
+    "Climbing form peaks in Grand Tours after extended stage-hunting campaigns (Giro 2021)",
+    "Crash risk on flat technical stages suggests poor positioning skills outside mountains",
+    "Operates as stage hunter rather than GC contender despite climbing ability"
+  ],
+  "form_trajectory": "positive: Rediscovered climbing form with first European win after years of trying, maintaining form into altitude stages",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DOMBROWSKI Joe",
+  "built_from": [
+    "2021 Giro d'Italia Stage 4",
+    "2021 Giro d'Italia Stage 4",
+    "2021 Giro d'Italia Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 3"
+  ]
+}

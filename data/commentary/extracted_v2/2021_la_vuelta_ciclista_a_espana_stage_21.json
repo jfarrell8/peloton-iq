@@ -1,0 +1,25 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 21",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-05",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won the ITT by 14 seconds over CORT NIELSEN Magnus, securing his third consecutive Vuelta title by 4:42 over MAS Enric.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Adam gained 29 seconds early in ITT before catastrophic second-half collapse, revealing unsustainable pacing strategy on rolling courses.",
+      "ROGLIC Primoz nearly went wrong way at critical junction but still beat CORT NIELSEN by 14s, suggesting course reconnaissance weakness.",
+      "HAGUE Jack successfully defended podium against YATES ITT attack despite inferior time trialling pedigree, validating 4-minute GC buffer calculation."
+    ],
+    "rider_signals": {
+      "YATES Adam": "negative: admitted second half was toughest he remembered after losing podium, suggesting poor ITT pacing discipline on rolling terrain",
+      "CORT NIELSEN Magnus": "positive: three stage wins then nearly won Stage 21 ITT, revealing exceptional post-effort recovery for multi-stage winners",
+      "HAGUE Jack": "positive: held third overall against specialist time triallist YATES despite GC pressure, showing improved ITT resilience",
+      "ARU Fabio": "neutral: retired during stage on own terms, making ceremonial final appearance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:44:13.248962+00:00"
+}

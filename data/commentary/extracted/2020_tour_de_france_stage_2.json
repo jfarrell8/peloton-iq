@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2020-08-30",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian attacked from a three-rider breakaway inside 2km after securing a 5-second bonus sprint, holding off HIRSCHI Marc and a charging peloton to win Stage 2 and take yellow.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TRENTIN Matteo beat SAGAN Peter in intermediate sprint, signaling unexpected climbing-sprint speed combination for green jersey threat.",
+      "COSNEFROY Benoît solo attacked for KOM points mid-climb while rivals watched each other, classic opportunistic mountain jersey tactic.",
+      "YATES Adam forced to lead final kilometer despite not wanting stage, showing bonification sprint tactics backfire when peloton closes.",
+      "Three-rider break left acceleration until under 2km when peloton closed to 16 seconds, cutting margin dangerously thin."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: won both bonification sprint (5sec) and stage from late break, showing form recovery after disappointing 2019 finale",
+      "HIRSCHI Marc": "positive: nearly caught ALAPHILIPPE in final sprint from three-rider break, revealing elite finishing speed on hilly stages",
+      "TRENTIN Matteo": "positive: out-sprinted SAGAN at intermediate, proving competitive for green jersey on punchy terrain",
+      "YATES Adam": "neutral: took 8-second bonus at intermediate sprint but forced to sacrifice energy leading final kilometer for breakaway companions",
+      "SAGAN Peter": "negative: lost intermediate sprint to TRENTIN on terrain that should suit him, concerning for green jersey defense",
+      "SIVAKOV Pavel": "neutral: started Stage 2 despite heavy bandaging from crashes both sides of body Stage 1, showing team commitment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:36:32.709295+00:00"
+}

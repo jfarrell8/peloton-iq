@@ -1,0 +1,31 @@
+{
+  "label": "2020 Paris - Nice Stage 7",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-14",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo attacked with 4km remaining on final climb to win the stage while SCHACHMANN Maximilian defended yellow by limiting BENOOT Tiesj's gap to 47 seconds.",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SCULLY Tom paced peloton while teammate BETTIOL Alberto sat passive in break, revealing EF's dual-card strategy with HIGUITA Sergio.",
+      "BENOOT Tiesj's late solo chase forced HIGUITA Sergio to work for EF, inadvertently protecting SCHACHMANN's yellow jersey by controlling tempo.",
+      "ANACONA Winner led out QUINTANA Nairo before QUINTANA Dayer contributed, showing Arkéa coordinated sibling support despite Dayer lacking GC ambitions.",
+      "DE GENDT Thomas shed ALAPHILIPPE Julian before final climb despite break cooperation, suggesting he monitored power profiles to time acceleration."
+    ],
+    "rider_signals": {
+      "BENOOT Tiesj": "positive: Chased alone for GC, finishing 47 seconds down with 12-second deficit to yellow—calculated high-risk TT specialist climbing effort nearly succeeded.",
+      "SCHACHMANN Maximilian": "positive: Defended 36-second lead by limiting BENOOT to 12-second final gap despite having no teammates, showing mature isolated defense.",
+      "QUINTANA Nairo": "positive: Bounced back from stage 2 crash to attack at 4km, never caught—aggressive timing suggests confidence restored midweek.",
+      "HIGUITA Sergio": "negative: Chased for own ambitions but inadvertently helped rival SCHACHMANN by controlling BENOOT's dangerous move—tactical awareness lapse.",
+      "BETTIOL Alberto": "neutral: Refused to work in break while SCULLY paced behind, confirming teams accept passenger status when protecting GC card elsewhere.",
+      "DE GENDT Thomas": "positive: Dropped ALAPHILIPPE before climb despite break collaboration, revealing selective workload management preserved climbing legs.",
+      "SWIFT Connor": "positive: QUINTANA Nairo pointed to him post-stage, confirming domestique flat protection freed climber's energy—invisible work acknowledged.",
+      "KANGERT Tanel": "neutral: Finished 8th GC for EF after protected ride, showing team prioritized dual GC threats over single leadership.",
+      "KRAGH ANDERSEN Søren": "positive: Top-10 GC after winning ITT, confirming TT specialists can defend losses better than pure climbers on reduced mountain stages."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:30:44.042121+00:00"
+}

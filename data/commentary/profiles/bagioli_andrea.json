@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Excels at perfectly timed late attacks (3-4km to go) on rolling/selective terrain, often capitalizing on hesitation or after sustained tempo has reduced groups. Shows opportunistic instincts rather than long-range moves.",
+  "team_tactics": "Operates with minimal leadout support, relying on individual positioning and tactical awareness rather than structured team setups. Benefits when other teams (INEOS, Jumbo) control pace through tempo grinding.",
+  "terrain_preference": "Rolling circuits and selective finishes that eliminate pure sprinters but don't require sustained climbing. Monument-level one-day parcours suit him better than mountain stages. Exposed on pure GC mountain efforts.",
+  "vulnerability": "Requires reduced bunch scenarios created by others' work; less effective when forced to control races himself. Limited effectiveness against pure climbers on extended ascents or pure sprinters with intact trains.",
+  "key_patterns": [
+    "Attacks in final 3-4km after tempo grinding reduces groups (Catalunya 3.5km, following patterns)",
+    "Excels following stronger climbers' moves then out-positioning them in finale (Roglič move, Lombardia chase)",
+    "Performs best when GC teams/others police race, allowing opportunistic positioning (Dauphiné, Catalunya INEOS tempo)",
+    "Monument/one-day capacity demonstrated without team leadership burden (Lombardia 2nd, Catalunya win)",
+    "Can finish fast from reduced groups without leadout support (Vuelta sprint second)"
+  ],
+  "form_trajectory": "positive: 2023 Lombardia podium from chase group shows sustained Monument-level capacity, building on 2022 Catalunya win and aggressive stage racing",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "BAGIOLI Andrea",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2022 Criterium du Dauphine Stage 6",
+    "2022 Criterium du Dauphine Stage 6",
+    "2022 Volta Ciclista a Catalunya Stage 7",
+    "2022 Volta Ciclista a Catalunya Stage 7",
+    "2023 Il Lombardia"
+  ]
+}

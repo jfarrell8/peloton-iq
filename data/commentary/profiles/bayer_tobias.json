@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches strong solo moves over final climb crests, attempting to establish gaps before organized chase begins. Attacks at high tempo (25km/h on climbs) without waiting for group fracturing.",
+  "team_tactics": "Operates without adequate support riders; goes solo without domestique positioning or team tempo control to soften opposition beforehand.",
+  "terrain_preference": "Summit finishes and technical descents following climbs where solo strength can create separation. Struggles on flat run-ins where organized teams can chase efficiently.",
+  "vulnerability": "Exposed when organized teams coordinate pursuit after solo moves; lacks team support to sustain or defend advantages in final circuits or flat approaches to finish.",
+  "key_patterns": [
+    "Attacks over climb summits rather than mid-ascent, timing moves for descent advantage.",
+    "Solo efforts without team support structure, relying purely on individual strength.",
+    "Gets absorbed before finish when organized teams deploy chase tactics systematically."
+  ],
+  "form_trajectory": "unknown: single observation shows strong climbing legs and tactical ambition, but insufficient data to assess progression",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BAYER Tobias",
+  "built_from": [
+    "2023 Criterium du Dauphine Stage 2",
+    "2023 Criterium du Dauphine Stage 2"
+  ]
+}

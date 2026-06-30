@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not an attacker profile. Functions as sprinter/leadout specialist who can hold position in moderate time trials but lacks climbing durability for stage race GC defense.",
+  "team_tactics": "Primary role as leadout domestique for team leaders (Sagan). When in unexpected GC position, receives minimal team support as squad prioritizes designated leaders (Kelderman).",
+  "terrain_preference": "Flat to rolling stages and time trials show competence. Exposed on sustained climbs, particularly late in stage races where cumulative fatigue undermines any GC ambitions.",
+  "vulnerability": "Late-race climbs after minimal team support; physical durability issues (bee sting DNF); loses GC position when team refuses to defend jersey in favor of designated leader.",
+  "key_patterns": [
+    "Operates as leadout/domestique for Bora sprinters, not protected rider (2 instances)",
+    "Unexpected TT resilience allows brief GC competitiveness against specialists (1s margin held)",
+    "Team abandons his GC defense when conflicts with designated leader strategy (Kelderman priority)",
+    "Fades on late climbs, confirming sprinter physiology limits stage race ambitions"
+  ],
+  "form_trajectory": "neutral: 2021 showed surprising TT competence but predictable climbing limitations. Role remains domestique, not evolution toward GC contention.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "POSTELBERGER Lukas",
+  "built_from": [
+    "2020 Tour de France Stage 19",
+    "2021 Criterium du Dauphine Stage 4",
+    "2021 Criterium du Dauphine Stage 6"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Attacks over mountain summits with 5-10km descents remaining, exploiting superior descending skills rather than pure climbing power. Opportunistic rather than sustained power-based attacks.",
+  "team_tactics": "Relies on high-altitude domestique pacing (Carapaz) when defending position, but team support appears limited when attacking. Positioned as protected GC rider within Ineos hierarchy.",
+  "terrain_preference": "Alpine stages with technical descents after summits strongly favor him. Exposed on sustained steep climbs when race intensifies and on long gravel/classics terrain requiring endurance power.",
+  "vulnerability": "Time trials cost critical GC positions (5 seconds from podium in 2023). Third-week fade pattern evident with significant drops on penultimate stages. Cannot follow when elite climbers accelerate.",
+  "key_patterns": [
+    "Descending superiority over pure climbers creates stage-winning opportunities (Tour 2023 alpine stage win)",
+    "Third-week collapse pattern: significant GC losses on penultimate stages in multi-week races (2x)",
+    "Consistently performs above expectations early/mid-race but fades when racing intensifies (4 observations)",
+    "Time trial weakness costs podium positions despite strong mountain performance (5-second podium loss)",
+    "Cannot match accelerations of top-tier climbers on steepest gradients, last dropped from elite groups"
+  ],
+  "form_trajectory": "neutral: 2023 showed improved stage-race resilience versus 2022 collapse, but persistent TT/third-week weaknesses limit GC ceiling",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "RODRIGUEZ Carlos",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 18",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 Strade Bianche",
+    "2023 Tour de France Stage 14",
+    "2023 Tour de France Stage 14",
+    "2023 Tour de France Stage 15",
+    "2023 Tour de France Stage 16",
+    "2023 Tour de France Stage 5",
+    "2023 Tour de France Stage 6",
+    "2023 Tour de France Stage 9"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Does not typically initiate attacks; instead positions intelligently in early splits (crosswinds, strategic breaks) then uses superior fitness to emerge from chase groups in final kilometers.",
+  "team_tactics": "INEOS deploys controlled, tempo-based finale strategy with van Baarle positioned to capitalize after team control work; benefits from crosswind splitting tactics ingrained from Sky/Ineos schooling.",
+  "terrain_preference": "Cobbled classics and exposed crosswind sections where team control and positioning trump pure explosive power; shows surprising climbing range for sustained efforts on summit finishes.",
+  "vulnerability": "Not a pure sprinter—relies on attrition and selection before final; team confusion or compromised sprint trains leave him without clear role (Tour de Pologne example).",
+  "key_patterns": [
+    "Emerges from chase groups rather than initiating moves, using endurance advantage (Paris-Roubaix, Flanders)",
+    "Executes INEOS crosswind tactics with tactical savvy from Sky/Ineos background (Vuelta, Paris-Roubaix)",
+    "Shows climbing range beyond typical classics profile, effective on sustained mountain efforts (Paris-Nice)",
+    "Benefits from team-controlled finales where positioning trumps explosive power (Paris-Roubaix victory)"
+  ],
+  "form_trajectory": "positive: dramatic progression from 2021 time-cut elimination at Paris-Roubaix to 2022 Monument victory; elevated from domestique to race-winning leadership roles across 2021-2022",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "VAN BAARLE Dylan",
+  "built_from": [
+    "2020 Tour de Pologne Stage 1",
+    "2021 Paris-Nice Stage 7",
+    "2021 Ronde van Vlaanderen - Tour des Flandres",
+    "2021 Vuelta a Espana Stage 6",
+    "2022 Paris-Roubaix",
+    "2022 Paris-Roubaix"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-12",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "MOSCON Gianni attacked from bottom of final climb to Munluo, soloed to victory taking overall race lead from sprinter JAKOBSEN",
+    "winner": "MOSCON Gianni",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo and EF paced entire stage to position climbers perfectly at base, preventing late breakaway success.",
+      "Moscon attacked immediately at climb base before selection occurred, exploiting peloton hesitation during positional chaos.",
+      "Sky isolated Moscon alone rather than deploying domestiques, gambling single strong rider better than team control."
+    ],
+    "rider_signals": {
+      "MOSCON Gianni": "positive: soloed 1.75km climb after attacking from bottom, suggesting post-Worlds form peak despite admitting season fatigue",
+      "URAN Rigoberto": "negative: marked as EF's protected climber but crossed KOM behind Moscon, suggesting diminished climbing legs late-season",
+      "GROSSSCHARTNER Felix": "positive: second place suggests unexpected climbing form for rider not typically featured as GC threat",
+      "KUNG Stefan": "neutral: animated breakaway but role appears purely as stage animation, dropped before decisive climbing began"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:35:29.387943+00:00"
+}

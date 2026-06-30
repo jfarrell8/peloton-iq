@@ -1,0 +1,26 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-11",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CICONE Giulio soloed from breakaway over Col du Port with 3km to go, held off VINGEGAARD by 23 seconds on technical descent to finish",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CICONE attacked breakaway partner Alaphilippe final 3km Col du Port, prioritizing descent advantage over summit cooperation.",
+      "CASTRO VIEJO bridged 90-second gap from peloton to breakaway on beyond-category climb, showing Ineos commitment to stage hunting.",
+      "VINGEGAARD personally led out LAPORTE in stage 1 sprint despite GC leadership, revealing team confidence in already-secured race control."
+    ],
+    "rider_signals": {
+      "CICONE Giulio": "positive: exploited Alaphilippe's early breakaway work then dropped him with 3km climbing, held descending gap against charging GC riders",
+      "ALAPHILIPPE Julian": "neutral: had legs for 120km breakaway aggression from 7th overall but cracked when Cicone attacked final 3km climb",
+      "CASTRO VIEJO Jonathan": "positive: bridged 90-second gap solo from peloton to breakaway on beyond-category climb, though later dropped before finale",
+      "BERNAL Egan": "positive: commentary noted performance 'subpar' by pre-crash standards but strong for comeback trajectory, improving through race",
+      "PEDRERO Antonio": "negative: attacked penultimate climb aggressively but lacked legs to follow Cicone, couldn't sustain effort to finale",
+      "O'CONNOR Ben": "positive: climbed to podium position while Yates, Hindley finished close, suggesting genuine GC form not just diesel consistency"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:37:00.244771+00:00"
+}

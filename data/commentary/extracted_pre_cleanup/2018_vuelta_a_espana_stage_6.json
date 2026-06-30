@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-30",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won from a late split caused by street furniture crash, capitalizing after VIVIANI Elia lost position in the finale",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky and EF Education First preemptively moved to front before street furniture zone, protecting GC riders from crash splits",
+      "Quick-Step attempted late leadout for VIVIANI but he became disengaged in final 200m, highlighting positioning fragility in chaotic sprints",
+      "TRENTIN exploited VIVIANI's dislocation after crash-induced split gave breakaway survivors better positioning than pure sprint trains"
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: veteran awareness to capitalize when primary sprinter loses position; won from non-ideal split situation",
+      "VIVIANI Elia": "negative: lost crucial positioning in final despite being in right split group; leadout disconnection cost certain victory",
+      "FELLINE Fabio": "negative: crashed in street furniture zone, removing SAGAN's key leadout man before finale",
+      "LAENGEN Vegard Stake": "negative: caught in crash group and burned excessive power to rejoin, compromising stage role for UAE",
+      "BENNETT George": "positive: safely positioned in front group before crash split, showing improved tactical awareness for GC protection",
+      "URÁN Rigoberto": "positive: EF working on his behalf suggests strong form; team positioning him defensively before danger zones"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:49:42.543095+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-08",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD Jonas attacked with 3km remaining on final climb summit, soloed to victory while BJERG crashed helping him and BERNAL attacked pursuit unsuccessfully.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Soudal-QuickStep chased hard early to control break for ALAPHILIPPE sprint, then reversed tactics on final climb showing team flexibility.",
+      "VINGEGAARD attacked exactly at summit transition point with 3km to climb, exploiting moment when chasers hesitate before descent.",
+      "BJERG crashed while protecting VINGEGAARD from counter-moves, suggesting Jumbo willing to sacrifice second GC card for stage win.",
+      "BERNAL attacked descent alone refusing group cooperation, tactical error that allowed organized chase group to limit losses."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: attacked summit with authority while rivals marked each other, showing confidence to go long solo effort",
+      "BJERG Mikkel": "negative: crashed while blocking for VINGEGAARD during gear malfunction incident, compromising his own GC position",
+      "ALAPHILIPPE Julian": "positive: finished second after chasing hard suggests climbing form returning beyond expected sprint-only role",
+      "BERNAL Egan": "neutral: strongest descender who attacked alone but lacked cooperation skills to make decisive gap stick",
+      "CARAPAZ Richard": "positive: bridged to VINGEGAARD on climb showing resurgent form but lacked firepower to sustain counter",
+      "O'CONNOR Ben": "neutral: mechanical in final 3km saved by commissaire ruling, masked whether he had legs to follow",
+      "LATOUR Pierre": "negative: losing massive time on descents while climbing normally suggests psychological or injury issue with technical sections"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:36:24.241931+00:00"
+}

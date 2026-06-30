@@ -1,0 +1,27 @@
+{
+  "label": "2020 BinckBank Tour Stage 1",
+  "race_name": "BinckBank Tour",
+  "race_date": "2020-09-29",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper held his sprint until final 100m while chaos from 4.3km crash scattered favorites, winning with tactical restraint over early-committing rivals.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN POPPEL Danny sprinted first at 100m mark, forcing ACKERMANN to commit early—leaving space for PHILIPSEN's late jump.",
+      "Golden kilometer bonus seconds at three sprints compressed together rewarded aggressive positioning before the decisive late-race crash.",
+      "4.3km crash splitting peloton suggests front positioning before final circuit laps is mandatory on narrow wet technical finales.",
+      "VAN AERT Wout and LAMPAERT Yves taking bonus seconds in golden kilometer reveals QuickStep willing to burn matches early."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: showed restraint discipline waiting until 100m while rivals committed early in messy sprint",
+      "ACKERMANN Pascal": "negative: marked VAN POPPEL's first jump but lacked acceleration to counter PHILIPSEN's late timing",
+      "CAVENDISH Mark": "positive: actively contesting golden kilometer bonus seconds suggests competitive sharpness beyond stage hunting",
+      "VAN AERT Wout": "neutral: took bonus seconds in golden kilometer but positioning at 4.3km crash suggests misjudged risk window",
+      "HAAS Nathan": "negative: caught behind 4.3km crash as biggest GC casualty indicates poor peloton positioning anticipation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:10:57.038440+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Opportunistic rather than explosive; attacks from breakaways on steep finales (Vuelta 2022) or bridges solo on penultimate climbs (Flèche Wallonne 2020). Rarely initiates attacks on final climbs, preferring to follow wheels then finish strongly.",
+  "team_tactics": "EF Education team shows recurring positioning failures: multiple crashes within 5km (2018 Tour), slow bike changes losing 3 minutes (2018 Tour), and echelon gaps (2019 Tour). When executing, uses tempo control but Uran conserves energy rather than contributing to pace.",
+  "terrain_preference": "Steady-gradient climbs suit his diesel motor. Exposed by irregular profiles with steep kicks then flat sections (Col de la Loze 2020). Time trial competent (top-10 2021 Tour) but not a strength versus pure climbers.",
+  "vulnerability": "Team positioning failures leave him exposed to crashes and echelons; lost 2+ minutes in echelon stage 10 (2019 Tour), crashed from teammate wheel touch (2019 Vuelta). Cannot respond to explosive accelerations on irregular gradients with sudden steep sections.",
+  "key_patterns": [
+    "Minimal work contribution during tempo phases, conserving energy for final efforts (2021 Tour, 2017 Tirreno)",
+    "Vulnerable to team positioning errors: crashes, slow bike swaps, echelon gaps cost 2-3 minutes repeatedly",
+    "Late-race resilience: halved GC deficit Vuelta 2022 at age 35, consistent podium 2020 Tour",
+    "Crumbles on irregular gradients with steep kicks, thrives on steady tempo climbs (2020 Tour evidence)",
+    "Tactical composure under adversity: won with broken derailleur 2017, solo bridge 2020 Flèche Wallonne"
+  ],
+  "form_trajectory": "positive: At age 35 in 2022 Vuelta, won from breakaway and halved GC deficit to reach top-10, demonstrating late-career resurgence after 2019-2021 decline marked by echelon gaps and podium losses",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "URAN Rigoberto",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 4",
+    "2017 Tour de France Stage 18",
+    "2017 Tour de France Stage 9",
+    "2017 Tour de France Stage 9",
+    "2018 Tour de France Stage 4",
+    "2018 Tour de France Stage 9",
+    "2018 Tour de Suisse Stage 4",
+    "2018 Tour of Guangxi Stage 4",
+    "2019 Tour de France Stage 10",
+    "2019 Tour de France Stage 15",
+    "2019 Vuelta a Espana Stage 4",
+    "2020 La Fleche Wallonne",
+    "2020 Tour de France Stage 15",
+    "2020 Tour de France Stage 17",
+    "2020 Tour de France Stage 17",
+    "2021 Tour de France Stage 17",
+    "2021 Tour de France Stage 8",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 La Vuelta ciclista a Espana Stage 17"
+  ]
+}

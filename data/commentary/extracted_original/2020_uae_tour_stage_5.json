@@ -1,0 +1,26 @@
+{
+  "label": "2020 UAE Tour Stage 5",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-27",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won the sprint finale on Melbourne city circuits after teammate SMITH Dion led out, taking his second stage victory of the tour.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINE Jay exploited intermediate sprints to leapfrog GC positions, securing fifth overall without contesting final sprint or breakaways.",
+      "Team Mitchelton's dual-threat sprint setup let SMITH Dion lead out then celebrate second while GROVES still won dominantly.",
+      "HILL Ben's daily breakaway participation mathematically locked points jersey without stage wins, showing volume strategy over peak performance.",
+      "Breakaway on fast criterium circuits stalled at 35 seconds for final 30km, suggesting crit racing makes time gaps unsustainable."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: Gaming intermediate sprints for GC placings reveals tactical maturity beyond just following wheels in finale",
+      "DAINESE Alberto": "negative: Getting caught 50th in position on predictable criterium sprint finish exposes positioning weakness in technical circuits",
+      "BERWICK Sean": "negative: Caught wrong side of split on final stage despite holding second overall suggests late-race concentration lapse",
+      "SMITH Dion": "positive: Had enough margin to celebrate before line while finishing second indicates team sprint dominance was overwhelming"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:24:57.409835+00:00"
+}

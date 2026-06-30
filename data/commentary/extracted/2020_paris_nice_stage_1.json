@@ -3,24 +3,26 @@
   "race_name": "Paris - Nice",
   "race_date": "2020-03-08",
   "stage": 1,
-  "channel": "GCN Racing",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "SCHACHMANN Max won from reduced group after ALAPHILIPPE Julian's 50km breakaway attempt with SOLER exhausted him before final kilometer",
-    "winner": "SCHACHMANN Max",
-    "commentary_quality": "moderate",
+    "one_line_summary": "SCHACHMANN won from a late 4-rider split after BENOОТ and ALAPHILIPPE animated on the penultimate climb with 28km remaining.",
+    "winner": "SCHACHMANN Maximilian",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "Alaphilippe attacked at intermediate sprint with Soler, bridged 20+ seconds gap, but burned matches before finale allowing Schachmann win.",
-      "Seven absent teams created coordination vacuum enabling persistent splits from 50km out; EF/Trek forced prolonged chase without domestiques.",
-      "Bora delivered Schachmann to front group despite Sagan weakness, showing GC rider prioritization over depleted sprint train."
+      "BENOОТ initiated decisive split with ALAPHILIPPE on final climb at 28km, establishing winning group before sprint finish.",
+      "TEUNS chased solo from peloton to bridge to lead group, demonstrating climbing domestique can contest finale in scattered conditions.",
+      "Trek-Segafredo lost race leader PORTE in early echelon split, exposing team's deficit in wind positioning despite stage race ambitions."
     ],
     "rider_signals": {
-      "ALAPHILIPPE Julian": "negative: burned himself attacking 30km out for bonus seconds, had nothing left when group caught him in final kilometer",
-      "SCHACHMANN Max": "positive: positioned perfectly on Teunissen wheel with 150m out, suggesting superior race reading when strongest riders emptied",
-      "SAGAN Peter": "negative: explicitly noted as not looking himself, Bora ignored him entirely for Schachmann GC ambitions",
-      "PORTE Richie": "negative: caught out in split at 50km despite predictable wind/terrain, poor positioning for supposed GC contender",
-      "NIBALI Vincenzo": "negative: also caught in 50km split alongside Porte, raises questions about Trek's front-of-race awareness"
+      "SCHACHMANN Maximilian": "positive: outsprinted ALAPHILIPPE from 4-rider finale despite sitting on through decisive climb, indicating exceptional positioning discipline",
+      "ALAPHILIPPE Julian": "neutral: animated race on final climb but lost sprint, suggesting early-season form insufficient for usual explosive finishing power",
+      "BENOOT Tiesj": "positive: initiated winning split on final climb 28km out, demonstrating classics-style aggression translates to hilly stage racing",
+      "TEUNS Dylan": "positive: bridged solo from peloton to lead group after missing initial split, showing climbing strength beyond pure domestique role",
+      "BARGUIL Warren": "negative: abandoned after crash at 100km mark despite attempting to continue, raising durability concerns for stage race objectives",
+      "PORTE Richie": "negative: caught out in early echelon split, confirming vulnerability to crosswind positioning despite two prior race victories",
+      "BILBAO Pello": "neutral: attacked from peloton on penultimate climb but absorbed into lead group without dictating pace"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:23:03.106076+00:00"
+  "extracted_at": "2026-06-28T22:28:58.697651+00:00"
 }

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter who waits for final 200-300m in bunch sprints. Not an attacker—relies entirely on leadout delivery and positioning through chaotic final kilometer compressions.",
+  "team_tactics": "Dependent on UAE/QuickStep leadout trains with dedicated pilot (Richeze mentioned). Struggles when disconnect occurs between his positioning instincts and team setup. Requires clean, organized leadouts to perform.",
+  "terrain_preference": "Flat bunch sprint stages with organized finales. Exposed on any gradient or pace increases before sprint—even controlled tempo at 25km out causes him to be dropped. Needs pure flat power finishes.",
+  "vulnerability": "Messy sprint positioning in crashes/traffic (taken out in final km). Drops easily on any tempo increase well before finale. Struggles to self-position when team setup fails—follows wrong wheels despite leadout work.",
+  "key_patterns": [
+    "Positioning vulnerability in chaotic sprints: taken out or follows wrong wheels (3 observations)",
+    "Form-dependent: capable of podiums when sharp, but drops on moderate pace increases when off (3 observations)",
+    "Leadout disconnect: struggles to convert even when team does setup work correctly (2 observations)",
+    "Cannot handle any gradient or pace lift: dropped 25km out on control pace (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2022 Giro showed return to form with podium, but positioning errors and leadout disconnects persist despite improved legs, suggesting technical rather than fitness issues remain",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "GAVIRIA Fernando",
+  "built_from": [
+    "2017 Giro d'Italia Stage 12",
+    "2019 Vuelta a Espana Stage 3",
+    "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 3",
+    "2022 Giro d'Italia Stage 6"
+  ]
+}

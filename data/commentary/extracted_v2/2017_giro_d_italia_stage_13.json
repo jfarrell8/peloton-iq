@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-19",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won from behind on downhill finish after POZZATO attacked solo with 3.5km remaining and BENNETT lost leadout train.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POZZATO attacked 3.5km out for leadout disruption not stage win, forcing rival trains to chase and fracture.",
+      "BENNETT's Bora leadout started too early on pan-flat stage, leaving sprinter isolated before final 600m turn.",
+      "GAVIRIA exploited downhill final 300m where comebacks typically fail, winning from worse position by holding momentum through descent."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: Fourth stage win in first Grand Tour at age 22 shows exceptional race maturity and finishing speed.",
+      "MORLAT Jakob": "neutral: Second runner-up finish suggests consistent sprint speed but tactical positioning issues in final 200m.",
+      "THOMAS Geraint": "negative: DNS after already being off GC pace indicates deeper fatigue/injury issues than Sky initially admitted.",
+      "POZZATO Filippo": "neutral: Long-range spoiler attack 3.5km out demonstrates domestique willing to sacrifice for MORLAT positioning rather than pure showboating.",
+      "CALEB Ewan": "negative: Lost leadout train and taken to barriers shows vulnerability in chaotic finishes despite having team support."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:55:34.764679+00:00"
+}

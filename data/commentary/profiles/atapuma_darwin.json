@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Breakaway specialist who commits early on long, steady climbs rather than explosive final ascent attacks. Struggles to finish when gradients exceed 2000m altitude or require punchy accelerations in final kilometers.",
+  "team_tactics": "Deployed as expendable domestique to support protected climbers (Chaves), willing to be sacrificed before final climbs to set tempo or test rivals. Used in breakaway reconnaissance rather than GC protection.",
+  "terrain_preference": "Long, sustained alpine climbs with steady gradients (e.g., Izoard) where endurance trumps explosive power. Exposed on technical descents, first-bend positioning, and high-altitude finishes above 2000m requiring repeated accelerations.",
+  "vulnerability": "Poor bike handling on technical courses causing crashes in pressured situations. Lacks finishing punch on steep final ascents after bridging efforts. Cannot follow explosive accelerations at high altitude.",
+  "key_patterns": [
+    "Dropped on final steep ascents after bridging/pacing efforts; lacks finishing punch (2 instances)",
+    "Strong in long breakaways on steady climbs until final kilometer pressure applied (2 instances)",
+    "Technical/handling weaknesses: crashes and positioning errors in bunch scenarios (2 instances)",
+    "Used as expendable support rider rather than protected climber in Grand Tours (2 instances)"
+  ],
+  "form_trajectory": "negative: Crash liability early in Vuelta, then repeatedly dropped on final climbs despite bridging capacity, suggests declining explosiveness through August 2017",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "ATAPUMA Darwin",
+  "built_from": [
+    "2017 Tour de France Stage 18",
+    "2017 Vuelta a Espana Stage 1",
+    "2017 Vuelta a Espana Stage 11",
+    "2017 Vuelta a Espana Stage 17"
+  ]
+}

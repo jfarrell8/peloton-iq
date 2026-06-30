@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-07",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won stage 1 sprinting from 200m out after QuickStep controlled the entire technical finale, SAGAN Peter second unable to close a 3-bike-length gap.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "QuickStep deployed five riders in final 1.5km on technical finish, owning front throughout stage to neutralize sprint rivals completely.",
+      "GAVIRIA took intermediate sprint fourth place, gaining 26-point green jersey lead over SAGAN before stage finish—points jersey strategy prioritized early.",
+      "Technical finale geometry favored front position so heavily that SAGAN's three-bike-length deficit at 200m became insurmountable despite pure speed parity.",
+      "FROOME Chris crashed inside 5km safe zone but still lost 1:01, suggesting speed/positioning into technical section trumps crash protection rule."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: Won with three-length margin from 200m after taking intermediate sprint points, showing both tactical awareness and stage-winning speed reserve.",
+      "SAGAN Peter": "neutral: Second place despite Bora positioning him closest to GAVIRIA at sprint launch, acknowledging winner's superiority post-finish suggests speed deficit not tactics.",
+      "FROOME Chris": "negative: Lost 1:01 after crash inside 5km despite time protection rule, revealing poor positioning into technical finale for GC leader.",
+      "MATTHEWS Michael": "negative: Lost time on stage 1 after strong prior Tour, suggesting positioning vulnerability in chaotic technical finales despite climbing ability.",
+      "LEDANOIS Kévin": "positive: Won cat 4 KOM sprint from breakaway then immediately sat up to rejoin peloton, showing energy conservation intelligence for jersey defense."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:33:07.546113+00:00"
+}

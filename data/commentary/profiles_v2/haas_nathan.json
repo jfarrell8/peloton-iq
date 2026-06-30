@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Launches late-race efforts (400m-2 laps to go) but shows poor timing judgment, either going too early in desperation moves or attacking into unfavorable conditions like headwinds. Most effective when positioning cleverly in reduced bunch sprints (14-rider selection) rather than pure attacks.",
+  "team_tactics": "Team (Katusha in 2018) employed pre-emptive attacking tactics before sprint finishes, revealing lack of confidence in traditional leadout trains. Limited evidence of systematic team support or positioning protection.",
+  "terrain_preference": "Selective sprint finishes after medium climbs (Al Jeel, 5km to go) where bunch is reduced but not fully climber-dominated. Struggles in pure flat sprints and pure climber scenarios. Right-hand finishing straights show tactical advantage.",
+  "vulnerability": "Poor peloton positioning leads to crucial losses (caught behind crash at 4.3km). Easily marked when attacking predictably into headwinds. Mistimes solo breakaway efforts against organized teams. Misses critical wheels in winning moves despite having the fitness.",
+  "key_patterns": [
+    "Poor race positioning repeatedly costs results: crash involvement, missing wheels in winning moves (2+ instances)",
+    "Tactical intelligence over pure fitness: studies road furniture, positions away from favorites successfully",
+    "Timing issues plague both attacks and sprints: burned on 2-lap solos, immediately marked in headwinds",
+    "Most success in reduced-bunch scenarios requiring positioning IQ rather than pure speed or climbing",
+    "Team lacks strong leadout, forcing pre-emptive/attacking tactics instead of traditional sprint trains"
+  ],
+  "form_trajectory": "negative: 2.5-year winless streak through 2020, mistimed solo attempts, and positioning errors suggest declining competitive edge despite occasional fitness",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "HAAS Nathan",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Giro d'Italia Stage 3",
+    "2018 Tour of Oman Stage 2",
+    "2018 Tour of Oman Stage 2",
+    "2018 Tour of Oman Stage 6",
+    "2020 BinckBank Tour Stage 1",
+    "2020 Tour de Pologne Stage 3"
+  ]
+}

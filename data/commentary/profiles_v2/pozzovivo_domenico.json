@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Tends to attack mid-climb rather than at optimal moments, often too early or too late. Shows aggression on steep gradients (9-14%) but struggles with timing and energy management for complete climb profiles.",
+  "team_tactics": "Operates with limited dedicated team support even when targeting GC. Increasingly deployed in flexible roles (leadout, support) rather than protected leader, suggesting tactical adaptation to diminished status.",
+  "terrain_preference": "Excels on extremely steep sustained climbs (13km at 9-14% gradient) where pure climbing ability matters. Can bridge gaps alone and match younger climbers on gradient-heavy ascents despite age.",
+  "vulnerability": "Poor energy pacing causes him to crack before summits when attacking early. Hesitant in tactical decision-making during critical race moments. Vulnerable to positioning errors in transition zones and crashes outside safe zones.",
+  "key_patterns": [
+    "Attacks at suboptimal timing: too early mid-climb or too late on final climbs (3 instances)",
+    "Maintains climbing form matching younger riders on steep gradients despite advancing age (2 instances)",
+    "Tactical indecision at critical moments: unable to commit to moves or cooperation (2 instances)",
+    "Repeatedly bridges gaps through pure climbing strength but struggles with follow-through (3 instances)",
+    "Functions increasingly in support/flexible roles rather than protected GC leadership (2 instances)",
+    "Positioning errors and crash vulnerability cost GC time in non-climbing scenarios (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 showed mechanical while leading (strong position), 2022 matched young climbers on steep gradients but positioning errors persist. Age-defying climbing maintained but tactical sharpness inconsistent.",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "POZZOVIVO Domenico",
+  "built_from": [
+    "2017 Giro d'Italia Stage 14",
+    "2017 Giro d'Italia Stage 15",
+    "2018 Giro d'Italia Stage 14",
+    "2018 Giro d'Italia Stage 18",
+    "2019 Tirreno-Adriatico Stage 4",
+    "2019 Tour de Pologne Stage 7",
+    "2020 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 10",
+    "2022 Giro d'Italia Stage 9",
+    "2022 Tour de Suisse Stage 3",
+    "2023 Giro dItalia Stage 20"
+  ]
+}

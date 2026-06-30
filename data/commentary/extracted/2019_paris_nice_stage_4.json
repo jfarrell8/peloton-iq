@@ -1,0 +1,30 @@
+{
+  "label": "2019 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-13",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus attacked solo inside 1km from a four-rider breakaway on Côte de Chaon, winning by 7 seconds after breakaway survived multiple climbs.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAUDIN Damien collected KOM points at every categorized climb to steal polka dots without winning stage from breakaway.",
+      "KWIATKOWSKI Michał took yellow by staying in chase group on final climb, avoiding sprinter gruppetto without bridging to break.",
+      "AG2R La Mondiale delayed chase until Côte de Chaon, allowing breakaway margin despite COSNEFROY Benoît attempting late bridge with MADOUAS.",
+      "CORT Magnus attacked natural sprinter NEILSON inside 1km when quartet dynamics discouraged cooperation, exploiting hesitation rather than pure power."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: breakaway tactician correctly identified moment to attack solo when stronger climbers neutralized each other's sprint threat",
+      "GAUDIN Damien": "positive: prioritized KOM jersey over stage win, systematically cresting climbs first to accumulate points without exhausting for victory",
+      "SOLER Marc": "negative: defending champion dropped on Côte de Saint-Michel, confirming continued poor form from early-season weakness",
+      "LÓPEZ Miguel Ángel": "negative: dropped on same climb as SOLER despite being previous year's third-place finisher and best young rider at Giro",
+      "KWIATKOWSKI Michał": "positive: calculated effort to take yellow by finishing in chase group, avoiding energy expenditure of bridging or sprinter losses",
+      "CRADDOCK Lawson": "positive: attacked on final climb despite riding entire 2018 Tour with broken shoulder, showing recovered form for aggressive racing",
+      "HENAO Sergio": "positive: 2017 Paris-Nice champion attacked final climb, demonstrating continued ability to animate GC stages despite not making winning move",
+      "GROENEWEGEN Dylan": "negative: struggled on Côte de Trèves despite only second categorized climb, surrendering yellow earlier than expected for pure sprinter"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:01:28.349007+00:00"
+}

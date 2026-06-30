@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who capitalizes on freedom when team GC focus is elsewhere. Shows ability to time long-range moves on mountain stages, though sometimes miscalculates gaps and rides passively in direct GC confrontations.",
+  "team_tactics": "Functions best when given leadership autonomy rather than supporting team leaders. Bora often deploys him in breakaways when primary GC objectives lie with others, allowing him to hunt stage wins or slip up GC rankings unnoticed.",
+  "terrain_preference": "Excels on punchy uphill finishes and sustained climbs of moderate gradient. Vulnerable on extended steep alpine climbs. Superior finishing speed among climber types when reaching finale in small groups.",
+  "vulnerability": "Passive decision-making in critical GC moments costs time (lost red jersey by 8 seconds through conservative riding). Struggles on prolonged steep gradients compared to shorter, punchier efforts. Occasionally misjudges time gaps on final climbs.",
+  "key_patterns": [
+    "Strong uphill finisher with superior sprint among climbers, podiumed twice chasing groups (2018, 2020)",
+    "Undervalued GC threat when flying under radar; 10th Vuelta overall despite team focus elsewhere",
+    "Punchy finishes suit him better than extended steep climbs; lost time after strong Stage 1",
+    "Miscalculates tactical situations in tight GC battles, losing jersey by seconds through passivity",
+    "Performs above expectations in non-specialty disciplines like time trials versus GC peers"
+  ],
+  "form_trajectory": "positive: Demonstrated consistent GC ability at 2021 Vuelta with 10th overall and near-miss for red jersey, showing evolution from opportunistic stage hunter to legitimate GC contender",
+  "races_analysed": 10,
+  "confidence": "medium",
+  "rider_name": "GROßSCHARTNER Felix",
+  "built_from": [
+    "2018 Giro d'Italia Stage 20",
+    "2018 Giro d'Italia Stage 20",
+    "2018 Tour of Guangxi Stage 4",
+    "2019 Tour de Romandie Stage 4",
+    "2019 Tour de Romandie Stage 5",
+    "2020 Vuelta a Espana Stage 10",
+    "2020 Vuelta a Espana Stage 2",
+    "2020 Vuelta a Espana Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Vuelta a Espana Stage 7"
+  ]
+}

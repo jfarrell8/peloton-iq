@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour of Guangxi Stage 5",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-20",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won stage 5 sprint after late crash took down MEZGEC Luka and delayed URÁN Rigoberto, MOSCON retained GC lead",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DILLIER Silvan swept all four KOM climbs from breakaway, securing classification before final stage—breakaway KOM focus wins jerseys.",
+      "TRENTIN positioned on Bora-Hansgrohe leadout train despite having teammate, conserving energy while rival team controlled sprint setup.",
+      "ACKERMANN Pascal's leadout caused late crash with MEZGEC but still finished second—aggressive final positioning creates collision risk.",
+      "Sky controlled 212km stage despite wet conditions to defend nine-second GC gap—long stages favor teams with depth."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: opportunistically used rival Bora leadout with only one teammate, opened sprint at 200m marker to win",
+      "DILLIER Silvan": "positive: took all four KOM climbs from breakaway including category 1 with 33km remaining, locked up classification",
+      "MOSCON Gianni": "positive: Sky controlled entire 212km stage in rain to defend narrow nine-second GC lead going into final stage",
+      "ACKERMANN Pascal": "neutral: second place but leadout train caused crash with MEZGEC, took over points jersey despite not winning",
+      "MARTIN Tony": "neutral: breakaway workhorse adding watts but ultimately caught, predictable domestique role despite TT pedigree",
+      "EENKHOORN Pascal": "neutral: KOM ambitions from breakaway but lost all climbs to DILLIER despite early positioning",
+      "URÁN Rigoberto": "negative: caught in late crash, same time but delayed sprint participation—positioning error cost opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:43:35.378994+00:00"
+}

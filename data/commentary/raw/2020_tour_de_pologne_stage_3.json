@@ -4,13 +4,20 @@
   "race_date": "2020-08-07",
   "stage": 3,
   "video": {
-    "video_id": "C4x89i2U0Zc",
-    "title": "Santos Tour Down Under 2020 Stage 3 HIGHLIGHTS | Subaru Stage 3: Unley - Paracombe",
-    "published": "2020-01-23 07:11:26+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=C4x89i2U0Zc",
-    "match_score": 75.0,
+    "video_id": "jQRawqbDW7g",
+    "title": "Tour of Poland 2020 - Stage 3 Highlights | Cycling | Eurosport",
+    "published": "2020-08-09 11:33:17+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=jQRawqbDW7g",
+    "match_score": 112.86,
     "all_candidates": [
+      {
+        "video_id": "jQRawqbDW7g",
+        "title": "Tour of Poland 2020 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-08-09 11:33:17+00:00",
+        "match_score": 112.86
+      },
       {
         "video_id": "C4x89i2U0Zc",
         "title": "Santos Tour Down Under 2020 Stage 3 HIGHLIGHTS | Subaru Stage 3: Unley - Paracombe",
@@ -26,6 +33,34 @@
         "match_score": 73.33
       },
       {
+        "video_id": "nsJf6sp2_IE",
+        "title": "Tour of Poland 2020 - Stage 5 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-08-09 19:37:33+00:00",
+        "match_score": 72.86
+      },
+      {
+        "video_id": "JCLEqPEmnQA",
+        "title": "UAE Tour 2020: Stage 3 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2020-02-25 18:53:26+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "-0twE4KbbVo",
+        "title": "UAE Tour 2020: Stage 3 Race Highlights",
+        "channel": "Velon",
+        "published": "2020-02-25 15:48:23+00:00",
+        "match_score": 71.67
+      },
+      {
+        "video_id": "LjwFoza2RO4",
+        "title": "UAE Tour 2020 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2020-02-26 10:09:32+00:00",
+        "match_score": 70.42
+      },
+      {
         "video_id": "jRI08K7pBVo",
         "title": "RACE REPLAY: Santos Tour Down Under 2020 Stage 3 | Subaru Stage 3: Unley - Pararcombe",
         "channel": "GCN Racing",
@@ -33,56 +68,29 @@
         "match_score": 70.0
       },
       {
-        "video_id": "sWXFmCfzAYE",
-        "title": "RACE REPLAY: Jayco Herald Sun Tour 2020 Stage 3 | Bright - Wangaratta",
-        "channel": "GCN Racing",
-        "published": "2020-02-07 04:11:39+00:00",
-        "match_score": 68.33
+        "video_id": "LTwKY4uvFGE",
+        "title": "Highlights | Subaru Stage 3 | 2020 Santos Tour Down Under",
+        "channel": "Tour Down Under",
+        "published": "2020-01-23 08:48:52+00:00",
+        "match_score": 70.0
       },
       {
-        "video_id": "5CsW0FYeKAM",
-        "title": "Santos Tour Down Under 2020 Stage 6 HIGHLIGHTS | Willunga Hill: Be Safe Be Seen Stage 6",
-        "channel": "GCN Racing",
-        "published": "2020-01-26 06:51:10+00:00",
-        "match_score": 35.0
-      },
-      {
-        "video_id": "quTyqOyxHpg",
-        "title": "Santos Tour Down Under 2020 Stage 1 HIGHLIGHTS | Ziptrack Stage 1: Tanunda",
-        "channel": "GCN Racing",
-        "published": "2020-01-21 08:58:37+00:00",
-        "match_score": 35.0
-      },
-      {
-        "video_id": "KwAE39VCSCs",
-        "title": "Schwalbe Classic Criterium 2020 HIGHLIGHTS | Santos Tour Down Under",
-        "channel": "GCN Racing",
-        "published": "2020-01-19 13:10:20+00:00",
-        "match_score": 35.0
-      },
-      {
-        "video_id": "IdmgyFYy6TQ",
-        "title": "Santos Tour Down Under 2020 Stage 2 HIGHLIGHTS | Novatech Stage 2: Woodside - Stirling",
-        "channel": "GCN Racing",
-        "published": "2020-01-22 07:16:27+00:00",
-        "match_score": 35.0
-      },
-      {
-        "video_id": "tpEeAEc4zlY",
-        "title": "Santos Tour Down Under 2020 Stage 4 HIGHLIGHTS | Norwood - Murray Bridge",
-        "channel": "GCN Racing",
-        "published": "2020-01-24 07:14:38+00:00",
-        "match_score": 35.0
-      },
-      {
-        "video_id": "VMLEJ5KSaIE",
-        "title": "Santos Tour Down Under 2020 Stage 5 HIGHLIGHTS | Glenelg - Victor Harbor",
-        "channel": "GCN Racing",
-        "published": "2020-01-25 07:32:16+00:00",
-        "match_score": 35.0
+        "video_id": "DPrh7DvfP1I",
+        "title": "BinckBank Tour 2020 - Stage 3 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2020-10-01 17:47:48+00:00",
+        "match_score": 70.0
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 78,
+    "raw_chars": 2537,
+    "clean_chars": 2526,
+    "duration_mins": 3.9,
+    "clean_text": "stage three of the tour polonia was the longest of the week over 200 kilometers seven categorized climbs and three laps finishing in bielskopiawa three breakaway riders got up the road and had a maximum gap that was fairly well controlled under five minutes for most of the day two minutes here with 50 kilometers to go tackle van der horn joined by camille gladdick and patrick studge polish national team involved for the third day in succession ccc team joining them yet again the koenig quick step controlled most of the day alongside borah handscrewer but it was still unsure which rider or which type of rider will be able to take on the finish tackle vondelhorn was doing his best to take on the rest of the breakaway on the final categorized climb of the day over the top of that climb remko even pool showed himself at the front and once under the final laps tackle underhorn would be almost caught with the first passage of the finish line just up the road however nathan haas decided to give it a go two and a half years since his last win the coffidis team looking for some success without too many big name leaders here at this particular race three steven is would go to work try to chase him back once into the local seven kilometer laps the finish was a difficult one uphill almost never-ending it seemed with two laps to go the gap was still good for a harm screwer and the kerning quickstep however intensified the chase that put paid to the australians hopes and nathan haas the man from brisbane was left still looking for his first ever world tour win inside the final two kilometers gave it a go but once all back together and inside the final kilometer it was still anybody's race yellow jersey mass pitherson nowhere to be seen at this point when richard carapaz of ecuador the winner of the children italia went out on his own davide ballerini was the first to try and chase he would quickly burn out though before diego olisi would have to launch his sprint canopaz conserved his advantage but uphill all the way to the finish he was never going to hang on with that sort of gap those chases would close led by olisi but the italian wouldn't reach the finish line in time and it was richard carapaz taking victory for ineos and with it the yellow leader's jersey finishing in third place full sang keldermann were there mixing it with the sprinters the likes of mesquites in gibbons and with two days to go the new leader richard kalapaz would pull on the yellow jersey his lead just four seconds you",
+    "preview_start": "stage three of the tour polonia was the longest of the week over 200 kilometers seven categorized climbs and three laps finishing in bielskopiawa three breakaway riders got up the road and had a maximum gap that was fairly well controlled under five minutes for most of the day two minutes here with 50 kilometers to go tackle van der horn joined by camille gladdick and patrick studge polish national team involved for the third day in succession ccc team joining them yet again the koenig quick ste",
+    "preview_end": " all the way to the finish he was never going to hang on with that sort of gap those chases would close led by olisi but the italian wouldn't reach the finish line in time and it was richard carapaz taking victory for ineos and with it the yellow leader's jersey finishing in third place full sang keldermann were there mixing it with the sprinters the likes of mesquites in gibbons and with two days to go the new leader richard kalapaz would pull on the yellow jersey his lead just four seconds you"
+  },
+  "status": "transcript_saved"
 }

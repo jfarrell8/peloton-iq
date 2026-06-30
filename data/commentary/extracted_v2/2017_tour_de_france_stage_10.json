@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-11",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won stage 10 from deep in the pack, trusting leadout man SABATINI to navigate before unleashing final sprint acceleration that gapped the field by multiple bike lengths.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KITTEL deliberately released SABATINI's wheel before final corner to avoid premature acceleration, then picked off rivals individually with timing.",
+      "Quick-Step presence forced other sprint teams to chase alone, LOTTO worked entire stage only to be dominated by KITTEL's superior speed.",
+      "Team Sky positioned FROOME at front entire stage as defensive tactic on flat stages, avoiding crashes rather than conserving energy mid-pack."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Generated extra speed burst when hitting front to prevent drafting, suggesting he can control gap size tactically not just speed",
+      "GAVIRIA Fernando": "negative: Finished 12th despite QUICK-STEP forcing other teams to chase, indicating sprint form collapse or positioning failure",
+      "BOUHANNI Nacer": "neutral: Team worked on front but rider missing from final sprint analysis, positioning or timing issue evident",
+      "DEGENKOLB John": "negative: Had best seat on KITTEL's wheel via perfect leadout but couldn't hold contact, pure power differential exposed",
+      "FROOME Chris": "neutral: Team Sky maintained front positioning on flat stage as crash avoidance protocol, treating sprinter stages as defensive GC days"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:03:46.046443+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 7",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT won the 10.1km San Benedetto del Tronto time trial by 6 seconds over KÜNG, while POGAČAR secured overall victory by 1:03.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Van Aert benefited from racing last when wind conditions potentially lessened, beating Küng who set benchmark earlier.",
+      "The abrupt double right-angle turn at halfway point plus bumpy return section favored bike-handling specialists over pure power."
+    ],
+    "rider_signals": {
+      "KÜNG Stefan": "negative: obliterated Bettiol's course record by 12+ seconds but still lost by 6 to van Aert in later conditions",
+      "POGAČAR Tadej": "positive: placed 4th in specialist time trial beating Ganna by 1 second, showing rapid TT improvement early season",
+      "GANNA Filippo": "negative: could only manage 5th, beaten by over 10 seconds, surprising weakness after winning previous year's stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:49:57.948457+00:00"
+}

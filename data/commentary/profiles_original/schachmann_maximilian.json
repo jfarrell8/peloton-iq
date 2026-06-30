@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic rather than explosive attacker. Builds advantages through cumulative gains across stages rather than single decisive moves. Struggles to convert technical advantages in decisive moments.",
+  "team_tactics": "Team support appears inconsistent, particularly in critical defensive scenarios. Unable to provide adequate protection in crosswind situations or maintain positioning when GC defense is required.",
+  "terrain_preference": "Capable on varied terrain when conditions are controlled, but crosswinds and high-speed echelon situations expose significant vulnerabilities. Technical descents and second-half race execution are weak points.",
+  "vulnerability": "Catastrophically weak in crosswinds and echelon splits. Cannot defend GC when team support falters. Struggles to convert advantageous positions into wins, suggesting finishing or tactical weaknesses in decisive moments.",
+  "key_patterns": [
+    "Crosswind vulnerability: dropped over 2 minutes in exposed conditions, catastrophic GC defense failure",
+    "Second-half weakness: unable to convert checkpoint advantages, technical execution falters late",
+    "Team support dependency: GC defense collapses when domestique protection inadequate or absent"
+  ],
+  "form_trajectory": "negative: 2022 Paris-Nice showed complete collapse from defending champion status, losing over 2 minutes in crosswinds",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SCHACHMANN Maximilian",
+  "built_from": [
+    "2020 Paris - Nice Stage 4",
+    "2022 Paris-Nice Stage 2"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-16",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Simon won from breakaway after POGACAR's early attack forced VINGEGAARD to chase, burning JUMBO-VISMA domestiques all day.",
+    "winner": "MATTHEWS Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked immediately at race start forcing VINGEGAARD to chase, depleting JUMBO domestiques for entire 193km stage.",
+      "MARTINEZ Dani bridged to POGACAR's early move creating dangerous duo that forced JUMBO to control entire race.",
+      "Final 2km climb gradient insufficient to create separation; POGACAR/VINGEGAARD mark each other to finish preventing time gaps."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: attacked from gun 193km out with no categorized climbs reached, showing psychological warfare intent over pure time gains",
+      "VINGEGAARD Jonas": "positive: covered every POGACAR acceleration looking increasingly comfortable under pressure throughout hot day",
+      "MEINTJES Louis": "positive: climbed 6 GC places via breakaway to 7th overall, highest career Tour finish threat",
+      "GOUDOUZIAN David": "negative: dropped GC position suggesting form decline in third week",
+      "YATES Adam": "neutral: maintained 5th GC but gap increased to 4:06, losing ground to podium positions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:21:55.129141+00:00"
+}

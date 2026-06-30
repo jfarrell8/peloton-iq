@@ -1,0 +1,25 @@
+{
+  "label": "2019 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-30",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHIMA Damiano won from a breakaway that held off the peloton by meters after DENZ Nico forced premature attacks inside 3km.",
+    "winner": "CIMA Damiano",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DENZ Nico attacking solo under 5km fragmented breakaway cooperation, allowing peloton to close gap critically before final kilometer.",
+      "Bora-Hansgrohe and Israel Cycling Academy abandoned chase inside 3km, revealing teams prioritized GC safety over sprinter investment late race.",
+      "CHIMA exploited DENZ leading out final 250m by sitting rightside position, converting tactical error into stage win against arriving sprinters."
+    ],
+    "rider_signals": {
+      "CIMA Damiano": "positive: won from 500km+ cumulative breakaway time this Giro, suggesting exceptional recovery between stages for multi-day efforts",
+      "DENZ Nico": "negative: forced to lead out final sprint after solo move under 5km, tactical impatience cost him stage against weaker sprinters",
+      "ACKERMANN Pascal": "positive: finished second despite peloton closing 4min gap in final 32km, showing sprint form despite team chase abandonment",
+      "CONSONNI Simone": "neutral: third place confirms ability to contest reduced bunch sprints but lacked positioning to challenge late-arriving sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:56:51.271831+00:00"
+}

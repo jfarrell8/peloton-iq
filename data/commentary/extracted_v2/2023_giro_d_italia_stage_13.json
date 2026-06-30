@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "RUBIO Einer won from the breakaway with a final 300m sprint after TIBOPINO attacked repeatedly on the final climb but couldn't sustain his aggression",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TIBOPINO made excessive attacks on final climb but got counterproductive fatigue, losing sprint after dominating tactics earlier.",
+      "CEPEDA Alexander stayed in break despite teammate CARTHY catching from behind, revealing EF's willingness to split team commitments.",
+      "FORTUNATO Lorenzo attacked first from GC group but CARTHY dropped him easily, showing altitude-specific weakness on Swiss climbs.",
+      "SWIFT Ben performed exceptional domestique work on all terrain types for INEOS, enabling conservative Rosa group control."
+    ],
+    "rider_signals": {
+      "RUBIO Einer": "positive: sprinted strongest from reduced break after conserving energy while Tibopino overcommitted on attacks",
+      "TIBOPINO Giulio": "negative: tactical overreach with excessive attacks yielded no gap but drained sprint power in final 300m",
+      "LEKNERSON Andreas": "negative: lost 7 seconds to main GC rivals despite being in Rosa group, first visible weakness",
+      "CARTHY Hugh": "neutral: bridged to break but couldn't drop Fortunato convincingly, suggesting form ceiling outside top-5",
+      "SWIFT Ben": "positive: unexpectedly strong climbing for heavy domestique, key to INEOS controlling without Thomas spending matches"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:38:04.442902+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "label": "2020 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-04",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won from a select group after BORA's ferocious opening climb pace shattered the sprinters, gaining SAGAN the green jersey by forcing pure speed rivals off contention.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BORA put SAGAN fifth wheel on opening Cat 3 climb specifically to crack pure sprinters, sacrificing breakaway points for green jersey attrition.",
+      "INEOS moved to front before Pyrenees rest day on sprinter stage, signaling willingness to stress GC rivals preemptively when unexpected.",
+      "POGAČAR, LANDA, PORTE lost 1:21-2:53 in final 40km on supposed sprint stage, revealing positioning complacency before mountain stages.",
+      "Teams of dropped sprinters regrouped mid-stage creating secondary peloton, but tactical damage already done as SAGAN gained green without contesting finish."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Won after aggressive early pace setting, demonstrating ability to both torture field and finish after hard stages.",
+      "SAGAN Peter": "positive: Orchestrated opening climb pace sitting fifth wheel to eliminate pure sprinters, retook green jersey without needing sprint finish.",
+      "POGAČAR Tadej": "negative: Lost 1:21 in final 40km on transition stage day before Pyrenees, showing poor positioning awareness or team support gaps.",
+      "PORTE Richie": "negative: Dropped 2:53 from 13 seconds off yellow on flat stage, catastrophic loss before mountains despite being GC-positioned.",
+      "LANDA Mikel": "negative: Lost 1:21 same as Pogačar despite climbing pedigree, suggesting positioning discipline issues on controlled stages.",
+      "BENNETT Sam": "negative: Lost green jersey after being dropped on opening Cat 3, lacks SAGAN's resilience on undulating sprint stages.",
+      "EWAN Caleb": "negative: Dropped early on brutal opening climb despite predicting difficulty, confirmed weakness on power-heavy sprint days.",
+      "COSNEFROY Benoît": "neutral: KOM leader attempted solo opening climb attack but caught, showing jersey defense mentality but insufficient strength.",
+      "ALAPHILIPPE Julian": "neutral: Involved in sprint positioning protest and relegated to 12th, wasted energy contesting non-GC stage.",
+      "LAPORTE Christophe": "positive: Finished fourth from select group after hard opening, shows COFIDIS has second-tier finisher when sprinters eliminated."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:38:22.893928+00:00"
+}

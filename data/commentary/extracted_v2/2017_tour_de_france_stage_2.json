@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-02",
+  "stage": 2,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won the sprint in his home country by jumping wheel-to-wheel through gaps in the final 500m after his Quick-Step leadout plan completely failed.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quick-Step's contract uncertainty (all riders unsigned until Tour ends) creates measurable performance pressure that Kittel explicitly mentioned motivating him.",
+      "Katusha pushed pace excessively 30km out while leading chase, causing crash in corner that took down race favorites positioned correctly behind working teams.",
+      "FINNEY Taylor's 200km solo breakaway for KOM points reveals DNA-level preference for breaks over peloton riding despite massive energy cost.",
+      "Team Sky kept THOMAS Geraint near front to protect yellow jersey while FROOME correctly positioned 8 riders back still crashed from chain reaction."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Won despite leadout failure by improvising wheel-to-wheel jumps through gaps, showing adaptability beyond pure leadout dependency.",
+      "CAVENDISH Mark": "positive: Fifth place impressive after crashing at 50km/h earlier in stage, showing recovery ability under duress.",
+      "SAGAN Peter": "negative: Looked positioned to win 5 seconds before finish but faded to tenth, suggesting sprint timing issues or form deficit.",
+      "FROOME Chris": "neutral: Positioned correctly 8 riders behind working team yet crashed anyway, highlighting unavoidable risk even with perfect tactics.",
+      "FINNEY Taylor": "positive: Led 99% of 200km stage solo for KOM points despite knowing catch was inevitable, exceptional breakaway commitment.",
+      "KUENG Stefan": "positive: White jersey retention depends on avoiding work for PORTE, revealing team's internal calculus about protecting his GC position."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:06:17.379190+00:00"
+}

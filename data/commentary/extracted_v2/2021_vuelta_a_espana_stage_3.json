@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TARAMAY Rein won from the breakaway on Picon Blanco, taking red jersey while MOSS Enrique gained crucial seconds attacking solo inside 50m to go.",
+    "winner": "TARAMAY Rein",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar held power until final kilometer then MOSS attacked at 50m, catching ROGLIC unable to respond after pacing.",
+      "Jumbo-Visma allowed 2:30 gap to breakaway riders low on GC, strategically avoiding red jersey defense duties early Vuelta.",
+      "VALVERDE set tempo for MOSS's final attack rather than LOPEZ, reversing expected Movistar hierarchy on Picon Blanco finish."
+    ],
+    "rider_signals": {
+      "MOSS Enrique": "positive: Best acceleration in lead group, took time on ROGLIC with late attack despite Roglic marking LOPEZ",
+      "CARAPAZ Richard": "negative: Lost over a minute on mountaintop finish despite being Olympic champion, major early GC blow",
+      "KUS Sepp": "negative: Rough day on first summit finish, disappeared from lead group despite being noted pre-race climber",
+      "VLASOV Aleksandr": "negative: Lost significant time on first categorized summit, undermining Astana GC ambitions",
+      "YATES Adam": "positive: Chased MOSS acceleration alone, showing willingness to race aggressively for Ineos despite BERNAL presence",
+      "BERNAL Egan": "neutral: Marked wheels rather than initiating, preserving position but ceding time bonuses to MOSS",
+      "VALVERDE Alejandro": "positive: Set tempo for team at crucial moment despite age, enabled MOSS attack rather than fading late"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:02:17.234361+00:00"
+}

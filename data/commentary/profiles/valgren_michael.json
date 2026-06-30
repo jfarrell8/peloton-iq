@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Favors decisive long-range solo attacks in final kilometers rather than short explosive moves. Demonstrates superior pacing judgment when attacking from breakaways or reduced selections, particularly on climbs and punchy finales.",
+  "team_tactics": "Operates both as protected rider and tactical blocker. Used as positioning/blocking support in dual-rider breakaway tactics (Tour 2018), allowing teammates to conserve energy while maintaining breakaway integrity.",
+  "terrain_preference": "Versatile across cobbled semi-classics (Omloop) and hilly Ardennes races (Amstel). Shows atypical climbing strength for classics specialist. Thrives on varied terrain requiring tactical positioning over pure power.",
+  "vulnerability": "Limited observations of weaknesses, but role flexibility suggests less protected status in stage races. May lack pure sprint speed when reduced groups reach organized finales.",
+  "key_patterns": [
+    "Long-range solo attacks with kilometers remaining, not final sprint bursts (Omloop, Dauphine, Amstel).",
+    "Superior late-race positioning and pacing judgment over raw power (Omloop chase, Plagne breakaway).",
+    "Dual capability: cobbled classics AND hilly Ardennes races demonstrated in same season (2018).",
+    "Willingly sacrifices personal result for team tactics, blocking and positioning for teammates (Tour 2018).",
+    "Attacks from already-reduced selections or breakaways rather than initiating splits from peloton (Dauphine, Omloop)."
+  ],
+  "form_trajectory": "unknown: Large data gap between 2018 wins and sparse 2020-21 observations. 2021 Dauphine breakaway success suggests maintained tactical acumen but insufficient recent evidence for trajectory assessment.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "VALGREN Michael",
+  "built_from": [
+    "2018 Amstel Gold Race",
+    "2018 Amstel Gold Race",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Tour de France Stage 15",
+    "2018 Tour de France Stage 15",
+    "2020 Vuelta a Espana Stage 6",
+    "2021 Criterium du Dauphine Stage 7"
+  ]
+}

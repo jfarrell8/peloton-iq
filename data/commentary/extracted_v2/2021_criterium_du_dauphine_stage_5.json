@@ -1,0 +1,26 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-03",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked solo with 700m remaining out of final corner, barely held off charging COLBRELLI by centimeters for stage win and 10-second bonus.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "THOMAS exploited sharp technical corners in final kilometer when field expected straightforward sprint, attacked exiting final turn solo.",
+      "Quick-Step controlled breakaway tempo all day to protect ASGREEN's GC position, forcing breakaway splits rather than allowing it distance.",
+      "Late breakaway joiners CERNY and MULLEN fresher than original five, immediately attacked to split group when peloton closed gap."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: Timed corner attack perfectly at 700m after poor TT previous day, showed pure power to nearly hold off pure sprinter.",
+      "ASGREEN Kasper": "neutral: Quick-Step willing to spend entire stage controlling to protect his third-place GC despite earlier crash.",
+      "COLBRELLI Sonny": "positive: Fastest finisher in race to this point, closed impossible gap but ran out of road by two feet.",
+      "WELLENS Tim": "negative: 32-time winner caught out tactically when late joiners attacked, missed critical split in breakaway with 60km remaining.",
+      "POSTLEBERGER Lucas": "positive: Defended 1-second GC lead over LUTSENKO despite minimal team support through technical finale and time bonus opportunities."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:35:11.451045+00:00"
+}

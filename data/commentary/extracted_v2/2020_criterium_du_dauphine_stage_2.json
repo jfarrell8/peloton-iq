@@ -1,0 +1,31 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-13",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked inside 2km on Col de la Porte after Jumbo-Visma pacing shredded field, held off PINOT for 8-second gap",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma's sustained pacing via Castroviejo/Kuss/Sepp dropped favorites before Roglic attacked, validating domestique-driven mountain strategy",
+      "Roglic waited for all rivals to attack first before countering inside 2km, exploiting tired legs from INEOS tempo",
+      "INEOS pace via Sivakov/Bernal too hard to allow teammates like Thomas to contribute, wasteful distribution",
+      "Egan BERNAL attempted accelerations but couldn't follow when Roglic countered, signaling form deficit vs Slovenia"
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: Answered Tour favoritism questions by sitting wheels all climb then soloing to 8-second gap inside 2km",
+      "BERNAL Egan": "negative: Initiated attacks but unable to respond when Roglic countered, concerning form deficit",
+      "FROOME Chris": "negative: Couldn't take turns for INEOS train, commentary explicitly questioned Tour selection",
+      "PINOT Thibaut": "positive: Only rider to limit gap to Roglic to 8 seconds after sitting on INEOS pace",
+      "POGACAR Tadej": "negative: Dropped before final 2km on HC climb, unexpected weakness on sustained gradient",
+      "ALAPHILIPPE Julian": "negative: Dropped on lower slopes of first HC climb, couldn't handle initial 11% gradient kilometer",
+      "VAN AERT Wout": "neutral: Crashed early, completed domestique work pulling then abandoned, tactical withdrawal",
+      "PORT Richie": "positive: Still present in final group and attempted late attack, unexpected GC form signal",
+      "QUINTANA Nairo": "positive: Attacked multiple times in final 2km and looked strong, better form than pre-race expectations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:11:43.852987+00:00"
+}

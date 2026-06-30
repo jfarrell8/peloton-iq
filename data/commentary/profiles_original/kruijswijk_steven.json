@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Kruijswijk rarely initiates attacks himself; relies on following wheels and maintaining position during accelerations by others. Struggles to respond to explosive changes in pace, particularly in final 1-2km of steep climbs.",
+  "team_tactics": "Benefits from Jumbo-Visma's high-tempo climbing trains that create sustained attrition rather than explosive selections. Teammates set brutal pace below summit to whittle down groups, positioning him for final kilometers.",
+  "terrain_preference": "Performs best on steady, long climbs at controlled tempo where power-to-weight matters more than acceleration. Exposed on steep technical finales and when explosive accelerations occur inside final kilometer of summits.",
+  "vulnerability": "Cannot follow sharp accelerations from elite climbers (Bernal, Pinot). Fades badly on steep technical finales after strong intermediate splits. Form deteriorates rapidly across consecutive Grand Tours (Tour podium → dropped at Vuelta 3 weeks later).",
+  "key_patterns": [
+    "Drops within 1km of summit when race leaders accelerate explosively (2+ observations)",
+    "Strong at intermediate checkpoints but fades in final technical sections (2019 TDF stages)",
+    "Relies entirely on team tempo rather than personal attacking ability (multiple Grand Tour stages)",
+    "Cannot sustain peak GC form across consecutive Grand Tours; rapid decline evident",
+    "Finishes 20-30+ seconds behind when explosive climbers attack in finale (4+ observations)"
+  ],
+  "form_trajectory": "negative: 2019 showed vulnerability to accelerations despite Tour podium; 2022 Romandie result 30+ seconds behind surprise winners suggests decline in elite GC competitiveness",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "KRUIJSWIJK Steven",
+  "built_from": [
+    "2019 Tour de France Stage 13",
+    "2019 Tour de France Stage 14",
+    "2019 Tour de France Stage 19",
+    "2019 Tour de France Stage 2",
+    "2019 Vuelta a Espana Stage 2",
+    "2022 Tour de Romandie Stage 5"
+  ]
+}

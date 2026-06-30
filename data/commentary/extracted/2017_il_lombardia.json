@@ -1,0 +1,30 @@
+{
+  "label": "2017 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2017-10-07",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "NIBALI Vincenzo attacked on the flat lakeside section with 17km to go, dropped PINOT Thibaut on final climb, won by 28 seconds.",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NIBALI Vincenzo attacked on flat lakeside road (not climb) with 17km remaining, exploiting chaos from DE PLUS crash.",
+      "PINOT Thibaut's team (FDJ) exhausted themselves chasing early, leaving him isolated when NIBALI attacked on flat section.",
+      "ALAPHILIPPE Julian bridged alone to the lead group then counter-attacked, showing Quick-Step prioritized him over MARTIN Dan.",
+      "FRANK Mathias attacked first, triggering chain reaction that splintered group before NIBALI's decisive flat-road acceleration."
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "positive: attacked on flat section (not climb) with 17km to go, immediately dropped struggling PINOT on subsequent climb",
+      "PINOT Thibaut": "negative: visibly on ragged edge when NIBALI attacked, could barely hold wheel before being dropped on climb",
+      "ALAPHILIPPE Julian": "positive: bridged to leaders alone then counter-attacked, showing he was protected option over struggling MARTIN Dan",
+      "MOSCON Gianni": "positive: finished in chase group 28 seconds down, strong result amid 'not uncontroversial circumstances'",
+      "DE PLUS Laurens": "negative: crashed on dangerous descent before flat section, removed from race with leg damage",
+      "MARTIN Dan": "negative: clearly out of sorts, team pivoted to ALAPHILIPPE as protected rider",
+      "POZZOVIVO Domenico": "neutral: reached by NIBALI during attack, became teammate's stepping stone rather than contender",
+      "FRANK Mathias": "positive: initiated critical attack sequence that splintered group before NIBALI's winning move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:02:11.561477+00:00"
+}

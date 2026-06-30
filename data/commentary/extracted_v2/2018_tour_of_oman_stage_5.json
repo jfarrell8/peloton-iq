@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour of Oman Stage 5",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-17",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LYSENKO Alexey won Stage 5 on Green Mountain after Astana domestiques (Hirt) paced out breakaway and GC rivals, teammate LOPEZ finishing second.",
+    "winner": "LYSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana burned domestique Hirt completely to control pace up Green Mountain, eliminating breakaway and non-climbers simultaneously.",
+      "MARCATO drove breakaway from UAE Emirates despite no team GC threat, suggesting tactical experimentation or resource misallocation.",
+      "Astana deployed dual-leadership with Lysenko and Lopez both going strong together, intentionally preserving 1-2 team GC options."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "negative: explicitly in difficulty on Green Mountain climb, confirming classics riders cannot limit losses on sustained climbs",
+      "HIRT Jan": "negative: dropped after massive pacing work for Astana, revealing team willingness to sacrifice domestiques completely for GC control",
+      "CARPENTER Robin": "positive: Rally Cycling rider held on longest from breakaway on climb, suggesting unexpected climbing range beyond Tour of Alberta skillset",
+      "LOPEZ Miguel Angel": "positive: matched teammate Lysenko strength-for-strength on final climb while in white jersey, signaling he wasn't riding defensively despite youth jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:38:21.767345+00:00"
+}

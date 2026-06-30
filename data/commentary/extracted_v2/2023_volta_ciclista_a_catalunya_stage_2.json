@@ -1,0 +1,28 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-21",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CICCONI Giulio won mountaintop finish at Vall de Núria after CHAVEZ Jhonatan attacked solo early on final climb but was caught with 500m remaining.",
+    "winner": "CICCONI Giulio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain Victorious set infernal pace for LANDER entire climb, accounting for big names, but leader couldn't finish fourth.",
+      "CHAVEZ attacked well before summit, descended technical corners at 14% grades solo, caught only final 500m.",
+      "EVENEPOEL went wide final corner entering plateau, allowing CICCONI and ROGLIČ to cut inside for sprint advantage."
+    ],
+    "rider_signals": {
+      "CHAVEZ Jhonatan": "positive: attacked early on Vall de Núria, descended technical sections aggressively solo, caught only in final 500m sprint",
+      "LANDER Michael": "negative: entire Bahrain team worked for him setting infernal pace that shed top riders, but he finished fourth behind podium",
+      "CARAPAZ Richard": "negative: Ecuadorian Champion went backwards on Vall de Núria despite teammate Higuita attacking",
+      "EVENEPOEL Remco": "neutral: looked nervous in finale, tactical error going wide on final corner cost him potential stage win",
+      "ALMEIDA João": "positive: amazing fifth-place finish at 27 seconds, unexpected strength for stage type",
+      "HIGUITA Sergio": "positive: Colombian Champion attacked when teammate Carapaz struggled, showing inverted team hierarchy",
+      "HAIG Jack": "positive: sensational domestique work for Pogačar on Vall de Núria climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:03:12.502838+00:00"
+}

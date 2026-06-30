@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-09",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João won from a compressed sprint after GORDU David's late attack on 12-13% ramps was reeled in by AG2R.",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DECEUNINCK QuickStep overcooked domestique work pre-finale, creating hesitation despite ALMEIDA being strongest finisher available.",
+      "AG2R chase of GORDU paradoxically gifted UAE positional advantage, demonstrating how chasing teammate attacks backfires in compressed finales.",
+      "Left-hand road compression with 250m remaining punished early right-side positioning, rewarding ALMEIDA's late patience over HERSHEY's earlier commitment."
+    ],
+    "rider_signals": {
+      "ALMEIDA João": "positive: Converted bonus seconds into GC lead despite team overworking, suggests form peak ahead of Worlds.",
+      "HERSHEY Mark": "negative: Had finishing speed for win but tactical positioning error on compressed finale cost him victory.",
+      "GAUDU David": "positive: Solo move on 12-13% ramps nearly succeeded, signals dangerous form for punchy finales despite teammate chase confusion.",
+      "QUINTANA Nairo": "neutral: Top-five on steep finish suggests reasonable condition but couldn't respond when ALMEIDA accelerated."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:11:49.408658+00:00"
+}

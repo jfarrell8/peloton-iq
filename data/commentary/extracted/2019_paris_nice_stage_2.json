@@ -1,0 +1,29 @@
+{
+  "label": "2019 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-11",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN won stage 2 via late selection in crosswinds, sprinting from 7-rider group after Sky controlled split with 10km remaining",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky positioned ROWE, BERNAL, KWIATKOWSKI to force 7-rider selection at 10km mark in crosswind finish rather than pure sprint",
+      "GALLOPIN, BARDET, NAESEN prioritized intermediate sprint points over GC positioning, revealing unclear leadership hierarchy at AG2R-La Mondiale",
+      "JUNGELS and YATES both isolated when crosswinds split field under 25km, suggesting weak team support relative to GC ambitions"
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: second consecutive stage win plus demonstrated ability to survive late crosswind selections unlike pure sprinters EWAN",
+      "ROWE Luke": "positive: driving Sky's selection tactics on birthday suggests exceptional form and team leadership beyond domestique role",
+      "KWIATKOWSKI Michał": "positive: present in final 7-rider selection despite puncture under 50km demonstrates exceptional chase capacity",
+      "EWAN Caleb": "negative: dropped when crosswinds split field under 25km, confirming vulnerability in tactical sprint finishes versus pure gallops",
+      "YATES Simon": "negative: lost 7 minutes on flat stage, indicating poor team positioning or form crisis early in GC campaign",
+      "ARU Fabio": "negative: 14+ minutes lost on flat stage signals catastrophic form collapse or mechanical disaster",
+      "BARGUIL Warren": "negative: abandon via crash reveals fragility under crosswind pressure despite climbing pedigree",
+      "TRENTIN Matteo": "neutral: present in 7-rider selection and initiated sprint but comprehensively beaten, suggesting crosswind strength without finishing speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:01:01.723840+00:00"
+}

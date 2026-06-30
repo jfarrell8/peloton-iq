@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Does not rely on single explosive attacks; instead applies sustained climbing pressure through multiple accelerations, particularly on categorized climbs. Attacks often neutralized by opponents sitting on their wheel.",
+  "team_tactics": "Aggressive tempo control using domestiques (DE PLUS, DEPLUS, Turner) to eliminate opponents through attrition on climbs and uncategorized drags. Deploys multi-rider trains to isolate rivals. Sometimes burns domestiques questionably early despite controlling race.",
+  "terrain_preference": "Sustained climbs where tempo grinding can eliminate rivals, uncategorized technical sections before finals, crosswinds on descents for splitting groups. Exposed when opponents can sit on their wheel and counter.",
+  "vulnerability": "Struggles when missing breakaway formations in Grand Tours with limited stage opportunities. Tempo-setting strategy vulnerable to wheel-sitting opponents who can neutralize repeated attacks. Questionable energy management burning domestiques too early.",
+  "key_patterns": [
+    "Uses domestiques to set infernal tempo on climbs/drags pre-20km to eliminate weaker rivals (3 instances)",
+    "Deploys multi-rider trains to isolate and force solo chasing by rivals (2 instances)",
+    "Attacks neutralized by opponents sitting wheel rather than being distanced by power (2 instances)",
+    "Shows desperation chasing when missing breaks, especially late in Grand Tours (1 instance but pattern aligns)",
+    "Exploits technical terrain: crosswinds, descents, uncategorized drags for selection before organized finals (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 showed desperation for stage wins in Vuelta, but limited recent data. 2022 displayed strong domestique depth but tactical execution mixed with questionable energy management decisions.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "INEOS Grenadiers",
+  "built_from": [
+    "2021 Giro d'Italia Stage 6",
+    "2022 Amstel Gold Race",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 2",
+    "2022 Volta Ciclista a Catalunya Stage 7",
+    "2023 La Vuelta Ciclista a Espana Stage 16"
+  ]
+}

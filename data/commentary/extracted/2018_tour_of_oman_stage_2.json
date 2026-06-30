@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Oman Stage 2",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-14",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HAAS outsprinted VAN AVERMAART from a 14-rider selection that crested the final climb with 5km to go, catching him wrong-footed in final kilometer.",
+    "winner": "HAAS Nathan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC dominated chase and leadout for VAN AVERMAART but HAAS still beat him, suggesting Olympic champion predictable in positioning.",
+      "Summit selection with 5km remaining created elite sprint group, rewarding GC-capable fast finishers over pure sprinters.",
+      "ASTANA pacing on climbs fractured peloton before BMC took over, showing shared interest in hard selective finish.",
+      "IRIZAR as oldest rider targeted breakaway on multiple climbs, revealing veteran calculation about energy expenditure versus selection risk."
+    ],
+    "rider_signals": {
+      "HAAS Nathan": "positive: Studied positioning to exploit VAN AVERMAART's predictable leadout, shows tactical homework beats raw power in selective sprints",
+      "VAN AVERMAET Greg": "neutral: Had perfect BMC leadout but still lost, may be vulnerable when opponents scout his finishing patterns closely",
+      "PATE Danny": "negative: Former U23 TT champion dropped early in breakaway on climbs, suggests poor climbing form",
+      "IRIZAR Markel": "positive: At 37, lasted longest in break by pacing climbs intelligently before final catch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:44:08.468325+00:00"
+}

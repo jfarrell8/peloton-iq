@@ -1,0 +1,29 @@
+{
+  "label": "2020 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-15",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAIMAN Lennard won from breakaway at Villard-de-Lans after ALAPHILIPPE cracked on final climb despite family history at venue.",
+    "winner": "CAIMAN Lennard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TRENTIN attacked intermediate sprint climb early, exposing BENNETT/SAGAN absence from front split for critical 20 green jersey points.",
+      "UAE acceleration mid-final climb temporarily isolated ROGLIC from JUMBO support before team regained control, revealing defensive weakness.",
+      "LOPEZ attacked final 200m not for stage but targeting URAN's 11-second third place cushion through bonus seconds."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Aggressively contested sprint points on categorized climb despite not being pure sprinter, closing to 15 points of SAGAN",
+      "BENNETT Sam": "negative: Failed to make split over category 4 climb before intermediate sprint, tactical error after correctly marking SAGAN at start",
+      "ALAPHILIPPE Julian": "negative: Cracked badly on final climb at Villard-de-Lans where his father won yellow in 1987, psychological pressure possible",
+      "QUINTANA Nairo": "negative: Cracked again on final climb, losing top-10 position to DUMOULIN who was also struggling, career decline evident",
+      "DUMOULIN Tom": "neutral: Suffered on final climb but still gained position over QUINTANA, barely holding on",
+      "LOPEZ Miguel Angel": "positive: Tactically astute late attack targeting 11-second gap to URAN for podium, not stage hunting",
+      "POGACAR Tadej": "positive: Attacked before finish despite no GC gain possible, showing relentless aggression even when tactically unnecessary",
+      "ROGLIC Primoz": "neutral: Momentarily isolated when UAE accelerated but JUMBO regained control, defensive rather than dominant"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:23:46.787014+00:00"
+}

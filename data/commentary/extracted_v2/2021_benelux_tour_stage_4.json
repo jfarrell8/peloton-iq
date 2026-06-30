@@ -1,0 +1,25 @@
+{
+  "label": "2021 Benelux Tour Stage 4",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-02",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 4 sprint after Lotto-Soudal successfully chased back following separation on Ardennes climbs with 8km remaining.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto-Soudal demonstrated superior chase capacity when Ewan dropped, using Sweeney/van der Zande to regain contact within final 8km.",
+      "Ardennes climbs failed to create GC selection despite expectations, revealing course was inadequate for lightweight climbers' advantage.",
+      "Breakaway management allowed six-rider group with riders 5+ minutes down, indicating peloton confidence in controlling modest climbing circuit."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: Won by multiple bike lengths after being dropped late, suggesting superior form recovery and sprint speed over stage race fatigue.",
+      "MERLIER Tim": "negative: Dropped from lead group with 8km remaining on Ardennes climbs, exposing weakness on rolling terrain compared to pure flat stages.",
+      "EVENEPOEL Remco": "neutral: Positioned at front despite GC already secured, suggesting team using stage for sprint leadout practice rather than GC defense.",
+      "DE BUYST Jasper": "positive: Delivered final leadout for Ewan while finishing 5th himself, demonstrating dual sprint/leadout capability unusual for domestiques."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:33:32.255461+00:00"
+}

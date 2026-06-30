@@ -1,0 +1,32 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-24",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Adam attacked 5km out on Vallter 2000, dropped KUSS Sepp in final 1500m after Sepp's premature attack on flatter terrain.",
+    "winner": "YATES Adam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CARAPAZ Richard sacrificed himself marking VALVERDE and QUINTANA multiple attacks below 8km, protecting YATES/PORTE GC positions while conceding own time.",
+      "Jumbo-Visma and QuickStep pacing for Ineos on flat with 45km left handed DENNIS/CASTROVIEJO advantage, tactical error when YATES beats breakaway regardless.",
+      "KUSS Sepp attacked YATES prematurely on flatter section 5km out instead of waiting, cost him in final 1500m above 2000m altitude.",
+      "THOMAS Geraint finishing 4th 30sec back signals Tour form returning, signature last-kilometer attack pattern reappearing at altitude."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: dropped KUSS above 2000m in final 1500m, controlled pace rather than early attack, taking 45sec GC lead",
+      "CARAPAZ Richard": "neutral: worked as domestique marking VALVERDE/QUINTANA attacks sacrificing own GC at -52sec, multiple surges cost him time",
+      "KUSS Sepp": "negative: attacked too early on flatter terrain 5km out, unable to sustain above 2000m where altitude should suit him",
+      "VALVERDE Alejandro": "positive: attacked multiple times from 8km forcing CARAPAZ responses, finished 3rd at +19sec in best climbing form in years",
+      "CHAVES Esteban": "positive: attacked 4.5km out unseen, closed 7sec gap to within 100m of YATES, finished 2nd only 13sec back",
+      "THOMAS Geraint": "positive: 4th at +30sec with signature last-kilometer attack signals Tour form, protecting podium position at +45sec GC",
+      "PORTE Richie": "positive: sat in wheels while CARAPAZ marked attacks, 8th limiting losses while YATES takes time on rivals",
+      "ALMEIDA João": "negative: lost leader's jersey conceding 50sec to YATES, now only 3sec ahead of THOMAS in 4th overall",
+      "SOLER Marc": "negative: dropped immediately with over 10km remaining on false-flat section, surprising weakness for climber",
+      "ARENSMAN Thymen": "neutral: best climber in breakaway but swallowed by peloton, DSM lacking firepower to sustain 10min advantage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:15:43.632370+00:00"
+}

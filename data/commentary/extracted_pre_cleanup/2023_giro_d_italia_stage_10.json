@@ -1,0 +1,30 @@
+{
+  "label": "2023 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from a 4-rider breakaway after the peloton disintegrated in horrific weather, with THOMAS Geraint inheriting pink from COVID-withdrawn EVENEPOEL Remco.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VLASOV Aleksandr abandoned early while ill, showing GC contenders didn't wait for normal stage start to assess condition.",
+      "MILAN Jonathan contested intermediate sprint despite targeting stage win, burning matches that may have cost breakaway victory at 300m.",
+      "VINE Jay lost 10 minutes and top-10 GC by being dropped during clothing changes, showing service timing more critical than peloton position.",
+      "Four-rider breakaway survived because sprinter teams lost domestiques to attrition, leaving firepower insufficient despite closing to 1-minute at 15km."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: abandoned with COVID from race lead, exposing Quick-Step's lack of GC depth when leader withdraws",
+      "THOMAS Geraint": "neutral: inherited pink by attrition rather than racing action, but positioned Ineos with four top-10 riders",
+      "VLASOV Aleksandr": "negative: abandoned hours into stage feeling ill, suggesting vulnerability to extreme weather conditions",
+      "VINE Jay": "negative: lost 10 minutes and top-10 GC during service moment, indicating UAE support coordination issues",
+      "CORT Magnus": "positive: held power reserve until final 100m despite earlier attacks, showing superior tactical patience in 4-rider finale",
+      "GEE Derek": "negative: attacked twice inside 1500m but lacked finishing speed, wasting energy that enabled CORT's win",
+      "CAVENDISH Mark": "positive: regained contact after being distanced, demonstrating resilience despite reduced lead-out support",
+      "GAVIRIA Fernando": "negative: crashed during clothing change then never regained contact, showing vulnerability during in-race service"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:00:53.837415+00:00"
+}

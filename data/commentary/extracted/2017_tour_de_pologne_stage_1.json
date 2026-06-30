@@ -5,20 +5,24 @@
   "stage": 1,
   "channel": "manual",
   "extraction": {
-    "one_line_summary": "SAGAN Peter jumped early when leadout trains disintegrated inside 1km, held off EWAN Caleb after late crash scattered sprint",
+    "one_line_summary": "SAGAN Peter won stage 1 by jumping early when sprinters hesitated in disorganized finale, holding off EWAN Caleb after multiple failed moves.",
     "winner": "SAGAN Peter",
-    "commentary_quality": "moderate",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "Quickstep launched rider attack with 1.6km remaining despite bringing no designated sprinter, forcing leadouts to chase prematurely.",
-      "SAGAN exploited moment when rival sprinters hesitated at 200m after their trains collapsed, launching well before traditional sprint initiation.",
-      "Seven-rider team format left MEZGEC Lucas isolated doing solo chase work for EWAN, dying before finale commenced."
+      "KEIZER Martijn took intermediate sprint with PATERSKI Maciej, bonus seconds critical for team car positioning on stage 2.",
+      "BMC's OEHLINGER Daniel strung out pace at 2km with no sprinter, disrupting leadout trains fatally for organized teams.",
+      "Quick-Step attacked without sprinter present creating chaos; teams brought wrong rosters expecting controlled finish.",
+      "SAGAN launched sprint when leadouts collapsed, recognizing hesitation beats organization when finale becomes disorganized."
     ],
     "rider_signals": {
-      "SAGAN Peter": "positive: demonstrated tactical opportunism to win despite not being traditional pure sprinter in disorganized finale",
-      "EWAN Caleb": "negative: lost leadout support early when MEZGEC exhausted himself chasing Quickstep move, couldn't respond to SAGAN's timing",
-      "MEZGEC Lucas": "negative: forced into extended wind-taking 1.6km out with no teammates to rotate, compromised EWAN's sprint positioning"
+      "SAGAN Peter": "positive: spotted timing window when sprinter teams hesitated, launched early and held power to line despite disorganized approach",
+      "EWAN Caleb": "neutral: second place but MEZGEC Luka leadout exhausted early, forced to improvise positioning behind rival trains",
+      "MEZGEC Luka": "negative: died slow death as leadout man, looking for help 900m out indicating insufficient preparation",
+      "HOELGAARD Daniel": "neutral: BMC used him to disrupt at 2km without sprinter, tactical move but caught before finale",
+      "BONIFAZIO Niccolò": "neutral: top five finish suggests opportunism works when crash and chaos eliminate organized trains",
+      "FARRAR Tyler": "neutral: third place result shows veterans capitalize when leadouts fail and younger sprinters crash"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:12:19.755876+00:00"
+  "extracted_at": "2026-06-28T21:11:56.163850+00:00"
 }

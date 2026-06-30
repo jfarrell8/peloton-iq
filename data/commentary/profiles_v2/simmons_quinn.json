@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Launches aggressive moves at distance (60km out), typically from breakaways on hilly terrain. Prefers long-range efforts over explosive late attacks, showing sustainable threshold over punch.",
+  "team_tactics": "Operates as breakaway specialist and KOM hunter rather than protected rider. Receives team orders to sacrifice personal objectives (KOM jersey) for domestique duties. Limited effectiveness as leadout rider on flat/hilly stages.",
+  "terrain_preference": "Hilly classics and breakaway-friendly stages suit best. Sustainable threshold allows recovery from mid-climb drops. Struggles on explosive climbing finishes and lacks firepower for organized sprints.",
+  "vulnerability": "Lacks explosive power to hold off organized leadouts or sustain late solo attacks. Poor climbing acceleration causes drops on steeper gradients. Leadout positioning skills inadequate for flat sprint stages.",
+  "key_patterns": [
+    "Breaks away early (60km+) relying on threshold over explosiveness (3 observations)",
+    "Struggles with explosive efforts: dropped on climbs but recovers via sustained power (2 observations)",
+    "Prioritizes KOM/stage hunting from breakaways over GC or sprint outcomes (3 observations)",
+    "Shows form improvement late in stage races rather than early dominance (2 observations)",
+    "Failed leadout/positioning duties when assigned support roles (2 observations)"
+  ],
+  "form_trajectory": "neutral: Mixed signals with 2023 showing leadout weakness but consistent breakaway presence 2020-2022. No clear improvement or decline pattern.",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "SIMMONS Quinn",
+  "built_from": [
+    "2020 Bretagne Classic - Ouest France",
+    "2020 Bretagne Classic - Ouest France",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 Vuelta a Espana Stage 16",
+    "2021 Vuelta a Espana Stage 19",
+    "2021 Vuelta a Espana Stage 19",
+    "2022 Tirreno-Adriatico Stage 4",
+    "2022 Tirreno-Adriatico Stage 6",
+    "2022 Tour de Suisse Stage 6",
+    "2023 Tirreno-Adriatico Stage 5",
+    "2023 Tour de France Stage 3"
+  ]
+}

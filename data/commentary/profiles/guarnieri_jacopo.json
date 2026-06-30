@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not an attacker. Functions exclusively as a leadout specialist, delivering sprinters in the final 1km with preference for early acceleration 200-300m from line.",
+  "team_tactics": "Dedicated leadout man who launches final pilot with systematic positioning from 1km out. Team relies on his ability to maintain high tempo after domestique train control, though timing shows consistent early delivery pattern.",
+  "terrain_preference": "Pure flat sprint stages where sustained high-speed leadouts determine outcomes. Exposed on technical finishes requiring late positioning changes or crash-prone scenarios inside final 2km.",
+  "vulnerability": "Crashes under pressure in chaotic final kilometers. Consistently launches 200-300m too early, leaving sprinter exposed to late comebacks. Performance degrades in technical/narrow finishes.",
+  "key_patterns": [
+    "Leadout delivery timing 200-300m earlier than optimal across multiple Grand Tour sprints",
+    "Elite execution under fatigue when team controls from distance, textbook domestique work",
+    "Crash vulnerability in final 2km under high-pressure positioning battles, multiple incidents observed"
+  ],
+  "form_trajectory": "negative: 2021 crash incident suggests declining ability to handle sprint chaos; early delivery issues persist from 2019",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "GUARNIERI Jacopo",
+  "built_from": [
+    "2018 Tour de France Stage 18",
+    "2019 Giro d'Italia Stage 11",
+    "2021 UAE Tour Stage 6"
+  ]
+}

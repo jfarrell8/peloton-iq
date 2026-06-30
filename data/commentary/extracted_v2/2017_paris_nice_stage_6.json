@@ -1,0 +1,25 @@
+{
+  "label": "2017 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-10",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won from breakaway 2+ minutes down on GC while HENAO Sergio attacked on steepest section, gaining time bonus on ALAPHILIPPE Julian who dropped GALLOPIN Tony in final meters",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep allowed 2+ minute GC deficit riders like Yates to escape while policing closer threats Henao/Gallopin/Izagirre ruthlessly",
+      "Henao attacked steepest gradient section of final climb to maximize time gap and secure 6-second bonus",
+      "Dan Martin sacrificed top-10 GC completely for Alaphilippe domestique work, revealing Quick-Step all-in leader protection strategy"
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: dropped closest GC rival Gallopin in final meters despite looking vulnerable to Henao's attack on steep section",
+      "HENAO Sergio": "positive: best positioned GC threat after gaining time bonus via attacking steepest gradients where Alaphilippe vulnerable",
+      "GALLOPIN Tony": "negative: lost Alaphilippe's wheel final hundred meters on steep finish despite being closest GC rival pre-stage",
+      "MARTIN Dan": "neutral: abandoned personal top-10 GC for full domestique duty, signaling Quick-Step prioritizes single leader over depth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:00:51.521761+00:00"
+}

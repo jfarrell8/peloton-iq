@@ -1,0 +1,23 @@
+{
+  "label": "2023 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BAIS Davide won from early 4-man breakaway at Gran Sasso after peloton conceded stage completely, no GC action.",
+    "winner": "BAIS Davide",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Team DSM surrendered maglia rosa defense effort after ensuring PETILLI couldn't threaten LIKENESS's time gap, prioritizing rest over bonus seconds.",
+      "GC contenders tacitly agreed to neutralize Gran Sasso MTF despite 2000m altitude, suggesting collective fatigue at 219km dictated race dynamics."
+    ],
+    "rider_signals": {
+      "YATES Simon": "neutral: referenced only as 2018 winner of identical finish, no participation data",
+      "MILAN Jonathan": "negative: lost further points to HURLESTON in intermediate sprint maglia ciclamino battle",
+      "EVENEPOEL Remco": "neutral: finished in gruppo with no time gaps, minimal effort shown"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:04:34.386214+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2019 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BILBAO Peli Javi won from 8-rider breakaway by attacking with 1900m to go on uphill finish in L'Aquila, exploiting hesitation among chasers",
+    "winner": "BILBAO Peli Javi",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana placed two riders (Bilbao/Pedraza) in break; Pedraza's hard pulling preserved energy for Bilbao's winning move late",
+      "Bilbao attacked at 1900m on uphill finish forcing chasers to hesitate organizing pursuit, creating decisive gap",
+      "De Plus abandoned after being in previous day's breakaway, revealing cost of consecutive breakaway efforts on domestiques"
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "negative: Abandoned after hard work in Stage 6 breakaway, leaving Roglic without key mountain domestique",
+      "BILBAO Peli Javi": "positive: Given GC freedom despite climbing ability because team improvised when Dario couldn't make break",
+      "ROJAS Jose Joaquin": "positive: Gained over 1 minute on GC rivals despite two consecutive days in breakaway"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:51:36.132614+00:00"
+}

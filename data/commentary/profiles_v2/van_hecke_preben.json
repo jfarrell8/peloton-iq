@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks on climbs with sufficient strength to drop breakaway companions and sustain solo efforts. Shows willingness to commit early from breakaways rather than waiting for finale.",
+  "team_tactics": "UAE Team Emirates commits multiple riders to breakaways, coordinating efforts for specific objectives like KOM points. Team willing to invest domestiques in long-range moves.",
+  "terrain_preference": "Climbing terrain where he can use strength differential to shed companions. Suited to hilly one-day race profiles and stage race breakaway opportunities with categorized climbs.",
+  "vulnerability": "Limited observations prevent identifying clear weaknesses. Early-season racing suggests potential vulnerability in peak WorldTour competition without more data.",
+  "key_patterns": [
+    "UAE deploys multi-rider breakaway tactics with Van Hecke as key component (2 instances)",
+    "Shows climbing strength sufficient to attack and drop breakaway companions on ascents (2 instances)",
+    "Early-season form indicator with breakaway-focused racing approach in February period (2 instances)"
+  ],
+  "form_trajectory": "positive: demonstrated climbing strength translating from GP de Denain into Tour of Oman, capable of solo attacks from breaks",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VAN HECKE Preben",
+  "built_from": [
+    "2019 Tour of Oman Stage 2",
+    "2019 Tour of Oman Stage 3"
+  ]
+}

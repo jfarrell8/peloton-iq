@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-26",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "ACKERMAN Pascal won the sprint in Tour of Guangxi Stage 2, narrowly defeating JAKOBSEN Fabio after Bora-Hansgrohe controlled the break",
+    "winner": "ACKERMAN Pascal",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Bora-Hansgrohe controlled breakaway without committing riders, textbook lead-out execution suggests superior sprint train organization versus Deceuninck.",
+      "GRIVKO Andriy in break two consecutive days signals Mitchelton positioning for intermediate sprints rather than sprint train support.",
+      "VANYA Rémi contested all intermediate sprints despite being in break, revealing Deceuninck prioritizing bonus seconds over stage win."
+    ],
+    "rider_signals": {
+      "ACKERMAN Pascal": "positive: fourth WorldTour win of 2018 demonstrates legitimate top-tier sprint threat, not just national circuit specialist",
+      "GROENEWEGEN Dylan": "negative: vanquished in sprint while wearing red jersey suggests either tactical miscalculation or inferior lead-out compared to Bora",
+      "JAKOBSEN Fabio": "positive: second place without teammate support from break shows individual positioning ability in chaotic finishes",
+      "PORTE Richie": "negative: DNS on Stage 2 signals BMC dysfunction in team's final season, abandoning before any decisive terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:34:22.565648+00:00"
+}

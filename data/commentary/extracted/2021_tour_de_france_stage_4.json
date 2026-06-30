@@ -3,23 +3,27 @@
   "race_name": "Tour de France",
   "race_date": "2021-06-29",
   "stage": 4,
-  "channel": "GCN Racing",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "CAVENDISH Mark won a technical sprint finish after breakaway rider Søren KRAGH ANDERSEN solo'd to within 300m before being caught",
+    "one_line_summary": "CAVENDISH won a field sprint at Fougères, launched by MORKOV after BALLERINI crashed, beating PHILIPSEN and LAPORTE who changed shoes after a mechanical.",
     "winner": "CAVENDISH Mark",
-    "commentary_quality": "moderate",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "Quick-Step deployed dual sprint strategy with Alaphilippe turning for Cavendish after exhausting lead-out, revealing backup firepower.",
-      "Breakaway rider Søren Kragh Andersen nearly stole sprint stage by persisting solo inside final kilometer, delaying sprinter team commitment.",
-      "Morkov exhibited intermediate sprint energy management for Cavendish, securing 15 points at Vitré without burning Cavendish's matches."
+      "LAPORTE changed shoes mid-stage after mechanical, rejoined peloton, still finished 7th in sprint—indicates exceptional fitness reserve for flat stages.",
+      "VAN MOER bridged solo from break to contest sprint for crashed teammate EWAN, suggesting Lotto domestiques carry sprint speed reserve late-race.",
+      "BALLERINI lost leadout wheel but CAVENDISH still won, revealing Deceuninck's depth allows flexibility when primary train structure collapses.",
+      "Intermediate sprint 20 miles from finish created intense green jersey contest, fragmenting sprint trains before final—earlier intermediates drain sprint leadout cohesion."
     ],
     "rider_signals": {
-      "CAVENDISH Mark": "positive: Morkov's energy conservation tactics at intermediate sprint (36km to go) proved crucial for final sprint freshness",
-      "ALAPHILIPPE Julian": "positive: Sacrificed sprint finish to lead out Cavendish in final 300m despite holding yellow jersey and green jersey contention",
-      "VAN MOER Brent": "neutral: Won intermediate sprint at Vitré but couldn't sustain breakaway cooperation with Perhi through finale",
-      "KRAGH ANDERSEN Søren": "positive: Solo attack with 6km remaining nearly succeeded, maintaining 15-second gap inside final kilometer before capture"
+      "CAVENDISH Mark": "positive: won after 3-year Tour absence and near-retirement, indicating peak form can return rapidly with proper team structure",
+      "EWAN Caleb": "negative: crashed previous day with broken collarbone, absent from sprint—physical fragility pattern emerging",
+      "VAN MOER Brent": "positive: bridged from breakaway to contest sprint solo for injured leader, showing rare dual breakaway-sprint capability",
+      "LAPORTE Christophe": "positive: 7th place after mid-race shoe change mechanical demonstrates exceptional recovery ability and positioning resilience",
+      "BALLERINI Davide": "negative: lost leadout wheel in final, structural fragility when Deceuninck train disrupted despite team depth",
+      "PHILIPSEN Jasper": "neutral: runner-up finish confirms consistent sprint placement but lacks winning acceleration against top-tier opposition",
+      "MØRKØV Michael": "positive: delivered winning leadout despite train disruption, confirms elite pilot reliability under chaotic conditions"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:32:50.336651+00:00"
+  "extracted_at": "2026-06-28T23:10:22.385247+00:00"
 }

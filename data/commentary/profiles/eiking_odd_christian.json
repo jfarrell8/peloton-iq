@@ -1,20 +1,29 @@
 {
-  "attacking_style": "Does not exhibit proactive attacking behavior; relies on defensive positioning and time gained from earlier opportunities rather than initiating late-race or climb-specific accelerations.",
-  "team_tactics": "Team appears divided in priorities between supporting Eiking's GC defense and pivoting resources toward Meintjes' top-10 ambitions, suggesting limited full team commitment to his leadership.",
-  "terrain_preference": "Vulnerable on sustained Category 1 climbs and technical wet descents; lacks the explosiveness for summit finishes and the technical skill for high-speed descent racing.",
-  "vulnerability": "Cracks under sustained climbing pressure from GC rivals; passive race management leads to incremental time losses even without direct attacks; crashes on technical descents in wet conditions.",
+  "attacking_style": "Not a natural attacker; gains positions through opportunistic breakaway survival on moderate climbs rather than explosive attacks. Shows resilience in fragmented race situations but lacks punch to initiate moves.",
+  "team_tactics": "Operates with minimal mountain support from Intermarché, forced to defend independently at back of GC groups. Team not structured for sustained GC defense, leading to survival-mode racing once in red jersey.",
+  "terrain_preference": "Survives best on category-2 climbs and moderate mountain stages where breakaway positioning compensates for limited climbing firepower. Exposed on sustained Cat-1 finishes and multi-climb mountain stages requiring repeated accelerations.",
+  "vulnerability": "Crumbles under sustained GC pressure on hard mountain stages; crashes on technical descents when defending jersey under stress. Lacks team support to control race tempo when holding leader position.",
   "key_patterns": [
-    "Passive defense strategy: concedes time without being attacked, suggesting limited ability to respond to pressure.",
-    "Fragility on Category 1 climbs: crashes and loses significant time when multiple hard climbs accumulate.",
-    "Team commitment uncertain: commentary suggests resources may shift to other riders mid-race."
+    "Gained red jersey opportunistically from break, then entered pure survival mode (4 observations).",
+    "Consistently lost time to true GC contenders on harder mountain stages (3 observations).",
+    "Defended alone at back of GC groups without meaningful team support (3 observations).",
+    "Rival teams intentionally allowed jersey to burden under-resourced Intermarché squad (2 observations).",
+    "Showed fighting spirit after setbacks but ultimately vulnerable when defending leader position (2 observations)."
   ],
-  "form_trajectory": "negative: progressive deterioration visible through passive time losses and catastrophic crash, indicating inability to sustain early GC position",
-  "races_analysed": 3,
-  "confidence": "low",
+  "form_trajectory": "negative: Crashed out spectacularly on descent while defending red jersey under mounting pressure, confirming inability to sustain unexpected GC defense role",
+  "races_analysed": 9,
+  "confidence": "high",
   "rider_name": "EIKING Odd Christian",
   "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 11",
     "2021 La Vuelta ciclista a Espana Stage 13",
     "2021 La Vuelta ciclista a Espana Stage 14",
-    "2021 La Vuelta ciclista a Espana Stage 17"
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2021 Vuelta a Espana Stage 10",
+    "2021 Vuelta a Espana Stage 10",
+    "2021 Vuelta a Espana Stage 11",
+    "2021 Vuelta a Espana Stage 14",
+    "2021 Vuelta a Espana Stage 17"
   ]
 }

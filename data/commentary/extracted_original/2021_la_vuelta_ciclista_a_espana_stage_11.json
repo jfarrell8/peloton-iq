@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 11",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-25",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked inside final kilometer on 20% ramps at Valdepenas, gapped MASS Enric and field for stage win despite depleted team support.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC called SEPP Kuss for lead-out despite prior day crash, showing aggressive intent even without full team strength.",
+      "MASS Enric attacked before ROGLIC on final wall but lacked punch to hold 20%+ gradients against superior explosive power.",
+      "VAN BAARLE Dylan paced LOPEZ Miguel Angel to finale, revealing Movistar prioritizing positioning over early attacks on short stages.",
+      "NIELSEN Magnus Cort held 30-second gap until 4km but collapsed on 20% wall, showing sustained climbing inadequate without final kick."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: second stage win post-crash demonstrates recovery and superiority on explosive finishes over sustained climbers",
+      "MASS Enric": "neutral: initiated final wall attack but gapped by ROGLIC, lacks explosive power for super-steep ramps despite strong positioning",
+      "LOPEZ Miguel Angel": "positive: third place with VAN BAARLE support suggests Movistar has dual-leader capability on punchy finishes",
+      "NIELSEN Magnus Cort": "negative: 30-second advantage with 4km remaining evaporated on 20% gradients, exposing weakness on explosive walls versus breakaway tempo",
+      "HAGUE Jack": "positive: fourth place from reduced bunch indicates consistency on steep finishes without specific team support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:25:35.530917+00:00"
+}

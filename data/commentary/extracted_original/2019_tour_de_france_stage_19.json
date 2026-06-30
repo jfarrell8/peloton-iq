@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-26",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan took virtual lead on Col de l'Iseran with solo attack catching break, but stage cancelled due to snowstorm/landslide, GC taken at summit.",
+    "winner": "Stage cancelled",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS isolated ALAPHILIPPE by setting tempo with 7km to summit, exploiting lack of Deceuninck teammates before attacks began.",
+      "THOMAS attacked first at 6km to go, forcing ALAPHILIPPE to respond repeatedly before BERNAL's winning move.",
+      "BERNAL launched counterattack after THOMAS was caught, exploiting moment when group reformed and rivals hesitated.",
+      "VALVERDE/URAN in 9th-10th GC both made early break within 6min deficit, revealing aggressive tactic for penultimate positions."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: at 22 years old, dropped entire break including YATES in final 2km of Iseran, gaining 2min on ALAPHILIPPE.",
+      "PINOT Thibaut": "negative: abandoned with thigh muscle injury from team car while in 5th GC before key mountain stage.",
+      "THOMAS Geraint": "positive: strong enough to launch first attack at 6km but couldn't sustain, visibly relieved at stage cancellation.",
+      "ALAPHILIPPE Julian": "negative: isolated without teammates, cracked when INEOS set tempo, lost 2min to BERNAL despite responding to THOMAS attacks.",
+      "KRUIJSWIJK Steven": "negative: unable to follow BERNAL's acceleration, stuck in chase group losing nearly 1min to new race leader.",
+      "QUINTANA Nairo": "negative: paying for Stage 18 efforts, dropped from yellow jersey group 7km from Iseran summit."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:15:03.309603+00:00"
+}

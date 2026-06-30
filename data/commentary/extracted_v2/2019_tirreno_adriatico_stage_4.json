@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-16",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "LENKO Alexey survived two crashes in final 20km, attacked decisively with under 3km remaining on Fossa Brone's short punchy climb, held off ROOGLIČ and YATES despite leading headwind sprint",
+    "winner": "LENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana deployed twin card tactics with LUTSENKO in break and LENKO in chase group, forcing rivals to hesitate",
+      "ROOGLIČ attacked immediately when UAE's POGAČAR protection expired on steep ramp, exposing HESJEDAL's early expenditure",
+      "Major GC contenders lost 23 seconds in late-race crash 20km out, suggesting reconnaissance failure on technical descent approach"
+    ],
+    "rider_signals": {
+      "LENKO Alexey": "positive: crashed twice in final 20km yet still had explosive power to attack steep finish, exceptional resilience beyond typical puncheur durability",
+      "ROOGLIČ Primož": "positive: only GC leader capable of sustained acceleration on final climb, but tactical caution in headwind prevented closing gap to Lenko",
+      "YATES Adam": "neutral: lost 2 seconds to Roglič despite being in same finish group, revealing slight power deficit on steepest gradients",
+      "DUMOULIN Tom": "negative: lost 23 seconds in crash group with ALAPHILIPPE, eliminating GC ambitions despite having legs to finish with leaders",
+      "FUGLSANG Jakob": "neutral: played perfect teammate role blocking chase for Lenko but showed no personal ambition to attack",
+      "POZZOVIVO Domenico": "positive: bridged alone from break to chase group, demonstrating climbing form superior to positioning would suggest"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:55:43.746099+00:00"
+}

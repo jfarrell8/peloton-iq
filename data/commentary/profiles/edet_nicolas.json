@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Breakaway specialist who targets strategic positioning rather than solo attacks. Demonstrates tactical patience, waiting for favorable conditions and specific opportunities (KOM points, stage wins from breakaway groups).",
+  "team_tactics": "Limited team support evident; operates as opportunist in breakaways rather than protected leader. Self-sufficient rider who relies on personal positioning and tactical awareness over domestique-led setups.",
+  "terrain_preference": "Adaptable to varied terrain when in breakaways. Shows technical proficiency in adverse conditions (wet roads). KOM-focused suggests comfort on rolling to moderate climbs but not steep mountain finishes.",
+  "vulnerability": "Struggles to make or survive selections when high intensity climbing is required. Dropped before decisive phases when form is lacking, indicating limited ability to respond to repeated accelerations on climbs.",
+  "key_patterns": [
+    "Targets KOM classifications through calculated breakaway placement rather than pure climbing strength (2 observations)",
+    "Excels in wet/technical conditions with superior bike handling and tactical adaptation (3 observations)",
+    "Operates primarily from breakaways; not competitive in bunch sprints or elite GC selections (2 observations)",
+    "Demonstrates tactical intelligence over raw power: seated sprint for traction, strategic KOM hunting (3 observations)"
+  ],
+  "form_trajectory": "neutral: Most recent 2020 observation shows positive tactical execution (KOM hunting), but limited 2020 data. Earlier 2019 showed both success (Vuelta win) and weakness (Dauphiné dropped).",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "EDET Nicolas",
+  "built_from": [
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Vuelta a Espana Stage 8",
+    "2019 Vuelta a Espana Stage 8",
+    "2019 Vuelta a Espana Stage 8",
+    "2020 Paris - Nice Stage 6"
+  ]
+}

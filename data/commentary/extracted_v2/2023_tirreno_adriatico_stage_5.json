@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won mountaintop sprint by a bike length in extreme winds, taking 10 bonus seconds to flip 6-second deficit into 4-second overall lead.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MASS Enric attacked despite struggling on descents in wind, demonstrating selective aggression on final climb when sheltered positioning mattered less.",
+      "Bora-Hansgrohe led chase most aggressively defending KAMNA's jersey, revealing vulnerability when domestiques exhaust themselves early in wind stages.",
+      "ROGLIČ timed sprint perfectly from shadows rather than initiating, exploiting chaos from earlier attacks by MASS, CHECCONI, LANDER.",
+      "Jumbo-Visma committed GELDERMAN and VAN AERT resources early, suggesting team willing to burn multiple cards when bonus seconds at stake."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: won sprint by bike length after sitting in shadows, demonstrating superior positioning discipline and late acceleration in crosswinds",
+      "MASS Enric": "positive: attacked on final climb despite documented descent struggles earlier, showing selective tactical aggression when terrain suited",
+      "CARUSO Damiano": "neutral: bridged 23-second gap solo but presence questioned whether working for POTRAGO/LANDER or opportunistic",
+      "KAMNA Lennard": "negative: required sustained Bora-Hansgrohe domestique support to defend 6-second lead, ultimately lost jersey despite team sacrifice",
+      "SIMMONS Quinn": "negative: pulled from breakaway while six others continued, suggesting physical or tactical miscalculation",
+      "PIDCOCK Thomas": "negative: receiving team support from Ineos after previous day crash, indicating lingering effects or positioning deficit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:54:42.749343+00:00"
+}

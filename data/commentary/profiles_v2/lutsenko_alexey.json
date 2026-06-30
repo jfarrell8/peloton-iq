@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Late-race aggression specialist: attacks inside final 2-5km on punchy climbs, often after aggressive earlier racing. Exceptional finishing power despite extended efforts throughout the stage.",
+  "team_tactics": "Astana provides extended tempo control throughout stages to set up late attacks. Often animates races via bonus sprint hunting in stage races before final moves. Can also function as elite domestique when not protected.",
+  "terrain_preference": "Punchy summit finishes (2-5km climbs) where power endurance matters more than pure climbing. Excels in breakaways requiring sustained engine over 100km+. Exposed on technical wet cobbles where positioning judgment falters.",
+  "vulnerability": "Poor tactical decision-making on technical terrain (wet cobbles). Time bonus hunting strategy insufficient without underlying form base. Not naturally spectacular in WT-level ITTs despite occasional breakthrough performances.",
+  "key_patterns": [
+    "Attacks final 2-5km of punchy climbs after full day efforts, minimal power fade (4 instances)",
+    "Exceptional breakaway engine: drives groups 100km+ then still finishes solo efforts (3 instances)",
+    "Bonus sprint hunting across multiple intermediate points in stage races (2 instances UAE Tour)",
+    "Peak form delivers winning streaks: back-to-back stage wins when dialed (Tour of Oman triple)",
+    "Versatile tactical role: transitions from protected rider to elite domestique work mid-race (2 instances)"
+  ],
+  "form_trajectory": "neutral: Most recent 2022 observation shows GC-threatening breakaway capacity maintained, but earlier peak 2019-2021 form (stage wins, ITT breakthrough) not evident in limited recent data",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "LUTSENKO Alexey",
+  "built_from": [
+    "2018 Paris-Nice Stage 1",
+    "2019 Criterium du Dauphine Stage 7",
+    "2019 Tour of Oman Stage 2",
+    "2019 Tour of Oman Stage 2",
+    "2019 Tour of Oman Stage 3",
+    "2019 Tour of Oman Stage 3",
+    "2019 Tour of Oman Stage 5",
+    "2019 Tour of Oman Stage 5",
+    "2019 Tour of Oman Stage 6",
+    "2019 UAE Tour Stage 2",
+    "2019 UAE Tour Stage 2",
+    "2019 UAE Tour Stage 4",
+    "2019 UAE Tour Stage 4",
+    "2020 Tour de France Stage 6",
+    "2021 Criterium du Dauphine Stage 4",
+    "2021 Criterium du Dauphine Stage 4",
+    "2022 Vuelta a Espana Stage 4"
+  ]
+}

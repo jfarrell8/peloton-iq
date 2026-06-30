@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-14",
+  "stage": 2,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won from a large group sprint after ROELANDTS Jürgen's attack with sub-3km was shut down by Bora-Hansgrohe.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROELANDTS attack inside 3km forced Bora-Hansgrohe into isolation work, potentially weakening their sprint positioning despite neutralizing move.",
+      "Deceuninck positioned ALAPHILIPPE perfectly on technical uphill finish while rivals expended energy chasing late ROELANDTS move.",
+      "THOMAS Geraint won 2017 edition attacking 5km out, suggesting this finish rewards late attacks over pure sprinting."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Won despite admitting team lost significant time yesterday, showing individual stage-hunting tactics prioritized over GC defense.",
+      "ROELANDTS Jürgen": "positive: Nearly succeeded with sub-3km attack on uphill finish, confirming danger-man status on punchy technical finales.",
+      "NIBALI Vincenzo": "neutral: Present in final group but Bora-Hansgrohe isolated doing chase work suggests team coordination issues on selective finishes."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:55:20.755084+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-15",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won a crosswind-shattered sprint after ALAPHILIPPE's front riding at 38km fractured the peloton, eliminating PINOT and PORTE from GC contention.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROWE Luke with BURGHARDT Marcus initiated crosswind split at 68km, catching GC riders WELLENS, PINOT off guard despite moderate breakaway gap.",
+      "ALAPHILIPPE Julian riding at front himself at 38km intensified echelon splitting, unusual yellow jersey aggression on presumed sprint stage.",
+      "EF Education First with CLARKE Simon orchestrated tempo after initial crosswind, showing coordinated echelon exploitation beyond single-team Ineos domination pattern."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "negative: Lost 1:40 in crosswinds despite starting stage third overall, catastrophic positioning failure from presumed GC podium contender.",
+      "PORTE Richie": "negative: Caught behind crosswind split, unable to close 12-second gap despite LUTSENKO help, exposing isolation from Trek support.",
+      "LANDA Mikel": "negative: Lost over 2 minutes behind even Pinot group, complete tactical and positional disaster worse than other GC casualties.",
+      "BENNETT George": "negative: Isolated at 1:51 after bottle duty, Jumbo-Visma prioritized Van Aert sprint over protecting GC rider positioning.",
+      "ALAPHILIPPE Julian": "positive: Aggressively rode front at 38km in yellow jersey on flat terrain, atypical puncher behavior that gained GC time.",
+      "VAN AERT Wout": "positive: Beat pure sprinters VIVIANI and EWEN after surviving crosswind selection, showing classics power translates to Tour sprints post-echelon.",
+      "THOMAS Geraint": "positive: Made front split gaining time on rivals, showing Ineos positioning remained superior despite ROWE initiating move."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:12:59.592878+00:00"
+}

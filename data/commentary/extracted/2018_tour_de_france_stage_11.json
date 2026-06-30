@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-18",
+  "stage": 11,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked with 5km remaining while rivals focused on FROOME Chris, took the stage and yellow as SKY controlled with depleted numbers.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "THOMAS Geraint attacked while QUINTANA Nairo fixated on FROOME Chris, exploiting Sky's two-leader setup to gain attention asymmetry advantage.",
+      "SKY dropped most domestiques early yet maintained control through relentless two-pronged leader attacks, forcing rivals into reactive mode despite numerical disadvantage.",
+      "DUMOULIN Tom soloed on descent attempting time gain, but lacked allies to sustain gap against Sky's dual-threat counterattack strategy.",
+      "Movistar played three cards (LANDA, QUINTANA, VALVERDE) but dispersed effort across climbs rather than concentrating force at decisive moment."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: attacking before co-leader FROOME revealed confidence hierarchy shift, took yellow with tactical initiative rather than domestique patience",
+      "FROOME Chris": "positive: repeated accelerations emptied QUINTANA and BARDET despite finishing behind THOMAS, demonstrating form sufficient to win five Tours",
+      "DUMOULIN Tom": "positive: descended aggressively alone in terrain suited to his skills, held gap longer than expected against Sky's chase",
+      "QUINTANA Nairo": "negative: tunnel vision on FROOME allowed THOMAS escape, failed to respond on terrain commentators labeled unsuitable for his climbing style",
+      "NIBALI Vincenzo": "negative: directed domestiques to pace for Sky on penultimate climb then attacked once, tactical passivity suggests either weakness or deferred strategy",
+      "LANDA Mikel": "neutral: best-placed Movistar rider at 2:56 after hard crash Sunday, but three-leader structure diluted team's attacking coherence"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:33:39.929647+00:00"
+}

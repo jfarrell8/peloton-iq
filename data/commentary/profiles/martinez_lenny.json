@@ -1,23 +1,31 @@
 {
-  "attacking_style": "Opportunistic breakaway specialist who targets stage wins and GC from early moves rather than late attacks. Willing to ride aggressively against more experienced climbers to achieve objectives.",
-  "team_tactics": "Groupama-FDJ provides breakaway positioning but limited protection in crosswinds or high-tempo chase scenarios. Rider appears to operate with independence once in the break.",
-  "terrain_preference": "Suited to moderate climbs and breakaway scenarios with quality riders. Exposed on steep gradients when pace exceeds threshold and in crosswind/echelon situations despite team presence.",
-  "vulnerability": "Struggles when climbing pace lifts beyond threshold on steep gradients (lost 1:09 in final 3km). Poor positioning awareness in crosswind splits despite available team support.",
+  "attacking_style": "Relies primarily on breakaway placements with team support rather than late-race attacks. Gains time through opportunistic group moves on mountainous stages, not explosive solo accelerations.",
+  "team_tactics": "Groupama-FDJ embeds him in breakaways with multiple domestiques for positioning control. Team executes defensive protocols when in leader's jersey. Conserves energy by riding teammates' wheels strategically.",
+  "terrain_preference": "Performs on moderate climbs and sustained efforts. Severely exposed on short, steep percentage walls and in crosswind scenarios where peloton fragments.",
+  "vulnerability": "Cracks on steep gradient walls (lost 1m08s on one climb). Caught out when peloton splits in crosswinds. Struggles to recover and fades after major efforts (post-stage win fatigue).",
   "key_patterns": [
-    "Targets GC and stages from breakaways rather than peloton-based racing (2 observations)",
-    "Shows aggressive racing mentality despite youth, unwilling to cooperate passively with veterans (2 observations)",
-    "Vulnerable to high-pace attrition: crosswinds and sustained steep climbing both exposed weaknesses (2 observations)",
-    "Can survive quality breakaways when pace is controlled but cracks when intensity spikes (2 observations)"
+    "Team-supported breakaway placement is primary tactic for GC gains, not late attacks (3 instances)",
+    "Vulnerable on steep percentage climbs, losing significant time on gradient walls (2 documented losses)",
+    "Exposed in crosswinds and peloton splits, lacking positioning skills in echelons (2 instances)",
+    "Strategically conserves energy by following teammates' wheels before taking leadership opportunities",
+    "Shows respectable ITT ability for young climber, handled GC pressure with maturity",
+    "Fades after major efforts suggesting recovery limitations at Grand Tour intensity"
   ],
-  "form_trajectory": "negative: After becoming youngest GT leader since 1904, immediately suffered crosswind isolation and climbing losses when pace intensified, suggesting initial success was opportunity-based rather than form-based",
-  "races_analysed": 4,
-  "confidence": "medium",
+  "form_trajectory": "negative: Early breakthrough to GC lead unsustainable, lost jersey and 1m+ on steep climbs, caught in crosswinds, faded post-effort on Tourmalet",
+  "races_analysed": 9,
+  "confidence": "high",
   "rider_name": "MARTINEZ Lenny",
   "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 10",
     "2023 La Vuelta Ciclista a Espana Stage 13",
+    "2023 La Vuelta Ciclista a Espana Stage 3",
     "2023 La Vuelta Ciclista a Espana Stage 6",
     "2023 La Vuelta Ciclista a Espana Stage 6",
     "2023 La Vuelta Ciclista a Espana Stage 8",
-    "2023 La Vuelta Ciclista a Espana Stage 9"
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 Vuelta a Espana Stage 6",
+    "2023 Vuelta a Espana Stage 6",
+    "2023 Vuelta a Espana Stage 7",
+    "2023 Vuelta a Espana Stage 8"
   ]
 }

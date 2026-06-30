@@ -1,0 +1,26 @@
+{
+  "label": "2019 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-10",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won a wind-shattered sprint after echelons eliminated defending champion Soler and multiple top sprinters including Matthews (crashed).",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma trusted front-loaded leadout for Groenewegen in chaotic wind conditions rather than traditional sprint train positioning.",
+      "Team Sky deployed Kwiatkowski to collect intermediate sprint bonuses 3km from finish, revealing GC ambitions beyond sprint stage.",
+      "Direct Energie, Delko, and Vital Concept all placed riders in early break, signaling wildcard teams prioritizing visibility."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "negative: defending champion dropped by echelon splits, losing one minute on opening flat stage reveals poor form",
+      "MATTHEWS Michael": "negative: crashed out in first race after 2018 season disrupted by broken shoulder, continuity concerns",
+      "KWIATKOWSKI Michal": "positive: collected 7 total bonus seconds across two intermediate sprints plus KOM points, Sky positioning him for GC",
+      "GROENEWEGEN Dylan": "positive: third win in 2019 already, positioned himself from right side chaos when Teunissen leadout faded",
+      "YATES": "neutral: second place suggests strong form but 34-second gap at finish unclear from context"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:52:55.279216+00:00"
+}

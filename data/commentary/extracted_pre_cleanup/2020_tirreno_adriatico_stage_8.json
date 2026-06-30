@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 8",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon defended 39-second GC lead through final 10.1km ITT, holding off THOMAS Geraint by 17 seconds after GANNA Filippo shattered Cancellara's course record.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint's 28-second gap to GANNA suggests rapid post-injury form return, making him dangerous in stage races with final ITTs.",
+      "MAJKA Rafał lost 23 seconds to THOMAS despite decent first split, revealing inability to maintain TT power over 10km efforts.",
+      "YATES Simon averaged 50kph on TT bike despite being pure climber, suggesting aero position improvements change GC ITT threat assessment."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: destroyed Cancellara's 2016 course record by 26 seconds (11:08 to 10:42), establishing new benchmark power output",
+      "THOMAS Geraint": "positive: fourth-fastest TT performance while targeting GC, within 28 seconds of GANNA, signals return to peak form",
+      "YATES Simon": "positive: defended GC by averaging 50kph despite climber profile, held 17-second margin over THOMAS after starting 39 seconds ahead",
+      "MAJKA Rafał": "negative: faded after strong first split, lost podium spot to THOMAS, exposed weakness in sustained 10km TT efforts",
+      "KELDERMAN Wilco": "neutral: moved from sixth to fourth on GC, capitalizing on MAJKA's collapse without exceptional TT performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:33:22.212627+00:00"
+}

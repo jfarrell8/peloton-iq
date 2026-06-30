@@ -1,0 +1,25 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 6",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-07",
+  "stage": 6,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MASS Enric soloed to victory after attacking on the final climb, holding off LANDA Mikel by 12 seconds while ROGLIC Primož secured overall victory",
+    "winner": "MASS Enric",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Quick-Step isolated MASS on final climb then he accelerated when road leveled, not on steepest gradient.",
+      "LANDA chased using slipstream of BOOKMANN rather than riding solo, suggesting desperation or calculated energy conservation.",
+      "ROGLIC accepted stage loss when MØHLBERGER paced him, prioritizing GC defense over stage hunting with secure lead."
+    ],
+    "rider_signals": {
+      "MASS Enric": "positive: Third Quick-Step win reveals team's exceptional form block, individual had energy to accelerate after climb",
+      "LANDA Mikel": "negative: Lost by 12 seconds despite chasing every meter, suggesting inferior climbing power on final ascent",
+      "ROGLIC Primož": "neutral: Required MØHLBERGER assistance on run-in despite comfortable GC margin, revealing conservative approach or fatigue",
+      "QUINTANA Nairo": "negative: Finished fifth on punchy summit finish, indicating declining explosiveness on terrain once suited to him"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:23:56.973930+00:00"
+}

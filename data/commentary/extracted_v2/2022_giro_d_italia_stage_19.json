@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-27",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BAUMANN won from breakaway with 12min gap; GC group finished together with LANDA briefly gapping CARAPAZ/HINDLEY before final corner crash.",
+    "winner": "BAUMANN Kun",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-hansgrohe chased 12min break mid-race then completely retreated before final climb, revealing nervous conservatism over testing rivals.",
+      "SIVAKOV pulled final climb despite teammate CARAPAZ in pink, suggesting Ineos prioritized defending over attacking with 3sec margin.",
+      "LANDA gained only small gap inside 3km on summit finish despite being 1:05 down, exposing limited separation ability."
+    ],
+    "rider_signals": {
+      "PORT Richie": "negative: abandoned with suspected gastroenteritis when climbing started 62km out, showed inability to fight through illness.",
+      "BAUMANN Kun": "positive: won second stage plus secured KOM mathematically with stage remaining, demonstrated breakthrough Grand Tour climbing capability.",
+      "LANDA Mikel": "neutral: briefly gapped top two GC rivals inside 3km but unable to sustain, confirming marginal differential at 1:05 deficit.",
+      "SIVAKOV Pavel": "neutral: led final climb for CARAPAZ despite pink jersey suggesting team unwilling to test HINDLEY/LANDA with meaningful acceleration."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:09:06.675302+00:00"
+}

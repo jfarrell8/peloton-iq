@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won Stage 14 after BETIOL Alberto's premature 300m sprint failed, while ARMIRAIL Bruno took maglia rosa via 12+ minute breakaway gap.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BETIOL Alberto launching at 300m on uphill finish spent group, allowing fresher finishers to counter-punch effectively.",
+      "INEOS controlled chase knowing ARMIRAIL Bruno's 18.5min deficit made him low threat, gifting him 1:41 GC lead.",
+      "Four-man break fractured when ARMIRAIL Bruno traveled in third group, proving GC positioning trumps stage collaboration."
+    ],
+    "rider_signals": {
+      "DENZ Nico": "positive: second stage in three days shows breakaway reading ability and diverse finish speed",
+      "GEE Derek": "neutral: third second-place finish this Giro suggests strong but mistimed sprint positioning",
+      "BETIOL Alberto": "negative: premature sprint launch on uphill finish reveals poor pacing judgment under pressure",
+      "ARMIRAIL Bruno": "positive: 18.5min deficit workman taking rosa shows INEOS miscalculated threat threshold by 24 seconds",
+      "BAIZ David": "neutral: retook KOM via Stage 13 neutralization points, tactical jersey management rather than climbing dominance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:01:45.770348+00:00"
+}

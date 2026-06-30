@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-13",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BARDET Romain won Stage 12 after FROOME Chris cracked for the first time since 2012 in the final 200m, allowing ARU Fabio to take yellow by 6 seconds.",
+    "winner": "BARDET Romain",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FROOME first responded failure since 2012 occurred final 200m on 20%+ ramps, not earlier sustained climbs where Sky controlled.",
+      "Team Sky's camper crash on pre-climb descent saw peloton wait rather than attack yellow jersey, suggesting collective fatigue not sportsmanship.",
+      "LANDA appeared stronger than FROOME on Peyresourde without breathing hard, revealing Sky's protected rider hierarchy may be tactical liability.",
+      "QUINTANA dropped 4:01 back after briefly chatting with CONTADOR showing no legs, confirming he's out of GC contention mid-race."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "negative: Lost 22 seconds in final 200m for first time since 2012, admitted no legs on 20%+ finish ramps despite team control",
+      "ARU Fabio": "positive: Only attack since 2012 that Froome couldn't respond to, took yellow despite losing teammate Fuglsang mid-stage",
+      "LANDA Mikel": "positive: Looked effortlessly stronger than team leader Froome on Peyresourde, not even breathing hard at finish",
+      "BARGUIL Warren": "positive: Extended KOM lead to 40 points with tactical point picking, team support from sprinter Matthews securing jersey",
+      "QUINTANA Nairo": "negative: Dropped to 4:01 deficit, visible capitulation when chatting with Contador before getting distanced",
+      "FUGLSANG Jakob": "neutral: Struggled through stage with two broken left arm bones before presumably abandoning at finish",
+      "KWIATKOWSKI Michal": "negative: Took unnecessary descent risks causing camper crash that caught Froome/Nieve in yellow jersey group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:04:16.970306+00:00"
+}

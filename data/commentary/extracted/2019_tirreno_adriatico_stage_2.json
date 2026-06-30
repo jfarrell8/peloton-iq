@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-14",
+  "stage": 2,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE won with a late surge inside 3km after ROGLIČ attacked earlier, positioning himself perfectly in the decisive final group.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ attacked inside 3km forcing selection before finale, revealing Jumbo-Visma willing to test rivals before mountain stages.",
+      "ALAPHILIPPE repeatedly looked over shoulder to assess who remained, using intelligence gathering before committing his final acceleration.",
+      "Bora-Hansgrohe isolated with only FORMOLO in final group, showing vulnerability when Quick-Step controls positioning through narrow roads.",
+      "CLARKE bridged with ROGLIČ group demonstrating EF positioning value, but lacked finishing speed against WorldTour sprinters."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: first individual stage win at Tirreno after losing time day prior, showing resilience and tactical awareness under pressure",
+      "ROGLIČ Primož": "positive: dangerous enough inside 3km that peloton reacted immediately, establishes GC threat status even on semi-sprint finishes",
+      "CLARKE Simon": "neutral: made decisive move with ROGLIČ but lacks pure speed, confirms breakaway rather than finale specialist",
+      "FORMOLO Davide": "negative: only Bora rider in final group reveals team's inability to position multiple cards on technical finishes",
+      "YATES Adam": "neutral: retained race lead but ALAPHILIPPE closed 27 seconds, showing white jersey vulnerability if Quick-Step applies pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:03:32.826913+00:00"
+}

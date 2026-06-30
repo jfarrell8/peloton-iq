@@ -1,0 +1,27 @@
+{
+  "label": "2017 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-31",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARCZYŃSKI Tomasz attacked twice on Puerto de Torcal final climb, escaped solo 21km out, won by over 1 minute while CONTADOR Alberto's late attack distanced FROOME Chris who crashed on descent.",
+    "winner": "MARCZYŃSKI Tomasz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CONTADOR Alberto exploited FROOME Chris mechanical/crash on descent by joining breakaway remnants, gaining 40 seconds without traditional summit attack.",
+      "MARCZYŃSKI Tomasz's double acceleration on final climb shed ROJAS and FRAILE, proving second attack needed to break determined breakaway survivors.",
+      "Team Sky allowed 9-minute gap to 14-rider break before final climb, suggesting willingness to concede stage when no GC threats present."
+    ],
+    "rider_signals": {
+      "MARCZYŃSKI Tomasz": "positive: Second Vuelta stage win confirms exceptional descending skills after summit attacks, dangerous in medium-mountain breakaways.",
+      "CONTADOR Alberto": "positive: Still hunting opportunistically in final Grand Tour, 40-second gain shows ability to exploit chaos rather than pure climbing power.",
+      "FROOME Chris": "negative: Mechanical then crash on descent reveals nervousness under pressure, lost 40s to CONTADOR and 20s to other rivals.",
+      "FRAILE Omar": "neutral: In 14-rider break but dropped by MARCZYŃSKI's second acceleration on final climb, insufficient punch for stage win.",
+      "ROJAS José Joaquín": "neutral: Survived breakaway selection until MARCZYŃSKI's final surge, finished second but lacked winning acceleration.",
+      "POLJAŃSKI Paweł": "neutral: Named in breakaway but tactical role unclear from available commentary."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:16:22.840683+00:00"
+}

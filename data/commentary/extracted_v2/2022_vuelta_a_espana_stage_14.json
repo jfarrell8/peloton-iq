@@ -1,0 +1,27 @@
+{
+  "label": "2022 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard won from the breakaway by 48-49 seconds over ROGLIC Primoz, who gained 1:49 on red jersey EVENEPOEL Remco showing first vulnerability",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EVENEPOEL cracked on final 15%+ ramps after dominating for two weeks, suggesting steep gradient thresholds exceed his capabilities",
+      "ROGLIC gained 1:49 without attacking, letting Harper pace while others imploded on successive 15% pitches separated by brief descent",
+      "Breakaway survived despite 1:24 gap with 2.5 miles remaining because GC teams refused to commit before final slopes"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: first major weakness shown on 15%+ gradients after two-week dominance, lost nearly two minutes suggesting steep pitch vulnerability",
+      "ROGLIC Primoz": "positive: closed GC gap to 1:49 without attacking by letting Harper pace, positioning for high-altitude stage tomorrow",
+      "CARAPAZ Richard": "positive: second stage win, held off charging GC group in final kilometers despite shrinking advantage",
+      "MAS Enrique": "negative: completely came apart trying to match Roglic on final kilometers, lost 2:43 to Evenepoel",
+      "LOPEZ Miguel Angel": "positive: took second and time bonus, showing form ahead of high-altitude stages",
+      "RODRIGUEZ Carlos": "positive: young Spaniard climbing well in podium battle, finishing with lead GC group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:32:52.099092+00:00"
+}

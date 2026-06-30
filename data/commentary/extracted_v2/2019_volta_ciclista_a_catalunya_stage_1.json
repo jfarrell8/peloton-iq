@@ -1,0 +1,25 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-25",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DE GHENT Thomas won stage 1 from early breakaway by 3+ minutes, holding break for 4h14m30s before peloton contested group sprint.",
+    "winner": "DE GHENT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto Soudal exploited hard terrain profile to allow de Ghent solo breakaway victory with massive 3-minute gap over peloton.",
+      "Late-race crash at 900m caught multiple GC contenders including McCarthy and Froome, fragmenting sprint organization completely.",
+      "FROOME Chris lost 13+ minutes still not at finish, suggesting teams not controlling for Sky's leader this edition."
+    ],
+    "rider_signals": {
+      "DE GHENT Thomas": "positive: won fourth Catalunya stage career from solo break, demonstrating exceptional ability to succeed when terrain is selective",
+      "MATTHEWS Michael": "positive: won peloton sprint despite crash chaos ahead, signaling return to form after presumed poor period",
+      "FROOME Chris": "negative: crashed day 1, lost massive time (13+ minutes), already battered from previous stage, Sky showing no race control",
+      "VALVERDE Alejandro": "neutral: contested sprint finish but couldn't beat Matthews, positioned well but lacked final punch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:05:26.515822+00:00"
+}

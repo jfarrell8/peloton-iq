@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data to determine specific attacking patterns. Evidence shows early-race aggression capable of capturing KOM jersey, but no repeated attack profiles documented.",
+  "team_tactics": "No consistent team support patterns observed across the limited race sample. Appears to operate independently in breakaway scenarios.",
+  "terrain_preference": "Demonstrated ability to compete for KOM classification in multi-stage mountainous races, but lacks the physical resilience to defend or capitalize on such efforts over multiple days.",
+  "vulnerability": "Critical weakness in multi-day race durability. Cramping issues emerge under accumulated fatigue (50km to go), leading to race abandonment even when holding classification jerseys. Cannot sustain efforts required to defend gained positions.",
+  "key_patterns": [
+    "Cramping under multi-day fatigue stress, documented at 50km from finish while defending jersey.",
+    "Unable to complete stage races despite early success: abandoned Dauphiné while holding mountains classification.",
+    "Physical limitations emerge mid-race week, preventing capitalization on early-stage breakaway success."
+  ],
+  "form_trajectory": "negative: Both 2023 observations show physical breakdown under stage race stress, abandoning Dauphiné despite holding KOM jersey—signals insufficient grand tour readiness or recovery capacity",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GRONDIN Donavan",
+  "built_from": [
+    "2023 Criterium du Dauphine Stage 2",
+    "2023 Criterium du Dauphine Stage 6"
+  ]
+}

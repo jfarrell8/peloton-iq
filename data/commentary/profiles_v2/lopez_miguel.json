@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who capitalizes on splits created by others in final 10km of summit finishes. Proven ability to outclimb breakaway companions on long observatory-style ascents when given space.",
+  "team_tactics": "Minimal evidence of team support; appears to operate independently or within compromised team structures (Astana implosion 2020). Relies on positioning and personal reserves rather than domestique-led setups.",
+  "terrain_preference": "Long, sustained summit finishes where superior pure climbing ability can be deployed in reduced groups. Observatory-style climbs ideal. Struggles with explosive, punchy efforts requiring repeated positioning battles.",
+  "vulnerability": "Fragile GC campaigns with poor stage race durability (abandoned Giro 2020 before stage 2). Susceptible to positioning losses before key climbs. Team infrastructure weaknesses compound individual challenges.",
+  "key_patterns": [
+    "Exceptional mechanical crisis management: recovered to lead group after double bike/wheel changes (2019)",
+    "Conservative pre-climb positioning observed across multiple Giro appearances, often moves backward in peloton",
+    "Stage race abandonment pattern: DNF Giro 2020 extraordinarily early, suggesting fragility beyond single bad day",
+    "Breakaway winner profile: won Vuelta stage from late split, not direct attacks from favorites group"
+  ],
+  "form_trajectory": "negative: catastrophic 2020 Giro abandonment before stage 2 suggests major form/health/team dysfunction, sharp decline from 2017-2019 competitiveness",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "LOPEZ Miguel",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 11",
+    "2017 Vuelta a Espana Stage 11",
+    "2018 Giro d'Italia Stage 18",
+    "2019 Giro d'Italia Stage 13",
+    "2019 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 2"
+  ]
+}

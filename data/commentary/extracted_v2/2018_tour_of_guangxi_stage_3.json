@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour of Guangxi Stage 3",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-18",
+  "stage": 3,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the sprint after Quick-Step relied on breakaway time gaps rather than train control through the 9km straight finish",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step organized early but didn't establish leadout train, relying on positioning rather than power through 9km straight finish drag.",
+      "Breakaway riders contested both intermediate sprints hard for bonus seconds despite knowing they'd be caught, unusual for hopeless breaks.",
+      "Lotto-Jumbo controlled pace for race leader Groenewegen but failed to deliver him to podium positions in sprint finale."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Showed maturity communicating with team car throughout wet conditions, then delivered sprint win without organized leadout train",
+      "GROENEWEGEN Dylan": "negative: Race leader finished outside top three with no bonus seconds despite Lotto-Jumbo controlling peloton all day",
+      "ACKERMANN Pascal": "neutral: Second place but couldn't capitalize on Quick-Step's minimal leadout investment in 9km finishing straight"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:36:54.068624+00:00"
+}

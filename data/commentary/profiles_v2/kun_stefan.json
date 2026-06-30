@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Commits to early breakaways on stages expected to end in bunch sprints, exploiting disorganized peloton chase dynamics to solo for extended periods.",
+  "team_tactics": "Insufficient data to determine clear team support patterns. Appears to operate opportunistically in breaks without visible lead-out or tempo control.",
+  "terrain_preference": "Flat to rolling sprint-designated stages where peloton complacency creates breakaway windows. Capitalizes when teams miscalculate chase timing.",
+  "vulnerability": "Limited observations prevent clear vulnerability assessment. May struggle when pelotons organize proper chase or on terrain requiring pure climbing/sprinting specialization.",
+  "key_patterns": [
+    "Wins from early breakaways on sprint stages when peloton fails to organize (1 observation, noted as repeatable)",
+    "Executes same tactical pattern on multi-year cycle suggesting calculated timing rather than opportunism",
+    "Capable of sustaining significant solo efforts with 59-second winning margin over chasing peloton"
+  ],
+  "form_trajectory": "unknown: Single 2019 observation shows race-winning capability but insufficient recent data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KUN Stefan",
+  "built_from": [
+    "2019 Tour de Romandie Stage 2",
+    "2019 Tour de Romandie Stage 2"
+  ]
+}

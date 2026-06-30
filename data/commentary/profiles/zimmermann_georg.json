@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Reactive counter-attacker who waits for opponents to move first, then responds inside final 500m-1km. Reads premature accelerations and exploits rivals' timing errors on summit finishes and in breakaways.",
+  "team_tactics": "Typically operates with tactical freedom in breakaways rather than traditional domestique role. Has shown willingness to attack mid-race for team tactical goals, though primary value is individual opportunism in reduced groups.",
+  "terrain_preference": "Summit finishes and reduced bunch scenarios where positioning and timing matter more than pure power. Thrives in tactical break sprints where he can sit on wheels before countering.",
+  "vulnerability": "Lacks pure finishing speed against stronger sprinters when counter-attack is neutralized (Bilbao example). Mid-race aggression attempts have failed to create meaningful splits in larger pelotons.",
+  "key_patterns": [
+    "Counter-punches inside final 500m rather than initiating, documented in both 2023 wins (Dauphiné, TDF stage).",
+    "Reads opponents' premature accelerations and exploits timing errors, successful twice in final kilometer scenarios.",
+    "Operates in breakaways with finishing freedom rather than pure domestique duties across different race types.",
+    "Attempts tactical mid-race attacks for team purposes but lacks power to sustain decisive splits alone."
+  ],
+  "form_trajectory": "positive: secured first WorldTour win in June 2023 and immediately followed with strong TDF counterattack showing, indicating peak tactical confidence",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ZIMMERMANN Georg",
+  "built_from": [
+    "2022 Eschborn-Frankfurt",
+    "2022 Eschborn-Frankfurt",
+    "2023 Criterium du Dauphine Stage 6",
+    "2023 Criterium du Dauphine Stage 6",
+    "2023 Tour de France Stage 10",
+    "2023 Tour de France Stage 10"
+  ]
+}

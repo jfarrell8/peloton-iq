@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Targets early breakaways with intent to secure KOM points rather than stage victory. Opportunistic on categorized climbs within breakaways to maximize classification points.",
+  "team_tactics": "Appears to operate with freedom to join early breaks for classification hunting rather than stage wins. Limited evidence of team setup or domestique support for personal ambitions.",
+  "terrain_preference": "Multiple categorized climbs where KOM points can be accumulated from breakaways. Less suited to sustained, high-intensity efforts required in small, powerful breaks.",
+  "vulnerability": "Lacks strength to survive in quality breakaways when pace intensifies or peloton chase accelerates. Cannot sustain long, hard efforts against stronger break companions.",
+  "key_patterns": [
+    "Prioritizes KOM classification over stage wins when in breakaways (2 instances)",
+    "Joins early breaks but struggles to maintain position when intensity rises (2 instances)",
+    "Tactical focus on points gathering rather than sustaining break to finish"
+  ],
+  "form_trajectory": "neutral: Mixed results show consistent break-hunting approach but variable physical capacity to execute fully",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PERICHON Pierre-Luc",
+  "built_from": [
+    "2018 Criterium du Dauphine Stage 2",
+    "2018 Tour of Oman Stage 1"
+  ]
+}

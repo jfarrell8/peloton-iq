@@ -4,85 +4,13 @@
   "race_date": "2018-06-15",
   "stage": 7,
   "video": {
-    "video_id": "06vuLUdV-3U",
-    "title": "On bike action at the 2018 Tour de Suisse",
-    "published": "2018-06-16 17:39:54+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=06vuLUdV-3U",
-    "match_score": 90.0,
-    "all_candidates": [
-      {
-        "video_id": "06vuLUdV-3U",
-        "title": "On bike action at the 2018 Tour de Suisse",
-        "channel": "Velon",
-        "published": "2018-06-16 17:39:54+00:00",
-        "match_score": 90.0
-      },
-      {
-        "video_id": "Z4a3E4bbaOk",
-        "title": "Tour de Pologne 2018 | Stage 7 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-08-12 12:00:03+00:00",
-        "match_score": 78.18
-      },
-      {
-        "video_id": "wemlQszqA6c",
-        "title": "Tour of Britain 2018 | Stage 7 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2018-09-09 16:30:01+00:00",
-        "match_score": 74.0
-      },
-      {
-        "video_id": "irgDcV3sAVM",
-        "title": "Tour of Taihu Lake 2018 | Stage 7 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2018-10-14 21:45:01+00:00",
-        "match_score": 74.0
-      },
-      {
-        "video_id": "le3TDXA51E8",
-        "title": "BinckBank Tour 2018 | Stage 7 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-08-19 17:42:46+00:00",
-        "match_score": 72.5
-      },
-      {
-        "video_id": "M7R7s6wHJvQ",
-        "title": "Tour of Taihu Lake 2018 | Stage 7 - LIVE! | inCycle",
-        "channel": "inCycle",
-        "published": "2018-10-14 10:28:20+00:00",
-        "match_score": 69.0
-      },
-      {
-        "video_id": "taBfT-pSmzI",
-        "title": "Tour de Suisse 2018: Best moments",
-        "channel": "Velon",
-        "published": "2018-06-19 15:06:38+00:00",
-        "match_score": 55.0
-      },
-      {
-        "video_id": "7bxZxHnJIXA",
-        "title": "Porte wins Tour de Suisse 2018",
-        "channel": "Velon",
-        "published": "2018-06-19 10:54:00+00:00",
-        "match_score": 55.0
-      },
-      {
-        "video_id": "CguEVIFfWPg",
-        "title": "Tour of Guangxi 2018: Stage 2 - extended highlights",
-        "channel": "Velon",
-        "published": "2018-10-18 09:53:25+00:00",
-        "match_score": 49.58
-      },
-      {
-        "video_id": "FvVTO2T6AYE",
-        "title": "Tour of Guangxi 2018: Stage 4 - extended highlights",
-        "channel": "Velon",
-        "published": "2018-10-20 13:14:18+00:00",
-        "match_score": 49.58
-      }
-    ]
+    "video_id": "-ZfrHdE3n0E",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=-ZfrHdE3n0E",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:transcripts_disabled"
 }

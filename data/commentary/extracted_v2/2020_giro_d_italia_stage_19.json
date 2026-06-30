@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-23",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHERNY Josef won from 14-rider breakaway after solo attack with 22.5km remaining, gaining 41 seconds maximum advantage over chasers.",
+    "winner": "CHERNY Josef",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BORA abandoned SAGAN's maglia ciclomino chase with 50km remaining, signaling sprint jersey prioritization thresholds in Grand Tour finals.",
+      "CHERNY attacked established 14-rider break at 22.5km rather than traditional final 10km, exploiting flat stage fatigue dynamics.",
+      "GC teams entirely disengaged on flat Stage 19 despite TAO 119 seconds back, revealing break distance required for defensive activation."
+    ],
+    "rider_signals": {
+      "CHERNY Josef": "positive: First GT win at age 27 for CCC's first stage win in two seasons suggests equipment/support issues previously limited results.",
+      "SAGAN Peter": "negative: BORA abandoned maglia ciclomino chase 50km out on his last realistic opportunity, indicating team assessed points gap insurmountable.",
+      "KELDERMAN Wilco": "neutral: 12-second maglia rosa lead with 119-second cushion to 4th suggests two-rider defense strategy viable for final mountains.",
+      "HINDLEY Jai": "neutral: SUNWEB running dual GC cards 12 seconds apart creates complex final stage tactics against external threats.",
+      "GEOGHEGAN HART Tao": "negative: 119 seconds down with two mountain stages remaining reveals INEOS lacking traditional mountain dominance to close gaps."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:14:46.616896+00:00"
+}

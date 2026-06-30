@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 9",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-28",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MENKES Louis won from the break on a 24% gradient finale while EVENEPOEL Remco distanced ROGLIC and MAS by attacking on the final climb.",
+    "winner": "MENKES Louis",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quick-Step controlled peloton tempo for Evenepoel despite teammate Serry's COVID withdrawal, showing organizational depth.",
+      "Evenepoel attacked final 24% climb when DSM's Arensman wasn't in break, exploiting their missed tactical opportunity.",
+      "Breakaway split before final climb from internal dissent over work rate between Ballestero and Janssens.",
+      "Pre-climb peloton crash opened gaps that favored breakaway survival, nerves fraying before selection point."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Looked comfortable distancing GC rivals on 24% gradients while attacking, suggesting superior power-to-weight on extreme pitches",
+      "ROGLIC Primoz": "negative: Lost 1:12 to Evenepoel on final climb, biggest GC loser suggesting form deterioration or injury",
+      "MAS Enric": "negative: Found life hard on final climb, lost 44 seconds to Evenepoel despite staying with him longer than Roglic",
+      "ARENSMAN Thymen": "negative: DSM kept him out of break despite being 3:18 down, tactical error as break succeeded",
+      "MENKES Louis": "positive: First grand tour stage win at 30, dominated breakaway on brutal finale showing late-career form peak",
+      "YATES Simon": "negative: Lost 2:37 to winner despite winning this stage in 2018, struggling on extreme gradients"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:45:43.793805+00:00"
+}

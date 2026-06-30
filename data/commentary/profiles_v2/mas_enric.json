@@ -1,0 +1,39 @@
+{
+  "attacking_style": "Attempts independent attacks on final climbs but lacks explosive acceleration to sustain separation from elite GC riders. Probing moves typically absorbed by stronger climbers within same selection.",
+  "team_tactics": "Movistar employs multi-leader strategy giving him protected status, but lacks dedicated mountain train. Often isolated on decisive climbs when teammates also target GC or fade early.",
+  "terrain_preference": "Long, sustained climbs suit him better than explosive steep ramps where younger Spanish rivals (Ayuso) drop him. Completely exposed in time trials with losses exceeding 1 minute repeatedly.",
+  "vulnerability": "Time trials catastrophically undermine GC campaigns (1+ minute losses eliminating podium threat). Fades in final 300m of efforts showing declining sprint endurance. Dropped when top teams raise early tempo.",
+  "key_patterns": [
+    "Time trial liability eliminates GC contention: 1+ minute losses observed multiple Vueltas (2022, 2023)",
+    "Attacks neutralized by stronger climbers: Evenepoel, Roglic groups consistently absorb his moves (4+ instances)",
+    "Declining finishing power: faded barriers final 300m Tirreno, caught by Ayuso on steep sections",
+    "Tactical cooperative rider: chased splits for podium, waited for Alaphilippe, bridged independently when needed",
+    "Form regression 2023: dropped early Lombardia, 2.5min TT loss Dauphine, leadout fade Tirreno"
+  ],
+  "form_trajectory": "negative: 2023 shows systematic decline across all disciplines - early Monument elimination, catastrophic TT regression, and sprint endurance fade after competitive 2022 Vuelta podium",
+  "races_analysed": 20,
+  "confidence": "high",
+  "rider_name": "MAS Enric",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 1",
+    "2019 Tour de France Stage 20",
+    "2020 Vuelta a Espana Stage 1",
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2021 UAE Tour Stage 1",
+    "2022 La Vuelta ciclista a Espana Stage 10",
+    "2022 La Vuelta ciclista a Espana Stage 14",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2022 La Vuelta ciclista a Espana Stage 4",
+    "2022 La Vuelta ciclista a Espana Stage 6",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2022 Vuelta a Espana Stage 6",
+    "2022 Vuelta a Espana Stage 9",
+    "2023 Criterium du Dauphine Stage 4",
+    "2023 Il Lombardia",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

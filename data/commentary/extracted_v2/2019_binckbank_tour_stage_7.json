@@ -1,0 +1,27 @@
+{
+  "label": "2019 BinckBank Tour Stage 7",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-18",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "NAESEN Oliver won final stage sprint after gaining bonus seconds in golden kilometer breakaway, while DE PLUS Laurens secured overall GC by taking 7 bonus seconds mid-stage.",
+    "winner": "NAESEN Oliver",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "De Plus neutralized GC threat by entering breakaway himself with 65km remaining, controlling bonus seconds directly rather than chasing.",
+      "Golden kilometer triple-bonus format (20km out) forced GC contenders into breakaway rather than allowing sprinter teams to control.",
+      "Van Avermaet/Naesen cooperation in break despite stage ambitions suggests priority was denying Wellens bonus seconds for teammate De Plus GC protection.",
+      "Hershey attacked De Plus at intermediate sprints while in same breakaway, unusual aggression revealing Jumbo-Visma internal GC calculation over stage win."
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "positive: secured GC by infiltrating breakaway himself to control bonus seconds, tactically mature for preventing gaps rather than just riding defensively",
+      "NAESEN Oliver": "positive: won stage from 4-rider break despite working for Van Avermaet's GC interest, suggests exceptional form to overcome tactical compromise",
+      "WELLENS Tim": "negative: finished 38 seconds down on break containing GC rival, inability to follow or organize chase cost him podium position",
+      "HERSHEY Marc": "positive: 20-year-old attacked De Plus within breakaway for intermediate bonuses despite same team, shows aggressive GC ambition overriding stage hierarchy",
+      "VAN AVERMAET Greg": "neutral: worked in break to deny Wellens bonuses for De Plus GC benefit, settled for second in stage sprint suggesting team orders prioritized GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:45:12.283105+00:00"
+}

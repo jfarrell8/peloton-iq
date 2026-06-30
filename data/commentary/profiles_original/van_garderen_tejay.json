@@ -1,0 +1,22 @@
+{
+  "attacking_style": "No attacking pattern evident - observations show rider in domestique/support role or struggling to maintain contact with leaders on climbs.",
+  "team_tactics": "Deployed as key mountain domestique for EF leadership, expected to support through climbs but reliability compromised by mechanical issues and form struggles.",
+  "terrain_preference": "No clear terrain strength demonstrated in observations; mountain finishes consistently exposed weakness rather than showcasing ability.",
+  "vulnerability": "Premature drops on sustained climbs even when arriving with strong preparatory form (Dauphiné). Susceptible to crashes and mechanicals at critical race junctures.",
+  "key_patterns": [
+    "DNF/DNS pattern: abandoned or withdrew in 2 of 4 observed race appearances",
+    "Form deterioration within Grand Tours: struggled early climbs then crashed, indicating poor multi-week resilience",
+    "Prep race form doesn't translate: strong Dauphiné followed by immediate Tour struggles",
+    "Mechanical/crash vulnerability at critical moments: puncture abandonment and Stage 7 crash elimination"
+  ],
+  "form_trajectory": "negative: 2019 Tour showed clear deterioration from strong Dauphiné to premature drops by Stage 6, crash Stage 7, DNS Stage 13 with fracture",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "VAN GARDEREN Tejay",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2019 Tour de France Stage 6",
+    "2019 Tour de France Stage 7",
+    "2019 Tour de France Stage 8"
+  ]
+}

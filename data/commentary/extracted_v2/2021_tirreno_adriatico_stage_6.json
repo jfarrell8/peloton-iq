@@ -1,0 +1,23 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-15",
+  "stage": 6,
+  "channel": "Giro d'Italia",
+  "extraction": {
+    "one_line_summary": "VAN DEN BROEK Frank won from 6-rider breakaway after Oliveira's premature leadout failed, with veteran Wirtz positioning perfectly in second wheel",
+    "winner": "VAN DEN BROEK Frank",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Oliveira's forced early leadout from distance exposed him, suggesting domestiques shouldn't lead sprints even in small breakaway groups.",
+      "Wirtz (35yo, climber in green jersey) positioned second wheel despite not being specialist sprinter, exploiting draft better than faster riders."
+    ],
+    "rider_signals": {
+      "OLIVEIRA Nelson": "negative: led out breakaway sprint too early and faded, showing tactical inexperience in small group finishing dynamics",
+      "WIRTZ Mads": "positive: KOM leader positioned perfectly for non-specialist sprint finish, suggesting underrated tactical awareness in reduced groups",
+      "BAKULANS Aleksejs": "neutral: 23-year-old held third wheel position but couldn't convert, possibly inexperienced in breakaway sprint timing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:49:47.768543+00:00"
+}

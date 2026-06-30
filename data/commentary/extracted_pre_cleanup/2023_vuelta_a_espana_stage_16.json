@@ -1,0 +1,25 @@
+{
+  "label": "2023 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked early on the 4.8km final climb at 9% gradient, dropped KUSS by 29 seconds and likely ROGLIC, moving into second overall.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD attacked on steepest gradients in second half of 4.8km climb, abandoning typical Jumbo-Visma controlled tempo strategy.",
+      "GROVES drove breakaway tempo relentlessly pre-intermediate sprint despite being pure sprinter, exploiting team weakness before auto-boost abandonment.",
+      "JUMBO-VISMA sent TRATNIK solo across to breakaway as psychological tactic, demoralizing break by using 'weakest guy' to bridge."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: attacked aggressively early on final climb contrary to typical support role, strongest rider entering third week",
+      "KUSS Sepp": "negative: lost 29 seconds to teammate on 4.8km climb after recuperating mid-effort, vulnerability exposed for Angliru stage",
+      "ROGLIC Primoz": "negative: expected sprint finish setup negated by VINGEGAARD aggression, dropped to third overall behind teammate",
+      "EVENEPOEL Remco": "negative: sat up and lost significant time, avoiding Jumbo-Visma chase attention suggests prioritizing stage hunting over GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:32:45.081728+00:00"
+}

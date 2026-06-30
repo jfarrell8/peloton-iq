@@ -1,0 +1,35 @@
+{
+  "attacking_style": "Opportunistic finisher who strikes from 200m or at the line on selective climbs that shed pure sprinters. Rarely commits to long-range attacks, preferring to exploit reduced bunch scenarios after categorized climbs.",
+  "team_tactics": "Benefits when team thins field on climbs to eliminate pure sprinters, though team control sometimes insufficient. Shows willingness to act independently under uncertain team orders, prioritizing opportunism over rigid hierarchy.",
+  "terrain_preference": "Sprint-climber hybrid stages with final categorized climbs that reduce bunch but aren't steep enough for pure climbers. Struggles on poor gradient selection when going long. Excels in reduced bunch sprints after selective racing.",
+  "vulnerability": "Fades badly when launching too early or on wrong gradients. Positioning can cost him despite superior closing speed. Relies on others' work in small groups, exposing him when forced to set tempo himself.",
+  "key_patterns": [
+    "Won 4 times from reduced bunches after climbs eliminated pure sprinters (2018-2022)",
+    "Tactically savvy in small groups: refuses to pull, forces others to work (2019 TdF)",
+    "Opportunistic bonus hunting for GC gains, showing tactical awareness beyond stage wins",
+    "Late-career resurgence 2022 age 37 after 3-year win drought, targets specific sprint-climb stages",
+    "Strong closing speed but positioning often prevents full exploitation of finishing kick"
+  ],
+  "form_trajectory": "neutral: 2023 shows reconnaissance breakaway without commitment, suggesting possible decline from 2022 resurgence at age 37-38, though limited recent data",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "IMPEY Daryl",
+  "built_from": [
+    "2018 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 2",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2020 Criterium du Dauphine Stage 1",
+    "2020 Tour de Pologne Stage 1",
+    "2020 Tour de Pologne Stage 2",
+    "2022 Tour de Pologne Stage 4",
+    "2022 Tour de Pologne Stage 4",
+    "2022 Tour de Suisse Stage 4",
+    "2022 Tour de Suisse Stage 4",
+    "2023 Tour de Romandie Stage 4"
+  ]
+}

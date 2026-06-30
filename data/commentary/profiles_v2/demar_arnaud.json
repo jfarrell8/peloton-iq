@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Pure sprinter who launches late in chaotic finales, demonstrating superior bike handling and positioning instincts. Excels in bike-throw finishes after messy lead-outs disintegrate.",
+  "team_tactics": "Relies heavily on Groupama-FDJ leadout train delivering him to final 200m; struggles when teammates are shed early or positioning gets disrupted by rival teams. UAE also provided perfect leadout in 2020.",
+  "terrain_preference": "Flat sprint stages, but notably capable on hot, hilly parcours up to 150km. Survives brutal mountain stages to contest third-week sprints, showing exceptional recovery capacity for a pure sprinter.",
+  "vulnerability": "Positioning errors when team support fails early in race; solo positioning strategy collapses without leadout train. Vulnerable when forced to follow others rather than trusting team structure.",
+  "key_patterns": [
+    "Multiple stage wins within single Grand Tour: 3 wins in 12 stages (Giro 2022), 4 wins (Giro 2020)",
+    "Exceptional recovery: survived back-to-back Pyrenean stages finishing last both days, then won sprint stage 18",
+    "Superior late-race positioning and bike handling in chaotic/messy sprint finales (2022 Giro evidence twice)",
+    "Heavily dependent on Groupama-FDJ leadout functioning; fails to feature when team support absent early",
+    "Demonstrates strong chase capability: rejoined after 20km mechanical to contest sprint"
+  ],
+  "form_trajectory": "positive: three sprint wins across 2022 Giro showing dominance over Cavendish/Bauhaus, continuing pattern of multiple wins per Grand Tour established in 2020",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "DEMAR Arnaud",
+  "built_from": [
+    "2018 Tour de France Stage 18",
+    "2018 Tour de France Stage 18",
+    "2018 Tour de France Stage 2",
+    "2019 BinckBank Tour Stage 5",
+    "2020 Giro d'Italia Stage 11",
+    "2020 Giro d'Italia Stage 11",
+    "2020 Giro d'Italia Stage 7",
+    "2021 Paris-Nice Stage 1",
+    "2021 Paris-Nice Stage 5",
+    "2022 Giro d'Italia Stage 13",
+    "2022 Giro d'Italia Stage 13",
+    "2022 Giro d'Italia Stage 6",
+    "2022 Giro d'Italia Stage 6"
+  ]
+}

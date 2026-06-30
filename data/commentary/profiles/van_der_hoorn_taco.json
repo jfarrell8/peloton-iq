@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Opportunistic late attacker from established breakaways, striking in final 3km or less when companions hesitate or mark each other. Prefers decisive solo moves rather than contested sprints.",
+  "team_tactics": "Minimal team support evident — operates as autonomous breakaway specialist. Success comes from individual timing and exploitation of rival tactical errors rather than organized leadout.",
+  "terrain_preference": "Flat to rolling stages where breakaways survive. Strong enough to solo short distances but avoids pure climbing stages. Excels when final categorized climb comes before finale, not at finish.",
+  "vulnerability": "Pure sprint finishes against faster specialists (beaten by Clarke in break sprint). Lacks team support to control or chase down rivals. Caught when attacking too early on climbs (Tour de Pologne).",
+  "key_patterns": [
+    "Attacks from breakaways in final 3km when rivals tactically distracted or marking each other (2018, 2021)",
+    "Wins by exploiting peloton/breakaway miscalculations of his solo strength and time gaps (2021, 2018)",
+    "Operates as breakaway specialist without meaningful team infrastructure supporting efforts (multiple races)",
+    "Shows superior tactical opportunism but weaker raw sprint speed against pure finishers (2022, 2018)"
+  ],
+  "form_trajectory": "neutral: 2022 Tour appearance shows continued breakaway activity but losing sprint suggests declining or stagnant finishing power compared to 2021 GT stage win",
+  "confidence": "medium",
+  "races_analysed": 4,
+  "rider_name": "VAN DER HOORN Taco",
+  "built_from": [
+    "2018 BinckBank Tour Stage 3",
+    "2018 BinckBank Tour Stage 3",
+    "2020 Tour de Pologne Stage 3",
+    "2021 Giro d'Italia Stage 3",
+    "2021 Giro d'Italia Stage 3",
+    "2021 Giro d'Italia Stage 3",
+    "2022 Tour de France Stage 5"
+  ]
+}

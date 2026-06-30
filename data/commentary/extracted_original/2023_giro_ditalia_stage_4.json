@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 4",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-09",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "LEKNESSUND Andreas took pink jersey finishing 2nd to BARGUIL Warren from 7-rider break that survived by 2+ minutes after 80km of attacks to form.",
+    "winner": "BARGUIL Warren",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "UAE Emirates let pink jersey Remco slip away willingly; no chase suggests they preferred avoiding early leadership burden.",
+      "80km required for break formation shows peloton aggressively controlled early dangerous moves despite hard parcours.",
+      "Leknessund sacrificed stage win for GC positioning by fetching bonus seconds at final intermediate sprint."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: 23-year-old Arctic Circle rider showed tactical maturity prioritizing bonus seconds and GC over stage win in 7-man break",
+      "EVENEPOEL Remco": "neutral: willingly surrendered pink after 3 days, suggesting team planned short early tenure to avoid defensive duties",
+      "MAEDA Tadej": "negative: UAE leader caught in early split and required tow back despite team having pink jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:02:54.340821+00:00"
+}

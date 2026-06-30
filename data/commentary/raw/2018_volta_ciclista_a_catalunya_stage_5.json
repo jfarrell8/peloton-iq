@@ -14,75 +14,85 @@
       {
         "video_id": "qiSFxuq56OQ",
         "title": "Volta a Catalunya 2018 | Stage 5 Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-23 17:08:21+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 134.77
       },
       {
         "video_id": "ZL8pLoRoeC0",
         "title": "Volta a Catalunya 2018 | Stage 4 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-22 17:30:00+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 89.77
       },
       {
         "video_id": "4W05rb7dP_0",
         "title": "Volta a Catalunya 2018 | Stage 2 Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-20 18:12:54+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 69.77
       },
       {
         "video_id": "hXqSCMSlqPY",
         "title": "Volta a Catalunya 2018 | Riders Stopped by Train! | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-20 17:34:51+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 69.77
       },
       {
         "video_id": "xYcODR8ZtsE",
         "title": "Volta a Catalunya 2018 | Stage 3 De Gendt Goes the Wrong Way! | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-21 17:28:19+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 69.77
       },
       {
         "video_id": "CngWlZhQ8Aw",
         "title": "Volta a Catalunya 2018 | Stage 3 Highlights + Winner's Interview | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-22 10:43:02+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 59.77
       },
       {
         "video_id": "XFTgFvdgZpM",
         "title": "Volta a Catalunya 2018 | Stage 4 Final Kilometre + Winner's Interview | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-22 16:39:36+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 54.77
       },
       {
         "video_id": "VcqvJvchQTA",
         "title": "Volta a Catalunya 2018 | Stage 6 Highlights + Winner's Interview | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-26 11:30:00+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 44.77
       },
       {
         "video_id": "itF2j35lWeY",
         "title": "Volta a Catalunya 2018 | Stage 7 Finish Line + Winner's Interview | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-03-26 12:30:01+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 39.77
       },
       {
         "video_id": "Lr5mRra--Do",
         "title": "Tour de France 2018 - Seguridad de los ciclistas",
-        "channel": "Tour de France",
         "published": "2018-06-19 09:25:48+00:00",
+        "channel": "Tour de France",
+        "channel_id": "UCSpycUnuU0IVF7gGIhGojhg",
         "match_score": 23.16
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

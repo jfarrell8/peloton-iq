@@ -1,0 +1,26 @@
+{
+  "label": "2020 Bretagne Classic - Ouest France",
+  "race_name": "Bretagne Classic - Ouest France",
+  "race_date": "2020-08-25",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won a reduced sprint after AKOV Niels shut down late attacks, outsprinting MEZGEC Luka in final kilometer",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AKOV Niels performed dual role closing late SENECHAL attack then celebrating teammate victory, unusual domestique strength",
+      "Multiple breakaway attempts collapsed on 13.6km local circuit lap, suggesting final circuit neutralizes early moves",
+      "SIMMONS Quinn made front split as junior world champion, revealing early-career positioning skill in reduced bunch"
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: seventh Bretagne Classic, never won before, dominated sprint after 247km suggesting improved endurance in non-GT preparation",
+      "AKOV Niels": "positive: strongest in race per commentary, closed SENECHAL attack before leadout, wasted on domestique duty",
+      "MEZGEC Luka": "neutral: made front split but lost sprint by wide margin, positioning better than finishing speed",
+      "SENECHAL Florian": "neutral: attacked but neutralized by AKOV, podium finish suggests tired sprint not lack of form",
+      "SIMMONS Quinn": "positive: made winning split in first World Tour year, junior champion credentials translating to senior positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:11:08.274575+00:00"
+}

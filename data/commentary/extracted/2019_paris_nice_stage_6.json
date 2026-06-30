@@ -1,0 +1,28 @@
+{
+  "label": "2019 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-15",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam sprinted to his second stage win after positioning conservatively for 5km, beating DÉMARE Arnaud who was caught out by late-race crashes.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GEOGHEGAN HART Tao worked early to control pace for Sky's GC duo, suggesting team willingness to burn domestiques defending yellow.",
+      "TRENTIN Matteo's Mitchelton-Scott team paced final categorized climb despite no GC interest, positioning sprinter for bonus seconds not stage win.",
+      "KWIATKOWSKI Michał contested intermediate sprint bonus seconds at 4km despite holding yellow, revealing Sky's concern over 18-second gap to BERNAL Egan.",
+      "Late crashes on technical descent split peloton but front group neutralized for regrouping, indicating unwritten truce before queen stage."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Conserved positioning energy in final 5km relying on team rather than fighting early, tactical maturity suggesting Milan-Sanremo readiness",
+      "DÉMARE Arnaud": "negative: Second place despite being set up suggests final kick blunted, worrying pattern after losing to BENNETT on stage three",
+      "DE GENDT Thomas": "negative: Dropped on category-2 climb while wearing polka dots reveals jersey won through breakaways not climbing strength",
+      "GROENEWEGEN Dylan": "negative: Dropped before final climb on moderate stage suggests poor form, ominous for upcoming sprint opportunities",
+      "KWIATKOWSKI Michał": "neutral: Contesting intermediate sprint bonuses with only 18-second GC lead shows defensive mindset, vulnerable position acknowledged",
+      "BERNAL Egan": "positive: Protected in top-2 overall position with GEOGHEGAN HART working suggests Sky preparing dual-leader strategy for queen stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:01:59.418432+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2022 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-07",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won sprint after LAPORTE Christophe led Jumbo echelon offensive that split peloton twice, dropping GC contenders McNulty and Almeida 2+ minutes",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma and QuickStep jointly drove echelons to fracture race, protecting GC riders while eliminating rival climbers early in stage race.",
+      "Second split occurred turning into wind with 8km left, showing breakaway advantage evaporates when peloton accelerates with wind direction change.",
+      "LAPORTE's yellow jersey disrupted QuickStep leadout positioning at 1km, yet JAKOBSEN still won showing team sprint superiority overcomes tactical interference.",
+      "BISSEGER's late solo attack 8km out failed because LOMBART's single sustained pull neutralized gap better than rotating chase."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "negative: Lost 2:05 in echelons alongside Almeida, revealing positional weakness when wind splits occur midway through short stage race",
+      "ALMEIDA João": "negative: Caught out in same split as McNulty, suggesting UAE team cohesion failed when Jumbo/QuickStep accelerated",
+      "SCHACHMANN Maximilian": "negative: Defending champion lost 2:05 in echelons, indicating form deficit or poor team support structure",
+      "YATES Simon": "neutral: Initially distanced in first split but rejoined, showing recovery ability but concerning initial positioning",
+      "VLASOV Aleksandr": "positive: Named alongside Roglič as GC contender safely navigating both splits, elevating his status this race",
+      "LOMBART Yves": "positive: Single massive pull caught Bisseger and set up Jakobsen, demonstrating exceptional power reserves after echelon work",
+      "LAPORTE Christophe": "positive: Maintained yellow while actively disrupting rival sprint trains at 1km, dual-role execution rare in GC leaders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:16:55.716363+00:00"
+}

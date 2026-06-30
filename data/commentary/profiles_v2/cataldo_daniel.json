@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Extreme long-range breakaway specialist, capable of sustaining efforts over 200km+ from very early in the stage. Excels at holding slim margins (20 seconds) against organized chase efforts.",
+  "team_tactics": "Operates with significant autonomy in breakaways, relying on personal endurance rather than team support once in the move. Team allows early freedom for stage hunting opportunities.",
+  "terrain_preference": "Ultra-long stages where attrition and sustained tempo favor diesel engines over explosive climbers. Can survive on final climbs when GC teams fracture the chase group.",
+  "vulnerability": "Vulnerable to well-organized team chases (Mitchelton-Scott reduced 15-minute advantage significantly). Relies on chaos in peloton rather than raw climbing power on decisive ascents.",
+  "key_patterns": [
+    "Commits to breakaways from extreme distance, riding 200km+ off the front in Grand Tours.",
+    "Survives on narrow margins when caught late, holding off chasers by seconds rather than minutes.",
+    "Benefits from GC team attacks fragmenting pursuit, converting chaos into survival opportunities."
+  ],
+  "form_trajectory": "positive: Demonstrated exceptional endurance and tactical awareness to convert 200km+ breakaway into stage victory at 2019 Giro",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CATALDO Daniel",
+  "built_from": [
+    "2019 Giro d'Italia Stage 15",
+    "2019 Giro d'Italia Stage 15"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-01",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "YATES Adam and twin brother Simon escaped in closing kilometers to take 1-2, with Adam edging Simon in finale while Pogačar's group lost 20 seconds at 1km to go.",
+    "winner": "YATES Adam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Yates twins established winning gap in final kilometers despite Jumbo-Visma tempo-setting, suggesting team coordination trumped raw firepower on technical finish.",
+      "Pogačar's UAE train lost 17 seconds with 1 mile remaining despite numeric advantage, revealing difficulty controlling hilly technical finales.",
+      "Early KOM competition triggered aggressive racing from inexperienced riders like Coquard, fragmenting field before decisive late moves."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: Outsprinted twin brother Simon for stage win and yellow despite Simon doing more pacemaking work in breakaway",
+      "YATES Simon": "positive: Made decisive late move with twin Adam but accepted domestique role despite being on rival team",
+      "POGACAR Tadej": "neutral: Finished third at 20 seconds but celebrated unaware of gap, suggesting UAE team communication issues on technical finish",
+      "COQUARD Bryan": "positive: Inexperienced Cofidis rider attacked early Cat-3 KOM aggressively, taking 2 points and fragmenting field despite burning matches",
+      "GOUGEARD Alexis": "positive: Responded to Coquard's early KOM attack and helped split field, showing AG2R aggression from opening kilometers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:55:28.023114+00:00"
+}

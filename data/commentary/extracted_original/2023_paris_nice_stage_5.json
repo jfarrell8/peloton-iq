@@ -1,0 +1,26 @@
+{
+  "label": "2023 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-09",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KOOIJ Olav won chaotic sprint from mass confusion in final 700m after SWIFT Ben's late attack nearly stole it",
+    "winner": "KOOIJ Olav",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GODAU David attacked intermediate sprint to claw back time on GC, gaining 4s on DEMARE, unlike typical sprinter passivity.",
+      "SWIFT Ben attacking at 700m on technical finish nearly succeeded, exposing sprinter teams' control weakness on complex run-ins.",
+      "VINGEGAARD and other GC riders conceded 2s to POGACAR at intermediate sprint, revealing calculated disinterest in bonus seconds hunt."
+    ],
+    "rider_signals": {
+      "KOOIJ Olav": "positive: Won from chaos at 21 years old after previous day disappointment, shows mental resilience and positioning skill in technical finales",
+      "GODAU David": "positive: Actively hunting bonus seconds at intermediate sprint despite trailing GC, showing aggression atypical for sprinters in stage race",
+      "SWIFT Ben": "neutral: Late attack gambit at 700m nearly worked but reveals desperation tactics when outgunned in pure sprint",
+      "DEMARE Arnaud": "negative: Lost intermediate sprint for first time all week, indicating form decline or tactical error by mid-race",
+      "AFFINI Edoardo": "positive: Closed SWIFT's 700m attack then led out KOOIJ perfectly, dual role execution rare in modern leadout trains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:10:07.673823+00:00"
+}

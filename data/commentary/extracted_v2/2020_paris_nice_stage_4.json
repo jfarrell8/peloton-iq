@@ -1,0 +1,29 @@
+{
+  "label": "2020 Paris - Nice Stage 4",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-11",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRAGH ANDERSEN Søren won the 15km technical ITT at 48km/h average, taking 12 seconds from Asgreen and making GC leader SCHACHMANN second.",
+    "winner": "KRAGH ANDERSEN Søren",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Kragh Andersen paced negative split perfectly after intermediate checkpoint, gaining time in second half unlike Bilbao who faded.",
+      "Schachmann rode defensively, only 7sec up at checkpoint but losing 5sec to winner—prioritized GC gaps over stage hunting.",
+      "Alaphilippe's home-course advantage worthless on technical TT despite climbing fast past rivals, finished 24 seconds down in 11th."
+    ],
+    "rider_signals": {
+      "KRAGH ANDERSEN Søren": "positive: first pro TT win at 48km/h reveals hidden engine, pacing discipline superior to established specialists like Asgreen",
+      "SCHACHMANN Max": "positive: extended GC lead to 58 seconds despite losing stage, smart conservative ride preserved energy over rivals",
+      "BILBAO Pello": "neutral: strong first half (3sec up on De Gent) but couldn't sustain power, suggests insufficient ITT-specific training",
+      "ASGREEN Kasper": "negative: won Kuurne earlier but only third here 13sec back, suggests single-day specialist form over stage race endurance",
+      "ALAPHILIPPE Julian": "negative: home circuit advantage nullified, 24sec deficit suggests technical descending skill doesn't compensate for raw power deficit",
+      "HIGUITA Sergio": "positive: only 46sec down as young climber type, better than established ITT riders Pinot/Nibali shows developing diesel engine",
+      "PINOT Thibaut": "negative: new Lapierre TT bike irrelevant at 50sec down, confirms chronic weakness in discipline even on medium-length efforts",
+      "NIBALI Vincenzo": "negative: 53sec loss as team GC leader at Trek reveals declining form, worse than pure climber Higuita"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:18:33.111328+00:00"
+}

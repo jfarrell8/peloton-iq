@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive attacks on technical climbs with 5km remaining, then excels on descents to consolidate advantage. Prefers unconventional terrain like cobblestone climbs where power and handling combine.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Technical cobblestone climbs combined with technical descents; excels where bike handling and tactical timing matter as much as raw power. Exposed on straightforward power climbs.",
+  "vulnerability": "Unknown from available data; single observation shows strength but not weaknesses under varied conditions.",
+  "key_patterns": [
+    "Attacks when rivals mark each other rather than when strongest, showing tactical maturity.",
+    "Technical descent specialist who gains time downhill after cresting climbs.",
+    "Late-race attacks around 5km to go, close enough to prevent organization."
+  ],
+  "form_trajectory": "unknown: single observation from 2017 shows strong performance but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MATAMORIC Jan",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 7",
+    "2017 Vuelta a Espana Stage 7"
+  ]
+}

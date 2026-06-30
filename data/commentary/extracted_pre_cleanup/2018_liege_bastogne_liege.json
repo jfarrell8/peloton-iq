@@ -1,0 +1,28 @@
+{
+  "label": "2018 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2018-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "JUNGELS Bob attacked after the summit of la Roche-aux-Faucons, exploited wait-and-see tactics of favorites, and soloed to 20+ second victory",
+    "winner": "JUNGELS Bob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep sent GILBERT Philippe early on la Roche-aux-Faucons to soften favorites before JUNGELS attacked post-summit",
+      "JUNGELS Bob exploited hesitation among favorites after summit la Roche-aux-Faucons, gaining 20 seconds that expanded into winning margin",
+      "NIBALI Vincenzo unable to follow GILBERT Philippe's initial acceleration on la Roche-aux-Faucons, eliminating pre-race favorite early",
+      "ALAPHILIPPE Julian protected team leader role while GILBERT and JUNGELS attacked, Quickstep placing two in top four"
+    ],
+    "rider_signals": {
+      "JUNGELS Bob": "positive: converted team support into first major win, attacked decisively post-summit rather than on climb itself",
+      "GILBERT Philippe": "positive: sacrificed personal ambitions with early la Roche-aux-Faucons attack that isolated rivals for JUNGELS",
+      "NIBALI Vincenzo": "negative: cracked immediately on GILBERT's initial acceleration la Roche-aux-Faucons, unable to follow favorites",
+      "WOODS Michael": "positive: attacked final 2km to secure second place, best result suggests improved climbing in Ardennes finale",
+      "BARDET Romain": "positive: attacked final 2km for third, consecutive podium indicates consistent threat in Ardennes-style finishes",
+      "ALAPHILIPPE Julian": "neutral: fourth place while working for team, strength evident but tactical role limited personal result"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:29:13.101628+00:00"
+}

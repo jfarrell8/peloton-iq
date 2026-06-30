@@ -1,0 +1,27 @@
+{
+  "label": "2019 UAE Tour Stage 3",
+  "race_name": "UAE Tour",
+  "race_date": "2019-02-26",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ASGREEN Kasper bridged solo to EVENPOEL with 1.7km remaining after teammate LAMPART's earlier attack forced selection, won two-up sprint for stage and leader's jersey for EVENPOEL.",
+    "winner": "ASGREEN Kasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-Quick Step used LAMPART's attack to force selection before EVENPOEL countered, creating bridge opportunity for ASGREEN 1.7km out.",
+      "Trek-Segafredo's PEDERSEN stayed in 7-minute break despite being GC threat at 16:29, indicating teams underestimated time gap threat.",
+      "NIBALI attacking for KOM points on final climb despite GC group imploding suggests Bahrain-Merida prioritized jersey over stage control.",
+      "ACKERMANN dropped on penultimate climb shows Bora-Hansgrohe lacked climbing domestiques to position their sprinter on rolling finishes."
+    ],
+    "rider_signals": {
+      "EVENPOEL Remco": "positive: Counter-attacked after LAMPART's move with under 3km to go, gained 13 seconds on GC despite losing sprint to teammate",
+      "KRISTOFF Alexander": "negative: Dropped with 20km remaining and lost overnight lead, catastrophic collapse for expected bunch sprint favorite",
+      "ASGREEN Kasper": "positive: Bridged solo 1.7km gap to catch EVENPOEL after earlier team moves softened group, exceptional tactical awareness",
+      "PEDERSEN Mads": "neutral: Took KOM points from 7-minute break but got caught, Trek missed opportunity to defend break with GC threat",
+      "ACKERMANN Pascal": "negative: Dropped on penultimate climb before final circuit, exposed climbing deficit on moderately rolling stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:04:48.951083+00:00"
+}

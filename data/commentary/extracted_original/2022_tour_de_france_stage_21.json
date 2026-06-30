@@ -1,0 +1,23 @@
+{
+  "label": "2022 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-24",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won the Champs-Élysées sprint after GROENEWEGEN Dylan launched too early with 700m remaining.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BikeExchange led out GROENEWEGEN who started sprint too early; PHILIPSEN timed final 700m perfectly from Norwegian Corner.",
+      "Multiple breakaway attempts inside 30km all neutralized; sprint teams prevented POGAČAR's entertainment attack on final lap."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "negative: BikeExchange leadout was strong but he misjudged sprint timing, going from too far out",
+      "VAN AERT Wout": "neutral: chose not to contest sprint, prioritizing team celebration over personal result despite green jersey win",
+      "POGAČAR Tadej": "positive: attacked on final lap despite third place GC secured, showing race aggression even ceremonially"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-17T21:52:28.899167+00:00"
+}

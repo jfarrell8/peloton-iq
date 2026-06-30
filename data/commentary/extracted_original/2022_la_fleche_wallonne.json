@@ -1,0 +1,26 @@
+{
+  "label": "2022 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2022-04-20",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan attacked on the final Mur de Huy hairpins, dropping defending champion Alaphilippe and five-time winner Valverde who conceded for second.",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos Grenadiers burned Thomas as domestique on penultimate lap, leaving them tactically empty for finale despite pre-race favoritism.",
+      "Kragh Andersen's late attack with Van Sevenant before Mur de Huy base maximized distance from favorites without summit energy waste.",
+      "Mas sacrificed positioning on steepest 18-19% hairpins specifically for Valverde rather than conserving for own finish."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: expended leading chase on penultimate lap rather than conserving for own climb, suggesting domestique role prioritization over form",
+      "PIDCOCK Tom": "negative: dropped early on Côte de Cherave/Ahffe circuit despite defending team presence, confirming unresolved health issues",
+      "VLASOV Alexandr": "positive: third place represents significant Mur de Huy punch for a rider typically stronger on sustained gradients",
+      "ALAPHILIPPE Julian": "negative: fourth place as defending champion suggests declining explosiveness on 19% hairpin accelerations where he previously dominated",
+      "VALVERDE Alejandro": "neutral: conceding second at age suggests calculated points/placement rather than competitive capitulation given Mas's leadout sacrifice"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:41:31.100421+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-29",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MOLARD Rudy won from a fractured 25-rider breakaway after KALAVMAA Jaakko bridged back post-flat tire on the final climb's descent.",
+    "winner": "MOLARD Rudy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway fractured on climbs before final descent, rewarding diesel climbers who could descend aggressively over pure puncheurs.",
+      "KALAVMAA Jaakko's flat tire on final climb approach proved survivable due to climbing strength, bridged solo within 2km.",
+      "Winning move launched on descent not summit, exploiting large breakaway's poor cooperation through technical sections.",
+      "MOLARD held position through cramps when KALAMAA attacked, betting on track-racing sprint from compromised field."
+    ],
+    "rider_signals": {
+      "MOLARD Rudy": "positive: first stage win in years, strong tactical restraint waiting through KALAMAA's late attack despite cramping",
+      "KALAVMAA Jaakko": "positive: bridged 44-second gap solo after mechanical on climb, showing exceptional climbing depth for classics rider",
+      "DE MARCHI Alessandro": "negative: separated from ROSSETTO on climbs in what was supposed to be Cofidis two-man tactical unit",
+      "ROSSETTO Stephane": "negative: dropped 10-12 seconds from DE MARCHI partner despite being in planned break collaboration",
+      "AMADOR Andrey": "neutral: active in GC group's chase calculation at 1:37-1:38 gap threshold over summit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:42:41.310012+00:00"
+}

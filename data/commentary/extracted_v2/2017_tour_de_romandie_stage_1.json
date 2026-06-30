@@ -1,0 +1,23 @@
+{
+  "label": "2017 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2017-04-26",
+  "stage": 1,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARINI Nicolas won stage 1 bunch sprint in wet conditions despite still searching for a 2018 contract",
+    "winner": "MARINI Nicolas",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Neri Sottoli's Marini positioned by Alomar/Boni leadout despite team folding, suggesting intact motivation from contract-seeking riders.",
+      "Wet opening road stages create positioning chaos where everyone fights for sprint position simultaneously, eliminating organized trains."
+    ],
+    "rider_signals": {
+      "MARINI Nicolas": "positive: Won bunch sprint while admitting not at top condition post-injury, contract desperation may unlock extra motivation",
+      "MORASKO Jakob": "negative: Only third in expected sprint victory despite being pre-race favorite",
+      "BUFVIN": "neutral: Held prologue lead through bonus seconds but not tested in GC terms yet"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:09:56.671961+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-08",
+  "stage": 2,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won Stage 2 in La Roche-sur-Yon after GAVIRIA Fernando crashed under 2km, positioning sixth wheel before launching uphill sprint",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN positioned sixth wheel before uphill finish rather than typical second/third, allowing acceleration runway on gradual gradient sprint",
+      "Quick-Step ran leadout without their sprinter GAVIRIA after crash, ALAPHILIPPE still committing resources despite no finisher present",
+      "COLBRELLI Sonny delayed jump on SAGAN's wheel costing victory; uphill drag punishes hesitation more than flat sprint positioning errors",
+      "DÉMARE Arnaud rejoined lead sprint group after puncture at 20km, indicating echelon/selection never hard enough to eliminate mechanicals"
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: won exhausted on 35°C day after 30km team pacemaking, suggesting exceptional heat tolerance versus pure sprinters",
+      "GAVIRIA Fernando": "negative: crashed under 2km in yellow jersey, second consecutive stage affected by positioning lapses in technical finals",
+      "COLBRELLI Sonny": "positive: matched SAGAN on uphill sprint but tactical hesitation cost win; pure speed competitive with world champion",
+      "DÉMARE Arnaud": "positive: survived 20km chase from puncture to contest sprint, exceptional resilience but indicates weak team support",
+      "GREIPEL André": "negative: present in final group but failed to contest sprint meaningfully, power insufficient for uphill drag finish",
+      "ALAPHILIPPE Julian": "neutral: continued working in final despite GAVIRIA crash eliminating Quick-Step sprint chance, team commitment over individual preservation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:36:05.390797+00:00"
+}

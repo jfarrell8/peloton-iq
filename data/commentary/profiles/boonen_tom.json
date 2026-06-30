@@ -1,0 +1,22 @@
+{
+  "attacking_style": "No attacking pattern observable; 2017 observations show a rider in decline, unable to initiate or follow decisive moves in Monument finales.",
+  "team_tactics": "Quickstep deployed risky all-leader group composition at Ronde, suggesting they lacked confidence in Boonen as sole protected rider and hedged bets with multiple captains.",
+  "terrain_preference": "Historically suited to cobbles (four-time Roubaix champion), but 2017 shows this advantage completely eroded. No terrain now provides competitive edge.",
+  "vulnerability": "Late-race positioning errors (Oman crash in final kilometers), mechanical vulnerability (Ronde), and inability to compete in Monument finales despite cobbled pedigree.",
+  "key_patterns": [
+    "Declined competitive capacity in Monument finales: 13th at Roubaix, neutralized at Ronde (2 races)",
+    "Positioning and execution errors in critical race moments: crash and mechanical incidents (2 races)",
+    "Age-related degradation particularly severe on cobbled specialist profile compared to other Monument types"
+  ],
+  "form_trajectory": "negative: All three 2017 observations show decline—mechanical at Ronde, crash at Oman, 13th at final Roubaix confirms end of Monument competitiveness",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BOONEN Tom",
+  "built_from": [
+    "2017 Paris-Roubaix",
+    "2017 Paris-Roubaix",
+    "2017 Ronde Van Vlaanderen",
+    "2017 Ronde Van Vlaanderen",
+    "2017 Tour of Oman Stage 1"
+  ]
+}

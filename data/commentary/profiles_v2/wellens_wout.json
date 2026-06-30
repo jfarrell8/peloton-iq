@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic late attacker who strikes in the final kilometer when others are distracted by GC calculations or sprint positioning. Exploits moments when stronger riders are focused on each other rather than stage victory.",
+  "team_tactics": "Operates independently without organized leadout train. Relies on personal positioning instincts rather than domestique support to find winning opportunities.",
+  "terrain_preference": "Hilly stages where GC riders compete but bunch remains together until finale. Thrives in chaotic scenarios where sprint teams are absent and pure sprinters are dropped.",
+  "vulnerability": "Lacks team support for controlled situations. Unlikely to succeed when strong sprint trains control finale or when pure climbing power is required for selection.",
+  "key_patterns": [
+    "Attacks inside final kilometer when GC riders focused on time gaps (2 observations)",
+    "Strong barrier positioning on left-hand side shows tactical awareness in disorganized finales (2 observations)",
+    "Targets stages where organized sprint trains absent, exploiting positioning over power (2 observations)"
+  ],
+  "form_trajectory": "positive: demonstrated sharp timing and positioning instincts with stage win at Dauphine 2019",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "WELLENS Wout",
+  "built_from": [
+    "2019 Criterium du Dauphine Stage 3",
+    "2019 Criterium du Dauphine Stage 7",
+    "2019 Criterium du Dauphine Stage 7"
+  ]
+}

@@ -7,32 +7,9 @@
     "video_id": "dAjpUdVXKUk",
     "title": "2017 Tour de France: Stage 19 Recap",
     "url": "https://youtube.com/watch?v=dAjpUdVXKUk",
-    "channel": "NBC Sports",
-    "published": "2017-07-21T20:02:38Z",
-    "match_score": 130.0,
-    "all_candidates": [
-      {
-        "video_id": "dAjpUdVXKUk",
-        "title": "2017 Tour de France: Stage 19 Recap",
-        "channel": "NBC Sports",
-        "published": "2017-07-21T20:02:38Z",
-        "match_score": 130.0
-      },
-      {
-        "video_id": "eIgtn5hZiXA",
-        "title": "2017 Tour de France: Stage 20 Recap",
-        "channel": "NBC Sports",
-        "published": "2017-07-23T20:03:39Z",
-        "match_score": 65.0
-      },
-      {
-        "video_id": "olm3Du1yib4",
-        "title": "Tour de France 2017: Stage 18 Recap | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-20T20:06:17Z",
-        "match_score": 80.0
-      }
-    ]
+    "channel": "playlist_import",
+    "published": "2018-02-20T00:42:29Z",
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 311,

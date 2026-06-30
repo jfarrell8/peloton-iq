@@ -1,0 +1,22 @@
+{
+  "label": "2021 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-18",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won the Champs-Élysées sprint to equal Merckx's all-time Tour stage record at 34 victories.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "UAE Emirates evolved tactically mid-tour (stage 9 onward), shifting from poor positioning to patient breakaway management supporting Pogačar's dominance.",
+      "Finish line moved 400m further up Champs-Élysées, giving sprinters recovery time for last-corner positioning errors with functioning leadouts."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: showed unprecedented nervousness at start, suggesting mental pressure scales with historical stakes even for veteran sprinters",
+      "POGACAR Tadej": "positive: demonstrated mature solo decision-making throughout final week, tactical evolution matching UAE team's mid-race strategic improvement"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:52:47.523620+00:00"
+}

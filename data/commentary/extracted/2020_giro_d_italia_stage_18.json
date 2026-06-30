@@ -1,0 +1,30 @@
+{
+  "label": "2020 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-22",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai won Stage 18 after sitting on GEOGHEGAN HART Tao's wheel up Laghi before counterattacking, taking pink by 12 seconds over teammate KELDERMAN Wilco.",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DENNIS Rohan's 141-second advantage gained on the Stelvio descent before final climb reveals critical high-mountain domestique pacing threshold",
+      "GEOGHEGAN HART taking intermediate sprint bonus seconds while leading proves bonus hunting tactical value even when ultimately outkicked at finish",
+      "KELDERMAN struggling with rain jacket deployment on Stelvio summit cost rhythm that never recovered on 25km freezing descent",
+      "ALMEIDA lost 4:51 but not catastrophically collapsed—gradual distancing suggests sustainable threshold exceeded rather than complete implosion pattern"
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "positive: sat on GEOGHEGAN HART entire Laghi climb then counterattacked to win, showing superior tactical patience and finishing speed",
+      "DENNIS Rohan": "positive: man-of-match pacing pulled 141 seconds on descent alone before final climb, elite high-altitude descending work capacity",
+      "KELDERMAN Wilco": "negative: took full descent to find rhythm after jacket issues, gained pink but by only 12 seconds over teammate, vulnerability exposed",
+      "GEOGHEGAN HART Tao": "positive: led entire Laghi climb and tactically took 3-second bonus sprint, now only 15 seconds off pink despite being outkicked",
+      "ALMEIDA João": "negative: lost 4:51 and pink after fortnight in lead, dropped halfway up Stelvio showing altitude accumulation fatigue",
+      "O'CONNOR Ben": "positive: strongest from 15-rider break on Stelvio climb, breakaway climbing form signal",
+      "BILBAO Pello": "positive: chased at one minute back and finished strong, found rhythm while leaders struggled, podium threat at small deficit",
+      "NIBALI Vincenzo": "negative: dropped with ALMEIDA halfway up Stelvio, no longer GC contender on high-altitude climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:25:22.331875+00:00"
+}

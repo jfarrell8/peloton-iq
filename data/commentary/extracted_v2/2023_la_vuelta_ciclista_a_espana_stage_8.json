@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 8",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-02",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp attacked 3km from summit of final climb, soloed to red jersey while ROGLIC outsprinted AYUSO for the stage win",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deployed three riders (Kuss, Roglic, Vingegaard) in final climb to control pace and enable Kuss's GC attack.",
+      "UAE Emirates matched Jumbo numbers with three riders (Ayuso, Almeida, Soler) but lacked coordination to counter Kuss's move.",
+      "KUSS attacked 3km from summit prioritizing GC jersey over stage win, finishing seventh 2 seconds behind sprint group.",
+      "EVENEPOEL isolated without teammates on steep gradients, unable to follow attacks despite previously handling percentages well."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: Sacrificed stage win for red jersey, attacking solo 3km from summit showing GC leadership confidence within Jumbo",
+      "MARTINEZ Lenny": "negative: Lost 1m09s and red jersey after leading by only 8s, cracked on steep final climb percentages",
+      "EVENEPOEL Remco": "neutral: Led chase group into finale but couldn't attack, showing frustration despite handling gradients well earlier",
+      "ROGLIC Primoz": "positive: Won stage sprint while supporting Kuss, demonstrating form and team depth with Vingegaard also present",
+      "AYUSO Juan": "positive: Finished second in sprint ahead of teammates, strongest UAE rider in finale despite three-rider support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:50:51.810177+00:00"
+}

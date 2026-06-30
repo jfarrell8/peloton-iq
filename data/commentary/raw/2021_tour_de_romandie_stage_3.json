@@ -4,85 +4,103 @@
   "race_date": "2021-04-30",
   "stage": 3,
   "video": {
-    "video_id": "H7D-K5Hb5e0",
-    "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
-    "published": "2021-06-28 16:32:57+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=H7D-K5Hb5e0",
-    "match_score": 80.0,
+    "video_id": "NCdgsayAGB4",
+    "title": "Tour de Romandie 2021 | Stage 3 Highlights | inCycle",
+    "published": "2021-05-01 14:30:27+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=NCdgsayAGB4",
+    "match_score": 135.0,
     "all_candidates": [
       {
-        "video_id": "H7D-K5Hb5e0",
-        "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
-        "channel": "GCN Racing",
-        "published": "2021-06-28 16:32:57+00:00",
+        "video_id": "NCdgsayAGB4",
+        "title": "Tour de Romandie 2021 | Stage 3 Highlights | inCycle",
+        "published": "2021-05-01 14:30:27+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "BehS-z5RV88",
+        "title": "Tour de Romandie 2021 | Stage 2 Highlights | inCycle",
+        "published": "2021-04-30 17:00:10+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "kZ1e81akMBI",
+        "title": "Tour de Romandie 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2021-05-04 09:22:57+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 100.0
+      },
+      {
+        "video_id": "jsvoD0e2XuQ",
+        "title": "Tour de Romandie 2021 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2021-04-29 17:19:55+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "AXqnkihrr_k",
+        "title": "Tour de Romandie 2021 | Stage 1 Highlights | inCycle",
+        "published": "2021-04-29 17:00:06+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "uB6Ca040_kg",
+        "title": "Tour de Romandie 2021 - Stage 1 Highlights | Cycling | Eurosport",
+        "published": "2021-04-28 17:19:17+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 80.0
       },
       {
-        "video_id": "3PeuXUd6yHE",
-        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
-        "channel": "GCN Racing",
-        "published": "2021-07-18 18:57:54+00:00",
-        "match_score": 40.0
+        "video_id": "TbxGdyG5Eic",
+        "title": "Tour de Romandie 2021 | Prologue Highlights | inCycle",
+        "published": "2021-04-28 17:00:10+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 80.0
       },
       {
-        "video_id": "_NIaEwGWhWU",
-        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-        "channel": "GCN Racing",
-        "published": "2021-07-14 16:30:32+00:00",
-        "match_score": 40.0
+        "video_id": "LdDR2NSHcAI",
+        "title": "Tour de Romandie 2021 | Stage 5 Highlights | inCycle",
+        "published": "2021-05-03 14:42:27+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 80.0
       },
       {
-        "video_id": "JZk6a1Z7Csk",
-        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
-        "channel": "GCN Racing",
-        "published": "2021-07-13 16:41:29+00:00",
-        "match_score": 40.0
+        "video_id": "BZ-D1LzDR_k",
+        "title": "Tour de Romandie 2021 - Prologue Highlights | Cycling | Eurosport",
+        "published": "2021-04-27 16:50:39+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 80.0
       },
       {
-        "video_id": "Lou_5_FxJOQ",
-        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
-        "channel": "GCN Racing",
-        "published": "2021-07-15 16:33:10+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "khNB4kSu1bk",
-        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
-        "channel": "GCN Racing",
-        "published": "2021-07-16 16:26:55+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "zUu7ZGf4MpI",
-        "title": "Tour de France 2021 Stage 14 Highlights | Breakaways Aplenty As Potential Podium Spots Up For Grabs",
-        "channel": "GCN Racing",
-        "published": "2021-07-10 16:08:51+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "g_A-6CM_N4g",
-        "title": "Tour de France 2021 Stage 13 Highlights | Can Mark Cavendish Equal Eddy Merckx's Stage Wins Record?",
-        "channel": "GCN Racing",
-        "published": "2021-07-09 16:41:45+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "UFeZ8wwgJpc",
-        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
-        "channel": "GCN Racing",
-        "published": "2021-07-11 16:54:14+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "JDqt96CevYc",
-        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
-        "channel": "GCN Racing",
-        "published": "2021-07-17 17:03:43+00:00",
-        "match_score": 40.0
+        "video_id": "pkabx-B_HAQ",
+        "title": "Tour de Romandie 2021 | Stage 4 Highlights | inCycle",
+        "published": "2021-05-02 13:43:01+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 80.0
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 133,
+    "raw_chars": 4006,
+    "clean_chars": 4006,
+    "duration_mins": 5.2,
+    "clean_text": "welcome to a um rather gray and a pretty wet tour of remedy it's stage three today off and around este air today then it's the loop around estabea in fact it's a few loops to be honest a bigger one right at the beginning as you'll see right now and then we go off into the flatlands and come back after uh one early climb nothing too serious then we start this the not too small matter of a loop circuit that is 34.5 kilometers in length now this has already proved to be something of a challenge we had a breakaway that went off earlier today seven riders in total went for it and indeed they've established a break that got up to about four minutes it's been paired back to two and a half right now there goes missing up he's on the attack and he decides to change the pace the complexion of the day comes going to try and stay with him and likewise who sins fed up with the pace keeping uh everyone out maybe of the frame is kung who's gone he's decided to attack bisig has gone pop stephan bisica goes backwards and kung now means business but is it anybody else's business today let's see for the time being hosann's of lotto sodal with the red helmet here is staying with stefan kung the geometry is different for them oh there he goes oh that was heavy kobe houston's then has a great opportunity here he's got 37 seconds on the peloton a look at a fiona there is kung he's back within the peloton he's been tagged on the climb so uh kung i'm afraid uh double hitting it's not gonna be him uh the gap still being declared at 38 seconds i'm not sure it's quite that big at the moment they strip the clock out that's the reason why it's uh it's actually all over i'm afraid for the breakaway this is the moment where solaire just said see ya i quite fancy it today and then it's a big question asked of everyone else behind including yon zaghiro from astar in the pale blue so movie star have gone for it with mark solaire at the moment and here he is meanwhile this man has shuffled the cards and dealt himself potentially a winning hand this is absolutely fantastic solaire's gonna make this 26 seconds still holding goes through the most technical little shimmy and the crowd are screaming for him and he's starting to believe mark solaire that this day is his well i thought they gonna go he was gonna get back to him but not a bit of it it's gonna be his won the tour of the avenia a few years ago 2015. that's a race where it's the youngsters who are going to be the future announce themselves and when you see who he was up against back then and you realize he beats the likes of hague like chicony like sebastian air now all he needs to do now is stay on his on his uh his bike and the promise he had then and that spectacular win in paris nice two years ago three years ago now i guess and he's already on the blower celebrating and the grimace becomes a smile and he realizes he has stolen the day that was a piece of impeccable timing and everyone else is going to be just here to hoover up the crumbs from the table i'm afraid because the man who has feasted himself on the day is mark solaire the name almost underscoring the damp conditions we've got here the sun is shining with mark solaire on the dampest day we've had so far in remedy super work well we're going to get confirmation of our results you know the one two three sonic all barely finished in fourth place said if gawker is aguirre diego olitsi who doesn't mind the reign and indeed rui costa so it was van builder from dsm he was busy there marxilla taking the day ahead of magnus court and peter sagan that's your podium 22 seconds was the winning margin plus a 10-second bonus for uh mark solaire in a happy place 14 seconds is the advantage ahead of gary thomas and richie port with sonic albrelli in fourth place of mark hershey 24 seconds blanketing the top 10. so lots can happen when we go climbing tomorrow destination there is our leader today he's also got a big lump of cheese and a yellow jersey of course you",
+    "preview_start": "welcome to a um rather gray and a pretty wet tour of remedy it's stage three today off and around este air today then it's the loop around estabea in fact it's a few loops to be honest a bigger one right at the beginning as you'll see right now and then we go off into the flatlands and come back after uh one early climb nothing too serious then we start this the not too small matter of a loop circuit that is 34.5 kilometers in length now this has already proved to be something of a challenge we ",
+    "preview_end": "m he was busy there marxilla taking the day ahead of magnus court and peter sagan that's your podium 22 seconds was the winning margin plus a 10-second bonus for uh mark solaire in a happy place 14 seconds is the advantage ahead of gary thomas and richie port with sonic albrelli in fourth place of mark hershey 24 seconds blanketing the top 10. so lots can happen when we go climbing tomorrow destination there is our leader today he's also got a big lump of cheese and a yellow jersey of course you"
+  },
+  "status": "transcript_saved"
 }

@@ -1,0 +1,27 @@
+{
+  "label": "2022 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe won via Jumbo-Visma team time trial after stringing out the field on the final climb with 8km to go, gaining 22 seconds on main GC contenders.",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma used Teunissen/Hofstede/Laporte rotation on final 8km climb to split field, creating impromptu team time trial finish at 60kph.",
+      "Defending champion Schachmann lost 22 seconds unexpectedly on final climb, revealing vulnerability on even moderate gradients when pace is high.",
+      "INEOS positioned aggressively for crosswinds despite no GC leader present, suggesting team protocol prioritizes wind splits regardless of leadership status.",
+      "Quick-Step chased breakaway for Jakobsen despite final climb profile unsuitable for pure sprinter, tactical miscalculation or desperation move."
+    ],
+    "rider_signals": {
+      "COLBRELLI Sonny": "negative: dropped on final 8km climb before GC riders, concerning form signal for defending champion",
+      "SCHACHMANN Maximilian": "negative: lost 22 seconds as defending champion, came in third group rather than second",
+      "ROGLIC Primoz": "positive: matched team's devastating climb pace despite nearly winning race previous year, form clearly present",
+      "LAPORTE Christophe": "positive: drove final climb split then outsprinted teammates, indicates exceptional early-season condition for new signing",
+      "HOFSTEDE Lennard": "positive: performed extended pull at 60kph on final climb, domestique showing unexpected power reserve"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:16:39.361131+00:00"
+}

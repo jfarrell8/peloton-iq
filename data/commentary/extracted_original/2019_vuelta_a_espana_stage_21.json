@@ -1,0 +1,24 @@
+{
+  "label": "2019 Vuelta a Espana Stage 21",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-15",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won Madrid circuit sprint, perfectly positioned by RICHEZE after Bennett left final acceleration too late inside 100m.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Deceuninck Quick-Step's Richeze forced between rival leadout riders mid-road to deliver Jakobsen, overwhelming pure sprinter speed.",
+      "Bennett's positioning behind Jakobsen wheel was perfect but his final acceleration timing 100m out proved fatally late.",
+      "Multiple sprint trains (UAE, Sunweb, CCC) massed but Astana inexplicably rode front without sprinter, wasting energy."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: second stage win suggests he handles Madrid circuit technical finish better than pure power sprinters",
+      "BENNETT Sam": "negative: wheel-surfing execution perfect but hesitated on final kick, revealing possible confidence deficit against Quick-Step train",
+      "CAVIRIA Fernando": "neutral: UAE organized leadout but Gaviria invisible in finale, suggesting form collapse late in Grand Tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:20:58.712920+00:00"
+}

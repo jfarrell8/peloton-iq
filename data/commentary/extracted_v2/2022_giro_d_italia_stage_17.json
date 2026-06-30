@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-25",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BUITRAGO Santiago attacked alone from breakaway on final climb 8km from finish after crashing at 80km to go, held off KÄMNA by 25 seconds",
+    "winner": "BUITRAGO Santiago",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Van der Poel attacked with 65km remaining on first Cat-1 climb, gaming breakaway dynamics before final climb selection began",
+      "Bahrain Victorious paced GC group while their own rider Buitrago was clear uproad, tactical luxury allowing dual outcomes",
+      "Kämna bridged to van der Poel then dropped him on final climb, but went too early at 8km downhill finish",
+      "Landa attacked over summit but Carapaz/Hindley matched easily, suggesting podium gap now unbridgeable despite bonus second opportunities gone"
+    ],
+    "rider_signals": {
+      "BUITRAGO Santiago": "positive: recovered from 80km crash to win shows exceptional durability, previously second-placed indicates consistent climbing form",
+      "VAN DER POEL Mathieu": "neutral: attacked Cat-1 climb 65km out but faded final climb, suggests one-day power doesn't translate to stage race mountains",
+      "ALMEIDA João": "negative: first visible weakness shown when Bahrain paced, 50-second gap to Landa opens after appearing strongest GC rider earlier",
+      "KÄMNA Lennard": "positive: bridged to leaders and dropped van der Poel, but tactical error attacking 8km from finish on downhill",
+      "LANDA Mikel": "neutral: attacked summit but easily covered, moved to podium only because Almeida cracked not own acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:08:41.887606+00:00"
+}

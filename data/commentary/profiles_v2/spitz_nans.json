@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches solo attacks inside 25km on gradual finish terrain, deliberately avoiding steep climbing finishes where larger physique becomes a disadvantage.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Gradual finishing gradients that favor power over pure climbing ability; exposed on steep climbs where weight-to-power ratio becomes critical.",
+  "vulnerability": "Steep climbing finishes where his larger rider physiology creates physiological disadvantages compared to pure climbers.",
+  "key_patterns": [
+    "Solo attacks from breakaways rather than group sprints or late selections.",
+    "Strategic timing to finish on gradual terrain avoiding steep climb disadvantages.",
+    "Targets breakaway opportunities in Grand Tours for stage wins."
+  ],
+  "form_trajectory": "unknown: single observation insufficient to determine trajectory, but showed strong tactical awareness and execution",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SPITZ Nans",
+  "built_from": [
+    "2019 Giro d'Italia Stage 17",
+    "2019 Giro d'Italia Stage 17"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-06",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PORTE Richie defended yellow by 17 seconds after PADUN Mark won from breakaway on final HC climb to Joux-Plane; PORTE avoided pushing hard on ascent to preserve energy.",
+    "winner": "PORTE Richie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PORTE deliberately conserved energy on Joux-Plane climb rather than matching attacks, prioritizing margin defense over stage result.",
+      "PADUN doubled stage wins by targeting KOM points from breakaway, calculated to overtake CRADDOCK in polka dot competition.",
+      "LÓPEZ Miguel Ángel risked nature break with 30 miles remaining, signaling tactical naivety when breakaway gap still under three minutes.",
+      "Ineos controlled tempo immediately after PORTE mechanical to prevent rivals exploiting momentary isolation with teammates pacing back."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "positive: demonstrated tactical maturity by not overextending on final climb despite pressure, reversing past descent struggles",
+      "PADUN Mark": "positive: back-to-back HC stage wins at 24 years old reveals emerging Grand Tour climbing threat beyond one-day performances",
+      "THOMAS Geraint": "neutral: crashed on Joux-Plane descent but recovered to preserve podium, hip damage suggests descending aggression despite conditions",
+      "LÓPEZ Miguel Ángel": "negative: poorly timed nature break with 30 miles left when race still contested shows questionable race situation awareness",
+      "CRADDOCK Lawson": "negative: lost KOM despite 18-point advantage after failing to defend from breakaway, passive jersey defense",
+      "FROOME Chris": "negative: struggling at tail end of peloton throughout week confirms continued lack of climbing form",
+      "LUTSENKO Alexey": "positive: second overall and stage 4 ITT winner demonstrates rare combination of time trial power and stage race climbing",
+      "COLBRELLI Sonny": "positive: nearly won four stages showing versatility beyond pure sprinting, fastest rider across varied terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:49:37.763820+00:00"
+}

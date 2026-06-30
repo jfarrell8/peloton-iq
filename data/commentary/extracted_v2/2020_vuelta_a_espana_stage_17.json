@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-07",
+  "stage": 17,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GODDU David attacked with 4km to go on Alto de la Tía, won solo while CARAPAZ took 20 seconds from ROGLIČ but fell short of stealing red jersey by 24 seconds.",
+    "winner": "GODDU David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar placed three riders in 34-rider breakaway on climb one, creating numerical advantage before key finale decisions.",
+      "Jumbo-Visma maintained high 40kph tempo through early climbs to prevent breakaway from becoming unmanageable before final climb.",
+      "CARAPAZ attacked with 3km remaining when ROGLIČ already under pressure, nearly stealing GC by exploiting cumulative fatigue.",
+      "SOLER pulled back to collect CARAPAZ for breakaway group 50km out, showing Movistar's willingness to sacrifice stage win for GC."
+    ],
+    "rider_signals": {
+      "GODDU David": "positive: took second stage win in cold/rainy conditions he explicitly prefers, suggesting weather-specific targeting works",
+      "CARAPAZ Richard": "positive: attacked with 3km left and gained 20 seconds on ROGLIČ despite failing GC bid, showing form peaked late tour",
+      "ROGLIČ Primož": "negative: visibly under pressure on final climb and required full 24-second buffer to survive, vulnerabilities exposed penultimate day",
+      "CARTHY Hugh": "negative: attacked but dropped by CARAPAZ with 3km to go, lacking final acceleration despite podium position",
+      "VLASOV Aleksandr": "negative: dropped from third to fourth overall by GODDU's stage win despite no direct confrontation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:30:49.343558+00:00"
+}

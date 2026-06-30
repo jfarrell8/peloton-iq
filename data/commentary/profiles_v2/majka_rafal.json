@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Long-range solo attacks from breakaways on HC climbs, typically launching 10km from summit. Prefers sustained efforts over explosive steep gradients, willing to commit early rather than wait for final kilometers.",
+  "team_tactics": "Receives tactical positioning and launch support from team on steep gradients, but operates primarily as lone attacker once move is initiated. Team sets him up but doesn't control tempo extensively.",
+  "terrain_preference": "Long, sustained HC climbs where endurance trumps explosive power. Vulnerable on ultra-steep gradients (20%+) and short, punchy finishes under 2km where pure climbers can respond.",
+  "vulnerability": "Insufficient explosive power on gradients exceeding 20% and in final 1-2km of climbs. Unable to respond to late accelerations from fresher or more explosive climbers despite earlier efforts.",
+  "key_patterns": [
+    "Launches solo attacks 10km from summit on HC climbs, both observations from breakaway position",
+    "Struggles to finish on ultra-steep gradients 20%+, dropped or outsprinted twice in final kilometers",
+    "Operates from early breakaways rather than GC group, winning tactic in successful stage",
+    "Can hold off GC favorites when gap established early, but vulnerable to pure climbers in direct confrontation"
+  ],
+  "form_trajectory": "negative: 2018 observation shows dropped on steep finish despite initiating breakaway attack, suggesting declining ability to compete on selective gradients",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MAJKA Rafal",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 8",
+    "2018 Vuelta a Espana Stage 13"
+  ]
+}

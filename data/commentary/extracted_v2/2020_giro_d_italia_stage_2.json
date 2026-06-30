@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-04",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ULISSI Diego won the uphill sprint finish after attacking to break up the peloton with 8km to go on the final climb",
+    "winner": "ULISSI Diego",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ULISSI's late attack (8km out) on final climb fractured sprinter field before uphill finish sprint.",
+      "DEGENDT Thomas aggressively swept both KOM and intermediate sprint from breakaway, revealing stage hunting priorities.",
+      "Astana hemorrhaged six riders after VLASOV abandon mid-stage, exposing catastrophic team vulnerability early in Grand Tour."
+    ],
+    "rider_signals": {
+      "VLASSI Alexander": "negative: abandoned stage 2 with stomach issues, eliminating Astana's GC depth catastrophically early",
+      "ULISSI Diego": "positive: seventh Giro stage win via tactical late climb attack demonstrates retained uphill sprint punch",
+      "DEGENDT Thomas": "positive: dominated breakaway competitions suggesting good early form for stage hunting",
+      "ALMEIDA Joao": "neutral: retained pink jersey through flat stage without incident",
+      "CONSONNI Simone": "negative: crashed alongside VIVIANI before key sprint, Cofidis lost both sprint options",
+      "LOPEZ Miguel": "negative: already out of Giro before stage 2 finish, part of Astana implosion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:14:56.635960+00:00"
+}

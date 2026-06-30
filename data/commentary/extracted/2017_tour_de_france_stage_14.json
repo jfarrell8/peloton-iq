@@ -3,25 +3,28 @@
   "race_name": "Tour de France",
   "race_date": "2017-07-15",
   "stage": 14,
-  "channel": "NBC Sports",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "MATTHEWS Michael attacked with ~500m to go on the uphill finish into Rodez, dropping VAN AVERMAET and winning solo with a no-hands celebration.",
+    "one_line_summary": "MATTHEWS Michael attacked solo with 200+ meters remaining on uphill finish in Rodez after AVERMAET Greg covered earlier moves, winning by clear daylight as ARU Fabio lost yellow jersey losing 24 seconds.",
     "winner": "MATTHEWS Michael",
     "commentary_quality": "rich",
     "tactical_patterns": [
-      "Sunweb collaborated with BMC from race start to control dangerous breakaway, sharing workload despite both teams having stage ambitions.",
-      "Froome's Team Sky exploited Aru's positioning error in valley before Rodez climb, accelerating when Astana leader isolated without teammates.",
-      "Matthews launched final attack at 500m on uphill finish after following Van Avermaet's wheel through technical corners, unusually early sprint.",
-      "Kittel dropped on moderate climbing approach to Rodez with three teammates, exposing pure sprinter vulnerability on rolling stage finishes."
+      "MATTHEWS attacked from 200m+ out on uphill finish after positioning on AVERMAET's wheel, exploiting punchy finale terrain unreachable for pure sprinters.",
+      "Team Sunweb collaborated with BMC from race start to control dangerous breakaway, sharing workload allowed MATTHEWS fresher legs despite stage-long chase.",
+      "ARU isolated without teammates at back of peloton on descent into valleys before finish, catastrophic positioning cost yellow jersey on non-mountain stage.",
+      "KITTEL Marcel dropped on rolling terrain approaching finish, revealing stage profile filtering vulnerability even when not classified as mountain stage.",
+      "Sky immediately exploited ARU's weakness to reclaim yellow for FROOME, attacking tempo on approach to demonstrate GC teams monitor non-mountain finishes aggressively."
     ],
     "rider_signals": {
-      "ARU Fabio": "negative: Caught at back of peloton without teammates in valley before final climb, losing 24 seconds and yellow jersey through poor positioning awareness",
-      "MATTHEWS Michael": "positive: Won after doing extensive leadout work for green jersey battle against Kittel earlier in Tour, revealing exceptional condition depth",
-      "FROOME Chris": "positive: Team Sky exploited Aru's isolation with coordinated acceleration despite not having numerical advantage, reclaiming yellow through tactical opportunism",
-      "LANDA Mikel": "neutral: Moves to strong GC position (mentioned as 'sitting pretty' going into Alps), potentially complicating Sky's team hierarchy with Froome back in yellow",
-      "VAN AVERMAET Greg": "neutral: Covered multiple attacks in finale but unable to respond to Matthews' 500m surge on uphill finish"
+      "MATTHEWS Michael": "positive: Won from 200m solo attack after full day's work chasing breakaway, exceptional punch-sprint combination",
+      "ARU Fabio": "negative: Lost yellow jersey and 24 seconds through poor positioning without teammates on descent, catastrophic tactical collapse",
+      "VAN AVERMAET Greg": "positive: Covered multiple attacks on final climb and nearly caught MATTHEWS, best positioned puncher besides winner",
+      "FROOME Chris": "positive: Reclaimed yellow jersey gaining 24 seconds on ARU through opportunistic positioning on non-mountain stage",
+      "KITTEL Marcel": "negative: Dropped on rolling finale terrain with three teammates, green jersey vulnerability exposed outside pure sprints",
+      "LANDA Mikel": "neutral: Moved into podium position at 1:17 behind FROOME, now team calculus complicated for Sky leadership",
+      "MARTIN Dan": "positive: Finished well in uphill sprint, sixth overall showing unexpected GC resilience"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:09:17.889344+00:00"
+  "extracted_at": "2026-06-28T21:07:49.510025+00:00"
 }

@@ -1,0 +1,25 @@
+{
+  "label": "2022 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERSEN Mads won the sprint after Trek-Segafredo controlled the entire stage for him, beating COQUARD Bryan on the line without needing leadout help in final 500m.",
+    "winner": "PETERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo committed entire team to front-duty for Petersen, revealing confidence in sprint form over conserving for Madrid stage.",
+      "Evenepoel's Quick-Step did zero defensive work despite holding red jersey—sprint teams chased breakaway for their own interests.",
+      "Coquard sat Petersen's wheel final 500m but still lost, suggesting Trek's leadout absence irrelevant given Petersen's raw speed advantage."
+    ],
+    "rider_signals": {
+      "PETERSEN Mads": "positive: won despite no organized leadout in finale, pure speed beating positioned Coquard; extends points lead to unassailable 151 points",
+      "VAN POPPEL Danny": "negative: hyped pre-stage as potential challenger but disappeared in finale sprint without mention",
+      "ROGLIC Primoz": "neutral: sniffed around front late-stage but deemed finale insufficiently hard to attack, suggesting selective aggression before weekend mountains",
+      "BENNETT Sam": "negative: conspicuously absent from sprint despite being mentioned pre-race; form collapse compared to earlier Vuelta stage wins"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:32:39.105972+00:00"
+}

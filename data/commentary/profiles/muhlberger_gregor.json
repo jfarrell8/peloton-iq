@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who attacks from small groups in final 1-6km, particularly effective on hard stages with solo or small group finishes. Shows unexpected sprint capacity when reaching finale with reduced numbers.",
+  "team_tactics": "Primary role as high-altitude domestique delivering GC leaders deep into final climbs. When given freedom, exploits breakaway positions on hardest stages rather than designated sprint stages.",
+  "terrain_preference": "Excels on mountainous terrain with altitude finishes and on exceptionally hard one-day parcours. Shows versatility matching pure climbers (Alaphilippe) while retaining sprint capacity in reduced groups.",
+  "vulnerability": "Tactically naive in sprint execution, repeatedly leading out final 500m and being passed. Inferior pure finishing speed when facing specialist sprinters despite barrier/positioning craft.",
+  "key_patterns": [
+    "Attacks from small groups (4 riders or fewer) in final 1km, documented twice. (2)",
+    "Elite domestique work pacing GC leaders deep into altitude climbs, reducing peloton significantly. (2)",
+    "Reaches podium positions but tactically gives away wins through premature sprint leadouts. (3)",
+    "Targets breakaway success on explicitly hardest stages rather than easier opportunities. (2)",
+    "Shows unusual sprint capacity for climbing domestique role, creating dual-threat breakaway profile. (3)"
+  ],
+  "form_trajectory": "neutral: Last 2022 observation shows maintained breakaway endurance (solo to 6km) but no recent evidence of previous sprint finishing ability or high-mountain domestique deployment",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "MUHLBERGER Gregor",
+  "built_from": [
+    "2018 BinckBank Tour Stage 6",
+    "2018 BinckBank Tour Stage 6",
+    "2018 Itzulia Basque Country Stage 3",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2019 Criterium du Dauphine Stage 6",
+    "2019 Tour de France Stage 12",
+    "2019 Tour de France Stage 20",
+    "2022 Paris-Nice Stage 7"
+  ]
+}

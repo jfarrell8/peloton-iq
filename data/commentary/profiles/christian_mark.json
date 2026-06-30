@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Long-range breakaway specialist willing to commit to extended efforts (62km documented), but lacks finishing power to sustain through multiple climbs or late-race gradients.",
+  "team_tactics": "Operates independently in early breakaways, appearing to target aggression/breakaway classifications rather than stage wins. Limited evidence of coordinated team support.",
+  "terrain_preference": "Flat to rolling terrain in breakaways; struggles on sustained climbs where peloton applies organized pressure. Heat conditions notably weaken performance.",
+  "vulnerability": "Endurance ceiling exposed on multi-climb stages after long breakaway efforts. Crash-prone when fatigued. Cannot defend breakaway advantage when peloton commits climbing tempo.",
+  "key_patterns": [
+    "Commits to long-distance breakaways exceeding 60km, prioritizing visibility over realistic win chances.",
+    "Folds on climbs following extended breakaway efforts, showing poor recovery between sustained efforts.",
+    "Targeted aggression/breakaway classifications rather than stage results in Tour of Oman.",
+    "Vulnerable in hot conditions, struggling to maintain output on penultimate climbs after early efforts."
+  ],
+  "form_trajectory": "negative: both documented race appearances ended prematurely due to either crash or collapse under fatigue/heat stress",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CHRISTIAN Mark",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 5"
+  ]
+}

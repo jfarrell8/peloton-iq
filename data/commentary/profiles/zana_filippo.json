@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Breakaway specialist who targets long-range moves on opportunistic stages, particularly on familiar Italian terrain. Shows sprinting ability to finish moves when break succeeds.",
+  "team_tactics": "Israel Premier Tech uses him as an attacking animator in breakaways, though team cohesion appears problematic when multiple riders commit. Also deployed as climbing domestique when needed.",
+  "terrain_preference": "Veneto roads and Italian stages where local knowledge provides advantage. Capable on climbs in pacing role but thrives in fragmented breaks on rolling terrain.",
+  "vulnerability": "Team disorganization limits effectiveness when multiple teammates are scattered in breaks or forced to chase separately. Relies on breakaway success rather than GC contention ability.",
+  "key_patterns": [
+    "Consistently targets breakaways across multiple Giro stages, positioning well in fragmented groups.",
+    "Dual role capability: animator in breaks and climbing domestique when team strategy requires.",
+    "Strong on home Veneto roads with Italian champion jersey, leveraging local knowledge and motivation.",
+    "Israel Premier Tech coordination issues visible when multiple riders commit without unified plan."
+  ],
+  "form_trajectory": "positive: Multiple breakaway successes and podium finishes at 2023 Giro, showing consistent ability to animate and execute",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "ZANA Filippo",
+  "built_from": [
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro dItalia Stage 18",
+    "2023 Giro dItalia Stage 3",
+    "2023 Giro dItalia Stage 8"
+  ]
+}

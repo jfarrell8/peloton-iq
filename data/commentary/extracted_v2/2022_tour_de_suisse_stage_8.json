@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-19",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint won Tour de Suisse via 25.6km ITT in Vaduz, finishing 3 seconds behind stage winner EVENEPOEL but securing GC by 1:12 over IGITA.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EVENEPOEL Remko destroyed second half of ITT course suggesting power advantage in headwind/hillier sections over pure flat speed.",
+      "KÜNG Stefan showing career-best climbing form while maintaining TT power signals equipment/training shift worth monitoring future stage races.",
+      "IGITA Sergio held second GC despite inferior TT pedigree by limiting losses at intermediate check rather than fading late.",
+      "MARTINEZ Dani using prototype disc brake TT bike indicates INEOS pre-Tour tech testing in race conditions."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 54 km/h average with 104 second margin suggests Tour ITT threat if his stage race legs hold",
+      "THOMAS Geraint": "positive: 36-year-old winning at altitude/heat while thinking he could catch EVENEPOEL shows unexpected peak timing",
+      "KÜNG Stefan": "positive: climbing into top-5 GC while maintaining elite TT speed represents complete rider evolution from pure specialist",
+      "IGITA Sergio": "neutral: held second GC despite mechanical concerns for teammate POWLESS showing mental resilience under pressure",
+      "VAN WILDER Ilan": "negative: unable to finish ITT suggests serious physical issue for young QUICKSTEP rider to monitor",
+      "JUNGELS Bob": "positive: fifth on stage described as renaissance signals return to form worth tracking for Grand Tour support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:28:41.314222+00:00"
+}

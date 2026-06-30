@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-14",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEGENT Thomas won from a 4-rider breakaway sprint after Fonda Pohl/Gilmay chase group failed to bridge, finishing 10 seconds behind.",
+    "winner": "DEGENT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo forced to chase despite Guillemata only 4:06 down GC, revealing threshold where breakaway GC threats trigger team control.",
+      "Fonda Pohl attacked with 46km remaining on climb, demonstrating elite rouleurs now initiate decisive selections much earlier than traditional final-climb timing.",
+      "Kemna attacked with 7.5km remaining while 38 seconds down GC, showing mid-distance attacks on technical finales to steal jerseys becoming standard.",
+      "Lotto-Soudal placed three riders in 21-man break, but over-representation failed when Fonda Pohl/others counter-attacked, suggesting numerical advantage neutralized by quality."
+    ],
+    "rider_signals": {
+      "FONDA POHL Matteo": "positive: launched winning move at 46km on climb, reaching final with enough to contest sprint, confirms climbing rouleur profile for long breakaway selections",
+      "DEGENT Thomas": "positive: bookended decade of Grand Tour wins with tactical patience, winning 4-up sprint after Vanhoucke paced final 3-4km",
+      "GUILLEMATA Guillermo": "neutral: only 4:06 down triggered full team chase from Trek, establishing precise GC gap threshold where breakaway freedom ends",
+      "LOPEZ Juan Pedro": "positive: personally marked Kemna's late jersey-stealing attack despite leading race, unusual direct defending from maglia rosa",
+      "GILMAY Biniam": "neutral: favorite took intermediate sprint points but chase with Fonda Pohl fell 10 seconds short, questioning sprint finish timing judgment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:11:13.339400+00:00"
+}

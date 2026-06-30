@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-18",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won from 40-rider breakaway after attacking on Peyresourde, using track-style positioning in final kilometer to hold off BILBAO in narrow finish straight.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Simon deliberately lost time earlier in Tour to help teammate Adam, positioning himself for stage hunting opportunities today.",
+      "40-rider breakaway succeeded because GC contenders refused to chase before time trial next day, conserving energy for Tourmalet stage.",
+      "YATES used track sprint tactics in final kilometer, forcing BILBAO to barriers limiting his sprint angle to one direction only.",
+      "WELLENS Tim hunting every KOM point rather than just jersey lead, signaling all-in strategy for polka dots during Pyrenean stages."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Won stage using track positioning skills in narrow finish, showed tactical maturity by sacrificing GC early for stage opportunities",
+      "BILBAO Pello": "positive: First Tour bridged to leaders solo on climb, nearly won sprint despite being isolated without teammates",
+      "WELLENS Tim": "neutral: Taking single KOM points on minor climbs reveals desperate point accumulation strategy, suggesting weakness on bigger mountains ahead",
+      "MULBERGER Gregor": "negative: Despite two Giro stage wins, completely ineffective in 3-up sprint tactics, allowed YATES to dictate positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:57:03.801663+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who commits to multi-day efforts. Controls group dynamics through pre-emptive agreements before accelerating for KOM points or stage wins.",
+  "team_tactics": "Operates with significant autonomy in breakaways for ProTeam squads (Androni). Limited team support visible; relies on individual tactical acumen and negotiation within breaks.",
+  "terrain_preference": "KOM-classified climbs where points are contested. Thrives in breakaway scenarios requiring sustained effort across consecutive stages rather than pure summit finishes.",
+  "vulnerability": "Insufficient data on bunch sprint scenarios or when faced with superior climbers in reduced groups. Recovery demands of consecutive breakaway days may create later-race vulnerability.",
+  "key_patterns": [
+    "Consecutive breakaway days: demonstrated three straight days in 2018 Tirreno with KOM control.",
+    "Pre-negotiates breakaway dynamics: forced agreement with MOSCA before accelerating for points.",
+    "Opportunistic sprint wins from breaks: capitalized on TV sprint in 2020 Tirreno breakaway.",
+    "KOM jersey focus: dominant point collection across multiple classified climbs within single race."
+  ],
+  "form_trajectory": "neutral: 2020 win shows continued breakaway effectiveness, but two-year observation gap limits confidence in current trajectory assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BAGIOLI Nicola",
+  "built_from": [
+    "2018 Tirreno-Adriatico Stage 4",
+    "2018 Tirreno-Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 2"
+  ]
+}

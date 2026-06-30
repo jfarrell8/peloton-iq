@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Launches attacks on climbs, sometimes employing tactical deception by feigning weakness before accelerating. Shows opportunistic breakaway instincts but struggles to sustain long solo efforts to the finish.",
+  "team_tactics": "Primarily functions as high-altitude domestique setting tempo in final kilometers to position team leaders (notably Roglič). Limited personal team protection, particularly vulnerable when isolated.",
+  "terrain_preference": "Pure climbing suited to lightweight build; excels on sustained mountain gradients. Severely exposed on flat, windy, exposed coastal roads where low weight becomes critical liability.",
+  "vulnerability": "Crosswinds are a decisive weakness—lost red jersey twice in echelon splits at high speeds. Lacks team protection when racing for personal result. Insufficient power to finish long solo breakaways.",
+  "key_patterns": [
+    "Uses feigned weakness before attacking on climbs, appearing dropped then accelerating immediately (2 instances).",
+    "Inherited GC positions through opponent misfortune rather than offensive strength (2 red jersey instances via crashes).",
+    "Crosswinds consistently expose him: dropped from red jersey groups at 28kph winds, weight liability at 114lbs (3 instances).",
+    "Functions as final-kilometer positioning domestique for team leaders, setting tempo before leader attack (2 instances).",
+    "Strong breakaway initiator but caught before finish when attempting long solo efforts (2 instances)."
+  ],
+  "form_trajectory": "negative: abandoned Catalunya 2023 on decisive stage, suggesting declining durability. Earlier 2022 showed climbing strength but no recent competitive results.",
+  "races_analysed": 10,
+  "confidence": "medium",
+  "rider_name": "ELISSONDE Kenny",
+  "built_from": [
+    "2018 Giro d'Italia Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2021 Paris-Nice Stage 6",
+    "2021 Tour de France Stage 11",
+    "2021 Vuelta a Espana Stage 5",
+    "2021 Vuelta a Espana Stage 6",
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

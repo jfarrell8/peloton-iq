@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-14",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michal won from the break after UAE/Jumbo control relaxed post-40km, while POGACAR attacked 450m out to take 8 seconds from VINGEGAARD.",
+    "winner": "KWIATKOWSKI Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates controlled at 1-minute gap pre-40km mark, then inexplicably allowed gap to balloon to 4 minutes on final climb.",
+      "YATES Adam initiated GC accelerations on Grand Colombier climb, revealing UAE using both protected riders tactically not just POGACAR.",
+      "POGACAR launching attacks inside final 500m secures bonus seconds even without stage win, effective micro-tactic reducing GC gap methodically."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "positive: dropped initially but bridged back to leaders with 10km remaining, demonstrating superior climbing recovery for a classics rider",
+      "YATES Adam": "positive: initiated attacks on GC group climb before Pogacar moved, suggesting elevated protected status within UAE beyond typical domestique role",
+      "CALEBAZZO": "negative: already at back of peloton 50km from finish on medium mountain stage, poor positioning discipline or form concern",
+      "PIDCOCK Tom": "positive: specifically mentioned for strong GC group performance, indicates genuine GC ambitions beyond typical one-week race focus"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:20:03.404167+00:00"
+}

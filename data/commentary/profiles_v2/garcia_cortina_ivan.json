@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Prone to mistimed efforts: launches either too early (sprint openings before final corners) or unsustainably long (35km solo breakaways). Opportunistic rather than calculated in positioning.",
+  "team_tactics": "Functions as protective domestique throughout stage, then capitalizes on chaotic sprint finishes when leadout trains collapse. Not a designated sprint leader with dedicated train.",
+  "terrain_preference": "Flat sprint stages where chaos creates opportunity. Struggles to convert advantages even on home terrain where local knowledge should favor him.",
+  "vulnerability": "Poor timing judgment in critical moments: opens sprints prematurely, misjudges sustainability of long-range attacks. Relies on disorganization rather than controlled execution.",
+  "key_patterns": [
+    "Wins through opportunism when favorites crash or hesitate, not dominant sprint power (2 observations)",
+    "Mistimes decisive efforts repeatedly: too early in sprints, too far out in breakaways (2 observations)",
+    "Works domestique role before attempting own result in compromised finishes (2 observations)",
+    "Fails to convert home region advantages into tactical victories despite local knowledge (1 observation)"
+  ],
+  "form_trajectory": "neutral: 2020 win shows opportunistic capability but pattern of mistimed efforts persists across 2017-2018 appearances",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "GARCIA CORTINA Ivan",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 19",
+    "2018 Vuelta a Espana Stage 8",
+    "2020 Paris - Nice Stage 3",
+    "2020 Paris - Nice Stage 3"
+  ]
+}

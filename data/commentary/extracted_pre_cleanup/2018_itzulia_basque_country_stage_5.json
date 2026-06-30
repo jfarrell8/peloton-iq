@@ -1,0 +1,29 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 5",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-06",
+  "stage": 5,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "VERONA Carlos won after breakaway argument with FRAILE, while ROGLIČ Primož defended yellow with composed climbing to split favorites.",
+    "winner": "VERONA Carlos",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ Primož deliberately used two slopes before ski jump to split group, revealing controlled aggression rather than reactive defense.",
+      "VERONA Carlos refused to work with FRAILE Omar before final climb, conserving energy specifically for stage win over bonuses.",
+      "LANDA Mikel attempted split at unspecified climb but ROGLIČ made nullification look easy, signaling hierarchical gap between them.",
+      "PADUN Mark performed unusual mountain domestique work for ROGLIČ despite young rider status, indicating team tactical flexibility."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: composed dismantling of attacks on brutal terrain suggests time trial strength translates to mountain defense capability",
+      "ALAPHILIPPE Julian": "negative: dropped with head bowed after previously running strongly, revealing either tactical over-extension or form collapse",
+      "VERONA Carlos": "positive: craftily refused work then out-sprinted chasers for stage win, demonstrating calculated energy management",
+      "LANDA Mikel": "negative: attempted split but failed to distance ROGLIČ, confirming insufficient acceleration to trouble top-tier climbers",
+      "PADUN Mark": "positive: extensive mountain work despite young rider status indicates climbing domestique potential beyond age expectations",
+      "QUINTANA Nairo": "neutral: sat in chase group using BETANCUR Carlos being ahead as excuse, revealing conservative GC calculation",
+      "FRAILE Omar": "negative: argued with VERONA about work contribution then got beaten, suggesting poor situational awareness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:28:35.815676+00:00"
+}

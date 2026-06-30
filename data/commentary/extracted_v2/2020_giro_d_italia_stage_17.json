@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-21",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "O'CONNOR Ben attacked 8km from summit on Madonna di Campiglio final climb, dropped breakaway including dangerous GC threat Pernsteiner.",
+    "winner": "O'CONNOR Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar placed four riders in 19-man breakaway showing numerical saturation strategy on mountain stages.",
+      "Sunweb lacked firepower on final climb despite leading GC by 17 seconds, revealing domestique depletion problem.",
+      "Pernsteiner attacked solo from breakaway as GC threat 10 minutes down, exploiting different race objectives.",
+      "Almeida group refused to chase each other despite minimal GC gaps, signaling mutual deterrence before Stelvio."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "positive: attacked with 8km remaining after second place previous day, showing recovery ability on back-to-back mountain stages",
+      "KELDERMAN Wilco": "negative: Sunweb unable to pressure Almeida despite 17-second deficit and running out of mountain stages",
+      "PERNSTEINER Hermann": "positive: initiated dangerous solo move from breakaway while 10 minutes down GC, positioning for major time gain",
+      "HINDLEY Jai": "negative: attacked from GC group but failed, Western Australian unable to replicate compatriot O'Connor's success same day",
+      "ALMEIDA Joao": "neutral: maintained status quo with GC rivals despite minimal 17-second lead and truce mentality before Stelvio"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:14:19.729307+00:00"
+}

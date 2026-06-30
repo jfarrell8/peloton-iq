@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-12",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "CATANIO Mattia won the 25.4km Tour de Luxembourg ITT by 0.6 seconds over ALMEIDA, who took the race lead with 43 seconds over HERSHEY before the final stage.",
+    "winner": "CATANIO Mattia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CATANIO dominated intermediate split but ALMEIDA nearly erased 8.6-second deficit in final half, revealing superior pacing strategy.",
+      "HERSHEY lost yellow by 43 seconds despite starting only 4 seconds down, suggesting climbers underestimate ITT losses.",
+      "CHELMOS caught 2-minute men despite not winning, indicating aggressive early pacing pays dividends in rolling ITT courses."
+    ],
+    "rider_signals": {
+      "CATANIO Mattia": "positive: Won stage and jumped to third overall, proving legitimate GC threat with unexpected time trial prowess.",
+      "ALMEIDA Xiao": "positive: Nearly won ITT and took 47-second chunk from race leader HERSHEY, confirming elite TT ability.",
+      "HERSHEY Mark": "negative: Lost 43 seconds to ALMEIDA in 25.4km as non-specialist, making yellow jersey vulnerable before final stage.",
+      "LATOR Pierre": "neutral: Top-five finish shows GT domestiques regain TT form when given protected status instead of mountain support duties.",
+      "BALCOMO Lomer": "negative: Crashed dramatically mid-ITT yet continued, suggesting equipment or technical error on sporting course."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:55:06.436334+00:00"
+}

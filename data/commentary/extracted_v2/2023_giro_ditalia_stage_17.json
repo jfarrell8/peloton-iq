@@ -1,0 +1,22 @@
+{
+  "label": "2023 Giro dItalia Stage 17",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-24",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DANESE Alberto won a photo-finish sprint over MILAN Jonathan after a late breakaway collapse, Matthews mixing with pure sprinters from distance",
+    "winner": "DANESE Alberto",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Milan questioned why Matthews blocked from breakaway, suggesting teams now rate all-rounders as intermediate sprint threats pre-finale.",
+      "GC teams (Ineos) actively positioning leaders through final 3km of flat sprint stage, treating technical finales as crash-risk zones."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: launched sprint from far out and still mixed with pure sprinters, suggesting diesel engine exploitable on power finishes",
+      "MILAN Jonathan": "neutral: lost second photo finish in succession, pattern of strong positioning but marginal defeats raises bike-throw questions"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T18:43:26.224077+00:00"
+}

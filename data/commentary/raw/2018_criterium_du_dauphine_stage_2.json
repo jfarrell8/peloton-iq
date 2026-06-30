@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2018-06-05",
   "stage": 2,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "tUAzxuG8Euk",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=tUAzxuG8Euk",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 82,
+    "raw_chars": 2875,
+    "clean_chars": 2821,
+    "duration_mins": 3.6,
+    "clean_text": "second stage for this key thallium doo doo fini with a hundred and eighty point five kilometers from mom breeze on to Belleville five tough spots along the way including the food Avenue past 30 kilometers from the finish line the stage could benefit breakaways at least on paper but a mass arrival is also likely the stage had hardly started when for riders broke away Stalin of du chien Beckett and Frenchman perish on the quartet was up to 6:30 ahead but shrank to a trio in the 50 last K's Belgian Frederick Beckett fell behind after the first steep sections leading up to Col de decree pass and at the top Pierre Luc parish all picked up the climbers points the Frenchmen took the lead in the first four climbs behind the peloton in control the gap had shrunk to under three minutes when Beckett came back in the fold next came the food Avner passed the day's last difficulty the lotto team persists and the going gets tough among the victims polka dot Jersey wearing briefs for you and Bryan Koch are the vital concepts printer again Perry Shaw was first as the leading trio topped the pass with the peloton less than a minute behind but at the bottom of the hill things have changed as the mitchelton Scott team gains peloton control Stan off gives it a shot but it will be a mass sprint anyway and then two kilometers from the line what a shock the yellow jersey Falls while exiting a roundabout but the last 3k rule protects Capgras key who won't lose time so the big guys fight it out in the sprint and it's a win for Pascal Ackerman it only takes a split second to lose your yellow jersey less than two kilometers from the line Michel clap cough ski took a fall although the pole was given the same time as the winner he could not stop Daryl Impey in third place from getting a four second bonus just enough to snatch the leader's jersey the kilometers to go and yeah I'm really really happy that I was in a group when the team brought me to the best position ever and then yesterday I did a mistake I came from the front and today I decided okay I come to the back and have a free wheel and I come with high speed from the back end everything was perfect and then it's amazing that I won the race today a big win for Ackerman in the second stage the Borah hansgrohe team rider scored his second victory of the season after the fifth stage at the Tour de Romandie just behind edvald Boasson Hagen and of course Daryl Impey the new yellow jersey michelle chiotti coughs key is now number two two seconds behind with Gianni Muskaan another sky rider on the third step of the podium a team trial slated for this Wednesday 35 kilometres between Bonneville and Lewis a tunnel this stage can be expected to widen the gap between key contenders for overall victory in the meantime sit back relax and enjoy the view you",
+    "preview_start": "second stage for this key thallium doo doo fini with a hundred and eighty point five kilometers from mom breeze on to Belleville five tough spots along the way including the food Avenue past 30 kilometers from the finish line the stage could benefit breakaways at least on paper but a mass arrival is also likely the stage had hardly started when for riders broke away Stalin of du chien Beckett and Frenchman perish on the quartet was up to 6:30 ahead but shrank to a trio in the 50 last K's Belgian",
+    "preview_end": "season after the fifth stage at the Tour de Romandie just behind edvald Boasson Hagen and of course Daryl Impey the new yellow jersey michelle chiotti coughs key is now number two two seconds behind with Gianni Muskaan another sky rider on the third step of the podium a team trial slated for this Wednesday 35 kilometres between Bonneville and Lewis a tunnel this stage can be expected to widen the gap between key contenders for overall victory in the meantime sit back relax and enjoy the view you"
+  },
+  "status": "transcript_saved"
 }

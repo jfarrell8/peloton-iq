@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Early breakaway specialist who pre-selects stages strategically. Makes multiple hard attacks to force selections, but can empty himself before final climbs.",
+  "team_tactics": "Operates independently in breakaways rather than relying on team support. Makes tactical equipment choices (climbing bike vs aero) based on pre-race stage reconnaissance.",
+  "terrain_preference": "Stages with climbs that fracture breakaways and create maximum time gaps when peloton misjudges chase. Exposed on decisive climbs after expending energy in earlier attacks.",
+  "vulnerability": "Executing too many hard efforts before critical climbs, leaving him unable to respond when decisive moves occur. Reliant on peloton mistakes for breakaway success.",
+  "key_patterns": [
+    "Pre-selects target stages from race book and prepares equipment accordingly (2018 Vuelta)",
+    "Makes multiple attacking efforts to force breakaway selections before final challenges (both races)",
+    "Vulnerable after self-inflicted depletion; dropped when fresher riders attack late (2019 TDF)",
+    "Breakaway success dependent on peloton control failures rather than pure strength (2018 Vuelta)"
+  ],
+  "form_trajectory": "negative: 2019 TDF showed attacking pattern leading to premature exhaustion, unable to finish decisive moves",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KING Ben",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 4",
+    "2018 Vuelta a Espana Stage 4",
+    "2019 Tour de France Stage 17"
+  ]
+}

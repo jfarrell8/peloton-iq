@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-04",
+  "stage": 4,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "DEMARE Arnold won a chaotic sprint in Vittel after CAVENDISH crashed at 1.3km attempting to squeeze past SAGAN, then crashed again in final meters.",
+    "winner": "DEMARE Arnold",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Dimension Data's leadout with Renshaw collapsed early when Cavendish wasn't positioned, forcing him into desperate gap-closing maneuvers.",
+      "Sagan contested the sprint despite team role usually being stage hunting, revealing Quick-Step didn't control positioning into final kilometer.",
+      "Demare isolated from teammates still won, suggesting French champion was strongest pure sprinter regardless of leadout quality."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "negative: twice crashed in final 1.3km trying to force gaps rather than patient positioning, suggests desperation or poor form",
+      "SAGAN Peter": "neutral: challenged for sprint win despite domestique expectations, but positioning contributed to Cavendish's first crash",
+      "KRISTOFF Alexander": "negative: had Greipel's wheel and team support but faded to third, lacked finishing punch",
+      "GREIPEL Andre": "negative: positioned second wheel behind Renshaw but completely faded when sprint opened",
+      "DEMARE Arnold": "positive: won isolated without proper leadout, pure power overcame positioning disadvantage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:11:05.300709+00:00"
+}

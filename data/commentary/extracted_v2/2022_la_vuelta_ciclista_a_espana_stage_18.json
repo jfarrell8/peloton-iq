@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 18",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-08",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won the uphill finish after attacking the GC group, catching lone breakaway rider HESSMANN Rob with 200m remaining.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "43-rider breakaway with 5+ minute gap prompted ALMEIDA to bridge solo, forcing GC group to chase rather than manage.",
+      "EVENEPOEL attacked after sustaining attacks, using offensive defense to neutralize GC threats while gaining stage win and bonus seconds.",
+      "ASTANA used ALMEIDA's bridge attempt to justify pace-making by LOPEZ Miguel Angel, benefiting their own GC ambitions.",
+      "Domestique HESSMANN Rob escaped final group with 200m remaining, nearly stealing stage from GC riders playing team tactics games."
+    ],
+    "rider_signals": {
+      "ALMEIDA Joao": "negative: burned energy bridging to oversized breakaway, lost time in GC standings, dropped to sixth overall",
+      "EVENEPOEL Remco": "positive: controlled attacks then countered decisively, second stage win demonstrates superior form over MAS heading to Madrid",
+      "HESSMANN Rob": "positive: Roglic domestique showed individual ambition and nearly won from breakaway despite GC group chasing behind",
+      "RODRIGUEZ Carlos": "negative: crashed early with VINE and PACHER, struggled throughout stage but limited losses despite mechanical disadvantage",
+      "VINE Jay": "negative: crashed out while leading KOM competition, allowing CARAPAZ to take jersey with only 20-point margin",
+      "CARAPAZ Richard": "positive: opportunistically seized KOM jersey from crashed VINE despite modest 20-point lead remaining fragile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:13:59.419618+00:00"
+}

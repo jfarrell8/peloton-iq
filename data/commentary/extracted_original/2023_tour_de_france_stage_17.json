@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-19",
+  "stage": 17,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GALL Felix won from breakaway on final steep finish at Courchevel after teammate O'Connor set him up, while VINGEGAARD demolished POGACAR to extend GC lead to 7:35.",
+    "winner": "GALL Felix",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jayco executed textbook setup with O'Connor launching Gall from break on final steep pitch then dropping away.",
+      "Pogacar early crash same side as pre-race broken wrist cascaded into total collapse on final climb.",
+      "Vingegaard's domination exceeded even his own rest day predictions of 'over a minute' gap, suggesting psychological warfare."
+    ],
+    "rider_signals": {
+      "GALL Felix": "positive: Won after earlier polka dot day and Tour de Suisse GC suggests altitude/form peaking trajectory",
+      "POGACAR Tadej": "negative: Touch of wheels crash early stage on damaged wrist side preceded 6-minute collapse on final climb",
+      "YATES Simon": "positive: Second place finish after earlier stage win shows sustained climbing form deep in third week",
+      "BILBAO Pello": "positive: Battled Vingegaard for third on stage suggests UAE alternative GC threat emerging",
+      "POWLESS Neilson": "negative: Dropped from early break and straight through peloton indicates severe third-week fatigue despite KOM effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-13T12:19:49.471828+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2019 BinckBank Tour Stage 3",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-14",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a millimetric sprint over GROENEWEGEN Dylan after mechanical disruption in final corner, completing a hat-trick of stage wins.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BENNETT Sam positioned front at 60km to avoid crashes despite energy cost, prioritizing safety over conservation in wet conditions.",
+      "Break sharing bonus seconds equally neutralizes strategic value; riders must commit to organized distribution or aggressive solo theft.",
+      "PHILIPSEN Jasper leading out without sprint train forces GROENEWEGEN to improvise right-side attack, creating vulnerability to isolated counter-punch.",
+      "Final corner positioning decisive when mechanical issues prevent throwing bike; BENNETT won via momentum draft off UAE rider, not power."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: winning despite broken gears and skipping chain shows exceptional bike handling under mechanical duress in sprint chaos",
+      "GROENEWEGEN Dylan": "neutral: matching BENNETT's speed without lead-out train demonstrates raw power but lost millimetric finish suggests tactical positioning deficit",
+      "PHILIPSEN Jasper": "positive: third place without dedicated train reveals emerging ability to self-position in disorganized finale",
+      "ROELANDTS Jürgen": "positive: fourth place plus bonus seconds collection across stage shows consistent top-5 finishing speed without team support",
+      "TANFIELD Harry": "neutral: contested intermediate sprints aggressively in break but failed to coordinate bonus second strategy with companions",
+      "WELLENS Tim": "neutral: team actively sheltering him from crashes suggests targeting different objective than sprint stages",
+      "MEURISSE Xandro": "negative: crash involvement appeared to end his race participation early, suggesting vulnerability in wet technical sections"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:51:12.797463+00:00"
+}

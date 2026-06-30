@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Does not attack in traditional sense; operates as ITT specialist who goes early in time trials to set aggressive benchmark times that psychologically pressure GC contenders into overextending and abandoning conservative pacing strategies.",
+  "team_tactics": "Released from domestique duties for individual time trial stages where he starts early to establish fast reference times. Teams utilize his TT strength as strategic weapon to disrupt rivals' pacing rather than purely for stage wins.",
+  "terrain_preference": "Individual time trials of any length where his specialized pacing and power can threaten stage wins. Capable of joining late breakaways on flatter stages when team needs multiple riders committed.",
+  "vulnerability": "Limited to time trial discipline and occasional breakaway support. No evidence of climbing ability or traditional road race attacking capacity beyond domestique work.",
+  "key_patterns": [
+    "Sets early ITT benchmark times forcing GC riders into defensive overextension (3 observations)",
+    "Demonstrates team time trial depth as strong domestique across multiple squads (2 observations)",
+    "Posted second places and stage win when released from support duties (3 observations)",
+    "Strategic early starts disrupt conservative pacing of later GC contenders (3 observations)"
+  ],
+  "form_trajectory": "neutral: 2020 observation shows reduced to breakaway domestique role rather than ITT threat, suggesting declining specialist status or changed team priorities",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "VAN EMDEN Jos",
+  "built_from": [
+    "2017 Giro d'Italia Stage 21",
+    "2017 Giro d'Italia Stage 21",
+    "2017 Tirreno-Adriatico Stage 7",
+    "2017 Tirreno-Adriatico Stage 7",
+    "2018 Criterium du Dauphine",
+    "2018 Criterium du Dauphine",
+    "2020 Tour de Pologne Stage 4"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the opening ITT by 22 seconds over ALMEIDA João, establishing dominance expected of the world time trial champion.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ALMEIDA João set surprising benchmark pace 22 seconds behind winner, signaling unexpectedly strong GC form for Portuguese rider.",
+      "Astana suffered dual setback: LÓPEZ Miguel Ángel crashed 6km from finish, FUGLSANG Jakob posted poor time on same day."
+    ],
+    "rider_signals": {
+      "ALMEIDA João": "positive: Held hot seat for extended period, only 22 seconds behind world champion suggests climbing GC threat with time trial defense",
+      "THOMAS Geraint": "positive: Best among pure GC contenders, distanced rivals significantly though couldn't match Ganna's specialist pace",
+      "YATES Simon": "neutral: Posted 13:27 down on Almeida, middle-of-pack GC starter revealing expected time trial weakness",
+      "LÓPEZ Miguel Ángel": "negative: Race-ending crash 6km from finish after hitting bump shows technical vulnerability in ITT conditions",
+      "FUGLSANG Jakob": "negative: Poor opening ride compounds Astana's disastrous stage with Lopez crash, team depth immediately compromised",
+      "NIBALI Vincenzo": "neutral: Mid-pack GC result on home roads, lost significant time to Thomas suggesting age affecting against-the-clock performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:12:42.693368+00:00"
+}

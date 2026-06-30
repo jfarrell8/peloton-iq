@@ -1,0 +1,31 @@
+{
+  "label": "2020 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-04",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ULISSI Diego won from reduced bunch sprint after aggressive attack shattered leadout trains on final uphill finish.",
+    "winner": "ULISSI Diego",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ULISSI Diego's attack before final climb eliminated organized sprint trains, preventing pure sprinters from positioning properly.",
+      "DE GENDT Thomas took KOM and intermediate sprint from five-rider break, revealing energy conservation tactics within breakaways.",
+      "Cofidis lost both CONSONNI Simone and VIVIANI Elia to crashes at intermediate sprint, exposing sprinter positioning vulnerability."
+    ],
+    "rider_signals": {
+      "ULISSI Diego": "positive: attacked uphill finish with enough power to disorganize sprint while retaining winning speed",
+      "ALMEIDA João": "positive: positioned to potentially take pink jersey suggesting GC form readiness early in race",
+      "VLASOV Aleksandr": "negative: abandoned with illness mid-stage, catastrophic for Astana GC ambitions alongside LOPEZ",
+      "GAVIRIA Fernando": "neutral: contested intermediate sprint suggesting form present but lacked positioning on technical finish",
+      "SAGAN Peter": "negative: still seeking first Giro stage win despite final kilometer positioning, revealing uphill sprint limitation",
+      "DE GENDT Thomas": "positive: dominated breakaway competition for both KOM and sprint, confirming opportunistic strength",
+      "CONSONNI Simone": "negative: crashed at intermediate sprint removing Cofidis leadout option for finish",
+      "VIVIANI Elia": "negative: crashed at intermediate sprint eliminating protected sprinter before uphill finale",
+      "GANNA Filippo": "neutral: retained pink jersey suggesting controlled defensive riding by INEOS",
+      "DÉMARE Arnaud": "neutral: placed third at intermediate sprint showing flat speed but absent from uphill finish discussion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:25:51.593716+00:00"
+}

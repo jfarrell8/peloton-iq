@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-11",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEILLIER Silvan won from 190km breakaway, outsprinting STUYVEN Jasper who was tactically compromised by teammate PEDERSEN Mads' earlier work",
+    "winner": "DEILLIER Silvan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PEDERSEN neutralized STUYVEN's sprint by doing excessive early work, allowing BMC's DEILLIER to conserve energy in 190km break.",
+      "Quick-Step controlled peloton with pink jersey despite having STUYVEN forward, revealing conservative race leadership priorities over stage hunting.",
+      "YOO Adam attempted late junction to breakaway with 5.5km remaining, suggesting weak GC team discipline when opportunity arose."
+    ],
+    "rider_signals": {
+      "STUYVEN Jasper": "negative: fastest on paper but lost sprint after teammate exhausted him marking moves, poor intra-break positioning management",
+      "DEILLIER Silvan": "positive: won despite inferior sprint credentials by superior energy management in 200km effort, tactically waited perfectly",
+      "PEDERSEN Mads": "neutral: strong work rate but possibly compromised own team's stage chances by over-contributing before finale",
+      "POSTBERGER Lukas": "neutral: initiated selection attacks with 5.5km to go but lacked finishing power to capitalize on aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:58:33.541396+00:00"
+}

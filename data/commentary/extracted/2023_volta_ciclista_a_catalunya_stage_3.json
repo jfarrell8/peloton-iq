@@ -5,22 +5,25 @@
   "stage": 3,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "EVENEPOEL attacked inside final kilometer after ROGLIC refused to share pace work, won by 2 seconds but insufficient bonus to take leader's jersey",
+    "one_line_summary": "EVENEPOEL attacked with 1km to go after ROGLIČ refused to share pace, won by 2 seconds but lost GC by bonus seconds arithmetic.",
     "winner": "EVENEPOEL Remco",
     "commentary_quality": "moderate",
     "tactical_patterns": [
-      "Soudal Quick-Step pace-making on every climb systematically isolated Emirates leadership, splitting Roglic's protection before final ascent.",
-      "Evenepoel demanded pace-sharing from Roglic in final 9km knowing refusal would legitimize his own attack without appearing disrespectful.",
-      "Marc Soler attacked without protecting teammate Ayuso, revealing UAE team cohesion fracturing under Quick-Step pressure tactics."
+      "Soudal Quick-Step over-paced earlier climbs with BERNAL, exhausting domestiques before finale—risky investment for marginal gains.",
+      "EVENEPOEL repeatedly demanded turns from ROGLIČ while ahead, signaling psychological warfare before final kilometer attack.",
+      "SOLER attacked without protecting ALMEIDA's GC position, revealing UAE's internal hierarchy confusion on selective mountain stages.",
+      "KARAPAZ resisted multiple break attacks on penultimate climb, showing champion's resilience despite ultimately being caught 9km out."
     ],
     "rider_signals": {
-      "ROGLIC Primoz": "negative: refused to share pace work with Evenepoel in final kilometers, revealing either tactical weakness or physical limitation under sustained Quick-Step pressure",
-      "EVENEPOEL Remco": "positive: converted Quick-Step's early investment into stage win by forcing Roglic to refuse cooperation, then attacking with legitimacy inside 1km",
-      "BERNAL Egan": "negative: dropped on sustained climbing despite gradual pace, suggesting recovery timeline remains protracted even on sub-threshold efforts",
-      "SOLER Marc": "negative: attacked without supporting Ayuso's GC position, indicating UAE team hierarchy confusion or individual ambition overriding tactics",
-      "CARAPAZ Richard": "neutral: refused to quit breakaway despite diminishing chances, held position until 9km but lacked punch when group fractured"
+      "EVENEPOEL Remco": "positive: dominant power display forcing ROGLIČ into passive tactics, but celebration cost 2 seconds and potential GC lead",
+      "ROGLIČ Primož": "positive: tactically astute refusal to work preserved 4-second bonus gap, retaining GC despite weaker finale",
+      "BERNAL Egan": "negative: suffered badly on successive climbs despite team support, recovery timeline appears significantly longer than anticipated",
+      "SOLER Marc": "neutral: strong enough to attack late but unclear team role suggests UAE lacks cohesive GC protection plan",
+      "CARAPAZ Richard": "positive: survived break attacks until 9km remaining, showing capacity to defend advantage despite not winning",
+      "VAN GILS Maxim": "positive: last breakaway rider caught confirms ability to sustain efforts on progressive altitude stages",
+      "ALMEIDA João": "neutral: well-placed despite SOLER's unsupported attack, suggesting personal form sufficient without team commitment"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T22:25:31.720331+00:00"
+  "extracted_at": "2026-06-29T00:29:50.533792+00:00"
 }

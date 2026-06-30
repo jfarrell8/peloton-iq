@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive attacks inside the final 1500m, targeting late-race positioning. Demonstrates sprint-from-breakaway capability rather than long-range moves.",
+  "team_tactics": "Limited data on team setup, but rider appears positioned for finale opportunities rather than relying on heavy domestique support for sustained attacks.",
+  "terrain_preference": "Stages with reduced bunch finishes where positioning and late acceleration matter more than pure sprint power. Thrives in scenarios allowing tactical late moves.",
+  "vulnerability": "Lacks ultimate finishing acceleration to convert strong positioning into victories - three second-place finishes suggest consistent gap between podium placement and winning kick.",
+  "key_patterns": [
+    "Attacks decisively inside final 1500m, establishing pattern of late-race aggression (2 observations)",
+    "Consistently reaches podium positions but struggles to close for victory (3 second places)",
+    "Strong tactical positioning throughout stage races, reliably in contention at finale"
+  ],
+  "form_trajectory": "neutral: Strong consistency with multiple podiums at 2023 Giro, but inability to convert positioning into wins suggests plateau at near-victory level",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GEE Derek",
+  "built_from": [
+    "2023 Giro dItalia Stage 10",
+    "2023 Giro dItalia Stage 14"
+  ]
+}

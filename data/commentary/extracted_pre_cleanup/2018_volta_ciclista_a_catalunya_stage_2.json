@@ -1,0 +1,28 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-20",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE timed sprint to perfection from fifth wheel with ~200m to go after MÜHLBERGER leadout, taking 10-second bonus into race lead.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MÜHLBERGER's Bora leadout for MCCARTHY inadvertently set up VALVERDE who sat fifth-sixth wheel until final 200m headwind sprint.",
+      "Mitchelton-Scott rode tempo on second-category climb to eliminate pure sprinters for IMPEY, but headwind finish favored patient finishers.",
+      "HODEG dropped on second-category climb despite winning stage one, revealing sprint versatility doesn't predict punchy uphill tolerance.",
+      "MAISON's solo 50m gap attack with 13.7km left immediately absorbed, confirming breakaway futility before final classified climb."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: Demonstrated unique ability to time sprint from deep position into headwind after bonus-point collection earlier.",
+      "MCCARTHY Jay": "positive: Second place confirms ability to handle selective climbing pace then still contest sprint with pure finishers.",
+      "MÜHLBERGER Gregor": "neutral: Executed perfect Bora leadout for MCCARTHY but team sprint train harvested by VALVERDE's superior positioning.",
+      "IMPEY Daryl": "neutral: Team rode aggressively to thin field but seventh shows late headwind sprint timing trumped climbing selection.",
+      "HODEG Álvaro José": "negative: Dropped on moderate second-category climb day after winning, exposing narrow stage-winning bandwidth for pure sprinters.",
+      "MOHORIČ Matej": "positive: Present in final sprint mix after surviving climbing pace, confirming emerging versatility beyond classics profile."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:45:26.555763+00:00"
+}

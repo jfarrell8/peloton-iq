@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2020-08-29",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won Stage 1 sprint finish in Nice by positioning opportunistically while expected favorites Bennett and Viviani were compromised by earlier crashes and chase efforts.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Wet descent after first climb fractured peloton badly enough that Greipel lost 2 minutes, revealing positioning pre-climb critical.",
+      "Bennett and Duviost crash on lap 1 forced chase efforts that likely compromised sprint legs on hard circuit.",
+      "Trek-Segafredo led out final kilometer but Kristoff exploited without dedicated train, showing sprinter autonomy advantage on complex finishes."
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: Won despite not being original team selection, suggesting form peaked late and team underestimated his condition.",
+      "BENNETT Sam": "negative: Crashed early, forced chase effort on hard circuit with climbs, visibly compromised in sprint (4th).",
+      "VIVIANI Elia": "negative: Dropped twice during stage before finishing 6th, suggests climbing weakness on even moderate gradients problematic.",
+      "SAGAN Peter": "neutral: 5th place consistent with green jersey hunting rather than stage win priority on hard circuit.",
+      "NIZZOLO Giacomo": "negative: Faded to 7th after being positioned, indicates either poor form or insufficient power on uphill finish."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:22:10.982472+00:00"
+}

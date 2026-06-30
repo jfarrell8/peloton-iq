@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a natural attacker; operates primarily as a sprinter but has shown capacity to finish from breakaway chase groups on selective terrain, suggesting emerging versatility beyond pure flat finishes.",
+  "team_tactics": "Relies on leadout train positioning in sprint stages, though team execution has shown vulnerability at intermediate sprint points where aggressive positioning led to crashes affecting both sprinter and leadout.",
+  "terrain_preference": "Reduced bunch sprints and selective mid-mountain stages where pure climbers are dropped but gradients favor resilient sprinter types. Flat pure sprints expose positioning weaknesses.",
+  "vulnerability": "Positioning discipline at intermediate sprints (crashed twice in observations); struggles with final positioning against top-tier sprinters in large bunch kicks, often finishing on podium but unable to win.",
+  "key_patterns": [
+    "Demonstrates better climbing range than traditional sprinter profile allows (breakaway chase finish, reduced sprints)",
+    "Intermediate sprint aggression creates crash risk; two incidents observed removing both rider and leadout",
+    "Podium finisher rather than winner in reduced sprints; positioning deficit in final 200m documented"
+  ],
+  "form_trajectory": "positive: 2021 showed expanded range with second place from breakaway group, suggesting evolution beyond pure sprinter limitations seen in 2019-2020",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "CONSONNI Simone",
+  "built_from": [
+    "2019 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 2",
+    "2021 Giro d'Italia Stage 18"
+  ]
+}

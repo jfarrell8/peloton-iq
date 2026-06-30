@@ -1,0 +1,27 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-09",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ZIMMERMANN Georg won with late counter-attack after BURGAUDEAU Mathieu went too early inside 500m on summit finish.",
+    "winner": "ZIMMERMANN Georg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BURGAUDEAU took KOM points all day while appearing weak, then attacked 700m out revealing tactical deception.",
+      "14-rider break never settled due to continuous attacks, suggesting teams prioritized jersey points over cooperation.",
+      "ZIMMERMANN waited for BURGAUDEAU to commit first inside 500m, exploiting early acceleration on 2.3km summit finish.",
+      "VINGEGAARD accelerated with 1000m remaining, catching break remnants suggesting GC pacing errors by earlier leaders."
+    ],
+    "rider_signals": {
+      "BURGAUDEAU Mathieu": "positive: rode tactically weak all day to hide strength, secured KOM jersey and nearly won stage",
+      "ZIMMERMANN Georg": "positive: first WorldTour win by reading BURGAUDEAU's premature acceleration perfectly inside 500m",
+      "VINGEGAARD Jonas": "neutral: accelerated late with O'Connor and Hindley, caught struggling break riders",
+      "GAUDU David": "negative: struggling significantly after strong Pyrenees showing, illness affecting performance trajectory",
+      "GRONDIN Donavan": "negative: abandoned race while holding mountains jersey, revealing multi-day weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:59:51.090184+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 5",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won a crash-marred sprint in Salerno after mid-30s km/h average pace made the breakaway nonviable despite chaotic peloton conditions.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Extreme weather forcing mid-30s km/h averages paradoxically prevented breakaway success despite multiple peloton crashes reducing chase capacity.",
+      "Sprint teams Alpecin/Trek/DSM maintained organization despite 7km crash, suggesting deep leadout rosters can absorb mid-stage attrition better than expected.",
+      "Evenepoel crashed twice (dog incident plus finale) yet retained GC position via neutral racing protocol, exposing vulnerability without time loss."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "neutral: targeted KOM points from early break then soft-pedaled back, suggesting stage-hunting rather than GC support role for Groupama-FDJ",
+      "EVENEPOEL Remco": "negative: two crashes in one stage including pavement impact suggests positioning deficiencies in technical wet conditions persist from 2022",
+      "ROGLIČ Primož": "positive: recovered from 7km crash to rejoin peloton, showing crisis management superior to trapped sprinters like Ackermann/Gaviria",
+      "CAVENDISH Mark": "negative: back wheel slipping on white line in finale indicates technical skill decline in wet sprinting despite reaching contested position",
+      "MILAN Jonathan": "positive: second place while defending Maglia Ciclamino shows Lidl-Trek sprint train functioning despite intermediate sprint point leakage to Cort Nielsen"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:45:10.623718+00:00"
+}

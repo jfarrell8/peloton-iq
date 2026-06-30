@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 3",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-16",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TARAMAY Ryan attacked from 8-rider breakaway on Picon Blanco's 18% ramps to win and take red jersey",
+    "winner": "TARAMAY Ryan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC/Jumbo-Visma deliberately allowed 8-rider break containing GC threats to gain massive time, refusing chase duty despite virtual leader risk.",
+      "TARAMAY at 34 years old proved superior to DOMBROWSKI on steepest 18% ramps, suggesting age matters less than power profile on extreme gradients.",
+      "Break composition with multiple GC-capable riders forced peloton paralysis; no single team willing to burn matches controlling virtual race lead."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "negative: Olympic champion struggling on Picon Blanco raises serious questions about grand tour form and GC viability",
+      "YATES Adam": "positive: Strong performance while teammate Carapaz suffered suggests Ineos has wrong GC leader designated",
+      "CARTHY Hugh": "negative: Stage 2 crash consequences materializing with time loss on first mountain test, deficit compounding dangerously early",
+      "KELDERMAN Bauke": "neutral: Mentioned in break but struggled on steepest ramps, confirming power limitations on 18%+ gradients",
+      "BERNAL Egan": "positive: Taking young rider jersey while finishing with GC group signals form building despite subdued racing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:44:32.832631+00:00"
+}

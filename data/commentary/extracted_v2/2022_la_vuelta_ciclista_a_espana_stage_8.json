@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 8",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-27",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINE Jay won his second stage attacking from a quality 10-man breakaway on the final Cat 1 climb, while EVENEPOEL survived GC attacks without losing time to MAS or ROGLIC",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL burned entire Quick-Step team early on multiple climbs before final Cat 1, revealing vulnerability under sustained pressure.",
+      "VINE prioritized polka dot jersey on intermediate climbs before committing to stage win with 5km remaining.",
+      "INEOS installed three riders in 10-man break while Quick-Step had zero representation, asymmetric resource deployment.",
+      "MAS, ROGLIC, EVENEPOEL finished together despite attacks, suggesting hesitation to commit before rest day Stage 10."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: required full team support unusually early and visibly struggled to follow GC rivals despite no time loss",
+      "VINE Jay": "positive: dominated every categorized climb before stage win, making polka dot jersey competition unassailable",
+      "PINOT Thibaut": "positive: worked hard to bridge to break via ARMIRAIL then finished strong, commentary noted 'refound mojo'",
+      "PEDERSEN Mads": "positive: took green jersey by infiltrating mountainous breakaway, sprinting intermediate points despite being non-sprinter",
+      "LOPEZ Juan Ayuso": "positive: commentary specifically noted legs 'woke up' after disappointing early stages",
+      "HIGUITA Sergio": "negative: dropped from quality breakaway before final climb despite being climbing specialist"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:15:58.492155+00:00"
+}

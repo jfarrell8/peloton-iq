@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Launches solo attacks from breakaways at 10km to go on summit finishes, preferring long-range efforts (up to 87km) where superior descending and race management eliminate collaboration. Targets fragmentation points on steep gradients rather than explosive late surges.",
+  "team_tactics": "Transitioned from protected GC rider (2017-2018 Bora) to elite domestique (2022 UAE), executing high-pace leadouts on extreme gradients (11-20%) to destroy peloton structure. Team positioning extends to flat stages protecting GC placement, not just mountain support.",
+  "terrain_preference": "Excels on sustained climbs with tactical complexity allowing solo management; strong descender. Struggles on ultra-steep finishes (14%+) where power-to-weight becomes limiting factor. Time trials remain persistent weakness, especially sustained 10km efforts.",
+  "vulnerability": "Exposed on 14%+ gradient finishes despite climbing pedigree; time trial efforts consistently costly (16+ seconds gaps, fades after strong starts). Tactical awareness lapses when monitoring rivals (failed to anticipate attacks despite watching). Crash-prone on decisive stages (3 GC-ending crashes observed).",
+  "key_patterns": [
+    "Solo breakaway victories from 10-87km out, preferring race management over collaboration (2 wins observed)",
+    "Effective on 11-20% gradients in domestique role, destroying peloton structure for team leaders",
+    "Crashes on decisive stages eliminated GC contention multiple times across different seasons",
+    "Time trial weakness consistent: fades in sustained efforts, loses podium positions to specialists",
+    "Tactical passivity when rivals attack despite strong positioning, defensive mindset costs opportunities"
+  ],
+  "form_trajectory": "neutral: Role evolved from GC contender to elite domestique, executing world-class pacing on extreme gradients (2022 TDF/UAE Tour) but tactical ambitions appear subordinated to team duty",
+  "races_analysed": 20,
+  "confidence": "high",
+  "rider_name": "MAJKA Rafał",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 3",
+    "2017 Tour de France Stage 8",
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 8",
+    "2018 Tirreno-Adriatico Stage 1",
+    "2018 Tirreno-Adriatico Stage 3",
+    "2018 Tirreno-Adriatico Stage 4",
+    "2018 Vuelta a Espana Stage 13",
+    "2019 Giro d'Italia Stage 2",
+    "2019 Vuelta a Espana Stage 21",
+    "2020 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 7",
+    "2020 Tirreno Adriatico Stage 3",
+    "2020 Tirreno Adriatico Stage 5",
+    "2020 Tirreno Adriatico Stage 7",
+    "2020 Tirreno Adriatico Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2022 Tour de France Stage 7",
+    "2022 UAE Tour Stage 4",
+    "2022 UAE Tour Stage 7"
+  ]
+}

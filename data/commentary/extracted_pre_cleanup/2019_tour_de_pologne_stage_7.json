@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2019-08-09",
+  "stage": 7,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked inside 3km on Gurnigel climb, distanced DENNIS by 23 seconds to extend GC lead before crucial TT.",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERNAL Egan pre-empted time trial specialists by attacking decisive summit finish, banking time before TT weakness exposed.",
+      "Team INEOS elevated tempo before final 3km, creating launch platform rather than defending conservatively with yellow jersey.",
+      "POZZOVIVO Domenico initially followed BERNAL Egan but paced back to support teammate DENNIS rather than pursuing own result."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: attacked inside 3km with enough margin to gain 23s on TT specialist, showing confidence to race offensively from yellow",
+      "DENNIS Rohan": "neutral: marked by teammate POZZOVIVO but unable to follow BERNAL's acceleration, acknowledging impending TT advantage",
+      "POZZOVIVO Domenico": "neutral: sacrificed breakaway bridging attempt to pace DENNIS in chase, demonstrating team tactical discipline over personal ambition",
+      "HIRT Jan": "positive: finished fifth on decisive summit, showing GC climbing form without needing team support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:10:09.945866+00:00"
+}

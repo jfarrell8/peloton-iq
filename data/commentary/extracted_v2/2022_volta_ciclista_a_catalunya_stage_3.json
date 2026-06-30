@@ -1,0 +1,27 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-23",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "O'CONNOR Ben attacked solo with 12km remaining on La Molina, held off disorganized chase led by Soler to take stage and race lead",
+    "winner": "O'CONNOR Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar's relentless pace-setting damaged BikeExchange specifically, showing targeted team disruption beyond general attrition on climbs.",
+      "Chase group failed to organize against O'Connor's solo move despite 12km distance, revealing coordination problems among GC rivals.",
+      "Van der Poel abandoned breakaway with 12km left just before O'Connor attacked, suggesting he read the decisive moment timing."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "positive: Solo attack from 12km out on La Molina held despite downhill section at 3km suggesting descending confidence",
+      "WEDERBERG Jonas": "negative: Owned all jerseys entering stage but dropped badly on final climb, suggesting yesterday's dominance was unsustainable",
+      "SOLER Marc": "neutral: Only rider to organize chase of O'Connor but couldn't close 10-second gap, showing individual strength without team support",
+      "DUMOULIN Tom": "negative: Abandoned race appearing unwell, avoided cameras suggesting pre-existing condition worsened",
+      "YATES Simon": "negative: Dropped off back of group on final climb raising health concerns despite rejoining earlier",
+      "QUINTANA Nairo": "positive: Finished third at 12 seconds despite no reported offensive action, placing via positioning not attacking"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:30:46.052004+00:00"
+}

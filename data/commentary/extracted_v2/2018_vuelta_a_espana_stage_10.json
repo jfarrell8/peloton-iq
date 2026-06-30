@@ -1,0 +1,24 @@
+{
+  "label": "2018 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-04",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won Stage 10 sprint with textbook Quick-Step lead-out after being boxed twice in previous Vuelta sprints.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step corrected previous sprint failures by keeping Viviani center-road through final curve, avoiding barrier boxing that plagued earlier stages.",
+      "Sky and Bora attempted long-range disruption before flamme rouge on gentle downhill, forcing lead-out trains to react early.",
+      "GC riders deliberately stripped from sprint finale positioning, suggesting teams prioritizing crash avoidance over stage hunting opportunities."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: Demonstrates tactical learning after two failed sprints (one lost, one team error), specifically correcting positioning through curves.",
+      "SAGAN Peter": "neutral: Present in finale but Quick-Step's corrected positioning neutralized his typical barrier-side squeeze tactics.",
+      "BOUHANNI Nacer": "neutral: Positioned himself early without Quick-Step lead-out support, suggesting isolation forced premature move."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:39:48.733746+00:00"
+}

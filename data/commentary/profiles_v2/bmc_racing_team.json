@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not applicable - BMC Racing Team is a squad, not an individual rider. Analysis focused on team time trial dominance through specialized equipment, preparation, and tactical execution.",
+  "team_tactics": "Extensive pre-race reconnaissance (4+ course recons documented), winter-long R&D investment in TTT equipment, strategic use of powerhouse riders like Dennis for final surges to maximize time gaps.",
+  "terrain_preference": "Team time trials across all distances (22-35km). Consistently elite performance regardless of course profile, suggesting depth and versatility rather than terrain specificity.",
+  "vulnerability": "Data set limited to TTT victories only - no evidence of performance in mass-start scenarios, climbs, or individual efforts. Vulnerable when individual firepower required over collective discipline.",
+  "key_patterns": [
+    "TTT victories by narrow margins (4 seconds twice), suggesting precision pacing over pure power dominance.",
+    "Multi-reconnaissance approach to course preparation standard operating procedure across Grand Tours and stage races.",
+    "Winter R&D investment cycles translate to summer Grand Tour TTT success (documented 2018).",
+    "Consistent marginal gains philosophy: technical preparation and equipment optimization prioritized over rider firepower alone."
+  ],
+  "form_trajectory": "positive: Back-to-back TTT wins at Tirreno-Adriatico (2017-2018) building into Tour de France yellow jersey via TTT dominance. Institutional competence increasing.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BMC Racing Team",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 1",
+    "2018 Tirreno-Adriatico Stage 1",
+    "2018 Tour de France Stage 3"
+  ]
+}

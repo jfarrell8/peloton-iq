@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Does not typically attack in traditional sense; pursues breakaway opportunities on mountain stages where time trial strength and calculated climbing ability allow bridge to escape groups. Targets classification jersey opportunities (KOM) rather than stage wins when in breaks.",
+  "team_tactics": "Functions as dual-threat rider: pure time trial weapon in ITTs and opportunistic breakaway rider in road stages. Team allows freedom to pursue secondary classifications when not needed for GC support. Benefits from strong team GC performance creating tactical freedom.",
+  "terrain_preference": "Technical time trial courses suit him best over pure power parcours. Can handle moderate climbing in breakaways better than typical TT specialists. Shortened or chaotic stages present classification opportunities he exploits well.",
+  "vulnerability": "Pure power specialists consistently beat him in flat time trials. Limited ability to follow sustained high-intensity climbing attacks despite decent breakaway climbing capacity. Mechanicals expose thin margin between success and failure in opportunistic moves.",
+  "key_patterns": [
+    "Time trial strength holds early in ITTs but fades against pure power specialists (2 observations)",
+    "Targets secondary classifications (KOM) over stage wins when in breakaways, showing tactical pragmatism (2 observations)",
+    "Technical TT courses favor him more than power-based parcours against world-class fields (2 observations)",
+    "Displays climbing capacity beyond typical TT specialist, enabling breakaway finishes on moderate mountains (2 observations)",
+    "Shows resourcefulness and adaptability in chaotic race situations to secure objectives (2 observations)"
+  ],
+  "form_trajectory": "positive: 2023 Vuelta showed evolution beyond pure TT specialist with breakaway second place and KOM jersey acquisition, suggesting expanding tactical range",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "SOBRERO Matteo",
+  "built_from": [
+    "2022 Giro d'Italia Stage 2",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Giro d'Italia Stage 21",
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 Tour de Suisse Stage 1"
+  ]
+}

@@ -1,27 +1,23 @@
 {
-  "attacking_style": "Pure sprinter who does not attack; relies entirely on positioning in final kilometers and launching from leadout trains in flat finales.",
-  "team_tactics": "Heavily dependent on structured leadouts, particularly via Guarnieri. Team delivers excellent positioning but Demare frequently fails to convert despite perfect setup.",
-  "terrain_preference": "Flat bunch sprints only. Any attritional racing, technical finales requiring repeated accelerations, or tempo increases on undulating terrain expose significant weaknesses.",
-  "vulnerability": "Cannot handle selective racing or sustained tempo increases that create attrition. Post-crash recovery efforts devastate sprint power. Peak speed insufficient when perfectly positioned.",
+  "attacking_style": "Pure sprinter who does not attack in traditional sense. Wins from final 200m in bunch sprints, often by positioning on rival wheels rather than leading out early.",
+  "team_tactics": "FDJ commits full leadout train even when domestiques are fatigued. However, Démare shows adaptability by abandoning team positioning to freelance on rival wheels when beneficial, as seen multiple times in Giro sprints.",
+  "terrain_preference": "Flat bunch sprints where selections are not overly aggressive. Survives moderate climbs when tempo is controlled but vulnerable to hard accelerations on penultimate climbs that could isolate him from team support.",
+  "vulnerability": "Pre-stage tactical pressure via high tempo on penultimate climbs can temporarily isolate him. Relies on selections not being decisive enough to prevent regrouping after mechanicals or positioning errors.",
   "key_patterns": [
-    "Repeatedly finishes second despite optimal leadout positioning, indicating insufficient peak watts (4 instances)",
-    "Eliminated or struggles when racing becomes attritional via tempo or terrain (2 instances)",
-    "Energy expenditure from crashes or chases directly compromises finishing sprint power (2 instances)",
-    "Technical finales requiring navigation skill lead to failed conversions even when leading (2 instances)",
-    "Form decline visible mid-stage race when previously consistent (2 instances)"
+    "Opportunistically targets intermediate sprints when rivals conserve energy, gaining bonus seconds uncontested.",
+    "Capable of chasing back after mechanicals/punctures when race tempo insufficient to create definitive selections.",
+    "Switches from team leadout to wheel-surfing tactics mid-finale when chaos or positioning favors freelancing.",
+    "French team overcommits domestique resources even on non-priority stages, potentially depleting support for key moments."
   ],
-  "form_trajectory": "negative: 2023 shows declining ability to handle attritional racing and first intermediate sprint loss after consistent week, suggesting downward trend from already disappointing 2022",
-  "races_analysed": 8,
+  "form_trajectory": "positive: 2022 Giro shows tactical evolution, winning by intelligent wheel selection rather than pure leadout dependence",
+  "races_analysed": 5,
   "confidence": "high",
-  "rider_name": "DEMARE Arnaud",
+  "rider_name": "DÉMARE Arnaud",
   "built_from": [
-    "2017 Paris-Nice Stage 5",
-    "2017 Tour de France Stage 6",
-    "2021 La Vuelta ciclista a Espana Stage 4",
-    "2021 La Vuelta ciclista a Espana Stage 5",
-    "2022 Giro d'Italia Stage 3",
-    "2022 Tirreno-Adriatico Stage 3",
-    "2023 Classic Brugge-De Panne",
-    "2023 Paris-Nice Stage 5"
+    "2018 Tour de France Stage 13",
+    "2018 Tour de France Stage 2",
+    "2019 Giro d'Italia Stage 3",
+    "2020 Giro d'Italia Stage 13",
+    "2022 Giro d'Italia Stage 6"
   ]
 }

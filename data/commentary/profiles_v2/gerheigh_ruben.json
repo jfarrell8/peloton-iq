@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Patient, reactive approach that follows dangerous late attacks rather than initiating. Wins by finishing stronger than those who opened the move, suggesting superior power reserves in final kilometers.",
+  "team_tactics": "Limited team support evident - relies on individual positioning and wheel selection rather than organized team setup or tempo control. Opportunistic rather than orchestrated.",
+  "terrain_preference": "Suited to situations requiring sustained power after following attacks. Benefits from selective racing where tracking key moves matters more than explosive accelerations.",
+  "vulnerability": "Dependent on others initiating attacks to create winning opportunities. May struggle when required to animate racing or defend position without teammate support in grand tours.",
+  "key_patterns": [
+    "Follows wheels of dangerous attackers rather than initiating moves himself",
+    "Wins by outlasting original attackers with superior finishing power",
+    "Shows tactical patience and maturity beyond typical first-time grand tour stage winner"
+  ],
+  "form_trajectory": "positive: maiden grand tour stage win at 26 demonstrates readiness for three-week racing and mature tactical execution",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GERHEIGH Ruben",
+  "built_from": [
+    "2020 Giro d'Italia Stage 9",
+    "2020 Giro d'Italia Stage 9"
+  ]
+}

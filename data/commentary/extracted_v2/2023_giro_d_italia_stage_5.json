@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won a crash-marred sprint finish in Salerno after mid-30s km/h average speed neutered team tactics and attrition removed key sprinters at 7km.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Average speed mid-30s km/h in wet conditions eliminated organized leadouts, turning finale into survival-based positioning lottery.",
+      "Crash at 7km removed Ackermann/Gaviria but Roglič/Leknessund demonstrated superior chase/positioning to regain contact before 3km rule.",
+      "Alpecin/Trek/DSM attempted leadout organization but wet roads favored lone sprinters over coordinated trains in final 3km."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: crashed twice (dog incident early, separate crash sub-3km) suggesting poor wet-road positioning awareness despite no time loss",
+      "ROGLIČ Primož": "positive: showed exceptional chase skills recovering from 7km crash to regain peloton, GC-caliber bike handling in chaos",
+      "LEKNESSUND Andreas": "positive: navigated both major crashes (7km and finale) without losing maglia rosa, superior wet positioning for non-specialist",
+      "CAVENDISH Mark": "negative: back wheel slipped on white line in final 300m, age/handling limitations evident in technical wet sprint",
+      "PINOT Thibaut": "neutral: took KOM points then abandoned breakaway effort, treating stage as training ride rather than contesting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:40:41.456212+00:00"
+}

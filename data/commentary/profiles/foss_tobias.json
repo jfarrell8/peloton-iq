@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Shows willingness for long-range solo moves (20km out) but lacks sustained power to finish; more effective as a high-tempo pacemaker on extended climbs than explosive finisher.",
+  "team_tactics": "Deployed as elite threshold domestique in final climb scenarios; team leverages his diesel engine capacity to control pace and protect GC leaders rather than hunt personal results.",
+  "terrain_preference": "Extended steady-gradient climbs where threshold power dominates; struggles on punchy, variable-gradient finishes requiring repeated accelerations or explosive changes of pace.",
+  "vulnerability": "Insufficient form and punch for hillier, technical finishes where specialists thrive; solo attacks fade quickly (1km duration) when not at peak condition.",
+  "key_patterns": [
+    "Elite pacemaking capacity: solo tempo efforts spanning 9km+ on final climbs (2 observations).",
+    "Long-range attacks show ambition but lack finishing power; moves neutralized within 1-2km (2 observations).",
+    "Strong domestique rather than finisher: hot seat performances and tempo work outweigh breakthrough wins (3 observations).",
+    "Team depth allows tactical flexibility: used opportunistically in GC support or breakaway roles (2 observations)."
+  ],
+  "form_trajectory": "positive: Latest 2023 observation shows elite threshold capacity returning; capable of sustained high-power pacing on key climbs for GC support.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "FOSS Tobias",
+  "built_from": [
+    "2021 Giro d'Italia Stage 1",
+    "2021 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 10",
+    "2023 Paris-Nice Stage 7"
+  ]
+}

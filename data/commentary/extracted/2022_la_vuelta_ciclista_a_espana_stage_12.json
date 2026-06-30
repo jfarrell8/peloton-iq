@@ -5,23 +5,25 @@
   "stage": 12,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "CARAPAS attacked from 32-rider breakaway on final climb, took stage while POGACAR attacked GC group but ROGLIC/MAS matched easily",
-    "winner": "CARAPAS Richard",
+    "one_line_summary": "CARAPAZ attacked from 32-rider breakaway on final climb, won solo while EVENEPOEL answered all GC attacks to retain red jersey despite earlier crash.",
+    "winner": "CARAPAZ Richard",
     "commentary_quality": "moderate",
     "tactical_patterns": [
-      "BATISTELLA solo attack at 65km isolated by break's refusal to chase, revealing peloton-sized breaks kill initiative",
-      "BORA deployed FABRO as super-domestique on final climb specifically to pace KELDERMAN into top six GC",
-      "POGACAR's red jersey team depleted on final climb, forcing him to counterattack rather than control defensively",
-      "VINE struggled after winning two prior stages, suggesting recovery cost from breakaway wins accumulates within three stages"
+      "BATTISTELLA solo bridge attempt 65km out from oversized break failed; group too large to cooperate on chasing lone ranger.",
+      "FABBRO paced KELDERMAN up final climb despite being breakaway rider himself, revealing team willingness to sacrifice stage contention for GC.",
+      "Quick-Step isolated EVENEPOEL early on final climb yet he responded personally to attacks rather than teammates controlling pace.",
+      "EVENEPOEL counterattacked at summit after absorbing pressure, signaling confidence in finishing power over sustained climbing defense."
     ],
     "rider_signals": {
-      "CARAPAS Richard": "positive: Stage win suggests form returning after demotion within INEOS hierarchy; seized opportunity when VINE fatigued",
-      "KELDERMAN Wilco": "positive: Jumped to 6th GC via dedicated team support on final climb; BORA committed resources specifically for his placement",
-      "VINE Jay": "negative: Faded on final climb after two stage wins, indicating breakaway victories extract multi-day recovery toll",
-      "POGACAR Tadej": "neutral: Attacked last kilometer but isolated without teammates; aggressive response masked defensive positioning throughout climb",
-      "POLANS Jan": "positive: Recovered from struggling early on climb to finish 4th, jumped to 9th GC showing deeper resilience"
+      "CARAPAZ Richard": "positive: Stage win as Ineos team principal suggests freedom from GC support role unlocks offensive capabilities.",
+      "EVENEPOEL Remco": "positive: Maintained GC gaps despite crash and isolated position on climb, showing resilience under repeated attacks.",
+      "KELDERMAN Wilco": "positive: Moved into top-six GC with dedicated team pacing from FABBRO, indicating form building mid-race.",
+      "VINE Jay": "negative: Finished 7th from break after winning two prior stages, suggesting accumulated fatigue limits consecutive breakthrough efforts.",
+      "POLANC Jan": "positive: Struggled initially but recovered to finish 4th, demonstrating veteran ability to manage efforts on long climbs.",
+      "BATTISTELLA Samuele": "neutral: Solo attack 65km out showed ambition but lack of cooperation from 32-rider break made success impossible.",
+      "ROGLIČ Primož": "neutral: Team attacked repeatedly but failed to distance EVENEPOEL, suggesting current form insufficient to break race leader."
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:42:11.222884+00:00"
+  "extracted_at": "2026-06-28T23:31:43.995145+00:00"
 }

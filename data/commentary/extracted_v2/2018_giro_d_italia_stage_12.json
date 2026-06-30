@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-17",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won via late-race breakaway bridge at 700m to go, catching solo attacker BETANCOURT after peloton splits in rain",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto-Soudal forced splits in rain to isolate Viviani, exposing Quick-Step's sprint train weakness in wet technical finales.",
+      "Bennett bridged solo at 700m instead of waiting for leadout, revealing sprinters need TT power for wet circuit finishes.",
+      "BETANCOURT Carlos attacked solo on circuit lap, nearly held off until final 700m despite no team support.",
+      "EF Education First chasing for stage control rather than sprint leadout, showing unconventional aggressive team tactics."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "negative: caught in rear group during rain splits, dislodged from peloton requiring energy-draining chase with depleted team support",
+      "BENNETT Sam": "positive: bridged 700m solo with TT power to catch Betancourt, showing tactical flexibility beyond traditional sprint leadout dependence",
+      "BETANCOURT Carlos": "positive: solo circuit attack nearly succeeded, showing breakaway riders can exploit wet technical finales against sprinter teams",
+      "ULISSI Diego": "neutral: attempted late attack with Sanchez but overcooked effort before circuit finale",
+      "MOHORIC Matej": "positive: drove late breakaway selection before Bennett's bridge, demonstrating versatility beyond classics specialist role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:19:21.257672+00:00"
+}

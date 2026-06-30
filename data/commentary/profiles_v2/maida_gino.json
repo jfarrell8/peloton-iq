@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive attacks inside final 4km of long gradual climbs, targeting moments where sustained power can gap elite pursuers without terrain being steep enough for pure climbers to immediately close.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Gradual, sustained climbs (15km+ at moderate gradient) where diesel power matters more than explosive acceleration; avoids punchy steep gradients that favor pure climbers.",
+  "vulnerability": "Unknown how he responds when marked or when attacks are neutralized; single observation shows success but not response to tactical pressure or repeated accelerations.",
+  "key_patterns": [
+    "Attacks with 3-4km remaining on extended climbs to maximize power-to-weight efficiency",
+    "Holds consistent tempo under pressure rather than responding with accelerations",
+    "Targets stage wins over GC, suggesting focus on opportunistic rather than classification racing"
+  ],
+  "form_trajectory": "unknown: Single observation shows breakthrough performance at age 24, but insufficient data to assess trend direction or consistency",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MAIDA Gino",
+  "built_from": [
+    "2021 Giro d'Italia Stage 6",
+    "2021 Giro d'Italia Stage 6"
+  ]
+}

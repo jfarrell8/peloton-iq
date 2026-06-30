@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking patterns. Observations show reactive positioning rather than proactive attacking behavior in decisive race moments.",
+  "team_tactics": "No clear team tactical patterns observed. Appears to race without dedicated domestique support in finale situations based on available data.",
+  "terrain_preference": "Struggles on punchy climbs like Cauberg when race selection occurs. Wheel positioning and tactical awareness appear as limiting factors rather than physical terrain capability.",
+  "vulnerability": "Exposed in chaotic finales and when quick accelerations occur. Loses positioning on decisive climbs not due to physical weakness but poor wheel selection and timing.",
+  "key_patterns": [
+    "Missed decisive moves despite being present, indicating positioning/anticipation weakness in critical moments",
+    "Failed to follow wheels on Cauberg climb, suggesting tactical inexperience in selective racing",
+    "Wheel positioning errors in finale situations reveal race craft deficits over physical limitations"
+  ],
+  "form_trajectory": "unknown: limited observations prevent assessment of physical form, but tactical execution shows developmental gaps",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HAAS Nathan",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Amstel Gold Race"
+  ]
+}

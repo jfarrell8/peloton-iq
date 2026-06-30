@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour of Oman Stage 3",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-15",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET attacked the uphill finish from 1km out with an extremely early sprint, distancing COSTA and taking both the stage and GC lead.",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SHETLI collected all intermediate sprint and KOM points from breakaway before being caught, aggressive jersey defense strategy executed perfectly.",
+      "BMC Racing took over pacing from Astana with 1km remaining on uphill finish, controlling tempo before leader's launch.",
+      "VAN AVERMAET initiated sprint unusually early for uphill finish, suggesting superior power endurance over pure puncheur acceleration."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: initiated sprint 1km from uphill finish line, demonstrating exceptional sustained power to hold off pure climbers like Costa",
+      "COSTA Rui": "negative: unable to close gap despite VAN AVERMAET's early sprint initiation, suggesting reduced form or tactical miscalculation",
+      "SHETLI Loic": "positive: systematically collected all intermediate sprint and KOM points before expending completely, intelligent jersey hunting execution",
+      "KANGERT Tanel": "neutral: showed well for Astana before BMC takeover, but team ceded control at critical final kilometer"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:38:00.825105+00:00"
+}

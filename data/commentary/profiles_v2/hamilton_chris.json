@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic attacker who exploits tactical disorganization in breakaways rather than raw power. Responds early on climbs but struggles to sustain efforts to the finish.",
+  "team_tactics": "Operates with minimal team support, often functioning as first responder domestique for DSM. Required to make solo bridging efforts without dedicated lead-out or positioning help.",
+  "terrain_preference": "Breakaway scenarios on mountainous stages where tactical chaos creates opportunities. Exposed on sustained climbs requiring deep reserves and in organized bunch sprints.",
+  "vulnerability": "Lacks finishing reserves after initial climb responses or bridging efforts. Energy management issues when required to chase back after setbacks. Cannot compete when outnumbered without tactical leverage.",
+  "key_patterns": [
+    "First to respond on climbs but fades before finish (2 observations)",
+    "Requires massive solo efforts to establish position, compromising later performance (2 observations)",
+    "Succeeds by exploiting opponents' tactical mistakes rather than superior strength (2 observations)",
+    "Functions in domestique role despite breakaway ambitions, splitting effort allocation (2 observations)"
+  ],
+  "form_trajectory": "negative: Recent Vuelta appearances show declining finishing power and increased reliance on unsustainable bridging efforts",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "HAMILTON Chris",
+  "built_from": [
+    "2021 Giro d'Italia Stage 12",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 Vuelta a Espana Stage 9"
+  ]
+}

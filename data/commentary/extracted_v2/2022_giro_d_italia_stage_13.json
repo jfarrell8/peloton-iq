@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-20",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnaud won his third sprint stage after breakaway nearly held 3-minute gap until final 2km on hot, hilly 150km parcours",
+    "winner": "DEMAR Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway doubled advantage to 7min at 90km on Nava climb while sprint teams rode tempo, forcing panic inside 30km.",
+      "Wind splits ejected Richie Porte group with 30km remaining, suggesting positioning failures despite experienced riders in bunch.",
+      "Three sprint teams (Alpecin, QuickStep, UAE) committed early at 3min deficit but nearly miscalculated catch timing."
+    ],
+    "rider_signals": {
+      "BALDY Roman": "negative: abandoned from 4th GC after appearing brilliant through 12 days, sick overnight shows fragility of form",
+      "DEMAR Arnaud": "positive: third win in 12 stages demonstrates superiority over Cavendish/Bauhaus despite their teams controlling race",
+      "PORTE Richie": "negative: caught in 30-rider split with 30km remaining reveals positioning lapses for experienced GC domestique",
+      "INCORN Mathijs": "neutral: second consecutive day in breakaway suggests team allowing repeat attempts rather than protecting leaders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:07:35.807722+00:00"
+}

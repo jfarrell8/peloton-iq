@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who commits early to long-range moves, prioritizing positioning for secondary objectives (jerseys, team goals) over outright stage wins.",
+  "team_tactics": "EF Education deploys him in breakaways with strategic objectives beyond stage victory; team willing to sacrifice win opportunities to secure classification jerseys through his positioning.",
+  "terrain_preference": "Versatile across terrain types — capable in both hilly classics (Bretagne) and Grand Tour breakaway stages. Functions as climbing domestique with unexpected finishing speed in one-day races.",
+  "vulnerability": "Lacks outright winning speed against pure finishers; relegated to support roles suggest limitations in sustained high-end power for stage victories from breakaways.",
+  "key_patterns": [
+    "Commits to early breakaways with tactical objectives beyond stage wins (2 instances)",
+    "Shows resilience and determination: fought back after crash to rejoin breakaway group",
+    "Delivers strong finishing speed for a climbing domestique role in classics racing",
+    "Team prioritizes his jersey/classification positioning over individual stage victory opportunities"
+  ],
+  "form_trajectory": "positive: 2023 Vuelta performance showed tactical maturity and resilience (crash recovery), building on 2022 classics success",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PICCOLO Andrea",
+  "built_from": [
+    "2022 Bretagne Classic - Ouest-France",
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 2"
+  ]
+}

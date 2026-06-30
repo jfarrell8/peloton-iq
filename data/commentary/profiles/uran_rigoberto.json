@@ -1,28 +1,20 @@
 {
-  "attacking_style": "Prefers late attacks on final climbs from breakaway positions rather than defending GC passively. Wins come from well-timed accelerations in final kilometers after long-range efforts.",
-  "team_tactics": "Relies heavily on team support for positioning and recovering from setbacks (mechanical recovery required massive team expenditure). Less aggressive in using team for offensive GC defense.",
-  "terrain_preference": "Medium mountain stages with breakaway opportunities suit best; final climb finishes where late attacks can drop rivals. Struggles in tactical sprint situations for time bonuses.",
-  "vulnerability": "Passive GC race management when under pressure; vulnerable to time bonus losses in tactical sprints; mechanicals and crashes disproportionately compromise his races.",
+  "attacking_style": "Launches probing attacks in mid-distance range (approximately 3km from finish) on climbs, designed to test rivals rather than commit fully. Not a sustained long-range attacker.",
+  "team_tactics": "EF demonstrates strong protective instincts: quick mechanical support and positioning work. Willing to redirect GC domestiques to alternative objectives when GC prospects fade.",
+  "terrain_preference": "Medium-mountain stages where testing attacks can create selection without requiring explosive finishing power. Struggles when forced into pure explosive finishes.",
+  "vulnerability": "Late-race crashes within 5km threaten GC due to time-cut risks. Probing attacks fail when rivals refuse to commit, leaving him exposed without sustained power advantage.",
   "key_patterns": [
-    "Exceptional energy management in long breakaways, maintaining power after 45+ minutes at threshold.",
-    "Vulnerable to crashes/mechanicals requiring chase efforts that compromise subsequent summit finishes (2019, 2022).",
-    "Prefers breakaway tactics over passive GC defense; lost podium without mounting active defense.",
-    "Strong resilience and improvisation under adversity, winning despite major mechanical disasters.",
-    "Weak in tactical sprinting for time bonuses despite climbing strength (lost seconds to rivals)."
+    "Mid-distance attacks (sub-3km) used tactically to test field, not for sustained separation (2 instances)",
+    "Team repurposed for non-GC goals when fading: domestique work for sprinters/stage hunters (2 instances)",
+    "Strong team crisis management: mechanical swaps and rule exploitation under pressure (2 instances)"
   ],
-  "form_trajectory": "positive: 2022 showed resurgent form with breakaway win and strong energy management at Vuelta after earlier Tour mechanicals, suggesting late-career renaissance as opportunistic stage hunter rather than pure GC contender",
-  "races_analysed": 7,
-  "confidence": "medium",
-  "rider_name": "URAN Rigoberto",
+  "form_trajectory": "negative: By 2023 reduced to domestique duties for Van Aert, indicating GC competitiveness declined significantly from 2018-2020 probing role",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "URÁN Rigoberto",
   "built_from": [
-    "2017 Tour de France Stage 18",
-    "2017 Tour de France Stage 9",
-    "2017 Tour de France Stage 9",
-    "2019 Vuelta a Espana Stage 4",
-    "2021 Tour de France Stage 14",
-    "2022 La Vuelta ciclista a Espana Stage 17",
-    "2022 La Vuelta ciclista a Espana Stage 17",
-    "2022 Tour de France Stage 2",
-    "2022 Tour de France Stage 9"
+    "2018 Tour de France Stage 4",
+    "2020 Criterium du Dauphine Stage 1",
+    "2023 Tour de France Stage 11"
   ]
 }

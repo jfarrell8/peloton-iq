@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Uses climbing ability to bridge across to leaders rather than launching pure attacks. Shows initiative to move solo when opportunities arise, but struggles to convert strong positioning into wins.",
+  "team_tactics": "Limited tactical support evident; relies on individual positioning skill and reading the race rather than team-led setups. Development through Contador program suggests focus on opportunistic aggression.",
+  "terrain_preference": "Climbing terrain where ability to solo across gaps becomes an asset. Suited to selective, attritional racing rather than explosive summit finishes.",
+  "vulnerability": "Lack of winning punch in final moments despite achieving strong positioning. Converts tactical nous into podium placings rather than victories, suggesting finishing speed deficit.",
+  "key_patterns": [
+    "Strong positioning skill gets into winning moves but lacks killer instinct (2 observations)",
+    "Uses solo bridging efforts via climbing strength rather than following wheels (2 observations)",
+    "Converts good race-reading into podiums but not wins, second place twice consecutively (2 observations)"
+  ],
+  "form_trajectory": "neutral: showed initiative and climbing strength but repeated second places suggest hitting his ceiling rather than improving",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BARCELO Fernando",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 8"
+  ]
+}

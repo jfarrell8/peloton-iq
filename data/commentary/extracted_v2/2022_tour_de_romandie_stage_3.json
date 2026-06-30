@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-29",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BEVIN Paddy launched a brutally effective sprint with 400m remaining after a rolling stage, capitalizing on TAARAMÄE's late solo catch.",
+    "winner": "BEVIN Paddy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VERONA attacked on flat sections of the final climb (2km from top), not the steepest gradient, sparking counterattacks.",
+      "Israel Premier Tech planted HAMILTONS in break for KOM points while saving BEVIN, revealing multi-objective breakaway strategy.",
+      "TAARAMÄE's late descent attack (post-climb) caught with 500m left, suggesting insufficient gap-building on technical descents before flat finishes.",
+      "Jumbo-Visma controlled all day for DENNIS despite only 14-second lead, indicating defensive posture before queen stage."
+    ],
+    "rider_signals": {
+      "BEVIN Paddy": "positive: explosive sprint after hilly stage moved him to 14 seconds off GC lead, showing versatility beyond expected range",
+      "HAYTER Ethan": "positive: second place in reduced sprint after multiple climbs confirms climbing form improvement beyond pure sprint stages",
+      "DENNIS Rohan": "positive: third place finish while defending leader's jersey reveals unexpected sprint capacity for time trialist",
+      "MÄDER Gino": "neutral: attacked final climb but couldn't sustain, telegraphing form level before queen stage",
+      "VLASOV Alexandr": "neutral: followed MÄDER but lacked finishing power, suggesting buildup phase rather than peak form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:26:39.573447+00:00"
+}

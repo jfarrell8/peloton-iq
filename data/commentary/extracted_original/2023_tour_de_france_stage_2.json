@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-02",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "LAFAY Victor won with a late solo attack inside 1km after UAE controlled the Jaizkibel ascent, Pogačar sprinted for bonus seconds.",
+    "winner": "LAFAY Victor",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE controlled Jaizkibel tempo (16.5km out) despite Yates in yellow, prioritizing Pogačar bonus seconds over defending.",
+      "MIES Rafael attack on Jaizkibel dropped Pinot/Landa, creating unexpected GC selection on category-2 climb.",
+      "Jumbo-Visma policed late attacks despite no sprint interest, suggesting defensive GC posture rather than stage hunting."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: UAE worked for his bonus seconds despite teammate Yates in yellow, revealing team hierarchy",
+      "BILBAO Pello": "positive: hung with GC group over Jaizkibel despite riding emotionally after Mader tribute",
+      "PIDCOCK Tom": "neutral: survived Jaizkibel with GC group but didn't contest finale, unclear role in stage racing",
+      "LAFAY Victor": "positive: first Tour stage in 15 years for Cofidis, timed 1km attack perfectly against inattentive Jumbo",
+      "LANDA Mikel": "negative: dropped on Jaizkibel 16.5km out alongside Pinot, early GC weakness signal",
+      "PINOT Thibaut": "negative: distanced by Mies attack on Jaizkibel, worrying form before mountains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:21:25.127709+00:00"
+}

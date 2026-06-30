@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:transcripts_disabled"
 }

@@ -1,19 +1,23 @@
 {
-  "attacking_style": "Deploys in breakaways on mountain stages as tactical operator rather than personal glory hunter, willing to go early to control KOM points for team leadership.",
-  "team_tactics": "Functions as climbing domestique inserted into breakaways to manage polka dot jersey competition for team leaders like Evenepoel, prioritizing team objectives over stage results.",
-  "terrain_preference": "Mountain stages where breakaway control is required; less proven on technical descents where mechanical issues have surfaced under race stress.",
-  "vulnerability": "Technical descents after hard climbing efforts expose both handling limitations and susceptibility to mechanicals (punctures) when equipment is stressed.",
+  "attacking_style": "Classification-focused aggression targeting KOM points via solo bridging efforts mid-climb, typically on Cat 2 or harder climbs. Abandons breakaway companions once classification objectives secured rather than pursuing stage victory.",
+  "team_tactics": "Deployed in controlled breakaways to defend team leader's jersey (polka dots for Evenepoel), willing to sacrifice personal stage ambitions for team classification objectives.",
+  "terrain_preference": "Mountain stages with multiple categorized climbs where KOM points are available. Strong enough to bridge significant gaps (1+ minute) solo mid-climb when motivated by classification hunting.",
+  "vulnerability": "Descending technical skills appear questionable (puncture incident on descent while leading). Stage win ambition secondary to points gathering makes him predictable in breakaway finales.",
   "key_patterns": [
-    "Breakaway specialist role focused on polka dot jersey management for protected riders",
-    "Tactical domestique work prioritized over personal stage ambitions in Grand Tour context",
-    "Mechanical vulnerabilities manifest on technical descents following sustained climbing efforts"
+    "Solo bridges gaps mid-climb specifically for KOM points, not stage wins (2 observations)",
+    "Prioritizes classification jerseys over breakaway companion loyalty and stage hunting (2+ observations)",
+    "Effective controlled breakaway domestique for defending team leader's polka dot jersey (2 observations)",
+    "Abandons strong positions once classification objectives met rather than contesting stage (2 observations)"
   ],
-  "form_trajectory": "unknown: limited observations show tactical role execution but insufficient data on personal form or results",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: Strong climbing form evident in solo bridging efforts and breakaway strength, but mechanical issues and tactical choices prevent converting into stage results",
+  "races_analysed": 4,
+  "confidence": "medium",
   "rider_name": "SEPULVEDA Eduardo",
   "built_from": [
     "2023 La Vuelta Ciclista a Espana Stage 3",
-    "2023 La Vuelta Ciclista a Espana Stage 4"
+    "2023 La Vuelta Ciclista a Espana Stage 4",
+    "2023 La Vuelta Ciclista a Espana Stage 5",
+    "2023 Vuelta a Espana Stage 5",
+    "2023 Vuelta a Espana Stage 5"
   ]
 }

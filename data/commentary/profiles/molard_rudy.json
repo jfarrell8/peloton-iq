@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic late attacker who strikes on descents or uphill finishes with 2-9km to go, particularly effective when exploiting tactical standoffs rather than pure climbing power.",
+  "team_tactics": "Operates with minimal team support; relies on breakaway positioning and jersey math calculations rather than domestique-led control. Team deliberately avoids chase responsibility when holding virtual lead.",
+  "terrain_preference": "Descents fromcat-2 summits and uphill finishes suit best; exposed on final sustained climbs where pure climbers can distance by 20+ seconds. Local course knowledge provides tactical advantage.",
+  "vulnerability": "Physically vulnerable to cramping under duress; team cannot control races in adverse conditions (rain). Lacks firepower to defend GC when rivals intensify tactics or on sustained final climbs against pure climbers.",
+  "key_patterns": [
+    "Takes red jersey from breakaways, using time gaps to avoid team chase duties (3 instances)",
+    "Prioritizes jersey mathematics over stage wins, engaging tactical standoffs on descents (2 instances)",
+    "Attacks late 2-9km to go on descents or uphill finishes, not early climbs (3 wins)",
+    "Loses 20+ seconds to top GC contenders on final sustained climbs when forced to defend (2 instances)",
+    "Track racing background enables cold tactical calculation even when physically compromised (cramping documented)"
+  ],
+  "form_trajectory": "neutral: Successfully contested red jersey in 2022 through tactical intelligence but lacks physical capacity to defend against top GC riders when they attack. Role remains breakaway opportunist rather than GC contender.",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "MOLARD Rudy",
+  "built_from": [
+    "2018 Paris-Nice Stage 6",
+    "2018 Paris-Nice Stage 6",
+    "2018 Vuelta a Espana Stage 5",
+    "2018 Vuelta a Espana Stage 5",
+    "2018 Vuelta a Espana Stage 8",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 6",
+    "2022 Vuelta a Espana Stage 5",
+    "2022 Vuelta a Espana Stage 5",
+    "2022 Vuelta a Espana Stage 6"
+  ]
+}

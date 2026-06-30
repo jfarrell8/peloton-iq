@@ -1,28 +1,22 @@
 {
-  "attacking_style": "Excels in technical, uphill time trial finales where bike handling and power application trump pure watts. Strongest in second half of TTs after strategic pacing, often trailing at intermediate checks before surging in technical closing kilometers.",
-  "team_tactics": "Groupama-FDJ employs superior reconnaissance and pacing protocols, with teammates like Armirail setting early benchmarks to establish target splits. Team appears to prioritize technical course previews over raw power output.",
-  "terrain_preference": "Technical uphill time trial finales on familiar roads are optimal (gained 11+ seconds in second half vs Sheffield, dominated uphill TdS finale). Exposed on pure power climbs when accelerations occur; unable to follow explosive attacks from pure climbers like Evenepoel despite holding race lead.",
-  "vulnerability": "Cannot respond to sudden accelerations from GC climbers despite strong baseline power. Poor pacing strategy in three-week Grand Tours (faded final third at TDF 2021). Power-to-weight appears sacrificed when attempting climbing transformations.",
+  "attacking_style": "Leverages time trial power for explosive accelerations in breakaway selections and uphill finishes. Capable of animating early moves despite TT specialty, particularly on difficult uphill finales where sustained power advantage emerges.",
+  "team_tactics": "Deployed as insurance rider in early breakaways when team's climbing tactics uncertain. Used flexibly—not confined to TT days—to cover moves or gain time on parcours favoring sustained power.",
+  "terrain_preference": "Difficult uphill finishes where time trial power translates to gains. Struggles on pure flat TT parcours compared to expectations. Second-half/late-race efforts appear stronger than opening efforts.",
+  "vulnerability": "Form deficits exposed on expected-strength parcours (flat TTs). Loses time in first half of stages, suggesting pacing/warm-up issues or early-race energy management weakness.",
   "key_patterns": [
-    "Consistently trails at intermediate time checks but gains time in technical second halves (2023 TdS, 2021 TDF)",
-    "Strongest on home Swiss roads where local knowledge compounds technical skills (multiple TdS wins, TDF stage)",
-    "Unable to follow explosive accelerations from lighter climbers despite holding race lead or strong position (Evenepoel 2x)",
-    "Identifies tactical opportunities in chase scenarios, willing to attack solo when sprint uncertain (E3 podium)",
-    "Pacing strategy fails in final week of Grand Tours, fading after strong early performances"
+    "Time trial power explicitly used for breakaway aggression and selection, not just TT stages (2 instances)",
+    "Demonstrates second-half/late-race power advantage, losing time early then gaining back (2 instances)",
+    "Animated early breakaways despite TT specialty when deployed tactically by team (2 instances)",
+    "Underperforms expectations on flat TT parcours relative to credentials and titles (1-2 instances)"
   ],
-  "form_trajectory": "negative: Lost yellow jersey inability to respond to attacks in 2023 despite earlier TT dominance. Weight loss experiments appear to compromise core TT strength without delivering climbing gains needed for GC.",
-  "races_analysed": 7,
-  "confidence": "high",
-  "rider_name": "KUNG Stefan",
+  "form_trajectory": "neutral: Mixed signals—2023 showed late-race power gains, but 2022 revealed form deficit on expected-strength terrain. Inconsistent application of evident physical strengths.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "KÜNG Stefan",
   "built_from": [
-    "2021 Tour de France Stage 20",
-    "2021 Tour de France Stage 5",
-    "2022 E3 Saxo Bank Classic",
-    "2022 Tour de Suisse Stage 8",
-    "2023 Giro dItalia Stage 9",
-    "2023 Tour de Suisse Stage 1",
-    "2023 Tour de Suisse Stage 1",
-    "2023 Tour de Suisse Stage 1",
-    "2023 Tour de Suisse Stage 3"
+    "2018 Tour of Guangxi Stage 4",
+    "2020 Tour de France Stage 14",
+    "2022 Paris-Nice Stage 4",
+    "2023 Tour de Suisse Stage 1"
   ]
 }

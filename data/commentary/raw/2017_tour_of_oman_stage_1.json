@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 43,
+    "raw_chars": 1332,
+    "clean_chars": 1324,
+    "duration_mins": 2.4,
+    "clean_text": "143 Riders from 18 teams lined up at the picturesque Al Saadi Beach for stage one of the eighth edition of the tour of Oman ahead 1762 km featuring two intermediate Sprints the only major difficulty a stiff wind that would make the Finish difficult to judge the early action was rapid eventually resulting in five Riders going clear of the pelaton wbas of Aqua BL sport the clerk of sport vandren balaz marangoni of nipo Vini fantini Ponzi of V triestina and Masson of WB Varon classic they built their lead extending to 3 minutes 30 after 30 minutes of racing the Breakaway was set up for the day after 1 hour they had averaged an impressive 49 km the Gap stayed constant throughout the Sprints ranging between 2 minutes and 2 minutes 30 but after the second Sprint at alar the clerk and Ponzi decided that that was enough attacking for the day the remaining three Riders pushed on hopeful of winning the stage but the Sprinter teams didn't want that to happen they chased hard bin maridas Celli punctured in sight of the finish at 8 km to go the pelaton reform time for a bunch Sprints in a headwin finish Tom Bonin of quickstep floors crashed Alexander Kristoff used his knowledge of winning here last year to take a powerful Victory a great day for the Norwegian Powerhouse he pulled on the red jersey as the race leader",
+    "preview_start": "143 Riders from 18 teams lined up at the picturesque Al Saadi Beach for stage one of the eighth edition of the tour of Oman ahead 1762 km featuring two intermediate Sprints the only major difficulty a stiff wind that would make the Finish difficult to judge the early action was rapid eventually resulting in five Riders going clear of the pelaton wbas of Aqua BL sport the clerk of sport vandren balaz marangoni of nipo Vini fantini Ponzi of V triestina and Masson of WB Varon classic they built the",
+    "preview_end": "attacking for the day the remaining three Riders pushed on hopeful of winning the stage but the Sprinter teams didn't want that to happen they chased hard bin maridas Celli punctured in sight of the finish at 8 km to go the pelaton reform time for a bunch Sprints in a headwin finish Tom Bonin of quickstep floors crashed Alexander Kristoff used his knowledge of winning here last year to take a powerful Victory a great day for the Norwegian Powerhouse he pulled on the red jersey as the race leader"
+  },
+  "status": "transcript_saved"
 }

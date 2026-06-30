@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-18",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DAINESE Alberto won bunch sprint after teammate Kisshoff's illness gave him DSM's free card, beating favorite sprinters via Baldi leadout",
+    "winner": "DAINESE Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway caught 90km out despite 5min gap shows peloton extremely wary of crosswind splits on flat stages.",
+      "CARAPAZ took intermediate sprint bonuses 75km out to jump GC positions, rare aggressive sprinting from climber on flat.",
+      "DSM pivoted leadout to DAINESE when designated sprinter KOOIJ felt unwell, fresher legs hypothesis beat dedicated trains."
+    ],
+    "rider_signals": {
+      "DAINESE Alberto": "positive: first WT win beating Gaviria/Ewan/Cavendish suggests he's been miscast as domestique, not primary sprinter",
+      "YATES Simon": "negative: caught in early splits 90km out on flat stage reveals positioning weakness ahead of mountain stages",
+      "CARAPAZ Richard": "positive: aggressively took intermediate bonuses 75km out to gain GC position, unusually tactical for climber on flat",
+      "GAVIRIA Fernando": "neutral: following wrong wheels despite UAE leadout positioning shows disconnect with Richeze's setup work",
+      "KOOIJ Olav": "negative: illness forced DSM to pivot leadout, removing him from sprint contention entirely"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:37:30.495959+00:00"
+}

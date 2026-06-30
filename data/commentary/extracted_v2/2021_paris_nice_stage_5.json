@@ -1,0 +1,24 @@
+{
+  "label": "2021 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-11",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a headwind-neutralized sprint stage after SHACHMANN Maximilian took bonus seconds at the intermediate sprint to move closer to race lead",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SHACHMANN contested intermediate sprint 16.2km from finish, taking 2 bonus seconds to close GC gap despite not contesting stage win",
+      "GILBERT Philip initiated echelon attempt at 66km to go when slight crosswind appeared, but GROUP AAMA chased to protect DEMAR",
+      "Sustained 66.5kph pace before echelon reabsorption suggests teams now immediately respond to any wind direction change regardless of strength"
+    ],
+    "rider_signals": {
+      "SHACHMANN Maximilian": "positive: prioritized intermediate sprint bonuses over stage result, intelligent GC time-gaining when favorites weren't focused",
+      "BENNETT Sam": "positive: won from extremely high pace sprint after MORKOV leadout, suggesting superior power at high initial speeds",
+      "DEMAR Arnaud": "neutral: GROUP AAMA chased for him but he didn't feature in finale, possibly positioning error"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:47:15.402547+00:00"
+}

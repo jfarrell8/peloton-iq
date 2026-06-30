@@ -1,0 +1,40 @@
+{
+  "attacking_style": "Aggressive across all terrains with preference for controlled solo moves 1-6km from finish. Pogačar-era tactics favor neutralizing competition through sustained pace before late attacks rather than explosive long-range moves.",
+  "team_tactics": "Dominant race control from 100km+ out when protecting leaders, but shows coordination gaps with multiple GC riders. Willingly shares/abandons pace when no immediate threat. Unusual willingness to reverse domestique hierarchy (using strong riders as final pacers).",
+  "terrain_preference": "Rolling classics terrain and moderate gradients where sustained power dominates. Struggles badly on extreme gradients (23%+ ramps). Sprint train exists but vulnerable to physical intimidation and lacks finishing power against top-tier sprinters.",
+  "vulnerability": "Extreme gradient pitches (Angliru collapse), coordination with multiple co-leaders, sprint train susceptible to being bullied physically. Occasionally caught tactically napping with leaders dropped unexpectedly early in stages.",
+  "key_patterns": [
+    "Race control initiated 100km+ out when protecting leaders, systematic neutralization before planned attacks (3 instances)",
+    "Stage wins prioritized over jersey defense; willing to chase threats even abandoning GC protection (2 instances)",
+    "Sprint train positioned well but lacks raw power and vulnerable to physical aggression (3 instances)",
+    "Pogačar operates without traditional leadout; solo attacks sufficient when strongest rider present (2 instances)",
+    "Multiple GC leaders create coordination problems; numerical advantage doesn't translate to tactical cohesion (2 instances)",
+    "Complete collapse on 23%+ extreme gradients; Ayuso/team went backwards on Angliru early"
+  ],
+  "form_trajectory": "neutral: 2023 shows continued dominance in stage races and classics (Amstel control, Paris-Nice aggression) but exposed coordination issues with multiple leaders at Vuelta and vulnerability on extreme gradients persists",
+  "races_analysed": 20,
+  "confidence": "high",
+  "rider_name": "UAE Emirates",
+  "built_from": [
+    "2018 Giro d'Italia Stage 5",
+    "2018 Tour of Oman Stage 5",
+    "2019 Giro d'Italia Stage 12",
+    "2019 UAE Tour Stage 2",
+    "2020 Giro d'Italia Stage 10",
+    "2020 Giro d'Italia Stage 11",
+    "2021 Il Lombardia",
+    "2021 La Vuelta ciclista a Espana Stage 16",
+    "2021 Tirreno-Adriatico Stage 1",
+    "2022 Tirreno-Adriatico Stage 5",
+    "2022 Tour de Romandie Stage 2",
+    "2022 UAE Tour Stage 4",
+    "2023 Amstel Gold Race",
+    "2023 Giro d'Italia Stage 16",
+    "2023 Giro dItalia Stage 1",
+    "2023 Giro dItalia Stage 4",
+    "2023 La Vuelta Ciclista a Espana Stage 17",
+    "2023 La Vuelta Ciclista a Espana Stage 8",
+    "2023 Paris-Nice Stage 2",
+    "2023 Paris-Nice Stage 4"
+  ]
+}

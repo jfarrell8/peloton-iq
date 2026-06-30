@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-03",
+  "stage": 3,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won the sprint after VANDERPOEL Mathieu executed a perfect leadout, narrowly avoiding relegation for line deviation in final meters",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POWERS Neilson orchestrated early KOM breakaway deal with PICHON, trading climbing points for sprint points through rider etiquette.",
+      "Alpecin-Deceuninck dominated final kilometer positioning through technical 180-degree bend outside 2km, catching disorganized sprint trains.",
+      "SIMMONS Quinn active for Trek early but failed to deliver PEDERSEN to front, showing leadout weakness for hilly flat stages.",
+      "CAVENDISH Mark trapped behind KAASBOL 192 position at 2km, revealing Astana's inability to position through technical final turns."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: won despite line deviation investigation, shows confidence taking risks in tight finishes for marginal gains",
+      "VANDERPOEL Mathieu": "positive: executed textbook 500m leadout from technical bend to flamme rouge, rare domestique perfection from classics star",
+      "PEDERSEN Mads": "negative: absent from final despite SIMMONS early work, Trek's sprint train lacks cohesion on semi-technical finishes",
+      "CAVENDISH Mark": "negative: caught outside top-20 positions at 2km behind weak KAASBOL pilot, age showing in technical positioning battles",
+      "POWERS Neilson": "positive: proactive KOM defense through negotiated breakaway within 14km, smart jersey management without wasting team resources"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:58:36.112720+00:00"
+}

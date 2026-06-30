@@ -1,0 +1,21 @@
+{
+  "label": "2021 Tour de Pologne Stage 6",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-14",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "KRON Andreas won Stage 6 after Luigi GOSTA was disqualified for irregular sprinting, with the sprint drifting from right to left across the road.",
+    "winner": "KRON Andreas",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Sprint positioning drifted significantly from right side to left side of road, suggesting either wind effect or leadout collapse created chaos."
+    ],
+    "rider_signals": {
+      "KRON Andreas": "positive: recovered from illness-related form drop post-Catalunya, showing resilience to bounce back within same stage race after poor previous day",
+      "GOSTA Luigi": "negative: disqualified for irregular sprint, suggesting either desperation move or poor spatial awareness under fatigue in finishing straight"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:55:12.634818+00:00"
+}

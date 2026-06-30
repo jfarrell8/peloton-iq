@@ -1,0 +1,28 @@
+{
+  "label": "2021 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-13",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked with 700m remaining on Col San Martin summit finish, caught breakaway rider MADER Gino in final 20 meters",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC refused to soft-pedal for breakaway sentiment, attacked solo at 700m despite SCHACHMANN neutralizing, prioritizing stage hunting over energy conservation.",
+      "INEOS placed two riders (AMADOR, DE PLUS) in 13-rider break but neither survived selection, revealing depth issues against Jumbo's protected leader.",
+      "BENNETT Sam training specifically for Milan-San Remo Poggio accelerations by riding breakaway climbs, not pure time-cut survival riding.",
+      "SCHACHMANN marked ROGLIC's accelerations but couldn't counter-attack, defending GC rather than racing for stage despite being 52 seconds down."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: ruthlessly prioritized third stage win with late attack despite already controlling GC, suggesting peak form for stage hunting",
+      "MADER Gino": "positive: survived all-day breakaway and nearly held off GC contenders on steep summit despite being caught 20m from line",
+      "SCHACHMANN Maximilian": "negative: could only follow ROGLIC's moves rather than initiate, defensive tactics suggest resigned to second place 52 seconds back",
+      "HAMILTON Lucas": "positive: finished fourth on summit behind only three GC riders, unexpected climbing form from DSM leader",
+      "BENNETT Sam": "neutral: deliberately stayed in early break for Milan-San Remo training despite being sprinter, tactical preparation rather than GC weakness",
+      "VAN BAARLE Dylan": "positive: finished in chase group on mountain summit, showing climbing range beyond classics specialist profile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:47:41.407949+00:00"
+}

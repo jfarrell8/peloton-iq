@@ -1,0 +1,28 @@
+{
+  "label": "2017 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-03",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LÓPEZ Miguel Ángel attacked with CONTADOR on final climb to Monachil, dropped him 6km from finish for solo stage win at 2500m altitude.",
+    "winner": "LÓPEZ Miguel Ángel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LÓPEZ Miguel Ángel's tandem attack with CONTADOR neutralized NIBALI's earlier move while using teammate protection through breakaway presence.",
+      "ZAKARIN outsprinted favorites group 13km from finish showing podium ambition trumps domestique role when leaders falter at extreme altitude.",
+      "Astana controlled early break to 3-minute max despite 17 escapees, suggesting calculation that altitude finish negates large time gaps."
+    ],
+    "rider_signals": {
+      "LÓPEZ Miguel Ángel": "positive: Third stage win demonstrating superior high-altitude climbing at 2000m+, consistently able to drop GC rivals in final 6km.",
+      "ZAKARIN Ilnur": "positive: Attacked favorites group 13km out and took second place, revealing podium ambitions override team tactics.",
+      "CONTADOR Alberto": "negative: Dropped by LÓPEZ 6km from finish and struggled badly on final kilometers, podium hopes now extinguished.",
+      "FROOME Chris": "positive: Gained six more seconds on NIBALI despite not winning stage, demonstrating consistent strength management.",
+      "NIBALI Vincenzo": "negative: Lost six seconds to FROOME and failed when attacking 13km out, losing ground in two-man GC battle.",
+      "KELDERMAN Wilco": "neutral: Finished third but lost podium position to ZAKARIN, suggesting altitude resilience without acceleration capacity.",
+      "YATES Simon": "positive: Gained ground on final ascent before leaders attacked, showing improved form after earlier difficulties."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:17:03.989029+00:00"
+}

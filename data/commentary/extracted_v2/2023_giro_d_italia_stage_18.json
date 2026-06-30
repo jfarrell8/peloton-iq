@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BODZANA Filippo won from breakaway sprint on home roads in Veneto, while ROGLIČ Primož attacked on final climb to seize 2nd GC from ALMEIDA João by 11 seconds",
+    "winner": "BODZANA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC attacked final climb only after VINE positioning error on descent created tactical opportunity, suggesting calculated risk-taking when team support fractures.",
+      "INEOS deployed THOMAS teammates early on third-from-last climb, leaving him isolated with 2 climbs remaining—premature pacemaking cost protection.",
+      "Israel Premier Tech animated race with multiple riders but PINO/GANNA/FRIGO forced to chase each other, fragmenting team strength in breakaway."
+    ],
+    "rider_signals": {
+      "ROGLIC Primož": "positive: hung at back of group fueling abandonment speculation, then attacked to steal 11-second GC gap when rivals isolated",
+      "THOMAS Geraint": "neutral: lost all teammates with 2 climbs remaining but never cracked, suggesting either excellent form or rivals' limited attacking",
+      "ALMEIDA João": "negative: dropped 11 seconds to second place while trying to conserve position, passive tactics backfired with VINE support error",
+      "DUNBAR Eddie": "positive: moved up GC despite losing time, suggesting strong climbing when isolated from Thomas group",
+      "PINO Thibaut": "negative: second heartbreak sprint loss in 3 days from breakaway, questionable sprint positioning or timing twice in same week",
+      "BODZANA Filippo": "positive: won stage in Italian champion jersey on home Veneto roads, outsprinted PINO who had beaten others days prior"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:39:09.089435+00:00"
+}

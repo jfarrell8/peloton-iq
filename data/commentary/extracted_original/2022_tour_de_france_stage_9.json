@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-10",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JUNGELS Bob soloed to victory from a 20+ rider breakaway after attacking on the penultimate climb with 65km to go.",
+    "winner": "JUNGELS Bob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "URAN's team UAE Emirates controlled breakaway gap solely because URAN was <3:30 behind in GC, forcing tempo work.",
+      "JUNGELS attacked penultimate climb at 65km remaining, then extended advantage on 90kph descent using superior cornering technique.",
+      "POGACAR stole bonus seconds at finish line ahead of VINGEGAARD/THOMAS despite non-selective stage, revealing aggressive bonus hunting pattern."
+    ],
+    "rider_signals": {
+      "JUNGELS Bob": "positive: First Tour stage win after years without proper victory and health problems, descending at 90kph decisively gapped chasers.",
+      "PINOT Thibaut": "negative: Lost half-minute lead to JUNGELS in final 2km despite being on native French roads anniversary of first Tour win.",
+      "GESCHKE Simon": "positive: Briefly took KOM jersey lead mid-stage by following JUNGLES attack, showing opportunistic positioning in breakaway.",
+      "URAN Rigoberto": "neutral: Presence in break at 3:30 GC deficit forced UAE to control gap, revealing threshold where GC teams must react."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:54:02.135823+00:00"
+}

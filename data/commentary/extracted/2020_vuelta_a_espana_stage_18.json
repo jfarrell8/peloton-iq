@@ -1,0 +1,30 @@
+{
+  "label": "2020 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-08",
+  "stage": 18,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the Madrid sprint finish on a processional final stage where overall positions remained unchanged from Stage 17.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BENNETT Sam's two-month fatigue from Tour-Vuelta double suggests sprint speed degradation over consecutive Grand Tours worth monitoring.",
+      "Madrid circuit finish has concealed finish line until 250m remaining, requiring sprinters to delay positioning compared to traditional straights.",
+      "Downtown Madrid laps turn downhill-then-uphill into finish, favoring patience over early positioning despite fast racing pace."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Held 24-second gap over Vuelta despite Stage 17 pressure from CARAPAZ, demonstrating superior recovery after Tour crash",
+      "CARAPAZ Richard": "positive: Nearly dislodged ROGLIČ on Stage 17 Covatilla despite 24-second deficit, signaling form peak timing capability",
+      "CARTHY Hugh": "positive: Stage win on Angliru plus strong Covatilla ride to secure podium reveals breakthrough Grand Tour climbing capacity",
+      "MARTIN Dan": "positive: Stage win plus fourth overall confirms ability to peak strategically within three-week races despite age",
+      "MAS Enric": "positive: Fifth overall and best young rider despite Movistar team prize focus, suggesting leadership potential being suppressed",
+      "DE LA CRUZ David": "positive: Breakaway success elevated to seventh overall from lower position, indicating late-race opportunism when GC teams relax",
+      "GAUDU David": "positive: Stage 17 win while jumping to eighth overall demonstrates ability to combine breakaway tactics with GC climbing",
+      "BENNETT Sam": "neutral: Won Madrid sprint after two-month Tour-Vuelta campaign, durability confirmed but peak sprint speed unknown",
+      "VALVERDE Alejandro": "neutral: Battled to maintain 10th overall on final mountain, suggests declining Grand Tour competitiveness at advanced age"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:43:55.850095+00:00"
+}

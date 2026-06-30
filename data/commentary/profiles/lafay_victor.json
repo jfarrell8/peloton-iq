@@ -1,22 +1,26 @@
 {
-  "attacking_style": "Specializes in late, precisely-timed solo attacks inside the final 1-2km, particularly on punchy finishes after controlled climbs. Opportunistic against distracted or sprint-focused teams.",
-  "team_tactics": "Operates with limited team support; relies on other teams (UAE, Jumbo) controlling climbs, then exploits positioning in final kilometer when attention shifts to GC battles or sprint preparation.",
-  "terrain_preference": "Punchy climbs followed by short run-ins to finish; rolling, technical finales where positioning beats pure power. Jaizkibel-type ascents suit better than expected. Struggles less on power climbs than typical sprinters.",
-  "vulnerability": "Requires other teams to control race and expend energy; lacks team firepower for sustained offensive. Sacrifices stage wins for secondary objectives (points classification) when odds unfavorable.",
+  "attacking_style": "Launches late, decisive solo attacks in final 1-3km, particularly effective on punchy uphill finishes and can also succeed on flat sprints with precise timing. Prefers single explosive move over multiple probing attacks.",
+  "team_tactics": "Operates with high autonomy, often exploiting moments when favorites mark each other. Limited evidence of heavy team support, suggesting opportunistic rather than pre-planned setups.",
+  "terrain_preference": "Punchy climbing finishes and final 3km gradients where power-to-weight ratio matters. Can also win flat sprints from reduced groups with well-timed late attacks. Struggles on pure sprint stages against dedicated sprinters.",
+  "vulnerability": "Cannot defend intermediate sprint competitions against pure sprinters (lost green jersey rapidly). Limited domestique support visible, making him reliant on perfect timing rather than controlled leadouts.",
   "key_patterns": [
-    "Final kilometer attacks when peloton distracted by GC/sprint dynamics (2 instances)",
-    "Tactical flexibility: switches from breakaway to sprint points accumulation mid-race",
-    "Punchy climb survival allows positioning advantage over pure sprinters (2+ instances)",
-    "Opportunistic racing against stronger teams when their focus elsewhere"
+    "Attacks in final 1-3km with single decisive move (3 documented wins/podiums)",
+    "Succeeds on punchy uphill finishes requiring explosive acceleration (Tirreno evidence across 2 years)",
+    "Times attacks when favorites engage each other, exploiting tactical gaps (2022 Tirreno podium)",
+    "Breakthrough performances in stage races rather than one-day events (Giro, Tour wins)",
+    "Can catch and drop breakaway companions on final climbs (Giro 2021 solo victory)"
   ],
-  "form_trajectory": "positive: breakthrough Tour stage win, matched Roglič on punchy climbs, showing improved climbing range and tactical maturity in 2023",
-  "races_analysed": 3,
+  "form_trajectory": "neutral: Won breakthrough Tour stage in July 2023 but immediately lost jersey, suggesting peak moments rather than sustained dominance. No recent 2024 data to confirm progression.",
+  "races_analysed": 5,
   "confidence": "medium",
   "rider_name": "LAFAY Victor",
   "built_from": [
+    "2021 Giro d'Italia Stage 8",
+    "2021 Giro d'Italia Stage 8",
+    "2022 Tirreno-Adriatico Stage 4",
     "2023 Tirreno-Adriatico Stage 4",
     "2023 Tour de France Stage 2",
     "2023 Tour de France Stage 2",
-    "2023 Tour de France Stage 3"
+    "2023 Tour de France Stage 4"
   ]
 }

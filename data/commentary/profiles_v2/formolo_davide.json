@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Initiates moves early on climbs, often animating breakaways or attacking on penultimate difficulties rather than waiting for final decisive moments. Lacks explosive power for steep finishing gradients.",
+  "team_tactics": "Used as pace-setter for protected climbers (e.g., Hershey at Pologne) rather than sole leader. Given freedom to animate races early when team has multiple cards to play.",
+  "terrain_preference": "Long, sustained climbs where recent stage-winning form can be leveraged. Struggles on explosive steep finishes (Ans gradient, Strade Bianche finale) and extreme heat conditions.",
+  "vulnerability": "Cannot sustain efforts when races fragment on final climbs. Explosive finishing gradients expose insufficient punch. Extreme heat causes complete collapse after early animation.",
+  "key_patterns": [
+    "Attacks early on climbs but fades when decisive moves occur (3 instances: Lombardia, Strade Bianche, Vuelta)",
+    "Insufficient finishing power on steep gradients despite strong climbing base (2 instances: LBL 2017, 2019)",
+    "Recent stage wins translate to aggressive race animation but not victory (2 instances: Lombardia, LBL 2019)",
+    "Crashes and extreme conditions derail promising GC positions (2 instances: Vuelta crash, Strade heat)"
+  ],
+  "form_trajectory": "neutral: deployed in domestique role for UAE younger talent suggests career shift from personal ambition to team servitude despite previous climbing wins",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "FORMOLO Davide",
+  "built_from": [
+    "2017 Liege-Bastogne-Liege",
+    "2018 Il Lombardia",
+    "2018 Il Lombardia",
+    "2019 Liege-Bastogne-Liege",
+    "2019 Vuelta a Espana Stage 6",
+    "2020 Strade Bianche",
+    "2021 Tour de Pologne Stage 2"
+  ]
+}

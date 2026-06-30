@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Early breakaway specialist who commits to long-range moves, showing ability to persist when others fade on selective Ardennes-type terrain with punchy climbs rather than sustained gradients.",
+  "team_tactics": "Operates with autonomy in breakaways; no evidence of heavy domestique support or lead-out trains. Tactical freedom suggests opportunistic role rather than protected status.",
+  "terrain_preference": "Selective Ardennes circuits with repeated punchy climbs where climbing strength differentiates from pure endurance riders. Struggles when peloton neutralizes efforts before key terrain.",
+  "vulnerability": "Exposed when breaks are caught before decisive moments, leading to wasted energy expenditure. Wind splits and high-tempo peloton control can nullify his early aggression before selective terrain arrives.",
+  "key_patterns": [
+    "Commits to early breakaways requiring sustained efforts over multiple hours",
+    "Outperforms pure endurance riders on selective climbing terrain despite GC focus",
+    "Vulnerable to peloton-controlled catch scenarios that drain energy before decisive moments"
+  ],
+  "form_trajectory": "unknown: 2023 effort failed tactically but 2021 showed strong breakaway survival; insufficient recent data for trend",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "RICKAERT Jonas",
+  "built_from": [
+    "2021 Benelux Tour Stage 4",
+    "2021 Benelux Tour Stage 4",
+    "2023 Tour de Romandie Stage 4"
+  ]
+}

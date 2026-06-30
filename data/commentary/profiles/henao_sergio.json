@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Targets steepest gradient sections of climbs to maximize physiological advantage, typically launching decisive moves on final categorized ascents. Demonstrates precision timing rather than sustained long-range attacks.",
+  "team_tactics": "Sky deploys dual-protection strategy, placing him in breaks while maintaining peloton control. Receives strong defensive support when in race lead, with team controlling tempo even without numerical superiority on final climbs.",
+  "terrain_preference": "Steep gradient climbs where power-to-weight ratio is decisive. Thrives in stage races with multiple categorized climbs in finale. Capable in uphill time trials based on positioning strategy.",
+  "vulnerability": "Requires team defensive structure when protecting slim GC margins (2-second defense needed desperate chase). Limited evidence of ability to win without Sky's controlling infrastructure.",
+  "key_patterns": [
+    "Attacks on steepest gradient sections specifically, not summit finishes (3 observations)",
+    "Sky uses him in dual-GC tactics, placing in breaks while controlling peloton (2 observations)",
+    "Positions tactically for bonus seconds and sprint finishes to defend GC leads (2 observations)",
+    "Defends race leads under maximum pressure with minimal domestique support successfully (2 observations)",
+    "Targeted by rivals as closer GC threat warranting immediate response over distant contenders (2 observations)"
+  ],
+  "form_trajectory": "negative: 2019 observation shows attacking but failing to make winning move, contrasting with 2017 dominance and race victory at same event",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "HENAO Sergio",
+  "built_from": [
+    "2017 Paris-Nice Stage 3",
+    "2017 Paris-Nice Stage 6",
+    "2017 Paris-Nice Stage 6",
+    "2017 Paris-Nice Stage 6",
+    "2017 Paris-Nice Stage 7",
+    "2017 Paris-Nice Stage 7",
+    "2017 Paris-Nice Stage 8",
+    "2017 Paris-Nice Stage 8",
+    "2017 Paris-Nice Stage 8",
+    "2017 Tour de France Stage 8",
+    "2017 Tour de France Stage 8",
+    "2019 Paris-Nice Stage 4"
+  ]
+}

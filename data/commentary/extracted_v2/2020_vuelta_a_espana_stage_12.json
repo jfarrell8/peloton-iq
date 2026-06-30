@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-01",
+  "stage": 12,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CARTHY Hugh soloed to victory on Angliru after CARAPAZ Richard attacked to take red jersey from ROGLIC Primoz by 10 seconds.",
+    "winner": "CARTHY Hugh",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARAPAZ attacked precisely late enough to gain jersey but not destroy ROGLIC completely (10s gap), preserving team dynamics.",
+      "MOOS Enrique's long-range aggression created platform for CARTHY's stage win, showing domestique/leader separation tactics on Angliru.",
+      "WELLS Guillaume positioned in early breakaway suggests Lotto deliberately hedging GC riders across multiple groups on mountain stages."
+    ],
+    "rider_signals": {
+      "CARTHY Hugh": "positive: First GT stage win on Angliru with 16-second margin over chasers shows emergence as legitimate GC climber",
+      "ROGLIC Primoz": "negative: Lost jersey defending rather than attacking, commentary suggests Tour TT weakness now systemic concern",
+      "CARAPAZ Richard": "positive: Calculated attack to take jersey without burning bridges, closed to CARTHY within 800m before fading tactically",
+      "VLASOV Aleksandr": "positive: Finished second on stage, moved into top 10 GC, rode independently of team leader dynamics",
+      "SOLER Marc": "positive: Moved to 6th GC despite difficult conditions, commentary notes sustained march through standings",
+      "MOOS Enrique": "positive: Long-range attack facilitated others' success while extending white jersey lead to near-insurmountable margin"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:29:42.011345+00:00"
+}

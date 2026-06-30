@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-14",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR defended yellow on Col de Portet, responded to CARAPAZ attack with 200m to go, extended GC lead to 5:39 over URÁN",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARAPAZ attacked final 200m but POGAČAR still had reserves to counter, revealing GC contenders completely spent earlier.",
+      "VINGEGAARD suffered on CARAPAS move but recovered to finish second, showing better resilience than other podium threats.",
+      "WOUT VAN AERT targeting KOM points on double-category climbs, calculating 50-point haul could flip polka dot classification."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Ninth yellow jersey day, responded to late CARAPAZ attack with reserves still available after Col de Portet",
+      "CARAPAZ Richard": "positive: Only rider capable of forcing POGAČAR to respond in final 200m, moved to third overall",
+      "VINGEGAARD Jonas": "neutral: Suffered on CARAPAZ attack but recovered for second, maintains podium distance at 5:39",
+      "VAN AERT Wout": "positive: Targeting early breakaways on mountain stages to contest KOM, only 11 points behind POELS with two climbs remaining",
+      "URÁN Rigoberto": "negative: Dropped to fourth overall, losing podium to CARAPAZ, gap widening to 5:39 behind",
+      "KRUIJSWIJK Steven": "negative: First Tour abandon in career despite 2019 third place, JUMBO-VISMA losing GC depth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:51:48.518494+00:00"
+}

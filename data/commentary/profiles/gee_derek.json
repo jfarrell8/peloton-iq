@@ -1,19 +1,31 @@
 {
-  "attacking_style": "Launches decisive attacks inside the final 1500m, targeting late-race positioning. Demonstrates sprint-from-breakaway capability rather than long-range moves.",
-  "team_tactics": "Limited data on team setup, but rider appears positioned for finale opportunities rather than relying on heavy domestique support for sustained attacks.",
-  "terrain_preference": "Stages with reduced bunch finishes where positioning and late acceleration matter more than pure sprint power. Thrives in scenarios allowing tactical late moves.",
-  "vulnerability": "Lacks ultimate finishing acceleration to convert strong positioning into victories - three second-place finishes suggest consistent gap between podium placement and winning kick.",
+  "attacking_style": "Launches attacks inside final 1500m, often going too early (multiple instances of premature acceleration). Prefers breakaway stage hunting over bunch sprints, consistently targeting intermediate mountain stages rather than summit finishes.",
+  "team_tactics": "Israel Premier Tech provides limited cohesive support — riders forced to chase separately rather than working as unit. GEE animates races independently, suggesting aggressive brief rather than protected leader role.",
+  "terrain_preference": "Intermediate mountain stages and breakaway-friendly parcours suit him best. Exposed on summit finishes (caught by BUITRAGO, unable to close mountain stages alone) and in direct sprint competitions against specialists.",
+  "vulnerability": "Chronic inability to convert final 200m despite strong positioning — three consecutive runner-up finishes at 2023 Giro. Vulnerable when directly marked by specialists, and makes poor tactical decisions (chasing symbolic KOM points instead of stage win).",
   "key_patterns": [
-    "Attacks decisively inside final 1500m, establishing pattern of late-race aggression (2 observations)",
-    "Consistently reaches podium positions but struggles to close for victory (3 second places)",
-    "Strong tactical positioning throughout stage races, reliably in contention at finale"
+    "Attacks too early inside final 1500m, allowing opponents to conserve for sprint (minimum 2 instances)",
+    "Consistent second-place finishes without win conversion — three consecutive podium misses at 2023 Giro",
+    "Prioritizes secondary competitions over stage wins, marked PINOT for meaningless KOM points while in winning position",
+    "Excels at breakaway selection timing but lacks team support to capitalize on positioning",
+    "Strong stage-hunting form across Grand Tour but cannot close summit finishes alone"
   ],
-  "form_trajectory": "neutral: Strong consistency with multiple podiums at 2023 Giro, but inability to convert positioning into wins suggests plateau at near-victory level",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: Consistently animated 2023 Giro with multiple top-5s and breakaway placements, but chronic finishing deficiency unchanged despite repeated opportunities",
+  "races_analysed": 10,
+  "confidence": "high",
   "rider_name": "GEE Derek",
   "built_from": [
+    "2023 Giro d'Italia Stage 10",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 18",
     "2023 Giro dItalia Stage 10",
-    "2023 Giro dItalia Stage 14"
+    "2023 Giro dItalia Stage 13",
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 19",
+    "2023 Giro dItalia Stage 19",
+    "2023 Giro dItalia Stage 21",
+    "2023 Giro dItalia Stage 21",
+    "2023 Giro dItalia Stage 8",
+    "2023 Paris-Roubaix"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Insufficient data to determine clear attacking pattern. Positioned as GC asset rather than aggressive attacker based on available observations.",
+  "team_tactics": "Team commits significant resources with multiple riders protecting him in critical splits, willing to sacrifice pure sprinters (Jakobsen) to prioritize his GC ambitions over stage hunting.",
+  "terrain_preference": "Protected through climbs as GC asset, suggesting capability on moderate climbing terrain. Vulnerable in technical sprint finishes with tight chicanes where positioning can be compromised.",
+  "vulnerability": "Susceptible to aggressive lateral movement in technical sprint finishes; can be squeezed wide and lose positioning in confined spaces with narrow infrastructure.",
+  "key_patterns": [
+    "Team deploys 4+ riders to protect in decisive splits, high resource commitment (2 observations)",
+    "Prioritized over dedicated sprinters when GC opportunities emerge, clear team hierarchy (2 observations)",
+    "Struggles with spatial awareness in technical finishes, positioning compromised under pressure (1 observation)"
+  ],
+  "form_trajectory": "neutral: Limited timespan (one month) shows GC-focused role emerging, but insufficient recent data for trajectory assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PEDERSEN Casper",
+  "built_from": [
+    "2019 BinckBank Tour Stage 2",
+    "2019 Vuelta a Espana Stage 17",
+    "2019 Vuelta a Espana Stage 17"
+  ]
+}

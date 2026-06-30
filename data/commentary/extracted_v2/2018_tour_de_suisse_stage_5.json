@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Suisse Stage 5",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-13",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won from a reduced peloton sprint after late crash took down lead-out trains with 250m remaining",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trentin exploited Bora-Hansgrohe's leadout with only two riders, sitting on their train until 200m marker rather than organizing own.",
+      "Dillier swept all four KOM climbs from breakaway specifically to secure classification, showing targeted classification hunting over stage ambitions.",
+      "Sky controlled 212km stage despite wet conditions to protect slim 9-second GC lead, indicating defensive posture prevailed over attacking."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Successfully timed sprint opening just before 200m after parasiting larger team's leadout, showing tactical patience from two-rider team",
+      "ACKERMANN Pascal": "negative: Bora-Hansgrohe deployed full leadout train but lost stage despite numerical advantage, suggesting poor final positioning or timing",
+      "DILLIER Sylvan": "positive: Methodically collected points on all four climbs from breakaway rather than contesting stage, demonstrating classification-focused racing discipline",
+      "MOSKUN Johnny": "neutral: Sky controlled pace defensively for 212km wet stage to protect 9 seconds, prioritizing GC defense over stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:35:41.589287+00:00"
+}

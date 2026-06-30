@@ -1,0 +1,29 @@
+{
+  "label": "2018 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-28",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KING Ben won from a 10-minute breakaway on a 12km climb after forcing selections while ROLLAND Pierre did too much chase work and faded.",
+    "winner": "KING Ben",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KING Ben pre-selected this stage from route book, rode climbing bike not aero, forced breakaway fragmentation before final climb.",
+      "Team Sky failed to control despite KWIATKOWSKI Michał in leader's jersey, appeared without GC depth or three-week plan.",
+      "YATES Simon counter-attacked after Lotto setup pulled back LÓPEZ Miguel Ángel, exploiting Sky's isolation of KWIATKOWSKI.",
+      "BUCHMANN Emanuel now second overall with strong GC support (MAJKA, FORMOLO), potentially widest-open Grand Tour post-Sky dominance."
+    ],
+    "rider_signals": {
+      "KING Ben": "positive: Identifies breakaway-friendly stages from reconnaissance, forces selection timing before companions recover.",
+      "ROLLAND Pierre": "negative: Strongest climber in break but exhausted himself dragging group back, attacked too late.",
+      "KWIATKOWSKI Michał": "negative: Team Sky left him isolated in leader's jersey with no domestique support on GC climb.",
+      "YATES Simon": "positive: Counter-attacked brilliantly off Lotto setup, still has Giro-winning form despite later fade there.",
+      "BUCHMANN Emanuel": "positive: Few seconds behind YATES with MAJKA Rafał and FORMOLO Davide supporting, potential breakout Grand Tour.",
+      "BENNETT George": "negative: Failed to respond when YATES attacked despite having KUSS Sepp support riding for him.",
+      "MARTIN Dan": "negative: Already 16 minutes down, clearly using Vuelta as extended training camp for Worlds."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:49:18.985749+00:00"
+}

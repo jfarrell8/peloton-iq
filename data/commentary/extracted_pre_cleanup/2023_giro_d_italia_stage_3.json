@@ -1,0 +1,28 @@
+{
+  "label": "2023 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won bunch sprint after EVENEPOEL Remco took intermediate bonus seconds over ROGLIČ Primož, with MCNULTY Brandon surprisingly dropped on final climb.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL Remco actively contested intermediate sprint bonifications rather than leaving them to pure sprinters, gaining three seconds over ROGLIČ.",
+      "Jayco-AlUla successfully distanced pure sprinters including MILAN Jonathan on penultimate climb despite wet conditions favoring heavy engines.",
+      "PINOT Thibaut attacked twice specifically for KOM points rather than stage victory, revealing classification targeting over stage ambitions.",
+      "MCNULTY Brandon dropped on relatively minor final climb suggests UAE overextended him in opening stages defending yellow jersey."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: First Giro stage win since 2015 after team successfully filtered sprint field on wet climbs",
+      "MCNULTY Brandon": "negative: Unexpectedly dropped on final climb of 213km stage, potential early GC form concerns for UAE",
+      "EVENEPOEL Remco": "positive: Contested intermediate sprint for bonifications despite holding pink, showing aggressive time defense approach",
+      "PEDERSEN Mads": "positive: Recovered from being dropped on climb to contest sprint for second, exceptional diesel engine recovery",
+      "PINOT Thibaut": "neutral: Targeted KOM points exclusively with repeated attacks, first grand tour classification lead in years",
+      "ALMEIDA João": "negative: Caught in wet descent crash, required significant effort to rejoin suggesting vulnerable positioning in rain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:03:43.237904+00:00"
+}

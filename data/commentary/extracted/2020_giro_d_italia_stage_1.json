@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA won the opening time trial by 22 seconds over ALMEIDA, while THOMAS established 32-second gap over main GC rivals including YATES.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALMEIDA held hot seat through most GC contenders' finishes, suggesting Portuguese climbing specialists can excel in short technical TTs.",
+      "THOMAS gained decisive 32-second advantage over YATES on opening 15km TT, revealing unusual early-Giro form disparity between co-leaders.",
+      "Technical crash at 6km from finish shows late-course hazard section severe enough to end GC campaigns before mountains."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: delivered expected win by 22 seconds as world TT champion, confirming pre-race favoritism",
+      "ALMEIDA João": "positive: held hot seat through most GC field as climbing specialist, revealing unexpected TT strength",
+      "THOMAS Geraint": "positive: gained 32 seconds on co-leader YATES and dominated GC group, showing peak early condition",
+      "YATES Simon": "neutral: 13:27 behind winner but only 32 seconds down on THOMAS reveals narrow GC spread despite large time gaps",
+      "FUGLSANG Jakob": "negative: poor time trial combined with team leader crash disaster signals compromised Astana campaign start",
+      "NIBALI Vincenzo": "neutral: middling GC result on home Sicily roads suggests conservative pacing rather than peak form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:23:18.732321+00:00"
+}

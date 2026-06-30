@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 7",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won the sprint after Soudal Quick-Step unexpectedly led with BALLERINI instead of Jakobsen, beating Groenewegen on the line",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step switched from Jakobsen to Ballerini as designated sprinter, suggesting internal team hierarchy shift during stage race.",
+      "DSM's Dainese rode leadout for Meerhoff but jumped for himself, revealing stage 7 freedom for domestiques when GC secured.",
+      "Bauhaus positioned wide at chicane 750m out, demonstrating positioning at technical features matters more than pure speed on circuit finishes."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: doubled stage wins, capitalized on Quick-Step internal confusion and Bauhaus's wide positioning error",
+      "GROENEWEGEN Dylan": "neutral: strong positioning but narrowly beaten, showing Jayco sprint train still competitive without Hayter",
+      "JAKOBSEN Fabio": "negative: Quick-Step rode for Ballerini instead, clear signal of lost confidence or form during race week",
+      "DAINESE Alberto": "positive: podium finish when jumping from leadout role suggests future protected sprinter status at DSM",
+      "BAUHAUS Phil": "negative: went too wide at 750m chicane despite defending this stage last year, tactical regression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:19:05.445855+00:00"
+}

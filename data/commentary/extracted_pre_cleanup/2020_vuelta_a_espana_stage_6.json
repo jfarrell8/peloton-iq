@@ -1,0 +1,33 @@
+{
+  "label": "2020 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-25",
+  "stage": 6,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "IZAGIRRE Ion won after brother IZAGIRRE Gorka stayed 15 seconds clear for 10km allowing Ion to sit in chase group until final climb, while ROGLIČ lost 43 seconds and the lead due to clothing/mechanical issues.",
+    "winner": "IZAGIRRE Ion",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "IZAGIRRE Gorka stayed only 15 seconds ahead for 10km allowing brother Ion to avoid work in chase group until final climb.",
+      "Ineos attacked on wet descent early forcing dangerous conditions; high-risk move that didn't yield immediate advantage but set aggressive tone.",
+      "ROGLIČ lost 43 seconds with apparent clothing/mechanical issue in cold conditions, suggesting inadequate weather preparation cost him race lead.",
+      "CARTHY nearly caught stage winner despite GC responsibility, finishing 38 seconds back reveals strength being masked by team tactics."
+    ],
+    "rider_signals": {
+      "IZAGIRRE Ion": "positive: won stage using brother's breakaway positioning perfectly, superior on final climb to breakaway specialists",
+      "IZAGIRRE Gorka": "positive: tactically sacrificed energy staying barely clear for 10km to shield brother from chase work",
+      "WOODS Mike": "positive: second place from breakaway shows climbing form building after early Vuelta struggles",
+      "CARTHY Hugh": "positive: nearly caught stage winner while managing GC, moved to second overall, clearly strongest climber behind Carapaz",
+      "CARAPAZ Richard": "positive: took race lead gaining 43 seconds on Roglič despite not attacking, managed conditions better",
+      "ROGLIČ Primož": "negative: lost 43 seconds and race lead to clothing/mechanical issue in cold suggests team support or preparation gap",
+      "MARTIN Dan": "negative: dropped to third overall, losing time to Carapaz and Carthy signals declining from opening week form",
+      "COSTA Rui": "positive: third on stage from breakaway shows continued aggressive racing form",
+      "POWER Robert": "positive: fourth place from breakaway, unusually strong climbing performance",
+      "VALGREN Michael": "positive: fifth on stage, atypical strong climbing result suggests good condition",
+      "MARTIN Guillaume": "neutral: challenged for KOM jersey but fell short, tactical focus clear but execution insufficient"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:45:15.521050+00:00"
+}

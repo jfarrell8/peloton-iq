@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who can win from small groups (4 riders or fewer), capable of balancing team duties while positioning for personal success in sprint finishes from reduced groups.",
+  "team_tactics": "Willing to work for team leader's objectives (Van Avermaet GC) while simultaneously pursuing stage wins; exploits bonus second opportunities in intermediate sprints and special segments like golden kilometers.",
+  "terrain_preference": "Excels in Flemish one-day races and stage races with mixed terrain allowing breakaways; strong enough to contribute to breaks while retaining sprint finish. Cobbled classics are target races despite crash vulnerability.",
+  "vulnerability": "Susceptible to crashes in nervous cobbled race positioning, particularly touch-of-wheels incidents in mid-race that can eliminate him from contention before key race-deciding moments.",
+  "key_patterns": [
+    "Wins from small breakaways (4 riders) where he can outsprint remaining companions.",
+    "Targets bonus second opportunities aggressively in stage races, including special segments.",
+    "Crashes in cobbled classics peloton positioning, eliminating him from contention mid-race.",
+    "Balances team domestique duties with personal ambitions, capable of both roles simultaneously."
+  ],
+  "form_trajectory": "unknown: significant gap between 2019 winning form and 2022 crash; insufficient recent data to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "NAESEN Oliver",
+  "built_from": [
+    "2019 BinckBank Tour Stage 7",
+    "2019 BinckBank Tour Stage 7",
+    "2022 Dwars door Vlaanderen"
+  ]
+}

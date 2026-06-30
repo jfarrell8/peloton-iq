@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Attacks on final climbs from breakaway scenarios, bridging between groups before launching moves that force counter-attacks. Operates from reduced peloton or break rather than GC group.",
+  "team_tactics": "Relies on individual positioning and bonus seconds strategy from early breakaways rather than sustained team support. Opportunistic rather than team-controlled setups.",
+  "terrain_preference": "Medium mountain stages and breakaway-friendly parcours where bonus seconds can be accumulated. Vulnerable on pure summit finishes against specialist climbers.",
+  "vulnerability": "Cannot sustain pace against pure climbers on summit finishes when GC acceleration begins. Red jersey defense collapsed before summit proper, indicating climbing threshold limitations.",
+  "key_patterns": [
+    "Bonus seconds from breakaways critical to GC positioning (2-second margin maintained red jersey)",
+    "Bridging attacks between groups on climbs, often catalyzing winning moves by others",
+    "GC ambitions limited by inability to match climber acceleration on sustained ascents"
+  ],
+  "form_trajectory": "negative: 2019 Vuelta showed GC defense unsustainable against climbers despite early race success",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ROCHE Nicolas",
+  "built_from": [
+    "2017 Tour de France Stage 8",
+    "2017 Tour de France Stage 8",
+    "2019 Vuelta a Espana Stage 3",
+    "2019 Vuelta a Espana Stage 5"
+  ]
+}

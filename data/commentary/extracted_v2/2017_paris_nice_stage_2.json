@@ -1,0 +1,25 @@
+{
+  "label": "2017 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-06",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "COLBRELLI Sonny launched a solo sprint at 200m remaining without team leadout, holding off late lunges from DEGENKOLB and DEMARE.",
+    "winner": "COLBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "COLBRELLI positioned at front without teammates, launching at 200m proves sustainable on stage finish profile when others hesitate.",
+      "BORA's BENNETT shows weakness with grimace during leadout phase, signaling form concerns despite team sprint setup.",
+      "Traditional leadout trains (WAGNER-GROENEWEGEN, PAOLINI-KRISTOFF) neutralized when solo rider commits early from front position."
+    ],
+    "rider_signals": {
+      "COLBRELLI Sonny": "positive: First WorldTour year (Bardiani to Bahrain-Merida) yet strong enough to sustain 200m solo sprint against established sprinters",
+      "BENNETT Sam": "negative: Grimacing during leadout phase despite Bora-Hansgrohe support suggests poor condition or illness",
+      "DEMARE Arnaud": "neutral: Waited in yellow jersey then responded late, showing tactical caution typical of race leader conserving position",
+      "DEGENKOLB John": "neutral: Late lunge nearly successful but positioning earlier in sprint suggests team leadout dysfunction"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:00:09.067646+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2019 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-07",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint finish after early breakaway caught with 4.5km remaining on the only sprinter stage left in the race.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Dimension Data and Mitchelton-Scott paced the singular climb to drop sprinters' leadout trains before finale, tactical innovation.",
+      "Deceuninck-Quickstep positioned for Jakobsen but AG2R work for Bennett dropped their own sprinter, leadout execution failure.",
+      "Van der Sande launched sprint early on uphill finish gaining gap, forcing chasers to drag Bennett into winning position."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: won on uphill finish despite AG2R dropping Jakobsen, shows versatility beyond pure flat sprints",
+      "JAKOBSEN Fabio": "negative: dropped by own leadout team's pace on slight uphill finish gradient, confirms flat-only speed profile",
+      "POGACAR Tadej": "positive: commentary notes 'unstoppable in mountains' pattern after back-to-back performances, momentum signal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:19:04.041635+00:00"
+}

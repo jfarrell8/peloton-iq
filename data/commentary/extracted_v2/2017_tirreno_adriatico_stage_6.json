@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-13",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET Greg attacked final 500m on summit finish circuit, held off SAGAN's sprint by 2 seconds to claim race lead",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Tinkoff put two riders (Gavia, Bennati) in breakaway supporting Sagan, revealing world champion's GC ambitions beyond sprint stages.",
+      "Eight-rider split formed on circuit's finishing ramp with 16-second gap, destroying Movistar's numerical advantage before sprint.",
+      "Van Avermaet attacked inside final 500m rather than opening sprint, exploiting Sagan's hesitation to follow early moves.",
+      "Valverde's Movistar led chase despite no team interest in outcome, suggesting defensive riding to protect others' GC positions."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "negative: Lost despite numerical advantage and lead-out, hesitated when Van Avermaet attacked at 500m suggesting punch-finishing weakness",
+      "VAN AVERMAET Greg": "positive: Timed attack perfectly inside 500m knowing Sagan wouldn't respond early, tactical maturity beyond typical puncheur sprinting",
+      "DUMOULIN Tom": "negative: Lost 4 seconds in finale despite Sunweb numbers, revealing vulnerability on short explosive climbs even at low gradient",
+      "VAN GARDEREN Tejay": "negative: Dropped from top-10 GC entirely on short circuit finish, exposing poor form despite pre-race leadership"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:03:07.142434+00:00"
+}

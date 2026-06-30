@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-16",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DÉMARE Arnaud won after FDJ controlled from 4km out while Kristoff blocked SAGAN off Quickstep's train in the closing meters",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FDJ controlled from 4km out, unusually early but sustained through Bora's counter-move, avoiding typical quick-step ambush",
+      "Kristoff deliberately pushed Sagan into wind off Quickstep train, disrupting his sprint and gifting Démare positioning",
+      "Aqua-Blue Pro Continental team successfully infiltrated every breakaway of tour, revealing aggressive most-combative jersey strategy"
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: perfectly executed wheel-following onto Gaviria after FDJ's risky early leadout held together",
+      "KRISTOFF Alexander": "negative: desperate blocking tactics against Sagan suggest pressure for pre-Tour result rather than confidence",
+      "SAGAN Peter": "negative: freelancing without train resulted in getting blocked and eliminated from sprint contention",
+      "GREIPEL André": "negative: finished 10th, two places behind GC rider Porte, indicating poor pre-Tour form",
+      "MATTHEWS Michael": "negative: finished 10th without leadout, reveals Sunweb lacks sprint organization for split GC/sprint roster",
+      "GAVIRIA Fernando": "neutral: Quickstep's late-race positioning worked perfectly but lost straight drag race to Démare"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:36:05.680547+00:00"
+}

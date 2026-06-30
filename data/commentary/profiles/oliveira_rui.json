@@ -1,19 +1,23 @@
 {
-  "attacking_style": "Not a primary attacker. Functions as a high-speed leadout specialist capable of exceptional acceleration in final kilometers, though lacks finishing punch to contest sprints himself.",
-  "team_tactics": "Deployed as leadout architect for UAE sprints, using unconventional positioning (right-middle rather than traditional trains) to deliver at maximum speed into final meters.",
-  "terrain_preference": "Flat sprint stages where pure wattage and positioning skills maximize effectiveness. Exposed on terrain requiring sustained climbing or tactical finesse in breakaways.",
-  "vulnerability": "Limited ability to control or drop quality sprinters in late-race scenarios. Pure power insufficient without tactical positioning advantages in contested situations.",
+  "attacking_style": "Dual-role rider: as sprinter, uses ultra-long 500m leadouts with late acceleration to exploit momentum differentials. In breakaways, attacks early to force selections and thin weak riders from large groups.",
+  "team_tactics": "Functions as lead-out specialist for UAE with exceptional spatial awareness in finishes, identifying optimal positioning contrary to conventional wisdom (middle-right vs left on curves). Operates with minimal visible team support in breakaway scenarios.",
+  "terrain_preference": "Flat sprint finishes where long sustained leadouts create momentum advantages over traditional positioning-based trains. Capable on selective stages where early aggression can shed weaker breakaway companions.",
+  "vulnerability": "Timing in breakaways—showed awareness of own limitations when unable to match superior attackers like Cort. May lack punch for very short, explosive sprint finishes requiring pure positioning over momentum.",
   "key_patterns": [
-    "Exceptional leadout speed delivery for UAE sprinters through non-traditional positioning (2023).",
-    "Accelerations fail to distance quality opposition without positional advantages (2021, 2023).",
-    "Functions as tactical architect rather than finisher in sprint setups."
+    "Deploys 500m+ leadouts, unusually long compared to standard trains, twice documented as race-winning tactic",
+    "Identifies non-conventional positioning advantages in sprint finishes, middle-right over left on curves (2 instances)",
+    "Uses early attacks in breaks to force selection and eliminate weaker riders preemptively",
+    "Demonstrates self-awareness of limitations, attacking strategically rather than following stronger finishers"
   ],
-  "form_trajectory": "positive: 2023 Vuelta showed refined leadout execution with tactical innovation, suggesting evolution into specialized high-level domestique role",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "positive: 2023 Vuelta showed elite-level leadout execution and advanced spatial intelligence, suggesting evolution into specialized sprint train asset",
+  "races_analysed": 3,
+  "confidence": "medium",
   "rider_name": "OLIVEIRA Rui",
   "built_from": [
     "2021 La Vuelta ciclista a Espana Stage 19",
-    "2023 La Vuelta Ciclista a Espana Stage 12"
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 12",
+    "2023 Vuelta a Espana Stage 12",
+    "2023 Vuelta a Espana Stage 12"
   ]
 }

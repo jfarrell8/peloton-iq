@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-07",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won solo after surviving twice up Mont Ventoux, dropped peloton on first ascent, extended lead on descent to Malaucène finish.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE attacked early Cat-4 climb to establish breakaway despite being world champion, revealing aggressive teams seed breaks early.",
+      "VAN AERT dropped GC contenders on first Ventoux ascent then extended advantage on technical descent, reversing typical climbing-descending dynamics.",
+      "VINGEGAARD briefly gapped POGACAR near summit second Ventoux ascension, first crack shown by yellow jersey against Danish climber.",
+      "ELISSONDE/BAKELANTS Trek teammates cooperated chase for second place, showing GC teams willing sacrifice break control for stage placings."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Belgian champion jersey win on double-Ventoux queen stage proves classics specialists can survive HC climbs when motivated",
+      "VINGEGAARD Jonas": "positive: only rider to momentarily gap Pogacar on final Ventoux ascent, signaling climbing parity with defending champion",
+      "POGACAR Tadej": "negative: first visible trouble chasing Vingegaard at Ventoux summit before recovering, shows vulnerability at altitude after long efforts",
+      "ALAPHILIPPE Julian": "neutral: world champion seeding breakaway on Cat-4 then fading reveals tactical role prioritized over personal result",
+      "O'CONNOR Ben": "negative: second place GC dropped 3m56s in single stage, reveals vulnerability on repeated HC climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:50:34.488174+00:00"
+}

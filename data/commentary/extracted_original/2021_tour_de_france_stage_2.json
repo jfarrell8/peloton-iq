@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-27",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL attacked inside 1km on finishing circuit climb, took yellow jersey and stage win ahead of sprint finish",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POEL attacked finishing circuit climb twice for bonus seconds before final kilometer winning move.",
+      "POGACAR and ROGLIC marked each other for bonus seconds while VAN DER POEL exploited gap for yellow jersey.",
+      "INEOS controlled final corner positioning despite having no GC contender in yellow jersey contention."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: took yellow jersey on stage 2 in Tour debut by attacking punchy finish twice for time gaps",
+      "THOMAS Geraint": "negative: lost handful of seconds on finishing circuit alongside Lopez, poor start to GC campaign",
+      "POGACAR Tadej": "neutral: focused on marking Roglic for bonus seconds rather than controlling Van der Poel's stage-winning move",
+      "ROGLIC Primoz": "neutral: matched Pogacar for bonus seconds but both allowed 8-second gap to Van der Poel for yellow"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:32:01.405991+00:00"
+}

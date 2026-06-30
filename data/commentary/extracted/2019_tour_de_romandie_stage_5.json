@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-05",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ won the 16.9km Geneva ITT by 13 seconds over CAMPENAERTS to defend overall lead, extending his advantage to 49 seconds on COSTA.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ beat world hour record holder CAMPENAERTS by 13 seconds in 16.9km, signaling Giro ITT threat.",
+      "GROßSCHARTNER gained 10.5 seconds on THOMAS at intermediate check, revealing form superior to TT reputation.",
+      "CAMPENAERTS crashed first corner of prologue but rebounded to take stage lead, showing recovery resilience patterns."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Dominated stage race with two road wins plus ITT, beating specialist CAMPENAERTS reveals ITT depth beyond climbing.",
+      "THOMAS Geraint": "positive: Made podium by fractions despite losing time to GROßSCHARTNER midway, confirms return to form after inconsistent spring.",
+      "CAMPENAERTS Victor": "positive: Recovered from prologue crash to lead stage temporarily, demonstrates mental resilience under pressure despite losing to ROGLIČ.",
+      "GROßSCHARTNER Felix": "positive: Faster than THOMAS at intermediate and finished 31.7 down on CAMPENAERTS, exceeded expectations for non-specialist.",
+      "COSTA Rui": "positive: Finished 49 seconds down overall in second, strong performance but lacked response to ROGLIČ's TT capability.",
+      "GANNA Filippo": "neutral: Mentioned as former pursuit champion comparing to CAMPENAERTS, no decisive performance data provided.",
+      "BEVIN Patrick": "neutral: Close to unnamed benchmark at finish but no podium, suggesting solid but not exceptional TT execution."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:11:19.079018+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-09",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnaud won sprint after echelon chaos caught Yates, Bilbao, Vivo, and Mica before they regrouped on directional change.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Decuninck-Quickstep and Jumbo-Visma initiated echelons early on flat windswept stage, forcing GC riders into immediate defensive mode.",
+      "Directional course change at 80km allowed scattered GC riders to regroup, neutralizing earlier echelon damage from northern winds.",
+      "Demar sprints only when leadout man Démare present, revealing Groupama-FDJ's dual tactical structure for stage hunting."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: caught behind echelons and required significant time to rejoin, showing poor positioning awareness on windy flat stage",
+      "BILBAO Pello": "negative: caught in echelons despite GC position, questionable wind awareness for Basque climber defending podium",
+      "FULSANG Jakob": "negative: missed first echelon group despite Astana's classics experience, required prolonged chase effort before directional change",
+      "ALMEIDA Joao": "positive: avoided all crashes and echelons while in pink jersey, exceptional positioning for 22-year-old in first Grand Tour lead",
+      "VIVIANI Elia": "positive: won intermediate sprint points over field sprinters, first competitive showing after disappointing early stages",
+      "DEMAR Arnaud": "positive: third win in seven stages with Démare present indicates sprint train functioning at exceptional level"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:16:17.172030+00:00"
+}

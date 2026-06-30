@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 1",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-26",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MILESI Lorenzo (DSM) took red by 0.5s over Movistar as darkness and standing water destroyed favorites' TTT ambitions.",
+    "winner": "MILESI Lorenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM exploited early-start timing advantage: heat-evaporated tarmac gave dry lines before rain intensified for later favorites.",
+      "UAE Emirates abandoned ALMEIDA Joao after bike change rather than waiting, revealing fragile team cohesion under pressure.",
+      "Jumbo-Visma waited for crashed teammates losing 32s, opposite tactic to UAE showing contrasting GC-protection philosophies.",
+      "Movistar separated final 150m losing victory by 0.5s, suggesting inadequate rehearsal of finish protocol."
+    ],
+    "rider_signals": {
+      "ALMEIDA Joao": "negative: UAE abandoned him post-crash/bike-change, signals he's not their protected GC rider",
+      "EVENEPOEL Remco": "negative: livid about darkness/conditions suggests mental fragility when circumstances beyond control",
+      "ROGLIC Primoz": "negative: Jumbo 32s down after waiting for crashed riders shows team vulnerability in technical TTT conditions",
+      "MILESI Lorenzo": "positive: DSM gave him red jersey over Ganna, reveals unexpected team hierarchy decision"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:04:33.154287+00:00"
+}

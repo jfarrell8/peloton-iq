@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Favors long-range, elevation-focused attacks on Cat-1 climbs, often exploiting descents after summit efforts. Shows willingness to go early in breakaways rather than waiting for final-climb sprints.",
+  "team_tactics": "Often operates with limited dedicated support; when racing for GC carries defense burden himself. Has been subordinated to co-leaders (Uran/Carthy 2019), suggesting mid-tier protection priority even when in good form.",
+  "terrain_preference": "Excels on sustained Cat-1 climbs with technical descents to follow. Shows unexpected competence in crosswinds and classics-style racing, but elevation-specific strength is primary weapon.",
+  "vulnerability": "Insufficient explosive power to create separation when marked by top-tier GC riders. Gets dropped when teammates set tempo for co-leaders, revealing climbing ceiling below pure Grand Tour contenders.",
+  "key_patterns": [
+    "Responds immediately to GC attacks on climbs, finishing on podium multiple times (2019, 2022).",
+    "Exploits descents tactically after climb efforts to gain separation from pursuers (Vuelta 2019 win).",
+    "Initiates or joins early breakaways on mountain stages rather than conserving energy (Catalunya, Vuelta).",
+    "Shows GC ambition through bonus sprint collection despite being climber specialist (Vuelta 2019).",
+    "Gets marked and neutralized quickly when attempting moves with stronger teams (UAE Amstel 2022)."
+  ],
+  "form_trajectory": "neutral: 2022 showed podium finishes and aggressive racing at Catalunya, but Amstel marked as insufficient threat. Gap since observations leaves current trajectory unclear.",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "HIGUITA Sergio",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 13",
+    "2019 Vuelta a Espana Stage 18",
+    "2019 Vuelta a Espana Stage 18",
+    "2019 Vuelta a Espana Stage 3",
+    "2019 Vuelta a Espana Stage 5",
+    "2020 Paris - Nice Stage 2",
+    "2022 Amstel Gold Race",
+    "2022 Volta Ciclista a Catalunya Stage 4",
+    "2022 Volta Ciclista a Catalunya Stage 6"
+  ]
+}

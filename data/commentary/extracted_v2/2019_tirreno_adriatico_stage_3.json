@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-15",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the sprint after jumping with 500m to go when the peloton hesitated, beating SAGAN who led out too long.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Viviani won by attacking 500m out when peloton hesitated, not waiting for traditional leadout sprint positioning.",
+      "Quick-Step lost Richeze/Morkov in chaos but Viviani still executed solo jump after using Sagan's wheel through corners.",
+      "Technical right-hand kink 500m from finish caused hesitation that allowed Viviani to launch before normal sprint development."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: demonstrated ability to win 226km stage sprint without full leadout train when identifying peloton hesitation",
+      "SAGAN Peter": "negative: Viviani noted Sagan appears to have weight loss and body problems despite strong technical positioning",
+      "GAVIRIA Fernando": "neutral: present in final sprint positioning but unable to challenge Viviani's early acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:55:29.893813+00:00"
+}

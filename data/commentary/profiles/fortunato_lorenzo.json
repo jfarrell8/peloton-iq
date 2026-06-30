@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Early, aggressive attacks from GC groups on extreme gradients (20%+ slopes). Prefers long-range moves with 2km+ to go rather than late punches, targeting breakaway victories on brutal summit finishes.",
+  "team_tactics": "Operates with limited visible team support in observations. Attacks appear individually initiated rather than team-orchestrated, suggesting freedom to hunt stage wins from breakaways rather than GC protection duties.",
+  "terrain_preference": "Excels on extreme gradients (20%+ slopes) where pure climbing power decides outcomes. Zoncolan-type savage pitches suit his ability to drop experienced breakaway specialists. Struggles when peloton controls tempo on more moderate climbs.",
+  "vulnerability": "Attacks neutralized quickly when peloton/favorites maintain controlled tempo. Lacks support to sustain moves when GC teams respond. Limited ability to force selection when stronger teams dictate pace.",
+  "key_patterns": [
+    "Attacks early from GC groups, often before other favorites commit (2 instances)",
+    "Drops experienced riders on 20%+ gradients in final 2km (breakaway specialist)",
+    "GC attacks consistently neutralized when peloton controls tempo (2 instances)",
+    "Targets Grand Tour stage wins from breakaways rather than GC positioning"
+  ],
+  "form_trajectory": "unknown: Only 2023 data shows attacks being neutralized, but insufficient recent results to determine if 2021 climbing power on extreme gradients remains",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "FORTUNATO Lorenzo",
+  "built_from": [
+    "2021 Giro d'Italia Stage 14",
+    "2021 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 13",
+    "2023 Giro dItalia Stage 13"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking pattern. Single observation shows participation in early breakaway but inability to sustain effort on moderate climbs.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from available observations.",
+  "terrain_preference": "Exposed on sustained moderate climbs (11.6km at 4.1%). Climbing threshold appears insufficient for extended gradient efforts in WorldTour field.",
+  "vulnerability": "Cannot maintain pace on sustained climbs of moderate gradient (4%+) over 10+ kilometers. Early endurance/threshold limitations in multi-hour efforts.",
+  "key_patterns": [
+    "Insufficient repeated patterns: only 1 race observed, cannot establish reliable tactical trends",
+    "Single breakaway attempt unsuccessful due to climbing limitations on moderate gradients",
+    "Threshold power appears inadequate for sustained 4%+ climbs in WorldTour breakaway context"
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to assess trajectory or trends over time",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VERVLOESEM Xandres",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 2",
+    "2022 Criterium du Dauphine Stage 2"
+  ]
+}

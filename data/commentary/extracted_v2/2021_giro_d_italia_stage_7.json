@@ -1,0 +1,24 @@
+{
+  "label": "2021 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-14",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won a headwind sprint after breakaway caught inside 15km, attacking early from the final right-hander with 1.5km remaining.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Block headwind within final 15km prevented late breakaway survival despite modest five-minute maximum gap throughout stage.",
+      "EWAN launched sprint early from sharp right-hander at 1.5km out, suggesting tight corners favor pre-positioning over pure speed.",
+      "EOLO attacks before finale were marked by GC teams despite sprint setup, revealing nervous peloton control on transition stages."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: 50th career win shows ability to time sprint from technical corners, not just pure leadouts",
+      "SAGAN Peter": "neutral: hunting maglia ciclamino points at intermediate sprints rather than contesting stage finish",
+      "CARTHY Hugh": "negative: suffered mechanical inside final kilometers on flat transition stage, poor positioning or equipment issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:40:14.227470+00:00"
+}

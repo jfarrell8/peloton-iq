@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 6",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PETERSON Mads won bunch sprint after break caught inside 200m; CLARK and DEMARCHI caught after waiting too long in final 800 meters.",
+    "winner": "PETERSON Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Clark-Demarchi duo hesitated repeatedly inside 800m despite 33-second gap at 3km, allowing bunch sprint catch.",
+      "Thomas mechanical inside 15km required team time trial through cars, exposing GC vulnerability on disorganized sprint stages.",
+      "Milan prioritized sprint points over stage win, finishing second to consolidate ciclamino rather than launching earlier."
+    ],
+    "rider_signals": {
+      "CLARK Simon": "negative: 36-year-old had winning legs but lost tactical nerve in final 800m by waiting too long",
+      "CAVENDISH Mark": "negative: dropped on first categorized climb due to knee injury from stage 5 crash, unable to contest sprint",
+      "SVENDGAARD Mads Pedersen": "negative: missing from commentary despite sprint finish, suggesting poor form or positioning",
+      "VINE Jay": "negative: losing time on easier stages suggests fragility beyond stage 5 incident",
+      "THOMAS Geraint": "negative: mechanical inside 15km exposed GC risk, needed teammates to pace back through convoy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:45:21.370352+00:00"
+}

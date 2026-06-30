@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-15",
+  "stage": 9,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "DEGENKOLB John won from a three-man breakaway that escaped at 17km, holding off chase group led by Jungels with Sagan and Gilbert.",
+    "winner": "DEGENKOLB John",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "STUYVEN Jasper's early attack pulled DEGENKOLB's chase group clear at 17km, classic teammate sacrifice on cobbles.",
+      "BMC positioned VAN AVERMAET perfectly by having teammates wait mid-race to pace him back after crashes.",
+      "MOVISTAR surprisingly strong on cobbles with QUINTANA marking FROOME's late attack, defying pre-race expectations.",
+      "Multiple mechanicals devastated BARDET's team depth—eight-man rosters left no recovery firepower after third cobble sector."
+    ],
+    "rider_signals": {
+      "DEGENKOLB John": "positive: First win since career-threatening 2016 accident, proves he's regained elite cobbles form",
+      "FULGSANG Jakob": "positive: Strongest GC rider on cobbles, marked as unexpected threat for future bad-weather/technical stages",
+      "BARDET Romain": "negative: Lost 1:28 after multiple flats starting at third cobble sector, team exhausted chasing repeatedly",
+      "URAN Rigoberto": "negative: Lost nearly 3 minutes with slow bike change during breakaway formation, poor team positioning",
+      "QUINTANA Nairo": "positive: Movistar defied expectations by riding cobbles confidently, even marked Froome's late attack",
+      "FROOME Chris": "neutral: Crashed over teammate Moscon's bike but recovered instantly, attacked late despite incident",
+      "VAN AVERMAET Greg": "positive: Kept yellow despite slowing for Froome crash, showed restraint and tactical maturity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:32:53.564734+00:00"
+}

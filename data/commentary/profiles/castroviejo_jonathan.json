@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Does not typically attack for personal gain; when in breakaways, survives through time-trialing strength rather than explosive climbing or late accelerations. Opportunistic rather than aggressive.",
+  "team_tactics": "Elite domestique who executes tempo control and bridging efforts on climbs. Team deploys him in TTTs and as workhorse for leaders. Rarely protected himself, always in service of team hierarchy.",
+  "terrain_preference": "Time trials and TTT formats are his specialty. Can handle moderate mountain climbs when fresh, but sustained steep gradients or multi-day climbing blocks expose limitations.",
+  "vulnerability": "Poor recovery after intense efforts (distanced day after TTT). Struggles when team pace is high but still insufficient for his declining climbing legs. Internal team hierarchy conflicts can neutralize his willingness to work.",
+  "key_patterns": [
+    "Elite TTT performer with consistent top-10 finishes across multiple Grand Tours and stage races.",
+    "Exceptional bridging efforts on climbs when fresh, capable of closing 1:30+ gaps as domestique.",
+    "Recovery issues day-after intense TT efforts; gets distanced even at controlled tempos.",
+    "Can survive long-range breakaways and place well when allowed personal opportunities (2022 Tour).",
+    "Hierarchy-sensitive: refuses to work when team roles unclear (Tirreno 2017 with Jungels)."
+  ],
+  "form_trajectory": "positive: 2023 Dauphine bridging effort and 2022 Tour breakaway result suggest renewed form after 2018 recovery struggles, capable of high-level domestique work in mountain stages",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "CASTROVIEJO Jonathan",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 2",
+    "2018 Criterium du Dauphine",
+    "2018 Criterium du Dauphine Stage 3",
+    "2018 Vuelta a Espana Stage 1",
+    "2018 Vuelta a Espana Stage 2",
+    "2022 Tour de France Stage 9",
+    "2023 Criterium du Dauphine Stage 8"
+  ]
+}

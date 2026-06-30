@@ -1,0 +1,23 @@
+{
+  "label": "2021 UAE Tour Stage 6",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-26",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won bunch sprint in Château after early breakaway with KLUGE and VAN AVERMAET caught inside final 2km",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Strong GC threat ASGREEN in early move forced panic chase despite sprint teams represented, revealing classification anxiety.",
+      "KLUGE/VAN AVERMAET break caught only inside 2km despite sprint representation earlier, showing peloton tolerance risk threshold varies by rider caliber."
+    ],
+    "rider_signals": {
+      "ASGREEN Kasper": "neutral: early move threatened VAN POEL's GC lead enough to force chase response",
+      "GUARNIERI Jacopo": "negative: crashed inside final 2km but uninjured, indicating positioning error in approach",
+      "PHILIPPE Julian": "positive: DECEUNINCK Quick-Step used world champion as final leadout for CAVENDISH, unconventional deployment reveals sprint hierarchy"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:57:08.862873+00:00"
+}

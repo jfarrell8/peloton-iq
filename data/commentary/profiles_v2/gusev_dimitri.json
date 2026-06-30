@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches late, disruptive attacks inside final 2-3km to fragment sprint trains rather than seeking stage victory. Timing prioritizes tactical chaos over personal success.",
+  "team_tactics": "Insufficient data for pattern identification. Single observation shows independent attacking without visible team setup or domestique support.",
+  "terrain_preference": "Flat to rolling sprint stages where late attacks can maximally disrupt organized lead-out trains. Likely ineffective on mountain stages requiring sustained efforts.",
+  "vulnerability": "Attacks appear designed for disruption rather than winning, suggesting insufficient top-end sprint speed or climbing ability to contend for victories when caught.",
+  "key_patterns": [
+    "Late-race attacks at 2km designed to tactically disrupt rather than win stages",
+    "Targets sprint stages where organized teams are vulnerable to late chaos injection",
+    "Timing calibrated to force premature chase responses that fragment lead-out trains"
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to determine trajectory or development",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GUSEV Dimitri",
+  "built_from": [
+    "2017 Tour de France Stage 21",
+    "2017 Tour de France Stage 21"
+  ]
+}

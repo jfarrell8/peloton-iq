@@ -1,0 +1,28 @@
+{
+  "label": "2017 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2017-03-22",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won uphill sprint finish at La Molina after THOMAS Geraint's acceleration with 2km remaining failed to sustain a gap and reset the group.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint attacked with 2km remaining but immediately soft-pedaled, revealing Sky's strategy to fragment rhythm rather than commit sustained efforts early.",
+      "VALVERDE Alejandro positioned behind teammate on final approach, using Movistar leadout to mark MARTIN Dan's early sprint before unleashing superior uphill power.",
+      "CONTADOR Alberto used PANTANO Jarlinson pacemaking on earlier climb sections, revealing Trek's willingness to commit domestiques before final kilometer.",
+      "FROOME Chris unable to respond to THOMAS and KENNAUGH accelerations, signaling below-peak form in first stage race since previous year."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: demonstrated elite uphill sprint power after 5hr stage, marked MARTIN Dan perfectly and kicked decisively in final 200m",
+      "THOMAS Geraint": "positive: strong enough to attack with 2km out but tactically chose fragmentation over sustained effort, showing controlled aggression",
+      "MARTIN Dan": "negative: initiated uphill sprint too early (several hundred meters out), lacked explosive power to hold off VALVERDE in final kick",
+      "FROOME Chris": "negative: dropped by THOMAS and KENNAUGH accelerations, confirmed deliberately under-peak form in season buildup phase",
+      "CONTADOR Alberto": "neutral: positioned well with PANTANO support on earlier climbs but no decisive move attempted on final ascent",
+      "VAN GARDEREN Tejay": "negative: lost 22 seconds on stage finish, unable to stay with select group over final climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:15:12.419554+00:00"
+}

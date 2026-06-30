@@ -1,0 +1,26 @@
+{
+  "label": "2022 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2022-10-08",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 19km remaining on Civiglio, MAAS couldn't distance him in finale, POGAČAR outsprinted at 150m to become only rider to win first two Lombardia appearances",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR attacked 19km out on Civiglio rather than waiting for final climb, forcing MAAS to chase entire finale",
+      "UAE's HARPER did crucial late domestique work enabling POGAČAR's early move while JUMBO lacked similar depth",
+      "LANDA stayed 10-15 seconds back rather than bridging, calculating podium safer than contesting sprint with POGAČAR/MAAS"
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Won sprint despite MAAS launching at 150m, suggesting climbing attacks don't compromise his finish speed",
+      "MAAS Remco": "positive: Multiple attacks couldn't drop POGAČAR but defended second place, 'changed rider in last few weeks' signals late-season peak timing",
+      "LANDA Mikel": "positive: First Monument podium at age 33, tactical maturity to sit at 10-15s gap rather than overcommit",
+      "HARPER Chris": "positive: Departing domestique delivered 'man of the match' pacing on final climbs, UAE depth underestimated",
+      "VALVERDE Alejandro": "neutral: Sixth in final race maintains decade-long top-10 Monument consistency despite retirement timing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:11:40.626720+00:00"
+}

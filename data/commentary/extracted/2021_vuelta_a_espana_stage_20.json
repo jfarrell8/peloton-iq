@@ -1,0 +1,29 @@
+{
+  "label": "2021 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHAMPOUSSIN Clement attacked from breakaway in final kilometer of Alto de Moncalvillo, held off ROGLIC Primoz by 6 seconds",
+    "winner": "CHAMPOUSSIN Clément",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Adam used as sacrifice climber by INEOS to soften peloton for BERNAL counter, tactical asymmetry worth noting",
+      "KROISWIJK Steven cracked on first categorized climb 30+ miles from finish, exposing risk of three-week teammate workload accumulation",
+      "ROGLIC Primoz closed gaps repeatedly instead of letting rivals tire themselves, conserved energy while still limiting GC losses",
+      "CHAMPOUSSIN attacked only in final kilometer after staying invisible in break, demonstrates value of concealing form until decisive gradient"
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: struggled to follow YATES attack on category one climb, rope-a-dope counter failed to create separation",
+      "YATES Adam": "positive: strong enough to attack repeatedly for team despite not being in best form, moved into podium position",
+      "KRUIJSWIJK Steven": "negative: dropped on first major climb 30+ miles out after three weeks support work, durability limit revealed",
+      "LÓPEZ Miguel Ángel": "negative: plummeted out of top five, long time to finish suggests complete collapse on final climbs",
+      "ROGLIČ Primož": "positive: closed every dangerous move including late MOSS attack, still had acceleration to finish second after reactive riding",
+      "HAIG Jack": "neutral: struggled to hold third overall but maintained position, defensive ride rather than offensive capability",
+      "MOSS Enrique": "positive: attacked in final kilometer, rode well but lost podium position shows improved form without winning power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:19:21.345447+00:00"
+}

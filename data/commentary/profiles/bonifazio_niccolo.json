@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Not an attacker; primarily a sprint finisher who capitalizes on reduced bunch scenarios after hard, selective stages of 200+ km. Wins come from positioning in chaotic finishes rather than pure speed.",
+  "team_tactics": "Team provides standard lead-out work but Bonifazio frequently fails to maintain optimal position despite domestique support. Struggles in highly organized sprint finishes, performs better when sprint trains are disrupted.",
+  "terrain_preference": "Hard, selective stages (200+ km) that reduce peloton size but don't eliminate sprinters entirely. Thrives in chaotic, disorganized finishes where positioning deficits matter less. Exposed in pure flat sprints with organized trains.",
+  "vulnerability": "Positioning in chaotic sprints is a critical weakness—often found at back of peloton at 2km despite team support. Crashes on technical/narrow roads. Lacks top-5 acceleration when positioned well.",
+  "key_patterns": [
+    "Wins from reduced bunches after selective stages, not pure sprints (2 examples)",
+    "Chronically poor positioning despite team lead-out work, found at back within 2km (2 observations)",
+    "Performs better when chaos/crashes disrupt organized sprint trains (2 instances)",
+    "Top-10 capable but lacks acceleration to convert good position to top-5 (2 examples)",
+    "Crash-prone on technical roads during crucial race phases (1 abandonment noted)"
+  ],
+  "form_trajectory": "neutral: 2020 win shows capability in selective conditions, but fundamental positioning weaknesses persist across all years observed",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BONIFAZIO Niccolo",
+  "built_from": [
+    "2017 Tour de Pologne Stage 1",
+    "2017 Tour de Pologne Stage 7",
+    "2018 Giro d'Italia Stage 13",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2020 Paris - Nice Stage 5",
+    "2020 Paris - Nice Stage 5"
+  ]
+}

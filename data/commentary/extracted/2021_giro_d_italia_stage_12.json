@@ -1,0 +1,30 @@
+{
+  "label": "2021 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-20",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VENDRAME Andrea soloed to victory from 150m after HAMILTON Chris delivered him to the line from a four-man front selection.",
+    "winner": "VENDRAME Andrea",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NIBALI Vincenzo attacked on descent with CICCONE, forcing INEOS chase despite Moscon crash—descent attacks fractured pink jersey group.",
+      "BRAMBILLA Gianluca and BENNETT George arguing mid-breakaway allowed HAMILTON Chris and VENDRAME Andrea to escape, proving cooperation critical.",
+      "ULISSI Diego presence in break signals AG2R prioritized stage hunting over GC defense despite having protected rider.",
+      "BOUCHARD Geoffrey collected 45 KOM points from break, revealing early-race KOM jersey holders sacrifice stage wins for classification points."
+    ],
+    "rider_signals": {
+      "MÄDER Gino": "negative: crashed early and abandoned, suggesting fragility or injury susceptibility in demanding stage races",
+      "SOLER Marc": "negative: crashed early and abandoned from 11th on GC, major setback for Movistar's podium ambitions",
+      "DE MARCHI Alessandro": "negative: abandoned with broken collarbone and six broken ribs after crash, losing pink jersey",
+      "VENDRAME Andrea": "positive: won from tactical sprint after 212km, showing finisher speed even after maximum-distance stages",
+      "HAMILTON Chris": "positive: attacked solo from four-man group on final climb, demonstrating DSM's ability to animate breakaways",
+      "NIBALI Vincenzo": "positive: attacked on descent gaining seconds on pink jersey group despite INEOS chase, still hunting time",
+      "MOSCON Gianni": "negative: crashed on descent while chasing NIBALI, INEOS depth compensated but individual vulnerability exposed",
+      "CICCONE Giulio": "neutral: attacked with NIBALI but gained minimal time, showing willingness to probe without decisive power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:50:55.469448+00:00"
+}

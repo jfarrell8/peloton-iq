@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-01",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won stage 1 after late regrouping, outsprinting Thomas and Betancur despite struggling on climbs throughout the day",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Thomas attacked 900m out but commitment too early; Betancur wheel-sucking until final 300m neutralized his advantage completely.",
+      "Buchmann hunted intermediate sprint points despite starting 15 seconds down, signaling GC ambition through bonus seconds strategy early.",
+      "Select group formation on lumpy terrain allowed GC riders to contest stage win rather than specialists; climb difficulty overestimated."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: attacked 900m out but couldn't win first race since Tour de France, suggesting post-Grand Tour sprint sharpness issue",
+      "ROGLIČ Primož": "neutral: admitted struggling on climbs but won sprint, indicating recovery form not full strength after Tirreno break",
+      "BETANCUR Carlos": "positive: marked Thomas perfectly in final km despite being only 2 seconds ahead on GC, aggressive defense tactics",
+      "BUCHMANN Emanuel": "positive: chasing intermediate sprint points from 15 seconds down shows confidence in limiting losses on later MTFs",
+      "KÜNG Stefan": "neutral: mentioned as strong for team but absent from finale despite TT prowess suggesting stage profile unsuitability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:01:30.995168+00:00"
+}

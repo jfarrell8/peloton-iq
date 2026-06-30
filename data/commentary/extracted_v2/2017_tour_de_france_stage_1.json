@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint won the 14km Stage 1 time trial by 5 seconds, gaining 12 seconds on Tony Martin in the final 5km through superior pacing rather than cornering aggression.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Thomas gained 12 seconds in final 5km on Martin, revealing pacing superiority matters more than early splits in wet TTs.",
+      "Team Sky's tire choice/pressure optimization produced four riders in top eight, exposing equipment edge over peloton in wet conditions.",
+      "Froome finished 35 seconds ahead of Porte despite similar GC ambitions, sending deliberate message about BMC leadership hierarchy weakness."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: Fastest at intermediate check then accelerated further, indicating exceptional TT pacing discipline under wet conditions",
+      "MARTIN Tony": "negative: Lost 12 seconds to Thomas in final 5km after leading at checkpoint, suggesting either pacing error or equipment disadvantage",
+      "FROOME Chris": "positive: Sixth place, 35 seconds faster than main rival Porte on non-specialist terrain, establishing unexpected time gap on Stage 1",
+      "PORTE Richie": "negative: Lost 47 seconds total, 35 seconds to Froome alone, revealing cautious cornering strategy cost more time than anticipated",
+      "KUENG Stefan": "positive: Second place for BMC at young age marks him as future TT threat, only rider outside Sky to challenge"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:03:31.766619+00:00"
+}

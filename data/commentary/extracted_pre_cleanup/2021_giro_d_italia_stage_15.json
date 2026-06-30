@@ -1,0 +1,29 @@
+{
+  "label": "2021 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-23",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAMPENAERTS attacked repeatedly with RIESEBEEK in final kilometers from breakaway, winning sprint after trading blows within 1km to go",
+    "winner": "CAMPENAERTS Victor",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step sending three riders (CAMPENAERTS, WALSCHEID, WIŚNIOWSKI) to break reveals aggressive redundancy strategy maximizing stage win probability.",
+      "CAMPENAERTS and RIESEBEEK attacking each other rather than cooperating inside 1km demonstrates miscalculation allowing chasers to nearly bridge.",
+      "PUCCIO and GANNA riding front of peloton entire day despite no sprint threat suggests INEOS controlling tempo for GC protection.",
+      "HERMANS, CATALDO, ARNDT chasing as group of three shows coordinated multi-team effort to bridge, nearly successful within final kilometer."
+    ],
+    "rider_signals": {
+      "CAMPENAERTS Victor": "positive: first grand tour stage win after years attempting, proving sprint capability from small breakaway after sustained attacking",
+      "RIESEBEEK Oscar": "positive: matched CAMPENAERTS attack-for-attack in finale, tactical error going 150m out enabled loss but shows strong form",
+      "BUCHMANN Emanuel": "negative: abandoned after large early crash while sitting sixth GC, massive blow to BORA-hansgrohe stage race ambitions",
+      "MOLLEMA Bauke": "negative: keen to chase for stage win per commentary but finished outside top five, suggests poor positioning or fading legs",
+      "NIZZOLO Giacomo": "negative: DNS suggests illness or injury accumulating, significant loss for sprint train leadership",
+      "ARNDT Nikias": "positive: led chasing group of five at finish, DSM showing consistent aggression in breakaway scenarios",
+      "GANNA Filippo": "neutral: rode peloton front entire day for tempo control rather than personal ambition, pure domestique work"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:51:42.909318+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-11",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob attacked with teammate Martin on Plateau de Solon, dropped him with 3km to go, won overall by 10 seconds over PORT Richie in virtual time trial",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MARTIN Dan sacrificed stage win attacking with teammate FUGLSANG to force PORT into isolated chase, textbook team GC defense",
+      "PORT lost yellow jersey on Col de Colombier when isolated without BMC support, FROOME immediately attacked descending alone",
+      "FUGLSANG attacked final climb with ARU/VALVERDE group already 1:15 ahead, forcing PORT into pure time trial mode without reference",
+      "ARU and VALVERDE initial attack on Colombier immediately isolated PORT from all BMC teammates before final climb"
+    ],
+    "rider_signals": {
+      "PORT Richie": "negative: completely isolated from BMC team on penultimate climb, lost GC by 10 seconds despite strong solo chase effort",
+      "FROOME Chris": "positive: immediately attacked on Colombier descent when PORT showed weakness, joined lead group before final climb",
+      "FUGLSANG Jakob": "positive: first road race win for Astana, dropped teammate MARTIN solo with 3km remaining, strong Tour de France threat",
+      "MARTIN Dan": "positive: willing to sacrifice personal stage result attacking with teammate FUGLSANG to defend team GC position",
+      "ARU Fabio": "positive: initial attack with VALVERDE on Colombier immediately broke PORT's team support, enabled tactical coordination with FUGLSANG"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:54:34.076235+00:00"
+}

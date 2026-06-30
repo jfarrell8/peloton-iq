@@ -1,0 +1,26 @@
+{
+  "label": "2023 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-12",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 19km to go on Col d'Èze, distanced GAUDU by 50+ seconds at summit, won stage by 30 seconds",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAUDU attempted bonus second theft at intermediate sprint but backfired, losing 2 seconds to POGAČAR instead of gaining",
+      "YATES attacked same exact climb location as previous year victory, revealing predictable tactical preference that opponents can anticipate",
+      "POGAČAR's team rode tempo via KONRAD to catch break pre-Èze rather than allowing stage hunters freedom, prioritizing stage wins"
+    ],
+    "rider_signals": {
+      "GAUDU David": "negative: attempted intermediate sprint bonus tactic failed, lost time instead of gaining, gap increased 12s to 14s to POGAČAR",
+      "YATES Simon": "neutral: attacked identically positioned to 2022 stage win, suggests limited tactical variation but knows effective move location",
+      "VINGEGAARD Jonas": "negative: 55km from finish described as seemingly too far back to challenge, passive GC defense on decisive climb",
+      "GREGAARD Jonas": "positive: prioritized KOM competition from stage 1, went in early break to secure first three climbs and jersey",
+      "POGAČAR Tadej": "positive: turned final stage into solo time trial with 19km attack, 50-second summit gap shows complete dominance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:52:52.960320+00:00"
+}

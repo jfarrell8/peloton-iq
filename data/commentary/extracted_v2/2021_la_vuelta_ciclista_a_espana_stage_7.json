@@ -1,0 +1,31 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 7",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-20",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "STORER Michael attacked from 29-rider breakaway on final categorized climb, dropped SIVAKOV and VERONA to win solo for DSM.",
+    "winner": "STORER Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM infiltrated breakaway with THREE riders including Bardet, letting Storer conserve while teammates worked before final climb.",
+      "Movistar attacked GC group mid-stage despite 29-rider break holding 5min, revealing aggressive red jersey strategy before Valverde crash.",
+      "PALANCE Jan briefly held virtual red in break but faded, missing jersey by only 8sec as GC group controlled.",
+      "SIVAKOV chain drop on his attack allowed Storer counter, highlighting mechanical risk of early solo moves before final climb."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: DSM tactical discipline allowing him to hide while teammates worked paid off on 14-16% ramps",
+      "ROGLIC Primoz": "neutral: controlled stage despite 29-rider break with multiple GC threats, extended gaps on some rivals",
+      "YATES Adam": "positive: led favorites group home, looks strong contrary to early-race expectations",
+      "VALVERDE Alejandro": "negative: crashed out on descent with shoulder damage mid-Movistar attack, potentially ending career at 41",
+      "SIVIKOV Pavel": "negative: mechanical on his attack proved fatal, faded badly on final climb despite early aggression",
+      "VERONA Carlos": "neutral: reached Storer/Sivakov group late but couldn't match Storer on steep ramps",
+      "PALANCE Jan": "negative: held virtual red but faded on final climbs, missing jersey by 8sec reveals insufficient depth",
+      "LANDER BOUWMANS Lennert": "negative: in breakaway but cracked badly, suggesting form issues",
+      "MARTIN Guillaume": "negative: in breakaway but suffered, concerning for GC ambitions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:45:27.174350+00:00"
+}

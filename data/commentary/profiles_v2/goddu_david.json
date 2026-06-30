@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Launches decisive attacks in 3-4km to go window, excelling on steep uphill finishes where bike-throw timing and explosive power deliver stage wins. Capable of distancing elite fields with mid-distance (3.5km) accelerations.",
+  "team_tactics": "Minimal evidence of team setup; appears to operate independently or with limited domestique support. Leadership claims based on personal attacking aggression rather than team-orchestrated moves.",
+  "terrain_preference": "Steep uphill finishes and short, punchy climbs where explosive power and technical finish skills (bike throws) create advantages. Cold and rainy conditions significantly enhance performance.",
+  "vulnerability": "Time trials represent critical weakness, losing 2+ minutes despite strong TTT capabilities. Gap between team TT skills and individual ITT performance suggests pacing or sustained power limitations.",
+  "key_patterns": [
+    "Attacks in 3-4km window repeatedly: Alto de la Tía (4km), Paris-Nice (3.5km) both successful.",
+    "Exploits technical finish skills: bike throw victory at Dauphiné, 6-second gain on steep gradient.",
+    "Weather-dependent performance: explicitly targets cold/rainy conditions, delivered two Vuelta wins in preferred weather.",
+    "TT vulnerability pattern: dropped 2+ minutes at Dauphiné despite team TTT podium same event."
+  ],
+  "form_trajectory": "neutral: 2023 showed both elite attacking (only matching Pogačar) and severe TT weakness, suggesting punch remains but stage-racing viability compromised",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "GODDU David",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 17",
+    "2020 Vuelta a Espana Stage 17",
+    "2022 Criterium du Dauphine Stage 3",
+    "2022 Criterium du Dauphine Stage 3",
+    "2023 Criterium du Dauphine Stage 4",
+    "2023 Paris-Nice Stage 4"
+  ]
+}

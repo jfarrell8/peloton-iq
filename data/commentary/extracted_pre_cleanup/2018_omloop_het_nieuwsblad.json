@@ -1,0 +1,24 @@
+{
+  "label": "2018 Omloop Het Nieuwsblad",
+  "race_name": "Omloop Het Nieuwsblad",
+  "race_date": "2018-02-24",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VALGREN Michael attacked decisively with kilometers remaining, using tactical nous and power to hold off the chase for his biggest career win.",
+    "winner": "VALGREN Michael",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "VALGREN Michael's solo attack succeeded despite visible chase coordination, suggesting late-race positioning trumps raw pursuit power.",
+      "TRENTIN Matteo actively chased knowing VALGREN's capabilities from shared team history, revealing prior teammate knowledge influences chase commitment.",
+      "VANMARCKE Sep failed to animate despite home advantage, indicating his tactical passivity even in favorable circumstances."
+    ],
+    "rider_signals": {
+      "VALGREN Michael": "positive: executed audacious long-range move with sufficient power reserves to hold chasers",
+      "TRENTIN Matteo": "positive: showed chase awareness and attempted pursuit despite ultimately failing",
+      "VANMARCKE Sep": "negative: tactically passive finish despite being Belgian in home race with strong positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:29:21.114521+00:00"
+}

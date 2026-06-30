@@ -1,0 +1,25 @@
+{
+  "label": "2021 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-10",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked solo on the final climb to Chiroubles with 400m to go, winning by 14 seconds over SCHACHMANN.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERNARD Julian attacked solo from early break on second Mont Brouilly ascent, showing Trek-Segafredo prioritizes stage hunting over GC support.",
+      "BENNETT George set tempo for Jumbo-Visma on first Mont Brouilly climb, revealing team's willingness to control despite Roglič not wearing leader's jersey.",
+      "VLASOV Aleksandr counterattacked after Roglič's move but lacked legs to sustain, suggesting GC contenders waited too long to respond within final 400m."
+    ],
+    "rider_signals": {
+      "DOUBEY Fabien": "negative: King of Mountains jersey holder cracked completely on first Mont Brouilly after successive days of breakaway efforts, nearly missing time cut",
+      "POWLESS Neilson": "negative: struggled badly on second Mont Brouilly while teammates Bennett and Roglič dominated, suggesting Jumbo depth hierarchy clear",
+      "MATTHEWS Michael": "positive: climbed with GC contenders and hunted bonus seconds despite sprinter profile, revealing improved climbing form",
+      "JORGENSON Matteo": "positive: finished sixth overall after midpoint, confirming Ventoux form from Tour de Provence wasn't one-off"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:47:04.208106+00:00"
+}

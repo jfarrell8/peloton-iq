@@ -1,0 +1,31 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-10",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KENNAUGH Peter won from the breakaway on Col de la Croix de Fer, while PORTE Richie dropped FROOME Chris 2km from finish gaining 40 seconds on contenders.",
+    "winner": "KENNAUGH Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PORTE Richie attacked FROOME Chris precisely 2km before finish on final ascent, revealing superior form and specific distance preference.",
+      "CLARKE Simon deployed at front for TALANSKY Andrew by team Cannondale, demonstrating domestique sacrifice pattern for GC protection.",
+      "BOUWMAN Koen targeted intermediate mountain points despite being in breakaway, prioritizing jersey over stage win maximizes classification value.",
+      "KENNAUGH Peter dropped SWIFT Ben before final descent, understanding need to eliminate superior sprinter before technical finish section."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "positive: Dropped FROOME Chris 2km from finish, gaining 40 seconds on all GC rivals including CONTADOR and MARTIN Dan",
+      "FROOME Chris": "negative: Unable to follow PORTE Richie in final 2km, losing 40 seconds suggests suboptimal pre-Tour form",
+      "KENNAUGH Peter": "positive: Soloed to victory after dropping SWIFT Ben on final climb, showing exceptional climbing form",
+      "BARDET Romain": "neutral: Finished fifth, one minute down, but commentary suggests no significant weakening on final climb",
+      "CONTADOR Alberto": "negative: Explicitly mentioned as suffering on final ascent, losing time to PORTE Richie in overall ranking",
+      "MARTIN Dan": "negative: Suffered on final ascent alongside CONTADOR, dropped in overall ranking behind KENNAUGH Peter",
+      "SWIFT Ben": "neutral: Resisted attacks mid-climb but dropped before descent, confirming climbing limitations despite good positioning",
+      "BOUWMAN Koen": "positive: Aggressively collected mountain points from breakaway, demonstrating classification ambition and climbing consistency",
+      "TALANSKY Andrew": "neutral: Attempted solo attack with CLARKE Simon support but bridged back, showing ambition but insufficient power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:56:57.570165+00:00"
+}

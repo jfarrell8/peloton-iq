@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2018-06-09",
   "stage": 6,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "nlE4grpyfP8",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=nlE4grpyfP8",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 86,
+    "raw_chars": 2935,
+    "clean_chars": 2862,
+    "duration_mins": 3.7,
+    "clean_text": "Saturday and the sixth stage of the critérium du dauphiné a rises through the mountains the riders will make their way up to La Casa at height of over 1,800 meters along the way taking on the Monta de Pizan the cold the prey and the court made of hose lon at 110 kilometers a short stage but nonetheless decisive having already been on the attack on Friday Dario Cataldo was once again in the breakaway fighting hard to defend his polka dot Jersey he took the lead at the summit of bazan accompanied by some big names peyot bilbao and warren bar gil were among the group of about 25 survivors in the colder prey the peloton began to break apart under the force of ag2r mundial the rhythm imposed by roman bar de and his teammates proof crippling for nibbly Muskaan fit kotsky and jungles the gap between the group of favorites and the fugitives began to reduce only a minute away from the foot of the cork made of hose launder this third climb saw a change in tactics for ag2r as the french team sent Pierre Latour up ahead to set the pace Team Sky took up the pursuit but surely after the summit the Frenchman managed to get back into the breakaway marshaled in front by Bilbao on the descent bar they pushed on but without success the leaders showed their strength as they began the final climb Adam Yates stepped on the gas halfway up the hill pulling with him Thomas spa day and Martin into a group of four in pursuit of Peru Bilbao but the man from the Basque Country held out and converted his lead all alone Garant thomas confirmed his place among the stronger favorites the British man let himself loose in the last kilometer going in search of second place for his first day with the yellow and blue jersey guarantee omus rode with perfection the british rider conducted his teammates wisely before taking on the other favorites in the last kilometer he might have missed out on the stage victory but the overall is still promising yesterday I had a bad day I paid all the efforts of the of the Giro I was a completely done no energy because people hear much praising me but today I felt with good legs and I wanted to give something to the team because they believed in me they work every day for me for the overall so I want to give a present for a 14 so victory for Peru Bilbao in this sixth stage the Spaniard kept his 21 second lead right to the line followed by guarantee omus and Dan Martin who was himself victorious on Friday a beautiful race also for Roman body who takes fourth place and climbs in the overall ranking which is now dominated by the British men Guerin Thomas and Adam Yates Sunday we'll see the final stage of this 2018 criterium du Dauphine a with 136 kilometers to conquer between UTA and sanjivet it'll be another day spent at altitude with four category one climbs the last day also promises beautiful views of the Alps you",
+    "preview_start": "Saturday and the sixth stage of the critérium du dauphiné a rises through the mountains the riders will make their way up to La Casa at height of over 1,800 meters along the way taking on the Monta de Pizan the cold the prey and the court made of hose lon at 110 kilometers a short stage but nonetheless decisive having already been on the attack on Friday Dario Cataldo was once again in the breakaway fighting hard to defend his polka dot Jersey he took the lead at the summit of bazan accompanied ",
+    "preview_end": "ne followed by guarantee omus and Dan Martin who was himself victorious on Friday a beautiful race also for Roman body who takes fourth place and climbs in the overall ranking which is now dominated by the British men Guerin Thomas and Adam Yates Sunday we'll see the final stage of this 2018 criterium du Dauphine a with 136 kilometers to conquer between UTA and sanjivet it'll be another day spent at altitude with four category one climbs the last day also promises beautiful views of the Alps you"
+  },
+  "status": "transcript_saved"
 }

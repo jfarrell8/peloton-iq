@@ -4,20 +4,13 @@
   "race_date": "2019-06-20",
   "stage": 6,
   "video": {
-    "video_id": "vt3c8zyIA_U",
-    "title": "Tour de Suisse 2019: Inside the Race on Stage 7",
-    "published": "2019-06-21 20:55:45+00:00",
+    "video_id": "vl8srjxacF8",
+    "title": "Tour de Suisse 2019: Stage 7 on-bike",
+    "published": "2019-06-21 18:33:00+00:00",
     "channel": "Velon",
-    "url": "https://youtube.com/watch?v=vt3c8zyIA_U",
+    "url": "https://youtube.com/watch?v=vl8srjxacF8",
     "match_score": 90.0,
     "all_candidates": [
-      {
-        "video_id": "vt3c8zyIA_U",
-        "title": "Tour de Suisse 2019: Inside the Race on Stage 7",
-        "channel": "Velon",
-        "published": "2019-06-21 20:55:45+00:00",
-        "match_score": 90.0
-      },
       {
         "video_id": "vl8srjxacF8",
         "title": "Tour de Suisse 2019: Stage 7 on-bike",
@@ -26,17 +19,24 @@
         "match_score": 90.0
       },
       {
-        "video_id": "_J2F5e_t4iY",
-        "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
+        "video_id": "vt3c8zyIA_U",
+        "title": "Tour de Suisse 2019: Inside the Race on Stage 7",
         "channel": "Velon",
-        "published": "2019-06-17 17:23:18+00:00",
-        "match_score": 80.0
+        "published": "2019-06-21 20:55:45+00:00",
+        "match_score": 90.0
       },
       {
         "video_id": "IaObekNouTs",
         "title": "Tour de Suisse 2019: Stage 7 Highlights",
         "channel": "Velon",
         "published": "2019-06-22 06:46:03+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "_J2F5e_t4iY",
+        "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
+        "channel": "Velon",
+        "published": "2019-06-17 17:23:18+00:00",
         "match_score": 80.0
       },
       {
@@ -47,13 +47,6 @@
         "match_score": 75.22
       },
       {
-        "video_id": "asnH7YoBZp4",
-        "title": "Tour de Suisse 2019: Inside the Race on Stage 9",
-        "channel": "Velon",
-        "published": "2019-06-23 18:29:20+00:00",
-        "match_score": 75.0
-      },
-      {
         "video_id": "kMwGL4haiTE",
         "title": "Tour de Suisse 2019: Inside the Race on Stage 8",
         "channel": "Velon",
@@ -61,10 +54,10 @@
         "match_score": 75.0
       },
       {
-        "video_id": "3t-wS-kclLE",
-        "title": "Tour de Suisse 2019: Stage 9 On-bike action",
+        "video_id": "asnH7YoBZp4",
+        "title": "Tour de Suisse 2019: Inside the Race on Stage 9",
         "channel": "Velon",
-        "published": "2019-06-23 18:02:33+00:00",
+        "published": "2019-06-23 18:29:20+00:00",
         "match_score": 75.0
       },
       {
@@ -75,14 +68,21 @@
         "match_score": 75.0
       },
       {
-        "video_id": "ZH1BkPdqz7c",
-        "title": "Tour of Guangxi 2019: Stage 6 On-Bike Highlights",
+        "video_id": "3t-wS-kclLE",
+        "title": "Tour de Suisse 2019: Stage 9 On-bike action",
         "channel": "Velon",
-        "published": "2019-10-22 11:37:07+00:00",
+        "published": "2019-06-23 18:02:33+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "5WBENFWREtY",
+        "title": "Tour of Guangxi 2019: Stage 6 Highlights",
+        "channel": "Velon",
+        "published": "2019-10-22 07:32:47+00:00",
         "match_score": 74.58
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:transcripts_disabled"
 }

@@ -1,0 +1,29 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-10",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan won a two-up sprint after DUMOULIN initiated the decisive selection early, then PINOT's attacks with 17km to go created the final winning group ahead of isolated GC favorites.",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DUMOULIN forced tempo on penultimate climb despite Giro injury recovery, exploding early break and setting up later selections.",
+      "PINOT attacked at 17km out, creating 9-rider elite group that distanced BARDET, PORTE, MARTIN by 41 seconds through sustained aggression.",
+      "FROOME repeatedly bridged gaps but couldn't follow final accelerations, revealing limited explosive capacity despite diesel strength.",
+      "Group of BARDET/PORTE/MARTIN failed to organize chase despite having numbers, losing 41 seconds through hesitation on rolling finale."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: initiated race-splitting tempo on penultimate climb despite Giro knee injury, showing surprising recovery and willingness to animate",
+      "PINOT Thibault": "positive: launched decisive selection with 17km attack, repeatedly accelerated to test rivals despite pre-race claims of merely testing form",
+      "WOODS Michael": "positive: made crucial bridge to winning group and countered effectively, showing elite positioning instincts on rolling terrain",
+      "YATES Adam": "negative: visibly struggling to hold wheels in winning group, appeared to lack explosive response to accelerations",
+      "FROOME Chris": "neutral: strong enough to bridge gaps but couldn't follow sharpest accelerations, diesel engine without top-end punch",
+      "BARDET Romain": "negative: missed critical PINOT split at 17km, then failed to organize chase group despite having PORTE/MARTIN present",
+      "PORTE Richie": "negative: caught behind decisive move, did most chase work but lost 41 seconds showing tactical isolation and physical limits"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:45:45.258750+00:00"
+}

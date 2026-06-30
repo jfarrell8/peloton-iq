@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-14",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl won from a 15-rider breakaway after bridging an 'impossible' gap to catch RUIT Tiesj and ROCHE Nicolas on the final climb.",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "COSTA Rui's bridge attempt failed despite catching sight of breakaway, revealing exact limit between successful and failed chases on climbs.",
+      "BORA snuffed out BARDET Roman's local-rider attack using Team INEOS pace, showing GC teams sharing policing duties when threats emerge.",
+      "IMPEY bridged 'yawning gap' almost instantly after appearing cooked, suggesting tactical energy conservation before decisive final climb effort.",
+      "RUIT forced to lead final 2km despite inferior sprint, proving weaker sprinter loses two-up even when stronger on climbs."
+    ],
+    "rider_signals": {
+      "IMPEY Daryl": "positive: First Tour stage win after previously only yellow jersey, showed ability to disguise fatigue then bridge decisively",
+      "COSTA Rui": "negative: Solo bridge attempt failed within sight of breakaway, lacks either power or pacing judgment for long chases",
+      "BOASSON HAGEN Edvald": "negative: Dropped from 15-rider breakaway before final climb despite presence, suggests declining climbing ability",
+      "MARTIN Tony": "negative: Dropped from breakaway before finale despite 20km solo chase to join, wasted energy on bridge effort",
+      "BARDET Roman": "neutral: Local attack on final climb immediately marked by INEOS, confirms he's still considered GC threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:17:26.008912+00:00"
+}

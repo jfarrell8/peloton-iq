@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 16",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-06",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won chaotic uphill sprint finish after ROGLIC Primoz crashed tangling with WRIGHT Fred, while leader EVENEPOEL Remco punctured inside 3km",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC initiated pace-making on final ramps despite not being sprinter, using GC acceleration to contest stage finish.",
+      "Punctures inside 3km same-time rule protected EVENEPOEL from time loss, revealing vulnerability management at decisive moments.",
+      "Sprint-capable GC riders contested ramp finish ahead of pure sprinters, showing power-to-weight advantage on 8.3% gradients."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: crashed after contesting sprint finish he instigated, raising durability questions for final week after prior attacking efforts",
+      "EVENEPOEL Remco": "neutral: punctured under 3km but looked fresh crossing line, margin reduced to 1:26 through accumulated attacks not single weakness",
+      "PEDERSEN Mads": "positive: won uphill sprint on 8.3% ramps against GC riders, demonstrating ramp-finishing range beyond pure sprinter profile",
+      "WRIGHT Fred": "neutral: contesting finish when raised knee contact caused ROGLIC crash, showing aggressive positioning on climber-favoring gradients",
+      "ACKERMANN Pascal": "positive: guided to contest steep ramp finish, revealing tactical repositioning as climber-sprinter rather than flat specialist",
+      "GROVES Kaden": "negative: punctured before final climb eliminating sprint opportunity, showing vulnerability to late mechanicals"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:13:29.740071+00:00"
+}

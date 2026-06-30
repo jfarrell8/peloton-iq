@@ -1,0 +1,32 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-11",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 3 sprint after ARCHBOLD Shane delivered a perfectly-timed leadout inside final 1000m, dropping rivals decisively.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ARCHBOLD Shane leadout peaked at 1000m, later than DECLERCQ Tim's for DE KOONING quickstep, proving critical timing advantage.",
+      "QUINTANA Nairo positioned comfortably in sprinter chaos, suggesting GC teams prioritizing front positioning over energy conservation pre-time trial.",
+      "ALAPHILIPPE Julian rescued HODEG Álvaro from boxed position at 1200m, but intervention came too late for sprint setup.",
+      "Trek Segafredo sacrificed VENTURINI Clément instead of MANZIN Lorrenzo leadout, signaling unusual sprint hierarchy experimentation."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Demonstrated superior acceleration when launched from leadout, multiple bike lengths clear suggests peak sprint form.",
+      "ARCHBOLD Shane": "positive: Timed leadout perfectly at 1000m to final 300m, avoided dimension data's premature acceleration error.",
+      "VAN AERT Wout": "neutral: Consistently placed second/third in sprints but lacks decisive acceleration against pure sprinters like BENNETT.",
+      "HODEG Álvaro José": "negative: Boxed badly at 1600m despite team support, suggests poor positioning instincts in chaotic finishes.",
+      "TEUNS Dylan": "positive: Contested intermediate sprint for bonus seconds despite time trial next day, showing aggressive GC defense mentality.",
+      "LUTSENKO Alexey": "positive: Won intermediate sprint and moved up GC, indicating strong form and tactical opportunism.",
+      "GUERREIRO Ruben": "neutral: Committed to long breakaway 25+ minutes down GC, confirming non-contender status this race.",
+      "COLBRELLI Sonny": "negative: Mentioned as protected sprinter but invisible in finale, team tactics ineffective.",
+      "GREIPEL André": "negative: Protected by UAE but absent from final sprint mix, age/form decline evident.",
+      "CORT Magnus": "positive: Well-positioned at 1000m via LUTSENKO wheel, shows sprint adaptability beyond breakaway specialty."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:52:55.175338+00:00"
+}

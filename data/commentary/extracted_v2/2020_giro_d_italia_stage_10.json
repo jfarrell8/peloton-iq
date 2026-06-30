@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-13",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won from a break after 15-month drought, repeatedly following attacks on final climb before solo descent to victory",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates delayed breakaway control until final climbs, allowing 13-second gap over crest to survive descent.",
+      "Ineos sacrificed Vandewalle's breakaway position to pace peloton for sprint points jersey defense against Sagan.",
+      "Sagan's strategy: never initiate on final climb, only follow attacks then solo over top for descent."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: ended 15-month drought by tactically following every attack without leading, suggests renewed climbing ability",
+      "ALMEIDA João": "positive: gained 4-second time bonus finishing with sprint despite being GC leader, opportunistic",
+      "FULGSANG Jakob": "negative: lost over one minute on lumpy stage due to late mechanical, GC ambitions compromised",
+      "BILBAO Pello": "neutral: bridged from peloton to catch breakaway remnants but caught before finish with 5km remaining",
+      "MCNULTY Brandon": "positive: second place moved him to same time as GC leader, UAE showing dual-threat capability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:12:53.394956+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-15",
+  "stage": 6,
+  "channel": "Giro d'Italia",
+  "extraction": {
+    "one_line_summary": "VAN MOER Brent won from a 6:40 breakaway on a circuit finish, outsprinting WÜRTZ SCHMIDT Mads after OLIVEIRA Nelson's leadout faded",
+    "winner": "VAN MOER Brent",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "OLIVEIRA Nelson leading out from 6+ minute break neutralized own sprint, positioning WÜRTZ SCHMIDT second wheel before losing",
+      "WÜRTZ SCHMIDT wearing KOM jersey suggests breakaway riders prioritized intermediate points over conserving sprint energy"
+    ],
+    "rider_signals": {
+      "VAN MOER Brent": "positive: timed sprint perfectly from poor position in long-range break, indicating superior explosive power reserves",
+      "WÜRTZ SCHMIDT Mads": "neutral: strong second from ideal wheel suggests time trial power translates to positioning discipline but lacks punch",
+      "OLIVEIRA Nelson": "negative: tactical error doing full leadout in break context, wasted energy organizing rather than positioning",
+      "BAKELANTS Jan": "neutral: 35-year-old sustained 6:40 gap through circuit racing, aging diesel still viable for long breaks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:06:21.610732+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2017 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-27",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Chris attacked with 500m remaining on Cumbre del Sol finish climb, gapping rivals after SKY controlled final ascent.",
+    "winner": "FROOME Chris",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SKY chased down all breakaway attacks on penultimate climb to preserve energy for team-led final ascent control.",
+      "SOLER Marc and LUDVIGSSON Tobias attempted late bridge from break on Peñón de Ifach, revealing breakaway collapse timing.",
+      "DE LA CRUZ David's counter-attack immediately neutralized by SKY, showing team's willingness to chase even domestique-level moves.",
+      "Final acceleration launched at exactly 500m mark, suggesting pre-race video analysis directly shaped attack positioning."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: First stage win in a year, executed premeditated 500m attack after team reviewed 2015 footage.",
+      "BARDET Romain": "neutral: Initiated early attack on final climb but lacked acceleration to sustain against SKY's tempo.",
+      "CHAVES Esteban": "positive: Only GC rider to limit time loss within 10-second bonus threshold, confirmed strong form.",
+      "WOODS Michael": "positive: Finished with bonus seconds group, showing puncher capacity on short explosive finish.",
+      "DE LA CRUZ David": "negative: Solo attack immediately marked by entire SKY team, indicating opponents view him as threat."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:20:01.083861+00:00"
+}

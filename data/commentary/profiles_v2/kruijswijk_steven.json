@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Not a natural attacker; works best as a steady climber within GC groups rather than launching long-range solo moves. Alpe d'Huez collapse (2018) showed inability to sustain breakaway efforts over extended HC climbs.",
+  "team_tactics": "Positioned as protected GC rider within Jumbo-Visma's multi-leader strategy, but team quickly abandons GC support when early form concerns emerge (2021 Tour). Relies on team tempo control rather than personal aggression.",
+  "terrain_preference": "Performs best on sustained climbs as part of elite GC groups rather than explosive finishes or solo efforts. Final climb positioning shows consistency when in form (matched Quintana/Masse 2018 Vuelta).",
+  "vulnerability": "Extremely susceptible to illness/crashes derailing preparation and in-race form. Harsh weather stages appear particularly problematic. Lacks explosive acceleration for time bonuses, allowing rivals to gain margins on identical climbing performances.",
+  "key_patterns": [
+    "Prone to pre-race/early-race form collapse requiring GC plan abandonment (2021 Tour, 2021 Dauphiné)",
+    "Illness and injury repeatedly compromise Grand Tour participation and performance (4 negative health-related signals)",
+    "Cannot sustain long solo efforts on HC climbs; fades dramatically when isolated (Alpe d'Huez collapse)",
+    "Loses GC positions via time bonuses despite matching climbers physically (2019 Tour fade to 3rd)",
+    "Career trajectory sharply negative post-2019 podium: multiple DNFs and form failures in 2020-2021"
+  ],
+  "form_trajectory": "negative: Sharp decline from 2019 Tour podium to consecutive abandonments and form collapses through 2020-2021. Team no longer investing GC protection.",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "KRUIJSWIJK Steven",
+  "built_from": [
+    "2018 Tour de France Stage 12",
+    "2018 Vuelta a Espana Stage 15",
+    "2019 Criterium du Dauphine Stage 8",
+    "2019 Tour de France Stage 14",
+    "2020 Criterium du Dauphine Stage 4",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Tour de France Stage 17",
+    "2021 Tour de France Stage 7"
+  ]
+}

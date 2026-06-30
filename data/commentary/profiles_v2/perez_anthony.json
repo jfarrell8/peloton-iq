@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data across multiple races to establish clear attacking pattern. Single race shows willingness to engage in KOM sprint battles on categorized climbs.",
+  "team_tactics": "No observable team setup patterns from single race data. Individual efforts in breakaway contexts.",
+  "terrain_preference": "Categorized climbs where raw power and climbing speed are advantageous. Appears capable on sustained gradients requiring sustained threshold output.",
+  "vulnerability": "Insufficient data to identify specific weaknesses. Limited observations prevent tactical vulnerability assessment.",
+  "key_patterns": [
+    "Relies on superior power output over tactical positioning in KOM contests."
+  ],
+  "form_trajectory": "unknown: Single race snapshot from 2020 insufficient to determine trajectory without recent comparative data",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PEREZ Anthony",
+  "built_from": [
+    "2020 Tour de France Stage 3",
+    "2020 Tour de France Stage 3"
+  ]
+}

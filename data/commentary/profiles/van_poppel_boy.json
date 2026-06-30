@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Sprint launches tend to be mistimed and premature, often starting from excessive distance (600m recorded). When properly positioned, shows capacity for top-3 finishes but lacks tactical discipline in timing final acceleration.",
+  "team_tactics": "Poor team positioning is a recurring theme. Domestiques fail to deliver him into optimal final kilometer position, forcing launches from too far back. When protected (as domestique himself in 2023), can deliver results suggesting setup is more critical than raw speed.",
+  "terrain_preference": "Pure flat sprint finishes when protected into final meters. Exposed when teams contest positioning aggressively in technical finales requiring navigation skills.",
+  "vulnerability": "Positioning awareness in chaotic finales; launches prematurely when forced back, allowing better-positioned sprinters to draft and overwhelm. Team struggles with lead-out execution and final kilometer placement.",
+  "key_patterns": [
+    "Premature sprint launches from excessive distance recorded in multiple races (2018 Giro, Poland).",
+    "Poor final kilometer positioning pattern across 2018 races forces suboptimal sprint initiation.",
+    "Can podium when protected by team but team positional execution consistently inadequate.",
+    "Gets boxed or forced back in contested finales, lacking navigation skills to self-position."
+  ],
+  "form_trajectory": "neutral: 2023 podium shows maintained sprint capacity but only when protected as domestique, suggesting core tactical/positioning issues unresolved since 2018",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN POPPEL Boy",
+  "built_from": [
+    "2018 Giro d'Italia Stage 17",
+    "2018 Giro d'Italia Stage 17",
+    "2018 Tour de Pologne Stage 1",
+    "2018 Tour de Pologne Stage 1",
+    "2023 La Vuelta Ciclista a Espana Stage 12"
+  ]
+}

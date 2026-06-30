@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-13",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAUMANN Reto won from a breakaway after surviving multiple attacks in the final 30km, including being dropped with 25km to go before working back.",
+    "winner": "BAUMANN Reto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Break formation took over 15km past first climb, showing teams wanted hard selection before committing riders.",
+      "Ineos controlled gap only when Baumann became virtual maglia rosa, revealing they defend jersey but won't waste energy chasing.",
+      "Multiple late-break attacks (final 30km) from FORMOLO, EVENEPOEL, MOLLEMA created accordion effect that dropped then re-admitted BAUMANN.",
+      "DUMOULIN paced final 3km after being dropped, demonstrating domestique work in break when Jumbo lacked stage wins."
+    ],
+    "rider_signals": {
+      "LOPEZ Juanpe": "positive: Trek-Segafredo controlled peloton through 4000m climbing without GC teammates visible, defending pink competently on terrain harder than some final week stages",
+      "BAUMANN Reto": "positive: recovered from 25km-to-go ejection and still won sprint on 13% gradient finish, showing exceptional resilience under pressure",
+      "DUMOULIN Tom": "neutral: rode as super-domestique in break for Jumbo's stage hunting despite being dropped mid-race, tactical role shift confirmed",
+      "KÄMNA Lennard": "negative: attempted split in pink jersey group near finish but failed, suggesting Bora lacks firepower to isolate Lopez"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:40:38.181825+00:00"
+}

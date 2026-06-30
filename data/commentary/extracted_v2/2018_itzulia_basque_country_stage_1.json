@@ -1,0 +1,25 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 1",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-02",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALA PHILIPPE attacked on the final climb with ROGLIC, dropped QUINTANA on the punchy slopes, then outsprinted ROGLIC after a technical descent.",
+    "winner": "ALA PHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quintana dropped on explosive final climb ramps despite Quick-Step/Lotto-Jumbo leadout confirms pure puncheur advantage over Alpine climbers.",
+      "Quick-Step committed Mas as backup to Ala Philippe revealing dual-card strategy despite solo breakaway partnership with Roglic.",
+      "Sky's Kwiatkowski/Gianni Moscon tempo on penultimate climb (22km out) failed to fragment peloton before decisive final ascent."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "negative: dropped immediately when Ala Philippe/Roglic accelerated on punchy final climb, confirming weakness on explosive terrain versus sustained Alpine efforts",
+      "ROGLIC Primoz": "positive: matched Ala Philippe's decisive attack and descent, forced to lead out sprint, confirms stage racing punch",
+      "MAS Enric": "positive: finished third as Ala Philippe's backup after dual Quick-Step card strategy paid dividends",
+      "BARDET Romain": "neutral: chased on descent for French competition but couldn't close Ala Philippe/Roglic gap"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:23:11.681572+00:00"
+}

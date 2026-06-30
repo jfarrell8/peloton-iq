@@ -1,0 +1,25 @@
+{
+  "label": "2019 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2019-03-09",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian attacked with 2km to go on Monte Sante Marie, dropped FUGLSANG Jakob in final 300m after FUGLSANG's own acceleration failed.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT bridged solo from peloton at 36km to go but emptied himself, instantly dropped when leaders attacked Monte Sante Marie.",
+      "FUGLSANG accelerated first on Monte Sante Marie but ALAPHILIPPE tracked breathing-through-nose, then destroyed him with 300m counter on technical finish.",
+      "ROSA Diego's early Sky move dangerous enough to force full peloton chase, suggesting even weak solo breaks threaten on this course."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: Bridge from peloton to leaders at 36km showed raw power but tactical naivety, left nothing for decisive climb",
+      "FUGLSANG Jakob": "negative: Initiated winning move on Monte Sante Marie but lacked final acceleration, second place despite perfect positioning",
+      "ALAPHILIPPE Julian": "positive: Tracked FUGLSANG's acceleration while breathing through nose, then had reserves for devastating 300m counter",
+      "BENOOT Tiesj": "neutral: Podium repeat at Monte Sante Marie suggests QuickStep can place multiple riders if they ride less aggressively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:55:00.132392+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MILANO Juan Sebastian won flat Stage 12 via OLIVEIRA Rui's spectacular 500m lead-out that caught organized sprint trains off-guard.",
+    "winner": "MILANO Juan Sebastian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "OLIVEIRA Rui's ultra-long 500m lead-out with late acceleration overcame organized trains by exploiting momentum differential over positioning.",
+      "UAE team showed patience waiting until 200m while GROVES Kaden launched from distance, proving speed reserves trump early positioning.",
+      "JANSENS Jimmy neutralized breaks for third consecutive sprint stage, revealing Alpecin's systematic control pattern on flat Vuelta stages."
+    ],
+    "rider_signals": {
+      "MILANO Juan Sebastian": "positive: Won from distance with 200m sprint after waiting maximally long, showing tactical patience rare for sprinters.",
+      "OLIVEIRA Rui": "positive: Delivered best-of-race 500m lead-out winning stage, suggesting unexploited sprint train leadership capability for UAE.",
+      "GROVES Kaden": "neutral: Fastest raw speed but finished second launching early, revealing positioning vulnerability despite green jersey dominance.",
+      "JANSENS Jimmy": "positive: Third successful break neutralization, establishing himself as critical Alpecin flat-stage control rider.",
+      "KUSS Sepp": "neutral: Survived pancake-flat stage in red but visibly nervous before 14,000ft mountain day, suggesting GC pressure mounting."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:31:49.998240+00:00"
+}

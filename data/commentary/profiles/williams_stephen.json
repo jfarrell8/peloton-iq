@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Does not initiate attacks; excels in uphill sprint finishes (sub-1km) after breaks are caught, exploiting positioning when favorites mark each other or underestimate him.",
+  "team_tactics": "Relies heavily on team (e.g., UAE teammates) to control tempo and drive pace on final climbs, while Williams conserves energy and follows wheels until sprint finish.",
+  "terrain_preference": "Punchy uphill finishes and technical circuits where bike-handling and positioning trump pure climbing. Vulnerable when sustained tempo increases on Cat 2+ climbs.",
+  "vulnerability": "Exposed when sustained climbing tempo increases; briefly dropped on Cat 2 climbs before recovering. Struggles to defend race leads through personal effort on harder mountain stages.",
+  "key_patterns": [
+    "Won uphill sprints at both Tour de Suisse and Tour de Pologne (2 wins observed)",
+    "Conserves energy deliberately, follows wheels, contributes minimal chase effort even when holding race lead",
+    "Succeeds via superior positioning in sprint chaos while favorites mark each other (2 instances)",
+    "Defended stage race GC through team tactics and bike-handling, not climbing strength (3 stages)",
+    "Vulnerable on sustained climbs but recovers over summit when pace stabilizes (2 instances)"
+  ],
+  "form_trajectory": "positive: Won first WorldTour race at 26, suggesting late development curve; demonstrated tactical maturity and converted opportunities when positioned correctly across June-August 2022",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "WILLIAMS Stephen",
+  "built_from": [
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Pologne Stage 2",
+    "2022 Tour de Pologne Stage 3",
+    "2022 Tour de Pologne Stage 4",
+    "2022 Tour de Pologne Stage 4",
+    "2022 Tour de Suisse Stage 1",
+    "2022 Tour de Suisse Stage 1",
+    "2022 Tour de Suisse Stage 2",
+    "2022 Tour de Suisse Stage 3",
+    "2022 Tour de Suisse Stage 4",
+    "2022 Tour de Suisse Stage 4"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive solo attacks on steep final climbs (12%+ gradient) with 3km remaining, timing moves before tactical hesitation sets in among rivals.",
+  "team_tactics": "Operates from breakaway positions rather than relying on team support; self-sufficient attacker who reads tactical moments independently.",
+  "terrain_preference": "Excels on steep gradient finishes (12%+) where punchy climbing power creates separation. Short, explosive final climbs suit his style best.",
+  "vulnerability": "Insufficient data to identify clear weaknesses; likely struggles when breakaways are controlled or on sustained steady-gradient climbs lacking tactical inflection points.",
+  "key_patterns": [
+    "Attacks from breakaways on final categorized climbs, not from peloton",
+    "Targets steep gradient sections (12%+) for acceleration rather than moderate gradients",
+    "Times attacks with 3km remaining, exploiting tactical hesitation among breakaway companions"
+  ],
+  "form_trajectory": "unknown: Single observation from 2019 Vuelta provides snapshot of capability but no trajectory data available",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "GUILLEBEAU Philippe",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 12"
+  ]
+}

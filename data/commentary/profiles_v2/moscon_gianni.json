@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Attacks from the bottom of climbs with sustained power efforts, capable of soloing 1-2km ascents. Shows late-race acceleration reserves, particularly in final kilometers of one-day races.",
+  "team_tactics": "Primary role is high-tempo domestique work for team leaders—drills pace on key sectors (gravel, climbs) to set up protected riders. Occasionally inherits GC through team depth rotation rather than individual ambition.",
+  "terrain_preference": "Short punchy climbs (1-2km) where sustained power can create separation. Handles gravel and technical sectors effectively. Late-race cobbled sections suit his speed reserves.",
+  "vulnerability": "Technical descending under pressure—crashed while chasing attacks. Counter-attacks can inadvertently serve rivals rather than isolating them. Individual contribution masked in dominant team contexts.",
+  "key_patterns": [
+    "Attacks from base of climbs, not late acceleration—wins built on sustained efforts (2 instances)",
+    "Elite domestique executing pace-setting on gravel/climbs for team leaders (2 race-critical instances)",
+    "Late-race bridging power in one-day races demonstrates superior speed reserves (2 observations)",
+    "Descending errors under race pressure compromise team tactics and individual results (1 crash)",
+    "Individual impact often invisible when team dominates—contribution masked by Sky/Ineos strength (2 races)"
+  ],
+  "form_trajectory": "neutral: 2021 shows strong domestique execution but descending crash raises questions. Peak form appears mid-season (June 2018) before fatigue sets in.",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "MOSCON Gianni",
+  "built_from": [
+    "2017 Paris-Roubaix",
+    "2018 Criterium du Dauphine Stage 4",
+    "2018 Tirreno-Adriatico Stage 3",
+    "2018 Tour de Suisse Stage 4",
+    "2018 Tour de Suisse Stage 4",
+    "2018 Tour of Guangxi Stage 6",
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 9"
+  ]
+}

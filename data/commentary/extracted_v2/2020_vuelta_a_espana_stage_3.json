@@ -1,0 +1,25 @@
+{
+  "label": "2020 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-22",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "MARTIN Dan attacked inside final kilometer on Laguna Negra category 1 finish, taking 4 bonus seconds to close gap on ROGLIC Primoz to just 5 seconds overall",
+    "winner": "MARTIN Dan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar controlled valley section hunting crosswinds after first cat-3, not Jumbo-Visma, revealing offensive team ambitions beyond stage hunting",
+      "Roglic positioned unusually far back (not in first 10 riders) entering final climb, suggesting fatigue or tactical miscalculation after three brutal stages",
+      "Martin targeted bonus seconds sprint finish knowing summit finish bonuses provide GC opportunities when gaps are small after attritional opening stages"
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: positioned uncharacteristically deep in peloton entering final climb, lost 4 seconds in bonus sprint, now only 5 seconds ahead after controlling race",
+      "MARTIN Dan": "positive: carried Tour de France injury-induced form perfectly into Vuelta home roads, aggressive finish despite three-day accumulated fatigue suggests superior recovery",
+      "CARAPAZ Richard": "positive: moved into solo KOM lead and remains 13 seconds back, showing consistency across varied three-day terrain",
+      "CHAVES Esteban": "negative: suffered bad luck allowing Mas to leapfrog him to fourth overall despite riding well previously"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:31:26.210759+00:00"
+}

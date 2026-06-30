@@ -1,0 +1,27 @@
+{
+  "label": "2018 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-07",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POELS Wout won the 18.4km ITT, taking 16 seconds on ALAPHILIPPE Julian and allowing SÁNCHEZ Luis León to retain yellow by 15 seconds over YATES Simon.",
+    "winner": "POELS Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POELS Wout posted fastest intermediate split then held pressure under wet conditions, suggesting superior technical descending/cornering in rain.",
+      "ALAPHILIPPE Julian took maximum risks but lost 16 seconds, indicating Sky's equipment or position optimization was superior to Quick-Step.",
+      "SÁNCHEZ Luis León ranked 7th in ITT to defend yellow, showing Astana prioritized GC defense over stage hunting."
+    ],
+    "rider_signals": {
+      "POELS Wout": "positive: Second career ITT win reveals unexpected time trial progression for a pure climber, making him genuine GC threat not just domestique.",
+      "ALAPHILIPPE Julian": "neutral: Third place despite maximum risk-taking suggests technical ceiling in wet ITT conditions against specialized engines.",
+      "YATES Simon": "positive: 11th place limiting losses to 5 seconds on SÁNCHEZ shows improved TT discipline compared to historical weakness.",
+      "SÁNCHEZ Luis León": "neutral: 7th place defends yellow but conceded time to multiple GC rivals, indicating vulnerability in longer TTs.",
+      "VAN BAARLE Dylan": "positive: Held fastest time early before specialists finished, confirming Sky depth in ITT beyond primary leaders.",
+      "DE LA CRUZ David": "positive: Posted best time before POELS, signaling Sky's systematic advantage in equipment/pacing protocols for ITT stages."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:30:09.314065+00:00"
+}

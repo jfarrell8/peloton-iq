@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour of Oman Stage 6",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-21",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIZZOLO Giacomo won the final sprint after KRISTOFF Alexander crashed out, while LUTSENKO Alexey defended overall by staying front during sprint chaos.",
+    "winner": "NIZZOLO Giacomo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN HOOYDONCK Nathan used time trial power to extend breakaway gap despite having teammate in peloton protecting GC.",
+      "LUTSENKO Alexey positioned very near front in sprint stages to avoid crashes, revealing GC defense prioritizes placement over energy conservation.",
+      "KRISTOFF Alexander abandoning after crash removed most dangerous sprint threat, allowing secondary-tier sprinters to contest freely."
+    ],
+    "rider_signals": {
+      "NIZZOLO Giacomo": "positive: rebounded from earlier positioning disappointment to win chaotic sprint, showing mental resilience under pressure",
+      "COLBRELLI Sonny": "neutral: had full Bahrain-Merida commitment pulling peloton back but still placed second, suggesting slightly mistimed leadout",
+      "LUTSENKO Alexey": "positive: defended GC by positioning aggressively front in sprint stage rather than trusting team protection",
+      "VAN HOOYDONCK Nathan": "positive: generated enough breakaway momentum via TT strength to stress peloton despite team's GC defense obligations",
+      "KRISTOFF Alexander": "negative: crash abandonment on stage 6 reveals consistency vulnerability even for experienced Tour of Oman veterans",
+      "BOUHANNI Nacer": "negative: unhappy with sprint positioning suggests poor team support or mistimed final approach in chaotic finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:13:52.873655+00:00"
+}

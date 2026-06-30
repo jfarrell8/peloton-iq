@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; operates as a finisher in sprint scenarios rather than initiating moves. Positioned for opportunistic placements when team plans break down.",
+  "team_tactics": "Functions in leadout/support role but team execution appears inconsistent. Positioned well into finales but coordination frequently breaks down in final kilometers.",
+  "terrain_preference": "Flat sprint finishes where positioning matters more than pure power. Struggles when sustained efforts required in final 600m or when pure sprinter watts needed.",
+  "vulnerability": "Exposed when team plans fragment in chaotic finales; lacks closing speed inside final 600m when positioned but isolated. Miscommunication leaves him mid-role between leadout and finisher.",
+  "key_patterns": [
+    "Team tactics break down in finale, leaving him between leadout and finishing roles (2 instances)",
+    "Well-positioned entering final kilometer but fades when extended closing effort required (2 instances)",
+    "Capitalizes on teammate misfortune for opportunistic top-3 finishes rather than planned outcomes (1 instance)"
+  ],
+  "form_trajectory": "neutral: limited recent data, but 2023 shows similar positioning issues as 2018, suggesting role confusion persists",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VAN POPPEL Boy",
+  "built_from": [
+    "2018 Tour de Pologne Stage 1",
+    "2023 La Vuelta Ciclista a Espana Stage 12"
+  ]
+}

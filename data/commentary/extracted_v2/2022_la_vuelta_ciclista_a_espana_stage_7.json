@@ -1,0 +1,26 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 7",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-26",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HARADA Jesus won from a 6-rider break that survived despite Trek's aggression on the central climb, holding 1-minute gap to sprinters on descending finish",
+    "winner": "HARADA Jesus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek Segafredo hammered central climb to drop sprinters but Bennett's team paced him back, forcing Trek to abandon plan.",
+      "Break survived despite 50km tailwind descent because Trek stopped work after failing to shed Bennett on climb.",
+      "BikeExchange and Arkéa chased for Groves/McClay but gave up with 10km remaining when gap stayed above minute."
+    ],
+    "rider_signals": {
+      "HARADA Jesus": "positive: timed sprint perfectly after surviving Trek's tempo on climb, second Spanish Vuelta victory",
+      "WRIGHT Fred": "positive: third place in break sprint after also being in previous stage break, excellent Vuelta form",
+      "BENNETT Sam": "positive: survived Trek's climb ambush via team pacing, extended green jersey lead despite unfavorable parcours",
+      "MERLIER Tim": "negative: dropped on central climb when Trek accelerated, confirming limited climbing range versus other sprinters",
+      "PEDERSEN Mads": "negative: Trek's climb strategy to drop Bennett failed, wasted team energy for only 15-point green jersey gain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:15:44.795862+00:00"
+}

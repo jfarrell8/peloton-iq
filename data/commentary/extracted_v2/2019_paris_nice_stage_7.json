@@ -1,0 +1,26 @@
+{
+  "label": "2019 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-16",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTINEZ Daniel attacked from 12-rider breakaway group on Col de Turini final climb, outsprinted LOPEZ Miguel Angel after dropping YATES Simon",
+    "winner": "MARTINEZ Daniel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky deliberately not represented in 39-rider breakaway, preferring to control from peloton despite GC threat from SCHILLHAMMER.",
+      "YATES Simon attacks first on Turini but three Colombian climbers Lopez/Martinez/Eder neutralize immediately through coordinated pacing.",
+      "MARTINEZ and LOPEZ collaborate to eliminate YATES before final sprint, revealing Colombian national team tactics within trade team structure."
+    ],
+    "rider_signals": {
+      "SCHILLHAMMER Gogl": "negative: dropped from breakaway on penultimate climb despite starting only 2:01 down, insufficient climbing legs when it mattered",
+      "KWIATKOWSKI Michal": "negative: slipped from 2nd to 4th overall, Sky's dual GC strategy failing under sustained climbing pressure",
+      "LANDA Mikel": "neutral: stayed with Martinez/Lopez group on Turini but unable to contest sprint finish against pure climbers",
+      "LEON SANCHEZ Luis": "negative: 2009 winner dropped on final climb, age showing at 35 despite making 39-rider selection",
+      "KELDERMAN Bauke": "negative: unable to follow Martinez/Lopez acceleration despite being in lead group, climbs too steep for his diesel tempo"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:54:11.420675+00:00"
+}

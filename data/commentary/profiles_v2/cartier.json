@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Specializes in early breakaway moves, showing strong ability to dominate in the front group from the opening kilometers rather than late-race attacks.",
+  "team_tactics": "Insufficient data to establish clear team support patterns; appears to operate independently in breakaway scenarios.",
+  "terrain_preference": "Demonstrates strength in breakaway situations across varied terrain, but struggles with technical descents and bunch positioning that lead to crashes.",
+  "vulnerability": "Significant crash tendency in peloton positioning and technical sections; both observed races ended with crashes despite earlier strength in breakaways.",
+  "key_patterns": [
+    "Consistently dominates early breakaway groups before crashing later in stages (2 observations).",
+    "Poor bunch positioning skills lead to crashes under race pressure (2 observations).",
+    "Shows physical strength in breakaways but lacks tactical safety awareness (2 observations)."
+  ],
+  "form_trajectory": "negative: demonstrated physical strength in breakaways but repeated crashes in 2017 indicate serious positioning and bike-handling issues that undermine race performance",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CARTIER",
+  "built_from": [
+    "2017 Tour de Pologne Stage 6",
+    "2017 Tour de Suisse Stage 6"
+  ]
+}

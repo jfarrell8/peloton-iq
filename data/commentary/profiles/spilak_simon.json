@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Early, repeated accelerations to establish solo leads on climbs, but lacks sustained power to hold off fresh chasers. Typically exhausts capacity in single major effort without recovery for subsequent climbs.",
+  "team_tactics": "Limited domestique support evident — relies on individual efforts rather than team-controlled tempo. TTT performances suggest weak team infrastructure (Astana 2018).",
+  "terrain_preference": "Time trials on familiar roads show genuine strength. Struggles on multi-climb stages requiring recovery between efforts. Single sustained climbs better than successive climbing tests.",
+  "vulnerability": "Cannot recover after major breakaway efforts — fades badly on subsequent climbs same day. Vulnerable when caught by fresher riders from chase groups who haven't spent energy earlier.",
+  "key_patterns": [
+    "Multiple early accelerations to gain solo position, but fades when caught (2017, 2019)",
+    "Strong time trial performances, especially on home Swiss roads (2018 Romandie benchmark)",
+    "Single-effort climber without capacity for sustained multi-climb racing (2019 drifted back post-Oberalp)",
+    "Actual GC form masked by poor team support in TTTs (2018 Astana cost 55s)"
+  ],
+  "form_trajectory": "negative: 2019 showed declining recovery capacity and single-effort limitation, drifting backwards after breakaway attempts unlike earlier competitive TT and climbing performances",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "SPILAK Simon",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 4",
+    "2018 Tour de Romandie Stage 3",
+    "2018 Tour de Suisse Stage 8",
+    "2019 Tour de Suisse Stage 9"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Does not initiate attacks; relies on consistent tempo riding to defend GC position. When others attack, responds reactively and matches moves rather than counterattacking.",
+  "team_tactics": "Vulnerable without team support in varied terrain. Lacks domestique protection in critical moments, particularly exposed when isolated before key climbs or in windy conditions.",
+  "terrain_preference": "Pure sustained climbs where he can ride at steady threshold pace. Exposed in crosswinds, technical finales, and when explosive accelerations required on steep gradients.",
+  "vulnerability": "Collapses when fatigued from cumulative GC efforts; loses minutes immediately when pace lifts late in Grand Tours. Crosswinds and technical race situations neutralize climbing strength.",
+  "key_patterns": [
+    "Reactive climber who matches attacks rather than initiating (2019, 2022 observations)",
+    "Requires team support to survive non-climbing challenges like crosswinds (2017, implied 2022)",
+    "Accumulates fatigue in Grand Tours, vulnerable late-race when spent (2022 collapse after earlier efforts)",
+    "Consistently underestimated but lacks explosive finishing power for podium moves (2019 top-5 position)"
+  ],
+  "form_trajectory": "negative: 2022 showed complete collapse when spent from earlier GC efforts, dropping immediately at 5km when pace lifted",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BUCHMANN Emanuel",
+  "built_from": [
+    "2017 Tour de France Stage 16",
+    "2019 Tour de France Stage 15",
+    "2022 Giro d'Italia Stage 20"
+  ]
+}

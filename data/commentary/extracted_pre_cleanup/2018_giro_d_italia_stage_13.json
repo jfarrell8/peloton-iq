@@ -1,0 +1,28 @@
+{
+  "label": "2018 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-18",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won from deep in the bunch after DRUCKER Jempy's 1100m-out attack shattered the sprint trains, forcing late improvisation.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DRUCKER Jempy's 1100m suicide attack forced all leadout trains to abandon structure, benefiting freelancers like VIVIANI.",
+      "Lotto-Jumbo starting sprint at 1500m allowed their train to be disrupted before the critical final 800m zone.",
+      "BONIFAZIO Niccolò positioned at back of bunch with 2km remaining suggests Bora-Hansgrohe misjudged transition from positioning to sprint phase.",
+      "MODOLO Sacha's team EF blocked road left side in final 1200m, deliberately choking positioning lanes for rivals."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: won despite no visible leadout, showing exceptional late positioning instinct when organized trains collapsed",
+      "DRUCKER Jempy": "positive: 1100m attack tactically astute even in defeat, destroyed all rival sprint structures when leadouts most vulnerable",
+      "VAN POPPEL Danny": "negative: Lotto-Jumbo train initiated at 1500m but faded badly, suggesting either rider weakness or team misjudged effort distribution",
+      "BONIFAZIO Niccolò": "negative: still at back of peloton at 2km mark despite teammates working, reveals positioning deficit in chaotic sprints",
+      "BENNETT Sam": "negative: completely invisible in finale despite being among favorites, suggests Bora-Hansgrohe's positioning failure was systemic",
+      "MODOLO Sacha": "neutral: EF Education's blocking tactics worked but MODOLO couldn't capitalize, indicating team tactics outperformed rider form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:23:54.218660+00:00"
+}

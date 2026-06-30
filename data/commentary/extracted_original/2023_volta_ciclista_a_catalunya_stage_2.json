@@ -1,0 +1,28 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-21",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CICCONI Giulio won summit finish at Vall Ter 2000 after CHAVES Jhon attacked viciously on climb, with ROGLIC still leading GC.",
+    "winner": "CICCONI Giulio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BAHRAIN Victorious paced entire climb for LANDA who then couldn't finish, revealing their leader domestique imbalance problem.",
+      "CHAVES attacked solo on steep gradients then sat up to pace ROGLIC, demonstrating team order sacrifice pattern.",
+      "ROGLIC attacked first among GC favorites at 500m, forcing EVENEPOEL wide on final corner which decided podium."
+    ],
+    "rider_signals": {
+      "LANDA Mikel": "negative: Bahrain burned entire team pacing for him on Vall Ter 2000 climb but he could only manage fourth",
+      "CHAVES Jhon": "positive: attacked so violently on climb he distanced everyone, then sacrificed own result to pace Roglic back",
+      "EVENEPOEL Remco": "negative: went too wide on final corner before finish losing podium to Cicconi despite strong climbing",
+      "CARAPAZ Richard": "negative: Ecuadorian champion dropped badly on Vall Ter 2000 despite being protected rider",
+      "ALMEIDA João": "positive: fastest rider up much of mountain, finished fifth at only 27 seconds despite less GC protection",
+      "HAIG Jack": "positive: did sensational pacing work for Bahrain on 2135m altitude climb showing high-altitude strength",
+      "CICCONI Giulio": "positive: positioned perfectly on Roglic wheel to outsprint final corner after Trek lost both Cataldo and Elissonde"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:25:19.340260+00:00"
+}

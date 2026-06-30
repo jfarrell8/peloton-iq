@@ -1,0 +1,24 @@
+{
+  "label": "2018 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-13",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DECLERCQ Yves surprised the peloton by launching a breakaway sprint inside 1.5km, holding off the bunch by seconds after they expected a field sprint.",
+    "winner": "DECLERCQ Yves",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Three-man break attacked inside 1.5km when gap dropped to 23 seconds, exploiting peloton's assumption of inevitable catch.",
+      "VALVERDE forced YATES Simon to chase at inopportune moment near finish, fracturing team pursuit organization before final kilometer.",
+      "DECLERCQ wheelsucked BISTROM's sprint until 200m on uphill finish, converting positioning over raw power when breakaway ally faded."
+    ],
+    "rider_signals": {
+      "DECLERCQ Yves": "positive: Demonstrated sprint craft by waiting until 200m on uphill despite being weaker sprinter than breakaway companion BISTROM",
+      "YATES Simon": "neutral: Marked VALVERDE defensively near finish rather than positioning for sprint, revealing GC priorities over stage hunting",
+      "VALVERDE Alejandro": "negative: Late positioning move disrupted peloton's chase coordination when gap was only 16 seconds inside final kilometer"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:41:25.658568+00:00"
+}

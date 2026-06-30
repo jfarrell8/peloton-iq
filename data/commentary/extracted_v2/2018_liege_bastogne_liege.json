@@ -1,0 +1,26 @@
+{
+  "label": "2018 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2018-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "JUNGELS Bob attacked solo after La Redoute summit, exploited wait-and-see hesitation among favorites, held 20+ seconds to win",
+    "winner": "JUNGELS Bob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT attacked first meters of La Redoute creating chaos that enabled teammate JUNGELS' later winning move.",
+      "Quickstep three-pronged attack (GILBERT early, JUNGELS summit, ALAPHILIPPE marking) paralyzed favorites into inaction during decisive 40km finale.",
+      "JUNGELS exploited post-summit descent of La Redoute when rivals hesitated, gap grew rather than closed in final kilometers."
+    ],
+    "rider_signals": {
+      "JUNGELS Bob": "positive: all-rounder transformed Giro young rider classification form into Monument-winning capability on Ardennes climbs",
+      "NIBALI Vincenzo": "negative: dropped in opening meters of La Redoute despite being pre-race favorite, revealed declining explosive power",
+      "GILBERT Philippe": "positive: tactical sacrifice attack shredded group for teammate despite being potential winner himself",
+      "ALAPHILIPPE Julian": "positive: marked all dangerous moves for fourth place, showing Quickstep had multiple protected cards",
+      "WOODS Michael": "positive: Canadian climber's late attack for second proves WorldTour puncheurs can podium Monuments without team support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:24:22.382738+00:00"
+}

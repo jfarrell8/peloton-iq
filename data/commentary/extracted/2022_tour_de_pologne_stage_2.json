@@ -1,0 +1,23 @@
+{
+  "label": "2022 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-07-31",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "LAENGEN Vegard Stake attacked the break with 18km remaining, gained 10 seconds on the final climb, and won solo by 38 seconds.",
+    "winner": "LAENGEN Vegard Stake",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LAENGEN gained time uphill on final climb despite peloton chasing, revealing rare TT specialist climbing strength under fatigue.",
+      "GC teams Ineos/Bora/QuickStep failed to close 6-minute gap despite combined firepower, suggesting break cooperation trumps disorganized chase.",
+      "Attack launched at 18km, precisely when peloton commitment wavered between stage chase and sprint preparation."
+    ],
+    "rider_signals": {
+      "LAENGEN Vegard Stake": "positive: TT specialist showed unexpected climbing resilience under heat and distance, adding 10s on final climb while under pressure",
+      "WILLIAMS Stephen": "positive: defended yellow jersey successfully despite 6-minute deficit to break, team tactics worked without personal effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:47:07.279511+00:00"
+}

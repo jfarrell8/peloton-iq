@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour de Suisse Stage 6",
+  "race_name": "Tour de Suisse",
+  "race_date": "2017-06-15",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARICHKA Jacopo won his fourth stage via dominant sprint after breakaway featuring CARTIER Adam and CHONGQING Lock was absorbed inside final kilometer.",
+    "winner": "Unable to determine - rider not in roster",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Breakaways consistently absorbed inside final kilometer across multiple stages, suggesting peloton has sprint leadout discipline to time chase perfectly.",
+      "UnitedHealthcare team positioned sprint train but lacked final punch, consistently beaten by better positioned pure sprinters in finale.",
+      "CARTIER Adam repeatedly featured in breakaways but lacked support, suggesting solo breakaway rider reconnaissance rather than genuine win attempts."
+    ],
+    "rider_signals": {
+      "CARTIER Adam": "neutral: Consistently made breakaways across multiple stages but appears to be testing form rather than committed to break success"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T21:13:39.360385+00:00"
+}

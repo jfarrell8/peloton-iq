@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-05",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ARU Fabio attacked alone at 1.5km to go on Planche des Belles Filles, dropped everyone in an oversized gear for first Tour stage win, FROOME Chris took yellow.",
+    "winner": "ARU Fabio",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ARU Fabio's massive gear attack at 1.5km negates power disadvantage, locks legs briefly mid-effort but recovers cadence to finish.",
+      "Team Sky controlled entire Planche des Belles Filles base with six riders yet FROOME Chris couldn't match ARU's acceleration.",
+      "MARTIN Dan's counterattack after FROOME's move exploited PORTE Richie's momentary hesitation, taking bonus seconds.",
+      "YATES Simon attacked pre-finish showing white jersey contenders race aggressively even without GC threat on short HC climbs."
+    ],
+    "rider_signals": {
+      "ARU Fabio": "positive: won in building form (two wins prior two weeks), excels on steep gradients looking light, now genuine GC threat",
+      "FROOME Chris": "negative: uncharacteristically couldn't follow ARU's acceleration despite perfect cadence and team dominance, less sharp than expected",
+      "PORTE Richie": "negative: locked up when MARTIN Dan counterattacked, lost time again to FROOME via bonus seconds, marginal on first mountain test",
+      "YATES Simon": "positive: attacked aggressively near finish, best-looking white jersey contender, climbed strongest of U25 cohort",
+      "QUINTANA Nairo": "neutral: lost expected time on short steep climb, needs longer ascents to compete effectively",
+      "MARTIN Dan": "positive: timed counterattack perfectly after FROOME moved, overtook PORTE for bonus seconds showing tactical sharpness",
+      "KWIATKOVSKI Michał": "positive: pulled massive tempo at base for Sky, will be solid domestique rest of tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:10:42.810865+00:00"
+}

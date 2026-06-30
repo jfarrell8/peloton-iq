@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-09",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won bunch sprint to equal Merckx's 34 stage record after Deceuninck-QuickStep controlled crosswind threats in final 20km",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-QuickStep operated depleted after Declercq crash yet still executed textbook Ballerini-Mørkøv leadout train through technical finale.",
+      "GILBERT attacked 66km out likely to disrupt sprint team organization after crash, forcing reset of peloton control.",
+      "CARAPAZ with KWIATKOWSKI tried right-side crosswind split inside 20km, revealing Ineos willingness to attack GC stability on sprint stages."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: Fourth stage win suggests peak sprint form extends beyond flat finishes to technical, stressful crosswind stages.",
+      "MØRKØV Michael": "positive: Delivered perfect leadout despite depleted team and technical finale chaos, confirms world's best pilot status.",
+      "DECLERCQ Tim": "negative: Crash absence forced Deceuninck to improvise train composition, exposing team's reliance on single road captain.",
+      "COLBRELLI Sonny": "neutral: Contested intermediate sprint for points but failed podium, suggesting green jersey abandonment or form deficit.",
+      "GILBERT Philippe": "neutral: 66km attack reveals continued aggression but failed to prevent sprint outcome or gain meaningful advantage."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:30:40.725143+00:00"
+}

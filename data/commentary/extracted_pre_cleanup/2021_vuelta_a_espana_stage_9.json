@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARUSO Damiano soloed from the breakaway on the Velifique MTF, holding off ROGLIC Primoz by 1:05 while BERNAL Egan cracked badly.",
+    "winner": "CARUSO Damiano",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CARUSO extended breakaway gap to 5:15 before final climb; peloton tempo control error allowed stage-hunting domestique freedom.",
+      "Ineos raised pace on Velifique lower slopes after disliking Jumbo tempo, signaling they wanted selection but lacked firepower to control.",
+      "ROGLIC sprinted for second place finish specifically to collect time bonuses, revealing GC tactical awareness even after stage lost.",
+      "YATES Adam identified as most aggressive with least to lose, suggesting domestique-turned-leader willing to gamble on backfiring attacks."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: cracked badly on Velifique MTF, losing 1:11 to ROGLIC including bonuses, forcing Ineos tactical rethink mid-race.",
+      "ROGLIC Primoz": "positive: controlled MOSS acceleration then out-sprinted him for time bonuses, showing superior explosive finishing power at altitude.",
+      "CARUSO Damiano": "positive: timed solo bridge perfectly to dominate breakaway, held 1:05 gap despite bahrain co-leader LANDA absent, unexpected GC threat.",
+      "MOSS Enrique": "positive: consolidated second overall by matching ROGLIC accelerations, moved to nearly 2:00 behind after stage shakeup.",
+      "YATES Adam": "neutral: repeatedly aggressive but Ineos lacked collective strength to capitalize, best-positioned for high-risk attacks going forward.",
+      "HAIG Jack": "positive: best of rest for Bahrain behind CARUSO, fourth on stage without team support, emerging as unexpected GC option."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:21:11.861024+00:00"
+}

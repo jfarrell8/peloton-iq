@@ -1,0 +1,28 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 2",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-03",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won from a select group after crosswinds split the peloton early, then survived the final climbs alongside ROGLIC, Izagirre, and LANDA.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana drove hard to close the break but failed to capitalize when selection occurred on final climbs, tactical misfire.",
+      "MATTHEWS Michael attacked over final climb despite being sprinter, forcing climbers to respond and fragmenting chase dynamics.",
+      "MASNADA Domenico's attack created space for leader ALAPHILIPPE to sit in, Quick-Step using young rider jersey tactically.",
+      "ROGLIC finished second to ALAPHILIPPE for consecutive days, revealing consistent gap to Frenchman in punchy finishes."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: backed by teammate Masnada's attack before winning from select group, team controlling race with two jerseys",
+      "ROGLIC Primoz": "negative: second to Alaphilippe again suggests tactical disadvantage in explosive finale situations despite similar climbing strength",
+      "MATTHEWS Michael": "positive: attacked final climb as sprinter, signal of exceptional form beyond pure speed",
+      "ASTANA Team": "negative: drove peloton to close break but empty-handed when race split, wasted energy without protected climber in finale",
+      "LANDA Mikel": "neutral: made front selection with brother Gorka, Movistar showing depth but not finishing power",
+      "KONRAD Patrick": "positive: bridged to front quartet late for Bora despite teammate Buchmann being dropped, opportunistic racing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:23:24.990580+00:00"
+}

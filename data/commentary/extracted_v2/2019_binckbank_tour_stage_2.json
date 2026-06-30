@@ -1,0 +1,28 @@
+{
+  "label": "2019 BinckBank Tour Stage 2",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-13",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 2 via patient positioning, dispatching rivals after Jumbo-Visma's leadout fractured when Groenewegen squeezed Pedersen at 200m.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma's leadout collapsed when Groenewegen drifted right, squeezing teammate Pedersen out at 200m, breaking train continuity.",
+      "UAE's Philipsen went absurdly early (300m+), revealing sprint inexperience despite backing up Bennett's wheel throughout final kilometer.",
+      "Bennett deliberately conserved throughout stage after feeling weak at 70km, banking energy deficit of rivals chasing position.",
+      "Six-rider break squandered 1:17 gap battling golden kilometer sprints at 26.5km, dropping advantage to 57 seconds before regaining minute."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: self-diagnosed poor legs at 70km yet still won comfortably, suggesting superior recovery or positioning efficiency over raw power",
+      "PEDERSEN Mads": "negative: squeezed out of Jumbo leadout by teammate Groenewegen at critical 200m mark, losing potential stage victory",
+      "GROENEWEGEN Dylan": "negative: drifted right in sprint finale, compromising teammate Pedersen's positioning despite being in leadout train",
+      "PHILIPSEN Jasper": "neutral: UAE invested heavily in leadout but Philipsen's 300m+ jump reveals tactical immaturity despite consecutive runner-up finishes",
+      "HODEG Alvaro": "negative: positioned well on left at 250m but faded to fifth, protesting Groenewegen's blocking afterward",
+      "TERPSTRA Niki": "negative: wearing race leader jersey but cracked early in sprint, finishing 14th despite early acceleration attempts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:44:08.311908+00:00"
+}

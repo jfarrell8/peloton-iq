@@ -1,25 +1,34 @@
 {
-  "attacking_style": "Launches solo, long-range attacks on final categorized climbs, particularly effective on steep gradients (10-16% ramps). Prefers attacking from breakaways rather than GC groups, typically going alone rather than waiting for sprint finishes.",
-  "team_tactics": "DSM placed multiple riders (3+) in early breakaways to create numerical advantage, allowing Storer to conserve energy by skipping pulls when teammates present. However, 2023 showed declining team support for his KOM jersey defense.",
-  "terrain_preference": "Excels on steep, punchy final climbs with sustained 10-16% gradients. Thrives in breakaway scenarios on mountain stages where he can isolate rivals through superior climbing on extreme gradients.",
-  "vulnerability": "Requires breakaway scenarios and team numerical advantage; isolated in chase groups without proper support (2023 Vuelta). Descending may be a weakness (crashed on descent despite winning in 2021).",
+  "attacking_style": "Launches solo attacks from large breakaways on final climbs, particularly effective on steep gradients (14-16% ramps). Capable of extreme-distance efforts, attacking as early as 70km out on categorized climbs to establish position.",
+  "team_tactics": "Team places multiple riders (3-5) in early breakaways to enable energy conservation. Storer refuses pulls while teammates work, preserving strength for final climb attacks. DSM/Sunweb consistently executed this numerical advantage strategy.",
+  "terrain_preference": "Steep final climbs from breakaway situations are optimal. Handles category 2 climbs with sustained gradients effectively. Shown competent descending ability, adding versatility beyond pure climbing. Struggles when forced to chase or position defensively in reduced groups.",
+  "vulnerability": "Poor breakaway positioning instincts when defending jersey (2023 Vuelta mountains jersey loss). Ineffective when caught behind in chase groups rather than establishing early breaks. Requires team support for energy conservation; less effective in reactive racing.",
   "key_patterns": [
-    "Attacks solo from breakaways on final climb, not waiting for group sprint (3 instances)",
-    "Dominates KOM sprints within breakaways, tactical focus on mountains classification (2 instances)",
-    "Exploits teammates in breakaway to skip work before solo acceleration (2 instances)",
-    "Thrives on extreme gradients 14-16%, separates rivals on steepest ramps (2 instances)",
-    "Lost team support between 2021-2023, moved from protected status to isolated (2 years compared)"
+    "Wins exclusively from breakaways, never from reduced peloton or GC group scenarios.",
+    "Team places 3-5 riders in breaks to control tempo and shield Storer (4 instances).",
+    "Attacks on final climb from established breaks, not bridge moves or counterattacks (5 wins/podiums).",
+    "Targets KOM points strategically before peloton response, planning intermediate collections methodically.",
+    "Refuses breakaway cooperation when teammates present, conserving energy for final effort (2 documented stages).",
+    "Most successful 2021 Vuelta with multiple stage wins; 2023 showed defensive tactical weaknesses."
   ],
-  "form_trajectory": "negative: 2023 Vuelta showed him isolated in chase groups rather than breakaways, lacking the team support that enabled his 2021 stage wins and KOM success",
-  "races_analysed": 4,
-  "confidence": "medium",
+  "form_trajectory": "negative: 2023 Vuelta showed tactical regression with poor positioning leading to mountains jersey loss despite starting as favorite. Peak form was 2021 Vuelta with multiple wins.",
+  "races_analysed": 9,
+  "confidence": "high",
   "rider_name": "STORER Michael",
   "built_from": [
+    "2020 Vuelta a Espana Stage 11",
     "2021 La Vuelta ciclista a Espana Stage 10",
     "2021 La Vuelta ciclista a Espana Stage 10",
     "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 20",
     "2021 La Vuelta ciclista a Espana Stage 7",
     "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Vuelta a Espana Stage 10",
+    "2021 Vuelta a Espana Stage 10",
+    "2021 Vuelta a Espana Stage 7",
+    "2021 Vuelta a Espana Stage 7",
+    "2022 Criterium du Dauphine Stage 8",
     "2023 La Vuelta Ciclista a Espana Stage 14"
   ]
 }

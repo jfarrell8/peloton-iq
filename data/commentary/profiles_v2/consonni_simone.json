@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter who excels in chaotic, disorganized finales where lead-out trains are disrupted. Thrives when positioning skills matter more than raw power or team support.",
+  "team_tactics": "Historically reliant on lead-out support (Cofidis setup in 2020), but demonstrated ability to operate independently when organizational structure collapses due to crashes or late-race chaos.",
+  "terrain_preference": "Flat sprint stages are primary territory. Vulnerable on selective terrain, though 2021 Giro second place suggests emerging capabilities when form peaks on moderately difficult stages.",
+  "vulnerability": "Positioning failures in standard bunch sprints when lead-out trains remain intact (2019 Giro third). Crash susceptibility in high-speed finales (2020 Giro elimination). Struggles when organization matters more than improvisation.",
+  "key_patterns": [
+    "Excels in disrupted sprints after crashes eliminate lead-out structure (2020 crash victim, 2023 winner).",
+    "Positioning issues in standard organized bunch kicks: third from peloton when expected higher (2019).",
+    "Form-dependent results: peaks enable unexpected placement on selective terrain (2021 advancing group second).",
+    "Can win without lead-out support when chaos levels playing field for all sprinters (2023)."
+  ],
+  "form_trajectory": "positive: 2023 Vuelta stage win shows matured ability to capitalize on chaos; successful transition from lead-out dependency to self-sufficiency",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "CONSONNI Simone",
+  "built_from": [
+    "2019 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 2",
+    "2021 Giro d'Italia Stage 18",
+    "2023 La Vuelta Ciclista a Espana Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 19"
+  ]
+}

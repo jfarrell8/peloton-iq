@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who accumulates massive kilometers in breaks (500+ km in single Grand Tour), then executes tactical positioning to force rivals into leadout work before stealing sprint in final kilometer.",
+  "team_tactics": "Operates with high individual autonomy in breakaways; minimal domestique support visible, relying on personal endurance reserves and tactical cunning to exploit rivals' fatigue in finale.",
+  "terrain_preference": "Long-distance breakaway stages where exceptional endurance capacity becomes decisive advantage; excels when peloton miscalculates chase dynamics allowing break survival.",
+  "vulnerability": "Single-race sample limits assessment, but reliance on peloton miscalculation suggests weakness when sprinter teams execute disciplined chase; may struggle when forced to initiate sprint rather than position tactically.",
+  "key_patterns": [
+    "Exceptional endurance: accumulated 500+ km in breakaways across single Grand Tour",
+    "Tactical positioning expert: forced rival to lead out inside 1km then stole sprint",
+    "Exploits peloton miscalculation: won when sprinter teams misjudged gap by 25 meters"
+  ],
+  "form_trajectory": "unknown: only single race observation from 2019 Giro stage win; demonstrated exceptional endurance and tactical acumen but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CHIMA Damiano",
+  "built_from": [
+    "2019 Giro d'Italia Stage 18",
+    "2019 Giro d'Italia Stage 18"
+  ]
+}

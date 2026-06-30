@@ -1,0 +1,30 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 10",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-24",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "STORER Michael attacked solo on final climb's 10-12% ramps while ROGLIC Primoz crashed descending but still gained time on BERNAL and YATES",
+    "winner": "STORER Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Roglic attacked final climb despite holding red jersey, revealing aggressive time-gaining strategy even from race lead position.",
+      "31-rider break quality forced peloton to concede red jersey rather than chase, showing team calculation of jersey defense costs.",
+      "Storer pre-empted sprint by attacking on steepest 10-12% gradients, exploiting climbing superiority over faster finishers in break.",
+      "Roglic-Mas-Lopez-Haig alliance chased together after crash, demonstrating GC riders cooperating to isolate Bernal-Yates group behind."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: Attacked final climb despite holding red, gained time on rivals even after descent crash, shows aggressive form",
+      "BERNAL Egan": "negative: Looked secondhand on final climb, couldn't follow Roglic acceleration, lost time with Yates group",
+      "YATES Adam": "negative: Unable to offer chase on final climb, isolated with Bernal while rivals gained 20+ seconds",
+      "STORER Michael": "positive: Second stage win via long-range attack on steepest gradients, superior climbing power neutralizes sprint disadvantage",
+      "MAS Enric": "positive: Followed Roglic attack and cooperated to extend gap on Bernal-Yates, tactical awareness shown",
+      "LOPEZ Miguel Angel": "positive: Made split with Roglic group on climb, showing improved positioning and form",
+      "HAIG Jack": "positive: Unexpectedly followed Roglic attack and gained time on higher-profile GC rivals Bernal-Yates",
+      "MARTIN Guillaume": "negative: Faded on final climb despite being in 31-rider break, concerning climbing weakness revealed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:41:25.116031+00:00"
+}

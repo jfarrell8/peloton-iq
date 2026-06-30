@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets intermediate sprint points rather than stage wins. Shows limited ability to respond to accelerations on punchy, repeated climbs.",
+  "team_tactics": "Deployed as a breakaway tool for harvesting intermediate sprint points for team leaders. Used for tactical objectives beyond personal results, then often abandons the effort.",
+  "terrain_preference": "Flat to rolling terrain where breakaways can establish gaps. Struggles on circuits with repeated punchy climbs that require multiple accelerations.",
+  "vulnerability": "Unable to respond when race splits occur on repeated short climbs. Lacks the explosive power needed for circuit races with multiple punchy ascents.",
+  "key_patterns": [
+    "Sent into breakaways for team tactical purposes, not personal victory chances (2 instances)",
+    "Targets intermediate sprint points from breaks before dropping back to peloton (2 instances)",
+    "Cannot follow accelerations on repeated punchy climbs, loses position in selection (2 instances)"
+  ],
+  "form_trajectory": "unknown: limited recent data, but 2018 role appears more domestique-oriented than leadership",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SUTTERLIN Jasha",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 6",
+    "2018 Tour of Guangxi Stage 3"
+  ]
+}

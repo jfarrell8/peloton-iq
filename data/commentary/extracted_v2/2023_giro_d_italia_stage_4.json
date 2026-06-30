@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PARET-PEINTRE Aurélien won from a 7-rider break after 80km of chaos, out-sprinting LEKNESSUND who inherited maglia rosa as Evenepoel's team surrendered it.",
+    "winner": "PARET-PEINTRE Aurélien",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step deliberately surrendered maglia rosa by allowing 2min+ gap, isolating Evenepoel early to shed podium protocol burden.",
+      "80km to form breakaway reveals GC teams unwilling to chase dangerous riders like Leknessund, prioritizing energy preservation over jersey control.",
+      "Trek-Segafredo wasted resources with two riders in break (Skujins, Ghebreigzabhier) yet neither could contest finish against fresher attackers."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: At 23, absorbed 2min effort to take pink despite losing sprint, showing GC depth beyond pure climbing ability.",
+      "EVENEPOEL Remco": "neutral: Isolation with 3km remaining suggests Soudal Quick-Step prioritized stage hunting over jersey defense on medium mountain day.",
+      "ALMEIDA João": "negative: Caught in early split requiring team effort to retrieve, worrying positioning ahead of harder mountain stages.",
+      "DE PLUS Laurens": "positive: Controlled GC group for Ineos despite no leader present, indicating domestique depth and tactical flexibility.",
+      "PARET-PEINTRE Aurélien": "positive: French Alps resident proved superior power on Southern Italy hills, winning tactical sprint after bridging to Leknessund."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:40:28.464374+00:00"
+}

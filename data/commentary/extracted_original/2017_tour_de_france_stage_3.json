@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-03",
+  "stage": 3,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won Stage 3 by bridging solo to PORTE Richie's late attack on the final climb, then holding off counterattacks despite losing his pedal.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PORTE Richie attacked final 800m climb attempting to recover time-trial losses, forcing selective uphill sprint finish.",
+      "SAGAN bridged alone to PORTE then strategically soft-pedaled to let MARTIN catch, using momentum reset before final acceleration.",
+      "BMC dual-protected PORTE GC and VAN AVERMAET sprint, positioning both into final climb rather than committing full leadout."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "negative: attacked final 800m to recover time trial losses but finish only 14th, expending energy without GC gain",
+      "SAGAN Peter": "positive: bridged solo uphill attack then maintained composure through pedal unclip to win, unusually dominant climbing for sprinter",
+      "MARTIN Dan": "positive: third place finish without team support shows Quick-Step allowing opportunistic GC positioning over sprint trains",
+      "BROWN Nathan": "positive: first-year Tour rider aggressive enough to contest early KOM points, signaling breakaway form",
+      "MATTHEWS Michael": "neutral: second place but couldn't match SAGAN's uphill acceleration despite favorable positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:10:53.726308+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "label": "2023 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BAIS Davide won from a 4-man early breakaway at Gran Sasso after the peloton conceded the stage entirely, not even contesting bonus seconds.",
+    "winner": "BAIS Davide",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "DSM surrendered maglia rosa defense entirely, allowing 4-man break containing GC threat Petilli unchallenged from kilometer 10.",
+      "GC contenders deliberately avoided bonus seconds at finish, signaling Gran Sasso altitude treated as non-selective despite 2000m elevation."
+    ],
+    "rider_signals": {
+      "BAIS Davide": "positive: second Giro stage win in only third career attempt shows breakthrough conversion rate",
+      "TIBERI Antonio": "neutral: collected KOM points but lost jersey, suggesting team prioritizing stage hunting over classification jerseys",
+      "LEKNESSUND Andreas": "positive: fourth consecutive day in rosa extends Norwegian record for most Giro days in pink"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:41:02.612104+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-07",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 10km remaining on penultimate climb, used teammates to control, then beat sprinters Matthews/Pidcock in reduced bunch finish for yellow.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pogačar attacked 10km out not to solo but to shed deadweight, regrouped teammates, converted chaos to controlled sprint finish.",
+      "Wout van Aert went in 85km break while wearing yellow, unusually aggressive jersey defense that failed mechanically early.",
+      "Peloton refused to grant break breathing room despite 220km distance, signaling pre-mountain stage GC positioning obsession trumped energy conservation."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: mechanically failed in break he created while in yellow, immediately dropped on first climb after repair",
+      "POGAČAR Tadej": "positive: converted late attack into sprint with teammates assembled behind, proving polyvalent threat even on non-mountain stages",
+      "MATTHEWS Michael": "positive: survived full-gas pace described as one of fastest 220km stages in Tour history to contest finale",
+      "ROGLIČ Primož": "neutral: launched early sprint 300m out but caught by stronger Pogačar, positioning decent but no finishing punch",
+      "POWLESS Neilson": "positive: survived to take yellow jersey virtually before Pogačar's bonus seconds reversed it, UAE allowing dangerman proximity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:53:22.102826+00:00"
+}

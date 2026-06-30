@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Tactically opportunistic from breakaways, launching well-timed attacks in the final 200m on uphill gradients. Uses positioning and parasitic tactics before explosive finishing kick.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from single race observation.",
+  "terrain_preference": "Uphill sprint finishes where gradient allows him to exploit power differential in final meters. Breakaway scenarios where tactical positioning matters more than pure sprint speed.",
+  "vulnerability": "Likely vulnerable in pure flat bunch sprints against top-tier sprinters, hence preference for breakaway opportunities. Requires specific finish gradient to maximize effectiveness.",
+  "key_patterns": [
+    "Insufficient observations (n=1) to establish repeating patterns with confidence.",
+    "Single observation shows: parasitic positioning on stronger riders before late attack.",
+    "Single observation shows: 200m attack timing on uphill gradient finish."
+  ],
+  "form_trajectory": "unknown: only single race observation from 2018, insufficient recent data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ABERASTURI Jon",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 18",
+    "2018 Vuelta a Espana Stage 18"
+  ]
+}

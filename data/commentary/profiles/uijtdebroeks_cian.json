@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Proactive attacker who moves from GC groups when not obligated, targeting time gaps for position defense. Shows willingness to engage in quality breakaways on high-mountain stages rather than waiting for final climbs.",
+  "team_tactics": "Functions as tempo-setter for team leader on hardest stages, performing domestique duties on decisive climbs. Granted freedom to join breakaways and attack for own GC position when tactical window opens.",
+  "terrain_preference": "High-mountain stages with multiple climbs suit him best, showing strongest legs late in Grand Tours (Tourmalet performance). Struggles most on final/steepest summit finishes, particularly early in three-week races.",
+  "vulnerability": "Early Grand Tour struggles evident—suffered and distanced on final climbs in opening week. Pure summit finish climbing against pure climbers exposes limitations compared to tempo-setting and breakaway riding.",
+  "key_patterns": [
+    "Improving form trajectory within Grand Tours; weak early, strong late in race progression.",
+    "Performs tempo-setting domestique role on hardest stages despite young age and neo-pro status.",
+    "Tactically mature: attacks for GC defense without obligation, understands positioning value beyond stage wins.",
+    "Favors quality breakaways over GC group sitting, proactive racing style for position consolidation."
+  ],
+  "form_trajectory": "positive: Clear improvement curve within Vuelta 2023—struggled early stages but delivered strong tempo work and breakaway presence in final week, showing Grand Tour adaptation",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "UIJTDEBROEKS Cian",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 13",
+    "2023 La Vuelta Ciclista a Espana Stage 17",
+    "2023 La Vuelta Ciclista a Espana Stage 3"
+  ]
+}

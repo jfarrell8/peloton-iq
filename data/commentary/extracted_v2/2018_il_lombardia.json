@@ -1,0 +1,23 @@
+{
+  "label": "2018 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2018-10-13",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "PINOT Thibaut attacked on late climb, gapped NIBALI Vincenzo and others through repeated accelerations with 14km remaining",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "PINOT used 4-6 serial accelerations on climb to crack NIBALI rather than single explosive move, succeeding around 14km out.",
+      "FORMOLO Davide initially animated breakaway with stage-winner form from Tour, forcing others to chase early on climbing."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "positive: serial acceleration tactic on final climb proved more effective than single attack against Nibali",
+      "NIBALI Vincenzo": "negative: unable to follow PINOT's repeated tempo increases despite positioning at group front before decisive move",
+      "FORMOLO Davide": "neutral: showed Tour stage winner form with early climb attack but faded when decisive moves came"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:23:00.696463+00:00"
+}

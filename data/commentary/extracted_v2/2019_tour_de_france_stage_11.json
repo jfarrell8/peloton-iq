@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-17",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won a photo finish sprint in Toulouse, timing his acceleration perfectly to come around GROENEWEGEN Dylan in the final meters after appearing boxed.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled early finale but lost organization inside 3km allowing Katusha to briefly take over front positioning.",
+      "Viviani repeatedly checked over shoulder in final 500m instead of committing early, suggesting uncertainty about lead-out timing.",
+      "Groenewegen launched earlier than optimal allowing Ewan time to close and come around despite appearing boxed at 200m."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: Showed exceptional patience when appearing boxed with 200m remaining, perfectly timed acceleration against premature Groenewegen launch",
+      "GROENEWEGEN Dylan": "negative: Started final sprint too early despite having clean lead position, faded inside final 50 meters",
+      "VIVIANI Elia": "negative: Uncharacteristically hesitant in finale checking shoulders repeatedly instead of committing to sprint, finished only third",
+      "GREIPEL Andre": "negative: Positioned far too far back at 5km in peloton tail, never able to contest despite wide uncomplicated roads",
+      "SAGAN Peter": "neutral: Took Viviani's wheel tactically but lacked top-end speed to contend for win, finished fourth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:56:50.241605+00:00"
+}

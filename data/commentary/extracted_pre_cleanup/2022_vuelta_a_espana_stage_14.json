@@ -1,0 +1,28 @@
+{
+  "label": "2022 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard won from the breakaway by 48-49 seconds as ROGLIC Primoz attacked the GC group, taking 1:49 from EVENEPOEL Remco on the final steep finish.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC Primoz exploited 15% finish gradients to take 1:49 from EVENEPOEL Remco, proving altitude weakness in red jersey.",
+      "EVENEPOEL Remco suffered mechanical on penultimate climb then cracked on final kilometer, first vulnerability shown after week of dominance.",
+      "Breakaway took 90 minutes to establish despite only 100-mile stage, indicating GC teams blocked early moves aggressively.",
+      "MAS Enrique completely detached trying to match ROGLIC attack, losing 2:43 total, exposing inability to respond on super-steep finishes."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: Successfully defended breakaway on brutal 15% finish while GC battle raged, showing exceptional closing speed on steep gradients",
+      "ROGLIC Primoz": "positive: First major GC attack took nearly two minutes from race leader, exploiting mechanical and steep finish perfectly",
+      "EVENEPOEL Remco": "negative: Lost 1:49 after mechanical disruption and cracked on 15% gradients, first sign altitude/extreme gradients expose weakness",
+      "LOPEZ Miguel Angel": "positive: Took six-second time bonus finishing with ROGLIC, showing GC revival after earlier struggles",
+      "MAS Enrique": "negative: Completely unable to respond to ROGLIC acceleration, lost 2:43, confirming limited explosive climbing capacity",
+      "RODRIGUEZ Carlos": "positive: Finished strongly in GC group, Spanish national champion showing consistent podium form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:55:45.971395+00:00"
+}

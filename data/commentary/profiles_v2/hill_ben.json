@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Early-race opportunist who attacks at flag drop or infiltrates opening breakaways, prioritizing bonus second accumulation over selective late-race moves. Targets intermediate sprints and stage-long breaks rather than decisive climbing attacks.",
+  "team_tactics": "Operates independently in breakaway hunting role with minimal visible team setup. Relies on personal positioning and timing rather than domestique-led launches or tempo control.",
+  "terrain_preference": "Thrives in stage race formats where repeated breakaway opportunities and intermediate sprints allow mathematical accumulation of points and bonuses. Less effective in one-day decisive scenarios.",
+  "vulnerability": "Overeager pacing leads to premature energy expenditure — cramped catastrophically after immediate attack at UAE Tour. Aggressive early positioning compromises finishing capacity in sprint scenarios.",
+  "key_patterns": [
+    "Infiltrates early breakaways across multiple stages within single stage races (3 observations)",
+    "Prioritizes mathematical accumulation strategy over selective aggression for classifications (2 observations)",
+    "Targets bonus seconds via intermediate sprints rather than GC-focused efforts (2 observations)",
+    "Attacks immediately at race start/flag drop showing high early aggression (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2020 showed both strategic maturity (points jersey accumulation tactics) and execution flaws (cramping from overeager pacing), suggesting inconsistent race management despite sound strategic thinking",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HILL Ben",
+  "built_from": [
+    "2017 Tour de Romandie Stage 3",
+    "2017 Tour de Suisse Stage 3",
+    "2020 UAE Tour Stage 3",
+    "2020 UAE Tour Stage 5"
+  ]
+}

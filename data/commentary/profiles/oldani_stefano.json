@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Excels from long-range breakaways that form after sustained high-speed racing (70km+ escapes after 55kph starts). Struggles with finale timing, attacking too early or misjudging optimal launch distance.",
+  "team_tactics": "Willing to prioritize personal ambition over team objectives (attacked from break despite defending teammate's jersey). Limited evidence of structured team support for his moves.",
+  "terrain_preference": "Selective, reduced-bunch finales that favor strong breakaway riders with finishing speed. Best suited to stages that thin peloton through attrition rather than pure climbing.",
+  "vulnerability": "Tactical inexperience in finales—poor distance judgment and premature attacking. Form appears inconsistent year-to-year, unable to replicate breakthrough performances on similar terrain.",
+  "key_patterns": [
+    "Breakaway specialist requiring large groups (25 riders) to succeed, not solo efforts",
+    "Fast finisher within reduced groups, fastest sprint in 2022 Giro breakaway finale",
+    "Tactical misjudgment in closing kilometers across multiple observations (too early attacks)",
+    "Form regression between seasons—2022 breakthrough not sustained into 2023 on comparable stages"
+  ],
+  "form_trajectory": "negative: 2023 Giro showed inability to replicate 2022 winning performance on similar selective terrain, indicating form decline rather than continued development",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "OLDANI Stefano",
+  "built_from": [
+    "2022 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 4",
+    "2023 Giro dItalia Stage 14"
+  ]
+}

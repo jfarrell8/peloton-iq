@@ -1,0 +1,27 @@
+{
+  "label": "2022 Bretagne Classic - Ouest-France",
+  "race_name": "Bretagne Classic - Ouest-France",
+  "race_date": "2022-08-28",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won after being completely isolated and forced to chase solo in the final 20km, still holding off LAURANCE and KAMP in the sprint.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Tratnik attacked solo entering the finishing circuit when the chase group swelled to 15 riders, recognizing numbers killed breakaway viability.",
+      "Van Aert bridged alone to chase groups while Jumbo-Visma provided zero support, signaling team's willingness to sacrifice him as domestique earlier.",
+      "Lotto-Soudal executed full leadout for De Lie chasing UCI points for World Tour survival, prioritizing relegation battle over podium.",
+      "Northwestern roads near Plouay caused multiple crashes as peloton accelerated, making positioning before this narrow sector critical for contenders."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: won despite total isolation and solo chasing duty in final 20km, demonstrating Worlds form but questionable team support",
+      "LAURANCE Axel": "positive: 21-year-old nearly upset Van Aert in sprint for B&B Hotels, signals emerging threat in reduced bunch sprints",
+      "TRATNIK Jan": "positive: correctly read that 15-rider chase group was tactically dead, attacked solo entering finishing circuit with climbing power",
+      "DE LIE Arnaud": "neutral: had full Lotto leadout but finished fourth, suggesting not yet elite finisher despite team investment",
+      "COSNEFROY Benoît": "negative: defending champion relegated to leadout duty for Naesen, AG2R prioritizing different leader than previous year"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:04:01.922420+00:00"
+}

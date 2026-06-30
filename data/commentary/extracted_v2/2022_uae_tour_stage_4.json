@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-23",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR won mountaintop sprint on Jebel Jais after UAE and Ineos trains neutralized repeated attacks, finishing alongside YATES and VLASOV",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates systematically extinguished attacks rather than launching own moves, conserving Pogačar for final sprint.",
+      "Ineos used PLAPP to lift pace at 1km barriers creating sprint train, inadvertently helping UAE's sprint setup.",
+      "MICHIELS/VLASOV probing attack caught early on climb, suggesting UAE unwilling to concede even small time gaps.",
+      "HIRT/TERAMAE softening tactics for Intermarché despite having multiple GC cards showed aggressive team-first approach."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: drifted badly on climb after strong third-place TT, suggesting poor recovery or TT effort too deep",
+      "GANNA Filippo": "positive: finished two seconds down on mountain stage, unexpectedly strong for pure TT specialist",
+      "PLAPP Luke": "neutral: Australian champion worked at steepest section but effort ultimately served Pogačar not Yates",
+      "PHILIPSEN Jasper": "positive: top-ten TT finish suggests exceptional form carrying into sprint stages beyond typical sprinter baseline"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:29:33.774678+00:00"
+}

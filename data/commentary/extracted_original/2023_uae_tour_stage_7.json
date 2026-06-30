@@ -1,0 +1,27 @@
+{
+  "label": "2023 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2023-02-26",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Adam attacked with 6.1km to go on Jebel Hafeet, dropped EVENEPOEL in final kilometers to win stage while EVENEPOEL defended 9-second GC lead.",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "AG2R placed HANNAN in breakaway as positioning marker for BOUCHARD's late move, securing fourth place.",
+      "YATES attacked at 6.1km remaining rather than earlier, suggesting steeper upper ramps suit his explosive power profile better.",
+      "GROUPAMA placed both BELOVUS and HESSMAN in break to support STORER, indicating they anticipated team depth mattering on climb.",
+      "PLAPP defended podium by limiting losses rather than attacking, one-second margin over YATES shows conservative tactics nearly failed."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: explosive on steeper ramps at 6.1km, dropped EVENEPOEL despite latter defending GC, 10-second winning margin reveals superior climbing",
+      "EVENEPOEL Remco": "positive: defended 9-second lead despite being dropped by YATES, statement ride suggests controlled loss rather than collapse",
+      "PLAPP Lucas": "neutral: battled to hold podium by one second over YATES, defensive ride nearly cost him, shows vulnerability on sustained steep gradients",
+      "BILBAO Pello": "negative: lost podium by three seconds to PLAPP, couldn't distance GC rivals despite pre-stage expectations",
+      "BOUCHARD Geoffrey": "positive: AG2R breakaway strategy with HANNAN delivered fourth place, tactical execution reveals team understanding of his limitations",
+      "LIZENECA": "negative: pre-stage favorite disappeared on climb, complete absence from decisive action reveals poor form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:24:56.645844+00:00"
+}

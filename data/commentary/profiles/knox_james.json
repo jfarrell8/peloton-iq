@@ -1,19 +1,27 @@
 {
-  "attacking_style": "Opportunistic breakaway rider who exploits GC irrelevance (18min down) to infiltrate strong moves for stage hunting, showing willingness to sacrifice overall position for stage opportunities.",
-  "team_tactics": "Deceuninck employs pragmatic resource allocation, protecting specific GC targets while sacrificing other assets (sprinters, stage hunters) based on race situation and strategic priorities.",
-  "terrain_preference": "Insufficient data to determine specific terrain preference, though positioned as break specialist when GC pressure removed.",
-  "vulnerability": "Role flexibility makes him expendable in team hierarchy—sacrificed for higher-priority objectives when strategic choices force trade-offs.",
+  "attacking_style": "Not a primary attacker; operates as a precision domestique delivering leaders to specific launch points (e.g., 6.5km mark at Tour de Suisse). When racing for himself, shows ability to survive into finale selection groups rather than initiate attacks.",
+  "team_tactics": "Deployed as tempo-setter on climbs and positioning controller on flat stages. Shares pacemaking duties with other domestiques (observed with Masnada) to extend gaps in final 15km. Teams trust him for technical corner navigation and GC group management.",
+  "terrain_preference": "Versatile climber who excels in controlled tempo scenarios rather than explosive gradients. Capable in crosswinds and technical finales. Functions best in stage races requiring sustained positioning effort rather than single-day punch.",
+  "vulnerability": "Not equipped for explosive attacks or pure sprint finishes. Role limits offensive opportunities. Effectiveness depends on team strength—performance declined when Ineos squad reduced to three riders in 2019 Vuelta.",
   "key_patterns": [
-    "Used as tactical chess piece: sacrificed or protected based on team's shifting priorities (2 instances)",
-    "Break specialist when out of GC contention, finishing 4th from 18min-down breakaway (1 clear instance)",
-    "Team demonstrates clear hierarchy: GC protection prioritized over sprint/stage hunting opportunities (2 instances)"
+    "Consistently used as pacemaker in final 15km to control GC groups (3 observations)",
+    "Exceeds domestique expectations by making final selection groups with GC contenders (3 observations)",
+    "Demonstrates crosswind positioning skills, making splits beyond climbing specialist profile (2 observations)",
+    "Trusted for technical course navigation and flat-stage positioning control (2 observations)",
+    "Shows exceptional race survival and composure when team plans collapse (2 observations)"
   ],
-  "form_trajectory": "neutral: showed stage-hunting capability but limited sample size; role appears opportunistic and context-dependent",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "positive: 2023 role upgrade to precision launch-point pacing for Evenepoel suggests increased trust and tactical sophistication compared to earlier general domestique duties",
+  "races_analysed": 7,
+  "confidence": "medium",
   "rider_name": "KNOX James",
   "built_from": [
-    "2019 Vuelta a Espana Stage 16",
-    "2019 Vuelta a Espana Stage 17"
+    "2019 Vuelta a Espana Stage 1",
+    "2019 Vuelta a Espana Stage 17",
+    "2019 Vuelta a Espana Stage 18",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Tirreno Adriatico Stage 4",
+    "2021 Vuelta a Espana Stage 13",
+    "2023 Tour de Suisse Stage 3"
   ]
 }

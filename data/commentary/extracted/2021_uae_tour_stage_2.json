@@ -5,18 +5,17 @@
   "stage": 2,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "WOODS Mike won Stage 2 uphill sprint at Tour des Alpes Maritimes et du Var with 522W for 2:35 at 62kg, but lost overall by 5 seconds to BRAMBILA's breakaway.",
-    "winner": "WOODS Mike",
+    "one_line_summary": "WOODS Mike won stage 2 of Tour des Alpes Maritimes et du Var with a devastating uphill sprint producing 522W for 2:35 at 62kg, but lost overall GC by 5 seconds to BRAMBILA on final stage.",
+    "winner": "WOODS Michael",
     "commentary_quality": "thin",
     "tactical_patterns": [
-      "Woods produced 522W for 2:35 at 62kg to win uphill sprint but Trek's Brambila won GC via earlier breakaway control."
+      "WOODS Mike's 590W peak one-minute power in uphill sprint reveals threshold required to beat Grand Tour contenders at early-season stage races.",
+      "Three-rider GROUPAMA-FDJ break strategy on final stage neutralized strongest GC rider's individual superiority, protecting 2-minute advantage despite WOODS' dominance."
     ],
     "rider_signals": {
-      "WOODS Mike": "positive: Won stage with exceptional power (590W peak 1min) but tactical error allowed weaker breakaway rider to steal GC",
-      "BRAMBILA Gianluca": "positive: First win in 4+ years, took GC by 5 seconds over stronger rider through breakaway positioning",
-      "MOLOMAR": "neutral: Lost yellow jersey by 1 second after winning opening stage for Trek Segafredo"
+      "WOODS Michael": "positive: demonstrated superior strength with 522W/2:35 uphill sprint victory but tactical isolation cost overall by 5 seconds to breakaway rider"
     },
     "usable_for_rag": false
   },
-  "extracted_at": "2026-06-17T21:34:05.628982+00:00"
+  "extracted_at": "2026-06-28T23:14:08.234998+00:00"
 }

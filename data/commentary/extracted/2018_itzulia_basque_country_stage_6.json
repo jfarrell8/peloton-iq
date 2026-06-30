@@ -1,0 +1,27 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 6",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-07",
+  "stage": 6,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MAS Enric soloed to victory after dropping rivals on the final climb, holding 14 seconds with 1km remaining while LANDA chased desperately behind.",
+    "winner": "MAS Enric",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MAS Enric accelerated when road leveled after final climb, maintaining power on flatter sections to prevent chase coordination.",
+      "MÜHLBERGER Gregor paced ROGLIČ in closing kilometers despite race lead secure, prioritizing stage win defense over energy conservation.",
+      "LANDA Mikel used Bora-Hansgrohe domestique slipstream in chase, showing Quick-Step isolated MAS without team support in finale."
+    ],
+    "rider_signals": {
+      "MAS Enric": "positive: third Quick-Step win of race, exceptional power maintenance after summit to hold off desperate LANDA chase",
+      "LANDA Mikel": "negative: 12 seconds short despite maximum effort, lacked positioning or teammates to bridge when MAS attacked final climb",
+      "ROGLIČ Primož": "positive: secured overall victory with time cushion intact, strategic pacing avoided unnecessary energy expenditure",
+      "BUCHMANN Emanuel": "neutral: present in chase group behind MAS-LANDA battle, positioning suggests team leader support role",
+      "TEUNS Dylan": "neutral: fourth place finish indicates strong climbing but lacked acceleration to follow decisive MAS move",
+      "QUINTANA Nairo": "neutral: fifth place crosses line, presence in lead group without contesting win suggests controlled effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:28:48.862279+00:00"
+}

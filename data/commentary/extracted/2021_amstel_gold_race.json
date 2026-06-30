@@ -1,0 +1,30 @@
+{
+  "label": "2021 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2021-04-18",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "VAN AERT outsprinted PIDCOCK and SCHACHMANN from a three-up break that formed when PIDCOCK attacked after KWIATKOWSKI was caught following the final Cauberg.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PIDCOCK attacked immediately after KWIATKOWSKI caught, exploiting momentary recovery hesitation in elite group after Cauberg.",
+      "Mechanical at final Cauberg base eliminated ROGLIČ, proving equipment reliability crucial on late technical climbs.",
+      "VAN AERT bridged from reduced 40-rider group in final kilometer, showing superior positioning over Matthews-led chase.",
+      "Three INEOS riders (KWIATKOWSKI, CARAPAZ, PIDCOCK) in elite selection reveals numerical advantage insufficient without right timing."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: bridged from chase group in final kilometer then won sprint, superior positioning negated numbers disadvantage",
+      "PIDCOCK Thomas": "positive: launched winning move immediately after KWIATKOWSKI caught, exceptional timing sense on debut Amstel",
+      "SCHACHMANN Maximilian": "positive: made final three-up selection but distanced in sprint, positioned well despite no team support",
+      "KWIATKOWSKI Michał": "neutral: solo attack caught but team still placed PIDCOCK in winning move, sacrificial role executed",
+      "ALAPHILIPPE Julian": "negative: initiated Cauberg attack but faded badly over summit, early aggression backfired in 38-climb format",
+      "ROGLIČ Primož": "negative: mechanical at final Cauberg base eliminated contention, positioning too far forward for technical section",
+      "MATTHEWS Michael": "positive: made elite selection and led chase sprint for fourth, strong but lacked acceleration against specialists",
+      "VALVERDE Alejandro": "positive: bridged to elite group aged 40, last rider to make selection shows exceptional tactical awareness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:46:13.374590+00:00"
+}

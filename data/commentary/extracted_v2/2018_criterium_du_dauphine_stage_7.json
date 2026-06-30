@@ -1,0 +1,26 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-10",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "YATES Adam caught breakaway rider Navarro in final meters of Plateau de Solaison after waiting tactically while THOMAS Geraint cracked",
+    "winner": "YATES Adam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Adam reversed pattern from earlier stages, waiting instead of attacking first, delivering fresh kick in final meters.",
+      "Team Sky abandoned THOMAS Geraint's chase after flat on Col d'Iseran descent, preserving podium over stage win.",
+      "BARDET Romain's attack on Col de Romme with THOMAS/YATES present failed, revealing insufficient acceleration against top climbers.",
+      "BODNAR Roman controlled tempo for Sky protecting podium, not chasing THOMAS flat, showing team prioritization shift mid-race."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: demonstrated tactical maturity by reversing his early-attack pattern, saving energy when previously aggressive throughout Dauphine",
+      "THOMAS Geraint": "negative: cracked in final meters after recovering from flat, suggesting vulnerability when forced to chase after mechanical",
+      "BARDET Romain": "negative: attack on Col de Romme neutralized by THOMAS/YATES easily, lacked acceleration to distance top GC rivals",
+      "NAVARRO Daniel": "neutral: held off GC favorites until final meters from early break, four seconds from victory"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:18:30.342558+00:00"
+}

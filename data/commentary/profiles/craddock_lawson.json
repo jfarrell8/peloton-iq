@@ -1,0 +1,39 @@
+{
+  "attacking_style": "Mid-race bridge specialist who uses time trial power to close gaps solo (114s, 26s gaps documented), then either services teammates or positions for breakaway finishes. Attacks at climb bases rather than summits, leveraging diesel engine over pure climbing acceleration.",
+  "team_tactics": "Frequently deployed in early breakaway infiltration strategy, willing to sacrifice personal result for team leaders (pulled entire finale at 31mph for CORT, abandoned break for O'CONNOR GC). Team plants him in breaks when composition permits, gambling on his endurance outlasting rivals.",
+  "terrain_preference": "Excels on repeated climbing circuits and long breakaways requiring sustained power output. Best on moderately selective terrain where diesel engine and time trial strength matter more than explosive accelerations. Amstel-type parcours suit him perfectly.",
+  "vulnerability": "Pure climbers drop him on steep gradients when acceleration is required rather than sustained power. Passive jersey defense shown at Dauphine—lost KOM lead despite 18-point advantage. Lacks finishing kick after extended efforts.",
+  "key_patterns": [
+    "Solo bridging specialist: documented closing 114s and 26s gaps mid-race across multiple Grand Tours",
+    "Selfless teammate in breaks: multiple instances pulling entire finales or abandoning breaks for GC riders",
+    "Early break infiltration: team consistently plants him in permissive break compositions (Tour 4th, Amstel 9th)",
+    "Time trial power on climbs: attacks at climb base using sustained power, not summit accelerations",
+    "Exceptional durability: raced entire 2018 Tour with broken shoulder, 31mph leadout pacing documented"
+  ],
+  "form_trajectory": "positive: 2023 Tour 4th shows continued breakaway effectiveness. Evolved from pure domestique (2018-2019) to break finisher (2021-2023) with consistent top-10 results when given freedom.",
+  "races_analysed": 14,
+  "confidence": "high",
+  "rider_name": "CRADDOCK Lawson",
+  "built_from": [
+    "2018 Amstel Gold Race",
+    "2018 Amstel Gold Race",
+    "2018 Tour de France Stage 3",
+    "2019 Paris-Nice Stage 4",
+    "2019 Vuelta a Espana Stage 11",
+    "2019 Vuelta a Espana Stage 11",
+    "2021 Criterium du Dauphine Stage 5",
+    "2021 Criterium du Dauphine Stage 6",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 Vuelta a Espana Stage 1",
+    "2021 Vuelta a Espana Stage 19",
+    "2021 Vuelta a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2023 Tour de France Stage 15",
+    "2023 Tour de France Stage 15"
+  ]
+}

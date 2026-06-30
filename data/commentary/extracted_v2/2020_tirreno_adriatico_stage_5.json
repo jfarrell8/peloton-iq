@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 5",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-11",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked inside 10km on Sarnano Sassotetto, dropped WOODS who cracked spectacularly, soloed 35 seconds clear of THOMAS.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BRAMBIA's early surprise attack inside 10km forced YATES to counter, disrupting team-controlled tempo before steepest gradients.",
+      "VLASOV abandoned WOODS despite same team, prioritizing own GC over defending leader's jersey in final 3km.",
+      "YATES attacked with 3km remaining before gradient eased, exploiting narrow window where sustained power matters most.",
+      "MASNADA covered BRAMBIA as second Italian, revealing Italian teams coordinating disruption despite different sponsors."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "negative: catastrophic implosion on final climb losing 54 seconds, team abandoned him as VLASOV attacked away",
+      "YATES Simon": "positive: attacked knowing from previous day he had superior legs, tactical confidence indicator before move",
+      "VLASOV Aleksandr": "positive: made independent GC decision abandoning struggling team leader WOODS, net 5-second gain justified betrayal",
+      "BRAMBIA Gianluca": "neutral: early attack inside 10km forced pace disruption but lacked power to sustain with YATES",
+      "MASNADA Fausto": "neutral: covered fellow Italian BRAMBIA rather than marking YATES, Italian coordination over team orders",
+      "THOMAS Geraint": "positive: sprinted for bonus seconds despite chasing effort, professional discipline stealing 4 seconds from MICA"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:21:12.009030+00:00"
+}

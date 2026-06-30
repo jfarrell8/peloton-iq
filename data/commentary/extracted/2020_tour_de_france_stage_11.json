@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-09",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won a chaotic sprint ahead of SAGAN Peter (later relegated for headbutting VAN AERT Wout) and BENNETT Sam after a late-stage breakaway collapse.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NTT chased breakaway too early for BOASSON HAGEN, exhausting leadout before final kilometer when sprint trains reorganized.",
+      "BENNETT Sam positioned third wheel behind rival team's leadout, exploiting opponents' disorganization rather than relying on own leadout.",
+      "VAN AERT Wout attacked from fourth position inside final 200m, nearly stealing win despite no dedicated leadout train.",
+      "EWAN Caleb won from far back relying on pure speed after positioning chaos, proving confidence matters when sprint organization collapses."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: won from distance without leadout, showing superior raw speed when sprint disintegrates into chaos",
+      "SAGAN Peter": "negative: relegated for headbutting VAN AERT, desperate tactics suggest declining sprint confidence against younger rivals",
+      "BENNETT Sam": "positive: third despite positioning behind wrong leadout, tactical awareness compensating for missing own train",
+      "VAN AERT Wout": "positive: nearly won from fourth position without leadout, raw power almost overcame poor positioning",
+      "BOASSON HAGEN Edvald": "negative: NTT burned leadout too early chasing breakaway, tactical miscalculation left him isolated in finale",
+      "JUNGELS Bob": "neutral: late solo move nearly succeeded as peloton hesitated, showing teams still miscalculate chase responsibility"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:34:01.061633+00:00"
+}

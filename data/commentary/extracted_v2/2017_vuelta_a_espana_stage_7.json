@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-25",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MATAMORIC Jan attacked on the cobblestone climb to Cuenca's castle with ~5km to go, dropped fellow breakaway riders, won solo on descent.",
+    "winner": "MATAMORIC Jan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky received minimal peloton support despite controlling duties, suggesting rivals conserving energy after stage 6 hardship.",
+      "Matamoric attacked on cobblestones while ROJA and SENNI watched each other, exploiting tactical standoff between marked rivals.",
+      "Dimension Data losing two riders to crashes reduced to four total, severely compromising team's stage race capabilities."
+    ],
+    "rider_signals": {
+      "MATAMORIC Jan": "positive: 22-year-old showed veteran tactical awareness timing attack when rivals marked each other, excelled on technical descent",
+      "POLYANSKY Pawel": "neutral: second place two consecutive stages suggests strong form but inability to win from breakaways",
+      "DE MARCHI Alessandro": "neutral: made 14-rider break but lacked punch on cobbled finish climb",
+      "ROJAS Jose Joaquin": "negative: allowed himself to be distracted marking SENNI instead of covering decisive Matamoric move",
+      "SENNI Enrico": "negative: same tactical error as Rojas, let winner escape while focusing on mutual surveillance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:15:43.347817+00:00"
+}

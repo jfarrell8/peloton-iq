@@ -1,0 +1,25 @@
+{
+  "label": "2019 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-07",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint on uphill drag finish, breakaway of five held 2 minutes maximum before sprinter teams reeled them back",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Six different teams committed to chase with only five riders ahead, revealing sprinter team depth concerns despite rare flat stage.",
+      "Break maintained advantage on winding technical descents where peloton couldn't corner faster collectively than smaller group ahead.",
+      "BENNETT positioned third wheel entering final uphill kilometer when others misjudged gradient, enabling him to hold slipstream then accelerate."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: positioned perfectly third wheel before uphill sprint finish, showing tactical maturity beyond pure speed",
+      "ROGLIC Primoz": "neutral: caught in late crash inside 3km but unhurt, teammates crashed ahead of him doing leadout duty",
+      "VAN DER SANDE Tosh": "positive: attacked late on uphill drag surprising sprinters, finished third despite being caught",
+      "MEZGEC Luka": "negative: crashed while Mitchelton-Scott led him out, team effort wasted on rare sprint opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:07:16.625593+00:00"
+}

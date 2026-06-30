@@ -1,0 +1,27 @@
+{
+  "label": "2021 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-22",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FORTUNATO Lorenzo won from early break after TRATNIK attacked first but faded in final 2km, while BERNAL distanced all GC rivals except YATES.",
+    "winner": "FORTUNATO Lorenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana-controlled peloton before Zoncolan enabled Vlassof's rivals; Ineos should've controlled earlier to prevent time loss.",
+      "Ineos descended penultimate climb so fast it split peloton, costing GC riders energy before final climb begun.",
+      "Tratnik's attack with Fortunato 2km from summit backfired; attacking companion with 14km climb guarantees counter-attack loss.",
+      "Bennett and Mollema having teammates in break proved useless; solo climbers benefited more from reduced peloton control."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: distanced entire GC group except Yates by sprinting final kilometers out of saddle, showing superior form",
+      "VLASOV Alexander": "negative: team controlled for him but lost over minute when it mattered, exposing Astana's strategic miscalculation",
+      "NIBALI Vincenzo": "negative: dropped 2km from summit suggests no GC form remaining this Giro",
+      "YATES Simon": "positive: only rider matching Bernal's final acceleration, finished 11 seconds back showing resurgent climbing legs",
+      "TRATNIK Jan": "negative: made first big move but couldn't sustain when Fortunato countered with 2km remaining"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:37:33.920516+00:00"
+}

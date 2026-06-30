@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-10",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won stage 1 via perfectly timed sprint launch at high speed, holding off EWAN Caleb before Ewan could come around.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma delivered complete leadout for non-pure sprinter Van Aert, revealing willingness to commit full train for stage-hunting GC rider.",
+      "Quick Step isolated Ballerini with no leadout riders despite having numbers, suggesting team coordination breakdown or pre-race tactical miscalculation.",
+      "UAE Emirates positioned Gaviria perfectly on left side but lost on raw power, confirming positioning alone insufficient against stronger finishers.",
+      "Van Aert initiated sprint early at high speed rather than waiting, exploiting reduced pure sprinter acceleration advantage at extreme velocity."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Won bunch sprint despite not being pure sprinter, took 10-second GC bonus unexpectedly early, showing stage race ambition",
+      "EWAN Caleb": "neutral: Positioned well on Van Aert wheel but couldn't come around despite pure sprinter credentials, suggesting form uncertainty",
+      "BALLERINI Davide": "negative: Quick Step left him without leadout support despite team numbers, finished only 8th in bunch sprint",
+      "GAVIRIA Fernando": "neutral: UAE gave perfect positioning but lacked final punch for podium, raising questions about current top-end speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:48:48.289006+00:00"
+}

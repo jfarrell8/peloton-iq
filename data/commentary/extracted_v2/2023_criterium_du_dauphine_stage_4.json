@@ -1,0 +1,27 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-07",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BJERG Mikkel won by 27 seconds over Cavagna after being 20 seconds down at first split, taking yellow from Heukeleers by 12 seconds over Vingegaard.",
+    "winner": "BJERG Mikkel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bjerg lost 20 seconds first 10km then demolished final 21km, suggesting late-heavy TT courses favor diesel power over explosive starts.",
+      "O'Connor 5th on stage despite GC defending role indicates UAE lacks true TT domestique depth for Grand Tour support.",
+      "Yates only 1 second down on Cavagna at checkpoint but faded badly, revealing poor 20km+ time trial endurance."
+    ],
+    "rider_signals": {
+      "BJERG Mikkel": "positive: First pro win after three U23 World TT titles shows he's been severely underutilized, could contest individual TT medals",
+      "O'CONNOR Ben": "positive: Fifth on stage while defending GC suggests he's regained 2021 Tour form when he finished fourth overall",
+      "MAS Enric": "negative: Lost 2.5 minutes and already 30 seconds down at first checkpoint shows complete time trial regression",
+      "GODDU David": "negative: Dropped over 2 minutes despite coming off team time trial podium reveals individual/team TT skillsets don't transfer",
+      "YATES Adam": "negative: Strong first split but faded catastrophically suggests cannot sustain tempo beyond 15 minutes in rolling TTs",
+      "HEUKELEERS Jordi": "neutral: Lost yellow but top-10 finish exceeded expectations, sprint legs translating to short TT competence"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:36:09.670625+00:00"
+}

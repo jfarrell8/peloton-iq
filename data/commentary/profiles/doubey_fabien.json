@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data to establish attacking pattern. Single observation shows presence in early breakaways capable of securing KOM jersey, but lacks evidence of sustained climbing ability.",
+  "team_tactics": "Appears deployed in early breakaway work, possibly for KOM competition or visibility. Team support details not observable from available data.",
+  "terrain_preference": "Unable to determine clear preference. Struggles evident on repeated climbs (Mont Brouilly), suggesting limited effectiveness on multi-climb stages.",
+  "vulnerability": "Accumulated fatigue from early-race efforts; spectacularly cracked on first Mont Brouilly ascent despite holding KOM jersey, indicating inability to defend on harder climbs after breakaway work.",
+  "key_patterns": [
+    "Cracked dramatically when holding KOM jersey under sustained climbing pressure (1 instance)"
+  ],
+  "form_trajectory": "negative: visible fatigue accumulation leading to complete failure on categorized climb while in race lead jersey",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DOUBEY Fabien",
+  "built_from": [
+    "2021 Paris-Nice Stage 4",
+    "2021 Paris-Nice Stage 4"
+  ]
+}

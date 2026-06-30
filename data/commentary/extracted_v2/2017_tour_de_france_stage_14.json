@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-15",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael attacked from Van Avermaet's wheel on final climb in Rodez, soloing to victory while ARU lost 24 seconds and yellow jersey through catastrophic positioning failure.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Sunweb/BMC pre-race collaboration neutralized breakaway by splitting chase burden, preventing usual team isolation problem in stage control.",
+      "Matthews attacked 500m+ out on final climb after stalking Van Avermaet's wheel through technical finale, exploiting longer distance sprint range.",
+      "Froome/Sky gained 24 seconds on ARU without attacking, forcing time gaps through tempo control when ARU lost all teammates before finale.",
+      "Sky anticipates Landa teammates will now suppress attacks to protect Froome's yellow, changing team dynamics from previous aggressive stage racing."
+    ],
+    "rider_signals": {
+      "ARU Fabio": "negative: isolated at back of peloton entering finale with no teammates, catastrophic positioning cost 24 seconds and yellow on non-selective stage",
+      "MATTHEWS Michael": "positive: delivered long-range sprint attack after full day's team chase work, suggesting exceptional diesel-sprinter engine for hilly finishes",
+      "FROOME Chris": "positive: Sky reclaimed yellow through opportunistic positioning when rival team collapsed, expects peloton control will suppress Landa's internal attacks",
+      "LANDA Mikel": "neutral: sits 1:36 down but Froome expects Sky will now suppress his attacks to defend yellow rather than allow freedom",
+      "KITTEL Marcel": "negative: dropped with three teammates on moderate terrain, signaling vulnerability on any undulating stage despite green jersey lead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:04:46.500776+00:00"
+}

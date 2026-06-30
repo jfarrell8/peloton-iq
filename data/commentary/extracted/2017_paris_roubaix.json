@@ -1,0 +1,26 @@
+{
+  "label": "2017 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2017-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET Greg attacked at Carrefour de l'Arbre with 15km remaining, formed five-man sprint group, and outkicked STUYVEN Jasper at the velodrome.",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AVERMAET Greg recovered from Wallers crash at 84km to go, proving resilience critical for cobbled Monument success.",
+      "STUYVEN Jasper launched velodrome sprint but faded, showing early initiation from distance disadvantageous on Roubaix track.",
+      "BOONEN Tom outside top-10 in final edition reveals age degradation hits cobbled specialists harder than other Monument profiles.",
+      "SAGAN Peter present in 84km breakaway but absent from decisive 15km move, suggesting inconsistent pacing over extended cobbled racing."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: Won after mid-race crash recovery, demonstrating mental and physical resilience unmatched in 2017 cobbled season",
+      "STUYVEN Jasper": "neutral: Second place after being caught late suggests strong positioning but lacks finishing power against top sprinters",
+      "BOONEN Tom": "negative: 13th in final Roubaix confirms decline; four-time champion no longer competitive in Monument finales",
+      "SAGAN Peter": "negative: Faded between 84km and 15km decisive moves, revealing stamina limitations on prolonged cobbled efforts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:04:27.847771+00:00"
+}

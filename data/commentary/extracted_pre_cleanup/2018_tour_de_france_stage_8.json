@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-14",
+  "stage": 8,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won Stage 8 sprint after GAVIRIA Fernando was pinned against barriers by GREIPEL André in final 200m chaos when no lead-out trains survived.",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE Julian absent from sprint lead-out after pacing back MARTIN Dan group post-crash, exposing GAVIRIA Fernando without Quick-Step train structure.",
+      "GREIPEL André following SAGAN Peter acceleration from 300m fractured all lead-out formations, turning sprint into pure freelance speed contest favoring GROENEWEGEN Dylan.",
+      "MARTIN Dan positioning 17km from finish on easy stage cost 1:14; sitting back to recover energy backfires when crashes occur inside 20km.",
+      "Day 8 fatigue breaking lead-out teams allows pure sprinters like GROENEWEGEN Dylan to beat tactically superior squads lacking fresh domestiques."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: consecutive wins reveal superior top-end speed when lead-outs collapse into chaos, improving form daily",
+      "GAVIRIA Fernando": "negative: twice fastest but without ALAPHILIPPE Julian supporting, lacks tactical positioning instincts to win without perfect Quick-Step lead-out structure",
+      "GREIPEL André": "positive: physically immovable at 40mph holding left-hand barrier line, can follow accelerations but lacks terminal speed at Stage 8",
+      "MARTIN Dan": "negative: sitting too far back 17km out on easy stage shows poor risk assessment; crash cost 1:14 and revealed positioning discipline weakness",
+      "ALAPHILIPPE Julian": "neutral: sacrificed sprint duties to pace MARTIN Dan back, showing team prioritizes GC protection over stage-hunting opportunities",
+      "SAGAN Peter": "negative: accelerating from 300+ meters without speed to finish exposed tactical desperation, easily absorbed by GREIPEL André"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:38:25.030135+00:00"
+}

@@ -1,25 +1,25 @@
 {
-  "coverage_pct": 16.16811194183805,
+  "coverage_pct": 43.72390146045115,
   "baseline_best_model": "XGBoost",
-  "enriched_best_model": "LightGBM",
+  "enriched_best_model": "XGBoost",
   "baseline": {
     "top5_accuracy": 0.5517241379310345,
     "log_loss": 0.6042666444213259,
     "auc": 0.8248000270926951
   },
   "enriched": {
-    "top5_accuracy": 0.5689655172413793,
-    "log_loss": 0.6200289691081429,
-    "auc": 0.8070189719203701
+    "top5_accuracy": 0.5517241379310345,
+    "log_loss": 0.6044897123963227,
+    "auc": 0.8226987414152821
   },
   "summary_lines": [
-    "Commentary coverage in dataset: 16.2% of rows have 1+ prior observation",
+    "Commentary coverage in dataset: 43.7% of rows have 1+ prior observation",
     "Baseline best model : XGBoost",
-    "Enriched best model  : LightGBM",
+    "Enriched best model  : XGBoost",
     "",
     "Metric              Baseline       + Commentary   Delta       ",
-    "Top-5 accuracy      0.5517         0.5690         +0.0172  \u2191 better",
-    "Log loss            0.6043         0.6200         +0.0158  \u2193 worse",
-    "AUC (macro)         0.8248         0.8070         -0.0178  \u2193 worse"
+    "Top-5 accuracy      0.5517         0.5517         +0.0000  \u2014",
+    "Log loss            0.6043         0.6045         +0.0002  \u2193 worse",
+    "AUC (macro)         0.8248         0.8227         -0.0021  \u2193 worse"
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not exhibit proactive attacking behavior; relies on defensive positioning and time gained from earlier opportunities rather than initiating late-race or climb-specific accelerations.",
+  "team_tactics": "Team appears divided in priorities between supporting Eiking's GC defense and pivoting resources toward Meintjes' top-10 ambitions, suggesting limited full team commitment to his leadership.",
+  "terrain_preference": "Vulnerable on sustained Category 1 climbs and technical wet descents; lacks the explosiveness for summit finishes and the technical skill for high-speed descent racing.",
+  "vulnerability": "Cracks under sustained climbing pressure from GC rivals; passive race management leads to incremental time losses even without direct attacks; crashes on technical descents in wet conditions.",
+  "key_patterns": [
+    "Passive defense strategy: concedes time without being attacked, suggesting limited ability to respond to pressure.",
+    "Fragility on Category 1 climbs: crashes and loses significant time when multiple hard climbs accumulate.",
+    "Team commitment uncertain: commentary suggests resources may shift to other riders mid-race."
+  ],
+  "form_trajectory": "negative: progressive deterioration visible through passive time losses and catastrophic crash, indicating inability to sustain early GC position",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "EIKING Odd Christian",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 14",
+    "2021 La Vuelta ciclista a Espana Stage 17"
+  ]
+}

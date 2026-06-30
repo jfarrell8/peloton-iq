@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches solo moves from established breakaways on hard climbs, particularly HC categorized ascents. Prioritizes mountain points and extended efforts over 20km+ from finish.",
+  "team_tactics": "Operates with freedom in breakaways without heavy team support visible. Given autonomy to pursue KOM classification and opportunistic stage threats from distance.",
+  "terrain_preference": "HC and category 1 climbs where he can distance breakaway companions. Capable on wet technical descents to extend advantages gained on climbs.",
+  "vulnerability": "Lacks team firepower to control from front; relies on breakaway success rather than GC team support. Long-range attacks may fade if caught by organized chase.",
+  "key_patterns": [
+    "Solos clear from breakaways on major climbs rather than waiting for final (2 races)",
+    "Targets KOM classification actively, winning multiple mountain sprints per race (2 races)",
+    "Attacks with 20km+ remaining, sustaining long-range efforts to threaten results (2 races)",
+    "Strong technical descending skills to consolidate climbing gains in wet conditions (1 race, 1 implied)"
+  ],
+  "form_trajectory": "positive: Demonstrated consistent climbing strength across March-June 2018, threatening GC riders and dominating breakaway KOM contests",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CATALDO Dario",
+  "built_from": [
+    "2018 Criterium du Dauphine Stage 4",
+    "2018 Tirreno-Adriatico Stage 5"
+  ]
+}

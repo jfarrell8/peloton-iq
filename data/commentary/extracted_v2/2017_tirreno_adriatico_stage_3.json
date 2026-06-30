@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-10",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked solo on the final steep climb into Trevi, held off YATES Adam's late surge by 3 seconds to win stage 3",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Roglič's early solo move on steep finale succeeded despite elite chase group; late counters failed against sustained power effort.",
+      "Mitchelton-Scott hit twice by crashes at 30km and earlier, disrupting their protective formation for race situations.",
+      "Van Avermaet initiated GC group move on climb but got immediately countered by Moscon, revealing BMC lacked chase coordination.",
+      "Thomas sat on Moscon's wheel conservatively, let Yates counter, settled for 4th but won GC on countback over Van Avermaet."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: sustained solo power on steep finale defied conventional wisdom that early moves fail against stacked GC field",
+      "YATES Adam": "positive: nearly closed significant gap with explosive late counter, confirming sharp climbing form despite conservative team tactics",
+      "THOMAS Geraint": "neutral: tactical conservatism on wheel got 4th place but inherited GC lead on countback, questionable attacking intent",
+      "MAJKA Rafał": "negative: caught in Geschke/Bora crash, lost all GC contention on decisive climb, poor positioning cost entire race",
+      "BENOOT Tiesj": "positive: third place finish after Strade Bianche win confirms early-season form peak across different terrain types",
+      "BEVIN Patrick": "negative: race leader crashed out of contention well before finale, lost jersey in non-racing incident"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:02:30.811434+00:00"
+}

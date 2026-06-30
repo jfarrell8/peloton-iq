@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-15",
+  "stage": 14,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael attacked with ~500m to go on the uphill finish into Rodez, dropping VAN AVERMAET and winning solo with a no-hands celebration.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Sunweb collaborated with BMC from race start to control dangerous breakaway, sharing workload despite both teams having stage ambitions.",
+      "Froome's Team Sky exploited Aru's positioning error in valley before Rodez climb, accelerating when Astana leader isolated without teammates.",
+      "Matthews launched final attack at 500m on uphill finish after following Van Avermaet's wheel through technical corners, unusually early sprint.",
+      "Kittel dropped on moderate climbing approach to Rodez with three teammates, exposing pure sprinter vulnerability on rolling stage finishes."
+    ],
+    "rider_signals": {
+      "ARU Fabio": "negative: Caught at back of peloton without teammates in valley before final climb, losing 24 seconds and yellow jersey through poor positioning awareness",
+      "MATTHEWS Michael": "positive: Won after doing extensive leadout work for green jersey battle against Kittel earlier in Tour, revealing exceptional condition depth",
+      "FROOME Chris": "positive: Team Sky exploited Aru's isolation with coordinated acceleration despite not having numerical advantage, reclaiming yellow through tactical opportunism",
+      "LANDA Mikel": "neutral: Moves to strong GC position (mentioned as 'sitting pretty' going into Alps), potentially complicating Sky's team hierarchy with Froome back in yellow",
+      "VAN AVERMAET Greg": "neutral: Covered multiple attacks in finale but unable to respond to Matthews' 500m surge on uphill finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:09:17.889344+00:00"
+}

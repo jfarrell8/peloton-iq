@@ -1,0 +1,29 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-08",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD Jonas soloed to victory after escaping on the final climb, while BJERG Mikkel crashed mid-climb attempting to cover SHAW James's attack and lost yellow jersey contention.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BJERG crashed chasing SHAW's attack on final climb entry, exposing vulnerability when forced to accelerate from mechanical disruption.",
+      "CARAPAZ Richard attacked to catch breakaway GREGAARD Jonas near summit, suggesting team targeting KOM points through selective bridge efforts.",
+      "BERNAL Egan attacked solo from favorites group on descent after climb, refusing to work collaboratively despite chasing same target.",
+      "ALAPHILIPPE Julian sprinted for second place time bonus despite being 1:23 down, indicating SOUDAL QUICKSTEP prioritizing stage placement over GC."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: Won solo after final climb attack while wearing 1x chainring setup, demonstrating superior descending confidence in wet conditions.",
+      "BJERG Mikkel": "negative: Lost yellow jersey contention after crashing while chasing SHAW's attack, then suffered additional gear problems during recovery effort.",
+      "CARAPAZ Richard": "positive: Bridged to breakaway GREGAARD on final climb with apparent ease, showing exceptional climbing form despite 2:33 GC deficit.",
+      "BERNAL Egan": "positive: Only rider to attack solo from favorites on descent, revealing renewed confidence in high-risk downhill moves post-injury.",
+      "O'CONNOR Ben": "neutral: Chain dropped 300m from finish but protected by 3km mechanical rule, maintaining 1:10 GC position through fortunate timing.",
+      "ALAPHILIPPE Julian": "neutral: Sprinted aggressively for second despite being over minute down GC, suggesting stage-hunting role rather than GC protection.",
+      "SHAW James": "positive: Launched attack on final climb approach that forced BJERG's race-changing crash, demonstrating effective tactical disruption from non-GC rider."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:59:39.121995+00:00"
+}

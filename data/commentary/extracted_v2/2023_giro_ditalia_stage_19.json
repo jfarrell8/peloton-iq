@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro dItalia Stage 19",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-26",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BUITRAGO Santiago won stage 19 after catching HEALY in final 1.5km; ROGLIC attacked Thomas inside final kilometer, gained 3 seconds via CORT's wheel.",
+    "winner": "BUITRAGO Santiago",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC changed to mountain bike gearing (single ring, 44t cassette) specifically for Tre Cime, signaling prepared all-in attack.",
+      "ROGLIC attacked Thomas inside final kilometer but used CORT breakaway rider as draft shield to secure 3-second gap.",
+      "Breakaway formed only after first hour ridden at 50kph, suggesting GC teams initially wanted controlled race despite final MTT tomorrow.",
+      "THOMAS countered inside final 200m only after ROGLIC move, suggesting defensive posture rather than seeking bonus seconds proactively."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: bike equipment change to extreme climbing setup shows confidence attacking steep gradients despite prior injuries this Giro",
+      "THOMAS Geraint": "negative: waited until final 200m to counter rather than attacking first, defensive mindset with only 26s lead before final MTT",
+      "HEALY Ben": "negative: marked out of KOM jersey fight by GIRMAY blocking tactics, then caught by BUITRAGO with 1.5km remaining",
+      "ALMEIDA Joao": "negative: lost almost a minute to THOMAS/ROGLIC group on Tre Cime, eliminated from GC podium contention",
+      "ARENSMAN Thymen": "positive: moved into top ten GC by supporting THOMAS effectively then finishing with leaders group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:43:57.044264+00:00"
+}

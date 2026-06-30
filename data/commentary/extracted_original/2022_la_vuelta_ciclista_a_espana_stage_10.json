@@ -1,0 +1,29 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 10",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-30",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won the 31.1km Alicante TT by 48 seconds over Roglic, extending his GC lead from 1:12 to 2:41",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Evenepoel averaged 55.7 km/h versus 54.4 for Cavagna, revealing 1.3 km/h delta separates elite TT from merely strong performance.",
+      "Roglic gained 12 seconds on benchmark Cavagna while Mas lost over a minute, exposing Mas as vulnerable on any TT course.",
+      "Rodriguez in white jersey rode for Evenepoel rather than contesting, UAE prioritizing GC defense over young rider classification.",
+      "Almeida lost 20 seconds using evacuation lane, suggesting course reconnaissance failures cost Ineos potential podium positions."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 48-second margin on 31km flat TT signals ability to extend leads exponentially in any future chrono stage",
+      "MAS Enric": "negative: losing over 60 seconds to Roglic on pan-flat course confirms he cannot defend GC against time-trialists in third week",
+      "YATES Simon": "positive: described as rekindling Giro-level TT form while moving to 5th overall, making him podium threat if form continues",
+      "ROGLIC Primoz": "neutral: 48-second loss reduced him from 1:53 to 2:41 deficit but stayed second, suggesting he peaked TT form but Evenepoel untouchable",
+      "ALMEIDA Joao": "negative: course navigation error cost 20 seconds in evacuation lane, revealing poor recon by Ineos staff",
+      "AYUSO Juan": "negative: self-described as upset after finishing 1:17 down, indicating his climbing prowess doesn't translate to TT discipline",
+      "CAVAGNA Remy": "positive: held hot seat until late starters, proving 54.4 km/h benchmark on flat TT remains elite non-specialist standard"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:41:45.950979+00:00"
+}

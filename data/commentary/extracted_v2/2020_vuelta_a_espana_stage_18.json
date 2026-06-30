@@ -1,0 +1,24 @@
+{
+  "label": "2020 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-08",
+  "stage": 18,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primož won the 2020 Vuelta GC by 24 seconds over CARAPAZ after surviving a late challenge on Stage 17 that nearly cost him the jersey.",
+    "winner": "ROGLIC Primož",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Movistar won team classification 11th time suggesting consistent depth beats individual star power in three-week calculations.",
+      "Stage 17 nearly reversed 24-second final margin indicating Carapaz had late-race form superiority Roglic couldn't match climbing."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: challenged Roglic seriously on Stage 17 final climb, suggesting he peaked later than GC rivals in third week",
+      "CARTHY Hugh": "positive: stage win at Angliru plus top-3 GC finish signals genuine Grand Tour podium capability not fluke",
+      "MARTIN Dan": "positive: stage win and fourth overall with threatening final week suggests pre-race underestimation of form",
+      "VALVERDE Alejandro": "neutral: battled to stay top-10 at age 40, indicating declining climbing margins versus true GC contenders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:31:00.317995+00:00"
+}

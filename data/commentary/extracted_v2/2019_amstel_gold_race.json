@@ -1,0 +1,27 @@
+{
+  "label": "2019 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2019-04-21",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu attacked repeatedly in final 40km, dropped on Cauberg with 4km to go, regained contact in tailwind finale, won from small group sprint",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van der Poel's repeated attacks from 38km out forced selection but left him vulnerable to counterattacks on Cauberg",
+      "Kwiatkowski's solo move stuck briefly because marked riders (Alaphilippe, Fuglsang) hesitated watching each other instead of chasing",
+      "Tailwind final kilometer allowed dropped riders to rejoin, nullifying Cauberg selections - finish positioning trumped climbing strength",
+      "Van der Poel sprinted from small group after being dropped, suggesting superior recovery from early attacks"
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: won despite being dropped on Cauberg 4km out, exceptional recovery ability makes him dangerous even after appearing cooked",
+      "KWIATKOWSKI Michal": "negative: got clear inside 5km but couldn't hold off regrouping behind, solo strength insufficient at race-critical moment",
+      "ALAPHILIPPE Julian": "negative: marked on Cauberg but failed to respond decisively to Kwiatkowski's move, hesitation cost podium opportunity",
+      "FUGLSANG Jakob": "neutral: strong enough for podium group but tactical hesitation with Alaphilippe allowed Kwiatkowski's brief escape",
+      "CLARKE Simon": "positive: second place from small group without making headline attacks, positioning discipline in finale more effective than flashy moves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:43:41.982028+00:00"
+}

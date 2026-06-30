@@ -1,0 +1,30 @@
+{
+  "label": "2020 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-09",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DÉMARE won his third stage after crosswinds split the peloton early, trapping YATES, BILBAO, MAJKA in groups that chased for over 80km.",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QUICKSTEP and JUMBO-VISMA initiated echelons early on flat coastal stage, forcing 80km chase from GC contenders.",
+      "YATES took significantly longer to rejoin main group than FUGLSANG and MAJKA, suggesting weaker team support in crosswinds.",
+      "Direction change at 80km mark neutralized chasing efforts, rewarding riders who saved energy over those who bridged early.",
+      "Intermediate sprint at Taranto with 56km remaining showed VIVIANI finally engaged for points classification after passive early stages."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: caught in echelons and required longest time to regain contact, exposing team weakness in wind management",
+      "FUGLSANG Jakob": "positive: initially dropped in echelons but rejoined main group quickly through efficient chase work",
+      "MAJKA Rafał": "neutral: caught behind but bridged faster than other GC riders, showing better crosswind positioning",
+      "BILBAO Pello": "negative: trapped in echelons despite holding third overall, concerning positioning for GC rider in non-climbing stage",
+      "ALMEIDA João": "positive: avoided all crosswind splits and crashes while in pink, superior race craft for young rider",
+      "VIVIANI Elia": "positive: first active intermediate sprint showing intent for points classification after quiet opening stages",
+      "DÉMARE Arnaud": "positive: third win in seven stages despite messy sprint, Groupama team control remains dominant",
+      "SAGAN Peter": "neutral: second place again but never threatens DÉMARE in actual sprint execution"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:27:23.991607+00:00"
+}

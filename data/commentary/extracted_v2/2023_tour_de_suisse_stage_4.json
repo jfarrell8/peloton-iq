@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-14",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GALL Felix attacked from reduced peloton with teammate DEWULF's assistance on final climb, won by 1:03 and took yellow jersey by 2 seconds over SKJELMOSE.",
+    "winner": "GALL Felix",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "AG2R used DEWULF from breakaway as bridge domestique to pace GALL after his attack from favorites group.",
+      "Trek-Segafredo permitted MÄDER at only 2 minutes GC to escape, suggesting comfort with non-threat breakaway riders.",
+      "BARDET attacked multiple times in final kilometer but others marked him rather than collaborating, gifting GALL time.",
+      "Bonus seconds became decisive with GALL winning yellow by only 2 seconds; EVENEPOEL's 6-second haul for second salvaged GC."
+    ],
+    "rider_signals": {
+      "GALL Felix": "positive: converted multiple recent second-places into breakthrough win when AG2R provided breakaway-to-attack tactical support",
+      "AYUSO Juan": "negative: went backwards early on final climb hardest section, dropped from yellow jersey contention to sixth overall",
+      "EVENEPOEL Remco": "positive: dropped multiple times but fought back repeatedly showing resilience over pure climbing strength on gradients",
+      "BARDET Romain": "positive: most aggressive seen in long while with repeated late attacks though marked by rivals",
+      "SKJELMOSE Mattias": "positive: secured third place and 4 bonus seconds to finish 2 seconds off yellow, positioned perfectly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:01:54.711562+00:00"
+}

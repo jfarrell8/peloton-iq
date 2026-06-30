@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not rely on pure climbing attacks; excels at tactical opportunism in final kilometers, exploiting hesitation among breakaway companions. Wins through superior chase ability and patience rather than traditional attacks.",
+  "team_tactics": "Receives specific tactical directives (KOM point collection observed), suggesting team willingness to sacrifice stage positioning for jersey competitions or strategic objectives.",
+  "terrain_preference": "Technical finales combining climbs with descents or flat run-ins where chase ability matters more than pure climbing. Cobbled climbs that fragment groups but allow bridging opportunities suit him well.",
+  "vulnerability": "Gets dropped on sustained climbs when pure climbing power is required. Relies on others' tactical errors and cannot stay with elite climbers on mountain stages.",
+  "key_patterns": [
+    "Dropped on climbs but bridges back using superior descending and flat pursuit skills (2 instances)",
+    "Wins through tactical patience, waiting for leaders to hesitate rather than raw power attacks",
+    "Team assigns specific jersey or points collection roles beyond personal stage ambitions"
+  ],
+  "form_trajectory": "positive: Achieved first professional win in 2019 by successfully executing chase-and-sprint tactics after being distanced",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BENEDETTI Cesare",
+  "built_from": [
+    "2017 Giro d'Italia Stage 1",
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 12"
+  ]
+}

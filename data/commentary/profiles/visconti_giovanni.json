@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Late-race opportunist who accelerates in final 400m-1km, particularly on technical or chaotic finishes. Targets KOM points from breakaways but struggles to sustain efforts on final climbs when pressure intensifies.",
+  "team_tactics": "Operates with significant autonomy, often in breakaways. Team support appears minimal in observations; relies on individual positioning and veteran race-reading rather than domestique-led setups.",
+  "terrain_preference": "Short uphill drags and technical finishes where positioning chaos rewards experience. Effective in early/intermediate KOM sprints but exposed on sustained final climbs requiring pure climbing power.",
+  "vulnerability": "Dropped from breakaways on final sustained climbs despite earlier strength. Late bridge attempts within final 400m consistently come too late to affect race outcome.",
+  "key_patterns": [
+    "Multiple second-place finishes after late chases, showing strong finishing kick but timing gaps (2017, 2018)",
+    "Active KOM jersey hunter from breakaways, strategic about point collection over stage wins (2020 x2)",
+    "Veteran positioning skills exploit chaotic/technical finishes effectively (2017, 2018)",
+    "Fades on sustained final climbs after earlier efforts in breakaways (2020 pattern)"
+  ],
+  "form_trajectory": "neutral: 2020 showed strategic KOM focus without stage-winning power, managing points efficiently but lacking explosive finish seen in 2017-2018",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "VISCONTI Giovanni",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 8",
+    "2018 Giro d'Italia Stage 5",
+    "2020 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 16"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who capitalizes on early moves that can survive to the finish, particularly when chaos disrupts organized chases.",
+  "team_tactics": "Relies on breakaway survival rather than team-led setups; benefits when external factors (crashes, multiple team interests) fragment peloton chase coordination.",
+  "terrain_preference": "Stages where breakaways have high survival probability; capable of winning from reduced groups when sprint teams are disrupted or disorganized.",
+  "vulnerability": "Likely struggles against fully organized sprint team trains or when multiple well-resourced teams commit to sustained chasing without disruption.",
+  "key_patterns": [
+    "Targets early breakaways on stages where peloton control may fracture or fail",
+    "Capitalizes on race disruptions like crashes to neutralize organized chase efforts",
+    "Shows strong form recovery timing after limited racing schedule in previous season"
+  ],
+  "form_trajectory": "positive: Won first 2018 race after severely limited 2017 season (only 30 racing days), demonstrating effective recovery and timing",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "COUSIN Jeremy",
+  "built_from": [
+    "2018 Paris-Nice Stage 5",
+    "2018 Paris-Nice Stage 5"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2018 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-16",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked with 1.6km remaining on the cobbled Osimo finish, holding off DUMOULIN Tom's late surge to win Stage 11",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Androni-Sidermec deployed five riders to early break on Scarponi memorial stage, prioritizing visibility over GC defense.",
+      "Quick-Step rider initiated premature attack at 4.7km on cobbles, forcing Mitchelton-Scott to control rather than exploit numbers.",
+      "Dumoulin closed gap on flatter cobbled sections but lacked acceleration where gradient increased on technical surface combination."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked at 1600m on steep cobbled ramp showing both power and tactical timing superior to pure time trialists",
+      "DUMOULIN Tom": "negative: isolated chase effort suggests Sunweb lacked positioning entering cobbles despite this terrain theoretically suiting him",
+      "WELLENS Tim": "neutral: Lotto-Soudal positioned aggressively early on cobbles but faded when gradient steepened with 1400m remaining",
+      "MASNADA Fausto": "positive: Androni rider willing to work in break despite no personal stage win chance, stayed committed until 5km"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:19:07.215476+00:00"
+}

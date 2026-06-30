@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-02",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JACOBSEN Fabio won headwind sprint after crashes decimated field, positioning saved by teammates after Lampaert's crash necessitated leadout scramble",
+    "winner": "JACOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step controlled despite yellow jersey Lampaert crashing, demonstrating team depth can compensate for leadership chaos late-stage",
+      "Crosswind bridge threat neutered by headwind shift at 30km, revealing weather forecasts alone insufficient for positioning urgency",
+      "EF Education committed extended resources recovering Uran from mechanical past 10km mark, exposing GC team priority over sprint",
+      "Multiple crashes sub-3km eliminated sprint trains, favoring individually strong sprinters over leadout-dependent finishers like Ewan"
+    ],
+    "rider_signals": {
+      "JACOBSEN Fabio": "positive: survived headwind sprint without leadout after Lampaert crash, showing individual sprint power beyond pure speed",
+      "VAN AERT Wout": "positive: finished second despite no Quick-Step coordination issues, confirming sprint versatility without dedicated train",
+      "EWAN Caleb": "negative: suffered incident and checked sprint when leadouts disrupted, exposing dependence on structured approaches",
+      "URAN Rigoberto": "neutral: required massive team expenditure for mechanical recovery inside 10km, questioning GC viability if repeated",
+      "BISSEGGER Stefan": "positive: provided non-team assistance to Uran recovery, unusual cross-team cooperation under nervous conditions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:52:03.841871+00:00"
+}

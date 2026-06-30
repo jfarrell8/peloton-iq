@@ -1,0 +1,28 @@
+{
+  "label": "2018 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-11",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan won the Stage 16 time trial, with YATES Simon extending his GC lead to 32 seconds over VALVERDE after QUINTANA and LÓPEZ disappointed.",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "YATES Simon built buffer before final mountain stages despite time trialing weakness, suggesting tactical evolution in race approach.",
+      "KELDERMAN Wilco's time trial performance moved him within 52 seconds of red jersey, making him live podium threat.",
+      "QUINTANA Nairo and LÓPEZ Miguel Ángel both cracked in same time trial, revealing shared altitude/fatigue accumulation pattern."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: controlled pacing strategy with mid-stage acceleration proves effective, now leaving race for Worlds preparation",
+      "ROSSKOPF Joey": "positive: second place finish as domestique suggests BMC had residual team strength despite supporting leadership",
+      "YATES Simon": "positive: gained 32-second GC buffer despite acknowledging time trialing weakness, mental preparation effective",
+      "KELDERMAN Wilco": "positive: elevated to podium contention at 52 seconds after strong TT while GC rivals faded",
+      "QUINTANA Nairo": "negative: dropped to fourth overall after disappointing time trial revealed accumulated fatigue from mountain efforts",
+      "LÓPEZ Miguel Ángel": "negative: more disappointing than Quintana per commentary, suggesting youth/recovery deficit in third week",
+      "VALVERDE Alejandro": "neutral: held second at 32 seconds but commentary suggests expectation gap versus performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:47:45.424851+00:00"
+}

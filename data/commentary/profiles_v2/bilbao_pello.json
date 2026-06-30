@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Attacks on final climbs from breakaways or reduced groups, often late (final climb/corkscrew finishes). Capable of solo efforts but more effective in tactical sprints from small groups where he can exploit wheels.",
+  "team_tactics": "Often races with limited team support and shows ability to operate isolated. Occasionally works for teammates (Mikel Bilbao) but primarily positioned for personal opportunities from breakaways rather than team-led GC trains.",
+  "terrain_preference": "Multi-stage mountain races with technical descents suit him best—can recover time lost on climbs via superior descending skills. Struggles in echelons/wind and ITTs where sustained power matters more than tactical positioning.",
+  "vulnerability": "Psychological fragility in decisive moments (looking over shoulder costing podium). Poor wind/echelon awareness for GC rider. ITT discipline insufficient. Mistimes efforts when forced to initiate rather than react.",
+  "key_patterns": [
+    "Strong descender uses technical skill to rejoin/gain after slower climbing pace (3 observations)",
+    "Effective in uphill sprints from small groups, reading wheels tactically for stage wins (4 observations)",
+    "Operates successfully isolated without team support, bridging/attacking solo from breakaways (3 observations)",
+    "Positioning intelligence over raw power: gains time through smart wheels not attacking (3 observations)",
+    "Fades in sustained power efforts: final kilometers ITT, echelons expose weakness (3 observations)"
+  ],
+  "form_trajectory": "positive: 2023 shows peak form with podium at Tour, beating Vingegaard in sprint, descending versatility, staying with Evenepoel",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "BILBAO Pello",
+  "built_from": [
+    "2018 Criterium du Dauphine Stage 6",
+    "2018 Criterium du Dauphine Stage 6",
+    "2019 Giro d'Italia Stage 20",
+    "2019 Giro d'Italia Stage 20",
+    "2019 Tour de France Stage 12",
+    "2020 Giro d'Italia Stage 10",
+    "2020 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 7",
+    "2020 Giro d'Italia Stage 9",
+    "2020 Paris - Nice Stage 1",
+    "2020 Paris - Nice Stage 4",
+    "2022 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 16",
+    "2022 UAE Tour Stage 7",
+    "2023 Tour de France Stage 17",
+    "2023 Tour de Romandie Stage 3",
+    "2023 Tour de Romandie Stage 3",
+    "2023 Tour de Suisse Stage 5",
+    "2023 UAE Tour Stage 7"
+  ]
+}

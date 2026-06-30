@@ -1,0 +1,27 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-22",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL attacked inside 1km when ROGLIC refused to share pace work after 9km Quick-Step tempo control, won by 2 seconds but lost GC on tiebreak",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Soudal Quick-Step tempo from 9km isolated Roglic's UAE support, forcing him into unequal two-up negotiations without teammates.",
+      "Van Gils held quality breakaway threatening enough to prevent UAE from controlling pace, enabling Soudal's sustained tempo strategy.",
+      "Evenepoel's stage bonus seconds (4s) neutralized by winning margin under GC tiebreak threshold, revealing miscalculation in final celebration deceleration."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: controlled 9km tempo riding through team, then finished with acceleration when tactical negotiations failed",
+      "ROGLIC Primoz": "neutral: tactically correct refusing pace work while isolated, maintained GC lead through tiebreak despite being outnumbered",
+      "SOLER Marc": "negative: attacked without protecting UAE leader YATES when team cohesion needed against Soudal's numerical advantage",
+      "BERNAL Egan": "negative: dropped on sustained tempo rather than explosive attacks, signals continued recovery limitations",
+      "CARAPAZ Richard": "positive: refused to abandon breakaway cooperation despite GC proximity, forcing peloton's extended chase effort",
+      "VAN GILS Maxim": "positive: last breakaway survivor into final 9km, quality enough to complicate UAE's pace calculations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:03:30.068695+00:00"
+}

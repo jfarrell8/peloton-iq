@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Extreme long-range breakaway specialist willing to commit to 200km solo efforts for jersey points even when victory is impossible. Prioritizes classification objectives over stage wins.",
+  "team_tactics": "Operates with high autonomy in breakaways; team allows opportunistic moves for secondary classifications rather than stage-winning domestique duties.",
+  "terrain_preference": "KOM point-gathering terrain; thrives in breakaway scenarios on stages where specialists won't contest intermediate climbs. Third-week sprint stages where degradation creates openings.",
+  "vulnerability": "Lacks pure finishing speed against specialists; breakaway efforts appear primarily classification-focused rather than stage-winning capable. Energy expenditure model unsustainable for GC contention.",
+  "key_patterns": [
+    "Willing to lead solo breakaways for 99% of 200km+ stages for classification points (2017)",
+    "Targets third-week opportunities when specialist form degrades, mixing with faster finishers (2018)",
+    "Demonstrates exceptional breakaway commitment despite inevitable catch, prioritizing KOM objectives over energy conservation (2017)",
+    "Operates as versatile domestique who capitalizes on degraded sprint fields late in Grand Tours (2018)"
+  ],
+  "form_trajectory": "positive: Evolved from pure breakaway kamikaze (2017) to tactically opportunistic domestique exploiting third-week degradation (2018)",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "FINNEY Taylor",
+  "built_from": [
+    "2017 Tour de France Stage 2",
+    "2017 Tour de France Stage 2",
+    "2018 Tour de France Stage 18"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour of Oman Stage 3",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-18",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alexey attacked inside 2km on final climb after Astana survived crosswind splits, dropping KRISTOFF who cracked defending red jersey",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Classics specialists (including Kristoff) drove echelon formation from right-side crosswinds before final climb, foreshadowing split.",
+      "Astana's Lutsenko used attack as defense when breakaway threatened, conserving energy while competitors chased down 7-minute gap.",
+      "Final climb with 2km remaining proved decisive separation point despite earlier crosswind selections remaining largely intact."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: Back-to-back stage wins show exceptional current form, attacked late on climb after aggressive earlier racing didn't compromise finishing power",
+      "KRISTOFF Alexander": "negative: Cracked with 2km remaining on final climb despite surviving crosswinds in red jersey, suggesting climb length threshold vulnerability",
+      "VAN HECKE Preben": "neutral: Teammate cooperation in 7-minute breakaway shows UAE willing to commit multiple riders for KOM points strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:03:54.877680+00:00"
+}

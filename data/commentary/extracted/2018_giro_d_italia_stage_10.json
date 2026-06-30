@@ -1,0 +1,29 @@
+{
+  "label": "2018 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-15",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MOHORIČ held off DENZ from the breakaway after DUMOULIN suffered late bike change but limited losses to 18 seconds.",
+    "winner": "MOHORIČ Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CICCONE harvested both KOM climbs from early break, signaling selective aggression for jersey competitions over stage victory.",
+      "Mitchelton-Scott abandoned CHAVES chase around 2 minutes back, preserving domestiques rather than burning team defending pink jersey.",
+      "Quick-Step delayed sprint train setup while monitoring VIVIANI's position, revealing nervousness about controlling fragmented finales.",
+      "DUMOULIN bike change at 18km triggered no panic pursuit, suggesting Sky calculated pink jersey gap safe despite isolation."
+    ],
+    "rider_signals": {
+      "MOHORIČ Matej": "positive: won two-up sprint after cooperating with DENZ through finale, showing tactical maturity to share work then outsprint",
+      "DENZ Nico": "positive: forced MOHORIČ to cooperate until final meters despite previous failed break attempts same race",
+      "CHAVES Esteban": "negative: distanced when Sky accelerated on rolling roads, lost 10+ minutes suggesting form collapse or illness mid-stage",
+      "DUMOULIN Tom": "neutral: bike change 18km out cost time but no teammates rallied suggesting calculated acceptance of small GC loss",
+      "YATES Simon": "positive: contested intermediate sprint in pink jersey despite no GC threat, extending Dumoulin gap to 41 seconds aggressively",
+      "BENNETT Sam": "positive: sprinted from chase group for third despite breakaway finishing clear, maximizing points when stage win unavailable",
+      "CICCONE Giulio": "positive: prioritized both early KOMs over break cohesion, tactical focus on jersey classification rather than stage result"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:23:11.658890+00:00"
+}

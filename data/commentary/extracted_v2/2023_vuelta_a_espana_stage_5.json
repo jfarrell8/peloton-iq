@@ -1,0 +1,26 @@
+{
+  "label": "2023 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won Stage 5 sprint with perfect Alpecin leadout after Sepulveda solo-bridged 1-minute gap mid-climb to protect KOM jersey.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sepulveda solo-bridged 1-minute gap on category 2 climb rather than letting peloton catch breakaway, revealing aggressive KOM defense",
+      "Alpecin still had two leadout riders with 200m remaining through technical finale, luxury no other sprint team matched",
+      "Evenepoel extending GC advantage on flat stages (6 seconds today), suggesting rivals conceding time before mountain stages"
+    ],
+    "rider_signals": {
+      "SEPULVEDA Eduardo": "positive: willing to spend significant energy solo-bridging mid-race for 5 KOM points, showing jersey defense priority over stage positioning",
+      "GROVES Kaden": "positive: casual shoulder check at 200m with two leadout men remaining shows confidence in sprint superiority and team depth",
+      "GANNA Filippo": "positive: nearly caught Groves post-line despite no leadout, revealing raw power threatens even perfectly executed trains",
+      "VINGEGAARD Jonas": "negative: already 43 seconds down after only 300 yards hard racing (Andorra climb), concerning early deficit for GC contender",
+      "ROGLIC Primoz": "negative: matching Vingegaard's 43-second deficit without any documented difficulty suggests tactical passivity or fitness concerns"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:07:45.339022+00:00"
+}

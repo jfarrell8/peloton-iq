@@ -14,75 +14,85 @@
       {
         "video_id": "A2bdkidPx94",
         "title": "Tour de Romandie 2019 | Stage 1 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-05-01 17:05:53+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 78.0
       },
       {
         "video_id": "UzGZoMPOWao",
         "title": "Tour de Romandie 2019 | Stage 1 Highlights | inCycle",
-        "channel": "inCycle",
         "published": "2019-05-02 15:28:13+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
         "match_score": 78.0
       },
       {
         "video_id": "NhdYZx6dOrM",
         "title": "Tour de Suisse 2019: Stage 1 highlights",
-        "channel": "Velon",
         "published": "2019-06-15 21:58:44+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 77.39
       },
       {
         "video_id": "IskUVSILmZ0",
         "title": "Tour of Guangxi 2019: Stage 1 On-Bike Highlights",
-        "channel": "Velon",
         "published": "2019-10-17 11:47:22+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 74.81
-      },
-      {
-        "video_id": "9yzwNAvbVO4",
-        "title": "Tour of Utah 2019 | Stage 1 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-08-14 18:30:01+00:00",
-        "match_score": 74.29
       },
       {
         "video_id": "0iNnDwPXcQ0",
         "title": "Tour of Britain 2019 | Stage 1 Highlights | inCycle",
-        "channel": "inCycle",
         "published": "2019-09-09 14:30:01+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "9yzwNAvbVO4",
+        "title": "Tour of Utah 2019 | Stage 1 Highlights | inCycle",
+        "published": "2019-08-14 18:30:01+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
         "match_score": 74.29
       },
       {
         "video_id": "L_GzEybyR34",
         "title": "Tour of Britain 2019 | Stage 1+2 RECAP Highlights | inCycle",
-        "channel": "inCycle",
         "published": "2019-09-09 14:15:00+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
         "match_score": 74.29
-      },
-      {
-        "video_id": "G6_-s5GlWSE",
-        "title": "UAE Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-02-25 11:54:19+00:00",
-        "match_score": 70.42
       },
       {
         "video_id": "Kr08H3uG4bE",
         "title": "UAE Tour 2019 | Stage 1 Highlights | inCycle",
-        "channel": "inCycle",
         "published": "2019-02-25 12:54:52+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
         "match_score": 70.42
       },
       {
-        "video_id": "0i9QQyE7dwo",
-        "title": "BinckBank Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "video_id": "G6_-s5GlWSE",
+        "title": "UAE Tour 2019 | Stage 1 Highlights | Cycling | Eurosport",
+        "published": "2019-02-25 11:54:19+00:00",
         "channel": "TNT Sports",
-        "published": "2019-08-12 15:33:03+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 70.42
+      },
+      {
+        "video_id": "mjRgoW53jhY",
+        "title": "Highlights | Ziptrak\u00ae Stage 1 | 2019 Santos Tour Down Under",
+        "published": "2019-01-15 10:46:03+00:00",
+        "channel": "Tour Down Under",
+        "channel_id": "UCm0Qjs5OBrv3-d6kKBshEbg",
         "match_score": 70.0
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

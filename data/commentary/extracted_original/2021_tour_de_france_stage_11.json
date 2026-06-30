@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-07",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "WOUT van Aert won from the breakaway after dominating both Ventoux ascents, while VINGEGAARD attacked the yellow jersey group and cracked POGAČAR before being caught.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT attacked solo from breakaway on final Ventoux ascent gaining 4.5 minutes, proving grand tour stage versatility metric.",
+      "VINGEGAARD's white jersey attack exposed POGAČAR weakness before yellow jersey recovered on descent, revealing recovery pattern.",
+      "INEOS controlled early pace on first Ventoux ascent forcing break selection before attacks, showing double-climb pacing strategy.",
+      "Trek-Segafredo placed three riders in break (MOLLEMA, ELISSONDE) but couldn't counter VAN AERT solo power."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Led mountain stage 24 hours after sprint second place, demonstrating unprecedented versatility recovery between effort types.",
+      "POGAČAR Tadej": "negative: First visible crack when VINGEGAARD attacked, needed chase effort to limit losses, concerning sign mid-tour.",
+      "VINGEGAARD Jonas": "positive: Attacked yellow jersey group and gained 30 seconds over summit, showing GC threat potential not just domestique role.",
+      "O'CONNOR Ben": "negative: Suffered badly in heat and dropped from 2nd to 5th GC, losing over five minutes post-Alpine success.",
+      "GAUDU David": "negative: Dropped early on easier Sault ascent despite sitting 10th GC, heat exposure weakness revealed.",
+      "QUINTANA Nairo": "negative: Leading KOM competition but dropped on easier first Ventoux ascent, showing declining climbing form."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:30:15.717620+00:00"
+}

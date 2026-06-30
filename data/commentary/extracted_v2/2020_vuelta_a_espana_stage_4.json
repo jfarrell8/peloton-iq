@@ -1,0 +1,25 @@
+{
+  "label": "2020 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-23",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint after Deceuninck leadout delivered him perfectly, holding off PHILIPSEN's late corner attack in the final 25 meters.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar attacked at 100km out in crosswinds despite being 60 miles from finish, fracturing peloton at 50+ mph speeds.",
+      "PHILIPSEN attacked on the final corner attempting to preempt sprint leadout trains, nearly stealing stage before BENNETT's superior late acceleration.",
+      "Deceuninck's leadout proved decisive in chaotic closing kilometers that BENNETT himself described as scary, suggesting organized trains dominate sketchy finishes."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: demonstrated rare late-race acceleration depth, catching PHILIPSEN after corner attack in final 25m despite admitting doubt mid-sprint",
+      "PHILIPSEN Jasper": "positive: tactical aggression on final corner nearly succeeded, revealing willingness to break sprint conventions when conditions are sketchy",
+      "ACKERMANN Pascal": "negative: fourth place finish described as disappointing by commentary, suggesting form deficit to BENNETT despite previous stage win expectations",
+      "ROGLIC Primoz": "neutral: continues dominating jersey count but GC contenders avoided time bonuses, signaling conservative approach on non-mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:31:38.365326+00:00"
+}

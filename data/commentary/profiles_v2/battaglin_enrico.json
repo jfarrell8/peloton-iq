@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic sprinter from reduced groups rather than pure power sprinter. Showed willingness to contest intermediate points even within breakaways, indicating tactical awareness beyond stage wins.",
+  "team_tactics": "Limited data, but appears to operate with autonomy in breakaways, making independent tactical decisions (KOM competition vs. cooperation) suggesting freedom or low team support.",
+  "terrain_preference": "Reduced bunch sprints after selective racing; capable in breakaways but not a pure climber. Suits stages where attrition creates smaller finishing groups.",
+  "vulnerability": "Likely exposed in pure mass sprints against top-tier sprinters. Breakaway tactics suggest preference for avoiding direct confrontation with lead-out trains.",
+  "key_patterns": [
+    "Contests secondary objectives (KOM points) even when in breakaways, showing multi-goal racing approach.",
+    "Wins from reduced groups after late catches, suggesting strong finishing speed in smaller fields.",
+    "Operates in breakaways tactically, not purely as escape artist but calculating positioning."
+  ],
+  "form_trajectory": "positive: Stage win and active tactical racing within same Grand Tour stage race indicates good condition",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BATTAGLIN Enrico",
+  "built_from": [
+    "2018 Giro d'Italia Stage 4",
+    "2018 Giro d'Italia Stage 5"
+  ]
+}

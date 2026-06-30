@@ -1,0 +1,24 @@
+{
+  "label": "2022 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-24",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the Champs-Élysées sprint after VINGEGAARD Jonas humorously attacked in the yellow jersey before the official start.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Vingegaard attacked ceremonially before km 0 with Pogacar/Van Aert/Gescht, forcing GC riders to respond before realizing it was theater.",
+      "Van Aert claimed green jersey with sufficient dominance to afford ceremonial attacks on final stage despite sprint preparation."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: comfortable enough to launch fake attack with rivals pre-race, showing psychological dominance after three-week battle",
+      "VAN AERT Wout": "positive: won final sprint while wearing green jersey after dominant points classification, double celebration",
+      "GESCHT Simon": "neutral: called up for polka-dot photos despite finishing second in KOM, missed winning competition by single breakaway",
+      "THOMAS Geraint": "positive: third overall at age 36 represents career-best Grand Tour numbers, not decline management"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T18:23:34.897490+00:00"
+}

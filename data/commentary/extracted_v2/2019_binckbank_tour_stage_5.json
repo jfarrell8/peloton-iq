@@ -1,0 +1,27 @@
+{
+  "label": "2019 BinckBank Tour Stage 5",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-16",
+  "stage": 5,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HODGE Alvaro won via late leadout after Quick-Step stayed organized while Bennett's Deceuninck train disintegrated in messy final 2km.",
+    "winner": "HODGE Alvaro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step pivoted from GC protection (Wellens) to opportunistic sprint support for Hodge when leadout trains fragmented.",
+      "Bennett isolated despite red jersey; Deceuninck train collapsed early leaving him trapped barrier-side with 1100m remaining.",
+      "Trek-Segafredo committed to Teuns despite no dedicated leadout, exposing vulnerability when multiple teams lacked clear sprint hierarchy.",
+      "Sunweb indecision between Herschey/Nowhaus left both without support, revealing poor pre-stage role definition despite GC position."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: trapped on barriers at 1100m out after leadout disintegrated, suggesting team coordination issues despite stage 4 win",
+      "HODGE Alvaro": "positive: capitalized when Quick-Step unexpectedly supported him over GC priorities, showing team flexibility pays",
+      "DEMAR Arnaud": "neutral: solo positioning strategy failed when forced to follow others after teammates shed early",
+      "HERSCHEY Mark": "negative: team couldn't decide between him and Nowhaus for sprint despite lying 2nd GC at 4s",
+      "TEUNS Dylan": "neutral: Trek committed resources but no proper train suggests emergency sprint option rather than genuine threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:44:53.308957+00:00"
+}

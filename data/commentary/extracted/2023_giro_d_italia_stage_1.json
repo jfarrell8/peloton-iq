@@ -1,0 +1,28 @@
+{
+  "label": "2023 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco obliterated the field by 43 seconds over ROGLIČ Primož in a 70km opening ITT, taking 20 seconds at the first check and extending on the final 2km climb to Ortona.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EVENEPOEL Remco gained half his winning margin before the final climb, indicating flat power dominance not just climbing strength.",
+      "ROGLIČ Primož lost 43 seconds despite riding competently, suggesting UAE's VINE and MCNULTY provide better ITT benchmarking than Jumbo depth.",
+      "GEOGHEGAN HART Tao climbed significantly faster than early starters despite slower flat speed, revealing climb-weighted pacing strategy works on mixed ITTs.",
+      "Wind-assisted coastal section produced 53kph averages for contenders, meaning first time check separated pure diesel engines from explosive climbers."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 20-second gap at first check indicates current TT form untouchable even before climbing advantage kicks in",
+      "ROGLIČ Primož": "negative: 43-second deficit on opening day suggests GC deficit management starts immediately, unlike typical Grand Tour buildup",
+      "ALMEIDA João": "positive: 29-second loss to EVENEPOEL while beating specialists KÜNG and nearly matching GANNA reveals underrated TT progression",
+      "VINE Jay": "positive: beat MCNULTY despite recent knee injury, suggesting UAE TT depth allows aggressive support tactics throughout three weeks",
+      "GANNA Filippo": "neutral: third place despite specialist status indicates current form insufficient to match EVENEPOEL on mixed terrain ITTs",
+      "GEOGHEGAN HART Tao": "positive: broke 22-minute barrier via superior climbing after slow flat splits, validating climber-paced ITT strategy on mixed parcours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:00:38.719270+00:00"
+}

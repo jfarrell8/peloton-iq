@@ -1,0 +1,25 @@
+{
+  "label": "2021 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-27",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BETTIOL Alberto attacked from 23-rider break on final climb, dropped CAVAGNA on penultimate ascent, won solo by 17 seconds",
+    "winner": "BETTIOL Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVAGNA's early attack on penultimate climb forced selection but left him completely empty on final ascent.",
+      "BETTIOL chose to bridge gradually rather than follow CAVAGNA's initial move, saving energy for final climb acceleration.",
+      "ROOCH showed superior pacing discipline by letting CAVAGNA go, closing to within 20 seconds but never truly threatening."
+    ],
+    "rider_signals": {
+      "BETTIOL Alberto": "positive: Classics rider displaying exceptional climbing form, attacking decisively on category climbs rather than just following",
+      "CAVAGNA Remi": "negative: Strong enough to create selection but tactical error going too early left him completely depleted",
+      "ROOCH Nicholas": "positive: Intelligent chase earned podium but couldn't close final 20 seconds despite CAVAGNA fading",
+      "CONSONNI Simone": "positive: Unexpected second place from advancing group suggests form peak; unusual result for sprinter-type on this terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:38:24.041158+00:00"
+}

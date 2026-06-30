@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won from a 29-rider breakaway after Bora-Hansgrohe waited until 300m to lead out a sprint he hijacked, while ARMIRAIL Bruno took pink from a chase group 19.5min behind.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos controlled early but allowed 29-rider breakaway 12min gap, revealing willingness to surrender pink for stage 14.",
+      "Bora-Hansgrohe's BETTIOL launched sprint at 300m from reduced front group, too early for uphill finish allowing DENZ hijack.",
+      "ARMIRAIL at 18.5min GC traveled in third group on road, calculating pink takeover while avoiding front chase energy expenditure."
+    ],
+    "rider_signals": {
+      "DENZ Nico": "positive: second stage win in three days shows emerging sprint opportunism from breakaways on technical finishes",
+      "ARMIRAIL Bruno": "positive: positioned perfectly in third group to gain pink without burning matches in doomed chase of front four",
+      "GEE Derek": "neutral: third second-place finish this Giro suggests strong positioning but lacks final 200m acceleration",
+      "BAIS David": "positive: strategically reclaimed maglia azzurra on Passo Sempione summit before weather worsened, controlling timing of points collection",
+      "BETTIOL Alberto": "negative: misjudged sprint timing by 100m on uphill finish, leading out competitors from four-man advantage group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:38:17.349391+00:00"
+}

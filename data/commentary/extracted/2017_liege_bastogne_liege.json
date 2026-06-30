@@ -1,0 +1,25 @@
+{
+  "label": "2017 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2017-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro attacked under the red flag after MARTIN Dan's move, dropped him on the final climb to Ans for a solo victory.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Early 13-minute breakaway absorbed methodically; Movistar hunted from Bavo/Fermy Bear ascents, controlling until decisive climbs after La Redoute.",
+      "WELLENS Tim bridged solo from favorites group on Côte de la Roche-aux-Faucons, signaling insufficient firepower to wait for final climb.",
+      "FORMOLO Davide's attack under the red flag forced selection but tactical timing too early; MARTIN countered successfully before final gradient."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: Fresher than MARTIN Dan on steepest final gradient to Ans despite matching earlier accelerations, indicates superior pacing discipline.",
+      "MARTIN Dan": "neutral: Strong enough to attack and briefly lead sub-1km but cracked when VALVERDE responded on steepest finishing ramp.",
+      "WELLENS Tim": "positive: Only non-GC rider to bridge from peloton to leaders on Roche-aux-Faucons, suggests underrated climbing capacity in Ardennes.",
+      "KWIATKOWSKI Michał": "negative: Seventh at Flèche but only third here despite stronger podium expectations, struggled to follow winning accelerations."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:02:36.866589+00:00"
+}

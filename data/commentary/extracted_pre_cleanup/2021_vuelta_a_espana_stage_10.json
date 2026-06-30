@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "STORER Michael won from the breakaway while ROGLIC Primoz crashed attacking on the category 2 descent, losing red jersey to EIKING Odd Christian.",
+    "winner": "STORER Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC Primoz attacked category 2 climb despite holding red jersey, revealing Jumbo willingness to race aggressively even from lead position.",
+      "TRENTINO Matteo attacked breakaway far before final climb base, fragmenting 31-rider group through excessive early aggression despite high tempo.",
+      "Jumbo-Visma intentionally gave virtual red jersey to EIKING Odd Christian before harder stages 11-12, avoiding workload on moderate terrain.",
+      "INEOS riders YATES Adam and BERNAL Egan dropped on relatively moderate category 2 when ROGLIC attacked, exposing weakness disproportionate to stage difficulty."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: Won solo from breakaway and proved strong descending ability, showing versatility beyond pure climbing strength from stage 7 summit win.",
+      "ROGLIC Primoz": "neutral: Crashed on descent after attacking from lead, showing aggressive tactics but questionable risk management when holding jersey advantage.",
+      "EIKING Odd Christian": "positive: Took red jersey with 9 second gap requirement met, Inter Marche now controls race despite being non-GC focused squad.",
+      "YATES Adam": "negative: Dropped on moderate category 2 when stage difficulty not proportionate to GC standing, indicating poor form for expected contender.",
+      "BERNAL Egan": "negative: Dropped alongside Yates on relatively easy stage, INEOS morale at ultimate low per commentary assessment.",
+      "KUSS Sepp": "positive: Set tempo for ROGLIC chase after crash, proving exceptional domestique performance throughout stage under pressure."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:17:21.527633+00:00"
+}

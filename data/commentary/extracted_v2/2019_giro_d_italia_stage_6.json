@@ -1,0 +1,25 @@
+{
+  "label": "2019 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-16",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MASNADA Fausto attacked 10km from summit with CONTI Valerio, cooperated through final kilometers, then won sprint for stage while Conti took pink jersey.",
+    "winner": "MASNADA Fausto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MASNADA-CONTI formed dual-objective alliance: one rider stages, other takes pink, neutralizing chase cooperation from 13-rider breakaway remnants.",
+      "UAE BAHRAIN let 13-rider break gain 6.5min early despite pink jersey defense, intentionally surrendering maglia rosa before time trial.",
+      "Breakaway fracture occurred 10km from summit when tired riders refused to share chase work, allowing two-man move to stay clear."
+    ],
+    "rider_signals": {
+      "MASNADA Fausto": "positive: initiated winning 10km move on climb, showing diesel engine capacity to sustain long-range acceleration into sprint finish",
+      "CONTI Valerio": "positive: strategically prioritized GC over stage win in two-up finish, calculated 5min+ time gain worth more than glory",
+      "ROGLIC Primoz": "negative: crashed early losing skin/shorts, then surrendered pink jersey without defending, signaling team prioritization shift pre-ITT",
+      "NANS Peters": "neutral: finished third GC at 1:47 despite not making final selection, revealing breakaway depth exceeded chase organization"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:51:25.551150+00:00"
+}

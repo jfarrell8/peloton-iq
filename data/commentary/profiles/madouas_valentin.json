@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Makes repeated, aggressive attacks from chase groups to bridge to leaders, particularly effective on puncheur terrain and gravel sectors. Attacks to secure classification points rather than outright stage wins when in breakaways.",
+  "team_tactics": "Often given freedom to operate in breakaways for jersey competitions or to bridge gaps independently. Limited evidence of heavy team setup, suggesting opportunistic racer given latitude to read race situations.",
+  "terrain_preference": "Excels on mixed terrain combining climbs with technical finishes (Strade Bianche gravel, Flanders cobbles/Koppenberg). Strong enough to bridge gaps on climbs, fast enough for reduced sprint finishes. Technical corners and chicanes in sprint finishes diminish his pure speed advantage.",
+  "vulnerability": "Loses advantage in pure power sprints when technical sections (tight corners, chicanes) disrupt momentum in final 300m. Positioning through complex technical finales costs him wins despite having the legs.",
+  "key_patterns": [
+    "Repeatedly attacks from chase groups to bridge to leaders on climbs (Strade Bianche, Flanders).",
+    "Strong in reduced sprints after selective racing but technical finishes compromise positioning (2 sprint finishes).",
+    "Targets secondary classifications (KOM) when stage win unlikely, showing tactical intelligence in breakaways.",
+    "Secures podiums from disadvantaged positions through persistent bridging efforts rather than being in initial selections."
+  ],
+  "form_trajectory": "positive: Demonstrated consistent leg strength across 2022-2023, securing podiums at monuments (Flanders, Strade Bianche) and nearly winning Tour stage. Active, aggressive racing style showing reliability.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "MADOUAS Valentin",
+  "built_from": [
+    "2022 Paris-Nice Stage 6",
+    "2022 Paris-Nice Stage 6",
+    "2022 Ronde van Vlaanderen - Tour des Flandres",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 16",
+    "2023 Strade Bianche"
+  ]
+}

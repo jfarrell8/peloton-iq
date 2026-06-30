@@ -1,0 +1,28 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 5",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-26",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAMDEN Lennard attacked 40-rider breakaway on final climb ridgeline, time-trialed solo 20km to finish despite Ineos chasing.",
+    "winner": "CAMDEN Lennard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Ineos aggressively chased initial 12-rider break fearing GC threats, allowing 40-rider counter-group to form without their numbers.",
+      "CAMDEN attacked on ridgeline false-summit section after climb's KOM, not the steep gradient, exploiting group's hesitation.",
+      "VERONA multiple attacks on descent/ridgeline showed targeting transitions between terrain types rather than sustained climbing.",
+      "Large 40-rider breaks fragment inefficiently with riders skipping pulls; solo attackers time-trial better than disorganized chase groups."
+    ],
+    "rider_signals": {
+      "CAMDEN Lennard": "positive: replicated stage 16 Dauphiné 2020 tactic of attacking Carapaz late climb then time-trialing away",
+      "CAVAÑIA Remy": "negative: 30km solo effort collapsed on final climb despite strong time-trialing on flatter sections",
+      "VERONA Carlos": "positive: repeatedly attacked transitions and descents showing superior positioning instinct on technical terrain",
+      "YATES Adam": "neutral: Ineos burned Rowe/Dennis/Carapaz controlling 40-rider break threat but retained GC position unchanged",
+      "KNOX James": "positive: placed in large break as Ineos insurance policy to sit on dangerous moves",
+      "MAHARAJH Justin": "neutral: gained break via super-tuck descent attack on first major climb showing descending aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:58:50.124895+00:00"
+}

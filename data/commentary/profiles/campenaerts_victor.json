@@ -1,19 +1,36 @@
 {
-  "attacking_style": "Opportunistic breakaway specialist who exploits technical descents and time trial power to establish gaps. Capable of sustaining efforts in small groups deep into finales (sub-1km).",
-  "team_tactics": "Operates with autonomy in breakaways, relying on individual time trial strength rather than team support. Positioned to capitalize on selective racing rather than controlled leadouts.",
-  "terrain_preference": "Technical descents where TT power and bike handling combine effectively. Flat-to-rolling finales that reward sustained threshold efforts. Surprisingly capable on cobbled classics despite TT specialist profile.",
-  "vulnerability": "Lacks sprint speed for reduced bunch finishes. Vulnerable when peloton commits to organized chase in final kilometers, as pure power cannot compensate for numbers.",
+  "attacking_style": "Opportunistic long-range solo attacks from breakaways, often with repeated accelerations in final 1-6km. Willing to gamble on early moves for strategic gains (KOM points, stage hunting) rather than waiting for finish.",
+  "team_tactics": "Operates with minimal team support; self-sufficient breakaway rider who relies on equipment innovation (62t chainrings) and individual power rather than domestique positioning. Tactical intelligence to recognize when gaps stabilize.",
+  "terrain_preference": "Flat to rolling stages and time trials where pure power dominates. Excels on descents with extreme gearing. Struggles visibly on climbs—even Cat 4 efforts compromise him on undulating terrain.",
+  "vulnerability": "Grand Tour accumulation severely degrades TT specialist power by week three (beaten by Haga despite European champion status). Climbing weakness exploited on any sustained or repeated gradients; burns matches too early when attempting repeated attacks on climbs.",
   "key_patterns": [
-    "Uses oversized gearing (62-tooth) on descents to maximize time trial advantage over puncheurs",
-    "Excels in late-race breakaway scenarios, maintaining gaps under extreme pressure inside final kilometer",
-    "TT specialist profile allows competitive results in cobbled classics, defying traditional archetypes"
+    "Time trial specialist whose power fades significantly in third week of Grand Tours (2019 Giro evidence).",
+    "Uses equipment innovation strategically: 62t chainring gambles, extreme gearing choices on descents (Dwars 2022).",
+    "Repeated attacking style within final 6km from breakaways rather than single decisive move (multiple Giro stages).",
+    "Visible suffering on even modest climbs (Cat 4) despite being in breakaways, not pure puncheur.",
+    "Converts breakaway opportunities to wins via sprint after trading attacks, not pure solo power (Giro 2021 win)."
   ],
-  "form_trajectory": "positive: 2023 Tour showed improved ability to sustain breakaway efforts under maximum pressure compared to 2022 classics",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "negative: 2023 observations show visible suffering on minor climbs even in breakaways, suggesting declining climbing tolerance or poor Tour form compared to earlier aggressive classics/Giro performances",
+  "races_analysed": 12,
+  "confidence": "high",
   "rider_name": "CAMPENAERTS Victor",
   "built_from": [
+    "2018 Giro d'Italia Stage 1",
+    "2018 Giro d'Italia Stage 2",
+    "2018 Vuelta a Espana Stage 1",
+    "2018 Vuelta a Espana Stage 1",
+    "2019 Giro d'Italia Stage 21",
+    "2019 Giro d'Italia Stage 21",
+    "2019 Giro d'Italia Stage 9",
+    "2019 Tour de Romandie Stage 5",
+    "2020 Giro d'Italia Stage 19",
+    "2021 Giro d'Italia Stage 15",
+    "2021 Giro d'Italia Stage 15",
+    "2021 Giro d'Italia Stage 8",
     "2022 Dwars door Vlaanderen",
-    "2023 Tour de France Stage 18"
+    "2022 Dwars door Vlaanderen",
+    "2023 Criterium du Dauphine Stage 7",
+    "2023 Tour de France Stage 9",
+    "2023 Tour de France Stage 9"
   ]
 }

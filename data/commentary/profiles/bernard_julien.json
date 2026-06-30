@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks from breakaways on climbs, showing willingness to go solo from companion groups. Targets early-to-mid race climbs rather than waiting for finale.",
+  "team_tactics": "Trek-Segafredo provides momentum and support for early breakaway insertion. Limited evidence of specific lead-out or tempo control from teammates in observed races.",
+  "terrain_preference": "Climbs within breakaway contexts suit him best (Mont Brouilly attack). Struggles to survive when pace intensifies in race finales with elite climbers.",
+  "vulnerability": "Cannot maintain position when race intensifies late or when strong pursuers (like Asgreen) organize chase efforts. Lacks the durability to contest from breakaways when caught.",
+  "key_patterns": [
+    "Attacks from within breakaways on climbs, not from peloton (2 instances)",
+    "Active in early-to-mid race phases rather than finale positioning (2 instances)",
+    "Gets neutralized when stronger riders or organized teams chase down moves (2 instances)"
+  ],
+  "form_trajectory": "neutral: Showed aggression across both races but mixed results—successful attack at Paris-Nice, neutralized at Dauphiné. No clear progression.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BERNARD Julien",
+  "built_from": [
+    "2021 Criterium du Dauphine Stage 5",
+    "2021 Paris-Nice Stage 4"
+  ]
+}

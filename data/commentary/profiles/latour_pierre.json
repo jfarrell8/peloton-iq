@@ -1,22 +1,39 @@
 {
-  "attacking_style": "High-risk, long-range attacks from distance (75km breakaway attempts documented). Targets breakaway points rather than sustained climbing power, willing to expend significant energy for classification goals rather than stage wins.",
-  "team_tactics": "Limited team support visible; operates as individualist hunting opportunities. Sent on long solo missions (Total Direct Energie/current team), suggesting tactical freedom for opportunistic moves rather than protected GC role.",
-  "terrain_preference": "Moderate gradients and rolling terrain for breakaways. Exposed on steep gradients (20%+ documented weakness) and lacks explosive acceleration on punchy climbs when pace intensifies.",
-  "vulnerability": "Steep gradient climbing (20%+) where caught with 1.5km to go. Cannot match accelerations from fresh GC riders or explosive puncheurs like Alaphilippe on steep ramps. Sustained power inadequate against high-intensity attacks late in climbs.",
+  "attacking_style": "Opportunistic descender and late-stage aggressor, typically attacking in final 2km or on descents after summit finishes. Prioritizes bridging to breakaways rather than creating gaps from elite groups.",
+  "team_tactics": "AG2R deploys him as tactical asset: embeds with rival teams for surveillance, bridges after leader tempo work (Bardet drilling), or counterattacks while teammates sit in breakaways. Dual-rider insurance tactics common.",
+  "terrain_preference": "Excels on aggressive transition stages and lumpy finales requiring bridging efforts. Strong time-trialing ability (retained white jersey through 50km TT). Struggles badly in crosswinds and nervous flat stages with positioning demands.",
+  "vulnerability": "Catastrophic weakness in echelon/crosswind scenarios—immediately dropped with poor positioning instincts. Mechanicals and crashes eliminate him from contention on nervous stages. Lacks finishing power after extended climbing efforts despite tactical aggression.",
   "key_patterns": [
-    "Long-range breakaway specialist: documented attacking 75km from finish, prioritizing exposure over efficiency.",
-    "Repeatedly caught/dropped on steepest sections when GC riders or fresh climbers attack late.",
-    "Points classification hunter: willing to burn matches for intermediate points rather than conserving for finish.",
-    "Lacks finishing acceleration: cannot close gaps or respond when gradients exceed 15-20% against quality."
+    "Repeatedly dropped or eliminated by positioning failures in predictable wind/nervous stages (2021 TDF, 2022/2023 Paris-Nice)",
+    "Bridges from peloton to breakaways post-summit, showing diesel climbing rather than explosive attacks (2018 Dauphiné, 2020 TDF)",
+    "Tactical maturity: infiltrates rival groups for surveillance rather than standard domestique duties (2018 Catalunya, Dauphiné)",
+    "Shows sprint/finishing aggression from GC groups but lacks power to create separation (2022 Paris-Nice, 2021 Paris-Nice)",
+    "Survives time trials and stamina tests better than visual assessment suggests (2018 TDF white jersey retention)"
   ],
-  "form_trajectory": "neutral: 2023 shows tactical ambition (75km effort) but unchanged limitations on steep climbs, consistent with historical weaknesses from 2019-2021",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "neutral: Recent years show GC vulnerability to incidents rather than fitness decline, but lack of 2023 results beyond early crash limits assessment",
+  "races_analysed": 15,
+  "confidence": "high",
   "rider_name": "LATOUR Pierre",
   "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
+    "2017 Criterium du Dauphine Stage 1",
+    "2018 Criterium du Dauphine Stage 6",
+    "2018 Criterium du Dauphine Stage 6",
+    "2018 Criterium du Dauphine Stage 6",
+    "2018 Tour de France Stage 12",
+    "2018 Tour de France Stage 14",
+    "2018 Tour de France Stage 19",
+    "2018 Volta Ciclista a Catalunya Stage 4",
+    "2018 Volta Ciclista a Catalunya Stage 4",
     "2019 Vuelta a Espana Stage 13",
-    "2021 Tour de France Stage 1",
-    "2023 Tour de France Stage 7",
-    "2023 Tour de France Stage 7"
+    "2020 Criterium du Dauphine Stage 1",
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 12",
+    "2021 Paris-Nice Stage 8",
+    "2021 Tour de France Stage 12",
+    "2021 Tour de France Stage 7",
+    "2022 Paris-Nice Stage 5",
+    "2022 Paris-Nice Stage 8",
+    "2023 Paris-Nice Stage 2"
   ]
 }

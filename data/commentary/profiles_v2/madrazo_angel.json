@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late striker who attacks inside final 500m despite appearing weaker throughout climb. Exhibits patience and timing over raw power, waiting for companions to fatigue.",
+  "team_tactics": "Insufficient data to establish team tactics pattern. Observed success came from breakaway situation rather than team-orchestrated setup.",
+  "terrain_preference": "Climbing stages where repeated accelerations favor recovery ability over sustained power. Excels when others have exhausted matches through earlier attacks.",
+  "vulnerability": "Likely struggles when forced to lead or control pace given observed pattern of appearing weakest while following. Unable to establish vulnerability patterns from single race.",
+  "key_patterns": [
+    "Able to recover between efforts better than companions despite appearing dropped multiple times",
+    "Shows tactical patience, avoiding premature efforts even when appearing vulnerable on climbs",
+    "Executes winning attacks very late (sub-500m) after competitors have exhausted themselves"
+  ],
+  "form_trajectory": "unknown: Only single race observation from 2019 available, insufficient recent data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MADRAZO Angel",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 5",
+    "2019 Vuelta a Espana Stage 5"
+  ]
+}

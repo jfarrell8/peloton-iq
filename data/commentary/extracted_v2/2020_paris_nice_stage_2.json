@@ -1,0 +1,28 @@
+{
+  "label": "2020 Paris - Nice Stage 2",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-09",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIZZOLO Giacomo won from reduced bunch after QUINTANA Nairo crashed mid-stage losing 1:26, while SCHACHMANN extended GC lead via intermediate bonus orchestration.",
+    "winner": "NIZZOLO Giacomo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SAGAN Peter executed lead-out then brake-checked to gift SCHACHMANN 3-second intermediate bonus, revealing domestique role prioritization",
+      "QUINTANA Nairo's crash at 25km remaining triggered no team wait from peloton, exposing lack of GC respect",
+      "NIBALI Vincenzo gained 20 seconds on PINOT group in final kilometer despite not winning, showing positioning superiority",
+      "BENNETT Sam abandoned sprint prep to pace ALAPHILIPPE back after crash, confirming pure GC protection over stage hunting"
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Operated pure super-domestique role with technical intermediate sprint manipulation for SCHACHMANN, signals complete team hierarchy acceptance",
+      "QUINTANA Nairo": "negative: Lost 1:26 from mid-race crash with only brother DAYER waiting, race effectively over at stage 2",
+      "NIBALI Vincenzo": "positive: Gained 18 seconds on PINOT despite fatigued sprint finish, positioning skills intact for GC upset potential",
+      "SCHACHMANN Maximilian": "positive: Extended GC lead through intermediate bonus manipulation and team-protected final, showing tactical maturity beyond domestique reputation",
+      "ALAPHILIPPE Julian": "negative: Lost 1:26 in same crash group as QUINTANA, required BENNETT sprint sacrifice for damage limitation",
+      "NIZZOLO Giacomo": "positive: Timed exhausted sprint perfectly behind ACKERMANN's premature effort, patience tactic crucial at 23rd career win with only 2 WT victories"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:18:03.447384+00:00"
+}

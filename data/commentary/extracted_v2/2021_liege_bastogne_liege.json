@@ -1,0 +1,29 @@
+{
+  "label": "2021 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2021-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "POGAČAR won from a 5-rider sprint at 200m by taking last wheel and timing his jump perfectly past ALAPHILIPPE who led out too early from 1km out",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN AVERMAET attacked on La Redoute forcing favorites' teams to chase, revealing form desperation from non-favorites mid-race",
+      "POGAČAR mechanicaled at 65km during the toughest climb sequence but caught back on technical descent where peloton stretched",
+      "ALAPHILIPPE led final 1km, too early for 5-rider sprint, POGAČAR took last wheel position and timed jump at 200m",
+      "LOTTO placed multiple riders in break then attacked with FLANDERSON, using break teammate to slow chase when caught"
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: mechanicaled at 65km during hardest climb sequence yet caught back and won sprint, suggests exceptional freshness from skipping Flèche",
+      "ALAPHILIPPE Julian": "neutral: led out from 1km in 5-rider sprint and got beaten by fresher Pogačar, relegated previous year's win affects finish tactics",
+      "VAN AVERMAET Greg": "negative: desperate long-range attack on La Redoute signals nowhere near his LBL-winning form despite AG2R investment",
+      "WOODS Michael": "positive: reached final 5-rider group and contested sprint, strong ride but lacks explosive speed against Monument winners",
+      "VALVERDE Alejandro": "negative: inexplicably took front too early in final sprint rotation instead of staying on Alaphilippe's wheel",
+      "GAUDU David": "positive: French climber surprisingly third in Monument sprint, better pure speed than expected against sprinters",
+      "WOUT VAN AERT": "negative: Jumbo-Visma forced to chase Van Avermaet move, burned matches controlling race they didn't win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:46:10.577775+00:00"
+}

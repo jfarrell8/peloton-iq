@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Rarely attacks independently; primarily serves as final climb lead-out man for team leaders. When given GC freedom (Paris-Nice 2023), can finish strong but doesn't initiate decisive accelerations.",
+  "team_tactics": "Deployed as high-tempo domestique on final climbs, controlling pace rather than attacking. INEOS uses him for breakaway control and sustained climbing support, not as explosive aggressor.",
+  "terrain_preference": "Sustained steep climbs where tempo control matters more than explosive accelerations. Struggles on technical descents and shows vulnerability in nervous peloton conditions on flatter stages.",
+  "vulnerability": "Positioning fragility in chaotic stages (crash losses 13+ minutes). Cannot match aggressive racing when leaders attack early. Mechanical issues require chase efforts that compromise GC. Descending concentration lapses under fatigue.",
+  "key_patterns": [
+    "Crashes/mechanicals derail GC campaigns: 13-minute losses (Giro 2021), chase efforts compromise defense (Giro 2022).",
+    "Dropped early when leaders ride aggressively: unable to support Bernal's attacks (Vuelta 2021), 5:40 down week one (Vuelta 2022).",
+    "Functions as tempo domestique not accelerator: led Carapaz without attacking Giro 2022, worked for breakaway control Paris-Nice 2023.",
+    "Best results when given protected GC role rather than pure domestique duties: 7th Paris-Nice when freed.",
+    "Technical/concentration errors under fatigue: unforced descent crash Dauphiné 2020, positioning crashes sprint stages."
+  ],
+  "form_trajectory": "neutral: 2023 Paris-Nice 7th shows solid climbing form, but still in domestique role. Pattern of early GT elimination (2021-2022) suggests Grand Tour resilience remains unproven when given leadership.",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "SIVAKOV Pavel",
+  "built_from": [
+    "2020 Criterium du Dauphine Stage 3",
+    "2020 Criterium du Dauphine Stage 5",
+    "2021 Giro d'Italia Stage 5",
+    "2021 Vuelta a Espana Stage 17",
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Vuelta a Espana Stage 9",
+    "2023 Paris-Nice Stage 7"
+  ]
+}

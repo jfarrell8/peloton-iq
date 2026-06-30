@@ -1,0 +1,23 @@
+{
+  "label": "2017 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-08",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won the Stage 4 ITT with steep 3km finishing climb, taking race lead by 1:31 over CONTADOR Alberto.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step's echelon management on stages 1-3 protected Alaphilippe while isolating Contador, creating cumulative fatigue before ITT.",
+      "Alaphilippe's uphill TT superiority over pure stage race specialists signals vulnerability in traditional climber time trial preparation."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: dominated uphill ITT against specialist stage racers, suggesting week-long GC capability beyond punchy one-day racing",
+      "CONTADOR Alberto": "negative: caught behind echelons stage 1, chasing through stages 2-3 created pre-ITT fatigue that compromised his climbing TT strength",
+      "DEMARE Arnaud": "negative: lost yellow on uphill ITT finish, confirming sprinters cannot defend GC once steep gradients enter route profile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:00:29.926985+00:00"
+}

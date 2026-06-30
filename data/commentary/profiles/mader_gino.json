@@ -1,23 +1,35 @@
 {
-  "attacking_style": "Prefers extremely long-range solo efforts (87km documented) from breakaways rather than GC group accelerations. Willing to attack on climbs but shows limited explosive acceleration, compensating with time trial strength and descending confidence.",
-  "team_tactics": "Appears to operate with significant freedom to hunt stage wins from breakaways rather than supporting protected riders. Limited data on direct team setup for his moves.",
-  "terrain_preference": "Climbing time trials and long descents after mid-mountain passes are ideal weapons. Struggles on steep, punchy climbs requiring explosive accelerations. Suited to attrition-based climbing rather than sharp gradient changes.",
-  "vulnerability": "Lacks peak acceleration to sustain counterattacks on steep gradients. Form periodization issues evident (building rather than peaking at Romandie 2022). May struggle in tactical sprint situations from reduced groups.",
+  "attacking_style": "Attacks 3-4km from summit finishes, preferring sustained efforts over explosive accelerations. Thrives in breakaways on mountain stages where he can hold tempo rather than sprint, vulnerable when caught near the line.",
+  "team_tactics": "Dual-purpose rider capable of classification hunting while supporting team leader (demonstrated with HAIG at Vuelta 2021). Often deployed in breakaways to either win or control stage, though dropped early when pure domestique role required.",
+  "terrain_preference": "Summit finishes with sustained gradients where tempo climbing and time trialing ability combine. Climbing ITTs particularly strong. Struggles on steep punchy gradients requiring finishing kick and against pure sprinters on flatter finishes.",
+  "vulnerability": "Lacks finishing punch when caught near the line by world-class chasers (caught at 25m by ROGLIČ, barely held off BERNAL). Early-race crashes and abandons suggest fragility in demanding three-week races. Cannot sustain multiple counterattacks.",
   "key_patterns": [
-    "Exceptional climbing TT ability: 4 seconds behind Geschke at age 19 (2022)",
-    "Repeatedly attacks outside podium contention for stage wins in Grand Tours (2021, 2022 Vuelta)",
-    "Prefers ultra-long solo efforts over waiting for chase groups, showing TT/descending confidence",
-    "Limited explosive acceleration on climbs; initiates counterattacks but cannot sustain them"
+    "Attacks 3-4km from finish, holds tempo rather than accelerates repeatedly (Giro 2021, Romandie 2022)",
+    "Caught within final meters multiple times, lacking sprint power against elite closers (Paris-Nice 2021 twice)",
+    "Strong early-season form trajectory, consistently performs well Paris-Nice through Romandie period (2021-2023)",
+    "Home race motivation factor, active in Swiss races like Tour de Suisse (2021, 2023)",
+    "Young rider classification focus while supporting leaders, dual-purpose excellence (Vuelta 2021 white jersey)",
+    "Crash/abandon vulnerability in Grand Tours, fragility under three-week demands (Giro 2021 DNF, Vuelta 2022 dropped)"
   ],
-  "form_trajectory": "neutral: 2022 Romandie showed form building rather than peaking, but still competitive. Vuelta appearance later same year showed willingness to attack, suggesting continued development trajectory for young rider.",
-  "races_analysed": 4,
-  "confidence": "medium",
+  "form_trajectory": "positive: 2023 Paris-Nice fifth place and successful Tour de Suisse break suggest strong early-season form returning after 2022 struggles, though Grand Tour reliability remains unproven",
+  "races_analysed": 14,
+  "confidence": "high",
   "rider_name": "MADER Gino",
   "built_from": [
-    "2021 La Vuelta ciclista a Espana Stage 15",
-    "2021 La Vuelta ciclista a Espana Stage 15",
-    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2020 Vuelta a Espana Stage 17",
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 6",
+    "2021 Giro d'Italia Stage 6",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 21",
+    "2021 Paris-Nice Stage 7",
+    "2021 Paris-Nice Stage 8",
+    "2021 Tour de Suisse Stage 4",
+    "2022 La Vuelta ciclista a Espana Stage 6",
     "2022 Tour de Romandie Stage 3",
-    "2022 Tour de Romandie Stage 5"
+    "2022 Tour de Romandie Stage 5",
+    "2023 Paris-Nice Stage 4",
+    "2023 Paris-Nice Stage 8",
+    "2023 Tour de Suisse Stage 4"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-23",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENEDETTI Cesare won after being dropped on final cobbled climb, bridging back in final 700m while leaders Brambilla/Capecchi/Dunbar hesitated, taking first professional victory.",
+    "winner": "BENEDETTI Cesare",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DUNBAR Eddie attacked first on cobbled Modello climb forcing splits, UAE Emirates showing offensive tactics despite losing stage.",
+      "BENEDETTI bridged in final 700m exploiting tactical stalemate among leaders who waited too long to launch sprint.",
+      "LOPEZ/LANDA attacked GC group 7:34 behind breakaway but only gained ~30 seconds, revealing insufficient aggression on medium mountain stages.",
+      "POORLANTS Prim entering pink jersey despite struggling initially on cobbled climb, UAE controlling race with offensive breakaway placement."
+    ],
+    "rider_signals": {
+      "BENEDETTI Cesare": "positive: First professional win after repeatedly dropped on climbs but superior descending/flat chase ability and tactical patience waiting until final sprint.",
+      "DUNBAR Eddie": "positive: Initiating winning breakaway move on cobbled climb for Team Ineos shows GT maturity beyond pure domestique role.",
+      "LOPEZ Miguel Angel": "negative: Only took back ~30 seconds despite attacking GC group after 6:19 deficit shows insufficient recovery from previous disaster day.",
+      "ZAKARIN Ilnur": "negative: Caught out losing 30 seconds when GC group split, poor positioning awareness on medium mountain stage.",
+      "POORLANTS Prim": "neutral: Into pink jersey but visibly struggled on cobbled climb initially before recovering, vulnerability signal on technical climbing."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:48:11.725414+00:00"
+}

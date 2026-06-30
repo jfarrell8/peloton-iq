@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-03",
+  "stage": 13,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož reclaimed race lead by pacing perfectly through 30km headwind, then crushing final climb to beat BARTA by 1 second.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ paced conservatively through 30km headwind block before final climb, avoided CARAPAZ mistake of going too hard early.",
+      "Bike change execution at climb base critical: BARTA's cyclocross skills gained seconds but ROGLIČ superior climbing negated advantage.",
+      "CARAPAZ tactical error matching ROGLIČ power on flat 30km headwind section caused disintegration on final climb costing 49 seconds.",
+      "CARTHY gained podium position by riding within himself on flat, preserving climbing legs unlike CARAPAZ who burned matches early."
+    ],
+    "rider_signals": {
+      "BARTA Will": "positive: Unknown American nearly won by 1 second with exceptional TT and climbing, but team folding suggests talent underutilized.",
+      "ROGLIČ Primož": "positive: Psychological resilience after Tour collapse shown by regaining lead on similar hill-finish TT, pacing discipline superior to rivals.",
+      "CARAPAZ Richard": "negative: Lost 49 seconds and lead by tactical error of matching ROGLIČ on flat headwind section before climb.",
+      "CARTHY Hugh": "positive: Conservative flat pacing strategy moved him onto podium while CARAPAZ imploded from overpacing.",
+      "OLIVEIRA Nelson": "positive: Set early benchmark 48 seconds faster than CAVAGNA showing Portuguese TT depth beyond known specialists."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:29:55.605699+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Operates in early-to-mid race breakaways rather than late aggressive moves. Lacks punch to respond when pace intensifies on climbs, more suited to steady tempo efforts.",
+  "team_tactics": "Insufficient data to identify clear team setup patterns. Appears to operate opportunistically in breakaway scenarios without visible dedicated team support in these observations.",
+  "terrain_preference": "Best suited to flatter breakaway scenarios or controlled tempo efforts. Exposed on sustained climbs where pace accelerates, particularly in selective mountain stages.",
+  "vulnerability": "Cannot sustain intensified climbing pace when stronger riders attack. Dropped from reduced groups on climbs when tempo increases, suggesting threshold/VO2max limitations on gradients.",
+  "key_patterns": [
+    "Active in breakaways but struggles when climbs thin out the group (2 observations)",
+    "Positioned well initially but fades when pace intensifies rather than at constant tempo (2 observations)",
+    "Makes chase groups but cannot match final accelerations from elite climbers (2 observations)"
+  ],
+  "form_trajectory": "negative: Dropped from breakaway in June after limiting losses in March, suggesting declining climbing capacity through early 2022 season",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BONNAMOUR Franck",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 8",
+    "2022 Paris-Nice Stage 5"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive moves on the final categorized climb with 10-15km remaining, then uses technical descending skills to consolidate gaps rather than pure power on the climb itself.",
+  "team_tactics": "Insufficient data to establish clear team tactics pattern. Appears to have freedom for late-race opportunism.",
+  "terrain_preference": "Ardennes-style finales combining punchy climbs (1-2km) followed by technical descents where bike handling skills can compound advantages gained on the ascent.",
+  "vulnerability": "Unknown - limited observations available. Single race data insufficient to identify recurring weaknesses.",
+  "key_patterns": [
+    "Attacks on final climb with 10-15km to go, not waiting for sprint finish",
+    "Uses descending ability as tactical weapon to shed climbers who matched uphill effort",
+    "Peaks successfully for Monuments following consistent spring classics podium sequence"
+  ],
+  "form_trajectory": "positive: demonstrated Monument-winning form in spring 2019 following deliberate peaking through earlier classics podiums",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FUGELSANG Jakob",
+  "built_from": [
+    "2019 Liege-Bastogne-Liege",
+    "2019 Liege-Bastogne-Liege"
+  ]
+}

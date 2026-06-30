@@ -1,0 +1,26 @@
+{
+  "label": "2020 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2020-08-15",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG counterattacked BENNETT on Madonna del Ghisallo descent with 15km remaining, grew gap to 31 seconds by finish.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FUGLSANG watched BENNETT monitor power data mid-climb before counterattacking, exploiting psychological moment when rival checked computer.",
+      "VLASOV sacrificed podium to chase for teammate FUGLSANG, holding back MOLLEMA/CICCONE group at 51 seconds behind lone leader.",
+      "Two-rider advantage in final selection proved decisive: domestique blocking work more valuable than extra firepower for chasing teams.",
+      "BENNETT attacked twice on Ghisallo ascent but Astana let gradient do selection work before counterattacking on descent."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: Confident sprint speed assessment allowed defensive riding until descent counterattack, superior race-reading intelligence.",
+      "BENNETT George": "negative: Checked power data mid-attack revealing doubt, unable to respond when counterattacked despite strong climbing form from Tour.",
+      "VLASOV Aleksandr": "positive: Sacrificed personal podium to chase for leader, finishing 51sec back indicates complete tactical commitment over placement.",
+      "MOLLEMA Bauke": "neutral: Teammate presence in chase group behind podium suggests team strength but tactical coordination couldn't bridge to leaders."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:27:58.762430+00:00"
+}

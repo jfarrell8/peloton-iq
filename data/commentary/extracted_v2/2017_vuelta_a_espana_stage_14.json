@@ -1,0 +1,27 @@
+{
+  "label": "2017 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-02",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MAJKA Rafal soloed from breakaway 10km out on Sierra de la Pandera, holding off GC favorites' late attacks by 27 seconds",
+    "winner": "MAJKA Rafal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Near-vertical Val de Penas climb at 30km broke the breakaway before final climb, exposing weak collaborators early.",
+      "NIBALIi earned 4-second sprint bonus despite arriving with Froome group, actively gaming time bonuses despite apparent strength parity.",
+      "CONTADOR's attack at 3.5km failed to distance Froome, suggesting GC stalemate requires earlier or steeper terrain moves."
+    ],
+    "rider_signals": {
+      "MAJKA Rafal": "positive: Committed solo attack 10km from summit on category HC climb after already surviving 25% gradient selection",
+      "LOPEZ Miguel Angel": "positive: Finished 27s behind winner but distanced all other GC contenders on final climb, gaining 31s on Froome",
+      "NIBALI Vincenzo": "positive: Alert enough to contest sprint bonuses within favorites group, hunting marginal gains despite not attacking",
+      "CONTADOR Alberto": "neutral: Attacked 3.5km out but couldn't drop Froome, suggesting insufficient differential power on moderate gradients",
+      "CHAVEZ Johan": "negative: Lost time on Pantera climb, falling back in GC rankings on this HC finish",
+      "DE LA CRUZ David": "negative: Suffered same fate as Chavez on final climb, indicating GC pretensions fading"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:13:18.337683+00:00"
+}

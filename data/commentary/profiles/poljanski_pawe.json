@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Operates primarily in breakaways rather than aggressive late attacks. Lacks decisive acceleration in final moments despite strong endurance to stay away.",
+  "team_tactics": "Insufficient data - appears to be given freedom for breakaway opportunities rather than protected as team leader.",
+  "terrain_preference": "Demonstrates endurance on varied terrain within breakaways, but specific gradient or distance preferences cannot be determined from available data.",
+  "vulnerability": "Consistently unable to finish off breakaway efforts - lacks explosive power or tactical sharpness in final kilometers against fellow escapees.",
+  "key_patterns": [
+    "Breakaway specialist - multiple appearances in long-range escapes during Grand Tours.",
+    "Strong diesel engine but weak finishing kick - consecutive second places indicate pattern."
+  ],
+  "form_trajectory": "neutral: consecutive podiums show consistency but inability to convert suggests plateau rather than progression",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "POLJANSKI Paweł",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 7"
+  ]
+}

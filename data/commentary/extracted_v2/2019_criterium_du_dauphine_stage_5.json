@@ -1,0 +1,26 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-13",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AART Wout won from late breakaway remnants after BOASSON HAGEN and SCHILLBACHER nearly held off peloton inside final kilometer",
+    "winner": "VAN AART Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-Quickstep controlled early but Bora-Hansgrohe mistimed sprint leadout starting at 4km instead of required 2km Bennett specified",
+      "BOASSON HAGEN and SCHILLBACHER counterattacked inside 1.5km when peloton neutralized TAMAKI, exploiting technical corners before final straight",
+      "VAN AART delivered sprint from third wheel position after ALA PHILIPPE opened too early from breakaway chase group"
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: specified team needed front at 2km but Bora-Hansgrohe went 4km out and lost control allowing late counterattacks",
+      "BOASSON HAGEN Edvald": "positive: nearly stole stage with late acceleration after five-hour breakaway effort, showed dimension data willing to gamble",
+      "TAMAKI Yuma": "neutral: launched multiple late attacks 2-1.5km out that forced counterattacks but lacked final acceleration to hold",
+      "ALA PHILIPPE Julian": "negative: opened sprint from breakaway chase too early allowing van Aart to come over him",
+      "YATES Adam": "neutral: team conserved energy intentionally on flat stage awaiting mountain terrain tomorrow"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:46:29.701039+00:00"
+}

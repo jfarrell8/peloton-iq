@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-24",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked solo halfway up Passo Giau (10km at 10%), descended alone, and won by 27 seconds to consolidate the Maglia Rosa",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education Nippo paced entire approach to set up Carthy's GC move, controlling tempo before final climb despite no stage win.",
+      "Bernal's solo attack at 5km to summit on Passo Giau immediately isolated all GC rivals without team support needed.",
+      "Caruso rode conservatively into podium position while Yates imploded, gaining second at 2:24 without attacking."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: solo attack mid-climb on 10% gradient confirms descending ability and willingness to race without teammates in adverse conditions",
+      "CARTHY Hugh": "neutral: team's massive pacing effort delivered him to podium position but couldn't follow when Bernal accelerated",
+      "YATES Simon": "negative: dropped from second to fifth losing 2:36, catastrophic collapse when race went hard on steep climbing",
+      "CARUSO Damiano": "positive: rode into second overall at 2:24 without attacking, showing superior consistency over explosive rivals in weather-shortened stage",
+      "VLASOV Aleksandr": "negative: mechanical on final climb destroyed rhythm, lost podium position despite previously strong GC stance",
+      "ZAKARIN Ilnur": "negative: crash before final climb attempting to position for breakaway, tactical error chasing across gaps in deteriorating conditions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:37:59.854920+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DANESE Alberto won sprint finish by tire width over MILAN Jonathan after peloton caught late solo REMSEN Senne at 5km to go.",
+    "winner": "DANESE Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MATTHEWS Michael launched sprint from distance, forcing faster sprinters to close gap and reducing their final acceleration reserves.",
+      "Jayco-AlUla positioned MATTHEWS through technical finale while Dutch teams delivered DANESE, suggesting corner knowledge advantage for Italian stage.",
+      "Peloton caught breakaway exactly 5km out, revealing sprint teams now calibrate effort to avoid early catch and chaotic positioning."
+    ],
+    "rider_signals": {
+      "MILAN Jonathan": "neutral: controlled intermediate sprint while already in virtual maglia ciclamino lead, prioritizing classification over stage hunting",
+      "MATTHEWS Michael": "positive: competitive sprint finish against pure sprinters despite being classified as all-rounder shows current form peak",
+      "REMSEN Senne": "neutral: solo attack from breakaway remnants at 22km revealed teams willing to let domestique attempt rather than chase aggressively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:02:25.121011+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 20",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-04",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CHAPATTE Clément attacked solo with 1.7km to go from GC group catching breakaway remnants, exploiting hesitation as rivals calculated podium implications.",
+    "winner": "CHAPATTE Clément",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS sacrificed domestiques with 78km remaining despite being three riders down, revealing overcommitment when gap was 12 minutes.",
+      "YATES Adam attacked without BERNAL responding, showing INEOS internal GC hierarchy fracture as Bernal later drifted back.",
+      "GC contenders froze when CHAPATTE attacked at 1.7km, prioritizing podium position calculus over stage win, gifting AG2R opportunity.",
+      "HAIG burned MAEDA and PARDOEN from break as support, then cracked himself, exposing costly misjudgment of effort distribution."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: demanded pace early but failed to follow YATES attack and drifted back, revealing fragility despite team commitment",
+      "YATES Adam": "positive: attacked away from own team leader BERNAL and finished third on stage, showing superior form within INEOS",
+      "LOPEZ Miguel Angel": "negative: abandoned race during stage after drifting back, catastrophic collapse from podium contention",
+      "HAIG Jack": "negative: isolated after burning domestiques MAEDA and PARDOEN too early, then suffered alone on final climb",
+      "MAEDA Gino": "positive: took white jersey despite working for HAIG, showing strength to survive domestique duties and still gain GC",
+      "BIZACARRA Pello": "neutral: attacked early on Castro but couldn't sustain, typical late-race Spanish desperation for home win",
+      "CHAPATTE Clément": "positive: read GC riders' mutual paranoia perfectly with late 1.7km attack, AG2R finally capitalized after race-long aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:44:01.891044+00:00"
+}

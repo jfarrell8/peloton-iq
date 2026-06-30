@@ -1,0 +1,26 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 17",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-07",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "URAN Rigoberto won from the breakaway at Monasterio de Tentudía, attacking late on the final climb to drop PACHER and HERRADA.",
+    "winner": "URAN Rigoberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CRADOCK Lawson's time-trialist early attack deep into climb gained 26 seconds but ultimately failed against pure climbers.",
+      "URAN preserved energy in 13-rider break while others burned matches, bridged late when HERRADA attacked near summit.",
+      "MADER Gino Portuguese GC rider attacked favorites group on final climb, testing for gaps despite GC likely settled."
+    ],
+    "rider_signals": {
+      "URAN Rigoberto": "positive: veteran showed exceptional energy management in strong 13-rider break, still had legs to bridge and win after 45min 50kph opening",
+      "CRADOCK Lawson": "negative: time-trialist attacking early on climbs doesn't work even with 26-second gap against proper climbers",
+      "ARENSMAN Thymen": "negative: Stage 15 winner dropped badly by favorites on final climb, lost 5 minutes, suggesting deep fatigue",
+      "MADER Gino": "positive: Portuguese rider willing to attack GC group despite being outside podium contention, hunting stage opportunities",
+      "ROGLIC Primoz": "negative: crashed out before stage start while fighting Pedersen and trying to distance Evenepoel, eliminated from GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:43:14.550251+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-16",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN Tom dominated the 39.8km rolling TT, taking race lead with 49-second margin over THOMAS Geraint, extending GC advantage to 2:23 over Quintana.",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint posted surprisingly competitive TT performance, finishing only 49 seconds behind specialist Dumoulin on rolling 39.8km course.",
+      "Multiple riders crashed at specific dip corner, suggesting course reconnaissance failure or equipment choice error at predictable hazard.",
+      "DUMOULIN nearly caught 3-minute man before finish, indicating extreme power output sustainability unusual even for TT specialists."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Extended GC lead to 2:23, demonstrating recovery from earlier race efforts while maintaining world-class TT form",
+      "THOMAS Geraint": "positive: 49-second deficit to Dumoulin reveals climbing GC capability paired with underrated TT strength for stage racing",
+      "QUINTANA Nairo": "negative: Lost 2:23 to Dumoulin, confirming chronic TT weakness makes him vulnerable in balanced Grand Tours",
+      "JUNGELS Bob": "positive: Third on stage at 56 seconds suggests LUX champion maintains strong form despite non-specialist build",
+      "KIRYIENKA Vasil": "negative: Crashed at spiteful corner despite Team Sky's typical course preparation, indicating risk-taking desperation or poor bike handling"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:54:55.654955+00:00"
+}

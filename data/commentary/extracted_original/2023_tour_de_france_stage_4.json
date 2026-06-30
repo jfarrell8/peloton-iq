@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-04",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won his second consecutive sprint in chaotic finale with crashes eliminating Jakobsen and Bennett inside final 3km.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin brought Philipsen through middle traffic while others crashed, suggesting positioning deeper in bunch reduces crash risk.",
+      "No breakaway attacks until after intermediate sprint shows teams won't waste energy chasing KOM points without GC incentive.",
+      "Wrong turn at roundabout by Welsford entering circuit reveals reconnaissance failures cost sprint opportunities on technical finishes."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: back-to-back sprint wins with superior positioning strategy suggests 2023 form peak, now 70-point green jersey lead",
+      "EWAN Caleb": "positive: half-wheel defeat shows form returning after finishing second to Philipsen despite late chaos",
+      "JAKOBSEN Fabio": "negative: crashed out of sprint contention before final 3km barrier, pattern of positioning errors emerging",
+      "CAVENDISH Mark": "neutral: fourth place finish suggests legs present but team leadout inferior to Alpecin structure",
+      "WELSFORD Sam": "negative: navigational error at circuit entry indicates poor course reconnaissance eliminated sprint chance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:22:12.113604+00:00"
+}

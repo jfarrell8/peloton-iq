@@ -1,0 +1,30 @@
+{
+  "label": "2020 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-07",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA attacked from three-man breakaway remnant with under 10km to climb, established 1:05 gap on descent, won by 34 seconds for first non-TT pro victory",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA demonstrated breakaway specialists can win mountain stages by attacking before descent, using TT power downhill rather than climbing.",
+      "THOMAS and RUBIO attacked peloton with 20km left on 24km climb, disrupting chase dynamics when GC teams hesitated.",
+      "PERNSTEINER took sprint bonus at finish 34 seconds down, revealing Bora prioritizing stage placings over GC defense.",
+      "KELDERMAN survived NIBALI Vincenzo's descent attack, showing Sunweb's GC leader handles technical descents better than expected for pure climber."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: won non-TT stage by recognizing breakaway companions couldn't match his descent power, tactically mature for first GT",
+      "THOMAS Geraint": "positive: launched GC-disrupting attack 20km from finish despite not being GC contender, suggests form building mid-race",
+      "RUBIO Einer": "neutral: followed THOMAS attack intelligently but commentary notes he stuck on wheel without contributing",
+      "CARRETERO Héctor": "neutral: attacked from three-man break but couldn't sustain effort against GANNA's descent acceleration",
+      "ALMEIDA João": "positive: extended Maglia Rosa lead to 43 seconds over BILBAO, survived NIBALI Vincenzo descent attack without losing GC ground",
+      "KELDERMAN Wilco": "positive: moved to third at 48 seconds, handled technical descent competently against pure descenders",
+      "PERNSTEINER Hermann": "neutral: finished second at 34 seconds for bonus seconds, Bora using stage tactics rather than pure GC focus",
+      "NIBALI Vincenzo": "negative: descent attack with 7km to go failed to distance GC rivals, suggests lacks explosive acceleration of peak years"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:26:57.675973+00:00"
+}

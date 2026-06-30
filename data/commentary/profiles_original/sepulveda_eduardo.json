@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Deploys in breakaways on mountain stages as tactical operator rather than personal glory hunter, willing to go early to control KOM points for team leadership.",
+  "team_tactics": "Functions as climbing domestique inserted into breakaways to manage polka dot jersey competition for team leaders like Evenepoel, prioritizing team objectives over stage results.",
+  "terrain_preference": "Mountain stages where breakaway control is required; less proven on technical descents where mechanical issues have surfaced under race stress.",
+  "vulnerability": "Technical descents after hard climbing efforts expose both handling limitations and susceptibility to mechanicals (punctures) when equipment is stressed.",
+  "key_patterns": [
+    "Breakaway specialist role focused on polka dot jersey management for protected riders",
+    "Tactical domestique work prioritized over personal stage ambitions in Grand Tour context",
+    "Mechanical vulnerabilities manifest on technical descents following sustained climbing efforts"
+  ],
+  "form_trajectory": "unknown: limited observations show tactical role execution but insufficient data on personal form or results",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SEPULVEDA Eduardo",
+  "built_from": [
+    "2023 La Vuelta Ciclista a Espana Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 4"
+  ]
+}

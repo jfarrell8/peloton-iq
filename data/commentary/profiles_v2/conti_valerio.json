@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Prefers calculated, delayed attacks at 20-25km to go after feigning weakness. Shows restraint on steep climbs (12%+), prioritizing strategic positioning over early aggression.",
+  "team_tactics": "UAE employs risk-averse GC defense strategy, keeping Conti conservative even when lacking breakaway representation. Individual tactical autonomy to make calculated decisions favoring time over stage wins.",
+  "terrain_preference": "Excels on descents where he can disguise form and launch surprise counters. Less effective on sustained steep gradients (12%+) where conservative approach limits explosive opportunities.",
+  "vulnerability": "Overly cautious on key climbs, described as 'cagey' when aggression needed. Risk-averse mentality can cost breakaway positions and opportunities when bold tactics required.",
+  "key_patterns": [
+    "Feigns weakness before counter-attacking at decisive moments (2 instances: descent recovery, cagey early positioning)",
+    "Prioritizes GC time gains over stage glory in tactical decisions (2 instances: two-up finish, breakaway management)",
+    "Conservative on steep climbs despite tactical openings, aligned with team's risk-averse strategy (2 instances)",
+    "Demonstrates tactical maturity beyond typical breakaway rider, calculated risk assessment evident throughout Grand Tours"
+  ],
+  "form_trajectory": "neutral: Mixed signals with tactical intelligence evident (stage management, calculated attacks) but overcautious approach limiting results. Consistency without breakthrough performance.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "CONTI Valerio",
+  "built_from": [
+    "2019 Giro d'Italia Stage 17",
+    "2019 Giro d'Italia Stage 6",
+    "2019 Giro d'Italia Stage 9",
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 12"
+  ]
+}

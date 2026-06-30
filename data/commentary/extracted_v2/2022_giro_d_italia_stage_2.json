@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-01-01",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won the Budapest ITT by 3 seconds over VANDERPOELE Mathieu, beating former world champion DUMOULIN by 5 seconds on a technical 25-turn course.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Punchier riders outperformed pure TT specialists on technical 25-turn urban course with 1.3km uphill finish.",
+      "YATES gained entire advantage on final 1.3km climb after being slightly slower at climb base, exploiting gradient.",
+      "KEMNA Leonard jumped from youth-level promise to pro breakthrough on technical course, suggesting equipment/position changes pay off urban ITTs."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: First career GT time trial win despite only one prior career ITT victory, suggesting technical courses unlock his climbing power",
+      "DUMOULIN Tom": "positive: 5 seconds off winner after comeback suggests form returning, though beaten by climber on gradient finish",
+      "NIBALI Vincenzo": "positive: Third place finish massively exceeded pre-race expectations of time loss, indicating late-career ITT resilience",
+      "CARAPAZ Richard": "neutral: 30 seconds down considered 'solid' performance reveals GC expectations already managing ITT weakness",
+      "KELDERMAN Wilco": "positive: 16 seconds to Yates shows marked improvement over typical ITT performances for climbing-focused rider",
+      "SOBRERO Matteo": "neutral: Italian champion beaten by non-specialists confirms technical parcours favor power-to-weight over pure speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:09:22.379761+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who bridges decisive gaps on final climbs, disguising form before late-race accelerations. Shows ability to survive sustained climbs then accelerate when others fade.",
+  "team_tactics": "Operates with freedom in breakaway situations rather than protected team leadership; positioned to exploit reduced group scenarios where tactical awareness trumps pure power.",
+  "terrain_preference": "Medium-mountain stages with Cat-2 final climbs where climbing durability separates breakaway survivors; excels when terrain filters peloton but doesn't require pure climbing prowess.",
+  "vulnerability": "Limited recent evidence of pure sprint finishes or high-mountain stages; effectiveness may depend on avoiding direct confrontation with pure climbers or sprinters in full-strength groups.",
+  "key_patterns": [
+    "Wins exclusively from breakaways, never from bunch sprints or GC group finishes (2 wins)",
+    "Thrives in reduced groups on final climbs, using experience over power (2 observations)",
+    "Long gaps between WorldTour wins suggests opportunistic rather than consistent winning threat (3-year gap documented)",
+    "Demonstrates unexpected late-career climbing durability into late 30s (documented at age 37)"
+  ],
+  "form_trajectory": "positive: Returned to WorldTour winning form in 2022 at age 37 after 3-year drought, showing renewed climbing legs on sustained Cat-2 ascents",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "IMPEY Daryl",
+  "built_from": [
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2022 Tour de Suisse Stage 4",
+    "2022 Tour de Suisse Stage 4"
+  ]
+}

@@ -4,85 +4,21 @@
   "race_date": "2018-02-17",
   "stage": 5,
   "video": {
-    "video_id": "-KTuqGMzJ14",
-    "title": "Dubai Tour 2018 | Stage 5 Race Report",
-    "published": "2018-02-10 15:39:21+00:00",
-    "channel": "GCN",
-    "url": "https://youtube.com/watch?v=-KTuqGMzJ14",
-    "match_score": 77.5,
-    "all_candidates": [
-      {
-        "video_id": "-KTuqGMzJ14",
-        "title": "Dubai Tour 2018 | Stage 5 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-10 15:39:21+00:00",
-        "match_score": 77.5
-      },
-      {
-        "video_id": "C4dKaCJtEyA",
-        "title": "Tour Down Under 2018 | Stage 5 Report",
-        "channel": "GCN",
-        "published": "2018-01-20 09:59:36+00:00",
-        "match_score": 66.67
-      },
-      {
-        "video_id": "0UIfTcPmbs4",
-        "title": "Abu Dhabi Tour 2018 | Stage 5 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-25 16:05:30+00:00",
-        "match_score": 62.5
-      },
-      {
-        "video_id": "tq6giNZAEgI",
-        "title": "Abu Dhabi Tour 2018 | Stage 2 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-22 15:37:33+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "ALoP2tj8wFc",
-        "title": "Abu Dhabi Tour 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-23 16:15:00+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "v2ubiWjl3s4",
-        "title": "Abu Dhabi Tour 2018 | Stage 4 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-24 14:23:27+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "78XnO8iXYwU",
-        "title": "Abu Dhabi Tour 2018 | Stage 1 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-21 19:32:09+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "QX3RKe5mpWY",
-        "title": "Tour Down Under 2018 | Stage 4 Report",
-        "channel": "GCN",
-        "published": "2018-01-19 10:28:31+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "2HUgDhV0z1s",
-        "title": "Tour Down Under 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-01-18 09:51:51+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "lxab7eXHM1c",
-        "title": "Tour Down Under 2018 | Stage 6 Report",
-        "channel": "GCN",
-        "published": "2018-01-21 10:56:11+00:00",
-        "match_score": 26.67
-      }
-    ]
+    "video_id": "hsf6k_QdqEE",
+    "title": "Summary - Stage 5 - Tour of Oman 2018",
+    "url": "https://youtube.com/watch?v=hsf6k_QdqEE",
+    "channel": "playlist_import",
+    "published": "2018-02-19T08:18:43Z",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 36,
+    "raw_chars": 1237,
+    "clean_chars": 1229,
+    "duration_mins": 1.9,
+    "clean_text": "Stage five of the Tour of Oman it's showdown day two the Green Mountains starting at Samael 152 kilometers of racing but it's all about the final climb six attackers giving their heads been driven on by Marcato of the UAE team Emirates two members of the rally cycling team also in there but as the peloton catch the breakaway group on the lower slopes of the final climb of the day the Tour of Oman is about to be decided still holding his own at the front Robin carpenter of the rally Cycling Team a winner of the Tour of Alberta but behind him so much driving being done by the Astana pro team Greg Van a vomit in difficulty no surprises he wanted to limit his losses but this is not the terrain for the classic specialist this is all about the mountain climbers the tremendous amount of work by yan hurt he's dropped now all sorts of pain for the Astana rider at the front though for the Senko side-by-side at times with his teammate in the white jersey meet well angle Lopes these two riders looking absolutely supreme riding their way to the top of the Green Mountain victory for Lopes read for lysenko one stage to go Lysenko over Stan a pro team leads this race 11 seconds out of his teammate Lopez and Izaguirre in third",
+    "preview_start": "Stage five of the Tour of Oman it's showdown day two the Green Mountains starting at Samael 152 kilometers of racing but it's all about the final climb six attackers giving their heads been driven on by Marcato of the UAE team Emirates two members of the rally cycling team also in there but as the peloton catch the breakaway group on the lower slopes of the final climb of the day the Tour of Oman is about to be decided still holding his own at the front Robin carpenter of the rally Cycling Team ",
+    "preview_end": "s is all about the mountain climbers the tremendous amount of work by yan hurt he's dropped now all sorts of pain for the Astana rider at the front though for the Senko side-by-side at times with his teammate in the white jersey meet well angle Lopes these two riders looking absolutely supreme riding their way to the top of the Green Mountain victory for Lopes read for lysenko one stage to go Lysenko over Stan a pro team leads this race 11 seconds out of his teammate Lopez and Izaguirre in third"
+  },
+  "status": "transcript_saved"
 }

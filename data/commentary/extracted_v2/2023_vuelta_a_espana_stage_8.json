@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC attacked final climb to win stage while teammate KUSS rode defensively with GC group, taking race lead via time bonuses.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deployed dual threat with Roglic free to attack while Kuss marked threats, optimal resource allocation.",
+      "EVENEPOEL did excessive front work on final climb despite no teammate support, tactical error gifting Roglic stage.",
+      "Early breakaway of 29 splintered via crosswind attacks before Category 2 climb, eliminating weaker climbers pre-finale.",
+      "DE HANT solo bridged ahead of 29-rider chase then strategically sat up for teammate Sepulveda's KOM points."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: Took race lead while riding purely defensively, suggests team protecting GC options over stage hunting",
+      "EVENEPOEL Remco": "negative: Led chase completely alone on final climb with no teammates, tactical isolation versus Jumbo depth",
+      "VLASOV Alexander": "positive: Recovered after appearing dropped on earlier climbs to finish with GC group, durability signal",
+      "MARTINEZ Lenny": "negative: Lost over minute to GC group despite starting in red jersey, exposed on mountainous terrain",
+      "CARTHY Hugh": "neutral: Survived breakaway chaos to finish, positioning for overall gains without domestique duties"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:08:33.116531+00:00"
+}

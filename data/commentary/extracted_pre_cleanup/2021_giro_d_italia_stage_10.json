@@ -1,0 +1,30 @@
+{
+  "label": "2021 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-17",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won a reduced sprint at Foligno after BORA-hansgrohe's pace-making from 43km shed multiple sprinters including NIZZOLO Giacomo.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-hansgrohe tempo from 43km eliminated pure sprinters before sprint trains could organize, NIZZOLO dropped despite GANNA pacing back.",
+      "EVENEPOEL Remco and NARVÁEZ Jhonatan contested intermediate sprint for bonus seconds, BERNAL Egan took 1 second indicating GC teams prioritizing margins.",
+      "Crash inside final 3km neutralized GC group time gaps, rewarding teams willing to keep leaders forward before sprint chaos.",
+      "MOLANO Juan Sebastián led out but SAGAN stayed third wheel through corner, suggesting experience trumps pure speed in reduced finishes."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: won after extended BORA tempo eliminated pure sprinters, suggests he thrives when field is reduced pre-finale",
+      "NIZZOLO Giacomo": "negative: dropped during BORA pace-making despite GANNA assistance, vulnerable when sustained tempo precedes sprint",
+      "GAVIRIA Fernando": "negative: beaten in reduced sprint despite surviving BORA pace, suggests limited effectiveness without leadout train",
+      "EVENEPOEL Remco": "positive: actively contesting intermediate sprint bonus seconds at 14 seconds down, showing aggressive GC racing mentality",
+      "BERNAL Egan": "neutral: took 1 bonus second at intermediate sprint, defending conservatively but alert to time gains",
+      "CIMOLAI Davide": "neutral: third place in reduced sprint but still seeking first Giro stage win, consistent without breakthrough",
+      "DEKKER David": "negative: dropped during BORA pace-making, unable to survive extended high tempo before sprint",
+      "VIVIANI Elia": "negative: barely top 10 in reduced sprint, major disappointment compared to expected sprint performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:50:22.869148+00:00"
+}

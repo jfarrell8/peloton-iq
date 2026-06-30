@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-19",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Chris attacked twice in final 4km of Monte Zoncolan, held off charging YATES Simon by seconds for stage win",
+    "winner": "FROOME Chris",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Froome's second acceleration at 4km to go dropped Pozzovivo/Lopez/Aru after initial move failed to create decisive gap.",
+      "Yates prioritized time gaps over stage win, attacking Lopez/Pozzovivo separately rather than chasing Froome immediately.",
+      "Sky deployed Froome stage-hunting from GC deficit while Yates managed delta to Dumoulin rather than defending stage."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: extended GC lead over Dumoulin while finishing second, showing tactical maturity prioritizing overall over stage glory",
+      "FROOME Chris": "positive: double-attack sequence on Zoncolan signals return to form after weak opening two weeks",
+      "WOODS Michael": "neutral: attacked early on Zoncolan lower slopes but lacked legs to sustain effort into decisive zone",
+      "POZZOVIVO Domenico": "positive: stayed with Froome's first attack, finished 23 seconds back, remains genuine podium threat",
+      "DUMOULIN Tom": "negative: lost significant time to Yates on Zoncolan, confirming vulnerability on steep gradients before crucial TT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:19:47.345761+00:00"
+}

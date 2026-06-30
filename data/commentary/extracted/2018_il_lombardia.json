@@ -1,0 +1,23 @@
+{
+  "label": "2018 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2018-10-13",
+  "stage": null,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked on a mid-race climb, dropped PINOT and NIBALI after multiple accelerations, and opened 32 seconds before 14km remaining.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ROGLIČ made 4-6 successive accelerations on climb to finally drop PINOT and NIBALI, not single explosive move.",
+      "Groupama-FDJ controlled early breakaway chase despite PINOT being up road, suggesting team ambiguity or communication failure."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: multiple accelerations broke PINOT and NIBALI decisively on climb with 14km remaining",
+      "PINOT Thibaut": "neutral: chased behind camera motorbike to rejoin ROGLIČ group but couldn't follow final accelerations",
+      "NIBALI Vincenzo": "negative: dropped when ROGLIČ made 4-6 accelerations despite being in front group of four"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:27:41.251213+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-05",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ACKERMAN Pascal won bunch sprint after KWIATKOWSKI crashed at 2km, losing yellow to IMPEY on 4-second bonus",
+    "winner": "ACKERMAN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott wrested peloton control from Lotto at base of final descent, setting up sprint organization.",
+      "Ackerman deliberately positioned rear of leadout train versus front previous day, using slipstream for higher closing speed.",
+      "3km rule protected Kwiatkowski's time but bonus seconds loophole cost him yellow jersey to third-place finisher."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "negative: crashed exiting roundabout with 2km remaining while in yellow, suggesting positioning error or risk-taking in leadout",
+      "IMPEY Daryl": "positive: opportunistically took third for 4-second bonus, precisely enough to gain yellow, showing tactical awareness",
+      "ACKERMAN Pascal": "positive: adjusted sprint positioning strategy after previous stage mistake, coming from back with higher speed",
+      "FROOME Chris": "negative: dropped on food'Avner pass despite moderate difficulty, concerning form signal",
+      "KOCHETKOV Pavel": "negative: Vital Concept sprinter dropped on Col d'Avner, indicating poor climbing form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:17:33.422977+00:00"
+}

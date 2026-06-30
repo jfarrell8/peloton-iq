@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-09",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked on the final steep climb in Trevi, held off YATES Adam's late counter by 3 seconds to win stage 3.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Roglič attacked solo early on final steep climb rather than waiting for closer summit, gambling on power to hold late chasers.",
+      "Moscon attempted bridge to Roglič but ended up dragging Yates/Thomas to close gap, neutralizing his own Sky team's advantage.",
+      "Van Avermaert initiated GC group move but faded, suggesting classics specialists vulnerable on sustained steep gradients even when fresh.",
+      "Majka lost significant time in mid-race crash with Bora teammates Buchmann/Geschke, exposing vulnerability of isolated team leaders on rolling stages."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: held solo attack on sustained steep finish against superior climbers, revealing diesel power advantage over punchier GC rivals",
+      "YATES Adam": "positive: closed massive gap to Roglič in final kilometer despite late start, showing explosive acceleration but poor race positioning",
+      "MOSCON Gianni": "negative: countered Van Avermaert but served as pace bridge for rivals Thomas/Yates rather than isolating them for teammate",
+      "THOMAS Geraint": "neutral: took race lead on countback but passive tactics sitting on wheels suggests conserving rather than dominating",
+      "MAJKA Rafał": "negative: lost GC contention in mid-race crash clustered with own Bora teammates, indicating poor team positioning protocol",
+      "BENOOT Tiesj": "positive: finished third just days after Strade Bianche win, suggesting exceptional form resilience across varied terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:27:18.672226+00:00"
+}

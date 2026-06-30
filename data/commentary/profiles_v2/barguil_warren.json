@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Launches sustained attacks from GC groups on final climbs, typically hunting down breakaways in the last kilometer rather than going early. Willing to attack mid-climb for tactical objectives (KOM points) even while in contention.",
+  "team_tactics": "Minimal domestique reliance visible; benefits from unlikely support (sprinter Matthews securing KOM points). Positioned to capitalize on others chasing, often sitting on stronger riders before final move.",
+  "terrain_preference": "High-mountain summit finishes (Izoard, Galibier) where pure climbing ability dominates. Exposed on flat sprint finishes after climbs where mistiming leads to fading in final meters.",
+  "vulnerability": "Timing errors on non-summit finishes (attacked 12km out, faded in sprint). Form inconsistency year-to-year (2017 peak vs 2018 decline by 49 KOM points). Early-season crashes disrupt preparation.",
+  "key_patterns": [
+    "Attacks from GC group on final climbs, not traditional breakaways (3 observations)",
+    "Prioritizes KOM jersey over GC position, tactical point collection over placing (3 observations)",
+    "Sits on rivals doing chase work, conserves energy for final sprint/move (2 observations)",
+    "Peak form highly variable: dominant 2017 climber, significantly weaker 2018 repeat attempt (2 observations)",
+    "Mistimes efforts on stages without summit finishes, goes too early (2 observations)"
+  ],
+  "form_trajectory": "negative: 2017 showed best pure climber status with multiple wins; 2018 defending KOM significantly weaker (49 points behind); 2020 early crash abandonment suggests continued inconsistency",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "BARGUIL Warren",
+  "built_from": [
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 13",
+    "2017 Tour de France Stage 13",
+    "2017 Tour de France Stage 17",
+    "2017 Tour de France Stage 18",
+    "2017 Tour de France Stage 18",
+    "2017 Tour de France Stage 9",
+    "2018 Tour de France Stage 16",
+    "2020 Paris - Nice Stage 1"
+  ]
+}

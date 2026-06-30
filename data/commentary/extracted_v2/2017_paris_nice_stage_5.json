@@ -1,0 +1,25 @@
+{
+  "label": "2017 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-09",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GREIPEL André won a headwind sprint after GROENWEGEN Dylan jumped 300m out too early, exposing inexperience versus veterans.",
+    "winner": "GREIPEL André",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Strong headwinds final 10km shattered all lead-outs, leaving sprint as pure positional free-for-all favoring experienced opportunists.",
+      "ALAPHILIPPE caught in crosswind split day after massive ITT effort, required Quick-Step chase to rejoin—fatigue signals exploitable.",
+      "BARDET Romain held KOM jersey from stage 1 through flat stages, signaling breakaway persistence creates jersey control even without mountains."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: caught out in crosswind split one day post-ITT, suggesting deep fatigue from time trial effort made him vulnerable",
+      "GROENWEGEN Dylan": "negative: jumped 300m out in headwind sprint, fundamental tactical error revealing inexperience in adverse wind conditions",
+      "GREIPEL André": "positive: positioned perfectly in headwind chaos, used GROENWEGEN as leadout then passed with bike length margin",
+      "DEMARE Arnaud": "negative: caught too far back to compete despite being top-tier sprinter, poor positioning in disrupted finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:00:40.569379+00:00"
+}

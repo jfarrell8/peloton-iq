@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Excels in breakaway scenarios rather than mass sprints, capable of executing winning moves with 15-20km to go on technical or cobbled terrain. Not a pure sprinter who attacks from the bunch.",
+  "team_tactics": "Lead-out train consistently fails or breaks down before final positioning phase, forcing Degenkolb into compromised wheel positions (5th wheel or worse) or alternative breakaway tactics to compensate for team weakness.",
+  "terrain_preference": "Elite-level on cobbles and bumpy technical surfaces where bike handling and power endurance matter more than pure sprint wattage. Exposed in flat mass bunch sprints against pure power sprinters.",
+  "vulnerability": "Cannot match peak watts of pure sprinters (Kittel) in straight line sprints even from perfect position. Dependent on either technical terrain to neutralize power disadvantage or escaping in small groups to avoid bunch sprint entirely.",
+  "key_patterns": [
+    "Lead-out train dysfunction in 3+ observations, forcing poor positioning or breakaway alternatives",
+    "Thrives on technical/cobbled surfaces where handling neutralizes pure power deficit (2 wins/near-wins)",
+    "Loses contact with pure sprinters in flat finishes despite good positioning",
+    "Prefers small group finishes over mass sprints, won from 3-man break at 17km"
+  ],
+  "form_trajectory": "positive: First win since 2016 career-threatening accident proves return to elite cobbles form in 2018, competitive in technical sprints",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "DEGENKOLB John",
+  "built_from": [
+    "2017 Paris-Nice Stage 2",
+    "2017 Tour de France Stage 10",
+    "2017 Volta Ciclista a Catalunya Stage 1",
+    "2018 Tour de France Stage 21",
+    "2018 Tour de France Stage 9",
+    "2018 Tour de France Stage 9"
+  ]
+}

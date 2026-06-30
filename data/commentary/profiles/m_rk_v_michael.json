@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Not a primary attacker. Rare solo efforts show unexpected climbing durability and tactical early acceleration creating surprise elements that pure sprinters cannot counter.",
+  "team_tactics": "Elite leadout pilot delivering sprinters at 100-200m with late release preventing premature launches. Maintains tight centerline geometry through technical corners to block positioning. Sustains high power (60kph+) from 800m when needed.",
+  "terrain_preference": "Excels on technical, chaotic flat finishes with tight corners requiring precision piloting. Gradient exposure above 2-3% reveals limitations in final 100m leadout sustainability.",
+  "vulnerability": "Physical pressure from rival leadout men can disrupt lane holding (PEDERSEN example). Struggles to convert individually despite finding correct wheels. Gradient-exposed finishes compromise final 100m effectiveness.",
+  "key_patterns": [
+    "Delivers winning leadouts through chaotic technical finishes at 100-200m (7+ observations)",
+    "Late release at 200m prevents premature sprinter launches, demonstrates deliberate timing control (3 observations)",
+    "Maintains tight centerline geometry through corners blocking rival positioning attempts (2+ observations)",
+    "Sustains 60kph+ power from 800m differentiating elite execution from competent work (2 observations)",
+    "Individual conversion struggles despite correct positioning when not leading out others (2 observations)"
+  ],
+  "form_trajectory": "positive: 2021-2022 observations show consistent elite-level piloting through chaos, maintaining unmatched technical precision despite train disruptions",
+  "races_analysed": 15,
+  "confidence": "high",
+  "rider_name": "MØRKØV Michael",
+  "built_from": [
+    "2018 Giro d'Italia Stage 21",
+    "2018 Tour de Pologne Stage 2",
+    "2018 Tour de Pologne Stage 3",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Vuelta a Espana Stage 10",
+    "2018 Vuelta a Espana Stage 9",
+    "2019 Tour de France Stage 7",
+    "2020 Tour de France Stage 10",
+    "2020 Vuelta a Espana Stage 15",
+    "2020 Vuelta a Espana Stage 9",
+    "2021 Benelux Tour Stage 3",
+    "2021 Benelux Tour Stage 6",
+    "2021 Tour de France Stage 4",
+    "2022 UAE Tour Stage 2",
+    "2022 Vuelta a Espana Stage 2"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Launches solo attacks on final cobbled climbs 15km from finish, exploiting positioned fatigue after teammates exhaust chasers. Prefers tactical patience over raw power, timing moves when opposition is disorganized.",
+  "team_tactics": "Quick-Step deploys him in breakaways while controlling behind, using teammates to absorb chasing duties before his attack. Team exhausts opposition through tempo before his decisive move.",
+  "terrain_preference": "Excels on cobbled climbs in closing 15km of classics. Vulnerable in sprint finishes when forced to do organizational work. Crashes suggest positioning issues in peloton transitions post-climb.",
+  "vulnerability": "Sprint freshness compromised when doing excessive organizational work. Prone to crashes in peloton middle during pace drops after climbs. Late tactical decisions when isolated from team support.",
+  "key_patterns": [
+    "Attacks on final cobbled sectors 15km out after teammates fatigue chasers (2 instances)",
+    "Loses sprint finish when forced to do organizational chase work earlier (3 instances)",
+    "Crashes in peloton middle during post-climb pace transitions (2 instances)",
+    "Quick-Step places him in breakaways while controlling behind with other riders (2 instances)",
+    "Tactical patience prioritized over early aggression, waits for disorganization (2 instances)"
+  ],
+  "form_trajectory": "negative: Most recent 2021 observation shows him sacrificed in breakaway role rather than protected leader, suggesting diminished status within Quick-Step hierarchy",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "TERPSTRA Niki",
+  "built_from": [
+    "2017 Ronde Van Vlaanderen",
+    "2017 Ronde Van Vlaanderen",
+    "2017 Vuelta a Espana Stage 10",
+    "2018 Paris-Roubaix",
+    "2018 Paris-Roubaix",
+    "2018 Ronde Van Vlaanderen",
+    "2018 Ronde Van Vlaanderen",
+    "2018 Ronde Van Vlaanderen",
+    "2018 Tour of Oman Stage 4",
+    "2020 Paris - Nice Stage 3",
+    "2020 Vuelta a Espana Stage 14",
+    "2021 E3 Saxo Bank Classic"
+  ]
+}

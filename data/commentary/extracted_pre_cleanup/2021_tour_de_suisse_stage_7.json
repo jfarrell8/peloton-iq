@@ -1,0 +1,16 @@
+{
+  "label": "2021 Tour de Suisse Stage 7",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-06-12",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "Insufficient commentary to determine stage outcome or tactical developments",
+    "winner": "",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T23:13:40.255063+00:00"
+}

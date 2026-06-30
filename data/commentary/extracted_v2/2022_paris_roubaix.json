@@ -1,0 +1,29 @@
+{
+  "label": "2022 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2022-04-17",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN BAARLE Dylan won after INEOS controlled the finale, emerging from chasing group after early crosswind split to beat VERMEERSCH and KÜNG in velodrome sprint",
+    "winner": "VAN BAARLE Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS split peloton early using crosswinds on normal roads before cobbles, forcing VAN DER POEL/PEDERSEN to chase from 1:14 deficit",
+      "VAN BAARLE won from chasing group that bridged up, suggesting early splits don't always determine winner in Roubaix",
+      "VAN DER POEL let too many moves go despite bridging early split, revealing energy management failure after hard chase"
+    ],
+    "rider_signals": {
+      "VAN BAARLE Dylan": "positive: only rider with strength to lift bike at finish, transformed from 2021 time-cut elimination to winner",
+      "VAN DER POEL Mathieu": "negative: chased back from early split but failed tactically by letting decisive moves go, well beaten at finish",
+      "LAMPAERT Yves": "negative: crashed when in contention for podium/win, finished outside top positions despite strong ride",
+      "PEDERSEN Mads": "negative: caught behind early crosswind split at 1:14, crashed before cobbles even started, day ruined early",
+      "KÜNG Stefan": "positive: third place after being hampered by late chasers joining, strong ride throughout",
+      "VERMEERSCH Florian": "positive: second place as regional rider, emerged from chaos to nearly win",
+      "STUYVEN Jasper": "positive: eighth despite appearing dead final 50km, exceptional resilience under duress",
+      "TURNER Ben": "positive: key domestique work helping VAN BAARLE win, solid 10th/11th after hard day"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:18:25.488337+00:00"
+}

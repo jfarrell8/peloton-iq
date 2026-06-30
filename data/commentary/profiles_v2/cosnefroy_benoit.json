@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who prioritizes jersey competitions (KOM) over stage wins, willing to expend energy in early/intermediate breakaways rather than saving for finale sprints.",
+  "team_tactics": "Role fluctuates between protected status and domestique duty depending on team priorities; AG2R uses him flexibly as both KOM hunter and leadout rider for designated leaders like Naesen.",
+  "terrain_preference": "Reduced bunch scenarios and hilly classics where breakaways can succeed; possesses underestimated sprint capacity from small groups that allows dual threat capability.",
+  "vulnerability": "Team hierarchy uncertainty—can be demoted from defending champion to support role; lacks consistency as outright protected leader across season.",
+  "key_patterns": [
+    "Proactive KOM jersey defense through breakaway positioning, twice observed targeting 40-point hauls.",
+    "Underestimated sprint capacity from reduced groups, demonstrated in Amstel finale response at 2km.",
+    "Team role fluctuates dramatically season-to-season, champion to domestique within same race calendar.",
+    "Prioritizes jersey competitions over stage hunting when in breakaways, strategic rather than opportunistic wins."
+  ],
+  "form_trajectory": "negative: relegated from defending Bretagne Classic champion to leadout duty in 2022, suggesting declining team status",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "COSNEFROY Benoit",
+  "built_from": [
+    "2020 Paris - Nice Stage 8",
+    "2020 Tour de France Stage 8",
+    "2022 Amstel Gold Race",
+    "2022 Bretagne Classic - Ouest-France"
+  ]
+}

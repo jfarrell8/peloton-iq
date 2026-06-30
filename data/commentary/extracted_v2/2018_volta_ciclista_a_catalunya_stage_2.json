@@ -1,0 +1,27 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-20",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE won stage 2 by timing his sprint perfectly into a headwind after Mitchelton-Scott's aggressive climbing pace failed to deliver for IMPEY",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Mitchelton-Scott with POWER leading pulled hard on cat-2 climb to shed sprinters but IMPEY still lost sprint, wasted domestique effort",
+      "VALVERDE held 5th-6th wheel through headwind finish then timed kick perfectly while others started too early into wind",
+      "MUEHLBERGER doing leadout into headwind for BORA allowed VALVERDE to draft then jump, roadbook reconnaissance beats early power",
+      "Technical 90-degree turn at 1.5km plus right-hander near flamme rouge created toothpaste effect favoring positioned riders over pure speed"
+    ],
+    "rider_signals": {
+      "HODEG Alvaro": "negative: dropped on relatively shallow 4.8% average climb after winning stage 1, cannot sustain multiple days",
+      "IMPEY Daryl": "negative: Mitchelton-Scott sacrificed POWER to thin field for him on climb but still finished only 7th in sprint",
+      "POWER Robert": "positive: pulled aggressively on cat-2 climb for IMPEY, showing classics specialist can do sustained climbing work",
+      "MCCARTHY Jay": "positive: took 3rd after claiming he'd contest if possible, punches above pure sprinter weight in reduced groups",
+      "MUEHLBERGER Gregor": "positive: Austrian led out into headwind finishing 2nd, showing Bora's depth beyond pure sprinters on climbing stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:38:59.581782+00:00"
+}

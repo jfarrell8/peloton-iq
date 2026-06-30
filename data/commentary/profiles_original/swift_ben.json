@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic late attacks on technical finishes (700m observed), targeting transitional stages where pure sprinter teams struggle with positioning. Also employs intermediate sprint ambushes to disrupt GC calculations.",
+  "team_tactics": "Ineos uses him as versatile utility rider: valley/early climb tempo control in mountains despite non-climber profile, positioned for bonus denial rather than stage wins in Grand Tours.",
+  "terrain_preference": "Technical, complex run-ins where pure sprinter trains lose cohesion. Thrives in transitional terrain requiring tactical awareness over pure power. Vulnerable on straightforward power sprints.",
+  "vulnerability": "Outgunned in pure sprint scenarios, forcing desperate late-race gambits. Limited climbing ceiling despite domestique utility suggests can't follow sustained high-mountain pace.",
+  "key_patterns": [
+    "Late-race attacks (sub-1km) on technical finishes when outmatched in pure sprints (2 instances)",
+    "Intermediate sprint bonus hunting as GC disruption tactic, not personal gain (2 instances)",
+    "High-mountain domestique work despite non-climber profile shows tactical versatility (2 Grand Tour appearances)",
+    "Targets transitional stages where sprinter team control weakens on complex parcours"
+  ],
+  "form_trajectory": "neutral: 2023 Giro showed continued Grand Tour utility role, but no progression from opportunistic attacker to stage contention. Tactical niche remains consistent.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SWIFT Ben",
+  "built_from": [
+    "2022 Giro d'Italia Stage 5",
+    "2022 Giro d'Italia Stage 5",
+    "2023 Giro dItalia Stage 13",
+    "2023 Paris-Nice Stage 5",
+    "2023 Paris-Nice Stage 5"
+  ]
+}

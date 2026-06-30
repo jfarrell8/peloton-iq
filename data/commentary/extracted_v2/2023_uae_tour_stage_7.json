@@ -1,0 +1,28 @@
+{
+  "label": "2023 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2023-02-26",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Adam attacked at 6.1km to go on Jebel Hafeet, won the stage by 10 seconds over EVENEPOEL, but fell 1 second short of the overall podium.",
+    "winner": "YATES Adam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "UAE used HESSMANN as domestique to deliver water to rivals mid-climb, controlling without attacking—unconventional resource denial tactics.",
+      "YATES attacked 6.1km out when breakaway remnants still existed, using traffic as psychological barrier rather than attacking on open road.",
+      "PLAPP defended podium by 1 second over YATES despite cracking, suggesting GC defense pacing calculations more accurate than aggressive climbing.",
+      "AG2R planted HANNAN in break as strategic marker for BOUCHARD's late surge to fourth—deliberate positioning paid off."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: explosive on steeper ramps of Hafeet but mistimed GC ambition—attacked for stage not seconds, revealing priority confusion",
+      "EVENEPOEL Remco": "neutral: drove tempo with Yates but couldn't match final kick, defended GC conservatively rather than gambling for stage",
+      "PLAPP Lucas": "positive: clung to podium by 1 second through precise pacing despite cracking—calculated defense superior to Yates' aggressive gamble",
+      "BILBAO Pello": "negative: lost podium by 3 seconds after looking over shoulder repeatedly—psychological weakness cost measurable time",
+      "BOUCHARD Geoffrey": "positive: AG2R's breakaway marker strategy delivered fourth place, showing French team's tactical maturity improved",
+      "LANDA Mikel": "negative: pre-stage favorite struggled and finished elsewhere, suggesting form collapse or misjudged heat preparation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:02:51.430942+00:00"
+}

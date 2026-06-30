@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from a 4-rider breakaway that held off a disorganized peloton missing key sprint trains after horrific weather caused chaos and abandoned chases",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Four-rider breakaway survived because sprint teams exhausted domestiques on clothing changes and crash repairs in apocalyptic conditions",
+      "Intermediate sprint at 150km caused peloton splits that shed GC riders when teams accelerated in treacherous weather",
+      "Clothing change logistics cost Gaviria contact with peloton, revealing wardrobe strategy risk on transitional stages in rain",
+      "Breakaway attack patterns inside 1500m failed as Gee went too early; Cort held powder dry until 300m"
+    ],
+    "rider_signals": {
+      "VINE Jay": "negative: lost contact with Maglia Rosa group during Caruso-Milan chase, hemorrhaged 10 minutes and top-10 GC position",
+      "VLASOV Aleksandr": "negative: abandoned while ill within 2 hours of racing, showing vulnerability to post-rest day illness",
+      "GAVIRIA Fernando": "negative: crashed immediately after clothing change, suggesting team failed to manage his re-entry to peloton safely",
+      "GEE Derek": "neutral: attacked at 1500m and 300m in breakaway sprint but both times lacked finishing power against Cort",
+      "CAVENDISH Mark": "positive: regained peloton contact despite disorganized teams, suggesting strong climbing form for reduced bunch sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:37:28.196784+00:00"
+}

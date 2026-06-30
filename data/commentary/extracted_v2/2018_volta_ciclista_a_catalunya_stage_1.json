@@ -1,0 +1,25 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-19",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "HODEG Alvaro won a flat sprint after Quickstep-Floors deployed their lead-out train with 3km to go, with MØRKØV delivering him at 800m out",
+    "winner": "HODEG Alvaro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep-Floors started their lead-out at 3km (unusually early), banking on train durability over positioning surprise tactics",
+      "JUNGELS worked until 800m as a super-domestique, revealing Quickstep's willingness to burn GC options for sprint stages",
+      "BONIFACIO attempted solo leadout for Bahrain-Merida, suggesting team lacked depth for organized train against Quickstep firepower"
+    ],
+    "rider_signals": {
+      "HODEG Alvaro": "positive: 21-year-old confidently took stage after recent Handzame Classic win, showing repeatable form transfer across race types",
+      "BENNETT Sam": "negative: Had designated leadout (MCCARTHY) but couldn't match Hodeg's explosive speed despite positioning",
+      "JUNGELS Bob": "neutral: Luxembourg road champion worked deep into finale (800m) as super-domestique, sacrificing GC positioning early in stage race",
+      "VALVERDE Alejandro": "negative: Observed freewheeling in peloton rather than positioning up front, showing lack of motivation for sprint stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:38:45.144550+00:00"
+}

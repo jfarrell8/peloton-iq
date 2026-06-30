@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Explosive accelerations in final 4km, particularly on technical descents or punchy climbs. Favors repeated attacks rather than single long-range moves, often countering immediately after being caught.",
+  "team_tactics": "Burns domestiques early through aggressive tempo control, leaving him isolated in finals. Unconventional tactics include entering breakaways while holding GC jersey and leading out teammates despite protected status.",
+  "terrain_preference": "Cobbled classics (elite-level immediately), technical descents with high-speed gear (62-tooth), uphill sprints on 4-6% gradients. Surprisingly vulnerable on Tour de France cobbled stages despite Roubaix palmares.",
+  "vulnerability": "Mechanicals at critical moments prove devastating when isolated. Strategic paralysis when domestiques depleted—defaults to reactive marking instead of initiating. Sprint finishing power inconsistent when following wheels.",
+  "key_patterns": [
+    "Attacks inside final 4km on technical terrain, often descents or punchy climbs (3 instances)",
+    "Isolated early after team burns out, forcing reactive rather than proactive racing (3 instances)",
+    "Immediate world-class performance on specialized terrain without prior experience (cobbles, uphill sprints)",
+    "Tour de France form decline pattern: dominant early stages followed by weakness in week 2-3 (2022, 2023)",
+    "Mechanical issues disproportionately costly due to lack of chase support from depleted team (2 critical instances)"
+  ],
+  "form_trajectory": "negative: 2023 shows declining pattern from Paris-Roubaix dominance (April) to caught breakaway at Tour (July). 2022 Tour cobbles underperformance echoes vulnerability when form not peak.",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "VAN DER POEL Mathieu",
+  "built_from": [
+    "2020 Omloop Het Nieuwsblad",
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix",
+    "2021 Tour de France Stage 2",
+    "2021 Tour de France Stage 2",
+    "2021 Tour de France Stage 3",
+    "2021 Tour de France Stage 7",
+    "2022 Amstel Gold Race",
+    "2022 Dwars door Vlaanderen",
+    "2022 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 1",
+    "2022 Tour de France Stage 5",
+    "2023 Paris-Roubaix",
+    "2023 Ronde van Vlaanderen - Tour des Flandres",
+    "2023 Tour de France Stage 12"
+  ]
+}

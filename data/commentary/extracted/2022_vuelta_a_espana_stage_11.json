@@ -1,0 +1,23 @@
+{
+  "label": "2022 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KADEN Kaden won with a 200m acceleration after being protected by Alpecin teammates who did zero work in the final 10km.",
+    "winner": "KADEN Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin preserved KADEN completely until 200m, zero accelerations final 10km while rivals burned matches positioning through traffic.",
+      "VAN POPPEL Danny had superior final 100m speed but boxed in, lost 3-5 pedal strokes creating gap to clear traffic.",
+      "Light headwind throughout discouraged large early breakaway, suppressed usual Vuelta aggression despite no categorized climbs."
+    ],
+    "rider_signals": {
+      "VAN POPPEL Danny": "positive: showed best raw speed in final 100m but tactical positioning deficit cost stage, sitting wrong wheels",
+      "ALAPHILIPPE Julian": "negative: abandoned stage, significant blow to EVENEPOEL Remco losing road captain and world champion tactician"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:55:04.066780+00:00"
+}

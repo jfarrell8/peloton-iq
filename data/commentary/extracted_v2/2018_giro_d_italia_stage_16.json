@@ -1,0 +1,25 @@
+{
+  "label": "2018 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-22",
+  "stage": 16,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DENNIS Rowan won the stage 16 ITT, but DUMOULIN Tom limited losses to 22 seconds behind Dennis while YATES Simon survived to retain pink by 56 seconds over DUMOULIN.",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "DUMOULIN Tom finished 22 seconds behind stage winner DENNIS but gained massively on GC rivals, moving to 56 seconds down.",
+      "YATES Simon's post-race comment about defensive tactics reveals increased conservatism with enlarged gap to chasers beyond DUMOULIN.",
+      "ARU Fabio unexpectedly slower than MARTIN Tony despite being Italian TT champion, suggesting form issues in third week."
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: Won ITT decisively, 1:14 ahead of Martin, showcasing BMC's TT strength in Giro third week.",
+      "DUMOULIN Tom": "positive: Finished only 22 seconds behind Dennis while gaining time on other GC contenders, moved to 56 seconds off pink.",
+      "YATES Simon": "negative: Survived but acknowledged need for defensive tactics, suggesting vulnerability awareness despite 56-second gap.",
+      "ARU Fabio": "negative: Posted slower time than Tony Martin despite being Australian TT champion, unexpected weakness in discipline.",
+      "FROOME Chris": "neutral: Finished in top times but fell to 3:11 down, positioning too far back for GC threat."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:20:09.854484+00:00"
+}

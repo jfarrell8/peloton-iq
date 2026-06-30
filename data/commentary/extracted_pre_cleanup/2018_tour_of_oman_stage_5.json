@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour of Oman Stage 5",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-17",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO attacked on final climb of Green Mountain with teammate LÓPEZ Miguel Ángel, LÓPEZ won stage while LUTSENKO took race lead by 11 seconds.",
+    "winner": "LÓPEZ Miguel Ángel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana deployed dual GC threats LUTSENKO and LÓPEZ on final climb, forcing rivals to chase both instead of marking one.",
+      "MARCATO drove breakaway tempo for UAE Emirates despite no team interest, weakening peloton before Astana's final move.",
+      "Rally Cycling placed two riders in break then CARPENTER extended effort on lower climb slopes, unusual persistence pattern."
+    ],
+    "rider_signals": {
+      "LÓPEZ Miguel Ángel": "positive: riding supreme with LUTSENKO on Green Mountain, won stage while positioned 11 seconds behind in GC",
+      "LUTSENKO Alexey": "positive: riding supreme on final climb, took race lead with 11 seconds over LÓPEZ after stage, perfect Astana tactics",
+      "VAN AVERMAET Greg": "negative: in difficulty on Green Mountain climb, limiting losses as expected non-climber terrain",
+      "HIRT Jan": "negative: dropped after tremendous workload for Astana, sacrificial domestique burned before summit finish",
+      "CARPENTER Robin": "neutral: winner Tour of Alberta, held front on lower slopes before peloton absorption",
+      "MARCATO Marco": "neutral: drove breakaway tempo for UAE Emirates, key domestique role weakening peloton before catch",
+      "IZAGIRRE Gorka": "positive: third overall, 11 seconds behind LUTSENKO after Green Mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:44:42.984682+00:00"
+}

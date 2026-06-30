@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MCNULTY Brandon won Stage 15 after catching solo leader HEALY Ben on the descent, then outsprinting him and FRIGO Marco in Bergamo's finale.",
+    "winner": "MCNULTY Brandon",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "HEALY Ben attacked with 35km solo after winning KOM battles, but was paced down on descent by MCNULTY's superior descending.",
+      "UAE allowed breakaway over 11 minutes despite AINA RUBIO's GC threat, signaling stage hunting over GC defense priorities.",
+      "GC group lost only 30 seconds on leader ALMEIDA showing teams already resting legs before Stage 16's Monte Bondone battle."
+    ],
+    "rider_signals": {
+      "HEALY Ben": "positive: won multiple KOM sprints and attacked solo from 35km, confirming he needs earlier attacks to avoid stronger finishers",
+      "MCNULTY Brandon": "positive: first grand tour stage win after five attempts, closed gap on descent suggesting descending is stronger weapon than climbing",
+      "FRIGO Marco": "positive: rejoined leaders after being dropped, then nearly won sprint showing Italian neo-pros reviving late in stages",
+      "ALMEIDA Bruno": "negative: lost 30 seconds on stage 15 before key mountain test, suggesting Jumbo setting tempo cracked him slightly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:38:29.882659+00:00"
+}

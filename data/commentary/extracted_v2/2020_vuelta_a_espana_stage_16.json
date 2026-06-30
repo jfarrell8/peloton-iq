@@ -1,0 +1,26 @@
+{
+  "label": "2020 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-06",
+  "stage": 16,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won Stage 16 sprint finish, but ROGLIC Primoz took 6-second time bonus by outsprinting CARAPAZ Richard at the line.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE and Bora inexplicably controlled peloton despite no GC stakes, allowing Jumbo-Visma to save energy before final climb.",
+      "ROGLIC targeted intermediate time bonuses third wheel, stealing 6 seconds from CARAPAZ with better bike throw positioning.",
+      "EF ProCycling didn't pace once yet won stage; high team morale translating to opportunistic breakaway success pattern.",
+      "Crosswind opportunities ignored by Movistar despite having strongest squad and only fifth place GC; tactical passivity continued."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: Actively hunting intermediate bonuses despite comfortable lead shows killer instinct, won't concede free seconds",
+      "CARAPAZ Richard": "negative: Lost 6-second sprint to Roglic reveals inferior pure speed when positioned equally at finish",
+      "CAVAGNA Remy": "positive: Commentary noted 'ride of day' in breakaway after huge effort previous stage, showing exceptional recovery",
+      "CORT Magnus": "positive: Won after recovering from COVID earlier in race; climbing improvement enabling grand tour stage wins"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:30:34.873656+00:00"
+}

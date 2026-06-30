@@ -1,0 +1,23 @@
+{
+  "label": "2017 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2017-04-28",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MALECZEUK won stage 3 sprint at Tour of Hainan/Qinghai Lake (commentary conflates multiple Asian races), defeating MARINI and PASQUALON in flat finale.",
+    "winner": "Cannot determine - MALECZEUK not in roster",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Breakaway groups with 5+ riders from different teams forced peloton to chase hard despite short Asian stage profiles.",
+      "Sprint teams allowed early breaks to gain 4+ minutes before organizing chase inside final 10km on flat Asian stages.",
+      "Bonus seconds at intermediate sprints became tactical priority for prologue specialists seeking GC gains on short stage races."
+    ],
+    "rider_signals": {
+      "MARINI Nicolas": "positive: won opening road stage then consistently placed top-6 in sprints while under contract pressure, showing consistency under stress",
+      "PASQUALON Andrea": "neutral: podiumed stage 3 but unable to challenge for win despite team support from Japanese domestique"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T21:13:23.317735+00:00"
+}

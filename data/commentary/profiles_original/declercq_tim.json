@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not an attacker. Pure domestique role focused on team service rather than personal results. When in breakaways, it's for team insurance rather than victory ambitions.",
+  "team_tactics": "Deployed strategically in early breaks to provide positional insurance and force rival teams to chase. Serves as road captain orchestrating leadout trains and controlling race flow for team leaders.",
+  "terrain_preference": "Classics terrain and controlled flat stages where his diesel engine and tactical positioning add value. Surprisingly capable on climbs when motivated for team duty, able to bridge significant gaps.",
+  "vulnerability": "Team becomes tactically exposed when he crashes or is absent, indicating irreplaceable organizational role. His personal ambitions are non-existent, making him invisible when team doesn't need coverage.",
+  "key_patterns": [
+    "Placed in early breaks for team insurance, not personal glory (2 races)",
+    "Functions as road captain; team struggles tactically without him (2 observations)",
+    "Shows unexpected climbing capacity when serving team needs, bridging large gaps (1 major example)"
+  ],
+  "form_trajectory": "neutral: Consistent domestique role maintained across years. 2021 absence highlighted importance rather than indicating declining form.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DECLERCQ Tim",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 12",
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Omloop Het Nieuwsblad",
+    "2021 Tour de France Stage 13"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Opportunistic attacker from breakaways or reduced groups, typically in final 15km. Prefers late-race moves after sustained hard tempo rather than explosive accelerations. Strong finishing speed to capitalize on premature attacks by others.",
+  "team_tactics": "Versatile domestique who sacrifices personal ambitions for team leaders (Roglič, Benoot examples). When given freedom, attacks solo from mid-GC positions or animates from strong breakaways. Team rarely builds dedicated lead-out.",
+  "terrain_preference": "Technical ITT courses (15-25km) and rolling classics terrain with late punchy climbs. Excels in record-pace breakaways and reduced bunch sprints after selective racing. Exposed on sustained steep climbs where pure climbers distance him in final kilometers.",
+  "vulnerability": "Fades on final steep gradients after extended efforts (Mur de Huy base, Paris-Nice climbs). Exhaustible when performing extensive domestique duties early in stages. Struggles when required to follow explosive attacks rather than control tempo.",
+  "key_patterns": [
+    "Two Tour de France stage wins via identical pattern: record-breaking breakaway pace then sprint finish.",
+    "Strong technical ITT ability: won Paris-Nice ITT, 2nd Tour de Suisse, negative split execution.",
+    "Superior finish speed in reduced groups, catching premature solo attacks in final meters (2 examples).",
+    "Willingly sacrifices personal GC/stage results for team objectives (3 documented instances).",
+    "Late-race solo attacks from GC positions around 15km to go, especially when in 7th-10th overall.",
+    "Performs best in Ardennes classics, repeatedly reaching final decisive groups on Mur de Huy."
+  ],
+  "form_trajectory": "neutral: 2023 Fleche Wallonne showed continued classics competitiveness but no progression from 2022 level. Pattern suggests plateaued at strong domestique/opportunist level rather than ascending to leader status.",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "KRAGH ANDERSEN Søren",
+  "built_from": [
+    "2017 Tour of Oman Stage 3",
+    "2017 Tour of Oman Stage 3",
+    "2017 Tour of Oman Stage 4",
+    "2017 Tour of Oman Stage 4",
+    "2018 BinckBank Tour Stage 7",
+    "2018 Tour de Suisse Stage 9",
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Paris - Nice Stage 4",
+    "2020 Paris - Nice Stage 4",
+    "2020 Paris - Nice Stage 6",
+    "2020 Paris - Nice Stage 7",
+    "2020 Tour de France Stage 14",
+    "2020 Tour de France Stage 14",
+    "2020 Tour de France Stage 19",
+    "2020 Tour de France Stage 19",
+    "2021 Paris-Nice Stage 3",
+    "2021 Paris-Nice Stage 8",
+    "2022 La Fleche Wallonne",
+    "2022 Paris-Nice Stage 3",
+    "2022 Paris-Nice Stage 6",
+    "2023 La Fleche Wallonne"
+  ]
+}

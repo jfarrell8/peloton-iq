@@ -1,0 +1,28 @@
+{
+  "label": "2019 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-06-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello took his second stage win by following LANDA Mikel's wheel after CARAPAZ Richard towed them up to chase remnants, while ROGLIČ Primož cracked badly defending third place.",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LÓPEZ Miguel Ángel attacked twice on Croce d'Aune forcing CARAPAZ to chase personally, unusual for a maglia rosa defender",
+      "ROGLIČ Primož pulled entire LANDA/NIBALI/CARAPAZ group up Monte Avena despite being third on GC, catastrophic miscalculation costing 54s",
+      "BILBAO sat fourth wheel behind NIBALI in finale despite being strongest sprinter, waited until 150m flat section to strike",
+      "CARAPAZ led out LANDA in sprint instead of contesting himself, prioritizing team stage win over personal glory"
+    ],
+    "rider_signals": {
+      "BILBAO Pello": "positive: won sprint against motivated climbers after full stage, replicates week-one strength in finale positioning discipline",
+      "LÓPEZ Miguel Ángel": "negative: fifth mechanical/crash of Giro, crowd interference on descent plus repeated equipment failures signals organizational chaos",
+      "ROGLIČ Primož": "negative: did all pulling for LANDA/NIBALI group then cracked for 54s, tactical suicide defending third place",
+      "LANDA Mikel": "positive: strong enough to contest sprint after 194km/5500m, secured podium by 6-second margin via bonus seconds",
+      "CARAPAZ Richard": "positive: chased LÓPEZ attacks personally without panic, prioritized team leadout over stage win showing calculated confidence",
+      "NIBALI Vincenzo": "neutral: stayed with podium group but lacked sprint, no winning moves at 34 years on hardest stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:57:36.697479+00:00"
+}

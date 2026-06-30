@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-22",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won a nervous sprint finish at Tarragona after Quick-Step positioned him through technical final kilometers.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step's stage finish reconnaissance pre-race directly translated to positioning victories on tricky technical finales.",
+      "Breakaway groups dissolving on climbs before finals indicates peloton deliberately controlled tempo to preserve sprint.",
+      "Pre-3km crash positioning crucial: POZZOVIVO lost 3+ minutes overall while others neutralized under rule."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Converted Quick-Step's technical finale positioning into convincing sprint victory at 60kph",
+      "LAMPAERT Yves": "positive: Successfully led out TRENTIN after taking own stage win earlier, showing domestique versatility",
+      "LOBATO Juan José": "neutral: Beaten by TRENTIN on left side positioning despite being near front in finale",
+      "POZZOVIVO Domenico": "negative: Pre-3km crash cost 3+ minutes GC, catastrophic positioning error for climber on flat stage",
+      "MORENO Daniel": "negative: Crashed in nervous finale before 3km line, revealing pack positioning vulnerability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:18:53.156360+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Attacks early and aggressively on penultimate climbs (50km out), forcing isolation of rivals rather than waiting for final climb. Calculated, tactical racing prioritizing positioning over pure power.",
+  "team_tactics": "Willing to mark rivals rather than collaborate with teammates, suggesting individual GC focus. Attacks designed to shed key domestiques early (Kruijswijk, Dennis type riders) and isolate leaders.",
+  "terrain_preference": "Penultimate climbs where tactical positioning matters more than pure climbing power. Thrives in scenarios where bonus seconds and calculated moves trump raw climbing ability.",
+  "vulnerability": "Wet descents show equipment/positioning issues. Sprint finishes against stronger finishers like Roglic when racing conservatively. Raw climbing power appears limited against pure climbers.",
+  "key_patterns": [
+    "Attacks 50km out on penultimate climbs to isolate rivals early (2 instances)",
+    "Tactical bonus hunting and calculated racing compensates for climbing limitations (2 instances)",
+    "Marks rivals over following teammates, prioritizes individual over team tactics (2 instances)",
+    "Wet conditions expose mechanical/positioning vulnerabilities, particularly on descents (1 instance)"
+  ],
+  "form_trajectory": "neutral: showed strong tactical aggression 2022 Paris-Nice but execution issues (mechanical, sprint defeat) suggest form present but results incomplete",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MARTINEZ Danny",
+  "built_from": [
+    "2020 Criterium du Dauphine Stage 5",
+    "2022 Paris-Nice Stage 7",
+    "2022 Paris-Nice Stage 8",
+    "2022 Paris-Nice Stage 8"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2022 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-24",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HIT Jan attacked 8km from summit on Valle Santa Cristina, caught Kemna's breakaway, held off Arensman for maiden Grand Tour stage win",
+    "winner": "HIT Jan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana tested CARAPAS early on Mortirolo with NIBALI probe despite no support, forcing pink jersey group to respond.",
+      "Bahrain Victorious worked to set up final climb despite no protected GC rider, suggesting stage hunting strategy.",
+      "BILBAO-LANDER teammate crash with 8km remaining suggests Bahrain communication breakdown under pressure on decisive climb.",
+      "ALMEIDA deliberately managed effort behind initial attacks, limiting losses to 15sec while NIBALI bled minute chasing."
+    ],
+    "rider_signals": {
+      "HIT Jan": "positive: won from late 8km attack after earlier Mortirolo presence, showing recovered form after previous Chicchone second place",
+      "ARENSMAN Thymen": "positive: only 22 years old, bridged solo to stage contention from pink jersey group, finished 7sec behind winner",
+      "HINDLEY Jai": "positive: picked up 4 bonus seconds in photo finish while limiting losses, closed GC gap from 7sec to 3sec",
+      "NIBALI Vincenzo": "negative: isolated early attack on Mortirolo went nowhere, then lost nearly minute on final climb showing age",
+      "ALMEIDA Joao": "neutral: controlled ride limiting to 15sec loss suggests playing longer GC game rather than defending 30sec gap",
+      "SIVAKOV Pavel": "negative: braking problems causing crash reveals Ineos mechanical preparation issues despite controlling earlier",
+      "KEMNA Leonard": "positive: Etna winner attacked solo between climbs, held 51sec advantage entering final climb before caught 8km out",
+      "CARTHY Hugh": "neutral: present in early moves on Mortirolo but unable to sustain effort on Valle Santa Cristina"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:38:40.397500+00:00"
+}

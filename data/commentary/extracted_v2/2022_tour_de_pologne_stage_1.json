@@ -1,0 +1,29 @@
+{
+  "label": "2022 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-07-30",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "WILLIAMS Stephen won punchy stage 1 finale at Tour de Suisse after breakaway absorbed on final categorized climb, outsprinting Schachmann and Kron.",
+    "winner": "WILLIAMS Stephen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain isolated Williams perfectly by having Van Wilder lead out final sprint despite teammate being in late break.",
+      "BikeExchange chased with Matthews/Haig in break, revealing weak team coordination or deliberate rider preservation strategy.",
+      "Final categorized climb absorbed break with 20s gap, showing circuit's climb insufficient to thin peloton for selective finish."
+    ],
+    "rider_signals": {
+      "WILLIAMS Stephen": "positive: First WT win suggests breakthrough on punchy finishes, outkicked established climber-sprinters Schachmann/Kron",
+      "VAN WILDER Ilan": "positive: Sacrificed own result to leadout Williams despite being fresh, indicates team prioritization clarity",
+      "FULGSANG Jakob": "neutral: Animated late break move with Higuita showed legs but tactical impact negligible",
+      "PINOT Thibaut": "negative: Dropped on final categorized climb suggests poor form entering Tour prep race",
+      "MARTINEZ Daniel": "negative: Distanced on same climb that dropped Pinot, concerning signal for GC ambitions",
+      "VLASOV Aleksandr": "positive: Positioned well and looked strong through finale despite no result",
+      "SAGAN Peter": "negative: Eliminated before finale on lumpy circuit, confirming steep climbs now beyond capacity",
+      "KRISTOFF Alexander": "negative: Same elimination as Sagan confirms pure sprinters irrelevant on this terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:25:18.805009+00:00"
+}

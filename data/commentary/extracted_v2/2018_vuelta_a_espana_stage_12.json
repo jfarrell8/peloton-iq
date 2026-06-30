@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-06",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GENIEZ Alexandre won mountaintop sprint from reformed breakaway, holding off VAN BAAL Dylan's late charge in difficult conditions",
+    "winner": "GENIEZ Alexandre",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "HARADA Jesus controlled tempo at breakaway front to protect 5:45 GC deficit, nearest rider to overall contention.",
+      "Breakaway reformed on climb with quartet establishing gap before VAN BAAL bridged, suggesting initial selection too weak.",
+      "YATES Simon personally chased when no teammates stepped up, unusual GC leader workload at 10:17 gap."
+    ],
+    "rider_signals": {
+      "GENIEZ Alexandre": "positive: Won mountaintop sprint despite weaker climbing pedigree than VAN BAAL, suggesting good form in harsh conditions",
+      "VAN BAAL Dylan": "positive: Bridged solo to leading quartet on climb then contested sprint, versatility beyond sprinter profile",
+      "HARADA Jesus": "neutral: Protected GC position by controlling breakaway tempo, 5:45 down made him key collaborator",
+      "YATES Simon": "negative: Forced to chase personally when peloton sat passive at 10+ minutes, team unable to control",
+      "VIVIANI Elia": "negative: Dropped early confirming stage too hard for pure sprinters despite initial speculation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:40:11.910116+00:00"
+}

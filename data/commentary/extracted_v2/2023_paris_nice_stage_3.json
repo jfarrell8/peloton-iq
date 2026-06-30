@@ -1,0 +1,26 @@
+{
+  "label": "2023 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-07",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won the TTT stage for EF Education-EasyPost by 1.4 seconds over Jumbo-Visma, taking yellow by attacking solo in final 200 meters under new first-rider-across timing rules.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "New TTT rules incentivized solo attacks in final 200m: Pogačar attacked teammates, Cort's solo effort gained yellow by 1sec.",
+      "Jayco-AlUla 22.7sec fastest at intermediate check but faded, revealing wind-sheltered early course favored front-heavy pacing strategies.",
+      "UAE gave Gaudu armchair ride to finish suggesting domestique conservation for GC secondary riders became viable under individual timing rules."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: executed perfect solo TTT finale attack under new rules, taking yellow by 1sec over Vingegaard despite weaker team",
+      "POGAČAR Tadej": "neutral: attacked own teammates in finale but UAE team 20sec slower than Jayco suggests TTT weakness compared to rivals",
+      "VINGEGAARD Jonas": "positive: Jumbo-Visma's 3-man finish only 1.4sec from stage win shows team strength, Vingegaard now leads Pogačar by handful seconds",
+      "GAUDU David": "positive: UAE gave him armchair ride suggesting team protecting secondary GC option, positions him well for mountain stages",
+      "YATES Simon": "neutral: Jayco-AlUla dominated intermediate but lost 4sec to Jumbo by finish, suggesting pacing misjudgment or wind shift"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:51:56.534702+00:00"
+}

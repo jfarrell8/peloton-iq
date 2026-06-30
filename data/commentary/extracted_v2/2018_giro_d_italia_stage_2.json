@@ -1,0 +1,25 @@
+{
+  "label": "2018 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-05",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won from 25th position with 800m to go, threading through chaos while Quick-Step had a 'mini crisis' with positioning",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step committed sprinter too deep despite leadout chaos, Viviani recovered from 25th wheel at 800m successfully.",
+      "DENNIS Rowan took intermediate sprint for time bonus specifically to secure pink jersey before stage finish.",
+      "Spectator wall allegedly provided aero assistance to breakaway rider, highlighting security/positioning issues on Israeli stages."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: recovered from catastrophic positioning (25th at 800m) to win, suggesting superior top-end speed compensates for positioning errors",
+      "BENNETT Sam": "neutral: confirmed pre-stage that team wouldn't dedicate full support, finished third without full leadout commitment",
+      "DENNIS Rowan": "positive: tactically hunted intermediate sprint time bonus to secure GC lead, showing calculated GC awareness on sprint stage",
+      "CAVENDISH Mark": "negative: dropped before finale despite Dimension Data controlling, signaling declining form or team communication breakdown"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:21:00.138775+00:00"
+}

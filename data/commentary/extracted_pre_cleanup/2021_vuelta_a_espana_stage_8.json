@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JACOBSEN Fabio won Stage 8 by perfectly timing his sprint, sitting in until final 200m while DECEUNINCK teammates led out too early at 5km.",
+    "winner": "JACOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DECEUNINCK started leadout at 5km, got absorbed, then confidently re-initiated in final kilometer showing tactical maturity after early misjudgment.",
+      "PHILIPSEN Jasper contested intermediate sprint to extend points jersey lead, revealing willingness to expend energy before critical final sprint.",
+      "UAE controlled final 1.2km with MOLANO Juan Sebastian positioned fourth wheel, but TRENTINO Matteo never pulled through exposing weak leadout.",
+      "BURGOS-BH placed rider in every breakaway through 8 stages, demonstrating systematic sponsorship visibility strategy regardless of breakaway viability."
+    ],
+    "rider_signals": {
+      "JACOBSEN Fabio": "positive: second stage win, sat third/fifth wheel entire final kilometer saving watts while DECEUNINCK absorbed early positioning mistake",
+      "PHILIPSEN Jasper": "neutral: contested intermediate sprint for points jersey but second in final sprint suggests diminishing returns on early energy expenditure",
+      "MEEUS Jordi": "positive: fourth place finish shows progression toward stage win capability on pure flat sprints",
+      "MATTHEWS Michael": "negative: finished outside top 20 confirming he requires gradient or technical finish for competitiveness, flat sprints not viable",
+      "MOLANO Juan Sebastian": "negative: UAE had numerical advantage in final kilometer but MOLANO faded to fifth showing leadout dependency over raw speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:20:58.007238+00:00"
+}

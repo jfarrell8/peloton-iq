@@ -1,19 +1,23 @@
 {
-  "attacking_style": "Opportunistic sprinter who capitalizes on reduced bunch scenarios created by crosswinds and selective racing rather than traditional mass gallops.",
-  "team_tactics": "NTT showed improved team cohesion in 2020, keeping Cimolai protected and positioned through decisive crosswind splits in final 30km.",
-  "terrain_preference": "Windy, technical stages that fragment the peloton and eliminate pure power sprinters; thrives when bunch is reduced to 10-20 riders rather than full field sprints.",
-  "vulnerability": "Likely struggles in mass field sprints against pure power sprinters; needs selective racing conditions to compete for wins.",
+  "attacking_style": "Not an attacker; finishes reduced bunch sprints and punchy finales rather than initiating moves. Excels when field is whittled down by terrain or circumstances before sprint.",
+  "team_tactics": "Relies on team positioning work to deliver him into final kilometers (Israel and FDJ setups documented), but lacks pure leadout train dominance. Effective in technical/crosswind scenarios requiring positioning skill over raw power.",
+  "terrain_preference": "Punchy, reduced sprints and crosswind-affected stages suit him best. Struggles in pure flat-out sprints against top-tier speed specialists where positioning cannot compensate for raw wattage.",
+  "vulnerability": "Lacks finishing speed in blanket sprints with full peloton; consistently places without winning (multiple 2nd/3rd places). Cannot overpower pure sprinters when positioned equally.",
   "key_patterns": [
-    "Wins from small reduced groups after late-race selection (13-rider group, 30km from finish).",
-    "Benefits from NTT team development step-change in 2020 versus previous seasons.",
-    "Executes sprint finishes when protected through technical/windy finale rather than positioning battles."
+    "Performs best in reduced sprints after selective racing, not mass gallops (3 observations)",
+    "Strong crosswind positioning skills across multiple teams, unusually adaptable (2 observations)",
+    "Consistent placings without breakthrough wins at WorldTour level, perennial bridesmaid syndrome (3 observations)",
+    "Integrates quickly into new team tactical systems, immediate effectiveness upon transfer (2 observations)"
   ],
-  "form_trajectory": "positive: Part of NTT team performance surge in early 2020, already exceeding previous year's total wins by March",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "neutral: Consistent top-3 placements in appropriate scenarios (2020-2021) but no progression to wins; ceiling appears reached as quality support rider rather than stage winner",
+  "races_analysed": 4,
+  "confidence": "medium",
   "rider_name": "CIMOLAI Davide",
   "built_from": [
-    "2020 Paris - Nice Stage 2",
-    "2020 Paris - Nice Stage 2"
+    "2017 Paris-Nice Stage 1",
+    "2017 Paris-Nice Stage 1",
+    "2020 Tirreno Adriatico Stage 2",
+    "2021 Giro d'Italia Stage 10",
+    "2021 Giro d'Italia Stage 3"
   ]
 }

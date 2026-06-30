@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLITCH won a selective uphill sprint after teammate KELDERMAN crashed, forcing JUMBO-VISMA to chase back COFIDIS-MOVISTAR break on brutal circuit finale",
+    "winner": "ROGLITCH Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KELDERMAN crash forced JUMBO-VISMA tactical reset; UAE/INEOS initially hesitated allowing COFIDIS/MOVISTAR break to gain dangerous margin mid-circuit",
+      "Late peloton fracturing benefited ROGLITCH positioned perfectly; VAN AERT working extensively gifted stage to leader after initial different plan",
+      "INEOS burned HART's teammates chasing rather than sitting; compromised final sprint positioning despite HART reaching podium second"
+    ],
+    "rider_signals": {
+      "KELDERMAN Wilco": "negative: concentration lapse crashing into WOODS eliminated key JUMBO domestique forcing team plan B on decisive circuit",
+      "ROGLITCH Primož": "positive: third consecutive stage win shows peak form timing; superior energy management in selective sprint after teammates exhausted chasing",
+      "HART Tao Gegan": "positive: second place despite INEOS being forced to chase suggests strong form but team tactics cost him stage victory",
+      "ALMEIDA João": "positive: young rider doing disproportionate chase work for UAE yet still finishing podium suggests emerging domestique-GC hybrid capability",
+      "KÄMNA Lennard": "negative: dropped significantly in GC rankings when race fractured; BORA couldn't protect him through circuit finale chaos",
+      "VAN AERT Wout": "neutral: extensive work rate suggests original plan had him winning before KELDERMAN crash required gifting stage to ROGLITCH"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:18:52.720676+00:00"
+}

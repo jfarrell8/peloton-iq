@@ -1,0 +1,25 @@
+{
+  "label": "2021 Benelux Tour Stage 7",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-05",
+  "stage": 7,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb sprinted off BENNETT Sam's wheel inside final meters for stage win while crosswind echelon split mid-race failed due to non-cooperation between YATES Adam and POGACAR Tadej groups",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mid-race echelon split failed because chasers including Pogacar and Yates groups refused cooperation, allowing peloton reunification by 41km.",
+      "Pogacar's team controlled pace after Yates crash at 41km to prevent time gaps despite no GC threat remaining.",
+      "Ewan positioned on Bennett's wheel through leadout, suggesting sprinters targeting two-time stage winner as reference point rather than own teams."
+    ],
+    "rider_signals": {
+      "YATES Adam": "neutral: crashed heavily at 41km requiring medical car assistance but returned to peloton with Pogacar's team controlling tempo",
+      "EWAN Caleb": "positive: first 2021 World Tour win by explicitly drafting Bennett rather than following Lotto-Soudal leadout shows tactical flexibility",
+      "POGACAR Tadej": "neutral: made echelon split but chose not to cooperate with chase despite 35-second GC lead suggesting conservative final-stage tactics",
+      "BENNETT Sam": "negative: won two prior stages but became reference wheel for rivals, allowing Ewan superior final positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:34:06.236478+00:00"
+}

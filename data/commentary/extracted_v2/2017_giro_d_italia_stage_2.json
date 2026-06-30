@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-06",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GREIPEL Andre won the bunch sprint after EWAN Caleb unclipped in final meters while coming around the outside",
+    "winner": "GREIPEL Andre",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POELVOORDE Robbe attacked early KOM point while in pink jersey to take mountain classification lead, unusual aggression.",
+      "Team Katusha executed 30-second bridging effort mid-descent for ZAKARIN, revealing GC protection despite his descending weakness.",
+      "GREIPEL survived positioning issues meshed in Quickstep train, waiting until CAVAGNA checked shoulder before launching outside counter-move."
+    ],
+    "rider_signals": {
+      "POELVOORDE Robbe": "positive: pink jersey holder attacking for KOM points shows tactical flexibility beyond typical jersey defense",
+      "ZAKARIN Ilnur": "negative: required full team descent rescue operation after being distanced, confirms poor technical skills liability",
+      "EWAN Caleb": "negative: mechanical unclipping while sprinting around outside derailed winning position, indicates bike setup or pedal issues",
+      "GREIPEL Andre": "positive: showed patience staying boxed in Quickstep train before timing final acceleration perfectly against faster sprinters"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:57:19.614015+00:00"
+}

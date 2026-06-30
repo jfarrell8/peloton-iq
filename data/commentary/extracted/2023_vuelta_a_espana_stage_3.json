@@ -1,0 +1,32 @@
+{
+  "label": "2023 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won solo after attacking inside final 150m on uphill finish to Arinsal, crashed immediately post-line into barriers.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARUSO Damiano at only 23 seconds back was allowed into breakaway forcing peloton tempo, revealing GC team coordination gaps.",
+      "KUSS Sepp attacked for VINGEGAARD Jonas stage hunting when already in podium position, showing Jumbo-Visma dual leadership tension early.",
+      "EVENEPOEL Remco launched winning move with just 150m remaining on uphill finish, exploiting late hesitation from climbers in sprint.",
+      "Bonification seconds at summit of Category 1 climb created tactical split focus between stage control and time gaps."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Won stage and took race lead but crashed hard post-finish; sustainable GC defense with Soudal depth unclear.",
+      "VINGEGAARD Jonas": "positive: Shadowed EVENEPOEL's winning move closely, only rider able to follow late acceleration on uphill finish.",
+      "AYUSO Juan": "neutral: Had attacks on final climb but couldn't distance rivals; positioning suggests conservative early GC approach.",
+      "ROGLIČ Primož": "negative: Required KUSS pacing to rejoin lead group; no independent attacking shown despite team support.",
+      "KUSS Sepp": "positive: Made impressive solo attack while teammates present, indicating freedom or form to hunt stages early.",
+      "CARUSO Damiano": "positive: Gained five minutes in break despite being 23 seconds back GC; veteran opportunism forced peloton work.",
+      "MAS Enric": "positive: Moved into virtual race lead position before final sprint, showing strong form early.",
+      "LÓPEZ Juan Pedro": "neutral: Hanging in select group on final climb but no proactive moves.",
+      "THOMAS Geraint": "neutral: Present in finale group but no mentioned attacking or defending actions.",
+      "VINE Jay": "positive: Frontal work shredded group quickly when brought to front on final climb."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:34:00.025338+00:00"
+}

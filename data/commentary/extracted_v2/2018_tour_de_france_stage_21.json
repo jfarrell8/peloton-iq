@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-29",
+  "stage": 21,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the Champs-Élysées sprint after surviving the mountains and recognizing his final career opportunity on cobblestones.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LOMPART Steve's late breakaway with OSSA Daniel nearly stole sprint thunder, caught only 200 meters from line.",
+      "KRISTOFF hit 40mph on cobblestone drag uphill, superior traction/power transfer gave decisive edge over DEGENKOLB.",
+      "Faster sprinters absent after mountain attrition created opportunity window that KRISTOFF's team positioned perfectly to exploit."
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: First win since 2014 after five top-fives this Tour; superior power delivery on technical cobblestone finish.",
+      "DEGENKOLB John": "positive: Went shoulder-to-shoulder with winner on bumpy surface, nearly equaled KRISTOFF's speed despite technical disadvantage.",
+      "THOMAS Geraint": "neutral: Rode defensively in Stage 20 TT after second time check, freewheeling downhills when lead became insurmountable.",
+      "FROOME Chris": "positive: Nearly won Stage 20 TT after being written off; secured podium when most expected him outside top-3.",
+      "SAGAN Peter": "negative: High-speed crash days before Paris eliminated likely stage win; absence from final sprint reduced field quality."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:31:12.646474+00:00"
+}

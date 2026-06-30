@@ -1,21 +1,39 @@
 {
-  "attacking_style": "Does not initiate explosive attacks; instead rides calculated breakaway tempo to accumulate time gains. Prioritizes GC positioning over stage hunting when in podium contention.",
-  "team_tactics": "EF Education uses breakaways strategically for GC positioning rather than stage wins, willing to sacrifice victory chances to maximize overall classification gains through time accumulation.",
-  "terrain_preference": "Suited to medium-mountain stages where breakaway tempo can yield GC time. Exposed on hard category one finales and steep final climbs where pure climbing ability determines outcomes.",
-  "vulnerability": "Lacks explosive climbing power on category one finales and steep summit finishes. Gets distanced when pure climbers accelerate, revealing inadequate gradient resistance for sustained GC protection.",
+  "attacking_style": "Late-stage accelerations on summit finishes, often inside 300-500m, and mid-stage GC group attacks for damage limitation. Tactical rather than explosive, prioritizing positioning over raw power.",
+  "team_tactics": "Vulnerable to isolation when separated from team support; 2019 mechanical and 2022 Giro positioning losses reveal insufficient domestique protection in critical moments. Team appears reactive rather than controlling tempo.",
+  "terrain_preference": "Steady, attritional mountain stages suit best; lacks explosive acceleration for early detonations. Thrives in two-week Grand Tour rhythm (peaked at Tour week 2). Exposed when Bora/aggressive teams detonate races early.",
+  "vulnerability": "Lacks sharp acceleration when races explode early; fades from breakaways in final climbs (2021 Vuelta pattern). Form deficits manifest as late-race fade. Prone to isolation costing 30+ seconds in positioning errors.",
   "key_patterns": [
-    "Struggles on category one and steep final climbs, distanced twice in Vuelta observations",
-    "Uses breakaways for GC time accumulation rather than stage wins (Tour podium strategy)",
-    "Fades relative to stronger climbers in same breakaway groups on mountainous terrain",
-    "Protected as classification contender but lacks firepower to defend on hardest finales"
+    "Peaks at two-week mark in Grand Tours; jumped to 2nd GC at Tour week 2.",
+    "KOM classification hunter; prioritized points over stage results across four 2020 Vuelta stages.",
+    "Fades from breakaways on final climbs when form lacking; occurred twice in 2021 Vuelta.",
+    "Positioning errors cost 30+ seconds; isolated in 2022 Giro lost extra 33 seconds to GC group.",
+    "Mature resource management; abandoned KOM collection in rain with commanding 51-point lead.",
+    "Late summit attacks inside 300-500m signature move but requires gaps to survive closures."
   ],
-  "form_trajectory": "negative: consecutive Vuelta struggles on hard climbs suggest declining form or exposure at higher difficulty level compared to Tour podium performance",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "neutral: 2023 recovery from long COVID showed preparation but no results. 2022 inconsistent with top-10 move but acceleration deficits. 2021 serious form deficit evident.",
+  "races_analysed": 16,
+  "confidence": "high",
   "rider_name": "MARTIN Guillaume",
   "built_from": [
+    "2019 Tour de France Stage 18",
+    "2020 Criterium du Dauphine Stage 4",
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 4",
+    "2020 Tour de France Stage 4",
+    "2020 Vuelta a Espana Stage 10",
+    "2020 Vuelta a Espana Stage 10",
+    "2020 Vuelta a Espana Stage 11",
+    "2020 Vuelta a Espana Stage 15",
+    "2020 Vuelta a Espana Stage 15",
+    "2020 Vuelta a Espana Stage 6",
+    "2020 Vuelta a Espana Stage 7",
     "2021 La Vuelta ciclista a Espana Stage 10",
     "2021 La Vuelta ciclista a Espana Stage 7",
-    "2021 Tour de France Stage 14"
+    "2021 Tour de France Stage 14",
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 8",
+    "2023 Criterium du Dauphine Stage 2"
   ]
 }

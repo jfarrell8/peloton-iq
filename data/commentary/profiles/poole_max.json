@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not initiate attacks; attempts to follow moves but lacks the climbing power to sustain efforts when gradients increase or pace intensifies on categorized climbs.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns. Appears to operate opportunistically in breakaways rather than as protected rider.",
+  "terrain_preference": "Can handle technical descents and flatter breakaway scenarios; exposed significantly on sustained climbs where pure climbing power is required.",
+  "vulnerability": "Consistently dropped early on final climbs before main GC attacks begin, suggesting insufficient threshold power for high-intensity mountain stages.",
+  "key_patterns": [
+    "Fades on climbs when pace intensifies, unable to follow attacks (2 observations).",
+    "Shows technical descending capability but cannot compensate for climbing deficiencies (2 observations).",
+    "Dropped before main selection occurs, indicating lack of top-end climbing power (2 observations)."
+  ],
+  "form_trajectory": "negative: Both observations show inability to sustain position when climbing intensity increases, suggesting limitations persist across season",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "POOLE Max",
+  "built_from": [
+    "2023 Criterium du Dauphine Stage 7",
+    "2023 La Vuelta Ciclista a Espana Stage 18"
+  ]
+}

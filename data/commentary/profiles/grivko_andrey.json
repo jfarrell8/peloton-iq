@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who attacks early in stages, showing willingness to go in consecutive daily breaks regardless of terrain difficulty or previous day's efforts.",
+  "team_tactics": "Operates with significant autonomy, minimal visible team setup required. Self-sufficient break attempts suggest role as team's designated opportunist rather than protected rider.",
+  "terrain_preference": "Demonstrates versatility across terrain types, comfortable in breakaways on both hilly stage races and flatter parcours. Not terrain-dependent for break selection.",
+  "vulnerability": "Struggles to stay away on flat terrain despite strong condition. Lacks finishing power to convert breakaway efforts into results when groups remain together late.",
+  "key_patterns": [
+    "Multiple consecutive daily breakaway attempts across different races (minimum 2 documented instances)",
+    "Exceptional recovery ability enabling back-to-back break efforts despite previous day exertion",
+    "Early-stage aggression with opportunistic timing rather than selective strategic positioning",
+    "Strong condition insufficient to finish breaks on flatter terrain profiles"
+  ],
+  "form_trajectory": "neutral: Strong condition and recovery evident throughout 2018 season, but consistent pattern of failed break attempts suggests tactical approach not yielding results",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GRIVKO Andrey",
+  "built_from": [
+    "2018 Tour de Romandie Stage 2",
+    "2018 Tour of Guangxi Stage 2"
+  ]
+}

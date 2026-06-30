@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Does not attack traditionally but hunts intermediate sprints aggressively mid-race to accumulate GC bonus seconds, treating stage races as time-bonus opportunities rather than positioning battles.",
+  "team_tactics": "Operates independently in intermediate sprint hunting, requiring minimal team support. Positioning focuses on being present at bonus sprint locations rather than controlling pace.",
+  "terrain_preference": "Excels on cobbled classics (maintained Sagan's rhythm through final 20km Paris-Roubaix); track cycling background suggests flat power sections suit him. Intermediate sprint locations are primary tactical targets.",
+  "vulnerability": "Final sprint execution disappointing relative to track cycling pedigree (failed to capitalize on velodrome finish at Roubaix). Appears to prioritize bonus hunting over stage wins even when positioned well.",
+  "key_patterns": [
+    "Hunts intermediate sprint bonuses for GC time rather than stage positioning (3 observations)",
+    "Replicates successful GC strategies year-over-year, targeting 10th overall finishes (2 observations)",
+    "Strong cobbled terrain ability, maintaining top rider's pace through technical sections (2 observations)",
+    "Track cycling background underutilized in final sprints despite technical capability (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistently executing same intermediate sprint bonus strategy across 2018 season without evolution or breakthrough results",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DILLIER Silvan",
+  "built_from": [
+    "2018 Paris-Roubaix",
+    "2018 Tour de Romandie Stage 1",
+    "2018 Tour de Romandie Stage 1",
+    "2018 Tour of Guangxi Stage 1",
+    "2018 Tour of Guangxi Stage 1"
+  ]
+}

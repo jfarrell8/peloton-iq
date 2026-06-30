@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Explosive late accelerations on punchy finishes, particularly effective when holding power 50-150m from summit. Prefers tactical patience over early moves, waiting for rivals to commit first before launching decisive counter-punch.",
+  "team_tactics": "UAE appears to provide limited domestique support in key moments, forcing Hirschi into opportunistic collaborations or solo efforts. Team lacks follow-through strength when marking opponents, leaving him exposed in critical racing.",
+  "terrain_preference": "Short, steep punchy climbs (Mur de Huy-style walls) where explosive acceleration trumps sustained power. Struggles in physical bar-room sprint finishes and extended cat-and-mouse scenarios requiring repeated accelerations.",
+  "vulnerability": "Lacks final kick against pure puncheurs like Alaphilippe in prolonged tactical battles. Positioning errors and mechanical/interference issues cost results. Insufficient team support when marked by stronger squads exposes weaknesses in sustained efforts.",
+  "key_patterns": [
+    "Wins through tactical patience, launching 50-150m from finish after opponents commit early (2 wins).",
+    "Struggles in physical sprint finishes even on punchy terrain, losing podiums to stronger finishers (2 instances).",
+    "Collaborates opportunistically with rivals when team support lacking, gambling on late attacks (2 races).",
+    "Positioning errors and interference cost potential victories despite having winning legs (2 Monument near-misses).",
+    "Shows tactical maturity beyond experience level, reading race dynamics to conserve energy for final punch."
+  ],
+  "form_trajectory": "negative: 2022 Amstel showed insufficient strength when marked after strong 2020 Monument campaign. Lost explosiveness in finishing situations, suggesting declining trajectory from breakthrough 2020 season.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "HIRSCHI Marc",
+  "built_from": [
+    "2019 UAE Tour Stage 2",
+    "2019 UAE Tour Stage 2",
+    "2020 La Fleche Wallonne",
+    "2020 La Fleche Wallonne",
+    "2020 Liege-Bastogne-Liege",
+    "2020 Tour de France Stage 2",
+    "2021 Tour de Pologne Stage 1",
+    "2022 Amstel Gold Race"
+  ]
+}

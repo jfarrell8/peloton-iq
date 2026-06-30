@@ -1,0 +1,27 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-09",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello attacked from 25-rider breakaway, held 21 seconds over chasing THOMAS group on final climb to La Rosière",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AG2R sent LATOUR ahead after pacing, then he bridged to breakaway—dual role pre-positioning for final climb.",
+      "SKY's THOMAS waited until final kilometer to attack for bonus seconds despite wearing yellow, showing GC aggression.",
+      "Breakaway of 25 survived because AG2R refused to chase their own rider LATOUR after summit three."
+    ],
+    "rider_signals": {
+      "BILBAO Pello": "positive: soloed from quality breakaway on final climb, suggesting underrated climbing endurance in multi-stage mountain races",
+      "THOMAS Geraint": "positive: attacked in final kilometer while in yellow to gain bonus seconds, tactically sharper than passive race leadership",
+      "LATOUR Pierre": "positive: bridged from peloton to breakaway post-summit after pacing, rare successful transition showing excellent recovery",
+      "NIBALI Vincenzo": "negative: dropped on Col de la Prey by AG2R tempo, post-Giro fatigue confirmed as handicapping factor",
+      "YATES Adam": "positive: attacked halfway up final climb strong enough to split favorites, more aggressive than brother's typical racing",
+      "BARDET Romain": "positive: fourth place from domestique role shows form building, AG2R tactics prioritized stage over his GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:18:19.470600+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Ultra-long distance attacks from km 0, capable of sustaining solo effort over multiple HC climbs. Willing to commit to extreme all-day breakaways on high-mountain stages.",
+  "team_tactics": "Insufficient data to determine team setup patterns. Single observation shows autonomous breakaway riding without visible team support.",
+  "terrain_preference": "Multiple consecutive HC climbs favor this rider. Demonstrates exceptional climbing endurance over extended distances rather than explosive power on single ascents.",
+  "vulnerability": "Unknown - no observations of weaknesses available. Strategy appears high-risk given reliance on solo efforts without team support visible.",
+  "key_patterns": [
+    "Exceptional pacing discipline to sustain efforts across 3+ major climbs solo",
+    "KOM jersey contender through breakaway accumulation rather than GC climbing battles",
+    "Prefers autonomy in ultra-distance breakaways over positioning for late-race moves"
+  ],
+  "form_trajectory": "unknown: single observation shows success but insufficient data to assess trajectory or consistency",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CARTHI Luke",
+  "built_from": [
+    "2019 Tour de Suisse Stage 9",
+    "2019 Tour de Suisse Stage 9"
+  ]
+}

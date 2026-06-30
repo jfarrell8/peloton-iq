@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 48,
+    "raw_chars": 1481,
+    "clean_chars": 1424,
+    "duration_mins": 4.1,
+    "clean_text": "hello and welcome to live coverage of Strava yankee sponsored by dammit sport is the twelfth edition of the gravel road classic through beautiful tuscany 63 kilometers of white roads very slightly more than a third of the root which is 184 kilometers divided into 11 white road sectors the longest of them number five eleven point nine kilometers four of the central sections are up to 42 kilometers of white roads in 66 kilometers of racing team ii and lead and also basically three times world cyclocross champion and this absolute monster of a rider Hama body is riding across on his own and from the chasing group up to the group of favorites it is a bit of a standoff from that turn from that lead group now coming across this is not your normal break away by a day we've never seen in this position before in this type of race and a book that art is a totally unknown point to do we do not know what to expect of him and they really thrown a joker into the pack here so desperate and intercity out this are the second sorry the burden riders out of the road pollute has checked his chase he's gonna need to service my car behind it imitating two great speakers well they do he's finally made it up to these these two how much has that taken out of him will these to allow it to get up within the will and recover of rest there we go the newt attacks well he's got the legs he really has the other two they one over six",
+    "preview_start": "hello and welcome to live coverage of Strava yankee sponsored by dammit sport is the twelfth edition of the gravel road classic through beautiful tuscany 63 kilometers of white roads very slightly more than a third of the root which is 184 kilometers divided into 11 white road sectors the longest of them number five eleven point nine kilometers four of the central sections are up to 42 kilometers of white roads in 66 kilometers of racing team ii and lead and also basically three times world cycl",
+    "preview_end": "nd they really thrown a joker into the pack here so desperate and intercity out this are the second sorry the burden riders out of the road pollute has checked his chase he's gonna need to service my car behind it imitating two great speakers well they do he's finally made it up to these these two how much has that taken out of him will these to allow it to get up within the will and recover of rest there we go the newt attacks well he's got the legs he really has the other two they one over six"
+  },
+  "status": "transcript_saved"
 }

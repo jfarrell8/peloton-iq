@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Launches multiple attacks on final climbs of medium-mountain stages (typically 20-40km from finish), excels at converting summit attacks into solo victories using superior descending skills.",
+  "team_tactics": "Operates opportunistically from breakaways rather than relying on team setups; exploits GC team neutralization to target stage wins independently.",
+  "terrain_preference": "Medium-mountain stages with technical descents after summit finishes; thrives when climbs create selection but GC teams cancel each other out, allowing breakaway freedom.",
+  "vulnerability": "Appears reliant on breakaway scenarios and opportunistic situations; no evidence of ability to force selection or win when team tactics required.",
+  "key_patterns": [
+    "Wins from breakaways when GC teams neutralize each other (2 Vuelta stages, consistent pattern)",
+    "Multiple attacks on final climbs before soloing to victory (21km and 40km winning moves)",
+    "Exceptional descending converts summit attacks into sustained gaps (both Vuelta wins, 1+ minute margin)",
+    "Specialized dominance at Tour de Pologne (12th career stage win there)",
+    "Targets medium-mountain stages rather than pure sprint or HC mountain days"
+  ],
+  "form_trajectory": "positive: Two Vuelta stage wins in one week (Aug 2017) demonstrate peak form and repeatable winning formula",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MARCZYNSKI Tomasz",
+  "built_from": [
+    "2017 Tour de Pologne Stage 3",
+    "2017 Tour de Pologne Stage 3",
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 6",
+    "2017 Vuelta a Espana Stage 6"
+  ]
+}

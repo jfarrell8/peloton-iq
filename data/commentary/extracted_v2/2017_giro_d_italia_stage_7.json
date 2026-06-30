@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 7 sprint after launching from 300m, holding off GAVIRIA and BENNETT in tight finish",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step isolated Gaviria by pushing through physically with 3km remaining, forcing him to ride without leadout support.",
+      "Orica-Scott lost Ewan's leadout with 300m remaining, forcing him to launch early yet still successful against organized trains.",
+      "Corin attempted solo break at 18.7km mirroring Pellberg's stage-1 tactics, but closed by high pace from sprinter teams."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: won despite losing final leadout at 300m, showing superior raw sprint speed when launched early",
+      "GAVIRIA Fernando": "negative: Quick-Step couldn't protect him through physical battles at 3km, forced to sprint without positioning help",
+      "BENNETT Sam": "neutral: finished third but commentary suggests he had cleaner leadout than winner, indicating speed deficit",
+      "CORIN Christian": "neutral: attempted late breakaway at 18.7km as planned tactic, demonstrating Cannondale-Drapac willingness to gamble"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:58:44.306594+00:00"
+}

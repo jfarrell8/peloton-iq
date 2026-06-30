@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Demonstrates versatility with ability to contest uphill sprint finishes rather than pure long-range attacks. Shows climbing competence but lacks explosive power for sustained final climb efforts.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns across observations.",
+  "terrain_preference": "Favors shorter, punchier uphill finishes where versatility matters over sustained steep gradients. Struggles on extended final climbs that require pure climbing power.",
+  "vulnerability": "Loses contact on prolonged final climbs in stage races, particularly when pace is high and sustained. Stage race GC ambitions appear limited by climbing ceiling.",
+  "key_patterns": [
+    "Performs better on uphill sprint finishes than extended mountain stages (2 observations)",
+    "Struggles to maintain position on final climbs when racing for GC (2 observations)",
+    "Shows non-specialist climber profile: versatile but lacks pure climbing power (2 observations)"
+  ],
+  "form_trajectory": "negative: Lost contention on final climb days after strong uphill finish, suggesting limited climbing endurance for stage racing",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GUERREIRO Ruben",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 3",
+    "2022 Criterium du Dauphine Stage 8"
+  ]
+}

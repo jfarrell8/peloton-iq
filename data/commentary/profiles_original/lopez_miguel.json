@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches late-race attacks inside final 4km on steep finishing climbs, targeting GC contenders with explosive accelerations designed to isolate rivals and test recovery.",
+  "team_tactics": "Limited team presence visible; appears to rely on individual opportunism rather than structured leadout or tempo control from domestiques.",
+  "terrain_preference": "Steep finishing gradients where explosive accelerations can create immediate gaps. Final kilometers of summit finishes where sustained power meets punchy changes in pace.",
+  "vulnerability": "Insufficient data to establish clear vulnerability patterns from single race observation, though earlier weakness referenced suggests potential consistency issues.",
+  "key_patterns": [
+    "Attacks inside final 4km on summit finishes to force elite chasers to respond.",
+    "Targets moments that isolate weaker climbers from GC group on steep gradients.",
+    "Shows recovery ability mid-race, bouncing back from earlier weaknesses to launch late attacks."
+  ],
+  "form_trajectory": "positive: demonstrated recovery from earlier race weakness to execute aggressive finale attack",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "LOPEZ Miguel",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 16"
+  ]
+}

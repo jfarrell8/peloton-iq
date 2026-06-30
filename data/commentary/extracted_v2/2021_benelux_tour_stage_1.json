@@ -1,0 +1,24 @@
+{
+  "label": "2021 Benelux Tour Stage 1",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-08-30",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won a textbook sprint leadout on Stage 10, taking his 33rd Tour stage (one from Merckx record) as Deceuninck went 'full gas' despite category 4 climb concerns",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck pre-announced full commitment to chasing despite cat-4 climb, signaling confidence in Cavendish's improved climbing form.",
+      "COLBRELLI's mid-stage attack attempting sprint bonus points neutralized by UAE protecting Pogačar's yellow, not by Cavendish's team.",
+      "Crosswind sections materialized as forecast but Pogačar isolated with only 1-2 teammates, exposing UAE's flat-stage roster depth weakness."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: Team publicly committed to 'full gas' chase despite category 4 climb, suggesting genuine belief his climbing has improved enough for consistent sprint opportunities",
+      "POGACAR Tadej": "neutral: Isolated with minimal teammates in crosswind moments but personally strong enough to self-position, revealing reliance on individual power over team protection on flat stages",
+      "COLBRELLI Sonny": "negative: Failed breakaway attempt for intermediate sprint points suggests desperation to close 59-point green jersey gap rather than waiting for better stage profile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:33:09.005384+00:00"
+}

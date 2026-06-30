@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Long-range breakaway specialist who conserves energy while others chase, then finishes with a strong sprint. Shows willingness to attack on technical descents and transitions rather than pure climbing.",
+  "team_tactics": "Notably independent operator who resists teammate cooperation to conserve energy. Prioritizes individual effort management over collaborative chase work, even causing team friction.",
+  "terrain_preference": "Technical descents and transition zones where positioning instinct matters more than pure power. Struggles on steep sustained climbing gradients where pure climbers excel.",
+  "vulnerability": "Cannot match pure climbers on steep ramps. Struggles to organize or contribute effectively in chase groups. Exposed when race requires collaborative effort rather than opportunistic solo moves.",
+  "key_patterns": [
+    "Long breakaway wins requiring energy conservation over 20+ kilometers (2 wins from distance)",
+    "Refuses workload sharing to preserve sprint finish, even with teammates (2 instances)",
+    "Attacks on technical descents and transitions, not sustained climbs (2 observations)",
+    "Caught by GC contenders in final meters when they bridge late (Roglič 2x)",
+    "Strong positioning instinct on technical terrain outweighs pure climbing power"
+  ],
+  "form_trajectory": "positive: First WorldTour win in 2022 after developing pattern shows progression from 2018 victories, demonstrating consistent tactical approach pays off at highest level",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "VERONA Carlos",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 5",
+    "2018 Itzulia Basque Country Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Volta Ciclista a Catalunya Stage 5",
+    "2022 Criterium du Dauphine Stage 7"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-13",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "LEKNESSUND Andreas attacked from breakaway with 18km to go, gained 10 seconds on peloton over final climb to win by 38 seconds and move to 7 seconds on GC",
+    "winner": "LEKNESSUND Andreas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos/Bora/Quick-Step chase cut 6-minute break to 90 seconds but abandoned chase with 18km remaining, conceding stage.",
+      "GC teams miscalculated effort needed when Leknessund gained time uphill rather than losing it in final 18km.",
+      "Break survivor attacked with 18km out—not summit—exploiting peloton's hesitation between stage and GC control."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: TT specialist gained time climbing in final 18km, suggesting evolved climbing ability beyond palmares",
+      "BETTIOL Alberto": "positive: won peloton sprint easily despite mistaking it for stage win, exceptional form pre-Tour",
+      "SAGAN Peter": "negative: dropped before final classified climb on hilly but non-mountain stage",
+      "KRISTOFF Alexander": "negative: eliminated on same terrain as Sagan, concerning weakness for versatile sprinter",
+      "WILLIAMS Stephen": "neutral: defended yellow without incident but Ineos prioritized controlling margin over stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:27:27.700862+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches multiple attacks on final climbs approximately 20km from finish, capable of soloing to victory after repeated explosive efforts on climbs.",
+  "team_tactics": "Insufficient data to establish clear team support patterns across multiple races.",
+  "terrain_preference": "Mountain stages with summit finishes suit him well; Tour de France showed weakness suggesting Vuelta-specific conditions (heat, late-season timing, or climb profiles) favor his characteristics.",
+  "vulnerability": "Demonstrated weakness at Tour de France that did not appear at Vuelta, suggesting sensitivity to specific race conditions, peaking challenges, or particular terrain types present in July versus August-September.",
+  "key_patterns": [
+    "Attacks multiple times on same climb to establish winning move (21km out observed)",
+    "Capable of soloing to victory after initial attack succeeds in creating gap",
+    "Can repeat stage wins within same Grand Tour showing recovery ability"
+  ],
+  "form_trajectory": "positive: Two stage wins in same Vuelta confirms strong late-season form and ability to recover between efforts",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MARCZYNSKI Thomas",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 12"
+  ]
+}

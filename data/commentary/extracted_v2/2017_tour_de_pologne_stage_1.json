@@ -1,0 +1,24 @@
+{
+  "label": "2017 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-29",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter launched an opportunistic sprint early while lead-out trains imploded inside 1km, holding off EWAN Caleb after Quick Step solo attack failed at 1.6km.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick Step attacked without sprinter 1.6km out, exploiting Orica lead-out collapse forcing MESICS Lucas to chase alone.",
+      "Seven-rider teams caused lead-out disintegration: EWAN abandoned by MESICS with 900m remaining, forced to find alternate wheel.",
+      "SAGAN recognized sprint train chaos and launched 300m+ early while rivals still organizing, negating pure speed advantage."
+    ],
+    "rider_signals": {
+      "MESICS Lucas": "negative: Slovenian champion sacrificed early for EWAN, died with 900m left, couldn't find relief wheel despite looking.",
+      "EWAN Caleb": "neutral: Strong speed but Orica seven-man team structure failed final kilometer organization against opportunistic attack.",
+      "Quick Step team": "positive: Attacked 1.6km out despite bringing no designated sprinter, revealing aggressive racing philosophy over traditional tactics."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:08:28.993105+00:00"
+}

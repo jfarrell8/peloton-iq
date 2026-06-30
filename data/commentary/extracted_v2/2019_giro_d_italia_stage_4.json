@@ -1,0 +1,29 @@
+{
+  "label": "2019 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-14",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard attacked final 300m on 4% uphill finish after peloton-splitting crash, won stage and gained crucial GC time",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma protected Roglic with only Kuss/Tolhoek/Hofland early, revealing thin mountain support compared to expectations at 95km out.",
+      "Three-man break (Frapporti/Timur/unnamed) gained 9min after sprint teams stopped chasing, exposing Lotto/Groupama's tactical capitulation mid-stage.",
+      "Late-stage crash split peloton into 8-rider group with mixed sprinters/GC riders; Carapaz attacked 300m out on 4% gradient.",
+      "UAE isolated to one man in final 1.4km despite protecting Roglic, showing domestique attrition issue on 400km+ racing."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: opportunistically attacked in chaos of crash-reduced group on uphill finish, showing both positioning awareness and punch",
+      "ROGLIC Primoz": "neutral: survived crash in front group but Jumbo protection collapsed to three riders by 95km mark",
+      "DUMOULIN Tom": "negative: crashed and lost 4min05sec, described as 'injured warrior' who made 'real mess of himself'",
+      "VIVIANI Elia": "negative: spat out back of crash-reduced group before final kilometer despite being Italian champion",
+      "YATES Simon": "positive: limited damage despite being behind main crash split, suggesting strong chase positioning",
+      "ACKERMAN Pascal": "neutral: survived to final 8-rider group but positioned too far back to contest Carapaz attack",
+      "ULISSI Diego": "neutral: UAE led him out to second wheel but couldn't hold Carapaz's late acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:51:02.324662+00:00"
+}

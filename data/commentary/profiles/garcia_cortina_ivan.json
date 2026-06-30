@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Demonstrates willingness to launch long-range solo efforts (35km out) and bridge attempts on late-race climbs. Prefers TT-style power moves rather than explosive accelerations, often going too early.",
+  "team_tactics": "Frequently deployed as domestique but given freedom to finish when work is done and sprint trains disrupted. Limited leadout support in sprints, forced to self-position through chaotic finales.",
+  "terrain_preference": "Excels on punchy late-race climbs (Côte du Pondoff) and rolling courses where power sustains bridges. Exposed in pure sprints lacking organized leadout trains.",
+  "vulnerability": "Overcommits on early long-range attacks that fail (35km solo caught). Perceived as sprint threat, deliberately dropped by breakaway companions. Lacks positioning support in organized bunch sprints.",
+  "key_patterns": [
+    "Launches solo bridge attempts to front groups on late climbs (2019, 2020 evidence).",
+    "Used as protective domestique, opportunistically finishes when sprint chaos allows (2020, implied 2019).",
+    "Targets disrupted sprint scenarios lacking organized trains, struggles in pure leadout finishes (2018, 2020).",
+    "Makes ambitious early solo moves beyond sustainable range, caught by organized chasers (2017, 2020).",
+    "Rivals eliminate him from breakaways pre-finish, fearing sprint capacity (2019 tactical exclusion)."
+  ],
+  "form_trajectory": "neutral: showed dangerous bridging ability in 2020 but remains tactically inconsistent, alternating domestique duties with opportunistic finishes",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "GARCÍA CORTINA Iván",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 19",
+    "2018 Vuelta a Espana Stage 10",
+    "2019 BinckBank Tour Stage 4",
+    "2020 Bretagne Classic - Ouest France",
+    "2020 Paris - Nice Stage 3"
+  ]
+}

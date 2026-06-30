@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-10",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won the hilly finish in Colmar after positioning perfectly on MATTHEWS' wheel through the final kilometer, beating TRENTIN and VAN AERT in the sprint.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sagan deliberately sat fifth wheel through final kilometer rather than leading out, conserving energy for late acceleration.",
+      "Breakaway caught with only 22km remaining despite cooperative rotation, suggesting GC teams preferred controlled finish over gambling.",
+      "Deceuninck Quick-Step attempted dual leadout for both Alaphilippe stage hunt and time bonus protection simultaneously."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Yellow jersey attempted to contest finish sprint despite being climber, showing aggressive defense through bonus seconds",
+      "MATTHEWS Michael": "negative: Failed to convert his best-ever Tour stage opportunity despite perfect positioning entering final kilometer",
+      "TRENTIN Matteo": "positive: European champion nearly beat Sagan in photo finish without dedicated leadout train",
+      "VAN AERT Wout": "positive: Took third place and 4-second bonus (later awarded), mixing it with pure sprinters after categorized climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:00:12.243704+00:00"
+}

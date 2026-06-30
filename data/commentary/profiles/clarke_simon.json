@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Thrives in opportunistic breakaways on mixed terrain (cobbles, gravel), typically commits early in stages. Struggles with timing in reduced sprint finishes, showing hesitation in final 200-400m.",
+  "team_tactics": "Historically deployed as diesel domestique for tempo control and GC protection. When given freedom, prioritizes breakaway infiltration with strategic energy conservation, including refusal to cooperate with rivals.",
+  "terrain_preference": "Gravel and cobbled sectors reward his diesel engine (8th Strade Bianche, won Tour cobble stage). Exposed in reduced bunch sprints where timing and pure speed matter—multiple near-misses from perfect position.",
+  "vulnerability": "Critical tactical hesitation in winning positions: sat up with 33s at 3km (Giro 2023), marked instead of sprinting in final 400m (Amstel 2019), passive in finale despite strong position (Vuelta 2018).",
+  "key_patterns": [
+    "Repeated tactical indecision in winning positions: gave up 33s lead, marked rivals instead of sprinting (3 instances)",
+    "Strategic non-cooperation in breakaways to conserve energy for finale sprint (Tour 2022 win confirms pattern)",
+    "Diesel engine suits one-day Classics terrain better than stage race finales after long efforts",
+    "Transitions from pure domestique role to breakaway specialist with age, team consensus respected in moves"
+  ],
+  "form_trajectory": "neutral: 2022 Tour win showed tactical learning, but 2023 Giro errors at age 36 suggest decision-making inconsistency persists despite experience",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "CLARKE Simon",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 7",
+    "2018 Vuelta a Espana Stage 5",
+    "2019 Amstel Gold Race",
+    "2019 Amstel Gold Race",
+    "2019 Tirreno-Adriatico Stage 2",
+    "2019 Tour de France Stage 5",
+    "2021 Strade Bianche",
+    "2022 Tour de France Stage 5",
+    "2022 Tour de France Stage 5",
+    "2022 Tour de France Stage 5",
+    "2023 Giro d'Italia Stage 6",
+    "2023 Giro dItalia Stage 6"
+  ]
+}

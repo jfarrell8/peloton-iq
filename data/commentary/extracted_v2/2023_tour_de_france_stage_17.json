@@ -1,0 +1,29 @@
+{
+  "label": "2023 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-19",
+  "stage": 17,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GALL Felix won from breakaway at Courchevel after O'Connor teammate setup, while VINGEGAARD destroyed POGACAR by 5m47s on final climb to take 7m35s GC lead",
+    "winner": "GALL Felix",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "O'Connor sacrificed breakaway position to launch teammate Gall on final 200m ramp, teammate setup decisive on steep finish",
+      "Pogacar crashed early touching wheels, same side as pre-race wrist injury, signaled vulnerability before final climb collapse",
+      "Vingegaard gained 5m47s on Pogacar in final kilometers alone, suggesting GC decided by sustained power not punchy attack",
+      "Yates finished 2nd despite being GC rider, suggesting UAE/Jumbo allowed breakaway rather than controlling for sprinters"
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "negative: early crash same side as broken wrist then lost 5m47s in final km suggests accumulated fatigue breaking physically",
+      "VINGEGAARD Jonas": "positive: gained time in manner of great champions per commentary, 7m35s lead eliminates seconds-based tactics for remaining stages",
+      "GALL Felix": "positive: converted Swiss Tour form three weeks prior directly to TDF stage win, indicating peak timing capability",
+      "O'CONNOR Ben": "positive: willingly sacrificed own result to launch Gall on final 200m, reveals Jayco prioritizes stage wins over individual placings",
+      "YATES Simon": "positive: finished 2nd as GC rider suggesting he read breakaway would succeed and infiltrated rather than defending",
+      "BILBAO Pello": "positive: outsprinted Vingegaard for 3rd showing Bahrain form peak, UAE isolation of Pogacar evident",
+      "POWLESS Nels": "negative: dropped from early break and straight through peloton on first climb, extreme fatigue after KOM jersey effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:57:21.503532+00:00"
+}

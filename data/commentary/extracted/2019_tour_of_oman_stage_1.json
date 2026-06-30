@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour of Oman Stage 1",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-16",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the sprint with 1300m straight tailwind finish, holding off COQUARD Bryan and BOUHANNI Nacer.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "KRISTOFF Alexander's team allowed 1300m straight tailwind finish to develop, perfectly suited to his power sprint characteristics.",
+      "Direct Energy isolated BOUHANNI Nacer's sprint by committing early, revealing resource allocation error on flat tailwind finishes.",
+      "PLANCKAERT Baptiste (Sport Vlaanderen) contested intermediate sprints from breakaway, indicating bonus seconds prioritization over GC protection."
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: Won sprint with position to spare in tailwind conditions, gained 4-second GC advantage suggesting bonus hunting strategy.",
+      "COQUARD Bryan": "positive: Strong second place finish indicates good form and sprint positioning in technical tailwind approach.",
+      "BOUHANNI Nacer": "neutral: Third place despite full Direct Energy commitment suggests team leadout depleted him before optimal launch point.",
+      "GREIPEL André": "negative: Dropped with 5km remaining on flat finish reveals surprising weakness or poor positioning in sprint preparation.",
+      "SCHÄR Michael": "neutral: Survived in three-rider break until closing kilometers, showing breakaway commitment despite known sprint finish."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:12:58.666937+00:00"
+}

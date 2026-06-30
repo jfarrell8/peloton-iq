@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-08",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won from chaos after Alpecin-Fenix stayed anonymous until leadout teams (Lotto-Soudal, Groupama-FDJ) collapsed in final 500m",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix concealed Merlier completely while Lotto/Groupama exhausted themselves, striking only when leadouts fractured after 3.2km corner",
+      "POGACAR Tadej attacked intermediate sprint atop citadel climb despite race lead, signaling every bonus second matters for stage race",
+      "KOOIJ Olav recovered from 15th position at 200m to go for second, indicating superior speed squandered by positioning"
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: Won after being sheltered all day while rivals' teams worked, showing peak form and tactical discipline",
+      "POGACAR Tadej": "positive: Hunted bonus seconds at intermediate sprint on uphill finish despite GC lead, reveals obsessive margin-building instinct",
+      "KOOIJ Olav": "neutral: Fastest raw speed (15th to 2nd in 200m) but positioning failures mask finishing power",
+      "CAVENDISH Mark": "negative: Described as having 'off day' alongside Kristoff/Viviani/Ewan, suggesting form not yet sharp",
+      "SAGAN Peter": "negative: Total Energies worked hard for positioning but Sagan's jump triggered sprint too early, gifting Merlier draft"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:19:20.235705+00:00"
+}

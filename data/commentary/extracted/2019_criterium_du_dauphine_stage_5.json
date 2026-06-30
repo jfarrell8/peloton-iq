@@ -1,0 +1,28 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-13",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT won Stage 5 with superior positioning through late technical corners, outsprinting BENNETT after BOASSON HAGEN and GILBERT's late attack nearly succeeded.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BOASSON HAGEN and GILBERT attacked inside 1km on technical corners, forcing sprinter teams to chase through dangerous turns.",
+      "Bora-Hansgrohe hit the front at 4km despite BENNETT requesting 2km positioning, compromising his sprint train execution.",
+      "Breakaway riders DE MARCHI and ROSSETTO counter-attacked in final 2km when peloton chased, exploiting sprinter team disorganization.",
+      "VAN AERT positioned behind BENNETT's leadout through technical corners rather than relying on own team, revealing tactical flexibility."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Won second consecutive stage beating pure sprinters, demonstrating roadman sprint capability beyond cyclocross reputation",
+      "BENNETT Sam": "neutral: Second place despite team hitting front 4km out instead of requested 2km, suggesting sprint train timing issues",
+      "ALAPHILIPPE Julian": "neutral: Third after opening sprint early, positioning strong but lacked final acceleration against crossover specialists",
+      "BOASSON HAGEN Edvald": "positive: Nearly stole stage with sub-1km technical corner attack alongside GILBERT, showing selective sprint race reading",
+      "GILBERT Philippe": "positive: Launched late counter with BOASSON HAGEN through corners, demonstrating classics rider opportunism in bunch sprint scenario",
+      "YATES Adam": "positive: Yellow jersey defended comfortably on sprinter terrain, team conserved energy by letting sprinter squads control pace"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:53:27.876105+00:00"
+}

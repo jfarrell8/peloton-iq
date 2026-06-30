@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-06",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TEUNISSEN Mike won bunch sprint after leadout man Dylan Groenewegen crashed inside final 1.5km, taking yellow in Brussels.",
+    "winner": "TEUNISSEN Mike",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van Avermaet attacked steep inside line on Mur de Grammont 13% section, exploiting monument pedigree over Grand Tour climbers.",
+      "Jumbo-Visma recalibrated sprint train within 1.5km after lead sprinter crashed, showing organizational depth under chaos.",
+      "Early break targeted KOM jersey via Grammont/Bosberg double, banking polka dots before time trial stage where points impossible."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "negative: crashed inside final 1.5km while in leadout position, raising TTT participation doubts for stage 2",
+      "TEUNISSEN Mike": "positive: finished leadout role as emergency sprinter after designated man crashed, revealing hidden sprint speed",
+      "VAN AVERMAET Greg": "positive: timed cobbled climb attack on steepest 13% gradient section, demonstrating spring classics power transfers to stage racing",
+      "SAGAN Peter": "neutral: faded in final 50m after positioning well through sprint chaos, suggesting form concerns early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:56:14.779889+00:00"
+}

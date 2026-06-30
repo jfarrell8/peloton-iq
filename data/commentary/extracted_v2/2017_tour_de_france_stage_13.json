@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-14",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BARGUIL Warren won Stage 13 on Bastille Day by sitting on QUINTANA/CONTADOR/LANDA in the final breakaway while they chased, then outsprinting them.",
+    "winner": "BARGUIL Warren",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FROOME attacked on steepest sections of final climb to test form after losing yellow, showing intentional rope-a-dope weakness earlier.",
+      "Team SKY sent LANDA in break to forceARU's isolated Astana to chase, inverting traditional Sky defend-with-jersey tactics.",
+      "ARU had zero teammates on final climb but survived by exclusively following FROOME wheels, ignoring other attacks completely.",
+      "BARGUIL won by tactically sitting on QUINTANA/CONTADOR doing chase work in closing kilometers despite having fresher legs."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: attacked steepest climb sections and descended aggressively after appearing weak all day, reasserting GC contention despite losing yellow",
+      "ARU Fabio": "neutral: kept yellow through wheel-following discipline but Astana team collapse means unsustainable isolation for remainder",
+      "LANDA Mikel": "positive: Sky's willingness to send him in break signals confidence in using him offensively rather than defensively for Froome",
+      "QUINTANA Nairo": "positive: second place after being written off previous day, showing GC recovery despite doing futile chase work for Barguil",
+      "CONTADOR Alberto": "positive: third place after being on death's door earlier in Tour, aggressive riding signals form returning",
+      "MARTIN Dan": "negative: massive pace work on final climb gained nothing, wasted energy in domestique role while losing GC time",
+      "BARGUIL Warren": "positive: tactical maturity to sit on while others chased, won Bastille Day in polka dots with perfect positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:04:33.261710+00:00"
+}

@@ -1,19 +1,22 @@
 {
-  "attacking_style": "Attacks from breakaways rather than peloton, capable of finishing climbs solo despite physical distress. Shows willingness to commit early to long-range moves.",
-  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
-  "terrain_preference": "Can handle finishing climbs with sufficient gradient to maintain gaps. Lacks data on flat finishes or high-mountain stages.",
-  "vulnerability": "Susceptible to severe cramping in final 5km, suggesting potential issues with pacing, nutrition, or hydration management under race stress.",
+  "attacking_style": "Launches decisive solo attacks from breakaways on final climbs, capable of sustaining efforts alone with 40+ second gaps. Prefers to go clear before the finale rather than wait for sprint from group.",
+  "team_tactics": "Insufficient data on team setup; observations show him operating independently in breakaways rather than with organized team support.",
+  "terrain_preference": "Hilly to mountainous stages with final climbs that allow breakaway specialists to time-trial alone to the finish. Struggles to convert breakaway presence into wins on flatter finales.",
+  "vulnerability": "Prone to severe cramping in final kilometers when holding significant efforts. Cannot consistently convert breakaway selections into results, showing 7th place finish despite making key selection. Susceptible to external race incidents (crashes).",
   "key_patterns": [
-    "Only single race observation available - insufficient data for reliable pattern identification",
-    "Demonstrated exceptional mental resilience when compromised physically in finale",
-    "Operates effectively from breakaway situations rather than main field positioning"
+    "Reaches final breakaway selections but struggles with conversion rate (2 breakaway observations, 1 win, 1 seventh)",
+    "Suffers severe physical distress late in efforts, specifically cramping in closing kilometers under pressure",
+    "Operates as solo attacker from breakaways rather than waiting for group dynamics or sprints"
   ],
-  "form_trajectory": "unknown: single observation prevents form trajectory analysis, though showed winning capability under duress",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "negative: 2023 appearance marked by crash incident with no competitive action noted; previous results show declining conversion since 2017 victory",
+  "races_analysed": 3,
+  "confidence": "medium",
   "rider_name": "CALMEJANE Lilian",
   "built_from": [
     "2017 Tour de France Stage 8",
-    "2017 Tour de France Stage 8"
+    "2017 Tour de France Stage 8",
+    "2018 Tour de France Stage 15",
+    "2018 Tour de France Stage 15",
+    "2023 Tour de France Stage 9"
   ]
 }

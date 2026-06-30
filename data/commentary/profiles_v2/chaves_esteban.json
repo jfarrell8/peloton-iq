@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Explosive late attacks in final 1-2km of summit finishes, capitalizing on hesitation from GC-focused teams. Prefers attacking established trains rather than initiating from distance.",
+  "team_tactics": "Functions as protected leader but lacks deep mountain domestique support to control race tempo. Relies on positioning himself within rival team trains rather than deploying own team.",
+  "terrain_preference": "Summit finishes on extended climbs where seated climbing efficiency becomes decisive. Struggles when bad luck (mechanicals, crashes) strikes during critical selection phases.",
+  "vulnerability": "Highly susceptible to mechanical issues and crashes during selection moments; lacks team depth to recover position. Bad luck has repeatedly cost GC placement (2019, 2020 Vuelta).",
+  "key_patterns": [
+    "Attacks within final kilometer of climbs when positioned on rival trains (2021 Catalunya win)",
+    "Demonstrates superior seated climbing efficiency in decisive moments (2018 Giro, 2021 Catalunya)",
+    "Mechanical problems and crashes repeatedly disrupt GC campaigns during critical phases (2019, 2020 Vuelta)",
+    "Long gaps between wins but climbing level resurfaces when form peaks (2019-2021 gap)"
+  ],
+  "form_trajectory": "positive: 2021 Catalunya win after two-year drought suggests resurgent climbing form, positioning BikeExchange with credible GC option",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "CHAVES Esteban",
+  "built_from": [
+    "2018 Giro d'Italia Stage 9",
+    "2019 Vuelta a Espana Stage 9",
+    "2020 Vuelta a Espana Stage 3",
+    "2021 Volta Ciclista a Catalunya Stage 4",
+    "2021 Volta Ciclista a Catalunya Stage 4"
+  ]
+}

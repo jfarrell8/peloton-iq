@@ -1,0 +1,28 @@
+{
+  "label": "2018 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-18",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia timed his sprint perfectly in final 200m after BUD van Poppel's leadout disintegrated and BIASOLETTO's 900m suicide attack failed",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BIASOLETTO attacked at 900m remaining, forcing teams to chase early and disrupting organized sprint trains before fading at 400m.",
+      "Lotto-Jumbo committed at 1500m out but lost VAN POPPEL in finale, revealing vulnerability when leadout initiates too early.",
+      "EF Education physically blocked road with pink-shouldered riders sub-1500m, showing aggressive positioning to protect MODOLO's position.",
+      "VIVIANI positioned himself dead last with 400m remaining, demonstrating patient timing beats early acceleration even in chaotic finishes."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: won from nowhere after being invisible until final 200m, superior timing and acceleration in messy sprint",
+      "BIASOLETTO Samuele": "neutral: 900m attack disrupted sprint but lacked power to sustain, effective spoiler tactic without personal reward",
+      "VAN POPPEL Danny": "negative: lost sprint despite perfect 1500m Lotto-Jumbo leadout, disappeared when it mattered most",
+      "BENNETT Sam": "negative: completely absent from final despite QuickStep presence, poor positioning or form issue",
+      "MODOLO Sacha": "neutral: EF Education committed bodies to protect him but lacked final punch to capitalize",
+      "CHAVEZ Esteban": "negative: abandoned gruppetto 134km from finish to bank time for next day, revealing fragility before mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:19:36.488517+00:00"
+}

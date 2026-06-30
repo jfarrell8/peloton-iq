@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-28",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won the Champs-Élysées sprint with a long-range acceleration from far back, beating GROENEWEGEN Dylan on the line.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EWAN launched sprint from exceptionally far back on Champs-Élysées, contradicting conventional wisdom about late jumps on uphill finish.",
+      "MATTHEWS Michael's mechanical 12km out destroyed sprint preparation despite regaining peloton, showing fragility of sprint leadouts under time pressure.",
+      "VIVIANI Elia lost positioning despite MORKOV and Quick-Step controlling front, revealing Deceuninck train vulnerable to narrow Champs-Élysées geometry.",
+      "BOASSON HAGEN Edvald's premature long-range move drew out peloton before final corner, sacrificing dimension data's positioning for nothing."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: third stage win demonstrates Lotto-Soudal's superior sprint timing execution versus more powerful Quick-Step train",
+      "GROENEWEGEN Dylan": "neutral: positioned identically far back as Ewan but lost by centimeters, suggesting near-perfect execution insufficient against peak Ewan",
+      "VIVIANI Elia": "negative: out of position despite strongest leadout train indicates positional awareness deficiency on technical finishes",
+      "MATTHEWS Michael": "negative: mechanical at 12km eliminated contention even after rejoining, confirming poor 2019 Tour luck continues",
+      "BOASSON HAGEN Edvald": "negative: premature acceleration above Arc de Triomphe wasted dimension data's front position and own energy reserves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:15:43.721596+00:00"
+}

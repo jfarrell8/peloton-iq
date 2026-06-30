@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Early breakaway specialist who targets stages conceded by GC teams. Wins from small groups (4 riders) when peloton allows freedom, not late-race aggression.",
+  "team_tactics": "Minimal team setup visible—operates as opportunist in early breaks when GC teams control tempo. Relies on peloton disinterest rather than domestique support.",
+  "terrain_preference": "Medium mountain stages with intermediate KOM points. Thrives when breakaways reach categorized climbs offering both stage win potential and jersey points (Sempione, Gran Sasso).",
+  "vulnerability": "Struggles to defend classification jerseys when required to chase into breakaways (lost KOM at Tirreno 2022). Ineffective when GC teams contest stages.",
+  "key_patterns": [
+    "Exceptional breakaway conversion: 2 Giro stage wins in 3 career participations (67% success rate)",
+    "Active classification jersey hunter: targeted KOM/mountains jerseys in both Giro and Tirreno",
+    "Wins from small, early breaks (4 riders) when peloton concedes completely, not contested sprints",
+    "Defensive jersey tactics: reclaimed mountains jersey via strategic intermediate point collection (Sempione)",
+    "Failed jersey defenses when must proactively make breaks while wearing leader's jersey (Tirreno 2022)"
+  ],
+  "form_trajectory": "positive: 2 Giro stage wins and mountains jersey defense in 2023 show progression from mixed 2022 Tirreno results",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "BAIS Davide",
+  "built_from": [
+    "2022 Tirreno-Adriatico Stage 2",
+    "2022 Tirreno-Adriatico Stage 4",
+    "2023 Giro d'Italia Stage 7",
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 7",
+    "2023 Giro dItalia Stage 7",
+    "2023 Tirreno-Adriatico Stage 4"
+  ]
+}

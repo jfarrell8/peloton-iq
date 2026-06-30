@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late-race attacks in sprint stages, going solo inside final 4km to disrupt organized leadouts and force sprinter teams to chase.",
+  "team_tactics": "Operates independently from traditional leadout trains, exploiting moments when sprinter teams are positioning to launch surprise moves.",
+  "terrain_preference": "Sprint-friendly stages where organized leadouts are expected, allowing tactical disruption rather than pure power advantages.",
+  "vulnerability": "Single observation limits vulnerability assessment; likely exposed when teams maintain organized chase with fresh domestiques.",
+  "key_patterns": [
+    "Attacks inside final 4km on sprint stages to disrupt leadout organization",
+    "Shows opportunistic racing instincts rather than committing to traditional sprinter support roles",
+    "Forces sprinter teams into reactive mode by attacking before leadout positioning complete"
+  ],
+  "form_trajectory": "unknown: single observation from 2017 insufficient to assess trajectory, though showed positive attacking intent",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "POZZATO Filippo",
+  "built_from": [
+    "2017 Giro d'Italia Stage 13",
+    "2017 Giro d'Italia Stage 13"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2022 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-26",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BONT Dries won from a four-rider breakaway given only 2.5 minutes, as sprinter teams miscalculated the chase on the Muro di Ca' del Poggio.",
+    "winner": "BONT Dries",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sprinter teams panicked only when gap was 1:40 with 30km remaining, too late given final categorized climb positioning.",
+      "Four-man break deliberately eased effort mid-race after Harry KOSTER drew peloton complaints, preserving energy for decisive final 30km.",
+      "LOPEZ Juan Pedro caught in split despite being protected GC rider, exposing Astana's vulnerability on what should be controlled sprint stage."
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "neutral: suffered mechanical inside final km but gained same time under 3km rule, showing GC protection awareness even on sprint stages",
+      "LOPEZ Juan Pedro": "negative: caught in split on sprint stage dropping 8th to 9th GC, suggests team unable to position him even on routine stages",
+      "KOSTER Harry": "negative: chased too hard in breakaway provoking peloton confrontation, poor break politics nearly cost him the stage opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:08:53.328798+00:00"
+}

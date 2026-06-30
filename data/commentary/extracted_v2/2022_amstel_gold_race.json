@@ -1,0 +1,26 @@
+{
+  "label": "2022 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2022-04-10",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michał won a photo finish after escaping with COSNEFROY at 2km to go, defeating VANDERPOELS late chase despite being marked by multiple teams.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS Grenadiers deployed Turner-led four-man train to isolate VANDERPOORT, forcing him to chase alone despite being favorite.",
+      "KWIATKOWSKI-PIDCOCK tandem hesitated to commit 33.8km out, allowing marked riders to sit in rather than risk leading.",
+      "Two-man break at 2km survived despite 20-second gap because chasers marked VANDERPOORT instead of organizing pursuit."
+    ],
+    "rider_signals": {
+      "VANDERPOORT Mathieu": "negative: isolated early by INEOS train strategy, forced to chase final move alone while rivals marked him instead of cooperating",
+      "TURNER Ben": "positive: executed aggressive pacemaking on climbs to splinter field and burn rival domestiques before 33km mark",
+      "PIDCOCK Tom": "neutral: strong enough to pressure at 33.8km but unclear team leadership with KWIATKOWSKI prevented decisive move",
+      "KWIATKOWSKI Michał": "positive: won from two-up despite apparent hesitation earlier, suggesting tactical patience over premature commitment",
+      "HIRSCHI Marc": "neutral: UAE attempted move but lacked follow-through when marked, revealing insufficient strength or team support",
+      "COSNEFROY Benoît": "positive: AG2R answered break at 2km showing sprint capacity from reduced group others underestimated"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:03:49.419620+00:00"
+}

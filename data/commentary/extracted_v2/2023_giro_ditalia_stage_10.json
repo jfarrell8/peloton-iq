@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 10",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-16",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from a 4-rider breakaway that held off a disorganized peloton depleted by clothing changes and crashes in horrific weather.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Clothing changes at 70km to go fractured peloton cohesion, Gaviria crashed immediately after his change and abandoned chase.",
+      "Ineos positioned 4 riders in top 10 after Vlasov/Vine withdrawals, building numerical GC advantage without attacking.",
+      "Peloton let 4-rider break win by 30+ seconds despite having sprinters, suggesting domestique losses from weather chaos prevented organized chase."
+    ],
+    "rider_signals": {
+      "VINE Jay": "negative: Lost 10 minutes and top-10 GC position simply staying with main group, exposing poor wet weather resilience.",
+      "GAVIRIA Fernando": "negative: Crashed immediately after clothing change and abandoned chase, poor timing judgment on equipment swap.",
+      "MILAN Jonathan": "neutral: Won intermediate sprint but couldn't organize sprint finale despite teammate presence in break.",
+      "GEE Derek": "positive: Second stage podium at Giro, launched decisive attack inside 1500m showing breakaway finishing strength.",
+      "VLASOV Aleksandr": "negative: Abandoned with illness only hours into stage, questionable start decision cost GC position."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:41:56.946108+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "label": "2020 Ronde van Vlaanderen",
+  "race_name": "Ronde van Vlaanderen",
+  "race_date": "2020-10-18",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL won in a sprint against VAN AERT after ALAPHILIPPE crashed into a motorbike while leading, eliminating the strongest attacker.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE attacked twice before main climbs started, forcing VAN DER POEL and VAN AERT to chase prematurely inside 50km.",
+      "VAN AERT mysteriously dropped through field mid-race but remounted effort to rejoin lead group, revealing exceptional recovery capacity.",
+      "VAN DER POEL delayed sprint until 200m despite time advantage, suggesting fear of VAN AERT's longer sustained power.",
+      "BETTIOL and NAESEN mentioned as big hitters reacting to early moves, yet absent from final podium selection."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: launched two race-splitting attacks before cobbled finale, strongest rider before motorbike collision eliminated him",
+      "VAN DER POEL Mathieu": "positive: won sprint but needed full distance to barely hold VAN AERT, suggesting equal raw speed",
+      "VAN AERT Wout": "positive: survived mid-race crisis and nearly won from compromised position, exceptional diesel engine resilience",
+      "KRISTOFF Alexander": "neutral: contested podium sprint but finished distant third, lacks acceleration against Monument-caliber finishers",
+      "TURGIS Anthony": "positive: fourth place after contesting sprint with KRISTOFF, punching above expected Monument finishing ability",
+      "VAN BAARLE Dylan": "neutral: eighth place as expected domestique result, present in finale without podium threat",
+      "DEGENKOLB John": "neutral: ninth place shows presence in finale but no competitive sprint against top tier",
+      "BENOOT Tiesj": "neutral: tenth place, survived selection but lacked final acceleration for podium challenge",
+      "BETTIOL Alberto": "negative: mentioned as big hitter responding to early attacks but absent from final selection",
+      "NAESEN Oliver": "negative: cited reacting to ALAPHILIPPE's accelerations but failed to reach podium group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:31:14.015952+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-29",
+  "stage": 9,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint but was relegated for shouldering, handing ACKERMANN Pascal his first stage win after appearing poorly positioned 200m out.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BENNETT overcame catastrophically deep positioning at 200m to go, proving late momentum trumps early wheel choice in Spanish finishing circuits.",
+      "MØRKØV's leadout timing created gap that dissolved when BENNETT forced physical contact, revealing desperation outweighs positioning advantage.",
+      "UAE deployed dual threat with PHILIPSEN but BORA's single-option discipline kept ACKERMANN sheltered despite apparent numerical disadvantage.",
+      "SÁEZ crashed mid-stage destroying helmet but regained peloton, suggesting early-stage attrition creates no selection on flat Vuelta stages."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: demonstrated superior closing speed but tactical immaturity cost stage via relegation for excessive shouldering",
+      "ACKERMANN Pascal": "positive: won via relegation but positioning at 200m suggests he was already losing the sprint on merit",
+      "MØRKØV Michael": "positive: executed textbook leadout that delivered BENNETT to victory before relegation, confirms elite piloting skills",
+      "PHILIPSEN Jasper": "neutral: UAE dual-threat strategy failed to fracture BORA train, suggesting numerical advantage means little without positioning",
+      "SÁEZ Héctor": "neutral: recovered from helmet-destroying crash to rejoin peloton, proving flat stages offer realistic regrouping windows"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:45:57.695422+00:00"
+}

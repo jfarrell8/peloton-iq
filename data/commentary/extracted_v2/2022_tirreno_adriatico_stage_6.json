@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-12",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked solo on the second ascent of Monte Carpegna, dropped everyone decisively, won by nearly 4 minutes extending GC lead to 1:52.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pogačar isolated Porte on descent with Vingegaard/Lander staying fresh, creating 3v1 dynamic that cost Porte 11 seconds to third.",
+      "Simmons waited for Ciccone instead of maximizing KOM lead, UAE exploited by accelerating immediately after Simmons regrouped with peloton.",
+      "Lander visibly argued with Vingegaard about attacking rhythm before climb, revealing Jumbo uncertain whether to pace or counter-attack Pogačar.",
+      "Quick-Step placed two in break despite no GC interest, unusual resource commitment suggests targeting stage win abandoned mid-race."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Unbeaten in 2022, gained 4 minutes on 35km climb after teammates exhausted, descent sketchy but sustainable",
+      "PORTE Richie": "negative: Lost 11 seconds to Lander in GC due to descent positioning errors, now 4th at unrecoverable deficit",
+      "LANDER Gijs": "positive: Strongest form in extended period, argued tactically with Vingegaard suggesting confidence to attack independently",
+      "EVENEPOEL Remco": "negative: Lost 3:35 on climb, teammates including Senechal abandoned him early revealing Quick-Step prioritized break over supporting GC",
+      "SIMMONS Quinn": "neutral: Waited for Ciccone sacrificing KOM buffer, suggests Israel team orders prioritized stage help over jersey defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:20:16.488310+00:00"
+}

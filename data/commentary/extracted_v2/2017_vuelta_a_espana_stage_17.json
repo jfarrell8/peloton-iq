@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-06",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PREIDLER Georg from breakaway won Stage 17 atop Los Machucos after FROOME cracked on 30%+ gradients, losing 42s to NIBALI and 1:20 to CONTADOR",
+    "winner": "PREIDLER Georg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FROOME unable to respond on extreme gradient pitches over 30%, vulnerable when acceleration required rather than sustained pace.",
+      "CONTADOR attacked before steepest section where FROOME historically weak, continuing podium hunt with targeted timing on gradient changes.",
+      "NIBALI used teammate NIEVE pacing to distance FROOME, showing Sky's support weakness when leader already compromised."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "negative: showed clear weakness on extreme gradients after previous day's time trial effort, couldn't follow any accelerations",
+      "CONTADOR Alberto": "positive: attacking form continues despite age, specifically targeting gradient changes where Froome vulnerable, closed 1:20 on third place",
+      "NIBALI Vincenzo": "positive: gained 42s on race leader with NIEVE support, demonstrating better recovery than Froome after time trial",
+      "PREIDLER Georg": "positive: held off Contador by 28s after all-in pacing strategy on penultimate climb",
+      "CHAVEZ Johan": "negative: attempted move with teammate support on penultimate climb failed completely"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:13:56.034545+00:00"
+}

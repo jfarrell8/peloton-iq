@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 10",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-30",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won the 31.1km Alicante ITT by 48 seconds over Roglic, extending his GC lead from 1:12 to 2:41",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Evenepoel gained 36 seconds at first intermediate check alone, revealing early-course power more decisive than final kilometers in flat TTs.",
+      "Roglic gained 12 seconds on Cavagna's benchmark showing strong domestique-level performance, yet still hemorrhaged 48 seconds exposing GC vulnerability.",
+      "Mas lost over 1 minute confirming ITT weakness transforms mountain-only defense into 3+ minute deficit management strategy.",
+      "Rodriguez lost 1:17 revealing young climbers lacking TT discipline face exponential GC gaps even on short flat courses."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 55.7 kph average demonstrates exceptional sustained power output that transforms modest 1:12 lead into commanding 2:41 advantage",
+      "ROGLIC Primoz": "neutral: 12-second gain over Cavagna benchmark shows solid form but 48-second loss reveals insufficient ITT power to challenge Evenepoel",
+      "MAS Enric": "negative: Over 1-minute loss confirms ITT liability drops him from 1:12 to 3:03 down, eliminating GC threat without mountain demolition",
+      "YATES Simon": "positive: Strong TT performance described as rekindling Giro form suggests returning to elite stage-racing condition at race midpoint",
+      "ALMEIDA Joao": "negative: Navigation error into team car evacuation lane cost 20+ seconds revealing concentration lapse under pressure",
+      "AYUSO Juan": "negative: 1:17 loss described as upset confirms expectations exceeded reality, signaling overestimation of ITT capabilities"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:12:06.134376+00:00"
+}

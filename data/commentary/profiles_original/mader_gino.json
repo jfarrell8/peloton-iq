@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Prefers extremely long-range solo efforts (87km documented) from breakaways rather than GC group accelerations. Willing to attack on climbs but shows limited explosive acceleration, compensating with time trial strength and descending confidence.",
+  "team_tactics": "Appears to operate with significant freedom to hunt stage wins from breakaways rather than supporting protected riders. Limited data on direct team setup for his moves.",
+  "terrain_preference": "Climbing time trials and long descents after mid-mountain passes are ideal weapons. Struggles on steep, punchy climbs requiring explosive accelerations. Suited to attrition-based climbing rather than sharp gradient changes.",
+  "vulnerability": "Lacks peak acceleration to sustain counterattacks on steep gradients. Form periodization issues evident (building rather than peaking at Romandie 2022). May struggle in tactical sprint situations from reduced groups.",
+  "key_patterns": [
+    "Exceptional climbing TT ability: 4 seconds behind Geschke at age 19 (2022)",
+    "Repeatedly attacks outside podium contention for stage wins in Grand Tours (2021, 2022 Vuelta)",
+    "Prefers ultra-long solo efforts over waiting for chase groups, showing TT/descending confidence",
+    "Limited explosive acceleration on climbs; initiates counterattacks but cannot sustain them"
+  ],
+  "form_trajectory": "neutral: 2022 Romandie showed form building rather than peaking, but still competitive. Vuelta appearance later same year showed willingness to attack, suggesting continued development trajectory for young rider.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "MADER Gino",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2021 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 Tour de Romandie Stage 3",
+    "2022 Tour de Romandie Stage 5"
+  ]
+}

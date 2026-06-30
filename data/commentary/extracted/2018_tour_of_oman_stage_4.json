@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Oman Stage 4",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-16",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from a controlled bunch sprint after STETINA's late breakaway attempt was reeled in by Astana's team pursuit.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "STETINA in leader's jersey attacked from breakaway remnants on penultimate climb, suggesting red jersey pressure triggers aggressive racing.",
+      "NIBALI tested form on Jebel Street climb then sat up, revealing GC favorites using intermediate climbs for recon not selection.",
+      "Astana controlled finale for CORT despite no natural sprint leadout, showing team pursuit skills transfer to peloton pacing."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: broke sprint duck with Astana doing the chasing work, indicating he needs organized finale control",
+      "STETINA Peter": "positive: attacked from breakaway while in red jersey on penultimate climb, showing willingness to defend aggressively",
+      "NIBALI Vincenzo": "neutral: tested legs on Jebel Street then pulled back, using stage for form assessment not results",
+      "TERPSTRA Niki": "neutral: late solo attempt from Paris-Roubaix winner suggests opportunistic attacking but lacked conviction",
+      "JANSE VAN RENSBURG Jacques": "negative: dropped from early break before Stetina's acceleration, couldn't sustain breakaway pace"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:44:31.119971+00:00"
+}

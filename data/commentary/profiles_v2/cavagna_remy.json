@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Long-range diesel attacks from established breakaways, typically 25km+ from finish. Thrives on technical parcours combining climbs and descents where sustained power overwhelms pure climbers.",
+  "team_tactics": "Often deployed as breakaway specialist rather than pure domestique. Executes high-speed leadout work when called upon (71 km/h recorded), then given freedom to hunt stages from breaks.",
+  "terrain_preference": "Punchy, technical courses with repeated climbs and descents. Excels on short TT courses with power demands. Cobbled climbing finishes suit diesel engine. Technical descents expose weaknesses versus pure descenders.",
+  "vulnerability": "Sprinter teams instantly neutralize breakaway attempts regardless of terrain difficulty. Peak timing issues evident (ITT form not translating to stage race performance). Technical descents reveal weakness versus specialists like Dennis.",
+  "key_patterns": [
+    "Attacks solo from established breakaways 25km+ out, not from peloton (3 observations)",
+    "Exceptional recovery ability: delivers 'ride of day' performances on consecutive hard stages (2 observations)",
+    "Top-tier short TT specialist on punchy courses, French champion level (2 observations)",
+    "Poor tactical reading: attacks immediately after being caught, wastes energy against peloton mood (2 observations)",
+    "Diesel power engine sustains high speeds on technical terrain where climbers fade (3 observations)"
+  ],
+  "form_trajectory": "negative: 2023 observation shows poor race-reading and wasted efforts. Earlier peak timing issues (2021 Giro disappointment despite ITT win) suggest ongoing challenges converting fitness to results.",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "CAVAGNA Remy",
+  "built_from": [
+    "2018 Tour of Oman Stage 6",
+    "2018 Tour of Oman Stage 6",
+    "2019 Vuelta a Espana Stage 19",
+    "2019 Vuelta a Espana Stage 19",
+    "2019 Vuelta a Espana Stage 21",
+    "2020 Vuelta a Espana Stage 16",
+    "2021 Giro d'Italia Stage 1",
+    "2021 Paris-Nice Stage 3",
+    "2021 Volta Ciclista a Catalunya Stage 2",
+    "2021 Volta Ciclista a Catalunya Stage 6",
+    "2023 Tour de France Stage 10"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Defensive climber who focuses on limiting losses rather than initiating attacks. Capable of following dangerous moves on final climbs when GC rivals accelerate.",
+  "team_tactics": "Insufficient data to establish team tactical patterns across multiple races.",
+  "terrain_preference": "Sustained final climbs where damage limitation and steady pace are crucial. Less effective on explosive, punchy terrain requiring repeated accelerations.",
+  "vulnerability": "Lacks explosive power to initiate winning attacks against top GC rivals. Reactive riding style limits ability to take time rather than defend position.",
+  "key_patterns": [
+    "Reactive climber: follows attacks rather than initiating, maintaining contact with accelerations",
+    "Strong final climb resilience: only rider staying within 15 seconds of Evenepoel's attack",
+    "Damage limitation specialist: minimizes time losses (28s) when unable to counter-attack"
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to determine trajectory, though showed competitive GC climbing ability",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ENRIC Mas",
+  "built_from": [
+    "2022 Vuelta a Espana Stage 6",
+    "2022 Vuelta a Espana Stage 6"
+  ]
+}

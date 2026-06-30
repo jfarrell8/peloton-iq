@@ -1,0 +1,40 @@
+{
+  "attacking_style": "Rarely attacks directly; prefers tactical breakaway positioning as highest GC rider to gain time without energy expenditure. Shows limited explosive climbing power on steep gradients when rivals accelerate.",
+  "team_tactics": "Benefits from strong domestique support (Hindley, Fabro) on climbs and dual-leader strategies. Teams prioritize defending his position through tempo control rather than aggressive racing. Occasionally sacrificed for team sprint objectives despite GC position.",
+  "terrain_preference": "Time trials are surprisingly strong relative to climbing focus (multiple sub-1-minute gaps, 16sec to Yates). Struggles on long 24km+ climbs and steep gradients. Performs better on rolling/wavy stages with positioning over pure watts.",
+  "vulnerability": "Crumbles on extended mountain stages (dropped on 24km climb, abandoned before first categorized climb at Vuelta). Mechanical/crash prone at critical moments. Poor descending technique (55sec lost to apparel issues). Weak final kilometer positioning costs seconds repeatedly.",
+  "key_patterns": [
+    "Uses breakaways as GC tool rather than attacking from peloton (2022 Vuelta top-6 jump confirmed twice)",
+    "Strong time trial form for climber repeatedly verified: sub-60sec gaps, won after 5-year drought, 2nd Tirreno",
+    "Loses time on descents and technical sections rather than pure climbing (apparel struggle, positioning errors)",
+    "Physically fragile on consecutive mountain stages: abandoned mid-Vuelta, dropped on long climbs multiple times",
+    "Benefits from dual-leader team strategies but sometimes sacrificed for stage wins despite GC position"
+  ],
+  "form_trajectory": "negative: 2023 crash eliminated domestique role; 2022 saw physical collapse and abandonment at Vuelta despite earlier breakaway success showing declining durability",
+  "races_analysed": 21,
+  "confidence": "high",
+  "rider_name": "KELDERMAN Wilco",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 16",
+    "2018 Tirreno-Adriatico Stage 1",
+    "2020 Giro d'Italia Stage 12",
+    "2020 Giro d'Italia Stage 14",
+    "2020 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 16",
+    "2020 Giro d'Italia Stage 17",
+    "2020 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 19",
+    "2020 Giro d'Italia Stage 20",
+    "2020 Giro d'Italia Stage 5",
+    "2020 Tirreno Adriatico Stage 3",
+    "2020 Tirreno Adriatico Stage 7",
+    "2021 Volta Ciclista a Catalunya Stage 6",
+    "2022 Giro d'Italia Stage 2",
+    "2022 Giro d'Italia Stage 9",
+    "2022 La Vuelta ciclista a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 Vuelta a Espana Stage 12",
+    "2023 Tirreno-Adriatico Stage 1",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

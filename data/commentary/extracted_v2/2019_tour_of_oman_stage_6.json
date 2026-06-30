@@ -1,0 +1,23 @@
+{
+  "label": "2019 Tour of Oman Stage 6",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-21",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João won the sprint from reduced group after four-rider break absorbed late; LUTSENKO defended GC by staying front throughout closing laps",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "LUTSENKO positioned extremely forward throughout three finishing circuits, revealing defensive GC tactics prioritizing crash avoidance over energy conservation.",
+      "Four-man break absorbed despite containing strong time trialist van HOYEN, suggesting sponsor pressure for sprint finish overrode tactical patience."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: maintained front position through entire finishing circuit sequence, avoiding KRISTOFF's crash fate",
+      "KRISTOFF Alexander": "negative: crashed and abandoned on final stage despite attempting 10th Oman completion, suggests fatigue compromise",
+      "ALMEIDA João": "positive: won sprint despite BANI creating bumping/barging chaos, demonstrating composure in physical finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:04:21.842436+00:00"
+}

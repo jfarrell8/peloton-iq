@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not an attacker. Specialized time trial power used exclusively in TTT scenarios where team discipline and aerodynamics maximize output over individual efforts.",
+  "team_tactics": "Jumbo-Visma deploys him as pure TTT engine; team absorbs GC leadership responsibilities when he inherits jerseys, no expectation he defends beyond flat stages.",
+  "terrain_preference": "Flat team time trials and prologues where track background converts directly. Mountains immediately expose limitations; cannot defend GC gains on any climbing terrain.",
+  "vulnerability": "Any mountainous stages result in immediate time loss and jersey forfeiture. Acknowledged openly that climbing will cost him leadership within stages.",
+  "key_patterns": [
+    "Inherits race leader jerseys through TTT dominance, never individual attacks (2 instances)",
+    "Track cycling background provides TTT power but zero climbing capability (2 references)",
+    "Jumbo-Visma system extracts immediate gains from TT specialists in debut seasons (2 data points)",
+    "Openly acknowledges mountains will end GC ambitions before they materialize (2 instances)"
+  ],
+  "form_trajectory": "neutral: Consistent role as TTT specialist without evolution toward climbing or stage racing versatility across 2021-2022",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "AFFINI Edoardo",
+  "built_from": [
+    "2021 Giro d'Italia Stage 1",
+    "2022 La Vuelta ciclista a Espana Stage 3",
+    "2022 Vuelta a Espana Stage 3"
+  ]
+}

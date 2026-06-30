@@ -1,0 +1,26 @@
+{
+  "label": "2022 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2022-03-05",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked solo with 50km remaining on gravel sectors after early crash, held 90+ seconds to finish despite ALAPHILIPPE and ASGREEN chasing.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked with 50km out when ALAPHILIPPE was exhausted from crash-chasing, exploitingWorldChamp's depleted state tactically.",
+      "Quick-Step burned ALAPHILIPPE domestiques getting him back after crash, leaving him isolated when POGACAR countered the reunion.",
+      "ASGREEN led chase on penultimate gravel sector but waited too long; attacks need 60km+ buffer before final sectors."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: survived early crash then soloed 50km, proving GT climbers can dominate Strade when classics stars are weakened",
+      "ALAPHILIPPE Julian": "negative: crash at 100km forced chase effort that left him empty when race exploded; couldn't respond to POGACAR at 50km",
+      "ASGREEN Kasper": "neutral: strongest chaser on final sectors but lacked explosive power to close 90-second gap despite VALVERDE cooperation",
+      "VALVERDE Alejandro": "positive: career-best second at age 41 suggests experience reading gravel positioning trumps raw power on final sectors",
+      "RODRIGUEZ Carlos": "negative: briefly followed POGACAR but drifted back before 25km mark, showing junior GT climbers lack Strade-specific resistance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:18:55.039042+00:00"
+}

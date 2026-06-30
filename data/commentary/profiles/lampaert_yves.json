@@ -1,0 +1,43 @@
+{
+  "attacking_style": "Opportunistic diesel rider who capitalizes on chaos (echelons, crashes, breaks) with sustained power efforts rather than explosive accelerations. Excels in solo tempo pursuits 8-18km out, timing bridges and counterattacks when others organize.",
+  "team_tactics": "QuickStep/Soudal-QS deploys him as tactical Swiss army knife: establishes early positioning in wind splits, delivers monstrous leadout pulls through flamme rouge, and launches redundant attacks when teammates are already committed forward.",
+  "terrain_preference": "Flat-to-rolling Classics terrain with cobbles/wind exposure. Thrives in echelon chaos and sustained diesel efforts on pavé. Vulnerable on uphill sprint finishes (Ninove 2020) where pure power matters more than positioning.",
+  "vulnerability": "Wet cobbled conditions cause crashes (Roubaix 2021 early, 2022 late from winning position). Fatigue-induced handling errors in race finales. Lacks explosive power to finish uphill sprints despite superior positioning.",
+  "key_patterns": [
+    "Crashes in wet/technical finales when fatigued, twice at Roubaix from winning positions (2021-2022).",
+    "Excels at long solo tempo pursuits: velodrome chase 2019, 17km break 2018, echelon counter 2017.",
+    "QuickStep uses him for early race wind positioning, securing podium groups before decisive moments.",
+    "Delivers leadout/tempo pulls through flamme rouge despite lacking sprint finish (Paris-Nice 2022, Suisse 2018).",
+    "Mental resilience: won TT after Roubaix crash, took yellow after spectator incident.",
+    "Bridges to lead groups mid-race on hellingen, extending QuickStep's tactical depth beyond climbers."
+  ],
+  "form_trajectory": "neutral: 2023 podium at Brugge-De Panne validates positioning skill, but recent pattern shows late-race handling vulnerability outweighs diesel power gains",
+  "races_analysed": 17,
+  "confidence": "high",
+  "rider_name": "LAMPAERT Yves",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 13",
+    "2017 Vuelta a Espana Stage 16",
+    "2017 Vuelta a Espana Stage 2",
+    "2017 Vuelta a Espana Stage 2",
+    "2017 Vuelta a Espana Stage 4",
+    "2018 Tour de France Stage 21",
+    "2018 Tour de France Stage 9",
+    "2018 Tour de Suisse Stage 6",
+    "2019 Paris-Roubaix",
+    "2019 Paris-Roubaix",
+    "2019 UAE Tour Stage 4",
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Omloop Het Nieuwsblad",
+    "2021 E3 Saxo Bank Classic",
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Roubaix",
+    "2022 Paris-Roubaix",
+    "2022 Tour de France Stage 1",
+    "2022 Tour de France Stage 1",
+    "2022 Tour de France Stage 20",
+    "2023 Classic Brugge-De Panne"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a primary attacker; functions as high-altitude pacing resource rather than finale aggressor. Works in final 3km to deliver protected riders on mountain stages.",
+  "team_tactics": "Deployed as super-domestique on high-mountain stages, controlling tempo in final kilometers to deliver team leader. Protected rider role reserved for lesser objectives where form permits.",
+  "terrain_preference": "High-altitude mountain finishes where sustained tempo work (final 3km) is required. Struggles on punchy, explosive climbs like Civiglio where repeated accelerations occur.",
+  "vulnerability": "End-of-season fatigue causes significant form drop; early victim on punchy climbs. Mechanical reliability issues with team equipment have caused race-ending crashes.",
+  "key_patterns": [
+    "Dual role capacity: super-domestique in Grand Tours, protected rider in one-day races (2 instances)",
+    "Strong sustained climbing at altitude but dropped early on explosive punchy ascents (2 instances)",
+    "Form deteriorates significantly by late season, October races show clear weakness (1 strong instance)",
+    "Team mechanical issues affecting his race outcomes despite Ineos budget and resources (1 instance)"
+  ],
+  "form_trajectory": "negative: Strong Grand Tour climbing form in May (pacing at altitude) deteriorated sharply by October (early drop at Lombardia)",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "SIVAKOV Pavel",
+  "built_from": [
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Il Lombardia"
+  ]
+}

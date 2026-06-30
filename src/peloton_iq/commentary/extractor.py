@@ -3,12 +3,17 @@ peloton_iq.commentary.extractor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ClaudeExtractor — extracts structured tactical insights from race transcripts.
 
-Calls Claude with the extraction prompt from notebook commentary_ingestion_v3,
-parses the JSON response, and returns a CommentaryExtraction object.
-
-Also owns get_context() — the single entry point the agent calls to get
-commentary context for a race, checking extracted JSON first and falling
-back to raw transcript if needed.
+FIXED: EXTRACTION_PROMPT now includes a grounded roster of real rider names
+(pulled from merged_df["Name"] for the relevant race/year) and instructs
+Claude to use EXACT spelling from that list. Previously the prompt only
+said "LASTNAME Firstname" as a format hint with no grounding at all —
+Claude was transcribing names purely from noisy commentary audio with no
+canonical reference, producing wildly inconsistent spellings across calls
+for the same rider (e.g. "ala_philippe_julian" / "alaphilippe_julien" /
+"colbrelli_sonny" / "cobrelli_sonny", and outright phonetic
+misrecognitions like "gerheigh_ruben" for "guerreiro_ruben"). Grounding
+the prompt in the real roster turns this into a matching problem against
+known names instead of an open-ended transcription problem.
 
 Usage:
     from peloton_iq.commentary.extractor import ClaudeExtractor
@@ -29,10 +34,12 @@ from pathlib import Path
 from typing import Optional
 
 import anthropic
+import pandas as pd
 
 from peloton_iq.config import (
     COMMENTARY_EXTRACTED_DIR,
     COMMENTARY_RAW_DIR,
+    MERGED_RACES_PATH,
     settings,
 )
 from peloton_iq.commentary.transcript import make_label, make_safe_name
@@ -42,7 +49,7 @@ log = logging.getLogger(__name__)
 
 
 # ---------------------------------------------------------------------------
-# Extraction prompt  (mirrors notebook v3 exactly)
+# Extraction prompt  — now with a grounded roster placeholder
 # ---------------------------------------------------------------------------
 
 EXTRACTION_PROMPT = """You are a cycling tactics analyst extracting intelligence from race commentary for {race_name}.
@@ -50,6 +57,15 @@ EXTRACTION_PROMPT = """You are a cycling tactics analyst extracting intelligence
 Your output will be injected directly into pre-race briefings for future similar races.
 Be concise and opinionated. Every sentence must contain a non-obvious tactical observation.
 Do not repeat the same point across fields. Skip generic observations ("wet roads are slippery", "sprinters like flat stages").
+
+CRITICAL — rider names: Use ONLY the exact spelling from this known rider roster
+when referring to any rider. Do not invent, phonetically guess, or vary the
+spelling of a name. If you genuinely cannot match a rider mentioned in the
+commentary to any name in this roster, omit them rather than guessing a
+spelling.
+
+Known riders (LASTNAME Firstname format, exact spelling required):
+{roster}
 
 Focus on:
 - HOW and WHERE decisive moves happened (km to go, climb number, terrain feature)
@@ -73,12 +89,23 @@ Return a JSON object with these exact fields:
 
 Rules:
 - tactical_patterns: 2-5 items max. If commentary is thin, return fewer rather than padding.
-- rider_signals: only riders with meaningful signal. Skip riders with no notable observation.
+- rider_signals: only riders with meaningful signal AND an exact match in the roster above. Skip riders with no notable observation, and skip any rider you cannot confidently match to the roster.
+- winner: must exactly match a name in the roster above.
 - If the transcript covers only an intermediate sprint or non-decisive moment, set usable_for_rag to false.
 - Return only valid JSON, no other text.
 
 Transcript:
 {transcript}"""
+
+
+# Fallback prompt section used when no roster could be built for this
+# race/year (e.g. merged_df has no rows for it) — same strict format
+# instruction as before, since there's nothing to ground against.
+NO_ROSTER_FALLBACK = (
+    "(No verified roster available for this race — use your best judgment "
+    "on LASTNAME Firstname format, and be conservative: omit a rider "
+    "entirely if you are not confident of the spelling.)"
+)
 
 
 # ---------------------------------------------------------------------------
@@ -100,6 +127,7 @@ class ClaudeExtractor:
         model: str | None = None,
         max_tokens: int | None = None,
         max_transcript_chars: int = 8000,
+        merged_df: pd.DataFrame | None = None,
     ) -> None:
         self._raw_dir       = raw_dir       or COMMENTARY_RAW_DIR
         self._extracted_dir = extracted_dir or COMMENTARY_EXTRACTED_DIR
@@ -110,7 +138,60 @@ class ClaudeExtractor:
             api_key=settings.anthropic_api_key or None,
         )
 
+        # Lazily-loaded roster source. Loading the full merged_df once
+        # and slicing per-race is far cheaper than re-reading the CSV
+        # on every single extraction call.
+        self._merged_df = merged_df
+
         self._extracted_dir.mkdir(parents=True, exist_ok=True)
+
+    @property
+    def merged_df(self) -> Optional[pd.DataFrame]:
+        """Lazy-load merged_df once, reused across all extraction calls."""
+        if self._merged_df is None:
+            try:
+                self._merged_df = pd.read_csv(MERGED_RACES_PATH, low_memory=False)
+            except Exception as e:
+                log.warning(
+                    "Could not load merged_df for roster grounding (%s) — "
+                    "extraction will fall back to unconstrained name format.",
+                    e,
+                )
+                self._merged_df = pd.DataFrame()  # sentinel: tried, empty
+        return self._merged_df if not self._merged_df.empty else None
+
+    def _build_roster(self, race_name: str, race_date: str) -> str:
+        """
+        Build the roster text block for the extraction prompt: every
+        rider who appears in merged_df for this race name + year, as
+        "LASTNAME Firstname", one per line. Falls back to a generic
+        instruction if merged_df isn't available or has no matching rows.
+
+        Year-only matching (not exact date) is intentional — stage-level
+        rosters are usually stable across the whole race, and this keeps
+        the lookup simple and tolerant of the race_date placeholder
+        values we've seen show up for some manually-added races.
+        """
+        df = self.merged_df
+        if df is None:
+            return NO_ROSTER_FALLBACK
+
+        year = str(race_date)[:4]
+        try:
+            year_int = int(year)
+        except ValueError:
+            return NO_ROSTER_FALLBACK
+
+        mask = (
+            df["Race_results"].str.contains(race_name, case=False, na=False)
+            & (df["Year_results"] == year_int)
+        )
+        riders = df.loc[mask, "Name"].dropna().unique()
+
+        if len(riders) == 0:
+            return NO_ROSTER_FALLBACK
+
+        return "\n".join(sorted(riders))
 
     # ------------------------------------------------------------------
     # Public interface
@@ -278,13 +359,19 @@ class ClaudeExtractor:
         else:
             text = transcript_text
 
+        race_name = raw_data.get("race_name", "")
+        race_date = raw_data.get("race_date", "")
+        roster    = self._build_roster(race_name, race_date)
+
         try:
             response = self._client.messages.create(
                 model=self._model,
                 max_tokens=self._max_tokens,
                 messages=[{
                     "role": "user",
-                    "content": EXTRACTION_PROMPT.format(race_name=label, transcript=text),
+                    "content": EXTRACTION_PROMPT.format(
+                        race_name=label, transcript=text, roster=roster,
+                    ),
                 }],
             )
             raw_json = re.sub(r"```json|```", "", response.content[0].text).strip()
@@ -318,8 +405,8 @@ class ClaudeExtractor:
         video_raw = raw_data.get("video") or {}
         return CommentaryExtraction(
             label=label,
-            race_name=raw_data.get("race_name", ""),
-            race_date=raw_data.get("race_date", ""),
+            race_name=race_name,
+            race_date=race_date,
             stage=raw_data.get("stage"),
             video_id=video_raw.get("video_id"),
             channel=video_raw.get("channel"),

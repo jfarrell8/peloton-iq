@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-14",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu survived a long solo breakaway to win by 10 seconds after POGAČAR attacked late on the finishing circuit walls, gaining crucial time on VAN AERT.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR used late circuit attacks to test rivals' legs after 200km, nearly catching solo leader while gaining GC time.",
+      "VAN DER POEL measured effort in final 300m on rough surface rather than sprinting, protecting time gap through technical finish.",
+      "FORMOLO Davide support work enabled POGAČAR's late attack effectiveness, team positioning before finale walls proved decisive."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: managed 200km+ solo effort to exhaustion but held pacing discipline through technical finale to preserve narrow victory",
+      "POGAČAR Tadej": "positive: attacked when VAN AERT showed weakness, gained 39 seconds on main GC rival while nearly catching breakaway",
+      "VAN AERT Wout": "negative: unable to respond to POGAČAR's attack on circuit walls, lost crucial 39 seconds and now 1:15 down GC",
+      "LANDA Mikel": "positive: moved to third overall, suggesting strong climbing form on repeated circuit walls",
+      "BERNAL Egan": "positive: jumped from 11th to 4th GC, indicating selective aggression on finale suited his climbing ability",
+      "FORMOLO Davide": "positive: key domestique work setting up POGAČAR's attack, support role execution on finale circuit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:06:11.950987+00:00"
+}

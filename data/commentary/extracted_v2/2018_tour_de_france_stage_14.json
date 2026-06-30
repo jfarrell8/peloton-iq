@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-21",
+  "stage": 14,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "FRAILE Omar won from early breakaway, attacking 1.5km from summit to drop STUYVEN and hold off late-charging ALAPHILIPPE by 6 seconds.",
+    "winner": "FRAILE Omar",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alaphilippe attacked for KOM points with 600m to summit but left chase too late, losing 6 seconds despite closing 12-second gap.",
+      "GC trio Thomas-Froome-Dumoulin collaborated through finish to limit Roglic's time gain to 7 seconds despite his solo effort.",
+      "Dan Martin's puncture at 5km remaining cost him 1:43 and one GC position, showing vulnerability of isolated riders late-stage."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: misjudged timing of KOM attack from 600m out, visibly doubting himself mid-chase according to commentators",
+      "STUYVEN Jasper": "positive: recovered from being caught to finish third after regrouping on descent, showing resilience",
+      "ROGLIC Primoz": "positive: attacked solo from GC group to gain 7 seconds on top three, only rider willing to test them",
+      "QUINTANA Nairo": "negative: described as 'not having a good race at all' after conceding time to GC trio",
+      "MARTIN Dan": "negative: late puncture at 5km exposed lack of team support, losing 1:43 and dropping from potential top-5"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:29:17.776822+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2020 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2020-09-30",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HIRSCHI Marc waited until 50m from the Mur de Huy summit to launch his winning acceleration after WOODS Mike went at 200m.",
+    "winner": "HIRSCHI Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "URÁN Rigoberto's solo bridge from peloton on penultimate climb nearly succeeded, revealing value in attacking before final Mur ascent.",
+      "HIRSCHI waited until 50m to counter WOODS' 200m attack, demonstrating extreme patience pays on Mur de Huy's gradient shifts.",
+      "POLANC positioning POGAČAR at Mur base suggests UAE still treating him as leader despite post-Tour fatigue risk in autumn calendar.",
+      "Sunweb allowed HIRSCHI full freedom with no leadout, contrasting Ineos/UAE's wasted domestique efforts for non-winning leaders."
+    ],
+    "rider_signals": {
+      "HIRSCHI Marc": "positive:At 22, won with tactical maturity beyond age, holding acceleration 150m longer than Woods despite Tour stage win freshness.",
+      "POGAČAR Tadej": "negative: Only ninth despite team support and recent Tour victory suggests one-day climbing form doesn't transfer from three-week dominance.",
+      "URÁN Rigoberto": "positive: Solo bridge from peloton on penultimate climb showed tactical creativity older riders can exploit against conservative favorites.",
+      "WOODS Mike": "negative: Going at 200m revealed he lacks explosive finish to hold off late accelerations on Mur's steepest final meters.",
+      "VAN SEVENANT Mauri": "neutral: WorldTour debut breakaway nearly succeeded until crash; team chased him showing Deceuninck's willingness to sacrifice leader tactics.",
+      "KWIATKOWSKI Michał": "negative: Sixth place despite full Ineos support indicates declining Ardennes form for former Amstel/Strade winner."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:17:05.582905+00:00"
+}

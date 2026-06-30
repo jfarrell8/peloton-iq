@@ -1,0 +1,26 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 5",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-25",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VERNON Ethan won Stage 5 sprint while ALMEIDA João took race lead by one second via third place at 17km-to-go intermediate sprint bonus seconds",
+    "winner": "VERNON Ethan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Almeida/UAE prioritized intermediate sprint at 17km over stage finish, gaining crucial third place bonus while Quintana finished fourth without seconds",
+      "Quick-Step delivered perfect leadout despite depleted sprint field from illness, Vernon exploiting reduced competition from absent Hoffa/Matthews/De Vrient/Milano/Colbrelli",
+      "Johannesson's Astana contested intermediate sprint for GC gain rather than protecting energy, signaling aggressive tactics when on equal time"
+    ],
+    "rider_signals": {
+      "ALMEIDA João": "positive: UAE executed precise intermediate sprint positioning at 17km despite wearing young rider jersey, not leader's jersey, showing tactical awareness",
+      "QUINTANA Nacer": "negative: failed to secure bonus seconds at crucial 17km intermediate despite attempting to duke it out, showing inferior sprint positioning",
+      "VERNON Ethan": "positive: delivered decisive sprint after 5h20m in saddle on 206km stage following two mountain days, revealing unexpected endurance capacity",
+      "DENNIS Rowan": "neutral: drove pace at 2.7km but Deceuninck-Quick-Step absent from his leadout, suggesting Ineos protected Omen rather than sprint support",
+      "BAUHAUS Phil": "negative: forced solo into final roundabouts with no leadout, showing team domestique depletion likely from illness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:31:12.939284+00:00"
+}

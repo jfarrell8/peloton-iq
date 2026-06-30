@@ -1,0 +1,31 @@
+{
+  "label": "2021 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-30",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan won GC by 1:29 over CARUSO Damiano after defending pink in Milan ITT won by GANNA Filippo (5th consecutive Giro ITT victory).",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo absorbed 30-second bike change 1.5km from finish yet still won by 12 seconds, revealing massive ITT dominance buffer.",
+      "ALMEIDA João posted top-5 ITT result on final stage, showing young riders can maintain power freshness after three-week GC battle.",
+      "CARUSO Damiano gained time on BERNAL in final ITT but 1:29 deficit proved insurmountable; older riders finish strong physically.",
+      "CAVAGNA Rémi mechanical 500m from finish cost potential stage win, showing Ghana's margin wasn't as secure as results suggest."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: Five consecutive Giro ITT wins establishes him as uniquely dominant on Italian Grand Tour chrono parcours regardless of length.",
+      "BERNAL Egan": "positive: Won Giro on first attempt while managing 1:29 GC defense in final ITT against specialist opposition.",
+      "CARUSO Damiano": "positive: First Grand Tour podium at age 33+ by gaining time on GC winner in final ITT shows late-career peak.",
+      "ALMEIDA João": "positive: Top-5 ITT finish after three weeks signals exceptional recovery capacity for young stage racer.",
+      "YATES Simon": "neutral: Maintained third place without gaining time on CARUSO, suggesting ITT remains relative weakness even when fresh.",
+      "CAVAGNA Rémi": "negative: Mechanical 500m from finish while challenging for stage win indicates bike handling risk in technical urban ITTs.",
+      "AFFINI Edoardo": "positive: Second place ITT result 12 seconds behind Ghana establishes him as emerging Italian TT talent.",
+      "MARTÍNEZ Daniel Felipe": "positive: Moved up in final GC standings via strong ITT performance, showing climbing domestiques can gain late positions.",
+      "SAGAN Peter": "neutral: Won points jersey (first Giro ciclamino) despite not winning final ITT stage, confirming consistency over peak power."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:53:37.311292+00:00"
+}

@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-07",
   "stage": 4,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "Puze4oCx4ks",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=Puze4oCx4ks",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 95,
+    "raw_chars": 3346,
+    "clean_chars": 3330,
+    "duration_mins": 4.0,
+    "clean_text": "a time trial is a great opportunity to establish a hierarchy on a stage race and a 23 and a half km track from L dupan to ban should be a good indicator to judge the shape of the favorites the first significant Ty is set by Tony Martin the time trial world champion is 65th in the overall ranking 2 minutes and 90 seconds behind Thomas durent he rides a Flawless race holds an average of 50 km an hour and sets a time that will be very hard to beat contador starts next and he knows that he won't be able to challenge Martin's time but at mid- race the Spaniard only lies 24 seconds behind the German and the man from traig Alfredo knows that he keeps all his chances in the overall ranking this is something Roman B rarely comfortable on time trials hopes to do also but the Frenchman second behind Chris room last year takes over 30 minutes and eventually loses roughly 2 minutes to Tony Martin his Rivals try to use this moment of weakness and Richie Port knows that he's able to score important points on the stage he can be confident after beating FR on a time trial at the tour of romandy and the Australian confirms all expectations he sets a time of 28 minutes and 7 seconds and beats Martin's Time by 12 seconds Chris FR got the message the triple winner of the doin gives it all with his characteristic style but at mid- race he already lies 10 seconds behind his former teammate Port he continues to lose time on the second part and eventually finishes 37 seconds behind the Australian even Alejandro Valverde the man who rides all season without interruption does better than the British the Spaniard from M star loses only 1 second per kilometer to port and takes third place today a performance that gives valdi e in the overall ranking so far hopes for the yellow Jersey but Thomas Duren surprises Everyone by finishing today's stage amongst the top 10 and he manages to hold on to the yellow Jersey for at least another day last year to the France he hadn't hidden his ambition before a rude awakening as early as stage two this year he's more down to earth and success rewards him with an average speed of close to 50 km an hour the winner of this year's tour down under and tour of romandy left his Rivals no chance the kid from Tasmania takes the seventh time trial of his career and he is the great favorite for the race win before the remaining Mountain stages didn't expect to either win the stage or take that much time but I've really worked hard on my time trailing this year I mean it's been a long time since I've done a good time Trail so to do what I've done today it's uh I'm really happy everyone expected Martin but it's Port who surprises everyone and takes stage four the five Great favorites for the race win all finish today stage amongst the top 10 even the H usually not a time trial specialist Clemen finishes fourth and takes the same spot in the overall ranking that is still led by Thomas Dent Port takes second place and can Harbor hopes for the final Victory just as contador and Frum who haven't said the last word yet revenge or not so far they could only shine on Monday but the sprinters will do anything to get a second and probably final opportunity for a Sprint finish tomorrow to get there the first rough part of the track will have to be passed without wasting too much energy",
+    "preview_start": "a time trial is a great opportunity to establish a hierarchy on a stage race and a 23 and a half km track from L dupan to ban should be a good indicator to judge the shape of the favorites the first significant Ty is set by Tony Martin the time trial world champion is 65th in the overall ranking 2 minutes and 90 seconds behind Thomas durent he rides a Flawless race holds an average of 50 km an hour and sets a time that will be very hard to beat contador starts next and he knows that he won't be ",
+    "preview_end": "st Clemen finishes fourth and takes the same spot in the overall ranking that is still led by Thomas Dent Port takes second place and can Harbor hopes for the final Victory just as contador and Frum who haven't said the last word yet revenge or not so far they could only shine on Monday but the sprinters will do anything to get a second and probably final opportunity for a Sprint finish tomorrow to get there the first rough part of the track will have to be passed without wasting too much energy"
+  },
+  "status": "transcript_saved"
 }

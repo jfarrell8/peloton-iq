@@ -1,0 +1,25 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-06",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michal won as Team Sky executed tactically perfect TTT rotation, taking yellow by 37 seconds over BMC.",
+    "winner": "KWIATKOWSKI Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky placed three riders in prologue top-9, pre-loading TTT strength through individual TT selection rather than climbing specialists.",
+      "AG2R handicapped with only six riders after Villermoz abandon, losing 1:29 despite strong intermediate splits showing attrition impact.",
+      "BMC and Movistar under 1-minute down suggests GC teams prioritized saving leaders over maximum effort against Sky's depth."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "positive: reclaimed yellow after losing it Stage 2, confirming Sky's TTT dominance translates leadership control",
+      "NIBALI Vincenzo": "negative: Bahrain lost 2+ minutes indicating weak TTT depth threatens GC ambitions on balanced stage races",
+      "FROOME Chris": "neutral: fell to 1:52 deficit suggesting Sky prioritizing Kwiatkowski/Thomas over defending his GC position",
+      "BARDET Romain": "negative: AG2R's 7th at 1:29 despite strong intermediates reveals team weakness will cost him in future TTT stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:17:44.952517+00:00"
+}

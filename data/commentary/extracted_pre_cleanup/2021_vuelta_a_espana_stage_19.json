@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won his third Vuelta stage after CRADDOCK Lawson drove tempo all day in breakaway, delivering perfect leadout setup.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CRADDOCK Lawson pulled entire final kilometers of breakaway to set up CORT Magnus, eliminating counter-attacks through sustained 31mph pace.",
+      "EF Education used dual rider breakaway to control tempo instead of launching attacks, protecting sprinter through exhaustion rather than aggression.",
+      "Multiple crashes in peloton on stage 19 reveal deep fatigue affecting bike handling after consecutive mountain stages."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: third stage win demonstrates repeatable breakaway sprint speed even late in grand tour",
+      "CRADDOCK Lawson": "positive: sustained breakaway pace-making at 31mph with final leadout shows exceptional grand tour diesel engine",
+      "SIMMONS Quinn": "positive: able to accelerate and contest sprint on stage 19 signals improved form trajectory exiting Vuelta",
+      "ROGLIC Primoz": "positive: team required zero domestique work on breakaway stage, conserving resources before final time trial",
+      "MATTHEWS Michael": "neutral: climbing gains appear to have cost sprint speed, highlighting sprinter power-to-weight tradeoff"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:18:53.726027+00:00"
+}

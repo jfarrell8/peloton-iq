@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de Suisse Stage 7",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-17",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco attacked solo with 17km to go on the final categorized climb after neutralized racing honored Gino Mäder, winning by nearly a minute",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "EVENEPOEL attacked at 17km on final climb after GC times frozen at 25km, exploiting ambiguous racing situation",
+      "INEOS deployed multiple riders into break after neutralization ended, showing willingness to race despite circumstances",
+      "VAN AERT contested stage finish despite no GC implications, signaling form ahead of Tour de France"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: attacked decisively at 17km when racing resumed, soloed to near-minute victory showing exceptional form",
+      "HEALY Ben": "neutral: briefly followed Evenepoel's attack before being distanced, confirming climbing limitations against elite",
+      "VAN AERT Wout": "positive: sprinted for second place on stage with no bonus seconds, indicating sharp form entering Tour prep",
+      "POWLESS Neilson": "neutral: initiated attacks when neutralization ended but couldn't sustain advantage against Evenepoel"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T19:02:16.245940+00:00"
+}

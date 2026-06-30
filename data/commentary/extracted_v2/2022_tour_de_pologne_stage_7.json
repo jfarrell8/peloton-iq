@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-08-05",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "PINO Thibaut won Stage 7 to Malbun from the breakaway while IGITA Sergio attacked with 2km to go, gaining enough time to take yellow by 2 seconds over THOMAS Geraint.",
+    "winner": "PINO Thibaut",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "IGITA attacked at 2km despite being 10s down on GC, forcing FULSON to chase while THOMAS marked, revealing offensive strategy from deficit position.",
+      "19-rider breakaway formed after 50km first hour on Lukmanier Pass, suggesting early selection on opening climb neutralized peloton's control ambitions.",
+      "THOMAS attacked FULSON in final 500m rather than collaborate, indicating confidence in TT ability to overcome 2-second deficit next day."
+    ],
+    "rider_signals": {
+      "IGITA Sergio": "positive: Took yellow with audacious 2km attack while starting 10s down, showing willingness to gamble before TT weakness exposed",
+      "THOMAS Geraint": "positive: Attacked rival FULSON in finale despite both needing to minimize losses to IGITA, prioritizing TT starting position over collaboration",
+      "FULSON Jakob": "negative: Forced to chase IGITA's move while THOMAS sat on, losing yellow and 17 seconds to both GC rivals through tactical isolation",
+      "MARTINEZ Daniel": "neutral: INEOS had MARTINEZ set tempo before IGITA's attack, suggesting team recognized THOMAS needed better GC position pre-TT",
+      "PINO Thibaut": "positive: Second win in three months after three-year drought, suggesting resurging form pattern worth monitoring"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:26:03.034439+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Launches attacks on decisive climbs before the summit, often as an early aggressor rather than waiting for final kilometer. Shows ambition on punchy gradients but lacks finishing power when gradients steepen near the line.",
+  "team_tactics": "Dimension Data deploys him as a tactical foil to force early reactions from GC favorites, though timing coordination has been imperfect. Team appears weakened when he abandons, suggesting key role in mountain support.",
+  "terrain_preference": "Punchy summit finishes and decisive climbs suit him best when gradients are consistent. Exposed on steep finishing gradients that reward explosive power surges in final meters.",
+  "vulnerability": "Lacks finishing punch when gradients steepen near the line; vulnerable to crashes that force abandonment. Power profile insufficient to follow sight-of-line surges on gradient finishes.",
+  "key_patterns": [
+    "Attacks GC favorites early on decisive climbs as tactical foil, forcing premature responses (2 instances)",
+    "Strong positioning in select break groups on punchy summit finishes (2 observations)",
+    "Timing mistimed relative to finishing gradients; lacks explosive power for final surge (2 instances)",
+    "Youth and ambition evident but execution lacks elite finishing capability on steepest sections"
+  ],
+  "form_trajectory": "negative: Abandoned Vuelta after early crash following promising second place finish, cutting short potential development trajectory",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "KUDUS Merhawi",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 5",
+    "2017 Tour of Oman Stage 5",
+    "2017 Vuelta a Espana Stage 5",
+    "2017 Vuelta a Espana Stage 7"
+  ]
+}

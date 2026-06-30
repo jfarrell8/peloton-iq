@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Does not typically attack; relies on sustained tempo climbing rather than explosive accelerations. Struggles to follow sharp accelerations on steep gradients (18%+), particularly when ramps exceed his power-to-weight threshold.",
+  "team_tactics": "Often deployed in breakaways that compromise GC position (Giro 2022), suggesting flexible team role between GC support and stage hunting. Limited high-mountain domestique support visible in observations.",
+  "terrain_preference": "Moderate gradient climbs where diesel tempo can be sustained. Exposed on ultra-steep ramps (18%+) and when explosive accelerations required. Best suited to grinding efforts rather than punchy finishes.",
+  "vulnerability": "Cannot respond to sharp accelerations from pure climbers on steep gradients. Power limitations become critical above 18% and on successive steep ramps. Lacks finishing kick when pushed to limit.",
+  "key_patterns": [
+    "Struggles specifically on steepest ramps 18%+ across multiple Grand Tours (2021, 2019)",
+    "Unable to follow explosive accelerations from lighter climbers despite strong base tempo (2019, 2018)",
+    "Deployed in breakaways suggesting secondary GC role or stage-hunting mandate (2022)",
+    "Shows resilience finishing efforts but lacks final acceleration when in contention (2018)"
+  ],
+  "form_trajectory": "neutral: 2022 Giro appearance in breakaway suggests maintained fitness but team tactics indicate stepped back from pure GC contention",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "KELDERMAN Bauke",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 9",
+    "2019 Paris-Nice Stage 7",
+    "2021 La Vuelta ciclista a Espana Stage 3",
+    "2022 Giro d'Italia Stage 12"
+  ]
+}

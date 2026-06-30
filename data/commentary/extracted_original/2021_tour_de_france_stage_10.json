@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-06",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won a crosswind-threatened stage via textbook Deceuninck-QuickStep leadout after POGACAR personally chased down late splits with 10km remaining.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange attempted sprint decimation tactics via accelerations before peloton crosswind splits, targeting Matthews positioning over pure leadout.",
+      "Yellow jersey POGACAR closed GC-threatening splits himself under 10km, revealing UAE lacks chase depth when crosswinds fragment peloton.",
+      "Deceuninck-QuickStep held position without pulling until 400m despite world champion ALAPHILIPPE available, extreme late commitment minimized energy expenditure."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: 33rd career stage win shows form still ascending mid-tour, not fatiguing",
+      "ALBRELLI Sonny": "negative: mechanical at critical crosswind moment exposes poor equipment luck and positioning when gruppetto protection unavailable",
+      "POGACAR Tadej": "neutral: personally closing splits 10km out indicates team weakness but individual strength reserves on flat stages",
+      "MORKOV Michael": "positive: leadout described as sublime textbook execution confirms elite positioning survives crosswind chaos"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:30:03.005328+00:00"
+}

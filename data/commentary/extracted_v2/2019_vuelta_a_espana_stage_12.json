@@ -1,0 +1,26 @@
+{
+  "label": "2019 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-05",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GUILLEBEAU Philippe won from breakaway after solo attack on final categorized climb with 3km remaining.",
+    "winner": "GUILLEBEAU Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo used Willie SCHMIDT as peloton disruptor on descent before breakaway established, creating chaos benefiting team's break representation.",
+      "ROGLIC group allowed breakaway composition to solidify without chase because GC threats were neutralized, revealing Jumbo-Visma comfort with status quo.",
+      "CONTI Valerio attacked conservatively on 12%+ climb despite UAE having no breakaway representation, showing team's risk-averse GC defense strategy.",
+      "GUILLEBEAU went solo 3km out on steep climb while chasers turned tactical, exploiting psychological hesitation in reduced breakaway group."
+    ],
+    "rider_signals": {
+      "SCHMIDT Willie": "neutral: BMX-style save on wet descent while disrupting peloton shows bike-handling but ultimately dropped from break he initiated",
+      "STANNARD Ian": "positive: Hagen repeatedly mentioned as 'revelation' in GC top-10 defense through Basque climbs suggests upgraded status",
+      "GUILLEBEAU Philippe": "positive: Kicked away from quality climbers on final 12%+ ascent with tactical acumen to attack before tactical stalemate developed",
+      "CONTI Valerio": "negative: Described as 'cagey' and 'ruthless but easygoing early' on key climb, suggesting overcautious riding cost breakaway position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:06:51.624241+00:00"
+}

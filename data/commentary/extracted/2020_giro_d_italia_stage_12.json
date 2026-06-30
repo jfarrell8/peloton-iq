@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-15",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NARVÁEZ escaped from a 14-rider break inside final 15km after PADUN suffered mechanical with broken front wheel, winning by 1:08.",
+    "winner": "NARVÁEZ Jhonatan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NTT isolated GC riders by sending SUNDERLAND pacing inside 50km, forcing POZZOVIVO's attack despite team isolation.",
+      "NARVÁEZ exploited PADUN mechanical at 15km to go rather than attacking directly, revealing breakaway patience beats aggression.",
+      "ALMEIDA's team cotton-wool tactics maintained 34s lead despite eight-minute loss, showing calculated stage abandonment for GC preservation."
+    ],
+    "rider_signals": {
+      "NARVÁEZ Jhonatan": "positive: Won tactical battle without needing to attack, showing maturity at 23 to wait for mechanical rather than force.",
+      "PADUN Mark": "negative: Broken front wheel on final climb cost probable stage win, but 9-second chase showed strong climbing legs.",
+      "POZZOVIVO Domenico": "negative: Attacked final climb despite team isolation, revealing desperation rather than strength, gained nothing on GC.",
+      "ALMEIDA João": "positive: Team-protected all stage, finished 8+ minutes down but defended 34s GC lead, showing tactical discipline.",
+      "ZAKARIN Ilnur": "negative: Lost significant time to GC group, dropping from top-10 contention.",
+      "PERNSTEINER Hermann": "negative: Lost significant time to GC group, indicating fade from earlier race position."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:23:57.708296+00:00"
+}

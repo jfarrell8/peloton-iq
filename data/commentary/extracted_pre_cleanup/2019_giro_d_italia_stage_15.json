@@ -1,0 +1,29 @@
+{
+  "label": "2019 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-26",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CATALDO Dario won from a 200km+ breakaway with CATTANEO Mattia, holding off NIBALI Vincenzo and CARAPAZ Richard who gained time after ROGLIČ Primož crashed/mechanicaled in the finale.",
+    "winner": "CATALDO Dario",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MITCHELTON SCOTT forced the pace for 40-50km before finale, setting up YATES Simon's attacks but fragmenting protection for others.",
+      "NIBALI Vincenzo exploited final climb descent attacking when ROGLIČ mechanical/crash created chaos, gaining crucial 40+ seconds on GC rivals.",
+      "YATES Simon attacked multiple times on final climb without waiting for coordination, collecting bonus seconds but not distancing CARAPAZ Richard.",
+      "ROGLIČ Primož lost 40s not from climbing weakness but mechanical/crash chaos amplified by BAHRAIN high pace stranding him behind."
+    ],
+    "rider_signals": {
+      "CATALDO Dario": "positive: survived 200km+ breakaway with 15min maximum gap, still had sprint power to win after aggressive pace-setting by peloton",
+      "ROGLIČ Primož": "negative: lost 40s to GC rivals through mechanical/crash bad luck during finale when BAHRAIN and others attacking, first time loss",
+      "NIBALI Vincenzo": "positive: recognized opportunity when ROGLIČ crashed, attacked on final climb he knows from Lombardia, descended aggressively to gain time",
+      "YATES Simon": "neutral: multiple attacks on final climb only yielded bonus seconds, moved to 8th GC but couldn't distance CARAPAZ",
+      "CARAPAZ Richard": "positive: marked all YATES attacks, followed NIBALI move, retained pink despite MITCHELTON SCOTT forcing all day",
+      "CATTANEO Mattia": "positive: stayed in 200km break with over 15min gap, led out sprint positioning despite ultimate second place",
+      "CARTHY Hugh": "neutral: attempted move on final climb but couldn't sustain gap against BAHRAIN counterattacks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:56:06.000911+00:00"
+}

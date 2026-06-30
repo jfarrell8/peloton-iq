@@ -1,0 +1,22 @@
+{
+  "label": "2018 Tour of Oman Stage 1",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-13",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COQUARD Bryan won the sprint after Vital Concept led out through the final turn, beating Cavendish by 4 seconds in a late-disrupted Quick-Step train",
+    "winner": "COQUARD Bryan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Vital Concept successfully hijacked sprint positioning through final turn against Quick-Step, demonstrating second-tier teams can disrupt leadouts in Oman finishes.",
+      "Quick-Step lost positioning control before final turn despite fronting earlier, suggesting cornerwork more critical than early commitment in these Gulf finishes."
+    ],
+    "rider_signals": {
+      "COQUARD Bryan": "positive: Vital Concept won positioning battle through final technical turn against better-resourced Quick-Step train",
+      "CAVENDISH Mark": "negative: Lost 4 seconds despite Quick-Step controlling earlier, indicating vulnerability when leadout breaks down in final 500m"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:37:40.551548+00:00"
+}

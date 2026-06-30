@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour of Oman Stage 5",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-18",
+  "stage": 5,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "HERMANS Ben attacked on Green Mountain final climb, held off charging ARU Fabio by 3 seconds to win and extend GC lead",
+    "winner": "HERMANS Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MORTON Lachlan used as domestique to launch early attack on Green Mountain, softening field before leader move.",
+      "KUDUS Merhawi attacked before race favorite HERMANS, serving as tactical foil that forced early GC response.",
+      "BMC waited until after breakaway caught and tempo attacks failed before unleashing HERMANS, preserving energy for decisive move.",
+      "BARDET Romain attempted two separate attacks on Green Mountain climb but couldn't sustain gap, showing climbing form weakness."
+    ],
+    "rider_signals": {
+      "HERMANS Ben": "positive: delivered pre-race climbing expectations on Green Mountain with perfectly timed attack, holding off superior climber ARU",
+      "ARU Fabio": "positive: fastest finisher on Green Mountain climb but tactical patience cost him stage win by 3 seconds",
+      "KUDUS Merhawi": "positive: white jersey showed willingness to attack GC favorites on decisive climb despite youth",
+      "MORTON Lachlan": "positive: executed classic domestique sacrifice attack to soften peloton before protected rider's move",
+      "BARDET Romain": "negative: two failed attacks on Green Mountain reveal inability to sustain accelerations against rested climbers",
+      "CHRISTIAN Mark": "negative: crashed while in breakaway hunting aggression points, losing classification opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:14:25.583403+00:00"
+}

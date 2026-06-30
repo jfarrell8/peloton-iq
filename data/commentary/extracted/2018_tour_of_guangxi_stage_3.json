@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour of Guangxi Stage 3",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-18",
+  "stage": 3,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the 9km straight sprint finish in wet conditions, taking the race lead with bonus seconds over GROENEWEGEN Dylan.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway contested both intermediate sprints hard for bonus seconds, unusual pattern revealing GC tension in short stage race format.",
+      "Quick-Step organized lead-out extremely early on final lap, exploiting wet roads to deter rival sprint trains from positioning.",
+      "DOULL Owain aggressively hunted intermediate sprint bonus seconds from breakaway, Sky prioritizing GC over stage hunting."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: seventh win in rookie season, taking race lead shows ability to execute under pressure in technical wet finishes",
+      "GROENEWEGEN Dylan": "negative: failed to finish top-3 despite being race leader and stage two winner, sprint form deteriorating",
+      "ACKERMANN Pascal": "neutral: second place confirms consistency but inability to convert against emerging rivals like Jakobsen",
+      "WALSCHEID Max": "neutral: third place finish shows Sun Web sprint depth but lacks final acceleration against Quick-Step train",
+      "VAN HOOYDONCK Nathan": "positive: contested intermediate sprints from breakaway aggressively, showing BMC developing classics rider's opportunism",
+      "DOULL Owain": "positive: won second intermediate sprint from break, Sky using experienced domestique to harvest GC bonus seconds creatively",
+      "SÜTTERLIN Jasha": "neutral: won first intermediate sprint from break before dropping back, Movistar using breakaway for sprint points harvesting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:43:07.653635+00:00"
+}

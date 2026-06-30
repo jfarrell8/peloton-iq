@@ -1,0 +1,32 @@
+{
+  "label": "2020 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2020-08-31",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won Stage 3 sprint to Sisteron from sixth position with 200m left, timing acceleration perfectly to beat BENNETT Sam.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EWAN Caleb deliberately held sixth/seventh position until 200m, demonstrating calculated late acceleration strategy despite headwind risk exposure.",
+      "PEREZ Anthony twice outsprinted COSNEFROY Benoît on climbs despite COSNEFROY sitting on his wheel, revealing physical superiority matters when drafting advantage exists.",
+      "COSNEFROY Benoît counter-attacked immediately after breakaway return despite teammate COUSIN Jérôme holding 3:40 gap, showing AG2R's tactically confused mountain jersey chase.",
+      "Lotto Soudal delivered EWAN to sprint without GILBERT Philippe leadout after losing two riders Stage 1, proving team depth substitution works short-term."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: won from extremely far back (6th/7th at 200m) suggesting sprint speed margin allows tactical patience most sprinters cannot risk",
+      "BENNETT Sam": "positive: secured clear sprint lane and second place, indicating positioning discipline superior to pure speed on windy finishes",
+      "SAGAN Peter": "neutral: present in sprint finale but commentary notes distance to make up, suggesting positioning rather than legs limited result",
+      "NIZZOLO Giacomo": "neutral: held perfect dead-center position but no result mentioned, implying final 200m acceleration insufficient despite tactical positioning",
+      "TRENTIN Matteo": "neutral: mentioned alongside EWAN at finish but no placement given, suggesting close but not podium sprint",
+      "VIVIANI Elia": "negative: passed by VALGREN Michael on inside at line after earlier position, showing either fading or poor line choice",
+      "PEREZ Anthony": "positive: won two categorized climbs against COSNEFROY despite tactical disadvantage, now virtual KOM leader showing climbing strength exceeds sprinter profile",
+      "COSNEFROY Benoît": "negative: despite sitting on PEREZ wheel twice lost both climbs, then attacked with teammate already clear, revealing poor tactical decision-making",
+      "COUSIN Jérôme": "neutral: held 3:40 breakaway gap while COSNEFROY attacked from peloton, highlighting team communication breakdown at AG2R",
+      "ALAPHILIPPE Julian": "neutral: retained yellow but commentary questions summit finish ability tomorrow with only seconds buffer, suggesting vulnerability recognized by analysts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:37:18.125653+00:00"
+}

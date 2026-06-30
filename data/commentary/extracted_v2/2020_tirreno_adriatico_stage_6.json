@@ -1,0 +1,24 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 6",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-12",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won the coastal sprint on Stage 6, perfectly timing his acceleration to hold off ACKERMAN and CORT after GAVIRIA launched first.",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Gaviria launching first from distance failed as Merlier held position and timed late acceleration better under 200m.",
+      "Lot Soudal paced aggressively under 1km to delay Hagen's catch, maximizing teammate breakaway exposure despite inevitable failure.",
+      "Israel Start-Up Nation controlled final kilometer more than Deceuninck-QuickStep despite having two white-blue riders in position."
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: Recovered from Stage 1 crash to win perfectly-timed sprint, first WorldTour victory suggests adaptation to higher level",
+      "GAVIRIA Fernando": "negative: Launching sprint from too far out allowed Merlier to time pass perfectly in final meters",
+      "HAGEN Carl Frederick": "neutral: 160km solo breakaway effort after companions dropped shows professional commitment but tactically futile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:21:23.111184+00:00"
+}

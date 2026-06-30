@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Excels in uphill sprint finishes (gradients 7-8.3%) and from breakaways, particularly when teammates create selection on uncategorized rises 12-15km out. Can threaten from 100km+ breakaways in Classics when race fractures early.",
+  "team_tactics": "Trek-Segafredo/Lidl-Trek controls via hard pace over lumpy/mountain terrain to shed pure sprinters while preserving Pedersen. Uses aggressive pre-finish positioning and teammate tactical sacrifices to create final selections rather than traditional leadout trains.",
+  "terrain_preference": "Gradient-finish sprints (7-8.3% ramps) and lumpy circuits where climbing capacity eliminates faster pure sprinters. Crosswind-susceptible stages where peloton splits early. Thrives when race difficulty creates reduced bunch sprints.",
+  "vulnerability": "Mountain stages where cumulative climbing overwhelms sprint position (drops on sustained climbs, must regain contact). Form peaks mid-race rather than finale in Grand Tours, suggesting difficulty maintaining top-end sprint speed into final week.",
+  "key_patterns": [
+    "Wins uphill sprints on 7-8.3% gradients where pure sprinters eliminated (4 observations)",
+    "Team uses aggressive pace over lumpy terrain to shed sprinters rather than leadout (5 observations)",
+    "Tactical flexibility: infiltrates mountain breakaways for points classification strategy (2 observations)",
+    "Survives lumpy/undulating stages better than faster sprinters via climbing capacity (6 observations)",
+    "Form improves through first two weeks of Grand Tours, peaks mid-race (3 observations)",
+    "Effective without traditional leadout on chaotic finishes, self-sufficient positioning (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 results show continued uphill sprint success (TDF stage win, Flanders 4th) but fewer observations than dominant 2022 Vuelta green jersey campaign suggest inconsistent deployment or race selection",
+  "races_analysed": 15,
+  "confidence": "high",
+  "rider_name": "PEDERSEN Mads",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2022 La Vuelta ciclista a Espana Stage 13",
+    "2022 La Vuelta ciclista a Espana Stage 16",
+    "2022 La Vuelta ciclista a Espana Stage 16",
+    "2022 La Vuelta ciclista a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 2",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2022 La Vuelta ciclista a Espana Stage 4",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2022 Paris-Nice Stage 3",
+    "2022 Paris-Nice Stage 3",
+    "2022 Tour de France Stage 13",
+    "2022 Tour de France Stage 13",
+    "2023 Giro dItalia Stage 3",
+    "2023 Paris-Nice Stage 2",
+    "2023 Ronde van Vlaanderen - Tour des Flandres",
+    "2023 Tour de France Stage 8",
+    "2023 Tour de France Stage 8"
+  ]
+}

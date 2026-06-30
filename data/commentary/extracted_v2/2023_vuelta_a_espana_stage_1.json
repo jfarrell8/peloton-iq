@@ -1,0 +1,23 @@
+{
+  "label": "2023 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MILESIN Lorenzo and DSM won the TTT starting second on course in pitch-black rain conditions, holding off Movistar by 0.05 seconds to fifth rider.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM starting second of 22 teams set unbeatable time in optimal twilight window before pitch-black darkness descended.",
+      "Movistar lost by 0.05s to fifth rider, suggesting final sprint coordination cost them leader's jersey.",
+      "Multiple teams crashed in identical corner sequence near finish, indicating specific technical feature not broadcast warnings."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: finished 6s down, gestured furiously at cameras about darkness/conditions indicating mental fragility under adverse circumstances",
+      "MAS Enrique": "positive: sprinted desperately for fifth rider time at line showing Movistar prioritized stage win over safety",
+      "HOFSTETTER Hugo": "negative: attempted inside pass on own teammate in corner causing crash, revealing poor TTT discipline"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:04:34.948172+00:00"
+}

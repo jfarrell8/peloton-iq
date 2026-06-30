@@ -1,0 +1,27 @@
+{
+  "label": "2022 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SOLER Marc attacked solo from breakaway on categorized climbs, overcame 51-second deficit after bridging, won Stage 5 into Bilbao.",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SOLER Marc bridged 51 seconds after breakaway established, showing UAE freed him from Movistar domestique constraints.",
+      "Breakaway establishment took excessive time, signaling GC teams anticipated stage breakaway-friendly despite finish climb.",
+      "MOLARD Rudy took red jersey from breakaway despite UAE presence, suggesting JUMBO-VISMA tolerates calculated jersey responsibility to rivals.",
+      "Alto de Bilbao finishing climb (4.6km at 8%) climbed twice but decided nothing, revealing gradient insufficient for GC separation."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "positive: all-or-nothing rider with extreme form variance, but when on can bridge significant gaps solo on categorized climbs",
+      "MOLARD Rudy": "positive: took red jersey from breakaway, only 2 seconds ahead of WRIGHT Fred suggests team may prioritize stage hunting over jersey defense",
+      "ROGLIC Primoz": "neutral: relinquished red jersey to breakaway without contest, JUMBO-VISMA showing willingness to shed early race leadership burden",
+      "HAYTER Ethan": "neutral: maintained white jersey and third overall without incident, first GC mountain test produced no weakness signals",
+      "IMPEY Daryl": "positive: repeatedly dropped on climbs but fought back to breakaway for second place, diesel durability over explosive climbing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:56:39.814418+00:00"
+}

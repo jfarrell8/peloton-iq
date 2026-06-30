@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Launches long-range solo attacks from breakaways at 2km to go, exploiting technical course features (roundabouts, corners) that favor power over pure sprint speed. Timing often premature when in peloton scenarios.",
+  "team_tactics": "Team (Dimension Data) provides front positioning for sprints, but rider struggles to capitalize, often wasting lead-out work with ill-timed accelerations above final kilometer.",
+  "terrain_preference": "Technical finales with roundabouts/corners requiring sustained power rather than explosive acceleration. Flat to rolling parcours; struggles on any meaningful climbing.",
+  "vulnerability": "Declining climbing ability evident when dropped from breakaways before final climbs. Prone to tactical errors with premature accelerations that waste energy and team positioning.",
+  "key_patterns": [
+    "Attacks solo from breakaways at ~2km, using power-endurance hybrid advantage (2 instances)",
+    "Premature accelerations in bunch sprints compromise positioning and waste energy (2 instances)",
+    "Drops from groups on climbs despite breakaway presence, suggesting weak climbing (2 instances)",
+    "Exploits technical course features requiring sustained power over pure speed (2 instances)"
+  ],
+  "form_trajectory": "negative: 2019 observations show declining climbing capacity and repeated tactical errors compared to stronger 2017 performances",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BOASSON HAGEN Edvald",
+  "built_from": [
+    "2017 Tour de France Stage 19",
+    "2017 Tour de France Stage 19",
+    "2017 Tour de France Stage 7",
+    "2019 Tour de France Stage 21",
+    "2019 Tour de France Stage 21",
+    "2019 Tour de France Stage 5",
+    "2019 Tour de France Stage 9"
+  ]
+}

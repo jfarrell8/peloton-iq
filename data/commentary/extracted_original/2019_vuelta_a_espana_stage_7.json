@@ -1,0 +1,29 @@
+{
+  "label": "2019 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-30",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VALVERDE attacked with 200m remaining on 12% Mas de la Costa after QUINTANA set pace for him, dropped ROGLIC/LOPEZ by 6 seconds",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma used KUSS then BENNETT sequential pacing to isolate ROGLIC, indicating deep climbing domestique strength even on brutal gradients.",
+      "QUINTANA paced for VALVERDE on steepest section despite being quoted as saying Valverde was sole leader, revealing Movistar's actual hierarchy.",
+      "The final 12%+ gradient selected down to precisely 4 riders midway up, showing that super-steep finishes create earlier selection than moderate gradients.",
+      "Movistar set tempo from penultimate climb through base of final wall, suggesting they preferred attrition over late attacks against Roglic."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: at 39 demonstrated superior acceleration on 12%+ gradient with 200m to go, confirming he peaks on super-steep pitches",
+      "QUINTANA Nairo": "negative: worked for Valverde despite comparable form, losing 6 seconds while domestiquing reveals team tactics cost him GC position",
+      "ROGLIC Primoz": "neutral: matched top-3 until final 200m but couldn't respond to Valverde's kick on 18% maximum sections",
+      "KUSS Sepp": "positive: set early tempo on 12% climb putting most GC riders in trouble, confirming pure climbing strength at altitude",
+      "POGACAR Tadej": "negative: finished 20+ seconds behind top-4 with Majka group, suggesting not yet at Grand Tour GC contention level in 2019",
+      "TEUNS Dylan": "negative: dropped on penultimate climb despite holding race lead, revealing one-day climber limitations on consecutive MTF stages",
+      "ARU Fabio": "positive: limited losses and fought back to finish with Pogacar group after two difficult years, indicating form recovery trajectory"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:22:07.815511+00:00"
+}

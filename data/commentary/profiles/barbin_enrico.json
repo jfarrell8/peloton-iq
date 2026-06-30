@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway rider focused on KOM jersey accumulation rather than stage victories. Attacks early to enter breaks positioned for intermediate and summit sprint points.",
+  "team_tactics": "Minimal visible team support; operates independently in breaks. Team allows him freedom to chase minor classification rather than supporting GC or sprint objectives.",
+  "terrain_preference": "Categorized climbs where KOM points are available, regardless of difficulty. Prioritizes point-scoring opportunities over terrain that suits pure stage-winning.",
+  "vulnerability": "Willing to expend disproportionate energy defending minor jersey positions. Can be forced into defensive racing by rivals contesting same points, draining resources without stage reward.",
+  "key_patterns": [
+    "Immediately joins breakaways when KOM jersey defense required, overriding energy conservation (2 instances)",
+    "Contests intermediate KOM sprints aggressively when defending jersey lead (2 instances)",
+    "Prioritizes category jersey tactics over stage ambitions in tactical decisions (2 instances)"
+  ],
+  "form_trajectory": "neutral: Successfully executing KOM jersey strategy but showing willingness to expend energy for low-value points suggests tactical focus rather than peak competitive form",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BARBIN Enrico",
+  "built_from": [
+    "2018 Giro d'Italia Stage 3",
+    "2018 Giro d'Italia Stage 3",
+    "2018 Giro d'Italia Stage 4"
+  ]
+}

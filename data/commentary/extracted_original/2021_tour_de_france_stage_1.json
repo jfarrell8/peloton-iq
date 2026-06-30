@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-26",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian attacked with over 2km to go on the uphill finish in Landerneau, soloing to victory after Deceuninck led out in final 30km",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-QuickStep controlled final 30km despite having sprinter Bennett, prioritizing GC jersey over stage win protection",
+      "ALAPHILIPPE attacked beyond 2km on uphill finish, exploiting that GC favorites waited too long to respond",
+      "SCHELLING Ide went solo at 85km for KOM jersey while peloton ignored him, revealing teams underestimated breakaway timing"
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: attacked with unusual distance remaining (2km+) on punchy finish and held power advantage over GC contenders",
+      "DEVENYNS Dries": "positive: strong leadout work suggests Deceuninck had multiple GC jersey strategies prepared beyond Bennett sprint",
+      "LATOUR Pierre": "neutral: chased ALAPHILIPPE for Total Direct Energie but lacked acceleration to close on steep gradient",
+      "FROOME Chris": "negative: caught in second crash inside final kilometers, suggests positioning struggles after long absence",
+      "SUTTON Yates": "negative: abandoned after first major crash, indicating immediate Tour elimination risk from early peloton chaos"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:29:52.039883+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Bunch sprint specialist who capitalizes on flat stage finales. Demonstrates patience to contest organized mass sprint finishes rather than attacking early.",
+  "team_tactics": "Insufficient data to establish clear team lead-out patterns across multiple races. Single observation shows ability to finish without visible dedicated train.",
+  "terrain_preference": "Flat sprint stages at Tour de Pologne where race familiarity provides tactical advantage. Limited evidence for performance on other terrain types.",
+  "vulnerability": "Unknown vulnerabilities due to limited dataset. No observations of climbing, time trial, or varied sprint scenarios to identify weaknesses.",
+  "key_patterns": [
+    "Exceptional Tour de Pologne specialist: 12 career stage wins demonstrates sustained success at this race.",
+    "Pure sprinter profile: wins from bunch kicks rather than breakaway or reduced group scenarios."
+  ],
+  "form_trajectory": "unknown: single 2017 observation insufficient to determine trajectory despite positive result at familiar race",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MYLETSKYY Jakob",
+  "built_from": [
+    "2017 Tour de Pologne Stage 3",
+    "2017 Tour de Pologne Stage 3"
+  ]
+}

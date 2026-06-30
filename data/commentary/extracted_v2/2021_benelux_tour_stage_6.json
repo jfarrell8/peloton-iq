@@ -1,0 +1,26 @@
+{
+  "label": "2021 Benelux Tour Stage 6",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-04",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint after echelon racing in crosswinds shredded the peloton and significantly reduced the breakaway's advantage mid-stage",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Crosswind echelons in countryside systematically destroyed breakaway advantage from 3:45 down, revealing UAE/Ineos wind vigilance protected GC.",
+      "MORKOV Michael delivered BENNETT perfectly inside 200m twice this race, establishing Deceuninck sprint train dominance pattern.",
+      "ACKERMANN Pascal caught behind echelons required significant energy chase, compromising his sprint finish to only third despite regaining contact."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Two-from-two in sprint stages suggests superior form and positioning over higher-ranked sprinters like Ewan",
+      "DEKKER David": "neutral: Fourth place but gained green jersey on points, indicating consistent top-5 finishes trump outright wins",
+      "EWAN Caleb": "negative: Zero wins despite being primary threat suggests either team leadout failures or positioning errors in crucial final kilometer",
+      "ACKERMANN Pascal": "negative: Caught behind crosswinds and requiring chase effort reveals vulnerability to echelon racing, compromising sprint legs",
+      "POGACAR Tadej": "positive: UAE Emirates actively pacemaking in crosswinds on flat sprint stage shows unusual GC protection vigilance with 45-second lead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:33:55.697298+00:00"
+}

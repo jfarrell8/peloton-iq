@@ -1,0 +1,29 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-11",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE won from a select group on the uphill finish at Camaiore after ALMEIDA's 30km attack with 12s gap nearly succeeded but was caught inside final kilometer.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BERNAL attacked early signaling Ineos' aggressive new racing style, forcing defensive response from non-climbing sprinters immediately.",
+      "ALMEIDA's 30km solo effort with teammate ALAPHILIPPE in chase group is classic Deceuninck quick-step sacrifice-decoy tactic.",
+      "VAN DER POEL launched too late (inside 50m) on uphill sprint, revealing poor positioning discipline cost him stage.",
+      "ASGREEN and ŠTYBAR provided extended leadout for ALAPHILIPPE through technical climb, showing Deceuninck commits multiple domestiques to medium-mountain finishes."
+    ],
+    "rider_signals": {
+      "ALMEIDA João": "positive: sustained 30km breakaway with 12s gap nearly successful, showing exceptional diesel engine for future long-range moves",
+      "YATES Simon": "negative: went backwards when ALMEIDA pressed on climb, surprisingly weak for defending champion on grippy terrain",
+      "VAN DER POEL Mathieu": "neutral: strong enough for second but positioning error left sprint launch too late inside 50m",
+      "ALAPHILIPPE Julian": "positive: perfectly timed sprint using teammate's leadout, clinical execution on uphill finish reveals strong climbing sprint form",
+      "SIVAKOV Pavel": "neutral: in late break but caught, showing willingness to attack but insufficient power on this terrain",
+      "VAN AERT Wout": "positive: defended leader's jersey with 4-second margin, showing strong positioning discipline throughout grippy finale",
+      "BERNAL Egan": "positive: initiated early aggressive move signaling Ineos tactical shift, forcing field to react defensively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:05:32.289651+00:00"
+}

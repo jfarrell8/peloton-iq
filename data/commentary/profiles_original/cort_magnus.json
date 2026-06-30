@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who wins from reduced groups rather than solo efforts, typically timing final sprint in last 200m from small selections. Prefers controlled breakaway sprints to long-range attacks.",
+  "team_tactics": "Minimal team support visible; relies on opponent teams exhausting themselves in chase (UAE, Movistar examples). Benefits from chaotic race situations and peloton disorganization rather than controlled lead-outs.",
+  "terrain_preference": "Uphill sprint finishes and rolling terrain where reduced groups form naturally. Exposed on sustained climbs above 7% gradient where weight becomes limiting factor. Excels in breakaway scenarios on flat-to-rolling stages.",
+  "vulnerability": "Sustained climbing above 7% grade exposes weight/power limitations (Paris-Nice 7.1% evidence). Lacks explosive punch for pure punchy finishes when fresh contenders present (Bosberg). Needs disorganized peloton or exhausted opponents.",
+  "key_patterns": [
+    "Wins from small breakaway groups (4-riders or reduced selections) not solo efforts: 4 instances",
+    "Exceptional sprint timing in final 200m from slipstream position, repeated execution across years",
+    "Thrives when weather chaos or team exhaustion disrupts organized chase: 3 documented cases",
+    "Mental resilience: won day after losing in final meters, repeated KOM efforts show persistence",
+    "Early breakaway participant collecting KOM points when peloton permits: 6 consecutive wins documented"
+  ],
+  "form_trajectory": "neutral: Mixed 2023 signals—won from chaos/breakaway (consistent pattern) but yellow jersey exposed climbing weakness at 7%. Weight/climbing trade-off unchanged from previous seasons.",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "CORT Magnus",
+  "built_from": [
+    "2020 Omloop Het Nieuwsblad",
+    "2021 La Vuelta ciclista a Espana Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2022 Tour de France Stage 10",
+    "2022 Tour de France Stage 10",
+    "2022 Tour de France Stage 3",
+    "2023 Giro dItalia Stage 10",
+    "2023 Paris-Nice Stage 3",
+    "2023 Paris-Nice Stage 3",
+    "2023 Paris-Nice Stage 4"
+  ]
+}

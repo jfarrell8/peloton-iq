@@ -1,25 +1,37 @@
 {
-  "attacking_style": "Launches long-range solo attacks from breakaways at 2km to go, exploiting technical course features (roundabouts, corners) that favor power over pure sprint speed. Timing often premature when in peloton scenarios.",
-  "team_tactics": "Team (Dimension Data) provides front positioning for sprints, but rider struggles to capitalize, often wasting lead-out work with ill-timed accelerations above final kilometer.",
-  "terrain_preference": "Technical finales with roundabouts/corners requiring sustained power rather than explosive acceleration. Flat to rolling parcours; struggles on any meaningful climbing.",
-  "vulnerability": "Declining climbing ability evident when dropped from breakaways before final climbs. Prone to tactical errors with premature accelerations that waste energy and team positioning.",
+  "attacking_style": "Attacks from breakaways at 1-2km to go, exploiting technical features (roundabouts, corners) with superior route choice and power. Loses effectiveness in pure sprints when launching too early.",
+  "team_tactics": "Chronically suffers from leadout dysfunction across multiple teams (Astana, NTT, Dimension Data, Lotto-Jumbo) — either burned too early, collapsed entirely, or forced to freelance independently in finales.",
+  "terrain_preference": "Excels on selective, classics-style terrain with reduced sprints after attrition. Technical finales with corners/roundabouts suit his route-reading ability. Struggles on flat pure sprints and long climbs where dropped before selections.",
+  "vulnerability": "Launch timing deteriorates over three-week races (fading to 5th after 21 stages). Isolated when team tactics fail. Pure sprinters beat him when he launches prematurely from desperation or poor positioning.",
   "key_patterns": [
-    "Attacks solo from breakaways at ~2km, using power-endurance hybrid advantage (2 instances)",
-    "Premature accelerations in bunch sprints compromise positioning and waste energy (2 instances)",
-    "Drops from groups on climbs despite breakaway presence, suggesting weak climbing (2 instances)",
-    "Exploits technical course features requiring sustained power over pure speed (2 instances)"
+    "Wins from breakaways using technical course knowledge, not bunch sprints (2017 TdF, 2019 Dauphiné victories).",
+    "Team leadout failures across four different squads forces frequent freelancing (2023, 2020, 2018, 2017 observations).",
+    "Retains explosive kick on hillier selective sprints, lacking endurance for pure flat speed (2019 Dauphiné, 2017 TdF).",
+    "Grand Tour fatigue visible: early launches and fading finishes after prolonged stage racing efforts.",
+    "Sub-1km technical attacks most effective weapon, exploiting corners and route choice over raw power."
   ],
-  "form_trajectory": "negative: 2019 observations show declining climbing capacity and repeated tactical errors compared to stronger 2017 performances",
-  "races_analysed": 5,
-  "confidence": "medium",
+  "form_trajectory": "negative: No wins since 2019, reduced to lead-out role by 2023, repeated references to declining punch and tactical desperation across recent years",
+  "races_analysed": 13,
+  "confidence": "high",
   "rider_name": "BOASSON HAGEN Edvald",
   "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
     "2017 Tour de France Stage 19",
     "2017 Tour de France Stage 19",
+    "2017 Tour de France Stage 6",
+    "2017 Tour de France Stage 6",
     "2017 Tour de France Stage 7",
+    "2018 Tour de Pologne Stage 2",
+    "2018 Tour de Pologne Stage 2",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Criterium du Dauphine Stage 2",
+    "2019 Criterium du Dauphine Stage 5",
     "2019 Tour de France Stage 21",
     "2019 Tour de France Stage 21",
-    "2019 Tour de France Stage 5",
-    "2019 Tour de France Stage 9"
+    "2019 Tour de France Stage 9",
+    "2020 Tour de France Stage 11",
+    "2022 Tour de France Stage 5",
+    "2023 Tour de France Stage 3"
   ]
 }

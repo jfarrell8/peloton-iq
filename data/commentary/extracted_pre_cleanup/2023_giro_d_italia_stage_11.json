@@ -1,0 +1,29 @@
+{
+  "label": "2023 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won from a reduced sprint after late break caught at 5km, surviving chaos that eliminated GEOGHEGAN HART Tao from GC contention.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Caja Rural accelerated late to thin sprinter field for selective finish, separating weaker fast-finishers before final 30km.",
+      "Breakaway survived until 5km despite multiple sprint teams chasing, suggesting coordination issues or strategic miscalculation among leadout trains.",
+      "MILAN Jonathan extending points lead via intermediate sprint while in peloton shows calculated energy management over pure stage hunting.",
+      "ACKERMANN Pascal winning with minimal team support (only GIBBONS helping) reveals UAE leadout weakness compared to solo positioning skill."
+    ],
+    "rider_signals": {
+      "GEOGHEGAN HART Tao": "negative: Eliminated from Giro on wet descent crash at 78km remaining, was sitting third overall before abandonment.",
+      "THOMAS Geraint": "neutral: Crashed on same descent but continued, retains maglia rosa by 2 seconds despite losing key teammate.",
+      "ROGLIC Primoz": "neutral: Also crashed on wet descent but damage contained, now second at 2 seconds having survived attrition.",
+      "GROVES Kaden": "negative: Suffering illness again before late-race crash, showing vulnerability in consecutive sprint opportunities.",
+      "MILAN Jonathan": "positive: Won intermediate sprint against PEDERSEN Mads while conserving energy, extends ciclamino lead with tactical maturity.",
+      "ACKERMANN Pascal": "positive: First Giro win since 2019 despite essentially zero team support, outsprinted MILAN in photo finish.",
+      "CAVENDISH Mark": "positive: Third place shows strong form returning, positioned brilliantly despite reduced sprint train support."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:01:10.400951+00:00"
+}

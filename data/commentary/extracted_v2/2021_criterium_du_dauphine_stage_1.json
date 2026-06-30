@@ -1,0 +1,27 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-05-30",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN MOERE Brent won solo from the breakaway with 4+ seconds over the field sprint after Bahrain miscalculated chase effort in middle kilometers",
+    "winner": "VAN MOERE Brent",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain exhausted themselves chasing mid-distance, couldn't maintain pace to catch lone leader despite dominating final sprint for second.",
+      "UAE's McNulty had mechanical inside 35km suggesting domestique work compromised when critical climbing/pacing support disappeared.",
+      "GARRISON Ian pulled back from breakaway by Deceuninck to support Jakobsen, revealing team abandoned sprint ambitions when leaders dropped early.",
+      "Multiple sprinters (Jakobsen, Pedersen) dropped on Cat-3/4 climbs with 37km remaining, indicating finale profile filters traditional sprint teams."
+    ],
+    "rider_signals": {
+      "VAN MOERE Brent": "positive: 23yo Belgian dominated all KOM points then soloed to biggest career win, suggesting climbing depth beyond expectations",
+      "COBRELLI Sonny": "neutral: destroyed field sprint for 2nd but Bahrain's chase pacing strategy failure cost stage win despite having fastest finisher",
+      "JAKOBSEN Fabio": "negative: dropped with 37km on Cat-3 finish circuit, couldn't handle even moderate climbing in finale",
+      "KRISTOFF Alexander": "negative: UAE worked for him but dropped on climbs, wasted domestique support from McNulty",
+      "FROOME Chris": "negative: commentary noted season form inadequate to earn teammate support at Tour, suggesting visible struggles continue"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:34:20.368175+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-15",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "RODRIGUEZ Carlos attacked over top of Col du Plan with 5-second descent gap, held off POGACAR and VINGEGAARD who watched each other instead of chasing.",
+    "winner": "RODRIGUEZ Carlos",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma burned domestiques on penultimate climb, forcing Yates/Bilbao to chase back, pre-weakening rivals before final ascent.",
+      "POGACAR attacked 3.7km from summit but VINGEGAARD refused to work, sitting on wheel enabled RODRIGUEZ escape.",
+      "RODRIGUEZ exploited GC stalemate by attacking immediately over summit, converting 5-second gap through superior descending skills.",
+      "Bonus seconds at summit (8-5-2) created tactical dilemma: POGACAR forced to lead out sprint, gifting VINGEGAARD positioning advantage."
+    ],
+    "rider_signals": {
+      "RODRIGUEZ Carlos": "positive: First foreign win converts to Alpine stage victory, descending superiority over GC favorites suggests underrated podium threat",
+      "PIDCOCK Tom": "negative: Struggled to hold contact on penultimate climb despite top-10 GC position, fading from overall contention",
+      "YATES Simon": "negative: Required teammate Harper rescue after Jumbo pacing, gap suggests insufficient form for podium defense",
+      "HINDLEY Jai": "neutral: Lost podium spot by one second to Rodriguez, held GC group but showed no attacking capacity",
+      "BILBAO Pello": "negative: Dropped on penultimate climb, confirming top-5 GC ceiling against Jumbo attrition tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:20:16.849759+00:00"
+}

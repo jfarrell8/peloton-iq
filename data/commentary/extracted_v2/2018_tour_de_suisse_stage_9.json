@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Suisse Stage 9",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-17",
+  "stage": 9,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PORTE Richie won Tour de Suisse GC after strong individual time trial on Stage 9, holding off resurgent FUGLSANG Jakob by 1:02.",
+    "winner": "PORTE Richie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FUGLSANG jumped from outside podium to 2nd overall via TT, clawing back Astana's 75-second team time trial deficit.",
+      "BMC's team cohesion facing sponsor loss translated to synchronized domestique support, with KÜNG and VAN AVERMAET sacrificing individual results.",
+      "QUINTANA lost 2nd place via 55-second TT deficit to PORTE, exposing vulnerability heading into Tour de France time trials."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: Won Dauphiné last year, now 2nd at Suisse via exceptional TT form—pattern suggests peaks at Tour warm-up races, not Tour itself.",
+      "ANDERSON Søren Kragh": "positive: 23-year-old finished 2nd in 35km TT after stage win earlier—Sunweb developing another high-wattage all-rounder like DUMOULIN.",
+      "MATTHEWS Michael": "positive: 4th place in 35km TT shocked analysts given sprinter profile—suggests unrealized potential in longer time trials versus prologues.",
+      "LANDA Mikel": "negative: Crumbled in final stages, 86th in TT—either sandbagging for Tour or genuinely off-form, concerning for Movistar's three-pronged strategy.",
+      "QUINTANA Nairo": "negative: Dropped to 3rd overall, 38th in TT—Tour cobbles and multiple TTs will compound this weakness against in-form rivals."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:36:20.651104+00:00"
+}

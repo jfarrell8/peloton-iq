@@ -1,0 +1,27 @@
+{
+  "label": "2020 Ronde van Vlaanderen",
+  "race_name": "Ronde van Vlaanderen",
+  "race_date": "2020-10-18",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won by a quarter bike length over VAN AERT Wout after both survived ALAPHILIPPE's race-splitting attack before the Paterberg",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE attacked on climbs before final Paterberg specifically to shed VAN AERT/VAN DER POEL, cracking peloton but crashed on motorbike.",
+      "VAN AERT mysteriously dropped through peloton mid-race but recovered explosively, suggesting mechanical or tactical repositioning rather than weakness.",
+      "VAN DER POEL deliberately waited beyond 300m to go despite time advantage, judging sprint distance psychology against VAN AERT perfectly.",
+      "BETTIOL and major favorites caught out by ALAPHILIPPE's timing on earlier hellingen, revealing World Champion's attack placement fragmented even prepared teams."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: had race-winning form and attacked strategically to isolate VAN AERT/VAN DER POEL but crashed into motorbike before finale",
+      "VAN AERT Wout": "positive: recovered from mid-race positional crisis to contest sprint, showing resilience but quarter-wheel margin suggests VAN DER POEL has edge",
+      "VAN DER POEL Mathieu": "positive: controlled finale wait to 200m despite time advantage shows sophisticated sprint timing against world-class opponent",
+      "BETTIOL Alberto": "negative: completely wrong-footed by ALAPHILIPPE's attack sequence despite being defending champion",
+      "KRISTOFF Alexander": "neutral: salvaged third from distance but never in contention when race split on climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:19:47.011362+00:00"
+}

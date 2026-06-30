@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches repeated attacks on climbs to force selections, showing willingness to go multiple times rather than a single decisive move. Aggressive climber who attacks from distance rather than waiting for final kilometers.",
+  "team_tactics": "Primarily used as a high-tempo domestique for team leaders, capable of extended pacemaking on mountain stages. Has experienced team tactical conflicts where teammates in chase groups neutralized his own attacks.",
+  "terrain_preference": "Climbs suit him best where he can leverage superior climbing strength to force selections. Most effective on stages with multiple ascents allowing repeated acceleration attempts.",
+  "vulnerability": "Struggles to create decisive gaps even when strongest climber present; companions can mark attacks. Unable to capitalize on superior form when forced into team work role rather than personal ambitions.",
+  "key_patterns": [
+    "Multiple attacks on climbs to split race, aggressive selection-forcing style (2 races)",
+    "Strong climbing form but lacks finishing power to drop marked opponents (2 observations)",
+    "Sacrifices personal chances for team pacemaking duties, extended tempo work (2 observations)"
+  ],
+  "form_trajectory": "unknown: last observation from 2022 showed exceptional domestique form, but 3-year gap and no recent finishing data limits assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DEPLUS Laurens",
+  "built_from": [
+    "2019 BinckBank Tour Stage 4",
+    "2019 BinckBank Tour Stage 4",
+    "2022 Tour de Romandie Stage 1"
+  ]
+}

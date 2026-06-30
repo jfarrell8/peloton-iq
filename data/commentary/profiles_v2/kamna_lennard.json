@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Specialized breakaway rider who attacks on steep gradients (20%+) with 5-8km remaining on final climbs. Early career showed unexpected sprint finishing speed in reduced groups, but evolved into solo tempo-based efforts rather than explosive accelerations.",
+  "team_tactics": "Dual role: breakaway hunter in Grand Tours and GC domestique for team leaders (notably Hindley). Team provides sustained support when defending positions, but often leaves him autonomous in breakaways to conserve resources for protected riders.",
+  "terrain_preference": "Extreme gradient walls (20-23%) and time trials suit his tempo-grinding style. Struggles on minor climbs and rolling circuits where explosive accelerations are required. Time trialing became secondary specialization beyond original climbing pedigree.",
+  "vulnerability": "Poor form manifests as being distanced on minor climbs despite protected status. Makes tactical errors timing attacks (attacked 8km out on downhill in 2022). Requires significant team support to defend small time gaps, vulnerable when isolated.",
+  "key_patterns": [
+    "Completes Grand Tour stage win set through breakaway specialization across all three races (2023 Vuelta, prior wins).",
+    "Evolved from sprint-finishing climber (2017) to tempo-based time trial specialist (2023 third in TT).",
+    "Form issues in 2023: dropped on minor climbs, absent from suitable finales, required excessive team support.",
+    "Tactical misjudgments on attack timing: downhill attack 8km out failed, but 4.8km wall attack succeeded.",
+    "Stage 20 domestique work for GC riders shows Bora prioritizes team success over individual opportunities."
+  ],
+  "form_trajectory": "negative: 2023 shows clear form deficit with gruppetto finishes, being dropped on minor climbs, and absence from suitable breakaway opportunities despite 2023 Vuelta win coming when GC neutralized at 2km",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "KAMNA Lennard",
+  "built_from": [
+    "2017 Giro d'Italia Stage 15",
+    "2017 Giro d'Italia Stage 15",
+    "2020 Criterium du Dauphine Stage 4",
+    "2020 Criterium du Dauphine Stage 4",
+    "2022 Giro d'Italia Stage 17",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Tour de France Stage 10",
+    "2023 Giro d'Italia Stage 3",
+    "2023 Giro dItalia Stage 3",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 Tirreno-Adriatico Stage 1",
+    "2023 Tirreno-Adriatico Stage 5",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

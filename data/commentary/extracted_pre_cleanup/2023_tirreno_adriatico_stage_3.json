@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu executed a solo lead-out through technical finale for PHILIPSEN Jasper, who won after 20-rider split formed in crosswind panic 10km out despite winds not materializing.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES VAN DER POEL's willingness to lead-out solo through technical 2km finale reveals team confidence sprinter will convert positioning.",
+      "GANNA Filippo's bridging effort brought PHILIPSEN across to front 20-rider split, demonstrating leaders' domestiques create sprint advantages beyond leadout.",
+      "Crosswind panic at 10km fractured peloton despite winds not materializing, proving nervous positioning more decisive than actual weather conditions."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: converted perfectly from VAN DER POEL leadout, took cyclamen jersey from JACOBSEN after yesterday's second place",
+      "VAN DER POEL Mathieu": "positive: demonstrated classics-level ability threading technical finale out-of-saddle for full 2km before releasing sprinter at 175m",
+      "BAUHAUS Phil": "positive: fast-finished to second without dedicated leadout, showing independent sprint ability when positioned correctly",
+      "GIRMAY Biniam": "positive: podium finish signals upward trajectory, positioning well without full leadout train support",
+      "JAKOBSEN Fabio": "negative: yesterday's winner completely out-of-sorts, used barriers shoulder to make room suggesting positioning collapse",
+      "GANNA Filippo": "positive: bridging work for ROGLIČ protection brought PHILIPSEN to front group, revealing dual-purpose domestique value",
+      "ROGLIČ Primož": "neutral: safety-first positioning at front anticipating crosswinds, risk-averse GC tactics before mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:19:57.463975+00:00"
+}

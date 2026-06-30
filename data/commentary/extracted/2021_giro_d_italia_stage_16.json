@@ -1,0 +1,29 @@
+{
+  "label": "2021 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-24",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked solo halfway up Passo Giau (10km at 10%), extended his GC lead by 27 seconds over BARDET and CARUSO.",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education Nippo paced early despite CARTHY trailing GC leaders, inverted domestique logic suggests desperation or bluffing rivals.",
+      "BERNAL attacked halfway up 10km climb, not at base or summit, neutralizing counterattacks before descent advantage could materialize.",
+      "YATES lost 2:36 same day he dropped from 2nd to 5th; mechanical issues cascading into psychological collapse pattern.",
+      "Stage abbreviation from 153km to ~93km disproportionately hurt diesel engines like VLASOV, benefiting explosive punchers who thrive without attrition."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: second stage win with controlled solo move, extending GC lead in brutal conditions shows peak form trajectory",
+      "CARUSO Damiano": "positive: jumped to second overall limiting losses to 27 seconds, unexpected resilience suggests podium threat not domestique resignation",
+      "BARDET Romain": "positive: resurgent ride matching CARUSO at 27 seconds, Form timing suggests third-week strength building after conservative start",
+      "YATES Simon": "negative: collapsed from 2nd to 5th losing 2:36, gap widening from mechanical suggests mental fragility under pressure",
+      "CARTHY Hugh": "neutral: team paced early but finished with CICCONE group, ambition without execution reveals overestimation of current form",
+      "VLASOV Aleksandr": "negative: dropped on climb after mechanical, fell to fourth overall, mechanical resilience failure pattern emerging",
+      "EVENEPOEL Remco": "negative: lost 24 minutes indicating complete abandonment of GC or catastrophic form collapse on shortened mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:51:57.978934+00:00"
+}

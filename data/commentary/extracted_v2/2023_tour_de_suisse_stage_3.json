@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-13",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SKJELMOSE Mattias followed GALL Felix's attack with 1km to go on Villars climb, countered inside final 500m to take stage and yellow by 3 seconds",
+    "winner": "SKJELMOSE Mattias",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL launched decisive move 6.5km from summit after KNOX pacing destroyed VLASOV, but insufficient gap management allowed AYUSO group chase-back",
+      "GALL attacked solo inside 1km when caught group hesitated, revealing strength gaps before SKJELMOSE's superior finishing kick",
+      "SOUDAL Quick-Step burned CATTANEO early causing VLASOV elimination, prioritizing selection over controlled tempo despite KUNG's jersey"
+    ],
+    "rider_signals": {
+      "SKJELMOSE Mattias": "positive: Won from reduced group and took yellow after following late move, showing both climbing and tactical maturity beyond his prior palmares",
+      "EVENEPOEL Remco": "negative: 6.5km solo attack caught by AYUSO group with 12-second deficit, insufficient power advantage on medium-length climbs against GC rivals",
+      "GALL Felix": "positive: Nearly took first pro win with 1km attack from chase group, strong enough to isolate but lacked final 500m acceleration",
+      "AYUSO Juan": "positive: Led successful chase of EVENEPOEL from behind, controlled effort yielding only 12 seconds loss while EVENEPOEL burned matches solo",
+      "VLASOV Aleksandr": "negative: Dropped when CATTANEO set early pace for Quick-Step, concerning weakness on 10km first-category effort",
+      "KUNG Stefan": "negative: Lost yellow after dropping with 6.5km remaining, unable to follow even initial EVENEPOEL acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:01:36.452085+00:00"
+}

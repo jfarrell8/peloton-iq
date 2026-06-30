@@ -1,0 +1,26 @@
+{
+  "label": "2022 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won reduced sprint after bonus point attacks whittled field, Trek leadout executed on uphill finish after top sprinters dropped on lumpy circuit",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM sent ANDERSEN Søren twice on solo digs before breakaway caught, forcing other teams to expend energy preemptively.",
+      "Bonus sprint at 20km served as selection point where fastest pure sprinters (Jakobson, Bennett, Coquard) were eliminated by pace.",
+      "Trek executed leadout through uphill final kilometer with STUYVEN despite reduced field, suggesting planned exploitation of lumpy finish."
+    ],
+    "rider_signals": {
+      "PEDERSEN Mads": "positive: First WorldTour win in extended period suggests prior form issues resolved, won uphill sprint against all-rounders not pure sprinters",
+      "ANDERSEN Søren": "positive: DSM trusted him for two solo attacks suggesting strong current form, tactical aggression forced opponents to chase",
+      "JAKOBSON Fabio": "negative: Dropped before 20km mark on lumpy circuit, signals vulnerability on anything beyond pan-flat finishes",
+      "BENNETT Sam": "negative: Eliminated same selection point as Jakobson, both top sprinters unable to handle prolonged lumpy tempo",
+      "STUYVEN Jasper": "positive: Led out through uphill final kilometer effectively, demonstrates climbing strength beyond typical leadout role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:17:07.493743+00:00"
+}

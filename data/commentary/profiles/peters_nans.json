@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Operates exclusively from early breakaways, making decisive moves inside final 25km when breakaway splinters. Favors gradual climbs and time-trialing finishes over explosive summit finishes.",
+  "team_tactics": "Given minimal support — frequently in breakaways where teammates secure KOM points first (KOZNERFALL example), then allowed to target stage win. Self-reliant finishing approach.",
+  "terrain_preference": "Gradual, time-trial-suited climbs where power advantage overcomes pure climbers. Excels on Pyrenean-style stages. Vulnerable on explosive, steep finishes where lighter climbers dominate.",
+  "vulnerability": "Mechanical incidents when isolated in small groups without immediate team car access. Requires breakaway success — no observed strength in reduced bunch sprints or GC group tactics.",
+  "key_patterns": [
+    "Won from early breakaways of 13-18 riders in all observed victories (3 instances)",
+    "Makes winning move in final 25km as breakaway fragments, not initial attack",
+    "Targets KOM points in non-GC stages, suggests season preparation racing (2 instances)",
+    "Large rider from French Alps uses power/TT ability over pure climbing (multiple references)",
+    "Thrives when teammates secure secondary objectives first, enabling stage focus (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 appearance shows KOM hunting without win threat, suggesting domestique role or form-finding after 2020 breakthrough victories",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "PETERS Nans",
+  "built_from": [
+    "2019 Giro d'Italia Stage 17",
+    "2019 Giro d'Italia Stage 17",
+    "2020 Paris - Nice Stage 8",
+    "2020 Paris - Nice Stage 8",
+    "2020 Tour de France Stage 8",
+    "2020 Tour de France Stage 8",
+    "2022 Volta Ciclista a Catalunya Stage 1",
+    "2023 Tour de Romandie Stage 1",
+    "2023 Tour de Romandie Stage 1"
+  ]
+}

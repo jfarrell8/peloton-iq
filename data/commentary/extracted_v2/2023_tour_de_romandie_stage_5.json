@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-30",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "VINE Jay won Tour Down Under by 16 seconds over YATES Simon after Yates won stage 5 but couldn't close the gap.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HEPBURN stayed in breakaway to pace YATES rather than chasing stage, demonstrating controlled team support over individual glory.",
+      "INEOS hesitated closing gap to CATTANEO knowing his TT strength, revealing GC teams fear strong time trialists in breaks.",
+      "YATES attacked with 3km remaining only after breakaway absorbed, showing reluctance to commit until forced by race situation.",
+      "HAYTER mechanical at back of peloton but immediately back at front shows INEOS depth compensating for positional errors."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: won overall without winning stage, showing superior consistency and time trial prowess across multi-day race",
+      "YATES Simon": "neutral: stage win but 16-second overall deficit suggests sprint finish doesn't suit his attacking style for GC gains",
+      "O'CONNOR Ben": "negative: dropped 2 seconds in sprint finish and slipped overall, revealing sprint weakness despite climbing strength",
+      "CATTANEO Mattia": "positive: forced entire peloton chase from INEOS due to TT reputation, showing threat perception exceeds current form",
+      "HAYTER Ethan": "negative: mechanical while positioned at back suggests poor race craft for critical final stage",
+      "TIBERI Antonio": "positive: moved into 8th overall via late attack, showing opportunistic GC gains when favorites marked each other"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:00:57.110088+00:00"
+}

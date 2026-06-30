@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-19",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGACAR at 21 years old overturned a 57-second deficit to ROGLIC on the final mountain time trial, winning by 1:56 and taking yellow, polka dots, and white jerseys.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR reversed 33-second deficit between checkpoints 2-3, gaining 40+ seconds in final climb section alone.",
+      "JUMBO-VISMA's 11-day yellow defense collapsed because team strength meant nothing in solo ITT discipline.",
+      "VALPANER's progressive pacing (6 seconds ahead at CP3 after trailing 33 at CP2) reveals effective climbing ITT strategy.",
+      "ROGLIC's 5th place finish inadequate despite being competitive at early time checks, suggesting premature energy expenditure."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Won while also taking KOM points on climb, indicating he had surplus energy beyond what was needed for GC reversal.",
+      "ROGLIC Primoz": "negative: Lost 1:56 to teammate's former protégé despite being within seconds at checkpoint 1, suggesting mental collapse not physical.",
+      "PORT Richie": "neutral: Climbed overall standings as Lopez/Landa faltered, confirming podium photo goal mentioned pre-stage as realistic target.",
+      "CARAPAZ Richard": "negative: Lost polka dots despite not needing stage effort, showing POGACAR's mountain ITT superiority exceeded all defensive calculations."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:24:55.139605+00:00"
+}

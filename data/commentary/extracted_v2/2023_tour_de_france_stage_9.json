@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-09",
+  "stage": 9,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "WOODS Michael caught JORGENSON Matteo in final meters of Puy de Dôme while POGAČAR Tadej attacked late, gained 8 seconds on VINGEGAARD Jonas who visibly suffered",
+    "winner": "WOODS Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POGAČAR made vicious acceleration with 1km left on steep Puy de Dôme gradients, forcing VINGEGAARD into unsustainable tempo changes",
+      "VINGEGAARD deliberately refused to match POGAČAR's accelerations, climbing at steady tempo instead to minimize oxygen debt on extreme gradients",
+      "VINGEGAARD looked back for SEUSS mid-climb after losing POGAČAR's wheel, suggesting team support exhausted earlier than planned"
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Showed more explosive power on steep gradients than VINGEGAARD, needing only 25 seconds but demonstrating superior punch",
+      "VINGEGAARD Jonas": "negative: First time grimacing visibly on camera this Tour, unable to match accelerations he typically handles, defensive tactics indicate reduced margin",
+      "WOODS Michael": "positive: 36-year-old caught younger JORGENSON from behind in final meters, exceptional late-climb surge suggests peak form timing",
+      "JORGENSON Matteo": "neutral: Led into final meters but caught, strong breakaway riding but lacked finishing punch when caught",
+      "SEUSS Christopher": "negative: VINGEGAARD actively looked for him when dropped, suggesting domestique unavailable when leader needed support most"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:59:53.417029+00:00"
+}

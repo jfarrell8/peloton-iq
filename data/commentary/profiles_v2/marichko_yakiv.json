@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure sprinter who capitalizes on flat stages rather than attacking. Wins from bunch sprints on stage finishes rather than breakaway or late-race attacks.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns. Single race window shows positioning for sprint finishes but no detail on leadout or tempo control.",
+  "terrain_preference": "Flat sprint stages where bunch finishes are guaranteed. Explicitly vulnerable on mountain stages where he acknowledges inability to defend GC positions.",
+  "vulnerability": "Mountain stages represent critical weakness - rider himself expressed uncertainty about holding GC lead on final climbing stage, indicating conscious awareness of limitations on steep terrain.",
+  "key_patterns": [
+    "Sprint specialist with multiple stage wins in same race (4 stages at Taihu Lake).",
+    "Can hold GC jersey through sprint bonuses on flat stages before mountains arrive.",
+    "Self-aware of climbing limitations, acknowledging vulnerability before decisive mountain tests."
+  ],
+  "form_trajectory": "unknown: Only single race window available from 2017, insufficient recent data to assess current trajectory or progression.",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MARICHKO Yakiv",
+  "built_from": [
+    "2017 Tour de Suisse Stage 6",
+    "2017 Tour de Suisse Stage 6"
+  ]
+}

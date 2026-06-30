@@ -1,0 +1,27 @@
+{
+  "label": "2023 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2023-04-16",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked solo with 28km remaining after multiple accelerations shattered the lead group, winning by 38 seconds over HEALY.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates controlled race from 100km out, neutralizing breakaway before Pogacar's move, revealing pre-planned solo strategy.",
+      "Pogacar deliberately requested bike change while in lead group, using mechanical as tactical reset before decisive acceleration.",
+      "Decisive selection happened through repeated accelerations in lead group before final 28km solo move, not single climb attack.",
+      "Pidcock couldn't maintain chase on climbs but closed gap on flatter sections, exposing pure climbing power deficit to Pogacar."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Controlled race through team pacing, then shredded elite lead group with 28km solo ride, 38-second winning margin",
+      "HEALY Ben": "positive: Second place from breakaway, maintained chase better than Pidcock on climbs, confirmed Brabantse Pijl form not fluke",
+      "PIDCOCK Tom": "neutral: Strong enough for lead group but distanced on climbs, only closed gap on flatter Cauberg section",
+      "TRENTIN Matteo": "negative: Did massive work for UAE but abandoned effort before decisive phase, poor pacing or team miscommunication",
+      "LITSENKO Oleksandr": "negative: Won Sicily week prior but had nothing left for finale after making lead group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:34:49.597952+00:00"
+}

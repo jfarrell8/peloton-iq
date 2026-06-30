@@ -1,0 +1,27 @@
+{
+  "label": "2020 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won Stage 4 mountain finish after American domestique KUSS Sepp delivered devastating high-pace leadout inside final 2km.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KUSS Sepp's sustained high pace inside 2km immediately cracked KWIATKOWSKI, proving American climbers excel at paced leadouts not just tempo.",
+      "MARTIN Guillaume's late attack sub-300m forced ROGLIC response but everyone received same time despite visible gaps, revealing commissaire lenience.",
+      "Early breakaway sprint at 51.5km saw POLITT Nils prioritize KOM points over sprint, signaling teams letting non-GC riders establish jersey competitions."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "negative: boxed himself in intermediate sprint finishing 12th, tactical awareness declining despite green jersey priority",
+      "KUSS Sepp": "positive: delivered race-winning leadout on mountain finish, American shown capable of decisive high-mountain pace-setting for GC leader",
+      "KWIATKOWSKI Michal": "negative: immediately cracked when KUSS accelerated inside 2km, showing vulnerability to sustained high pace before finale",
+      "MARTIN Guillaume": "positive: attacked sub-300m on Category 1 finish for podium, revealing ambition beyond domestique role for COFIDIS",
+      "QUINTANA Nairo": "positive: finished 4th after injury return, immediately competitive in GC group contrary to written-off narrative",
+      "YATES Adam": "neutral: 10th place attributed to being 'light little man' struggling against heavyweights, weight disadvantage on power climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:25:32.947190+00:00"
+}

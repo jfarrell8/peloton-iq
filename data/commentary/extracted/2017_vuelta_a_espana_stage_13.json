@@ -1,0 +1,29 @@
+{
+  "label": "2017 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won the sprint in Sevilla after his Quick-Step team controlled the peloton and caught the breakaway with 7km remaining.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step hunted the break solo without help from other sprint teams, forcing them to spend early for TRENTIN's third win.",
+      "FRAILE Omar abandoned during mid-stage despite winning two mountain classifications, signaling deeper form issues not visible in recent climbs.",
+      "DE MARCHI Alessandro survived solo longer than teammate DE GENDT after 40km chase began, suggesting superior diesel engine for long escapes."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: third stage win despite difficult sprint setup shows superior positioning skills when leadout isn't perfect",
+      "LAMPAERT Yves": "positive: contributed to stage win as part of dominant Quick-Step train, building form after early-race success",
+      "ALAPHILIPPE Julian": "positive: mentioned alongside LAMPAERT as Quick-Step stage winner earlier in race, team operating with multiple cards",
+      "MOSCON Gianni": "neutral: second place finish in sprint shows he can follow fast wheels but lacks punch to come around",
+      "NIBALI Vincenzo": "neutral: sixth in sprint suggests trying to bank bonus seconds rather than true sprint speed",
+      "FRAILE Omar": "negative: abandoning mid-flat stage after two mountain classification wins indicates serious underlying illness or injury masked by adrenaline",
+      "DE MARCHI Alessandro": "positive: strongest of four-man break, resisted until 7km showing diesel endurance that could work in longer mountain breakaways",
+      "FROOME Chris": "neutral: relaxed stage after previous day's troubles suggests team managing stress rather than attacking with 59-second lead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:16:36.691741+00:00"
+}

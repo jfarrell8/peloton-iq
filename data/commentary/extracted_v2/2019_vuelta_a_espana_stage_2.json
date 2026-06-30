@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-25",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo attacked on the final category 2 climb, rode full gas to the line for time, overtaking Lopez who lost 37 seconds despite defending red.",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quintana attacked alone on final climb then refused celebration until 10m after line, hunting every second for GC rotation.",
+      "Movistar and UAE both aggressively positioned teams after previous day crashes, suggesting psychological urgency to erase bad fortunes.",
+      "Nicolas Roche faked cramps at front of group to avoid pulling, strategic gamesmanship that fooled commentators initially.",
+      "Aru attacked first but Quintana let Colombian compatriot do work then swung off, forcing others to chase own teammate."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: unusually aggressive swagger and time-hunting behavior suggests heightened motivation after Bernal took Colombian hierarchy",
+      "ROCHE Nicolas": "positive: tactical maturity feigning cramps at front to avoid work, then gambled correctly on late move for race lead",
+      "ARU Fabio": "negative: initiated key move but lacked legs to follow when Quintana countered, missing stage opportunity",
+      "LOPEZ Miguel Angel": "negative: lost 37 seconds defending red jersey, suggesting early race leadership vulnerability on medium-difficulty climbs",
+      "O'CONNOR Ben": "negative: involved in early crash/touching wheels on slight climb, raising durability concerns"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:08:42.729564+00:00"
+}

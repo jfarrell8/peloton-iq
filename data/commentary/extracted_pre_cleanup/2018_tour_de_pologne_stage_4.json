@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-07",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI attacked inside 200m on steep finish climb after CARAPAZ's early move from 700m failed, delivering Sky stage win.",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CARAPAZ attacking from 700m on steep finish overcooked effort; riders waiting until 200m prevailed despite smaller acceleration window.",
+      "Sky positioned KWIATKOWSKI behind early moves, exploiting tactical patience while CARAPAZ exhausted himself leading out TEUNS inadvertently.",
+      "Quick-Step controlled tempo with DE PLUS after CARAPAZ caught, preventing counterattacks until KWIATKOWSKI's late acceleration bypassed their leadout."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "negative: misjudged effort distribution, attacking 700m out on steep finish left him vulnerable to late accelerations",
+      "KWIATKOWSKI Michał": "positive: demonstrated restraint and positioning discipline, winning from wheels after rivals overextended early",
+      "TEUNS Dylan": "neutral: marked CARAPAZ's early move but couldn't accelerate when effort faltered at 400m remaining",
+      "DE PLUS Laurens": "positive: Quick-Step deployed him to control tempo after CARAPAZ caught, positioning teammates for sprint",
+      "YATES Simon": "neutral: positioned well in final 500m group but lacked punch on extreme gradient finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:39:25.508917+00:00"
+}

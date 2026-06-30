@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-13",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KONRAD Patrick soloed to victory after attacking 37km out, holding off chase group by over 1 minute while GC group finished 14 minutes back.",
+    "winner": "KONRAD Patrick",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KONRAD attacked alone with 37km remaining, avoiding Saturday's error of letting MOLLEMA escape; high-risk solo succeeds when committing early.",
+      "VAN AERT drove pace in chase group but inexplicably sat up final kilometer, wasting domestique effort for no tactical gain.",
+      "POGAČAR sprinted against CARAPAZ at finish 14min down, psychological gamesmanship signaling strength despite stage being decided.",
+      "MATTHEWS and COBRELLI sprinted from 120-rider gruppetto for green jersey points, showing intermediate sprint tactics even in mountain stages matter."
+    ],
+    "rider_signals": {
+      "KONRAD Patrick": "positive: executed 37km solo attack decisively after learning from previous breakaway failure, showing improved tactical maturity",
+      "VAN AERT Wout": "neutral: drove chase pace effectively but sat up in final kilometer, unclear team directive or energy preservation",
+      "COBRELLI Sonny": "positive: caught PÉRICHON on line from distance in gruppetto sprint, exceptional finishing speed despite mountain stage fatigue",
+      "POGAČAR Tadej": "positive: sprinted playfully at finish 14min down, psychological dominance display suggesting complete GC control",
+      "CARAPAZ Richard": "neutral: matched POGAČAR sprint at finish, engaging in symbolic battle despite irrelevant time gaps",
+      "MATTHEWS Michael": "positive: contested gruppetto sprint aggressively for green jersey points, calculated intermediate classification focus"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:08:24.813026+00:00"
+}

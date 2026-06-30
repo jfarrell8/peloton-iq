@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MICKA Rafael soloed to victory after dropping the breakaway on the Puerto de Mejadas category 1 climb, holding off a chase group by 1:27.",
+    "winner": "MICKA Rafael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "RUU Fabio first grand tour breakaway appearance in years signals UAE rotating domestiques into offensive roles late-race.",
+      "YATES Adam attacked final kilometers solo from peloton gaining 15 seconds symbolic time over GC group despite earlier struggles.",
+      "Jumbo-Visma led peloton chase limiting breakaway gaps despite no direct GC threat showing protective tactics for Roglic's narrow lead.",
+      "MICKA sustained solo effort from Puerto de Mejadas summit (20km at 5.4%) demonstrates current climbing form exceeds chase group watts."
+    ],
+    "rider_signals": {
+      "MICKA Rafael": "positive: subdued celebration suggests he knows form peaked at right moment after previous struggles, undisputed strongest climber today",
+      "RUU Fabio": "positive: first breakaway in years after stomach issues and retirement consideration shows unexpected late-career resurgence worth reconsidering tactics",
+      "YATES Adam": "neutral: symbolic late attack recouped 15 seconds but earlier suffering suggests inconsistent form, INEOS leadership still unclear versus Bernal",
+      "KRUS Stephen": "positive: chased hard from pursuit group shaking head at finish indicates strong watts but not Micka-level, solid climbing form emerging",
+      "BERNAL Egan": "positive: looking really good yesterday and defended position today, commentary suggests he should be INEOS leader going forward over Yates"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:00:42.652529+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2019 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-13",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the sprint after waiting to <100m in headwind while ACKERMANN went early and died, but was DSQ'd for leftward deviation off ACKERMANN's wheel, giving win to GAVIRIA Fernando",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ACKERMANN forced early into headwind, demonstrating sprinters knew too-early acceleration was fatal in these conditions before 100m marker",
+      "DÉMARE Arnaud's Groupama-FDJ teammates swept intermediate sprint podium points when rivals didn't contest, revealing targeted Ciclamino strategy while others conserved",
+      "ROGLIČ Primož dropped to 30-40th position in technical Grosseto sections, exposing Grand Tour GC riders' unfamiliarity with bunch positioning in nervous finales"
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: demonstrated superior sprint timing waiting until <100m vs early starters, but DSQ suggests aggressive positional changes create jury risk",
+      "ACKERMANN Pascal": "negative: forced to lead out into headwind from >150m, faded badly suggesting vulnerable when unable to follow wheel in adverse conditions",
+      "DÉMARE Arnaud": "positive: team systematically harvested uncontested intermediate sprint points across multiple bonus opportunities while rivals ignored them",
+      "ROGLIČ Primož": "negative: pushed back 30-40 positions in technical urban sections despite starting at front, revealing positional vulnerability in nervous finales"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:50:46.816316+00:00"
+}

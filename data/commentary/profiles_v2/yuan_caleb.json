@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Classic bunch sprint finisher who relies on staying sheltered until the final meters, launching sprint in protected position rather than long-range efforts.",
+  "team_tactics": "Depends on leadout train for positioning and shelter; avoids early exposure to wind, letting rivals commit first from distance (800m+).",
+  "terrain_preference": "Flat bunch sprint finishes where leadout organization and tactical positioning determine outcome; struggles when forced into wind early.",
+  "vulnerability": "Confidence-dependent performer whose head drops during result droughts; vulnerable when exposed to wind prematurely or lacking leadout support.",
+  "key_patterns": [
+    "Wins from sheltered position while rivals forced early into wind (800m+ out).",
+    "Performance heavily tied to confidence; extended periods without results cause mental struggles.",
+    "Relies on tactical positioning over raw power; waits for others to commit first."
+  ],
+  "form_trajectory": "positive: broke significant results drought with Tour de Pologne win, providing needed confidence boost after lean spell post-Giro",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "YUAN Caleb",
+  "built_from": [
+    "2017 Tour de Pologne Stage 4",
+    "2017 Tour de Pologne Stage 4"
+  ]
+}

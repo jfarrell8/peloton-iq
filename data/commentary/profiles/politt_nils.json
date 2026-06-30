@@ -1,19 +1,30 @@
 {
-  "attacking_style": "Launches decisive solo moves from reduced breakaway groups on uncategorized rises with 12-15km remaining, using classics power to sustain long efforts to the line.",
-  "team_tactics": "Operates with freedom in breakaways as stage-hunting specialist, relying on individual strength rather than team setup once in the move.",
-  "terrain_preference": "Punchy uncategorized climbs that thin breakaways but don't favor pure climbers; flat-to-rolling finales where classics power sustains solo efforts over 10+ kilometers.",
-  "vulnerability": "Likely exposed on categorized mountain stages where pure climbers dominate; requires breakaway freedom rather than team-dependent scenarios.",
+  "attacking_style": "Opportunistic breakaway specialist who bridges solo in final 15-20km or capitalizes on early race chaos (crosswinds, echelons). Capable of sustained tempo-driving in breaks but lacks tactical sprint positioning experience in small group finishes.",
+  "team_tactics": "Often operates without dedicated team support in breakaways, suggesting role as autonomous stage hunter. Teams commit him to speculative moves rather than controlled leadouts.",
+  "terrain_preference": "Excels on cobbled classics (reached Roubaix velodrome 2019) and punchy selection stages. Strong time trialist emerging 2019+. Crosswind chaos scenarios suit his power profile and opportunism.",
+  "vulnerability": "Mechanical failures when exceeding power thresholds (chain snap 2023 TDF). Poor tactical positioning in small group sprints despite matching pace of elite riders. Lacks protected status requiring self-reliance.",
   "key_patterns": [
-    "Attacks from reduced breakaways rather than peloton, timing moves on terrain transitions.",
-    "Sustains long solo efforts (12km documented), leveraging classics engine over pure sprint speed.",
-    "Targets stages where classics power bridges gap between sprinters and climbers."
+    "Solo bridging specialist: executed 15km+ chase efforts without support in multiple races (2018 Paris-Nice, 2021 TDF)",
+    "Breakaway tempo engine: regularly drives pace in breaks until mechanical or finish, not conservation-minded",
+    "Crosswind opportunist: won 2021 TDF stage from echelon chaos, thrives in chaotic opening scenarios",
+    "Tactical sprint weakness: matched Gilbert to velodrome but forced high line, lacks positioning instincts",
+    "Equipment vulnerability: chain snapped under sustained power effort plus wrong spare bike (2023 TDF)"
   ],
-  "form_trajectory": "positive: Immediate Grand Tour stage success as first-year Bora signing demonstrates effective adaptation to three-week racing format",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "negative: 2023 TDF mechanical disaster suggests physical decline or equipment stress under peak efforts compared to 2021 stage win and 2019 Roubaix breakthrough",
+  "races_analysed": 7,
+  "confidence": "medium",
   "rider_name": "POLITT Nils",
   "built_from": [
+    "2018 Paris-Nice Stage 5",
+    "2018 Paris-Nice Stage 5",
+    "2018 Paris-Roubaix",
+    "2019 Paris-Nice Stage 5",
+    "2019 Paris-Roubaix",
+    "2019 Paris-Roubaix",
+    "2020 Paris - Nice Stage 2",
     "2021 Tour de France Stage 12",
-    "2021 Tour de France Stage 12"
+    "2021 Tour de France Stage 12",
+    "2023 Tour de France Stage 19",
+    "2023 Tour de France Stage 19"
   ]
 }

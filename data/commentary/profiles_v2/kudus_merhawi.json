@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Premature attacks on summit finishes, going too early before the final kick. Shows eagerness but poor timing judgment on final climbs, typically jumping before the optimal 1-2km window.",
+  "team_tactics": "Limited data, but appears to have support for good positioning entering finals. Team gets him into contention but execution of final move is individual and mistimed.",
+  "terrain_preference": "Can handle summit finishes and gets into contention on climbs, but best suited to longer sustained efforts rather than punchy kick finishes. Exposed on stages requiring explosive final accelerations.",
+  "vulnerability": "Lacks finishing kick when countered after early moves. Tactical immaturity in reading when to commit on summit finishes, consistently fading after premature attacks.",
+  "key_patterns": [
+    "Attacks too early on summit finishes, both observed instances show premature acceleration.",
+    "Fades when countered by riders with superior finishing kick (Hermans, 2 instances).",
+    "Good positioning entering finals but poor execution in timing final effort.",
+    "Immature race-reading on climbs, unable to judge optimal attack timing."
+  ],
+  "form_trajectory": "unknown: only 2017 data available, showing tactical inexperience but also ability to be in contention",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KUDUS Merhawi",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 5"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Premature attacker who struggles with timing and distance judgment, launching efforts too far from finish on non-categorized terrain from established breakaways rather than waiting for decisive moments.",
+  "team_tactics": "Insufficient data to establish clear team tactical pattern from observations available.",
+  "terrain_preference": "Shows breakaway durability on varied terrain but lacks the acceleration for categorized climbs or punchy finishes where winning moves are made.",
+  "vulnerability": "Poor breakaway economy and race craft: wastes energy on mistimed attacks with excessive distance remaining, unable to convert positioning into wins when it matters.",
+  "key_patterns": [
+    "Attacks prematurely from breakaways with too much distance to finish (2 observations)",
+    "Lacks winning acceleration despite good endurance in long breaks (2 observations)",
+    "Burns matches on non-optimal terrain away from categorized climbs (2 observations)"
+  ],
+  "form_trajectory": "neutral: Shows consistent breakaway presence and durability but unchanged tactical decision-making deficits prevent progression to wins",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "NEILANDS Krists",
+  "built_from": [
+    "2023 Tour de France Stage 10",
+    "2023 Tour de France Stage 15",
+    "2023 Tour de France Stage 15"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 6",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-19",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus survived from early breakaway on coastal climb finale, holding off surging ROGLIČ by meters after crosswinds shredded peloton earlier.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar isolated Elsen by pacing crosswind section at 28kph, forcing GC contenders to expend energy before final climb.",
+      "CORT conserved energy at intermediate sprint letting BOL take points, then attacked breakaway companions on final climb approach.",
+      "ROGLIČ sat protected through crosswinds while rivals chased, then attacked final meters with fresh legs nearly catching breakaway.",
+      "Ineos ran Ecuadorian domestique train for BERNAL up climb despite not being jersey defenders, revealing GC ambitions."
+    ],
+    "rider_signals": {
+      "ELSEN Kenny": "negative: lost red jersey in crosswinds, unable to follow Movistar's pace in windy section",
+      "CARTHY Hugh": "negative: dropped in crosswinds alongside Elsen, concerning weakness in non-mountain terrain for GC contender",
+      "ROGLIČ Primož": "positive: minimal energy expenditure through crosswinds then surged past chasers in finale to take both time and jersey",
+      "MATTHEWS Michael": "positive: animated chase on final climb despite being primarily sprint-oriented, unexpected climbing strength shown",
+      "BERNAL Egan": "positive: Ineos deployed full climbing train despite no jersey obligations, signaling they see him in winning form",
+      "MAS Enric": "positive: Movistar's aggressive crosswind tactics put three riders within 41 seconds, justifying multi-leader strategy",
+      "BADGIOLI Davide": "positive: followed Roglič's late surge to claim third, showing opportunistic positioning in reduced sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:45:11.952724+00:00"
+}

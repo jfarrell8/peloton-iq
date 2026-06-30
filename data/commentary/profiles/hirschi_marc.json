@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Prefers long-range solo attacks multiple kilometers from finish on uphill finales, exploiting tactical freedom when off GC. Also demonstrates late-sprint timing (50m on punchy climbs) rather than conventional 200m launches.",
+  "team_tactics": "UAE sets early tempo on climbs to position him, though effectiveness varies with course selectivity. Benefits from dual-leadership flexibility, sharing protected status with teammates like Vlasov when form permits.",
+  "terrain_preference": "Punchy uphill finales and repeated short climbs (Ardennes profile). Struggles on long, selective mountain stages with sustained gradients. Excels on technical sprint finishes after climbing efforts.",
+  "vulnerability": "Dropped on repeated selective climbs before final (Tour de Suisse pattern). Less effective when team tempo fails to control or when course demands sustained climbing over pure punchy efforts.",
+  "key_patterns": [
+    "Multiple long-range solo attacks kilometers from finish, not last-km moves (Tour de France examples)",
+    "Exceptional sprint timing on climbs: 50m launch versus conventional 200m (Flèche Wallonne win)",
+    "Consistent top finishes/podiums in Monuments and Ardennes Classics (3rd LBL, 1st Flèche)",
+    "Exploits GC irrelevance for breakaway freedom when 1h+ down (Tour de France stage win)",
+    "Struggles when UAE tempo fails on selective repeated climbs (Tour de Suisse dropped)",
+    "Elite finishing speed from reduced groups after hilly stages (multiple near-wins from breaks)"
+  ],
+  "form_trajectory": "negative: 2022 results show decline from 2020 peak—dropped on selective climbs, unable to sustain bridges, fourth-place home results suggest solid but non-dominant form",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "HIRSCHI Marc",
+  "built_from": [
+    "2019 BinckBank Tour Stage 4",
+    "2019 BinckBank Tour Stage 5",
+    "2019 BinckBank Tour Stage 7",
+    "2019 BinckBank Tour Stage 7",
+    "2020 Criterium du Dauphine Stage 4",
+    "2020 La Fleche Wallonne",
+    "2020 La Fleche Wallonne",
+    "2020 Liege-Bastogne-Liege",
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 18",
+    "2020 Tour de France Stage 2",
+    "2020 Tour de France Stage 9",
+    "2021 Tour de Romandie Stage 3",
+    "2021 Volta Ciclista a Catalunya Stage 4",
+    "2022 Amstel Gold Race",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Suisse Stage 1",
+    "2022 Tour de Suisse Stage 5"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic attacker who strikes on final climbs with 3km to go when rivals show tactical misjudgment. Prefers small group sprints after prolonged breakaways rather than solo efforts.",
+  "team_tactics": "Relies on domestiques for critical final-kilometer pacing (Vanhoucke-style) to set up small group sprints. Benefits when opponents have conflicting team interests that can be exploited.",
+  "terrain_preference": "Multi-lap circuits with final climb finishing sequences and long breakaway stages (200km+) where tactical patience and positioning trump pure climbing power.",
+  "vulnerability": "Struggles with effort distribution on ultra-long stages (227km Paris-Nice drop suggests pacing misjudgment). Vulnerable when teams execute coordinated chases without internal conflicts.",
+  "key_patterns": [
+    "Wins from small breakaway groups (4 riders) via sprint finish, not solo attacks",
+    "Exploits rival team tactical confusion when multiple teammates present in different groups",
+    "Attacks final climb with 3km remaining, not long-range efforts",
+    "Maintains Grand Tour winning form across decade with tactical patience over raw power",
+    "Requires domestique pacing support in final 3-4km to set up winning sprint"
+  ],
+  "form_trajectory": "positive: 2022 Giro win suggests sustained elite tactical ability across career span, described as bookending decade of GT success",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "DEGENT Thomas",
+  "built_from": [
+    "2019 Tour de France Stage 13",
+    "2020 Paris - Nice Stage 5",
+    "2021 Volta Ciclista a Catalunya Stage 7",
+    "2022 Giro d'Italia Stage 8",
+    "2022 Giro d'Italia Stage 8"
+  ]
+}

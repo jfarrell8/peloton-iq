@@ -1,0 +1,23 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-08",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BMC won the 22.7km team time trial by 17 seconds over Quick Step Floors, with Sky suffering a catastrophic wheel failure that appeared to be tubular tire delamination under load.",
+    "winner": "BMC Racing Team",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "FDJ showed internal coordination issues with Bonnet visibly furious at teammate Maison's ragged pace-setting approaching the finish.",
+      "BMC deployed four World Championship TTT medallists (Dennis, Küng, Oss, Quinziato) as revenge motivation against Quick Step after 2016 defeat.",
+      "Quick Step Floors nearly matched BMC despite losing a rider late, suggesting they can compete without full complement in short TTTs."
+    ],
+    "rider_signals": {
+      "BONNET William": "negative: publicly displayed team frustration with Maison's positioning/pacing, indicating FDJ internal cohesion weakness",
+      "DENNIS Rowan": "positive: led BMC to victory using psychological motivation from previous World Championship defeat to Quick Step"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:02:01.863474+00:00"
+}

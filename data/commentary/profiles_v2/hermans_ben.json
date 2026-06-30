@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Launches decisive attacks inside final kilometer on uphill finishes, typically waiting for rivals to commit first before unleashing superior finishing power. Prefers short, explosive moves rather than long-range attacks.",
+  "team_tactics": "Operates with relative independence while teammates probe ahead. Manages own effort strategically rather than relying on heavy team tempo control. Minimal domestique usage in final kilometers.",
+  "terrain_preference": "Excels on uphill sprint finishes and medium-mountain climbs like Green Mountain. Strong time trial ability converts into climbing strength. Exposed on technical approaches and early positioning battles.",
+  "vulnerability": "Vulnerable positioning at race starts, evidenced by early crash near climb approach. Weak spatial awareness in nervous opening phases when GC positioning matters.",
+  "key_patterns": [
+    "Waits for opponents to commit before counter-attacking with superior finishing power (2 observations)",
+    "Converts time trial strength into climbing wins, managing sustained efforts effectively (2 observations)",
+    "Attacks decisively inside final kilometer on categorized climbs, not long-range moves (2 observations)",
+    "Demonstrates tactical patience, letting others initiate before responding explosively (2 observations)",
+    "Struggles with positioning safety in early race phases and technical sections (2 observations)"
+  ],
+  "form_trajectory": "positive: Won stages and defended leader's jersey through strategic attacking. Time trial strength translating effectively to climbing despite positioning vulnerability.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "HERMANS Ben",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 5",
+    "2017 Tour of Oman Stage 5",
+    "2017 Tour of Oman Stage 6"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches calculated, sacrificial solo attacks in the 15-20km range designed to force opponents to expend resources rather than seeking personal victory.",
+  "team_tactics": "Deploys as a tactical disruptor who attacks to drain specific rival teams' domestiques, protecting team leaders or sprint trains through strategic energy expenditure by opponents.",
+  "terrain_preference": "Insufficient data to determine specific terrain preferences; attacks observed in transition phases where forcing chase work maximizes tactical damage.",
+  "vulnerability": "Single observation limits vulnerability assessment; role as domestique means personal results secondary to team tactics.",
+  "key_patterns": [
+    "Executes planned solo attacks 18-20km from finish with strategic rather than winning intent.",
+    "Forces targeted teams to commit domestiques to chase work, depleting their resources.",
+    "Accepts recapture as mission success when opponent energy expenditure achieved."
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to assess trajectory or development patterns",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KOREN Kristijan",
+  "built_from": [
+    "2017 Giro d'Italia Stage 7",
+    "2017 Giro d'Italia Stage 7"
+  ]
+}

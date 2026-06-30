@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-11",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnold won sprint finish in Messina after Groupama-FDJ controlled climb to distance pure sprinters Cavendish and Ewan.",
+    "winner": "DEMAR Arnold",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Groupama-FDJ deliberately raised tempo on 20km 4% climb specifically to eliminate Cavendish/Ewan, succeeding within 10km.",
+      "SWIFT Ben tactically took intermediate sprint bonus seconds 11km out, denying GC riders meaningful time gaps.",
+      "SCOTSON Miles won corner positioning race under 1km for Groupama, critical on technical twisting finish with headwind straight."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "negative: dropped first on controlled 4% climb, never regained contact, confirms vulnerability even moderate gradients",
+      "EWAN Caleb": "negative: isolated with one helper on climb, over 2min deficit, worse climbing form than Cavendish",
+      "DEMAR Arnold": "positive: team executed elimination climb tactic then won from unfavorable boxed position in headwind",
+      "GIRMAY Biniam": "neutral: another top-5 but boxed on one side in finale, accumulating consistency without winning",
+      "SWIFT Ben": "positive: aggressive intermediate sprint positioning denied GC riders time bonuses, intelligent racing for teammate protection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:10:34.283776+00:00"
+}

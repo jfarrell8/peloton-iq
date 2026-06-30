@@ -1,87 +1,15 @@
 {
-  "label": "2017 Liege - Bastogne - Liege",
-  "race_name": "Liege - Bastogne - Liege",
-  "race_date": "2017-04-23",
+  "label": "2017 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2017-01-01",
   "stage": null,
   "video": {
     "video_id": "qOxOQKZXlMU",
-    "title": "Summary - Liège - Bastogne - Liège 2017",
-    "published": "2017-04-23 16:39:07+00:00",
-    "channel": "Tour de France",
+    "title": "manually provided",
     "url": "https://youtube.com/watch?v=qOxOQKZXlMU",
-    "match_score": 102.92,
-    "all_candidates": [
-      {
-        "video_id": "qOxOQKZXlMU",
-        "title": "Summary - Liège - Bastogne - Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 16:39:07+00:00",
-        "match_score": 102.92
-      },
-      {
-        "video_id": "7UvVqaCdUX8",
-        "title": "Résumé - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 16:24:36+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "JKodY1acNzQ",
-        "title": "Henao attacks - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 14:47:46+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "03qO-fOMFuM",
-        "title": "The last kilometer - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 14:59:02+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "nu56__ii_Y0",
-        "title": "Perez leading solo - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 14:13:52+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "IpGnDT_K0bE",
-        "title": "The pack in La Redoute - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 14:01:57+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "6a3lIiYY3zc",
-        "title": "7 riders chasing - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 13:53:49+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "QE53zQyNV_0",
-        "title": "The break in La Redoute - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 13:57:50+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "UC8vlHnrN9w",
-        "title": "The break - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 12:45:22+00:00",
-        "match_score": 98.75
-      },
-      {
-        "video_id": "0pIG38tcXdk",
-        "title": "Gerrans attacks - Liège-Bastogne-Liège 2017",
-        "channel": "Tour de France",
-        "published": "2017-04-23 12:51:07+00:00",
-        "match_score": 98.75
-      }
-    ]
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 93,

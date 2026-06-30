@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Pure sprinter who launches from positions 3rd-7th wheel in final 600m, relying on optimal positioning rather than early acceleration or long-distance efforts.",
+  "team_tactics": "Team provides lead-out train positioning MARICHKA optimally in top 7 positions entering final 600m, absorbing risk (CARTIER crash noted) to deliver protected sprint launch.",
+  "terrain_preference": "Flat sprint stages where positioning and pure speed determine outcome; explicitly uncertain about defending on mountainous terrain.",
+  "vulnerability": "Mountains expose limitations - rider himself acknowledges uncertainty about defending jersey on mountainous stages, suggesting climbing is not a strength.",
+  "key_patterns": [
+    "Won four consecutive sprint stages, demonstrating dominant form and consistent execution pattern.",
+    "Positioned 3rd-7th wheel at 600m mark, trusting team delivery over taking early control.",
+    "Self-aware about terrain limitations, acknowledging mountain stages as threat to jersey defense."
+  ],
+  "form_trajectory": "positive: four consecutive stage wins demonstrates peak sprint form and repeatable winning execution in 2017 Tour de Pologne",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MARICHKA Yakub",
+  "built_from": [
+    "2017 Tour de Pologne Stage 6",
+    "2017 Tour de Pologne Stage 6",
+    "2017 Tour de Pologne Stage 6"
+  ]
+}

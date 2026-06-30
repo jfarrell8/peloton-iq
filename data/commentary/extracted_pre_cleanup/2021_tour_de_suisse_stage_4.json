@@ -1,0 +1,24 @@
+{
+  "label": "2021 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-06-09",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BISSEGGER won from the breakaway, attacking solo inside final 10km on the technical descent into Gstaad to take stage and KOM jersey.",
+    "winner": "BISSEGGER Stefan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BISSEGGER attacked THOMAS through technical corners on descent rather than climb, exploiting bike handling over pure power.",
+      "Early break allowed huge gap as peloton surrendered stage, suggesting GC teams accepted rest day before mountain stages.",
+      "Movistar deployed multiple riders to break despite no GC threat, revealing stage-hunting strategy when team leader absent."
+    ],
+    "rider_signals": {
+      "BISSEGGER Stefan": "positive: Won by attacking on technical descent through corners, showing descending skills complement TT power.",
+      "THOMAS Benjamin": "neutral: Led over KOM but couldn't match BISSEGGER's descending speed through final corners despite slipstream advantage.",
+      "MÄDER Gino": "neutral: Identified as local favorite active in break, suggesting home-race motivation pattern for stage hunting."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:13:30.299236+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 9",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-22",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARUSO Damiano soloed from breakaway on Alto Collado Venta Luisa, winning by 1:05 as ROGLIC extended red jersey lead over imploding BERNAL",
+    "winner": "CARUSO Damiano",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Adam initiated GC attacks on Velafique but was counterproductive, dragging ROGLIC/MASS to close own moves down.",
+      "BOUCHARD Geoffrey bridged from favorites group to breakaway on descent before Velafique, exploiting transitional terrain gap.",
+      "ROGLIC Primoz abandoned teammates to chase solo when YATES attacked, prioritizing bonus seconds over team protection.",
+      "Ineos Grenadiers set pace on Alto Collado specifically to shake GC riders, revealing defensive strategy despite no stage ambition."
+    ],
+    "rider_signals": {
+      "CARUSO Damiano": "positive: Destroyed breakaway solo on Alto Collado Venta Luisa, showing climbing strength unprecedented for domestique role",
+      "BERNAL Egan": "negative: Lost 2:10 including bonus seconds on Velafique, concerning implosion for young rider jersey wearer",
+      "YATES Adam": "negative: Initiated attacks that only served ROGLIC/MASS, tactical naivety in selecting when to move",
+      "MASS Henikk": "positive: Only rider matching ROGLIC on final climbs, emerging as primary GC threat at 28 seconds",
+      "VLASOV Aleksandr": "negative: Required nursing from POWLESS/PARDOE throughout stage, serious form concerns for Bora leader",
+      "BARDET Romain": "negative: Chain throw on descent before Velafique ended polka dot bid, but fragility shown before mechanical",
+      "LOPEZ Miguel Angel": "positive: Part of elite quartet reaching YATES group, UAE showing depth beyond typical support role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:29:27.565521+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches sustained repeated accelerations in final 3km from breakaways, using superior punch to drop co-escapees on circuit climbs and technical finales rather than single explosive attacks.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Circuit finales with short climbs that fragment breakaways in final kilometers; can handle punchy terrain despite time trial specialist background, thrives when repeated accelerations favor diesel power over pure climbing.",
+  "vulnerability": "Limited observations suggest potential weakness in pure climbing scenarios or when facing multiple explosive climbers; relies on attrition rather than single decisive moves which may fail against fresher opponents.",
+  "key_patterns": [
+    "Uses repeated accelerations rather than single attack to drop breakaway companions in final 3km.",
+    "Targets breakaway victories on technical circuit finales with fragmentation points rather than flat sprints.",
+    "Shows unexpected punch and climbing resilience beyond typical time trial specialist profile limitations."
+  ],
+  "form_trajectory": "unknown: single race observation from 2021 insufficient to establish trajectory pattern",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KAMPENAERTS Victor",
+  "built_from": [
+    "2021 Giro d'Italia Stage 15",
+    "2021 Giro d'Italia Stage 15"
+  ]
+}

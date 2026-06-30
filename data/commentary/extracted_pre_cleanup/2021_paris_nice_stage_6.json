@@ -1,0 +1,32 @@
+{
+  "label": "2021 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-12",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ claimed stage victory by outsprinting LAPORTE and MATTHEWS on the 2km uphill finish after RUTSCH's late solo attempt was caught.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "PEREZ targeted KOM jersey by cresting four of five climbs first from breakaway, building 29-point cushion.",
+      "JUMBO-VISMA controlled peloton maintaining 2-4 minute gap to six-man break, revealing tactical preference for controlled puncheur finishes.",
+      "RUTSCH joined ELISSONDE solo late then attacked alone with 17.6km remaining, forcing teams to chase disorganized.",
+      "Sprint teams fragmented on 2km uphill finish, allowing GC riders ROGLIČ and VLASOV to contest rather than pure sprinters."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Won uphill sprint finish convincingly while defending GC, demonstrating classics-ready form targeting Liège-Bastogne-Liège",
+      "LAPORTE Christophe": "positive: Second place on 2km uphill finish shows unexpected puncheur capability beyond pure sprint lead-out duties",
+      "MATTHEWS Michael": "positive: Third despite race positioning for him; suggests strong uphill sprint form adaptable to classics terrain",
+      "MCNULTY Brandon": "negative: Abandoned from third overall after crash, critical weakness in positioning/bike handling under race pressure",
+      "PEREZ Anthony": "positive: Aggressive KOM hunting from breakaway built commanding 29-point lead, telegraphing willingness to sacrifice position for jersey",
+      "ELISSONDE Kenny": "neutral: Made break and went solo but caught before RUTSCH attack; strong breakaway legs insufficient for late solo",
+      "RUTSCH Jonas": "positive: Bridged to ELISSONDE then soloed with 17.6km out, showing aggressive instincts and tactical race-reading for young rider",
+      "VLASOV Aleksandr": "negative: Mechanical and puncture forced chase back to peloton, revealing equipment or positioning vulnerabilities",
+      "SCHACHMANN Maximilian": "negative: Multiple mechanicals requiring chase back, concerning reliability pattern before critical stages",
+      "COQUARD Bryan": "positive: Seventh place as pure sprinter on 2km uphill finish exceeded expectations for terrain adaptability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:03:41.488231+00:00"
+}

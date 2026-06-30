@@ -1,19 +1,30 @@
 {
-  "attacking_style": "Opportunistic breakaway specialist who prioritizes strategic GC gains and bonus seconds over outright stage wins, showing tactical maturity beyond years in multi-rider breakaways.",
-  "team_tactics": "Operates with autonomy in breakaways, team does not commit to defending high GC positions, allowing rider freedom to hunt stages from breaks rather than defensive pacing.",
-  "terrain_preference": "Breakaway-friendly stages where tactical positioning and bonus seconds can be harvested; less suited to sustained GC defense requiring team support.",
-  "vulnerability": "Lacks team depth to defend elevated GC positions; accepts losses in maglia rosa rather than attempting futile defense, suggesting weakness in extended high-pressure GC battles.",
+  "attacking_style": "Opportunistic from breakaways with long-range solo efforts (18km+), using time-trial strength to sustain leads. Prioritizes tactical bonus seconds at intermediate sprints over stage wins when managing GC position.",
+  "team_tactics": "DSM provides adequate defensive protection in chaos but shows no offensive ambition beyond jersey defense. Team operates in conservative mode once leader's jersey is secured, focusing on crash avoidance and positioning.",
+  "terrain_preference": "Excels on sustained climbs where time-trial power applies. Vulnerable on steep, punchy gradients where pure climbing watts matter. Suited to stages where diesel strength outlasts pure climbers.",
+  "vulnerability": "Exposed on short, steep finishing climbs where he loses time to GC rivals (lost 7 seconds twice on punchy gradients). Defensive position becomes precarious before specialist TT stages despite strong time-trialing ability.",
   "key_patterns": [
-    "Prioritizes bonus seconds in breakaways over stage victories when GC opportunities exist (2 observations)",
-    "Shifts tactics from GC positioning to stage hunting after losing defended position (2 observations)",
-    "Displays tactical maturity in breakaway decision-making despite young age, 23 years old (2 observations)"
+    "Calculates GC through bonus seconds, deliberately taking intermediate sprints over stage wins (2 instances)",
+    "Lost time specifically on steep/punchy finishes while GC group stayed together (2 documented losses)",
+    "Survives chaos well with team protection but shows no offensive moves once in jersey (3 observations)",
+    "Time-trial strength allows solo breakaway sustain over 18km+ with climbing component (2 instances)",
+    "At 23, showed mature GC calculation beyond typical young rider aggression"
   ],
-  "form_trajectory": "neutral: Transitioned from unexpected GC contention to stage hunting role as expected, maintaining competitive positioning 1:48 down without defending",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "negative: Despite taking pink jersey tactically, repeated time losses on steep gradients and purely defensive riding suggest inability to sustain GC challenge against specialist climbers in mountain stages",
+  "races_analysed": 9,
+  "confidence": "high",
   "rider_name": "LEKNESSUND Andreas",
   "built_from": [
+    "2022 Tour de Suisse Stage 2",
+    "2022 Tour de Suisse Stage 2",
+    "2023 Giro d'Italia Stage 13",
+    "2023 Giro d'Italia Stage 4",
+    "2023 Giro d'Italia Stage 5",
+    "2023 Giro d'Italia Stage 8",
+    "2023 Giro dItalia Stage 13",
     "2023 Giro dItalia Stage 4",
-    "2023 Giro dItalia Stage 9"
+    "2023 Giro dItalia Stage 4",
+    "2023 Giro dItalia Stage 5",
+    "2023 Giro dItalia Stage 7"
   ]
 }

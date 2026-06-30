@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-17",
+  "stage": 10,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian attacked on the final climb (Columbia) from breakaway, won by over a minute while VAN AVERMAET Greg shockingly defended yellow by finishing 4th from the break.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN AVERMAET conserved energy before bridging to breakaway at optimal moment after lake Annecy Cat 4, not initial selection.",
+      "SKY controlled peloton tempo but MOVISTAR's three captains created tactical confusion, diluting their offensive capacity on Columbia climb.",
+      "ALAPHILIPPE strengthened progressively through stage rather than early attack, matching pure climbers late when others faded on Columbia."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: finished 4th over Columbia as non-climber, extended GC lead to 2+ minutes but went dangerously deep for stage 11",
+      "FROOME Chris": "positive: solid at 3:21 down while SKY demonstrated strongest team, positioning preserved despite not taking aggressive stance",
+      "FUGLSANG Jakob": "neutral: deliberately stayed on wheels to assess rivals rather than attack, confirming wait-and-see approach early in mountain stages",
+      "CONTADOR Alberto": "negative: cracked badly on Columbia due to unrecovered cobblestone stage crash damage, exposed on first mountain test",
+      "THOMAS Geraint": "positive: SKY riding for him as co-leader reduced from 2+ minute deficit to Van Avermaet, stronger positioning than expected"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:28:23.637525+00:00"
+}

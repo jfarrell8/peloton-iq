@@ -1,0 +1,25 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 2",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-20",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won from a perfect VAN POPPEL Danny leadout, benefiting from PEDERSEN rubbing with McLAY and losing rhythm in the sprint.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix chased repeatedly for Wellens then failed to position him, wasting significant team energy before sprint finale.",
+      "Break caught 60km out signals teams no longer willing to gamble on intermediate distance escapes in flat Vuelta stages.",
+      "Time gaps declared in sprint finish awarded Teunissen red jersey, revealing positioning in final roundabouts created GC-relevant splits."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Perfect leadout execution and timing suggests Bora-Hansgrohe sprint train superior to Alpecin despite Wellens favoritism",
+      "PEDERSEN Mads": "negative: Physical contact with McLay disrupted rhythm in finale, suggesting positioning vulnerability when shouldering occurs in tight sprints",
+      "WELLENS Tim": "negative: Alpecin chased all day for him yet failed to deliver positioning, questioning team's sprint train coordination ability",
+      "VAN POPPEL Danny": "positive: Delivered textbook leadout for Bennett, confirming role as elite sprint pilot despite lower individual results profile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:14:20.342677+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2021 Benelux Tour Stage 4",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-02",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 4 with dominant sprint after RICKAERT Jonas and VAN DER HOORN Taco stayed away longest from early break",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE BUYST Jasper delivered final leadout turn for EWAN despite working extensively earlier, revealing Lotto depth advantage",
+      "RICKAERT Jonas outperformed higher-placed breakaway companions on Ardennes circuit, signaling selective climbing strength over endurance riders",
+      "Lotto sprint train regrouped after split before 8km despite MERLIER Tim dropping, exposing rival teams' inability to force selection"
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: Pure speed advantage evident with multi-bike-length margin despite hilly Ardennes finale suggests form peaking pre-Tour",
+      "DE BUYST Jasper": "positive: Delivered high-quality final turn after extended work indicates exceptional diesel engine for hilly sprint stages",
+      "MERLIER Tim": "negative: Dropped before final 8km on Ardennes circuit while slower sprinters survived suggests weight/climbing vulnerability",
+      "RICKAERT Jonas": "positive: Last breakaway survivor alongside VAN DER HOORN on selective Ardennes terrain despite being GC-focused rider",
+      "EVENEPOEL Remco": "neutral: Acknowledged course insufficiently hard for GC splits, revealing tactical awareness of terrain limitations for attacking"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:46:45.712902+00:00"
+}

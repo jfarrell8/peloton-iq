@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-08",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won chaotic sprint after all leadout trains disintegrated inside final 3km, KOOIJ Olav recovered from 15th position at 200m to take second",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR Teddy attacked for intermediate sprint bonus seconds at top of citadel climb, showing UAE's time-based racing strategy",
+      "SOLER Marc and PEREZ Anthony bridged past breakaway riders near final climb, suggesting Movistar/Cofidis testing sprint team commitment thresholds",
+      "All organized leadout trains collapsed after compressed corner at 3.2km, punishing teams who positioned too conservatively before technical sections"
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: Alpecin-Fenix successfully sheltered him all day despite having less firepower than Lotto Soudal or Groupama-FDJ sprinter teams",
+      "KOOIJ Olav": "positive: Advanced 13 positions in final 200m suggests superior top-end speed when leadouts fail, unlike CAVENDISH/EWAN who need organized trains",
+      "POGACAR Tadej": "neutral: Actively hunting intermediate bonus seconds on uphill finish suggests treating stage race as time trial rather than conserving energy",
+      "CAVENDISH Mark": "negative: Described as having 'off day' with light positioning, suggesting form issues or Quick-Step leadout coordination problems",
+      "EWAN Caleb": "negative: Lotto Soudal worked hardest but delivered nothing, indicating wasted team resources on sprinter not at peak condition"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:48:23.532786+00:00"
+}

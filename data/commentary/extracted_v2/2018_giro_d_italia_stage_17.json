@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-23",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won sprint stage after Quick-Step controlled wet finale, taking intermediate sprint points earlier to pad Ciclamino lead.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step allowed breakaway quartet to settle after Jennis-Paulis mountain points dispute, calculating GC gap neutralized stage threat.",
+      "Viviani contested intermediate sprint points despite breakaway presence, revealing Quick-Step prioritizing points jersey margin over energy conservation.",
+      "Rain arrival with 11km triggered early positioning scramble, catching Bennett isolated without lead-out train while Viviani retained Sabatini.",
+      "Van Poppel launched premature sprint on right forcing Bennett wide left while Viviani held centerline with superior positioning through final turn."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: Contested intermediate sprint points despite already leading classification, showing hunger to mathematically seal Ciclamino before final stages.",
+      "BENNETT Sam": "negative: Isolated without teammates in crucial wet finale positioning battle, boxed to tenth wheel while rival had double lead-out protection.",
+      "SABATINI Fabio": "positive: Delivered Viviani perfectly positioned through wet final turn while rival lead-out trains disintegrated in rain chaos.",
+      "VAN POPPEL Danny": "neutral: Premature launch from right side created positioning chaos but lacked acceleration to capitalize on early jump."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:20:23.225229+00:00"
+}

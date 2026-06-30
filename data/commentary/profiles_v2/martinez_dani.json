@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic early mover who bridges to elite attacks rather than initiating solo moves. Willing to animate racing but operates within team constraints.",
+  "team_tactics": "INEOS deploys him as an aggressive element to disrupt opponents, but overall team defensive posture limits his freedom to fully commit to attacks.",
+  "terrain_preference": "Mountain stages where he can exploit early moves and force rivals to respond. Capable TT rider willing to test equipment in stage race conditions.",
+  "vulnerability": "Crash susceptibility and injury management in stage races; effectiveness curtailed when team prioritizes defensive tactics over offensive racing.",
+  "key_patterns": [
+    "Bridges to attacks from GC favorites creating dangerous combinations (Tour 2022, early move to Pogačar)",
+    "Team deploys him aggressively but defensive strategy limits full commitment (Tour 2022, multiple stages)",
+    "Used for technical testing and race reconnaissance within stage race contexts (Suisse TT bike prototype)",
+    "Injury management concerns after crashes impact stage race participation (Vuelta 2020 ankle complaint)"
+  ],
+  "form_trajectory": "neutral: Active in 2022 Tour animations but constrained by team tactics; no clear upward or downward performance trend evident",
+  "races_analysed": 4,
+  "confidence": "low",
+  "rider_name": "MARTINEZ Dani",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 1",
+    "2022 Tour de France Stage 14",
+    "2022 Tour de France Stage 7",
+    "2022 Tour de Suisse Stage 8"
+  ]
+}

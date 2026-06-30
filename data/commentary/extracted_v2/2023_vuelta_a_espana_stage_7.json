@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SOUPE Joffrey won from distance after sprint trains disorganized at final corner, launching in final 250m without leadout support.",
+    "winner": "SOUPE Joffrey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD took intermediate sprint third for 1-second bonus, reducing gap to EVENEPOEL to 3 seconds—signaling GC aggression early.",
+      "Sprint teams including LOTTO GROVES lost organization at final left-hander with 1km remaining, creating chaos leadout vacuum.",
+      "SOUPE launched from distance (250m) without leadout when traditional trains collapsed, old-school tactic succeeded against modern trains.",
+      "GROUPAMA-FDJ positioned MARTINEZ at front in closing kilometers despite no sprint interest, revealing conservative jersey defense over stage hunting."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: actively contesting intermediate sprint for bonus seconds despite being domestique, showing GC ambition beyond supporting role",
+      "THOMAS Geraint": "negative: stopped for mechanical, checking knee after earlier crash, mentally struggling as worst-placed GC favorite after Giro podium peak",
+      "GROVES Kaden": "negative: finished fifth without his usual leadout train intact, only HAYES remaining at final corner versus previous stages' full train",
+      "SOUPE Joffrey": "positive: 35-year-old career leadout man won from 250m solo after recognizing sprint chaos, biggest career result",
+      "MARTINEZ Lenny": "neutral: GROUPAMA-FDJ committed full team to front-running jersey defense on flat stage, conservative tactics but executed cleanly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:08:19.450441+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour of Oman Stage 5",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-20",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO caught GRELLIER inside final 100 meters after Directe Énergie rider led 144km breakaway to base of Jebel Akhdar climb",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Directe Énergie placed two riders in early break to force peloton work, nearly stealing summit finish despite numeric disadvantage",
+      "LUTSENKO conserved energy with Astana controlling pace, timed final acceleration to catch dying breakaway inside 100m rather than chasing earlier",
+      "Tailwind and crosswind sections enabled prolific early pace, creating uncertainty about chase timing that favored breakaway longevity"
+    ],
+    "rider_signals": {
+      "GRELLIER Fabien": "positive: survived 144km breakaway and held lead until final 100m on Green Mountain, showing exceptional diesel endurance",
+      "LUTSENKO Alexey": "positive: third stage win and red jersey demonstrates superior tactical patience, only committing when GRELLIER cracked at line",
+      "POZZOVIVO Domenico": "neutral: tried to close gap in final kilometer but lacked acceleration to bridge to leaders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:13:40.694065+00:00"
+}

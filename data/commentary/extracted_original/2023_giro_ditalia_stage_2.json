@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro dItalia Stage 2",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-07",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MILAN Jonathan won his Grand Tour debut sprint in San Salvo Marina after a crash at 3.7km split the field just outside the 3km safety rule",
+    "winner": "MILAN Jonathan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Crash at 3.7km, only 700m before 3km rule protection, caught GC riders including McNulty/Vine who lost positions",
+      "LAPEYRA Paul dominated intermediate KOM sprints on debut, shedding VERRE Alessandro deliberately to secure jersey before home region stage",
+      "Milan sprinted through center rather than following leadout trains, suggesting better positioning awareness than established sprinters"
+    ],
+    "rider_signals": {
+      "MILAN Jonathan": "positive: Track power translated to road sprint victory on Grand Tour debut, beating experienced sprinters with centerline positioning",
+      "LAPEYRA Paul": "positive: Controlled KOM competition tactically on first GT road stage, took jersey at 22 years old",
+      "CAVENDISH Mark": "negative: Caught in late crash, failed to navigate final 4km despite winning in Teramo previously in 2011",
+      "POGACAR Tadej": "positive: Avoided 3.7km crash with Roglic/Thomas, showing positioning discipline even on easy sprint stage",
+      "MCNULTY Brandon": "negative: Lost GC positions from 4th to outside top-7 by being caught in crash beyond 3km protection",
+      "VINE Jay": "negative: Also caught behind crash, dropped GC places despite easy stage profile favoring position conservation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:02:11.225197+00:00"
+}

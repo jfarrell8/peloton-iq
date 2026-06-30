@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Operates from breakaways rather than peloton attacks, capable of solo moves on final climbs of lumpy stages. Shows patience to time secondary attacks from reduced groups.",
+  "team_tactics": "Utilized in attrition/stringing-out roles for team goals when not hunting own opportunities. When given freedom, targets breakaway scenarios requiring sustained TT power rather than explosive accelerations.",
+  "terrain_preference": "Lumpy stages with manageable climbs favoring time trial power over pure climbing. Excels in time trials and solo efforts where pacing strategy matters more than explosive acceleration.",
+  "vulnerability": "Pure sprint finishes offer limited opportunities. Likely struggles on high-mountain stages with steep gradients and repeated accelerations where TT power becomes less relevant.",
+  "key_patterns": [
+    "Breakaway specialist: multiple observations of operating from early moves, not late-race peloton attacks",
+    "Secondary attack strategy: won by attacking again from reduced breakaway, not initial move",
+    "Time trial pacing expertise: held TT hot seat two hours, won via sustained power"
+  ],
+  "form_trajectory": "neutral: Last observation from 2022 shows domestique duty rather than personal ambitions, suggesting role shift from 2020 contract-year success",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DOWSETT Alex",
+  "built_from": [
+    "2020 Giro d'Italia Stage 8",
+    "2020 Giro d'Italia Stage 8",
+    "2022 Eschborn-Frankfurt",
+    "2022 Tirreno-Adriatico Stage 1"
+  ]
+}

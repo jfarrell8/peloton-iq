@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic attacker who exploits technical features (roundabouts, corners) in final kilometers rather than sustained power efforts. Prefers tactical positioning gambits over pure acceleration.",
+  "team_tactics": "Primary role as elite leadout specialist, delivering sprinters through technical final kilometers. Secondary role includes early domestique work for GC riders before major climbs (20km+ out).",
+  "terrain_preference": "Technical sprint finishes with critical positioning points (corners, roundabouts). Excels on downhill-to-headwind transitions requiring advanced bike handling. Struggles on pure power climbs.",
+  "vulnerability": "Lacks sustained power for breakaways beyond initial tactical surge. Early deployment on mountain stages suggests limited climbing durability at Grand Tour intensity.",
+  "key_patterns": [
+    "Controls critical final corners within 1km for sprinter delivery with elite precision (2 instances)",
+    "Launches tactical attacks at technical features gambling on hesitation rather than raw power (2 observations)",
+    "Deploys early for team duties on mountain stages well before decisive moments (2 instances)",
+    "Positioning expertise converts technical terrain advantages into leadout dominance"
+  ],
+  "form_trajectory": "neutral: 2022 shows consistent tactical intelligence but mixed execution—excellent leadout work countered by failed breakaway attempts lacking sustained power",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SCOTSON Miles",
+  "built_from": [
+    "2020 Giro d'Italia Stage 3",
+    "2022 Giro d'Italia Stage 5",
+    "2022 Giro d'Italia Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 19"
+  ]
+}

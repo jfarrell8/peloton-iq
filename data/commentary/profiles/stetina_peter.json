@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Initiates early breakaway attacks on first climbs of the day, willing to attack from established breakaways on penultimate climbs to defend position or gain time.",
+  "team_tactics": "Limited team support evident; operates independently in breakaways, relying on personal aggression rather than coordinated team setups.",
+  "terrain_preference": "Early climbs where breakaways form; performs on sustained climbs where aggressive tempo riding can be maintained. Penultimate climbs offer tactical advantage for his style.",
+  "vulnerability": "Vulnerable when peloton maintains high aggressive tempo that prevents breakaways from establishing gaps; struggles when unable to infiltrate early moves.",
+  "key_patterns": [
+    "Attacks early on first climbs to establish breakaway positions (2 observations)",
+    "Shows willingness to attack from within breakaways on penultimate climbs (2 observations)",
+    "Operates as aggressor even when holding advantageous position like race lead (2 observations)"
+  ],
+  "form_trajectory": "neutral: demonstrated consistent breakaway-focused tactics across both observations, though high peloton tempo limited effectiveness in 2019",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "STETINA Peter",
+  "built_from": [
+    "2018 Tour of Oman Stage 4",
+    "2019 Vuelta a Espana Stage 8"
+  ]
+}

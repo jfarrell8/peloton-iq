@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-11",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BARGUIL Warren soloed to victory from a 12-rider breakaway after EVENEPOEL Remco and others missed a crucial corner while chasing.",
+    "winner": "BARGUIL Warren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates refused to chase alone with Thomas 1:08 down overall, allowing 4-minute gap before other teams contributed.",
+      "EVENEPOEL Remco attacked with POGACAR on circuit climbs but missed corner, losing momentum while POGACAR recovered faster.",
+      "BARGUIL timed final attack on last circuit climb series, hitting cobbled section first to establish winning 51-second gap.",
+      "BRAMBILLA dropped from breakaway then rejoined chase group, exploiting positioning between break and peloton during corner chaos."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: missed crucial corner worse than others in same incident, couldn't recover while POGACAR did",
+      "POGACAR Tadej": "positive: turned quickest after missing corner and regained position, showing superior bike handling under pressure",
+      "BARGUIL Warren": "positive: withheld effort while ROUSSEAU Clément worked, then soloed with perfect timing on final climbs",
+      "THOMAS Benjamin": "neutral: 1:08 deficit caused UAE to ease pace but couldn't follow BARGUIL's final acceleration",
+      "PORTE Richie": "positive: described as lively on punishing uncategorized climbs, sitting 6th at 1:00 despite age"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:49:08.218971+00:00"
+}

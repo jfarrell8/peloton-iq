@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Willing to commit to very long-range attacks (65km out observed) from breakaways, showing ambition over calculated patience. Operates primarily from break situations rather than peloton-based moves.",
+  "team_tactics": "Limited evidence of team support; appears to operate independently in breakaway scenarios, relying on personal effort rather than domestique setup or coordinated team positioning.",
+  "terrain_preference": "Breakaway stages where sustained effort over distance matters more than explosive climbing power. Struggles to convert extended climb opportunities into results when cooperation breaks down.",
+  "vulnerability": "Illness has repeatedly compromised performance in Grand Tours (2 documented instances at Giro). Lacks elite finishing speed in sprint situations. Cannot sustain cooperation in fractured breakaways on extended climbs.",
+  "key_patterns": [
+    "Illness/sickness derailed performance at least twice during Giro, indicating health fragility in stage races.",
+    "Makes initial breakaway selections but struggles to maintain position when effort intensifies or cooperation fails.",
+    "Demonstrates willingness for ultra-long attacks but lacks support or tactical nous to convert them.",
+    "Strong enough to lead out sprints but fades in final meters, lacking elite top-end speed."
+  ],
+  "form_trajectory": "negative: Multiple instances of illness compromising breakaway efforts, with most recent 2023 Giro showing continued health-related performance issues",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BATTISTELLA Samuele",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2023 Giro d'Italia Stage 12",
+    "2023 Giro dItalia Stage 12"
+  ]
+}

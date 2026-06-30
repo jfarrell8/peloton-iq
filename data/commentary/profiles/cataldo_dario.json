@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Long-range breakaway specialist, committing to 200km+ efforts. Attacks systematically on multiple climbs within a stage to build advantage, showing persistence over explosive power.",
+  "team_tactics": "Functions as mountain domestique and breakaway delegate for Astana GC leaders. Limited evidence of dedicated team setup for his own opportunities; typically operates in self-sufficient breakaway mode.",
+  "terrain_preference": "Mountain stages with multiple categorized climbs where he can accumulate points and time through repeated efforts. Suited to HC climbs but descending technique limits ability to hold solo advantages against organized pursuit.",
+  "vulnerability": "Lacks final punch to drop strong rouleurs in late-stage duels. Descending skills insufficient to maintain solo advantages when chased by coordinated groups. Susceptible to early-race crashes affecting stage race continuity.",
+  "key_patterns": [
+    "Repeatedly attacks on every categorized climb within stage to maximize breakaway gains (2 instances)",
+    "Commits to ultra-long breakaways 200km+, maintaining sprint power despite sustained effort (2 instances)",
+    "Shows mechanical resilience, continuing aggressive racing despite equipment issues (2 instances)",
+    "Caught close to finish line when solo; stronger in group dynamics than alone (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2020 showed animation but reduced finishing power compared to 2019 stage win, suggesting aging domestique transitioning from occasional winner to breakaway workhorse",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "CATALDO Dario",
+  "built_from": [
+    "2017 Tour de France Stage 11",
+    "2018 Criterium du Dauphine Stage 4",
+    "2018 Tirreno-Adriatico Stage 5",
+    "2019 Giro d'Italia Stage 15",
+    "2019 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 10"
+  ]
+}

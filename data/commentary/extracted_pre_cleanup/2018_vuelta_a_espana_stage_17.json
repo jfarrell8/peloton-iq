@@ -1,0 +1,30 @@
+{
+  "label": "2018 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-12",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WOODS Michael attacked 800m from the summit finish, held off TEUNS Dylan's sprint, and won while VALVERDE Alejandro limited losses with a solo chase effort.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VALVERDE rode past roundabout without stopping at summit to minimize time loss, showing superior pacing intelligence under pressure.",
+      "YATES Simon accelerated when ARU crashed, exploiting chaos to create gap on QUINTANA who was immediately distanced.",
+      "TEUNS Dylan matched every acceleration until final 400m but superior sprint could not overcome WOODS' sustained power differential.",
+      "LÓPEZ Miguel Ángel went deep early in breakaway, then faded badly on final climb showing mismanaged effort distribution."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: attacked 800m from summit on percentage climb and sustained power gap despite TEUNS having superior sprint finish",
+      "ARU Fabio": "negative: crashed heavily into paving early on stage, stayed down indicating significant injury impact on GC ambitions",
+      "VALVERDE Alejandro": "positive: limited GC loss to 2:41 through tactical solo chase, showed mental presence to maximize effort without stopping",
+      "YATES Simon": "positive: immediately capitalized on ARU crash chaos to create gap, demonstrating sharp race awareness and opportunism",
+      "QUINTANA Nairo": "negative: tagged off immediately when YATES accelerated during crash confusion, suggesting poor positioning or form weakness",
+      "TEUNS Dylan": "neutral: matched WOODS repeatedly but lacked finishing power over final 400m despite having better sprint credentials",
+      "LÓPEZ Miguel Ángel": "negative: committed too much energy early in breakaway, then suffered badly on final climb revealing poor pacing discipline",
+      "DE GENDT Thomas": "positive: took KOM jersey lead through aggressive breakaway, demonstrating classification-specific tactical focus"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:47:59.809300+00:00"
+}

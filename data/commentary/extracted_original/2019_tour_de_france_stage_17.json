@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-24",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo attacked from a 33-rider breakaway with 37km remaining, dropped all chasers on final climb, won by 29 seconds over Asgreen.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE GENDT Thomas forced 33-rider break in first kilometer, proving sprinter teams won't chase oversized breaks in transition stages.",
+      "Deceuninck-QuickStep gave ASGREEN Casper freedom despite normally controlling, signaling they prioritized yellow jersey defense over stage hunting.",
+      "TRENTIN launched third acceleration on final climb to establish winning gap, showing serial attacks break elite breakaway riders better than single effort."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Solo attacked three times from elite 33-man break, dropped Asgreen/Wanty on final climb with 30-second margin",
+      "ASGREEN Casper": "positive: Given rare freedom by Deceuninck, chased Trentin alone up final climb but left it too late by third",
+      "DE GENDT Thomas": "neutral: Initiated break in kilometer one but missed final selection with 37km left, showing limits against pure finishers",
+      "ALAPHILIPPE Julian": "neutral: Held yellow with entire Deceuninck team sitting up, confirming they're managing GC not attacking stages in transition phases"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:14:34.863997+00:00"
+}

@@ -3,7 +3,14 @@
   "race_name": "Presidential Cycling Tour of Turkey",
   "race_date": "2017-10-13",
   "stage": 4,
-  "video": null,
+  "video": {
+    "video_id": "afZpsbEA65A",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=afZpsbEA65A",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
   "transcript": null,
-  "status": "no_video_found"
+  "status": "transcript_error:transcripts_disabled"
 }

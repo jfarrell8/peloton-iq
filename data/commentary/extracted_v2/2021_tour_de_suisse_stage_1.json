@@ -1,0 +1,20 @@
+{
+  "label": "2021 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-01-01",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KÜNG Stefan won the opening time trial on home roads after struggling in TT-specific training just two weeks prior.",
+    "winner": "KÜNG Stefan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "KÜNG's form peaked rapidly in final 14 days despite poor TT training baseline, suggesting effective taper/sharpening protocol."
+    ],
+    "rider_signals": {
+      "KÜNG Stefan": "positive: transformed from struggling in TT training sessions to winning on highly familiar local course within two-week window"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:55:55.585697+00:00"
+}

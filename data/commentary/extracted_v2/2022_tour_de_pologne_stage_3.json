@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-08-01",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won bunch sprint after INEOS used 2nd intermediate sprint at 12km to steal time bonifications, advancing THOMAS into top-5.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS weaponized second intermediate sprint inside 12km with dedicated ROW leadout to gain time bonifications mid-stage.",
+      "BISSEGER attacked final climb at 35km then repeatedly solo despite break still intact showing UAE sprint setup weakness.",
+      "BikeExchange committed chaser pre-12km mark while teams with GC ambitions ignored breakaway entirely revealing strategic priorities."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: moved into top-5 GC by contesting intermediate sprint bonus seconds, suggesting INEOS split resource allocation",
+      "BISSEGER Stefan": "neutral: attempted solo attacks from breakaway with 35km remaining but UAE chased down their own rider",
+      "SHACHMAN Mattia": "negative: caught in crash outside 3km safe zone and dropped from 2nd GC to outside top-10",
+      "SAGAN Peter": "positive: first World Tour win in over year ending nine-month drought suggests form peaking pre-Tour",
+      "WILLIAMS Stephen": "positive: Bahrain held yellow through messy finale while INEOS took aggressive intermediate sprint approach"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:25:40.446085+00:00"
+}

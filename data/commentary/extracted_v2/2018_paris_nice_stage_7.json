@@ -1,0 +1,25 @@
+{
+  "label": "2018 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-10",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked 4km from the summit of Col de la Colmiane, held off IZAGIRRE Ion and TEUNS Dylan to win and take yellow",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott positioned Yates perfectly throughout entire stage to preserve energy, then launched him with 4km remaining on Colmiane.",
+      "Sky and Astana rode together at peloton front to control breakaway gap, revealing potential coalition against GC threats.",
+      "Seven-man breakaway with Gallopin, De Marchi, Roche failed despite 3-minute gap, caught before final 13km showing insufficient firepower."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: first summit finish victory signals new climbing level beyond previous seventh on Alpe d'Huez/ninth on Colmiane baseline",
+      "SANCHEZ Luis Leon": "negative: lost over 4 minutes on Colmiane after intermediate sprint, dropped from GC top 10 entirely",
+      "TEUNS Dylan": "positive: BMC rider limited losses to winner by only 11 seconds despite not initiating the decisive move",
+      "IZAGIRRE Ion": "positive: followed Yates' 4km attack closely, lost only 12 seconds to take second on GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:25:46.976852+00:00"
+}

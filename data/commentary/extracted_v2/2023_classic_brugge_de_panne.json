@@ -1,0 +1,28 @@
+{
+  "label": "2023 Classic Brugge-De Panne",
+  "race_name": "Classic Brugge-De Panne",
+  "race_date": "2023-03-22",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won from a 4-rider breakaway after personally driving the selection on Moeren straight, distancing Ewan/Bennett/Groenewegen despite doing huge workload.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Deceuninck pre-emptively attacked on Moeren straight despite having sprinter Philipsen, paradoxically distancing rival sprinters through overwork.",
+      "Soudal-QuickStep's defensive pace with 4 riders backfired, allowing Philipsen/Kooij breakaway while dropping own sprinter Groenewegen.",
+      "FRISON Frederik's monster gear bridge to 4-man group (solo) proved possible when rivals hesitated behind organized chase.",
+      "Punctures and mechanical attrition disproportionately affected second group chasers, suggesting front positioning trumps saving energy in wind-affected finales."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Sustains winning speed after massive individual workload creating selection, unlike traditional sprinter energy management",
+      "GROENEWEGEN Dylan": "negative: Dropped when Ballerini paced for Soudal-QuickStep despite team having 4-rider numerical advantage",
+      "EWAN Caleb": "negative: Distanced early on Moeren straight when Philipsen attacked, suggesting insufficient positioning or weakness in medium crosswinds",
+      "FRISON Frederik": "positive: Solo bridged major gap pushing monster gear, finishing 4th after bridge work typically too costly",
+      "ACKERMANN Pascal": "negative: Dropped from lead group after pacing work, suggesting poor form despite doing domestique duty",
+      "LAMPAERT Yves": "neutral: Made 4-rider selection but Soudal-QuickStep's numerical advantage failed to control outcome against motivated Philipsen"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:35:17.005700+00:00"
+}

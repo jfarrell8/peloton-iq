@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Long-range breakaway specialist capable of leading efforts for 200km+, then mixing with sprinters in reduced bunch finishes. Exploits third-week fatigue and cobbled attrition rather than explosive late moves.",
+  "team_tactics": "Willing domestique who seizes opportunistic breakaway opportunities when team leadership allows. Self-sufficient in long efforts without apparent heavy team support.",
+  "terrain_preference": "Cobbled classics and flat attritional stages where time-trial engine and criterium handling skills provide advantage. Thrives in reduced sprint scenarios after selective racing rather than pure mass sprints.",
+  "vulnerability": "Limited observations suggest pure climbing stages absent from palmares. Relies on field attrition rather than raw acceleration to compete in finales.",
+  "key_patterns": [
+    "Performs best in attritional racing: cobbled classics eighth, third-week TdF ninth (2 instances)",
+    "Time-trial engine enables ultra-long breakaways (200km+) and survival in reduced groups (2 instances)",
+    "Criterium/handling skills translate to positioning advantage in chaotic finishes (2 instances)",
+    "Switches between domestique duties and personal opportunities based on race situation (2 instances)"
+  ],
+  "form_trajectory": "neutral: Consistent ability to finish top-10 in attritional scenarios from 2017-2018, but no evidence of progression to podium-level results",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "PHINNEY Taylor",
+  "built_from": [
+    "2017 Tour de France Stage 2",
+    "2018 Paris-Roubaix",
+    "2018 Tour de France Stage 18"
+  ]
+}

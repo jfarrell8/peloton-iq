@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-13",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET won from a late-splitting elite group after circuit ramp fractured the field, taking 10 bonus seconds and race lead over SÜTTERLIN.",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN deployed two teammates (BENNATI, GAVIRIA) in decisive split, showing Tinkoff prioritized stage over GC defense tactics.",
+      "Repeated circuit ramp naturally fragmented favorites without need for attacks; positioning before final lap proved decisive.",
+      "VAN AVERMAET sat on wheels until final 200m despite being strongest, extracting maximum bonus seconds risk-free.",
+      "SÜTTERLIN lost 7-second GC lead by failing to make circuit split, exposing time trial specialists' vulnerability on punchy circuits."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: Delivered when openly stating GC ambitions pre-stage, showing form confidence translates to execution on selective finishes.",
+      "SAGAN Peter": "neutral: Had numerical advantage with two teammates in break but couldn't convert, suggesting sprint hesitation on uphill drags.",
+      "KWIATKOWSKI Michał": "neutral: Present in decisive move and launched long-range attack inside final kilometer, indicating strong form but poor timing.",
+      "SÜTTERLIN Jasha": "negative: Lost race lead by missing circuit split despite holding 7 seconds, revealing inability to respond on repeated punchy climbs.",
+      "VAN GARDEREN Tejay": "negative: Dropped completely from top-10 GC on circuit stage, exposing fragility despite time trial strength earlier in race."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:06:05.632861+00:00"
+}

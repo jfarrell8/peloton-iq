@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-05",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Chris won the 40.2km time trial by 29 seconds over Kelderman, sitting 4th at first intermediate before accelerating mid-race to take command.",
+    "winner": "FROOME Chris",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Froome deliberately paced conservatively through first split (23sec down, 4th) then unleashed full effort at mid-race checkpoint, revealing calculated energy distribution.",
+      "Contador rode exceptionally strong TT for final career individual effort, suggesting retirement motivation can temporarily override age-related decline in specialists.",
+      "Kelderman beat all GC rivals except Froome by significant margins, exposing him as underrated TT threat for stage race podiums."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: negative-split TT strategy (4th at first check, leader at second) shows superior pacing intelligence and indicates strong form before crucial mountain stage",
+      "KELDERMAN Wilco": "positive: 2nd place 29sec down but significantly ahead of other GC riders suggests he's podium-caliber if mountain legs hold",
+      "CONTADOR Alberto": "positive: 5th place in final career TT and jumped from 9th to 5th overall proves legacy motivation can produce outlier performances",
+      "NIBALI Vincenzo": "negative: lost nearly 2 minutes to Froome and dropped from podium, confirming suspected weakness against clock",
+      "CHAVEZ Esteban": "negative: lost over 4 minutes and collapsed in GC, revealing complete inability to sustain long TT efforts despite climbing prowess"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:13:42.954916+00:00"
+}

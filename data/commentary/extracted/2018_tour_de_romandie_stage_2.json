@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-26",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won a technical wet sprint in Qinzhou, defeating JAKOBSEN Fabio in a textbook BORA-hansgrohe leadout on flooded roads.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-hansgrohe delivered textbook leadout in treacherous wet conditions while other sprint trains faltered in flooding, exposing positioning discipline gap.",
+      "GRØNEWEGEN Dylan lost despite holding race lead, suggesting points jersey pressure diverted team resources from optimal sprint train organization.",
+      "Five-rider break with three TT specialists (DOWSETT, GRIVKO, DOUCET) still controlled easily, revealing underpowered breakaway selection in short flat stages."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: eighth win of season shows consistent sprint form, fourth World Tour victory demonstrates elevation to top-tier sprinter status.",
+      "PORTE Richie": "negative: DNS stage two, career-ending retirement from BMC in poor weather conditions suggests injury or illness accelerated decision.",
+      "GRIVKO Andrey": "positive: second consecutive day in breakaway despite mechanical indicates exceptional recovery and opportunistic breakaway positioning instincts.",
+      "GROENEWEGEN Dylan": "negative: vanquished in sprint despite red jersey and points lead suggests team tactical focus compromised by jersey defense duties.",
+      "DOWSETT Alex": "positive: aggressive in break on flat stage atypical for pure time trialist, signals improved road racing positioning beyond TT specialty.",
+      "JAKOBSEN Fabio": "positive: second place against strong field in difficult conditions confirms consistent sprint threat even without optimal leadout.",
+      "NAVARDAUSKAS Ramūnas": "negative: vehicle collision forced retirement, reveals increased danger of team car proximity in wet peloton conditions."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:40:17.181612+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Solo attacks from breakaways on HC mountain finishes, capable of dropping quality climbers in final kilometers. Demonstrates ability to win consecutive mountain stages when in form.",
+  "team_tactics": "Bahrain allows freedom in breakaways for stage hunting rather than pure GC protection. Teammates like PORT provide diversionary late attacks for time bonuses while PADUN targets stage wins.",
+  "terrain_preference": "HC category mountain finishes where pure climbing power decides outcomes. Excels on sustained final climbs where he can grind down rivals in closing kilometers.",
+  "vulnerability": "Equipment failures at critical moments (broken wheel cost stage win at Giro). Late-race fatigue may limit ability to recover from mechanical setbacks when already at threshold.",
+  "key_patterns": [
+    "Wins from breakaways on consecutive HC mountain stages, demonstrating repeatable stage-hunting capability (2 stages)",
+    "Operates dual objectives: stage wins plus KOM jersey calculations simultaneously",
+    "Outclimbs established WorldTour climbers (Kuss) on HC finishes when in peak form",
+    "Mechanical issues compound when already fatigued, suggesting limited margin for error in Grand Tours"
+  ],
+  "form_trajectory": "positive: Back-to-back HC mountain stage wins at age 24 showing emergence as genuine WorldTour-level climber and stage hunter",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "PADUN Mark",
+  "built_from": [
+    "2020 Giro d'Italia Stage 12",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 8",
+    "2021 Criterium du Dauphine Stage 8"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-27",
+  "stage": 3,
+  "channel": "Giro d'Italia",
+  "extraction": {
+    "one_line_summary": "Insufficient commentary provided - transcript contains only the word 'you', no race information available",
+    "winner": "UNKNOWN",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:05:39.794189+00:00"
+}

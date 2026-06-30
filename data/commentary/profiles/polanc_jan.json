@@ -1,19 +1,26 @@
 {
-  "attacking_style": "Early breakaway specialist who attacks from the break rather than the peloton, capable of solo efforts in final kilometers against elite chase groups on mountain stages.",
-  "team_tactics": "Operates with freedom to join early breakaways; minimal visible team setup required as tactics rely on individual initiative from the break.",
-  "terrain_preference": "Mountain stages with sustained climbs where breakaway specialists can hold off GC riders; demonstrates ability to power through headwinds on exposed finishes.",
-  "vulnerability": "Limited data prevents clear identification of weaknesses; likely vulnerable when GC teams commit to full chase or on explosive short climbs favoring pure climbers.",
+  "attacking_style": "Launches decisive attacks 4-5km from finish on climbs, preferring headwind or tactically complex situations where cooperation breaks down. Opportunistic rather than pure power-based.",
+  "team_tactics": "Primary role as UAE domestique controlling pace for GC leaders; performs extended tempo pulls even without stage outcome incentives, burning matches to defend team positioning.",
+  "terrain_preference": "Medium-length climbs where tactical positioning trumps pure climbing watts; struggles on steep gradients and long final ascents where climber hierarchy gets exposed.",
+  "vulnerability": "Fades badly on extended final climbs after day-long efforts; steep gradient sections temporarily drop him even when holding GC position. Poor climber classification undermines breakaway sustainability.",
   "key_patterns": [
-    "Multiple Giro stage wins from breakaways, indicating consistent execution of early-move tactics.",
-    "Sustained power in adverse conditions: held off 20-rider GC group in headwinds.",
-    "Climbing ability exceeds typical breakaway specialist profile, enabling mountain stage victories."
+    "Veteran pacing: struggles early on climbs but recovers to respectable finishes (2022 Vuelta 4th place)",
+    "Domestique commitment: performs extended peloton control work for UAE GC riders without personal stage ambitions",
+    "Break fade tendency: holds promising positions from breakaways but collapses on final climbs when tested",
+    "GC defense vulnerability: temporarily gapped on steep sections even with substantial overall time advantages (4:07 margin)"
   ],
-  "form_trajectory": "positive: Multiple stage wins at same Giro demonstrates excellent form and ability to repeat success",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "neutral: Recent 2022 results show consistent domestique execution but mixed climbing resilience, suggesting stable role player without progression",
+  "races_analysed": 6,
+  "confidence": "medium",
   "rider_name": "POLANC Jan",
   "built_from": [
-    "2017 Giro d'Italia Stage 10",
-    "2017 Giro d'Italia Stage 10"
+    "2017 Giro d'Italia Stage 4",
+    "2017 Giro d'Italia Stage 4",
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 13",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 12",
+    "2022 Tour de Romandie Stage 2",
+    "2022 Tour de Romandie Stage 2"
   ]
 }

@@ -1,17 +1,35 @@
 {
-  "attacking_style": "Opportunistic attacker who exploits tactical stalemates among marked favorites, prefers launching on penultimate climbs rather than waiting for traditional finale locations.",
-  "team_tactics": "Insufficient data from single race observation to establish team tactical patterns.",
-  "terrain_preference": "Penultimate climbs where favorites are still marking each other; capable of holding substantial gaps (30+ seconds) through subsequent climbs to finish.",
-  "vulnerability": "Insufficient data to identify repeated weakness patterns across multiple races.",
+  "attacking_style": "Attacks solo on penultimate or transitional climbs (30-45km out), exploiting tactical hesitation among favorites rather than pure climbing power. Prefers catching opponents watching each other on earlier climbs before decisive summits.",
+  "team_tactics": "Limited domestique support visible in data. Operates as lone finisher, relying on tactical positioning and opponent indecision rather than team-driven tempo control or leadouts.",
+  "terrain_preference": "Undulating terrain with medium-category climbs and long run-ins to finish. Excels on penultimate climbs (Cat-2) where sustained power over 30-45km matters more than explosive climbing. Weak on sustained HC climbs with high tempo.",
+  "vulnerability": "Exposed when opponents set sustained high tempo on HC climbs (distanced early multiple times). Poor positioning in controlled stages loses significant time in splits. Lacks finishing sprint to convert breakaway opportunities.",
   "key_patterns": [
-    "Insufficient observations: Only 1 race analyzed, cannot establish patterns requiring 2+ instances"
+    "Attacks 30-45km out on penultimate climbs, exploiting favorites' tactical standoffs (2 stage wins)",
+    "Distanced or caught in splits when opponents control sustained HC tempo (3 instances)",
+    "Refuses tactical cooperation even when mutually beneficial, prioritizing relative GC gaps",
+    "Targets stage wins after GC setbacks, switching from defense to opportunistic offense",
+    "Lacks sprint finish to convert breakaway positioning into wins (multiple chase group finishes)"
   ],
-  "form_trajectory": "positive: Demonstrated tactical awareness and physical strength to convert recognition of favorable race situation into Monument victory",
-  "races_analysed": 1,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2021 stage win demonstrates peak power remains strong, but 2021 Giro positioning issues suggest consistency concerns in Grand Tour GC scenarios",
+  "races_analysed": 11,
+  "confidence": "high",
   "rider_name": "MOLLEMA Bauke",
   "built_from": [
+    "2017 Giro d'Italia Stage 14",
+    "2017 Giro d'Italia Stage 15",
+    "2017 Giro d'Italia Stage 15",
+    "2017 Giro d'Italia Stage 19",
+    "2017 Giro d'Italia Stage 9",
+    "2017 Giro d'Italia Stage 9",
+    "2018 Vuelta a Espana Stage 5",
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 12",
     "2019 Il Lombardia",
-    "2019 Il Lombardia"
+    "2019 Il Lombardia",
+    "2020 Il Lombardia",
+    "2020 Tour de France Stage 9",
+    "2021 Giro d'Italia Stage 15",
+    "2021 Tour de France Stage 14",
+    "2021 Tour de France Stage 14"
   ]
 }

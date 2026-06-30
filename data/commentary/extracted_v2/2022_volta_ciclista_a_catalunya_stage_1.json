@@ -1,0 +1,25 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-21",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won a two-up drag race against Colbrelli on the 3.2km finishing climb, repeating his 2019 victory on the identical finish",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Multiple breakaway reformations indicate headwind neutralized early moves; teams conserving for final climb despite lumpy profile.",
+      "Jumbo-Visma control from 7.7km despite no sprinter suggests wind-splitting or GC positioning as primary objective.",
+      "Wet technical descent 26km out caused selection more than final climb; Carapaz crashed showing GC riders vulnerable descending."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: Executed exact same finish as 2019, suggesting pre-race reconnaissance and specific preparation for this gradient",
+      "COLBRELLI Sonny": "negative: Lost two-up sprint despite European champion status; required medical assistance post-finish indicating bronchitis still impacting",
+      "CARAPAZ Richard": "negative: Crashed on wet descent 26km out requiring Ineos relay back; technical descending vulnerability exposed",
+      "PETERS Nans": "negative: Bridged to break then immediately punctured with no team car support revealing poor gap management"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:30:22.749874+00:00"
+}

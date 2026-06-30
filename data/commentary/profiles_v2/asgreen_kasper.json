@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Attacks from extended breakaways in 200km+ races, typically 4-5km from finish or on decisive late climbs (Kwaremont at 39km). Prefers diesel-engine attrition over explosive accelerations, winning through superior endurance in already-reduced groups.",
+  "team_tactics": "Quick-Step deploys him after full team control with numerical superiority (7 riders at E3). Benefits from teammates' earlier selection moves (Lampart softening in UAE) before solo bridging or late attacks. Team willing to control entire stages for his GC protection.",
+  "terrain_preference": "Excels on 200km+ Flemish Classics with multiple climbs and extended attrition warfare. Strong on gravel sectors (Strade Bianche chaser) but lacks explosive power for short punchy finishes. Power-to-weight endurance advantage in prolonged breakaways.",
+  "vulnerability": "Exposed on steep explosive climbs like Patterberg when lacking form (dropped 2022). Single-day specialist - stage race form appears inferior to one-day fitness. Lacks final 50m sprint acceleration against pure sprinters when equally fatigued.",
+  "key_patterns": [
+    "Won both E3 and Flanders 2021 after performing full domestique duties earlier, diesel engine specialist.",
+    "Exceptional solo bridging ability demonstrated twice: 1.7km gap to Evenepoel, strongest Strade Bianche chaser.",
+    "Thrives in numerical team superiority situations, isolated rivals despite being weaker at E3 2021.",
+    "Form regression visible: defending E3 champion dropped on Patterberg 2022, ninth place finish.",
+    "Outsprints rivals in extended efforts when they crack, not through pure speed Van der Poel 50m."
+  ],
+  "form_trajectory": "negative: 2022 showed clear regression from dominant 2021 Classics campaign, dropped on Patterberg at E3 defense, form concerns evident",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "ASGREEN Kasper",
+  "built_from": [
+    "2019 Tour de Suisse Stage 3",
+    "2019 UAE Tour Stage 3",
+    "2019 UAE Tour Stage 3",
+    "2020 Paris - Nice Stage 4",
+    "2021 Criterium du Dauphine Stage 5",
+    "2021 E3 Saxo Bank Classic",
+    "2021 E3 Saxo Bank Classic",
+    "2021 Ronde van Vlaanderen - Tour des Flandres",
+    "2021 Ronde van Vlaanderen - Tour des Flandres",
+    "2022 E3 Saxo Bank Classic",
+    "2022 Strade Bianche"
+  ]
+}

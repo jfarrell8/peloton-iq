@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 19",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-03",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from a 7-man break after SIMMONS Quinn attacked early but NIELSEN's lead-out timing beat OLIVEIRA's pure sprint speed by half a wheel.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "OLIVEIRA Rui attacked early in 18-rider break to eliminate non-sprinters but paradoxically weakened himself for final sprint.",
+      "BikeExchange and DSM refused cooperation until final 8km, ensuring break survived by maintaining 30-second inefficient chase buffer.",
+      "SIMMONS Quinn forced to launch solo attack knowing sprint disadvantage, but break's cat-and-mouse delayed until final kilometers negated."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: Third stage win despite EF depleted to skeleton team after losing three riders including GC leader CARTHY",
+      "OLIVEIRA Rui": "negative: Attacked to shed break passengers as fastest sprinter but burned matches that cost him the win",
+      "SIMMONS Quinn": "neutral: Correctly read sprint disadvantage and went long but lacked firepower to hold off organized lead-out",
+      "MENKES Louis": "negative: Top-10 GC bid ended by crash in peloton compression during disorganized BikeExchange-DSM chase coordination",
+      "DENZ Nico": "negative: DSM chased own breakaway rider rather than committing to his chances in quality 18-rider group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:43:31.830033+00:00"
+}

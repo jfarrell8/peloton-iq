@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-11",
+  "stage": 3,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the sprint on 9km straight drag in wet conditions, taking race lead from teammate protection target GROENEWEGEN",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway contested all intermediate sprints aggressively for bonus seconds, unusual for stage races with climbing stages ahead.",
+      "Quick-Step allowed Jakobsen to win despite Groenewegen holding race lead, revealing internal sprint hierarchy before mountains.",
+      "9km straight exposed teams unable to organize late leadouts in wet conditions; early positioning proved decisive."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: 7th win of rookie season beating established German sprint school, now leads race overall unexpectedly",
+      "GROENEWEGEN Dylan": "negative: finished outside top-3 despite team controlling pace all day, lost race lead to own teammate",
+      "ACKERMANN Pascal": "negative: failed to convert on home-favorite German sprinter advantage despite strong form claims",
+      "BEWLEY Sam": "neutral: led intermediate sprint efforts for breakaway showing willingness to contest bonuses aggressively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:35:16.855216+00:00"
+}

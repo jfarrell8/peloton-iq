@@ -1,0 +1,27 @@
+{
+  "label": "2018 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2018-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter attacked 53km from finish at Mons-en-Pévèle cobbles, established 1:30 lead, held off TERPSTRA Niki's chase to win alone.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN Peter attacked from favorites group rather than bridging to breakaway first, avoiding energy expenditure on chase.",
+      "TERPSTRA Niki drove chase group at Carrefour de l'Arbre but started organizational work too late to close 1:30 gap.",
+      "Bora-Hansgrohe shut down TEUNISSEN Mike/GILBERT Philippe/POLITT Nils trio early, forcing SAGAN Peter to attack from larger group later.",
+      "DILLIER Silvan track background insufficient for velodrome sprint against road power, suggesting track pedigree overrated in Roubaix finish."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Won after mechanical self-repair suggests exceptional form when maintaining race-winning gap requires no team support.",
+      "DILLIER Silvan": "positive: Only rider matching SAGAN's tempo from 20km suggests Swiss climbers undervalued on sustained cobbled power sections.",
+      "TERPSTRA Niki": "neutral: Led chase to third but organizational work began too late, suggesting team isolation or tactical miscalculation.",
+      "PHINNEY Taylor": "positive: Eighth place in reduced sprint group indicates American time-trialists handle cobbled attrition better than positioning suggests.",
+      "GILBERT Philippe": "negative: Early attack at section 19 with TEUNISSEN neutralized, lacked legs to follow when SAGAN launched decisive move."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:31:14.754793+00:00"
+}

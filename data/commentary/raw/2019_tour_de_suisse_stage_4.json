@@ -4,85 +4,21 @@
   "race_date": "2019-06-18",
   "stage": 4,
   "video": {
-    "video_id": "_J2F5e_t4iY",
-    "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
-    "published": "2019-06-17 17:23:18+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=_J2F5e_t4iY",
-    "match_score": 95.0,
-    "all_candidates": [
-      {
-        "video_id": "_J2F5e_t4iY",
-        "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
-        "channel": "Velon",
-        "published": "2019-06-17 17:23:18+00:00",
-        "match_score": 95.0
-      },
-      {
-        "video_id": "NhdYZx6dOrM",
-        "title": "Tour de Suisse 2019: Stage 1 highlights",
-        "channel": "Velon",
-        "published": "2019-06-15 21:58:44+00:00",
-        "match_score": 80.0
-      },
-      {
-        "video_id": "NYGJt5jXjfE",
-        "title": "Tour de Suisse 2019: Stage 2 highlights",
-        "channel": "Velon",
-        "published": "2019-06-16 18:25:07+00:00",
-        "match_score": 80.0
-      },
-      {
-        "video_id": "rbaSyFhi1G8",
-        "title": "Tour de Romandie 2019 | Stage 4 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-05-05 15:58:11+00:00",
-        "match_score": 78.18
-      },
-      {
-        "video_id": "ki6UdI6OIhQ",
-        "title": "Tour de Romandie 2019 | Stage 4 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-05-04 16:39:56+00:00",
-        "match_score": 78.18
-      },
-      {
-        "video_id": "9-cRft_0Iv8",
-        "title": "Tour of Utah 2019 | Stage 4 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-08-17 18:28:43+00:00",
-        "match_score": 75.22
-      },
-      {
-        "video_id": "vt3c8zyIA_U",
-        "title": "Tour de Suisse 2019: Inside the Race on Stage 7",
-        "channel": "Velon",
-        "published": "2019-06-21 20:55:45+00:00",
-        "match_score": 75.0
-      },
-      {
-        "video_id": "vl8srjxacF8",
-        "title": "Tour de Suisse 2019: Stage 7 on-bike",
-        "channel": "Velon",
-        "published": "2019-06-21 18:33:00+00:00",
-        "match_score": 75.0
-      },
-      {
-        "video_id": "8s8jRvap3K8",
-        "title": "Tour of Guangxi 2019: Stage 4 Highlights",
-        "channel": "Velon",
-        "published": "2019-10-20 07:19:55+00:00",
-        "match_score": 74.58
-      },
-      {
-        "video_id": "qn-3lAssz6U",
-        "title": "Tour of Guangxi 2019: Stage 4 On-Bike Highlights",
-        "channel": "Velon",
-        "published": "2019-10-20 12:39:18+00:00",
-        "match_score": 74.58
-      }
-    ]
+    "video_id": "C35phk9YbBw",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=C35phk9YbBw",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 44,
+    "raw_chars": 1593,
+    "clean_chars": 1585,
+    "duration_mins": 1.7,
+    "clean_text": "after a swift opening to the stage in the yura hills a four-man breakaway comprising Robin carpenter of Raleigh Hugh HC taco van der horn of yumbo bhisma CCC's simon gasket and the swiss national team's john freeze eka opened up an advantage of more than three and a half minutes behind Sagan's Bora hansgrohe a squad controlled the gap to the leaders who were closed down one by one as the climbs in the second half of the stage took their toll a crash with 30 kilometers to go claimed and recites of Astana and pre-race favorite Garen Thomas both of whom were taken to hospital after their high speed tumbles Tour de France champion Thomas sustained cuts and bruises to his back and above his right eye this latest setback having a difficult week for team in EOS a front freeze echo lasted longest of the breakaway riders as Sagan's Bora Han Square team led the charge before another local favorite Mattias Franck of 82 or LeMond TL tried to prevent what seemed an inevitable bunch sprint de Koning Quick Step took up the lead at Judy's with Casper a screen handing over to evil impart and Michael Moore coup in the final relay to present Elia Viviani with the perfect position to begin his final sprint segond followed the Italian champion but Viviani was not to be denied the 30 year old taking his fifth win of the season in his first victory at Tour de Suisse Michael Matthews tips again to 2nd and moved up to second overall a cigar and held on to his overall lead for another day I'm pretty proud of my team and happy with this win because yeah it's a long time I don't win you",
+    "preview_start": "after a swift opening to the stage in the yura hills a four-man breakaway comprising Robin carpenter of Raleigh Hugh HC taco van der horn of yumbo bhisma CCC's simon gasket and the swiss national team's john freeze eka opened up an advantage of more than three and a half minutes behind Sagan's Bora hansgrohe a squad controlled the gap to the leaders who were closed down one by one as the climbs in the second half of the stage took their toll a crash with 30 kilometers to go claimed and recites o",
+    "preview_end": "rt and Michael Moore coup in the final relay to present Elia Viviani with the perfect position to begin his final sprint segond followed the Italian champion but Viviani was not to be denied the 30 year old taking his fifth win of the season in his first victory at Tour de Suisse Michael Matthews tips again to 2nd and moved up to second overall a cigar and held on to his overall lead for another day I'm pretty proud of my team and happy with this win because yeah it's a long time I don't win you"
+  },
+  "status": "transcript_saved"
 }

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not attack for stage wins; instead methodically targets classification points from breakaways across multiple categorized climbs throughout the stage.",
+  "team_tactics": "Operates independently in breakaways with autonomy to pursue classification objectives rather than stage results, suggesting team support for alternative goals.",
+  "terrain_preference": "Categorized climbs where KOM points are available. Demonstrates superior climbing legs capable of repeatedly distancing rivals across multiple ascents in a single stage.",
+  "vulnerability": "Unlikely to contest sprint finishes or stage victories; classification focus means vulnerable to being marked by dedicated rivals in breakaways.",
+  "key_patterns": [
+    "Targets KOM classifications systematically, collecting points on all categorized climbs (evidenced in 2 races)",
+    "Races from breakaways rather than main peloton, prioritizing classification over stage results (2 observations)",
+    "Shows disciplined restraint, not wasting energy contesting stage when classifications are the objective (2 races)"
+  ],
+  "form_trajectory": "positive: demonstrated superior climbing form in most recent race, defeating motivated rival across all four KOMs",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DILLIER Sylvan",
+  "built_from": [
+    "2018 Tour de Suisse Stage 5",
+    "2018 Tour of Guangxi Stage 5"
+  ]
+}

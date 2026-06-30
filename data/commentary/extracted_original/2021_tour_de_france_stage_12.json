@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-08",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POLITT Nils soloed to victory from 12km out after escaping a 13-rider breakaway on an uncategorized climb inside 15km.",
+    "winner": "POLITT Nils",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora sacrificed Sagan DNS but salvaged team morale by driving echelons early then committing Politt to breakaway.",
+      "World champion Alaphilippe in 13-rider break signals UAE/Deceuninck willing to burn cards on ambiguous transition stages.",
+      "Politt's winning move on uncategorized climb at 12km proves breakaway selection matters more than categorized summit positioning."
+    ],
+    "rider_signals": {
+      "POLITT Nils": "positive: First-year Bora signing immediately repaid classics pedigree with sustained 12km solo, suggesting undervalued stage-hunting threat.",
+      "ERVITI Imanol": "positive: 17-year domestique nearly won from break, revealing Movistar's depth riders have autonomy on non-GC days.",
+      "SWEENEY Harry": "positive: Tour debutant podiumed from elite 13-rider break, signaling dangerous late-race positioning instincts.",
+      "ALAPHILIPPE Julian": "neutral: World champion made selection but faded on uncategorized climb, suggesting form not yet peaked mid-tour.",
+      "THOMAS Geraint": "negative: Caught in group three/four during echelons despite no major splits, showing Sky/Ineos vulnerability without full train.",
+      "CAVENDISH Mark": "positive: Green jersey points from peloton arrival confirms he's hunting classification through consistency, not stage wins alone."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:30:29.259945+00:00"
+}

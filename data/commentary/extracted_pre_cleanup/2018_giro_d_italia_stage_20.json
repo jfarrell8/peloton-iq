@@ -1,0 +1,30 @@
+{
+  "label": "2018 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-26",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME defended his 40-second GC lead over DUMOULIN on final mountain stage after DUMOULIN attacked repeatedly but cracked inside final 9km.",
+    "winner": "GROßSCHARTNER Felix",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DUMOULIN attacked three times within 9km finale, each exceeding 600 watts, but serial efforts caused self-destruction before summit.",
+      "FROOME counterattacked after repelling DUMOULIN's digs, exploiting rival's overcommitment rather than purely defending tempo.",
+      "Team Sky marshalled breakaway gap all day while Sunweb lacked domestique support, forcing DUMOULIN into premature solo aggression.",
+      "NIEVE attacked from breakaway with emotion-driven aggression, suggesting psychological factors trump pure form on final mountain stages."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: shook head after third acceleration inside 9km, went irreversibly into red from repeated maximal efforts.",
+      "FROOME Chris": "positive: confident enough to counterattack after absorbing 600+ watt surges, read rival's overcommitment perfectly.",
+      "PINOT Thibaut": "negative: hit severe bonk second consecutive day, nearly passed out requiring roadside sugar intervention.",
+      "YATES Simon": "negative: dropped second consecutive day early in stage, revealing cumulative fatigue after previous efforts.",
+      "NIEVE Mikel": "positive: attacked breakaway with anger-driven intensity, demonstrating psychological motivation compensates depleted legs late-race.",
+      "GROßSCHARTNER Felix": "positive: escaped breakaway and held off chase to win, showing autonomy when given leadership freedom.",
+      "OOMEN Sam": "negative: dropped immediately on first DUMOULIN acceleration, failed support role when leader needed pacing.",
+      "BILBAO Pello": "negative: shed on initial surge inside 9km, insufficient climbing form for GC defense situations."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:25:40.833295+00:00"
+}

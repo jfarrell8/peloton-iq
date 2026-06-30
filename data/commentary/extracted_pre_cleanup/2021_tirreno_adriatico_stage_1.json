@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-10",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the flat sprint on Stage 1 after Jumbo-Visma executed a dominant leadout, holding off EWAN Caleb and GAVIRIA Fernando in the final 200m.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled full final circuit with sustained pace that prevented Quick-Step organizing for BALLERINI or HODEG.",
+      "VELASCO Simone targeted intermediate sprint for GC positioning, exploiting that pure sprinters often skip bonus seconds mid-stage.",
+      "UAE Emirates committed two riders for GAVIRIA leadout but could not overpower Jumbo-Visma's sustained high-speed train."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: converted perfect leadout positioning into sprint victory despite not expecting to beat pure sprinters at high speed",
+      "EWAN Caleb": "negative: positioned on VAN AERT wheel but lacked acceleration to come around, suggesting timing or form deficit",
+      "GAVIRIA Fernando": "positive: UAE committed full leadout and secured second, showing competitive sprint form early season",
+      "BALLERINI Davide": "negative: Quick-Step isolated with no organized leadout despite team strength, eighth place suggests positioning failure",
+      "HODEG Álvaro José": "neutral: Quick-Step tried late recovery with HODEG but no systematic leadout materialized, seventh place",
+      "ALBANESE Vincenzo": "positive: won intermediate KOM sprint over BAKELANTS, securing climber's jersey through breakaway positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:05:17.446150+00:00"
+}

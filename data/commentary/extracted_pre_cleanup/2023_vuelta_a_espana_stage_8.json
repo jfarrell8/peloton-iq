@@ -1,0 +1,29 @@
+{
+  "label": "2023 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC won from reduced GC group sprint with bonus seconds, SEPP KUSS took red jersey after controlling finale and dropping MARTINEZ on final climb.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SEPP KUSS neutralized attacks while teammates VINGEGAARD and ROGLIC collected stage bonus seconds, perfect combined leadership tactic.",
+      "Early breakaway of 30 riders internally fractured on crosswinds before first climb, revealing size creates vulnerability not strength.",
+      "EVENEPOEL rode front excessively into finale, sacrificed sprint position despite controlling race, tactical execution error despite fitness.",
+      "MARTINEZ lost red jersey and over minute on final wall climb, exposed gap between one-week and three-week conditioning."
+    ],
+    "rider_signals": {
+      "SEPP KUSS": "positive: Controlled GC group personally while teammates took stage honors, showing genuine Grand Tour leadership capacity not just domestique form.",
+      "ROGLIC Primoz": "positive: Won stage sprint after multiple mountain efforts, indicates layered form beyond typical one-dimensional climber preparing.",
+      "EVENEPOEL Remco": "neutral: Dominated race tactically but poor sprint execution from front suggests inexperience translating control into results.",
+      "MARTINEZ Lenny": "negative: Lost over minute and jersey on short steep wall, signals unsustainable early race positioning.",
+      "VLASOV Aleksandr": "positive: Recovered from early climb difficulty to finish with GC group, deep endurance compensating for explosive weakness.",
+      "LANDA Mikel": "positive: Advanced to fifth overall after being distanced in breakaway earlier, pacing strategy superior to early aggression.",
+      "SOLER Marc": "positive: Finished second overall at stage end, quietly consistent while others attacked and faded."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:35:11.893428+00:00"
+}

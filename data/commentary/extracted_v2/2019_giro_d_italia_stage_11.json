@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-22",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won by sitting on ACKERMANN Pascal's wheel until 450m to go, timing his sprint perfectly in crosswind finale.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bora-hansgrohe denied ACKERMANN sprint points at intermediate by SELIG outsprinting, revealing team friction over ciclamino competition.",
+      "EWAN deliberately chose ACKERMANN's wheel over others because Pascal already proven fastest with best train, tactical wheel choice over team loyalty.",
+      "Dimension Data positioned NIZZOLO in final kilometer but lacked finishing speed, highlighting leadout execution without firepower problem.",
+      "Crosswind finale at 1km forced teams left, creating positioning chaos that benefited wheel-surfers over organized trains."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: admitted being more relaxed after first win saved energy, suggests psychological burden of winless GT affects sprint performance",
+      "ACKERMANN Pascal": "negative: went too early at 450m despite having fastest leadout, timing error cost certain victory against weaker finisher",
+      "VIVIANI Elia": "negative: stuck to predetermined plan rather than adapting to positioning chaos, inflexible tactics continued winless streak",
+      "NIZZOLO Giacomo": "negative: perfect leadout positioning but lacks raw speed to convert, perennial bridesmaid without stage wins despite two points jerseys",
+      "DIMA Damiano": "positive: actively targeting ciclamino with 700km+ breakaway kilometers, strategic sprint point accumulation through breakaway monopoly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:47:57.274828+00:00"
+}

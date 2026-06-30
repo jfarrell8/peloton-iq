@@ -1,0 +1,29 @@
+{
+  "label": "2023 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BOZZANA Filippo won from breakaway on home roads in Veneto, ROGLIC Primoz attacked to move into second overall, THOMAS Geraint matched him, ALMEIDA Joao dropped to third",
+    "winner": "ZANA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC Primoz attacked final climb while ALMEIDA Joao needed VINE Jay pacing support, revealing strength differential between second-place rivals",
+      "INEOS controlled valley before final three climbs, allowing breakaway six minutes but attacking third-from-last climb to isolate rivals early",
+      "Israel Premier Tech animated race with PINO Andrea and ZANA Filippo but lacked cohesion when GEE Derek and FRIGO Marco forced to chase separately",
+      "VINE Jay descent mistake cost ALMEIDA Joao critical seconds, demonstrating support rider errors decisive in tight GC battles with seconds separating podium"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: attacked final climb after speculation about weakness, gained 28 seconds on Almeida to move into second overall",
+      "ALMEIDA João": "negative: required VINE Jay pacing support on final climb, dropped from second to third, lost 28 seconds through support rider descent error",
+      "THOMAS Geraint": "positive: rode isolated from teammates on final climbs yet never lost contact with Roglic attacks, defending pink at 37 years old",
+      "DUNBAR Eddie": "positive: moved up GC despite losing time to leaders, suggesting weak competition below top five positions",
+      "ZANA Filippo": "positive: won sprint from breakaway on home Veneto roads in Italian champion jersey after breakaway gained nearly six minutes",
+      "PINO Andrea": "negative: second sprint finish loss in three days from breakaway, lacks finishing power despite making successful selections",
+      "HEALY Ben": "negative: attacked at race start then immediately dropped, lost blue jersey to TIBOPINO after full gas opening on flat Veneto roads"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:02:41.694539+00:00"
+}

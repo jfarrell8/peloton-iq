@@ -1,0 +1,27 @@
+{
+  "label": "2018 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-09",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MOLARD Rudy attacked solo under 2km to go on the uphill finish to Vence, resisting late-chase favorites after POELS Wout abandoned.",
+    "winner": "MOLARD Rudy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOLARD attacked inside final 2km on uphill finish, demonstrating that late solo moves work when peloton hesitates after regrouping.",
+      "DE GENDT Thomas positioned in intermediate break but was neutralized on flat section before final climb, showing break timing limits.",
+      "Favorites waited until 5km to react after catching escapees at 25km, revealing hesitation creates windows for outsider attacks."
+    ],
+    "rider_signals": {
+      "MOLARD Rudy": "positive: First World Tour win with perfectly timed late attack on uphill finish, lives locally and pre-rode course extensively.",
+      "POELS Wout": "negative: Abandoned while second overall during climb of Col de l'Ecre, significant weakness or mechanical issue ended GC challenge.",
+      "YATES Simon": "positive: Strongest among outsiders on penultimate climb, first over summit but couldn't sustain advantage with WELLENS Tim.",
+      "WELLENS Tim": "positive: Bridged to YATES on final climb and finished second, showing stronger finishing kick than initial attacker.",
+      "ALAPHILIPPE Julian": "neutral: Finished third but couldn't respond to MOLARD's late move, suggesti ng punch riders struggle with very late accelerations.",
+      "SÁNCHEZ Luis León": "positive: Retained yellow jersey finishing with favorites group, successfully defended 22-second margin over ALAPHILIPPE Julian."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:30:35.269789+00:00"
+}

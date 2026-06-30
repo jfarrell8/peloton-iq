@@ -1,0 +1,29 @@
+{
+  "label": "2023 Giro dItalia Stage 18",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-25",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BODZANA Filippo won from breakaway on home Veneto roads, while ROGLIĆ attacked final climb to take 2nd GC from ALMEIDA by 28 seconds",
+    "winner": "BODZANA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS waited until third-from-last climb to pull, letting breakaway gain six minutes before mountain train commitment revealed conservative pacing strategy.",
+      "ROGLIĆ positioned rear of group before final climb but attacked decisively when VINE descent mistake isolated ALMEIDA from support.",
+      "THOMAS isolated from teammates early but matched ROGLIĆ's attack meter-for-meter, showing form stability without team support dependency.",
+      "Israel Premier Tech forced to chase after BODZANA/ZANA move, wasting energy while INEOS controlled tempo for THOMAS."
+    ],
+    "rider_signals": {
+      "ROGLIĆ Primož": "positive: lurked at back raising fitness doubts then attacked final climb to gain 28 seconds on Almeida when support evaporated",
+      "ALMEIDA João": "negative: lost 28 seconds and GC position despite only 11-second deficit pre-stage, vulnerable when Vine made descent error",
+      "THOMAS Geraint": "positive: rode isolated from teammates but matched Roglić's accelerations without budging, birthday ride showed self-sufficiency",
+      "DUNBAR Eddie": "positive: moved up GC despite losing time, stayed with leaders longer than expected without team support",
+      "VINE Jay": "negative: descent mistake left Almeida exposed at critical moment, tactical error cost teammate GC position",
+      "PINO Thibaut": "negative: second heartbreak sprint loss in three days from breakaway, pattern of failing final 200m execution",
+      "HEALY Ben": "negative: attacked early then dropped immediately, surrendering KOM jersey without mounting credible defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:43:41.710097+00:00"
+}

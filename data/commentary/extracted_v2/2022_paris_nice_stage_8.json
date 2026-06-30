@@ -1,0 +1,26 @@
+{
+  "label": "2022 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-13",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked with 19km to go on Col d'Eze, gained 29 seconds maximum but ROGLIC limited losses to 9 seconds overall using WOUT van Aert's pacing support on descent.",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MARTINEZ Danny attacked at 50km out on penultimate climb, forcing ROGLIC isolation early by dropping KRUIJSWIJK and DENNIS.",
+      "YATES gained 10 bonus seconds at La Chobé sprint before Col d'Eze, tactically reducing deficit before final climb.",
+      "Van Aert's descending pacemaking negated YATES 2-vs-1 disadvantage, proving domestique descent skills crucial for stage race defense.",
+      "QUINTANA attacked first on Col d'Eze but cracked, showing GC riders below podium couldn't sustain efforts at race end."
+    ],
+    "rider_signals": {
+      "MARTINEZ Danny": "negative: back wheel blowout on descent after strong attack at 50km suggests equipment/positioning issues under wet conditions",
+      "ROGLIC Primoz": "positive: held only 9-second deficit after being isolated 46km out, breakthrough mentally on French stage race final day",
+      "YATES Simon": "positive: 19km Col d'Eze attack nearly overturned 47-second deficit, first win since Giro 2021 signals return to form",
+      "VAN AERT Wout": "positive: stabilized 20-second gap on descent after being Roglic's only remaining teammate from 46km out",
+      "QUINTANA Nairo": "negative: first to attack Col d'Eze but immediately cracked, suggesting lack of explosiveness for decisive late-race moves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:18:10.819869+00:00"
+}

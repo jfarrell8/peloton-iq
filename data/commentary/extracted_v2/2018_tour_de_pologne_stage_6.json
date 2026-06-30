@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Pologne Stage 6",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-09",
+  "stage": 6,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "PREIDLER Georg attacked inside final kilometer on slight uphill finish, held off YATES Simon who bridged from main group but couldn't come around.",
+    "winner": "PREIDLER Georg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BENNETT George attacked 1.5km out on small rise but cracked when TEUNS countered, showing altitude vulnerability despite early strength.",
+      "YATES Simon left final sprint launch too late at 400m, needed to jump at 600m before uphill.",
+      "LottoNL-Jumbo isolated KIAKOVSKY with three in row opportunity, team failed to support yellow jersey in decisive moments."
+    ],
+    "rider_signals": {
+      "BENNETT George": "negative: strong enough to solo attack 1.5km out but immediately cracked when countered, questionable finishing power",
+      "TEUNS Dylan": "positive: appeared dropped on climb but recovered to close gap quickly, superior recovery capacity than expected",
+      "KIAKOVSKY Michał": "negative: isolated in yellow jersey at 1km with no teammates despite winning two stages, team tactics abandoned him",
+      "YATES Simon": "neutral: bridged from main group to leaders but mistimed final effort at 400m vs 600m needed",
+      "BUCHMANN Emanuel": "positive: closed gap to YATES wheel in finale despite not being designated sprinter, underrated finishing speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:33:48.135943+00:00"
+}

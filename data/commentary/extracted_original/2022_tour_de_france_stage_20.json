@@ -1,0 +1,29 @@
+{
+  "label": "2022 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-23",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "WOUT VAN AERT won the 40km time trial with a hat-trick, while VINGEGAARD cruised to secure yellow, even slowing in final meters.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van Aert went sub-48 minutes at 51kph average, the only rider faster than 48 minutes showing sprinter-palmares riders can peak TT.",
+      "Vingegaard deliberately slowed final 200m after wobble on descent, prioritizing GC safety over stage hunting with huge margin.",
+      "Vlasov biggest GC top-10 mover via TT, exploiting 40km+ distance unsuited to pure climbers in mountainous Tours.",
+      "Bissegger's gearing problems requiring bike change shows equipment choice gambles backfire on varied terrain long TTs."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Third stage win of Tour, sub-48 at 51kph proves he can dominate long TTs not just prologues.",
+      "GANNA Filippo": "neutral: Strong ride but 40 seconds down to Van Aert suggests Grand Tour fatigue limits his usual TT dominance.",
+      "VINGEGAARD Jonas": "positive: Faster than Pogacar at early time checks despite coasting to finish, showing comfort managing big GC leads.",
+      "POGACAR Tadej": "negative: Lost time to Vingegaard even in a TT where he was pre-stage favorite alongside Ganna, confirming GC defeat.",
+      "THOMAS Geraint": "positive: Challenged for stage win until final 8km climb, revealing climbing weakness in long varied-terrain TTs.",
+      "VLASOV Aleksandr": "positive: Moved into top-5 GC via TT, biggest top-10 mover showing Russian school TT strength underestimated.",
+      "BISSEGGER Stefan": "negative: Gearing miscalculation forced bike change destroying podium chances, tactical preparation error costly."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:52:21.051604+00:00"
+}

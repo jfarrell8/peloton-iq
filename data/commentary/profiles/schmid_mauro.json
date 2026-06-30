@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic early breakaway specialist who capitalizes on terrain advantages, particularly gravel sectors. Shows ability to read race dynamics and exploit when GC riders focus on each other.",
+  "team_tactics": "Insufficient data to establish clear team tactics patterns. Appears to operate with freedom in breakaways rather than working for protected riders.",
+  "terrain_preference": "Gravel sectors and technical terrain on home roads (Switzerland). Thrives when course features create tactical complexity that splits focus of stronger teams.",
+  "vulnerability": "Limited observations suggest vulnerability in pure climbing battles against GC contenders. May lack sprint finish against dedicated sprinters from reduced groups.",
+  "key_patterns": [
+    "Demonstrates opportunistic instincts: takes bonus seconds and exploits breakaway opportunities when available (2 instances)",
+    "Performs well on Swiss home roads, showing local knowledge advantage in positioning (2 instances)",
+    "Succeeds from early breaks on technical/gravel stages while GC riders neutralize each other (1 definitive win)"
+  ],
+  "form_trajectory": "unknown: 2-year gap between observations makes trajectory assessment unreliable, though both show opportunistic capability",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SCHMID Mauro",
+  "built_from": [
+    "2021 Giro d'Italia Stage 11",
+    "2023 Tour de Suisse Stage 2"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Not an attacker. Elite leadout specialist operating in final 3km, positioning sprinter optimally through technical corners and exploiting wind conditions for aerodynamic advantage.",
+  "team_tactics": "Functions as final pilot in Quick-Step leadout train, typically behind Mørkøv. Executes high-risk tactical positioning (left-side in crosswinds) and provides massive final acceleration in last 400-800m before peeling off.",
+  "terrain_preference": "Excels in technical finales with corners and crosswind opportunities where positioning IQ matters. Thrives when able to exploit wind angles for draft advantage in final 2-3km.",
+  "vulnerability": "Train effectiveness depends on maintaining sprinter's wheel through technical sections (Concorde corner failure). Headwind conditions force reactive mode, shutting down attacks rather than proactive positioning.",
+  "key_patterns": [
+    "Exploits crosswind angles for aerodynamic advantage, positioning left-side when right-crosswind present (2 observations).",
+    "Executes final leadout pull inside 800m with elite acceleration, positioning sprinter optimally (3 observations).",
+    "Shows defensive capabilities closing late attacks sub-400m in headwinds, disrupting rival trains (2 observations).",
+    "High tactical awareness under pressure, willing to take no-brakes risks through corners (2 observations).",
+    "Works as final link in Quick-Step train after Mørkøv (2 observations)."
+  ],
+  "form_trajectory": "neutral: Continued elite leadout execution 2017-2019 but train coordination failures (Concorde corner) suggest team cohesion issues rather than individual decline",
+  "races_analysed": 4,
+  "confidence": "high",
+  "rider_name": "RICHEZE Maximiliano",
+  "built_from": [
+    "2017 Giro d'Italia Stage 3",
+    "2017 Giro d'Italia Stage 3",
+    "2018 Tour de France Stage 4",
+    "2018 Tour de France Stage 4",
+    "2019 Tirreno-Adriatico Stage 6",
+    "2019 Tour de France Stage 21"
+  ]
+}

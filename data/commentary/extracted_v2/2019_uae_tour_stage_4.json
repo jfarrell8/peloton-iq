@@ -1,0 +1,25 @@
+{
+  "label": "2019 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2019-02-27",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "COLBRELLI Sonny won bunch sprint after peloton neutralized all late attacks including GASPAROTTO at 38km and ROBERTS at 28km",
+    "winner": "COLBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LUTSENKO Alexey animated across multiple bonus sprints reveals Astana prioritizing time bonuses over stage hunting in shorter stage races.",
+      "CCC and Quickstep led out despite no team sprinter winning, suggesting leadout dominance doesn't correlate with stage success here.",
+      "Late solo attacks GASPAROTTO 38km and ROBERTS 28km both peaked at ~57-59 seconds, revealing precise peloton control threshold."
+    ],
+    "rider_signals": {
+      "COLBRELLI Sonny": "positive: finally won after being 'nearly man' suggests cumulative fatigue affects competitors more than him late tour",
+      "LAMPAART Yves": "positive: second place and third GC at 13 seconds shows unexpected stage race legs for sprinter type",
+      "LUTSENKO Alexey": "neutral: aggressive bonus hunting didn't translate to GC podium, revealing time bonuses insufficient without base form",
+      "KRISTOFF Alexander": "negative: finished third despite ideal setup suggests declining sprint power or poor positioning in short tours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:05:00.461099+00:00"
+}

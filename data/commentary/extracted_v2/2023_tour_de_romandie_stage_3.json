@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-28",
+  "stage": 3,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello won Stage 3 by attacking on the final corkscrew climb, edging YATES Simon on the line after a fast descent.",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BILBAO prioritized stage win over time gains, sprinting final 300m while GC rivals Yates/Hindley focused on position.",
+      "HONORÉ Miguel breakaway launched day before birthday suggests EF-Education deliberately burns domestiques early on stage profiles favoring them.",
+      "Alpecin-Deceuninck contested intermediate sprint with GROVES suggesting team prioritizes points opportunities even on summit finishes.",
+      "VINE Jay maximized KOM points but didn't follow final attack, revealing climbers classification prioritized over GC ambitions."
+    ],
+    "rider_signals": {
+      "BILBAO Pello": "positive: Fast descending skills post-summit allowed him to rejoin leaders after slower ascent pace, tactical versatility undervalued",
+      "DENNIS Rowan": "negative: Back of peloton and bike change suggests mechanical or crash-related weakness on critical stage",
+      "HONORÉ Miguel": "neutral: EF-Education released him to DSM, now beating them in breakaway selections, questionable team retention decision",
+      "YATES Simon": "neutral: Second place but tactical focus on GC time over stage win cost him victory by one second",
+      "VINE Jay": "positive: Deliberately riding for KOM jersey over GC, clear role definition within UAE team hierarchy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:00:31.427886+00:00"
+}

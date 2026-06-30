@@ -1,0 +1,24 @@
+{
+  "label": "2020 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-30",
+  "stage": 10,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz sprinted to a hat-trick stage win at Suances, reclaiming the red jersey via 10-second bonus over CARAPAS who lost 3 seconds.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Teams chased 11:40 breakaway on puncher stage expecting sprinters eliminated, enabling GC opportunism with bonus seconds available.",
+      "MARTIN Guillaume attacked inside final kilometer as GC rider hunting KOM points, revealing mountain jersey defenders contest intermediate stages aggressively.",
+      "ROGLIC consistently targets bonus seconds on minor stages to manufacture GC gaps, three consecutive stage wins creating 10-second deltas."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "negative: relegated yesterday, then dropped on minor climbs well before final 30km on puncher stage, signals poor climbing form",
+      "ROGLIC Primoz": "positive: hat-trick wins plus sprinting for bonuses shows exceptional form depth heading into mountain weekend",
+      "CARAPAS Richard": "negative: lost 3 seconds to Roglic in finale, conceding red jersey solely due to bonus second deficit reveals positioning weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:29:15.596156+00:00"
+}

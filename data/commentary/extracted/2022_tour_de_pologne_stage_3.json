@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-08-01",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won a hectic sprint after INEOS disrupted positioning by sprinting the second intermediate sprint with 12km remaining, forcing positional chaos.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS deliberately contested second intermediate sprint 12km out, forcing teams to reposition and causing late-race chaos benefiting opportunistic sprinters.",
+      "BikeExchange committed chase resources despite BISEGGER's late advantage being under 1 minute with 35km remaining, revealing conservative gap management.",
+      "SAGAN's team controlled all day despite nine-month win drought, demonstrating faith in fading sprinters pays when chaos disrupts pure-speed trains."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: first win in nine months suggests late-career resurgence when chaos disrupts organized sprint trains.",
+      "THOMAS Geraint": "positive: sprinted intermediate for time bonuses, showing GC ambition rather than domestique role at Ineos.",
+      "SCHACHMANN Maximilian": "negative: caught in late crash chaos outside 3km safe zone, dropped from second to outside top ten.",
+      "WILLIAMS Stephen": "positive: held yellow through chaotic finale demonstrating bike-handling superiority over pure climbers in technical finishes.",
+      "BISSEGGER Stefan": "neutral: repeated late attacks from break showed commitment but 59-second max gap with 35km suggests poor breakaway energy allocation."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:47:18.923932+00:00"
+}

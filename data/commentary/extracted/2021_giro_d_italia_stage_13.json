@@ -1,0 +1,27 @@
+{
+  "label": "2021 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-21",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIZZOLO Giacomo won a Verona sprint on his 17th Giro podium, closing down AFFINI Edoardo's late solo flyer in the final 15 meters.",
+    "winner": "NIZZOLO Giacomo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AFFINI Edoardo's time trial engine nearly stole sprint stage breaking clear with 1km remaining, TT specialists viable late attackers.",
+      "Belgian opportunism from DE BONDT at 50km woke peloton but teams intentionally slowed to delay break catch, energy management over tempo.",
+      "GAVIRIA Fernando contested intermediate sprints despite not winning, points jersey battles drain fast finishers before decisive finale sprint."
+    ],
+    "rider_signals": {
+      "NIZZOLO Giacomo": "positive: broke 16-podium winless drought with explosive finish close, form suggests improved top-end speed after pattern of near-misses",
+      "AFFINI Edoardo": "positive: TT specialist nearly held off pure sprinters from 1km out, exceptionally strong final kilometer power reserves",
+      "SAGAN Peter": "neutral: finished third maintaining points jersey, tactical positioning working but lacks explosive speed for stage wins",
+      "GAVIRIA Fernando": "negative: contested intermediate sprints but only fifth in finale, spending energy early compromising final sprint outcome",
+      "GROENEWEGEN Dylan": "negative: required AFFINI leadout but couldn't follow late attack, dependent positioning reveals lack of independent sprint initiation",
+      "VIVIANI Elia": "negative: home roads in Verona but failed to feature in sprint, emotional distraction from Olympic flag-bearer announcement likely factor"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:51:09.623447+00:00"
+}

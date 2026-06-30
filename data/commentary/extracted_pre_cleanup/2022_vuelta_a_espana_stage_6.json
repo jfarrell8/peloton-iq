@@ -1,0 +1,30 @@
+{
+  "label": "2022 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked from the lead group on the Pico Jano final climb, winning in fog while EVENEPOEL Remco took red by 21 seconds over MOLARD Rudy after ROGLIC Primoz cracked badly.",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL Remco attacked GC group on final climb while conditions deteriorated, dropping everyone except ENRIC Mas by over 20 seconds.",
+      "ROGLIC Primoz hemorrhaged over a minute to EVENEPOEL, inability to handle cold/wet conditions exposed weakness contradicting San Sebastian form.",
+      "CARAPAZ Richard lost nearly 3 minutes despite historical rain climbing strength, suggesting poor adaptation to temperature shock after hot summer racing.",
+      "Breakaway survived penultimate climb with only 3 minutes advantage, suggesting INEOS pacing strategy miscalculated transition into final MTF."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: took 21-second lead by dropping entire GC group on cold wet MTF, answering questions about long climb capacity",
+      "ROGLIC Primoz": "negative: lost over minute to EVENEPOEL when cold/rain hit final climb, could not even pull on rain jacket unassisted",
+      "VINE Jay": "positive: won from reduced breakaway in fog, mastered brutal conditions on category 1 MTF debut",
+      "CARAPAZ Richard": "negative: lost nearly 3 minutes to new race leader despite reputation as strong wet weather climber",
+      "ENRIC Mas": "positive: only GC rider staying within 15 seconds of EVENEPOEL on final climb, limiting losses to 28 seconds overall",
+      "RODRIGUEZ Carlos": "positive: INEOS rider had good day limiting losses while team leader CARAPAZ imploded",
+      "MOLARD Rudy": "neutral: held virtual lead until final climb but dropped 21 seconds to EVENEPOEL, now second overall",
+      "LOPEZ Miguel Angel": "negative: continuing pattern of losing time incrementally on mountain stages suggests declining form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:56:54.379664+00:00"
+}

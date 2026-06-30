@@ -14,75 +14,85 @@
       {
         "video_id": "4rDABvl0IIk",
         "title": "Brabantse Pijl 2019 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-04-17 16:37:33+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 82.1
       },
       {
         "video_id": "Lbc115DGV7w",
         "title": "Paris-Roubaix 2019 | How The Race Was Won | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-04-15 16:34:02+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 77.32
       },
       {
         "video_id": "c_29P8kwVQ4",
         "title": "Tour de France 2019 | Stage 17 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-07-24 16:54:57+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "LFluCJUQ5sA",
-        "title": "Vuelta a España 2019 | Stage 12 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 12 Highlights | Cycling | Eurosport",
         "published": "2019-09-05 17:05:38+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "a3La8m3J5rM",
-        "title": "Vuelta a España 2019 | Stage 15 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 15 Highlights | Cycling | Eurosport",
         "published": "2019-09-08 21:33:57+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "iNzYV5P7gF8",
-        "title": "Vuelta a España 2019 | Stage 13 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 13 Highlights | Cycling | Eurosport",
         "published": "2019-09-06 18:32:19+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "QEiiA7drLdk",
-        "title": "Vuelta a España 2019 | Stage 14 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 14 Highlights | Cycling | Eurosport",
         "published": "2019-09-07 16:11:30+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "MTZe7vDLXTI",
-        "title": "Vuelta a España 2019 | Stage 16 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 16 Highlights | Cycling | Eurosport",
         "published": "2019-09-09 17:24:36+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "0xPfjkwT69U",
-        "title": "Vuelta a España 2019 | Stage 17 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 17 Highlights | Cycling | Eurosport",
         "published": "2019-09-11 16:11:19+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "nQJ_XYTUEws",
-        "title": "Vuelta a España 2019 | Stage 10 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 10 Highlights | Cycling | Eurosport",
         "published": "2019-09-03 17:35:43+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

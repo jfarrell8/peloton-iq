@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-16",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked 1300m from the finish on the cobbled finale in Osimo, dropped DUMOULIN Tom on the flattening section to win.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon attacked where cobbles transitioned to flatter gradient, exploiting power differential not just climbing ability with 1300m remaining.",
+      "Quick-Step forced early pace on cobbled approach at 4.7km, releasing rivals off the leash before final surge.",
+      "DUMOULIN Tom closed gap on steep cobbled section but cracked precisely where road flattened, revealing sustained power weakness.",
+      "KREUZIGER Roman paced for YATES early on climb, teammates holding position rather than defending demonstrates calculated team confidence."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Second stage win demonstrates repeatable ability to time attacks on unconventional finales, barely mouth-breathing at winning effort",
+      "DUMOULIN Tom": "negative: Closed gap on steep cobbles but lost ground when gradient eased, suggesting power sustainability issues over climbing punch",
+      "WELLENS Tim": "neutral: Active in early forcing but unable to sustain once YATES counterattacked, indicating tactical aggression without finish",
+      "FORMOLO Davide": "neutral: Strong finish noted but unable to match YATES acceleration, confirming mid-tier classification threat",
+      "MASNADA Fausto": "positive: Worked meaningfully in three-man break on behalf of Androni despite stage profile not suiting team objectives"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:23:26.391895+00:00"
+}

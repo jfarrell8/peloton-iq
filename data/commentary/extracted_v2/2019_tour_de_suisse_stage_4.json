@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-18",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the bunch sprint after Deceuninck-Quick Step executed a three-man lead-out train (Asgreen-Lampaert-Morkov) in final kilometers",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-Hansgrohe controlled breakaway gap despite Sagan sprinting, revealing dual role strategy protecting GC and sprint ambitions simultaneously.",
+      "Deceuninck-Quick Step deployed full three-rider lead-out sequence (Asgreen-Lampaert-Morkov) suggesting confidence in Viviani's finishing speed over positioning gambles.",
+      "Frank's late solo attempt from AG2R illustrates Swiss riders prioritizing home stage wins over GC positioning logic."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: Crashed at 30km to go requiring hospitalization, compounding difficult week for Ineos team morale and Tour preparation",
+      "VIVIANI Elia": "positive: First Tour de Suisse win suggests peaking schedule aligned despite five-month gap since previous victory",
+      "MATTHEWS Michael": "positive: Second place finish moved him to second GC, revealing sprinter classification capability on moderately hilly terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:02:53.426721+00:00"
+}

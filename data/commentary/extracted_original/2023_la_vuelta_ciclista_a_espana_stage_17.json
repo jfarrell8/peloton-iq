@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 17",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-13",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Jonas won stage 17 to Angliru after VINGEGAARD and ROGLIC dropped KUSS on final climb, with KUSS retaining red by 8 seconds after taking bonus seconds.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD and ROGLIC attacked together on Angliru while KUSS asked radio for slower pace, exposing team hierarchy conflict.",
+      "Bahrain Victorious exhausted CARUSO and POELS pacing LANDA early, leaving him isolated when decisive accelerations came in final 6km.",
+      "KUSS sprinted hard at finish specifically for 4-second bonus, revealing he knew he needed every second to retain jersey.",
+      "ROGLIC didn't wait for VINGEGAARD sprint pass attempt at line, prioritizing stage win over team hierarchy display."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "negative: requested slower pace on radio when teammates attacked, suggesting inability to follow rather than team tactics",
+      "ROGLIC Primoz": "positive: attacked with VINGEGAARD despite teammate in red, showing form peaked perfectly for final week mountain stages",
+      "VINGEGAARD Jonas": "positive: moved within 8 seconds of lead despite not taking stage win, displaying stronger form than earlier Vuelta stages",
+      "LANDA Mikel": "negative: isolated after Bahrain burned CARUSO and POELS early, couldn't follow when race exploded inside final 6km",
+      "AYUSO Juan": "negative: lost over a minute to podium contenders, dropped from 4th to outside medal positions on queen stage",
+      "ALAPHILIPPE Julian": "neutral: attacked early for KOM points on teammate KATANOSAKA's pacing, tactically securing polka dot jersey before Angliru"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:06:16.147404+00:00"
+}

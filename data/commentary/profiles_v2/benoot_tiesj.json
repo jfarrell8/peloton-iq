@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Opportunistic attacker who launches ambitious long-range moves when GC or victory requires it, capable of matching explosive finale accelerations from pure puncheurs like Van der Poel in sprint situations.",
+  "team_tactics": "Functions both as protected finisher and tactical weapon; teams employ delayed positioning (hitting front post-final corner) to negate early lead-outs, though conservative wait-for-teammate tactics can be counterproductive to his winning chances.",
+  "terrain_preference": "Thrives on punchy mixed terrain combining climbs and technical sections (Strade Bianche success); demonstrates exceptional versatility transitioning between hilly classics and stage race finales within same week.",
+  "vulnerability": "Conservative team tactics limiting his individual winning opportunities when designated to wait for stronger teammates; falls marginally short in pure power sprints against top classics specialists.",
+  "key_patterns": [
+    "Peaks exceptionally early season, maintaining form across consecutive race weeks (2017-2018 evidence).",
+    "Shows strong form resilience: podiums in different race types within same week (3 observations).",
+    "Capable of matching Monument-level attacks but rarely converting to victories when team tactics intervene.",
+    "Excels at calculated long-range GC attacks using time bonifications in stage races (2020 example).",
+    "Performs consistently on technical climbs like Monte Sante Marie across multiple years."
+  ],
+  "form_trajectory": "positive: 2022 showed ability to match Van der Poel's best attacks in Dwars door Vlaanderen, indicating maintained high-level classics form despite team role conflicts",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "BENOOT Tiesj",
+  "built_from": [
+    "2017 Tirreno-Adriatico Stage 3",
+    "2018 Tirreno-Adriatico Stage 3",
+    "2019 Strade Bianche",
+    "2020 Paris - Nice Stage 7",
+    "2021 Paris-Nice Stage 2",
+    "2022 Dwars door Vlaanderen"
+  ]
+}

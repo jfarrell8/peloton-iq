@@ -1,0 +1,31 @@
+{
+  "label": "2019 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-21",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked 8km out on final climb to win stage while PINOT Thibaut launched decisive GC attack with 6km remaining, cracking ALAPHILIPPE Julian who lost 1:16.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Breakaway required 50km to establish, signaling peloton unwillingness to concede stage early despite multiple HC climbs ahead.",
+      "VIVIANI Elia rode prolonged tempo for ALAPHILIPPE on climbs despite being pure sprinter, exposing Deceuninck's shallow climbing roster.",
+      "PINOT attacked 6km out when ALAPHILIPPE showed weakness, demonstrating value of probing attacks before final 3km conventional wisdom.",
+      "MOVISTAR placed SOLER, AMADOR with LANDA in break then dropped back to pace him, rare successful execution of plant-ahead breakaway tactic.",
+      "THOMAS Geraint counterattacked when ALAPHILIPPE cracked rather than pacing group, prioritizing time gains over collaborative chase."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: cracked with 5km remaining after holding until stage 15, suggesting yellow jersey defense burned matches earlier than expected",
+      "PINOT Thibaut": "positive: attacked with 6km out and sustained effort to finish line, took sprint bonus despite stage win available showing GC prioritization",
+      "BUCHMANN Emanuel": "positive: matched BERNAL on Pinot's attack and stayed with podium group, consistently underrated despite top-5 GC position",
+      "BERNAL Egan": "negative: unable to hold PINOT's wheel despite being Ineos protected rider, raising questions about protected status versus THOMAS",
+      "THOMAS Geraint": "positive: counterattacked when ALAPHILIPPE cracked instead of collaborative pace, opportunistic racing despite domestique ambiguity",
+      "LANDA Mikel": "positive: Movistar executed rare successful breakaway plant with three teammates pacing him through groups on Hourquette",
+      "MAS Enric": "negative: dropped on Port de Lair while VIVIANI still working for ALAPHILIPPE, major blow to Deceuninck's stage racing depth",
+      "YATES Simon": "positive: attacked 8km out for stage win despite working for brother Adam, team allowing individual ambition when GC unchallenged"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:14:13.538890+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Commits to long-range breakaway efforts, often staying away deep into finales (10km and closer). Shows willingness to animate races from distance rather than late tactical strikes.",
+  "team_tactics": "Insufficient data to establish clear team setup patterns. Appears to operate with autonomy in breakaway situations.",
+  "terrain_preference": "Demonstrates ability to survive varied terrain in extended efforts. Lacks finishing punch in reduced sprint situations, suggesting mid-mountain or attritional stages suit better than flat sprint finishes.",
+  "vulnerability": "Exposed in tactical sprint scenarios after long efforts - outmaneuvered by more patient finishers despite making the selection. Struggles to convert breakaway presence into victories.",
+  "key_patterns": [
+    "Actively joins and animates long-range breakaways, sustaining efforts into race finales (2 observations)",
+    "Reaches final selections but loses in sprint tactics to sharper finishers (2 observations)",
+    "Commits energy throughout the day rather than conserving for finale (2 observations)"
+  ],
+  "form_trajectory": "unknown: insufficient recent data and temporal gap between observations (2017-2020) prevents meaningful trajectory assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GOUGEARD Alexis",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 18",
+    "2020 Paris - Nice Stage 5"
+  ]
+}

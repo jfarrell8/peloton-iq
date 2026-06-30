@@ -1,0 +1,27 @@
+{
+  "label": "2020 BinckBank Tour Stage 1",
+  "race_name": "BinckBank Tour",
+  "race_date": "2020-09-29",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper timed his sprint perfectly inside final 100m after BOIVIN Guillaume crash at 4.3km fractured peloton and eliminated favorites",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VANMARCKE Sep attacked 23km out targeting Golden Kilometer bonus seconds, revealing positioning value before circuit compression begins",
+      "BOIVIN Guillaume crash 4.3km out split peloton; being ahead of late-race chaos worth more than pure sprint power",
+      "PHILIPSEN Jasper waited until VAN POPPEL Danny committed first inside 100m, using opponent's leadout as position reference point"
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: superior sprint timing discipline, won while favorites crashed out, also banked Golden Kilometer bonus seconds",
+      "VAN POPPEL Danny": "neutral: strong enough to initiate final sprint but became positioning foil for smarter finisher",
+      "ACKERMANN Pascal": "negative: had confident leadout but still only third, suggests hesitation or poor wheel choice in compressed finale",
+      "PEDERSEN Mads": "positive: second place from chaotic sprint shows consistent positioning skill even without pure speed advantage",
+      "CAVENDISH Mark": "positive: aggressively contested Golden Kilometer bonuses despite not contending sprint, tactical awareness intact",
+      "VAN HOOYDONCK Nathan": "negative: biggest crash casualty, positioning failure cost both stage and classics preparation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:21:19.695363+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2022 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-01-01",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai defended 1:25 GC lead over CARAPAZ Richard in final 17.4km Verona ITT, matching times within 1 second to secure first Australian Giro victory.",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Stage 20's KEMNER Leonard domestique work proved decisive, creating 1:25 buffer too large for 17.4km ITT reversal.",
+      "SOBRERO Matteo's Italian championship skinsuit win suggests aero gains from national kit choice in non-Grand Tour TTs."
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "positive: Matched CARAPAZ within 1 second at climb summit despite less specialized TT pedigree, showing mental control under historic pressure.",
+      "CARAPAZ Richard": "neutral: Strong ITT on 29th birthday but 1:25 deficit from Stage 20 collapse proved insurmountable over 17.4km.",
+      "SOBRERO Matteo": "positive: Won by 22.6 seconds over IRONSIDE, signaling breakthrough beyond national championship specialty performances.",
+      "KÄMNA Lennard": "positive: Stage 20 domestique effort for HINDLEY created winning GC margin, revealing Bora's commitment to GC support depth."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:09:51.386716+00:00"
+}

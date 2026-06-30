@@ -1,0 +1,27 @@
+{
+  "label": "2020 Paris - Nice Stage 5",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-12",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BONIFACIO Niccolo won the sprint after TRETNIK Jan's 227km breakaway failed in final 75 meters despite solo resistance through last kilometer.",
+    "winner": "BONIFACIO Niccolo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TRETNIK maintained solo effort after GUJJAR cooked himself from excessive pace-setting, revealing breakaway coordination paradox in stage-long moves.",
+      "Total Direct Energy placed TERGIS in break specifically to harvest KOM points while HIVERT retained jersey, demonstrating wildcard team resource optimization.",
+      "BORA-hansgrohe defended yellow by chasing everything despite stage destination uncertainty due to COVID, showing GC teams cannot selective about closures.",
+      "DEGENT Thomas dropped from peloton chase, indicating AG2R misjudged effort distribution on 227km stage before decisive sprint."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "negative: abandoned after descent crash pointing to pelvis, eliminating EF's stage hunting options",
+      "EWAN Caleb": "negative: mechanical in finale after stage 3 crash, confirming LOTTO's catastrophic race continues",
+      "GUJJAR Alexey": "neutral: selflessly over-paced breakaway companion despite no team obligation, tactically generous but individually ineffective",
+      "TRETNIK Jan": "positive: resisted solo through final kilometer of 227km stage showing exceptional diesel engine capacity for future breakaways",
+      "BONIFACIO Niccolo": "positive: timed sprint launch to catch teammate GARCIA CORTINA at 75m, revealing Total Direct Energy sprint coordination depth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:18:47.898409+00:00"
+}

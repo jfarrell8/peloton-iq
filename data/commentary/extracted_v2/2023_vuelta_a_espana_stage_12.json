@@ -1,0 +1,25 @@
+{
+  "label": "2023 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MILANO Juan Sebastian won a flat sprint stage after teammate OLIVEIRA Bryan delivered a perfectly-timed long-range leadout that overcame Alpecin's positioning dominance.",
+    "winner": "MILANO Juan Sebastian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE's OLIVEIRA launched leadout from deep in final 500m with momentum trumping Alpecin's positional advantage at 1km.",
+      "JANSSENS Jimmy delivered peloton to sprint finish for third consecutive sprint stage, establishing Soudal's breakaway control pattern.",
+      "YATES BOB attacked solo mid-stage to secure most aggressive rider bonus while protecting teammate's breakaway jersey eligibility."
+    ],
+    "rider_signals": {
+      "OLIVEIRA Bryan": "positive: demonstrated elite-level leadout speed at 500m-out, suggesting reclassification as top-tier final pilot not just mountain domestique",
+      "MILANO Juan Sebastian": "positive: showed patience to launch at 200m despite leadout's early positioning, indicating mature sprint timing beyond typical UAE mountain focus",
+      "GROVES Caden": "neutral: had highest raw speed but positioning at 500m negated power advantage, suggesting leadout weakness persists",
+      "KUSS Sepp": "neutral: commentary notes increased nervousness before Stage 13 climbing suggests GC pressure mounting despite easy flat stage defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:05:17.442345+00:00"
+}

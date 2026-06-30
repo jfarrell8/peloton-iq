@@ -1,0 +1,25 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-09",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the field sprint after catching the four-man breakaway in the final 50 meters, outsprinting MEEUS Jordi on the line.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange-Jayco chased for third consecutive stage for GROENEWEGEN Dylan, suggesting overcommitment to a sprinter struggling with climbing.",
+      "Breakaway quartet played poker in final kilometer instead of committing to rotation, allowing peloton to close 15-second gap.",
+      "VAN AERT had to navigate around LAPORTE Christophe in sprint, indicating Jumbo-Visma lacked organized leadout despite controlling chase."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "negative: BikeExchange-Jayco chased three stages for him without delivery, team reportedly growing frustrated with lack of results",
+      "BACKLUND Axel": "neutral: former Tour/Dauphiné stage winner animated breakaway but hesitated critically in final kilometer poker game",
+      "VAN AERT Wout": "positive: extended GC lead to 1:03 via bonus seconds, showing sprint speed after controlling chase work",
+      "MEEUS Jordi": "positive: sprinted faster than Van Aert (70+ km/h) coming from behind, banged bars in frustration suggesting near-miss"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:05:10.702413+00:00"
+}

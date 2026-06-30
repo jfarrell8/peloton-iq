@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-05",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai won from massive early breakaway, VINGEGAARD Jonas attacked late to distance POGAČAR by over a minute when defending champion cracked",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma miscalculated allowing 37-rider break with GC threat Hindley to gain huge advantage early stage",
+      "Vingegaard attacked solo late without teammates, still distanced Pogačar by 1:38 showing form disparity already emerging",
+      "Van Aert contested intermediate sprint against Pedersen despite massive break ahead, revealing green jersey priority over stage control",
+      "Pogačar's teammate Yates couldn't pace him back to Vingegaard, exposing UAE team weakness in mountain trains"
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "positive: recognized as GC threat too late by Jumbo, positioned perfectly in break, showed he'll factor in overall",
+      "VINGEGAARD Jonas": "positive: attacked without team support and still put over a minute into defending champion, ominous form signal",
+      "POGAČAR Tadej": "negative: cracked when Vingegaard attacked, lost 1:38 and fell to fifth, massive early blow to title defense",
+      "JAKOBSEN Fabio": "negative: dropped immediately when racing started, suggests poor form and likely time cut struggles ahead",
+      "VAN AERT Wout": "neutral: chased intermediate sprint points aggressively instead of policing break, green jersey tactical priority confirmed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:59:01.644696+00:00"
+}

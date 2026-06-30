@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-06",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VONDERPOEL Mathieu won the uphill sprint finish at Visegrád after GHEBREIGZABHIER Biniam crashed EWAN Caleb in final meters through wheel contact",
+    "winner": "VONDERPOEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Fenix controlled chase into finale despite no pure sprinter, positioning VONDERPOEL perfectly for uphill finish at 4% gradient",
+      "KEMNA Leonard attacked solo inside final 3km on uphill approach, forcing sprint teams to chase without organized leadout trains",
+      "Crashes at final right-hand corner before climb eliminated sprint trains, making positioning at turn more valuable than traditional leadout"
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "negative: survived climb on GHEBREIGZABHIER's wheel but touched wheels while sprinting uphill, suggesting positioning over power deficiency",
+      "GHEBREIGZABHIER Biniam": "positive: positioned second wheel on 4% uphill sprint despite no team support, demonstrating pure climber-sprinter capability",
+      "BILBAO Pello": "positive: picked up 4 bonus seconds for third after crash, unexpectedly competitive on uphill sprint finish despite GC classification",
+      "KEMNA Leonard": "positive: solo late-race attack as non-favorite from Bora-Hansgrohe disrupted sprint preparation, nearly held 10-second gap inside 2km"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:06:48.547252+00:00"
+}

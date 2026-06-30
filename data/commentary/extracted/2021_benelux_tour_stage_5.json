@@ -1,0 +1,26 @@
+{
+  "label": "2021 Benelux Tour Stage 5",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-03",
+  "stage": 5,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won Stage 5 sprint after MERLIER Tim's leadout for CAVENDISH clashed with DE BUYST Jasper leading MERLIER Tim on opposite side.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DECEUNINCK-QUICKSTEP split leadout across full road width disrupts rival trains positioning, MERLIER Mikhail to CAVENDISH left side",
+      "EVENEPOEL Remco gained GC buffer in Golden Kilometer sprint between two towns, not just TT, moving fifth overall",
+      "LOTTO-SOUDAL train attempted third consecutive stage win but failed when EWAN Caleb boxed by dual-side Quick-Step positioning"
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: 151st career win shows Quick-Step willing to sacrifice Merlier Tim's stage hunt to service senior sprinter",
+      "MERLIER Tim": "negative: gearing malfunction at critical moment but also clearly frustrated being sacrificed for teammate rather than sprinting himself",
+      "EWAN Caleb": "negative: won two prior stages but Quick-Step's split-road leadout tactics denied hat-trick despite having strongest train",
+      "EVENEPOEL Remco": "positive: defended title by using intermediate Golden Kilometer to pad GC, not relying solely on TT time gaps",
+      "DE BUYST Jasper": "neutral: physical post-sprint confrontation with MERLIER Tim suggests Quick-Step's dual leadout encroached rival space"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:46:57.441608+00:00"
+}

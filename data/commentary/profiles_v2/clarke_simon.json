@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Avoids premature attacks, preferring to conserve energy and strike when opponents are exhausted. Times moves after others have depleted themselves rather than initiating early aggression.",
+  "team_tactics": "Limited evidence of team support; relies on individual tactical acumen and positioning discipline rather than organized team setups. Operates effectively in breaks without team presence.",
+  "terrain_preference": "Versatile across challenging one-day terrain (Ardennes finales) and unconventional surfaces (cobbles). Thrives in small group scenarios where positioning and timing trump raw power.",
+  "vulnerability": "May struggle when forced to initiate attacks against fresher, stronger opponents rather than responding. Tactical approach requires others to expend energy first.",
+  "key_patterns": [
+    "Refuses to work with stronger riders in breaks, conserving energy for final move (2 instances)",
+    "Prioritizes positioning discipline over flashy attacking in race finales (2 instances)",
+    "Wins from tactical patience rather than dominant physical strength (2 instances)",
+    "Effective in small groups where tactical intelligence is decisive (2 instances)"
+  ],
+  "form_trajectory": "unknown: 3-year gap between observations makes recent trajectory impossible to assess reliably",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CLARKE Simon",
+  "built_from": [
+    "2019 Amstel Gold Race",
+    "2022 Tour de France Stage 5",
+    "2022 Tour de France Stage 5"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Demonstrates aggressive breakaway tactics with premature attacks launched well before final climbs, often fragmenting large groups through excessive early pace-making rather than timed final strikes.",
+  "team_tactics": "UAE positioning appears inconsistent - places riders prominently in final kilometers but fails to execute coordinated leadout work, with riders refusing to pull through at critical moments.",
+  "terrain_preference": "Shows willingness to attack on approaches to climbs rather than on the climbs themselves; prefers to use sustained high tempo over explosive accelerations to create selection.",
+  "vulnerability": "Exposed when required to contribute consistently to leadout trains or breakaway rotation; excessive early aggression leaves questions about ability to finish efforts initiated far from line.",
+  "key_patterns": [
+    "Attacks breakaways prematurely, fragmenting groups through unsustainable early aggression before key terrain.",
+    "Positioned in favorable wheels for finales but refuses to pull through in rotation.",
+    "UAE team positioning inconsistent with execution - domestiques placed well but coordination breaks down."
+  ],
+  "form_trajectory": "unknown: insufficient recent data - only 2021 observations available showing tactical aggression but execution issues",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "TRENTINO Matteo",
+  "built_from": [
+    "2021 Vuelta a Espana Stage 10",
+    "2021 Vuelta a Espana Stage 8"
+  ]
+}

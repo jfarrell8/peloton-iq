@@ -1,0 +1,25 @@
+{
+  "label": "2018 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-01",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro timed his sprint perfectly from Sagan's wheel after final kilometer tight corners, Garcia Cortina fading after opening too early.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar let sprinter teams chase 12-minute break with Machado at +22min GC, preserving energy while gaining positioning intelligence.",
+      "Valverde concealed himself behind Sagan's green jersey into final corner, exploiting visibility blind spot when Garcia Cortina opened prematurely.",
+      "Break given 12min with Machado at +22min shows peloton calculates chase effort based on GC threat, not time gap alone."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: second stage win moves him to 37sec from red, demonstrating sprint speed competitive with specialists despite GC focus",
+      "GARCIA CORTINA Ivan": "negative: opened sprint too early before final corner despite local knowledge advantage, poor timing judgment cost certain victory",
+      "SAGAN Peter": "neutral: mechanical issues mid-race but led final corner, suggesting form adequate but not dominant against GC riders sprinting",
+      "MACHADO Tiago": "positive: Katyusha allowed solo survival to 6km despite 12min gap, extracting maximum breakaway value before inevitable catch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:43:17.124656+00:00"
+}

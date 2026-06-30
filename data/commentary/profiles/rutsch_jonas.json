@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Shows willingness to bridge to breakaways and launch solo moves from distance (17.6km out). Demonstrates aggressive racing instincts with opportunistic attacks when reading tactical situations.",
+  "team_tactics": "EF appears to rely on Rutsch's individual initiative rather than concentrated team support. Lacks numerical advantage setup in key breakaway scenarios, suggesting he operates with limited domestique support.",
+  "terrain_preference": "Capable in varied terrain that allows breakaway moves. Specific climbing/sprint preferences unclear from available data, but shows endurance for sustained efforts.",
+  "vulnerability": "Exposed when team lacks numerical strength in decisive breakaways. Cannot sustain winning efforts without teammate support in finale, even when positioned well.",
+  "key_patterns": [
+    "Active in breakaway formations, both bridging and initiating moves (2 races)",
+    "Attacks from significant distance rather than waiting for sprint finishes (17.6km solo)",
+    "Strong tactical reading ability to identify breakaway opportunities (2 instances)",
+    "Limited by lack of team numerical advantage in decisive moments (noted weakness)"
+  ],
+  "form_trajectory": "unknown: insufficient recent data and too wide time gap (2021-2022) to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "RUTSCH Jonas",
+  "built_from": [
+    "2021 Paris-Nice Stage 6",
+    "2022 Eschborn-Frankfurt"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de Suisse Stage 7",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-21",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked inside 3km on Gotthardpass summit finish, gained 23 seconds on Denis before final day time trial.",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Ineos delayed tempo increase until final 3km rather than prolonged grinding, preserving Bernal's explosive attack freshness.",
+      "Bernal prioritized gaining time before final TT against specialist Denis, attacking knowing he'd lose time next day.",
+      "Bahrain's Pozzo-Vivo attempted bridge then dropped back as domestique for Denis, dual-role tactic to cover both scenarios."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: attacked with 3km remaining on summit finish against world TT champion, acknowledging TT weakness but maximizing climbing advantage",
+      "POZZO Domenico": "neutral: showed enough form to briefly follow Bernal before switching to pacing role for Denis",
+      "DENNIS Roeland": "negative: needed domestique pacing to limit losses to 23 seconds on climb, suggesting vulnerable GC defense before his specialist TT stage",
+      "FRANK Mathias": "positive: local rider survived solo until 3km on home roads, indicating strong climbing form against GC squad pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:03:12.532766+00:00"
+}

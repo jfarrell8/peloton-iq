@@ -1,0 +1,30 @@
+{
+  "label": "2017 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-15",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael attacked solo with 200+ meters remaining on uphill finish in Rodez after AVERMAET Greg covered earlier moves, winning by clear daylight as ARU Fabio lost yellow jersey losing 24 seconds.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MATTHEWS attacked from 200m+ out on uphill finish after positioning on AVERMAET's wheel, exploiting punchy finale terrain unreachable for pure sprinters.",
+      "Team Sunweb collaborated with BMC from race start to control dangerous breakaway, sharing workload allowed MATTHEWS fresher legs despite stage-long chase.",
+      "ARU isolated without teammates at back of peloton on descent into valleys before finish, catastrophic positioning cost yellow jersey on non-mountain stage.",
+      "KITTEL Marcel dropped on rolling terrain approaching finish, revealing stage profile filtering vulnerability even when not classified as mountain stage.",
+      "Sky immediately exploited ARU's weakness to reclaim yellow for FROOME, attacking tempo on approach to demonstrate GC teams monitor non-mountain finishes aggressively."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: Won from 200m solo attack after full day's work chasing breakaway, exceptional punch-sprint combination",
+      "ARU Fabio": "negative: Lost yellow jersey and 24 seconds through poor positioning without teammates on descent, catastrophic tactical collapse",
+      "AVERMAET Greg": "positive: Covered multiple attacks on final climb and nearly caught MATTHEWS, best positioned puncher besides winner",
+      "FROOME Chris": "positive: Reclaimed yellow jersey gaining 24 seconds on ARU through opportunistic positioning on non-mountain stage",
+      "KITTEL Marcel": "negative: Dropped on rolling finale terrain with three teammates, green jersey vulnerability exposed outside pure sprints",
+      "LANDA Mikel": "neutral: Moved into podium position at 1:17 behind FROOME, now team calculus complicated for Sky leadership",
+      "MARTIN Dan": "positive: Finished well in uphill sprint, sixth overall showing unexpected GC resilience"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:07:49.510025+00:00"
+}

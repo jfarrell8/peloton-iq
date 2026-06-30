@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure sprinter who does not initiate attacks. Relies entirely on positioning in reduced bunch sprints in final meters, not on pre-emptive moves.",
+  "team_tactics": "Limited tactical data available. Appears to work with reduced team support compared to top-tier lead-out trains, evidenced by sprint positioning battles rather than organized lead-outs.",
+  "terrain_preference": "Reduced bunch sprints after selective stages where attrition has removed pure fast-twitch sprinters. Struggles against organized sprint trains with full lead-out support.",
+  "vulnerability": "Lacks the final kick to convert strong positioning into victories against top-tier sprinters like Viviani. Vulnerable when facing fully organized lead-out trains.",
+  "key_patterns": [
+    "Consistently finishes second in Giro sprints, showing strong positioning but lacking winning speed (2 occurrences)",
+    "Performs better in reduced bunch sprints rather than full field gallops with organized trains",
+    "Demonstrates positioning discipline to stay competitive through technical/selective finales at Grand Tours"
+  ],
+  "form_trajectory": "neutral: consistent second-place finishes across 2017-2018 Giro suggest stable level but plateau below victory threshold",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MARECZKO Jakub",
+  "built_from": [
+    "2017 Giro d'Italia Stage 5",
+    "2018 Giro d'Italia Stage 2"
+  ]
+}

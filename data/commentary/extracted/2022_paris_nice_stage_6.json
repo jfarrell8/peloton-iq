@@ -5,20 +5,28 @@
   "stage": 6,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "GODOT Bjorg won from a breakaway that survived by 18 seconds inside final 3km after peloton miscalculated the chase.",
-    "winner": "GODOT Bjorg",
+    "one_line_summary": "GODON Dorian won from the break after a peloton miscalculation left an 18-second gap inside 2.5km, holding off the sprint favorites at the line.",
+    "winner": "GODON Dorian",
     "commentary_quality": "moderate",
     "tactical_patterns": [
-      "Trek-Segafredo chased all day despite no GC threat in break, potentially exhausting domestiques before final mountain stage.",
-      "Breakaway survival with 18-second gap at 3km collapsing to zero at line indicates sprinter teams misjudged final terrain resistance.",
-      "LAPORTE led chase despite being Jumbo's sprint option, suggesting team prioritized controlling gaps over optimizing leadout positioning."
+      "KORETZKY Viktor, former MTB world bronze medalist, bridged to final climb break showing cross-discipline attackers excel on late hybrid terrain.",
+      "KRAGH ANDERSEN Søren attacked alone 15km out in 7th GC, revealing Trek's willingness to sacrifice GC position for stage hunting.",
+      "Peloton misjudged catch timing inside 5km, allowing 18-second gap to persist, suggesting fatigue calculation errors on longest stage (213.6km).",
+      "MADOUAS Valentin dominated KOM points in break, indicating intentional jersey defense strategy rather than stage win ambition."
     ],
     "rider_signals": {
-      "GODOT Bjorg": "positive: First pro win at 23 suggests emerging breakaway specialist, especially on reduced-bunch stages with late categorized climbs.",
-      "LAPORTE Christophe": "neutral: Doing chase work instead of conserving for sprint reveals Jumbo's internal sprint hierarchy ambiguity.",
-      "MADIOT Valentin": "positive: Dominated KOM points throughout stage, indicating aggressive breakaway selection strategy targeting secondary competitions."
+      "GODON Dorian": "positive: First pro win from break on longest stage shows exceptional endurance capacity for 23-year-old",
+      "KRAGH ANDERSEN Søren": "neutral: Solo attack from 7th GC with 15km remaining suggests frustration or team directive to abandon classification",
+      "KORETZKY Victor": "positive: MTB background enabled successful bridge to leaders on final categorized climb, tactical advantage on technical climbing",
+      "HOLMES Matthew": "neutral: Picked up KOM points despite being caught, showing points-jersey tactics over stage ambition",
+      "MADOUAS Valentin": "positive: Controlled break to secure KOM jersey points, demonstrating experienced break management for classification goals",
+      "BOL Cees": "negative: Named sprinter present but unable to contest reduced bunch sprint after 213km stage",
+      "HAYTER Ethan": "negative: Mentioned as present but ineffective in reduced sprint, suggesting endurance limitations on longest stages",
+      "PEDERSEN Mads": "negative: Expected to contest sprint but team miscalculated catch, revealing coordination failure under fatigue",
+      "LAPORTE Christophe": "negative: Chased bonus sprint but team failed final catch, exposing tactical disconnect in prolonged efforts",
+      "ROGLIČ Primož": "neutral: Retained yellow with minimal effort on flat stage, armchair ride confirms team control before mountain stages"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:47:14.865152+00:00"
+  "extracted_at": "2026-06-28T23:37:50.642877+00:00"
 }

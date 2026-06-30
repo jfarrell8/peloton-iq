@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Commits to long-range breakaway efforts on hilly terrain, willing to invest energy early in stages rather than waiting for late attacks.",
+  "team_tactics": "Alpecin utilizes him as a breakaway asset on hilly stages, sending him up the road to force opponents to chase while preserving leaders for finale.",
+  "terrain_preference": "Suited to rolling and hilly stages where breakaways have reasonable survival chances. Less effective on flat technical parcours, particularly in poor conditions.",
+  "vulnerability": "Exposed in wet, technical racing conditions where bike handling becomes critical. Crash involvement suggests reduced effectiveness when peloton speeds remain high on tricky roads.",
+  "key_patterns": [
+    "Deployed in early breakaways on hilly stages (2 observations)",
+    "Team willing to commit him offensively rather than defensively (2 observations)",
+    "Struggles in technical/wet conditions leading to race-ending incidents (2 observations)"
+  ],
+  "form_trajectory": "neutral: Most recent 2022 observation shows active racing in breakaways, but limited data points prevent clear trend identification.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MEURISSE Xandro",
+  "built_from": [
+    "2019 BinckBank Tour Stage 3",
+    "2022 Tirreno-Adriatico Stage 5"
+  ]
+}

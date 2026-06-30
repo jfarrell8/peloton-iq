@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who seeks early moves rather than late-race attacks. Lacks finishing power on climbs, getting dropped in final 2-3km when gradients steepen or pace intensifies.",
+  "team_tactics": "Willingly accepts pure domestique role, sacrificing personal GC ambitions entirely to work for team leaders. No evidence of protected status or team setup for personal result.",
+  "terrain_preference": "Performs best in sustained breakaway efforts on moderate climbs. Exposed on steep finishing climbs and in final selection groups when elite climbers accelerate with under 3km remaining.",
+  "vulnerability": "Crumbles when required to follow accelerations in final kilometers of climbs. Cannot sustain intensity when sitting in breaks without contributing (legs fail when forced to work). Late-race climbing efforts consistently unsuccessful.",
+  "key_patterns": [
+    "Dropped from contention groups in final 2-3km of climbs across multiple races.",
+    "Functions as complete domestique, accepting massive time losses while working for leaders.",
+    "Early breakaway participation but lacks legs to survive to finish when pace increases.",
+    "Unable to sit on in breaks when fatigued; first to drop when contributions required."
+  ],
+  "form_trajectory": "negative: Most recent 2021 observation shows deterioration—dropped earliest from break at 60km out, suggesting declining physical capacity compared to 2020 fourth-place climbing performance",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "POWER Robert",
+  "built_from": [
+    "2020 UAE Tour Stage 2",
+    "2020 UAE Tour Stage 3",
+    "2020 UAE Tour Stage 3",
+    "2020 Vuelta a Espana Stage 6",
+    "2021 Criterium du Dauphine Stage 2"
+  ]
+}

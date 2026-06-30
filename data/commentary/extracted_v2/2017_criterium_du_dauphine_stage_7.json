@@ -1,0 +1,26 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-10",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KENNAUGH Peter won from the breakaway on Col de l'Izoard while PORTE Richie dropped FROOME Christopher in final 2km to cement GC dominance",
+    "winner": "KENNAUGH Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Porte dropped Froome 2km from finish on Izoard, revealing Sky hierarchy shift before Tour de France.",
+      "Bardet attacked 3km from summit with Weening but failed to distance Swift/Kennaugh, exposing AG2R weakness against punchier climbers.",
+      "Talansky launched under-the-radar move before final climb using Clark as launch pad, showing Cannondale tactical preparation."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "positive: Dropped Froome in final 2km and gained 40 seconds on Bardet group, confirming pre-Tour superiority within Sky",
+      "FROOME Christopher": "negative: Dropped by teammate Porte 2km from finish, signaling uncertain form three weeks before Tour",
+      "BARDET Romain": "neutral: Attacked 3km from summit but only gained 40 seconds on Porte despite breakaway buffer, underwhelming for GC threat",
+      "CONTADOR Alberto": "negative: Suffered on final Izoard ascent, losing time to both Porte and Bardet in critical Tour warmup",
+      "KENNAUGH Peter": "positive: Beat Swift in two-up sprint after resisting Bardet's late chase, showing climbing/finishing versatility beyond domestique role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:54:20.728212+00:00"
+}

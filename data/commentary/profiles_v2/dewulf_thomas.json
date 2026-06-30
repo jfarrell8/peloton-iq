@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who survives medium difficulty climbs through smart positioning rather than raw climbing power, then executes sprints from small groups.",
+  "team_tactics": "Limited data, but showed ability to operate independently in breakaways without visible team support for final execution.",
+  "terrain_preference": "Breakaway-friendly stages with climbs difficult enough to thin the peloton but not steep enough to drop competent riders. Excels in reduced sprint scenarios from 5-10 riders.",
+  "vulnerability": "Lacks the pure climbing strength to stay with elite climbers on sustained/steep ascents. Relies on others to control race before sprint finish.",
+  "key_patterns": [
+    "Wins from small breakaway sprints rather than solo efforts or bunch kicks.",
+    "Survives climbs through tactical positioning despite not being strongest climber present.",
+    "Targets stages where breakaway survival probability high, then out-sprints survivors."
+  ],
+  "form_trajectory": "unknown: only single race observation from 2017, insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DEWULF Thomas",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 19",
+    "2017 Vuelta a Espana Stage 19"
+  ]
+}

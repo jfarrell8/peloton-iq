@@ -1,0 +1,32 @@
+{
+  "label": "2020 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-13",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked ROGLIČ in final 200m of Grand Colombier summit finish, taking stage and 4 bonus seconds to cut GC gap to 40 seconds.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR demonstrated superior acceleration on steep gradient finishes, attacking inside final 200m when ROGLIČ stayed defensive throughout climb.",
+      "KUSS pulling to finish line for ROGLIČ reveals Jumbo-Visma prioritizing GC defense over stage wins when bonification seconds threaten.",
+      "DUMOULIN massive tempo pull to summit despite GC position suggests team orders over personal GC ambitions when leader threatened.",
+      "BERNAL losing 7:19 on Grand Colombier proves previous Pyrenees time losses weren't tactical positioning but genuine collapse."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Second stage win in week plus 4-second bonus gap shows peak form arriving, now tactical aggressor not reactor.",
+      "ROGLIČ Primož": "neutral: Defended yellow but couldn't respond to POGAČAR sprint, revealing weakness in explosive accelerations despite strong sustained climbing.",
+      "BERNAL Egan": "negative: 7:19 loss on Grand Colombier confirms catastrophic form collapse, not tactical waiting; title defense mathematically over.",
+      "PORTE Richie": "positive: Stayed with yellow jersey group through summit finish, moved from 9th to 6th GC, emerging as podium contender.",
+      "URÁN Rigoberto": "positive: Moved to third overall without visible attacks, riding smart defensive race while favorites marked each other.",
+      "KUSS Sepp": "positive: Pulled to finish line on summit despite personal GC position, perfect domestique work when ROGLIČ needed bonification defense.",
+      "DUMOULIN Tom": "positive: Massive sustained pull to summit despite 10th GC shows team commitment, critical for protecting ROGLIČ from early attacks.",
+      "HIGUITA Sergio": "negative: Touch-wheels crash 8 miles in while glancing backward for breakaway gap shows poor spatial awareness; abandoned Tour.",
+      "CARAPAZ Richard": "neutral: Crash took out BERNAL's key support rider early, removing INEOS tactical flexibility before mountains even started.",
+      "QUINTANA Nairo": "negative: Lost 3:48 on Grand Colombier, confirming decline continues; cannot follow modern explosive climbing accelerations."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:35:00.608531+00:00"
+}

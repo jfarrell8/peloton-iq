@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-08-05",
+  "stage": 7,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HIGUITA Sergio attacked with 2km to go on Malbun climb, gained 11 seconds on THOMAS Geraint to take yellow by 2 seconds before final ITT",
+    "winner": "HIGUITA Sergio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint forced FULSANG Jakob to chase HIGUITA's attack, conserving energy before counterattacking in final 500m—yellow jersey proxy tactic.",
+      "RODRÍGUEZ Óscar rode stealthily to second place, suggesting pre-race targeting of stage result rather than GC defense.",
+      "MARTINEZ Dani led tempo for HIGUITA until final kilometer, indicating BORA precise timing strategy to maximize GC gains before ITT weakness."
+    ],
+    "rider_signals": {
+      "HIGUITA Sergio": "positive: attacked with 2km remaining on Malbun after team pacing, took 11 seconds on THOMAS despite being weaker time trialist",
+      "THOMAS Geraint": "positive: tactical intelligence forcing FULSANG to chase, then counterattacked final 500m but conceded minimal time despite ITT strength",
+      "FUGLSANG Jakob": "neutral: controlled well all week but forced into chase work for THOMAS, dropped to 19 seconds suggests vulnerability on steep finishes",
+      "RODRÍGUEZ Óscar": "positive: stealthily finished second without visible effort, indicates hidden climbing form or tactical stage hunting separate from GC",
+      "PINOT Thibaut": "neutral: breakaway stage win after 3-year victory drought, no GC implications but form resurgence confirmed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:47:40.335420+00:00"
+}

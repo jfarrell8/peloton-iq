@@ -4,85 +4,21 @@
   "race_date": "2019-06-17",
   "stage": 3,
   "video": {
-    "video_id": "_J2F5e_t4iY",
-    "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
-    "published": "2019-06-17 17:23:18+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=_J2F5e_t4iY",
-    "match_score": 145.0,
-    "all_candidates": [
-      {
-        "video_id": "_J2F5e_t4iY",
-        "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
-        "channel": "Velon",
-        "published": "2019-06-17 17:23:18+00:00",
-        "match_score": 145.0
-      },
-      {
-        "video_id": "NYGJt5jXjfE",
-        "title": "Tour de Suisse 2019: Stage 2 highlights",
-        "channel": "Velon",
-        "published": "2019-06-16 18:25:07+00:00",
-        "match_score": 95.0
-      },
-      {
-        "video_id": "NhdYZx6dOrM",
-        "title": "Tour de Suisse 2019: Stage 1 highlights",
-        "channel": "Velon",
-        "published": "2019-06-15 21:58:44+00:00",
-        "match_score": 80.0
-      },
-      {
-        "video_id": "OMY6TS6kudI",
-        "title": "Tour de Romandie 2019 | Stage 3 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-05-03 16:22:18+00:00",
-        "match_score": 78.18
-      },
-      {
-        "video_id": "X6F6suf4O3I",
-        "title": "Tour de Romandie 2019 | Stage 3 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-05-04 15:27:49+00:00",
-        "match_score": 78.18
-      },
-      {
-        "video_id": "FzWc96DVJmM",
-        "title": "Tour of Utah 2019 | Stage 3 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-08-16 18:30:02+00:00",
-        "match_score": 75.22
-      },
-      {
-        "video_id": "ze__pTaVEKg",
-        "title": "Tour of Guangxi 2019: Stage 3 On-Bike Highlights",
-        "channel": "Velon",
-        "published": "2019-10-19 11:48:18+00:00",
-        "match_score": 74.58
-      },
-      {
-        "video_id": "1sJt14HlKCM",
-        "title": "Tour of Guangxi 2019: Stage 3 Highlights",
-        "channel": "Velon",
-        "published": "2019-10-19 07:21:24+00:00",
-        "match_score": 74.58
-      },
-      {
-        "video_id": "ft3ivYnrFI0",
-        "title": "Tour of Britain 2019 | Stage 3 Highlights | inCycle",
-        "channel": "inCycle",
-        "published": "2019-09-10 09:30:12+00:00",
-        "match_score": 74.0
-      },
-      {
-        "video_id": "TwMvu6o1Ghc",
-        "title": "BinckBank Tour 2019 | Stage 3 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2019-08-14 16:09:40+00:00",
-        "match_score": 72.5
-      }
-    ]
+    "video_id": "i4bmhimGYH0",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=i4bmhimGYH0",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 41,
+    "raw_chars": 1526,
+    "clean_chars": 1518,
+    "duration_mins": 1.6,
+    "clean_text": "yummo bhisma's birch and Linderman was joined by Ryan Anderson of rally UHC villain Schmidt of katusha altissima and Switzerland seemed on bail in the early break the leaders took the bell for the 26 kilometer finishing circuit in Morton with the bunch less than two minutes back and the catch looked certain though Bora hansgrohe stage favorite Terrace again was forced to change his bike for the second time less than 20 kilometers from the finish line the Slovakian champion got back on quickly with the aid of machi Bodnar as the early break squabbled to the last man standing on a day which had been billed in advance as a prime opportunity for the sprint teams to shine into the final two kilometers trek Sega Fredo took control and Sagan fought tooth and nail with charmed egg called for the wheel of the latter's teammate Gasper Steven it was classic sprinters fare as their shoulders touched more than once in a high-speed tussle for the all-important lead out into the final Bend and it was segond who was in prime position to launch his sprint as the road turned left and veered up a 12% incline in the final 200 meters punching past Ivan on the cobbled ramp to the finish sugan was never in danger and the clenched fist salute spoke volumes for his delight in securing a 17th career stage success in Tour de Suisse Viviani overhauled dehghan called per second but there was no denying Sagan who also moved into the overall race lead by 10 seconds from a screen ahead of Tuesday's fourth stage to Arles Heim",
+    "preview_start": "yummo bhisma's birch and Linderman was joined by Ryan Anderson of rally UHC villain Schmidt of katusha altissima and Switzerland seemed on bail in the early break the leaders took the bell for the 26 kilometer finishing circuit in Morton with the bunch less than two minutes back and the catch looked certain though Bora hansgrohe stage favorite Terrace again was forced to change his bike for the second time less than 20 kilometers from the finish line the Slovakian champion got back on quickly wi",
+    "preview_end": " prime position to launch his sprint as the road turned left and veered up a 12% incline in the final 200 meters punching past Ivan on the cobbled ramp to the finish sugan was never in danger and the clenched fist salute spoke volumes for his delight in securing a 17th career stage success in Tour de Suisse Viviani overhauled dehghan called per second but there was no denying Sagan who also moved into the overall race lead by 10 seconds from a screen ahead of Tuesday's fourth stage to Arles Heim"
+  },
+  "status": "transcript_saved"
 }

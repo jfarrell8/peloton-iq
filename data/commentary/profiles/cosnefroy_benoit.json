@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets early-race moves for classification points rather than stage wins. Attacks on opening climbs when defending KOM position, but lacks sustained power to stay clear against determined chasers.",
+  "team_tactics": "Functions flexibly within team hierarchy — capable of both aggressive breakaway hunting and selfless domestique work. Team willing to sacrifice personal ambitions for stronger teammates (e.g., leadout duties for Naesen). Limited evidence of coordinated team support for personal attacks.",
+  "terrain_preference": "Ardennes-style punchy climbs where positioning and timing matter more than pure watts. Excels in hilly one-day races requiring tactical discipline. Struggles on sustained Alpine/Pyrenean climbs where power differential becomes exposed.",
+  "vulnerability": "Cannot defend mountain classification against sustained pressure from pure climbers. Makes questionable tactical decisions under pressure (attacking when teammate already ahead, poor wheel selection). Form appears inconsistent year-to-year, particularly when defending previous results.",
+  "key_patterns": [
+    "Breakaway-dependent for classification success; lost KOM jersey despite tactical positioning attempts (3 observations)",
+    "Strong finishing kick from good position rather than explosive attacking (Flèche 2nd, breakaway tactics)",
+    "Poor tactical decision-making under pressure: wrong wheel choices, mistimed attacks with teammate clear (2 observations)",
+    "Significant form regression between seasons: champion to domestique role within two years (2020-2022 trajectory)"
+  ],
+  "form_trajectory": "negative: Clear decline from 2020 KOM contention and Flèche podium to 2022 domestique duties for teammates, suggesting peak has passed or motivation issues",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "COSNEFROY Benoit",
+  "built_from": [
+    "2020 La Fleche Wallonne",
+    "2020 Tour de France Stage 21",
+    "2020 Tour de France Stage 3",
+    "2020 Tour de France Stage 7",
+    "2020 Tour de France Stage 8",
+    "2022 Bretagne Classic - Ouest-France"
+  ]
+}

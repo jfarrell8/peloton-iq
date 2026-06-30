@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic long-range attacks on penultimate climbs (30+ seconds gaps), exploiting hesitation among favorites rather than pure climbing power. Struggles when requiring finishing speed or sustained efforts.",
+  "team_tactics": "Limited domestique support visible; often isolated and unable to contribute to collective efforts. Tends to operate as solo opportunist rather than benefiting from structured team setup.",
+  "terrain_preference": "Medium-length climbs where tactical timing matters more than pure watts. Exposed on short punchy circuits and when sprint speed required to finish moves. Struggles on sustained high-intensity climbs.",
+  "vulnerability": "Lacks pace on short, steep gradients even against weaker climbers. Cannot match sustained high tempo when on limit. Finishing speed inadequate to convert attacks into wins when caught.",
+  "key_patterns": [
+    "Attacks when favorites mark each other, not from strength; two observed instances of tactical opportunism",
+    "Unable to sustain efforts when at threshold; admitted limitations and failed chases in two Giro appearances",
+    "Post-setback attacks appear desperate rather than calculated; lacks recovery form to execute properly",
+    "Isolated racing style with minimal team contribution visible across three separate race observations"
+  ],
+  "form_trajectory": "negative: 2021 showed inability to match pace of weaker climbers on minor categorized climbs, significant decline from 2019 Lombardia win",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "MOLLEMA Bauke",
+  "built_from": [
+    "2017 Giro d'Italia Stage 15",
+    "2017 Giro d'Italia Stage 9",
+    "2019 Il Lombardia",
+    "2019 Il Lombardia",
+    "2021 Giro d'Italia Stage 15"
+  ]
+}

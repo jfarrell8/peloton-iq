@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-17",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI won Stage 18 after CARAPAZ took wrong side of roundabout to attack mid-Col de la Madeleine, then Kwiatkowski bridged late on descent to outsprint Carapaz.",
+    "winner": "KWIATKOWSKI Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARAPAZ used roundabout geometry mid-climb to create gap, demonstrating non-traditional attack points work on technical alpine roads.",
+      "KWIATKOWSKI bridged to leader late on descent rather than climbing, showing teammates can convert leader attacks into own wins.",
+      "CARAPAZ took polka-dot jersey via intermediate sprints with HERSHEY, revealing KOM competition tactics during breakaway influenced stage outcome.",
+      "ROGLIC dropped KUSS on final climb despite being teammates, signaling GC dominance messaging before time trial."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "positive: First Grand Tour stage win at age 30 after 10 Grand Tours suggests late-career resurgence, bridged descent not climb",
+      "CARAPAZ Richard": "positive: Won KOM jersey via aggressive intermediate sprint tactics with teammate support, nearly won stage with roundabout attack",
+      "YATES Adam": "negative: Dropped out of top-5 GC on hardest alpine stage, exposed limits on highest vertical gain stages",
+      "LANDA Mikel": "positive: Moved to 5th GC on maximum vertical stage, signal of specific strength on accumulative climbing days",
+      "ROGLIC Primoz": "positive: Rode final climb alone ahead of domestique KUSS, dominance display before time trial rather than conserving energy",
+      "BENNETT Sam": "positive: Beat SAGAN cleanly in intermediate sprint, confirmed as fastest pure sprinter despite mountain stage context"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:24:16.408278+00:00"
+}

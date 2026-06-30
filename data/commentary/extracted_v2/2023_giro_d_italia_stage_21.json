@@ -1,0 +1,22 @@
+{
+  "label": "2023 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won the processional Rome finale sprint in his seventh Giro appearance, finishing his first win in four years for Astana.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "THOMAS Geraint pulling in final leadout suggests Sky/INEOS climbers defaulting to sprint domestique work even post-GC effort.",
+      "MILAN Jonathan successfully disrupted GANNA intermediate sprint hunting despite holding points jersey, revealing defensive sprint classification tactics."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: First win in four years suggests Astana setup unlocked something previous teams couldn't after decline",
+      "GAVILIA Milan": "negative: Going from distance in Rome sprint indicates lack of confidence in positioning or leadout strength"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T18:40:04.162862+00:00"
+}

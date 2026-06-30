@@ -1,18 +1,20 @@
 {
-  "attacking_style": "Launches explosive, early attacks even from compromised positions, relying on raw power rather than tactical positioning to compensate for disadvantageous starting points.",
-  "team_tactics": "Insufficient data to establish clear team setup patterns. Limited observations suggest team relies heavily on his individual presence rather than collective strategy.",
-  "terrain_preference": "Insufficient data for definitive terrain preference, though explosive power suggests suitability for punchy, short efforts rather than sustained climbs.",
-  "vulnerability": "Crash-prone, with single incident capable of collapsing team advantage; poor positioning discipline forces reliance on superior power to overcome tactical deficits.",
+  "attacking_style": "Opportunistic aggressor who contests intermediate sprints from breakaways and takes calculated risks in technical finales, prioritizing points accumulation over stage wins.",
+  "team_tactics": "Israel-Premier Tech deploys him in breakaway-focused roles without dedicated lead-out support, allowing tactical flexibility to contest sprints and intermediates when positioned favorably.",
+  "terrain_preference": "Technical finales and transitional stages where positioning and risk-taking outweigh pure sprint power; thrives in scenarios requiring barrier-side cornering and breakaway positioning.",
+  "vulnerability": "Lacks pure sprint speed to challenge top-tier finishers in organized bunch sprints; dependent on tactical positioning rather than overwhelming power.",
   "key_patterns": [
-    "Compensates for positioning errors with explosive power rather than improving tactical placement.",
-    "Team structure vulnerable to his individual misfortune, suggesting central role in collective efforts."
+    "Actively contests intermediate sprints even against faster finishers (2 observations).",
+    "Takes barrier-side and technical risks in finales for positioning advantage (2 observations).",
+    "Deployed in breakaway specialist role rather than protected sprint scenarios (2 observations).",
+    "Prioritizes points accumulation through opportunism over stage victory attempts (2 observations)."
   ],
-  "form_trajectory": "unknown: observations too sparse and temporally separated (March to July 2023) to assess trajectory reliably",
+  "form_trajectory": "positive: Both 2023 observations show consistent aggressive racing with willingness to take calculated risks for points and positioning.",
   "races_analysed": 2,
   "confidence": "low",
   "rider_name": "STRONG Corbin",
   "built_from": [
-    "2023 Tour de France Stage 19",
+    "2023 Tour de Romandie Stage 1",
     "2023 Volta Ciclista a Catalunya Stage 4"
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-11",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTINEZ Danny won from breakaway after teammate CAMNA Lenard paced him up final climb, while ROGLIC extended GC lead with late acceleration dropping BERNAL by 37 seconds",
+    "winner": "MARTINEZ Daniel Felipe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POGACAR attacked with ROGLIC at finish despite no bonuses, revealing willingness to inflict psychological damage even without time gains.",
+      "EF placed both MARTINEZ and CAMNA in break, CAMNA paced Martinez entire final climb then sacrificed sprint for stage win.",
+      "INEOS isolated BERNAL early with no teammates in break despite three categorized climbs before decisive finish.",
+      "SAGAN targeted breakaway on stage with sprint points only after three climbs, signaling green jersey chase outweighs stage hunting.",
+      "Teams flooded early break knowing GC favorites would let stage go, JUMBO controlled but didn't chase break."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: Lost 37 seconds to ROGLIC on final climb after team positioned him perfectly, showing weakness when isolated without teammates",
+      "POGACAR Tadej": "positive: Moved to second overall despite recent mechanical, matched ROGLIC's acceleration at finish showing form superior to defending champion BERNAL",
+      "ROGLIC Primoz": "positive: First mountain stage defense in yellow, accelerated unnecessarily at finish purely to gain psychological edge over rivals",
+      "MARTINEZ Daniel Felipe": "positive: Won Tour stage while teammate CAMNA tracked all attacks and paced final climb, showed tactical maturity in slow-speed sprint finish",
+      "VAN GARDEREN Tejay": "neutral: Pink jersey holder attempted early move signaling GC teams willing to use leaders in breakaway positioning on Massif Central stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:23:04.484638+00:00"
+}

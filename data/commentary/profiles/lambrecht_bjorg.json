@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches solo accelerations from breakaway positions on climbs, showing willingness to commit early and sustain efforts over extended distances rather than waiting for final kick.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns across the two observed races.",
+  "terrain_preference": "Punchy Ardennes-style climbs and sustained mountainous terrain; demonstrated exceptional climbing ability across both hilly classics and stage race mountains, suggesting versatility on any upward gradient.",
+  "vulnerability": "Limited observations prevent clear vulnerability assessment, though youth and inexperience at highest level may have been factors in race execution.",
+  "key_patterns": [
+    "Excels on climbs with top-5 Ardennes classic finish and near-successful breakaway holding efforts.",
+    "Comfort attacking from breakaway rather than peloton, showing preference for long-range offensive racing.",
+    "Exceptional climbing ability for age/experience level noted across both hilly and mountain stages."
+  ],
+  "form_trajectory": "positive: Both 2019 observations showed strong climbing performance with breakthrough Ardennes result and near-successful solo effort at Dauphine indicating rising trajectory before season ended",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LAMBRECHT Bjorg",
+  "built_from": [
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 La Fleche Wallonne"
+  ]
+}

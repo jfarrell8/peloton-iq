@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Launches repeated late surges in breakaways within final 3km, targeting summit finishes and KOM points rather than stage wins. Attacks to disintegrate groups and position for secondary objectives.",
+  "team_tactics": "Serves dual role: primary leadout man for team sprinters (MILANO) in flat stages while pursuing personal breakaway opportunities when released. Team surrenders GC positioning to allow breakaway freedom.",
+  "terrain_preference": "Climbing stages where breakaways contest KOM points and summit finishes. Performs strongly in time trials (48 seconds ahead of quality specialists). Less effective on pure flat sprint stages.",
+  "vulnerability": "Tactical inexperience in small group sprint dynamics—launches finishing efforts too early and fades. Injury-prone (elbow issues recurring). Lacks superior finishing speed when caught by faster finishers.",
+  "key_patterns": [
+    "Repeatedly attacks final 3km in breakaways to fracture groups, not secure wins (2019 x2)",
+    "Targets KOM points and intermediate objectives over stage victories across multiple Vueltas (2018, 2019)",
+    "Acts as leadout domestique for team sprinters when not in breakaways (2023 Vuelta)",
+    "Shows strong time trial capability exceeding known specialists by significant margins (2020)",
+    "Demonstrates willingness to assume virtual GC lead within breakaways for team tactical control (2017)"
+  ],
+  "form_trajectory": "negative: 2023 crash on previously injured elbow suggests recurring injury concerns compromising leadout duties; no recent breakaway success noted",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "OLIVEIRA Nelson",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 8",
+    "2018 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 6",
+    "2020 Vuelta a Espana Stage 13",
+    "2021 Tirreno-Adriatico Stage 6",
+    "2023 Vuelta a Espana Stage 19"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Employs disruptive, high-risk attacks in the final 1-1.5km of sprint stages, specifically targeting the moment when rival leadout trains are most vulnerable and committed to their structure.",
+  "team_tactics": "Functions as both leadout man and tactical disruptor for Bora-Hansgrohe. Positions teammates through final 2km with precision timing, avoiding premature positioning errors that catch rivals.",
+  "terrain_preference": "Flat sprint finishes where leadout train disruption creates maximum chaos. Thrives in tactical finale situations requiring late positioning rather than pure power.",
+  "vulnerability": "Suicide attacks are tactically effective but self-sacrificing—destroys rival structures but eliminates own result potential. Benefits teammates and opportunists more than himself.",
+  "key_patterns": [
+    "Launches late-race attacks (1100m) specifically timed to collapse organized leadout trains (2 observations)",
+    "Dual role: precise leadout positioning for teammates and tactical kamikaze disruption (2 observations)",
+    "Creates chaos that benefits freelance sprinters rather than structured teams (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent tactical intelligence across 2018-2019, executing team role effectively but personal results secondary to team disruption strategy",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DRUCKER Jempy",
+  "built_from": [
+    "2018 Giro d'Italia Stage 13",
+    "2018 Giro d'Italia Stage 13",
+    "2019 Vuelta a Espana Stage 3"
+  ]
+}

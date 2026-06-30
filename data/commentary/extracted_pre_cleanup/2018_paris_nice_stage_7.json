@@ -1,0 +1,27 @@
+{
+  "label": "2018 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-10",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked 4km from summit finish on Col de la Colmiane, resisted IZAGIRRE Ion to win stage and take overall lead",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott positioned YATES Simon perfectly throughout stage, conserving energy before 4km attack on final climb.",
+      "Seven-rider breakaway including GALLOPIN, DE MARCHI, ROCHE contained by Sky/Astana at 3min, caught before final climb begins.",
+      "SÁNCHEZ Luis León lost 4min on 16km climb, dropping from GC top-10, revealing form collapse on sustained gradients.",
+      "TEUNS Dylan finished second after following YATES attack, showing BMC had no protected GC rider to chase earlier."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: First summit finish victory of 2018 season, demonstrates clear elevation in mountain form versus 2017 baseline",
+      "SÁNCHEZ Luis León": "negative: Four-minute loss on 6% average climb suggests critical weakness on sustained efforts despite earlier GC position",
+      "IZAGIRRE Ion": "positive: Followed YATES attack to finish third at 11sec, confirming twin brothers both capable GC podium contenders",
+      "TEUNS Dylan": "positive: Second place finish indicates BMC depth, but absence of earlier chase suggests team lacked designated GC leader",
+      "GALLOPIN Tony": "neutral: Joined early break but caught before final climb, standard aggressive riding without GC protection role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:30:47.267987+00:00"
+}

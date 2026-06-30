@@ -1,0 +1,24 @@
+{
+  "label": "2023 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRON Andreas attacked the final climb, held off disorganized peloton after neutralization at 9km allowed GC riders to sit up",
+    "winner": "KRON Andreas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Race neutralization at 9km instead of 3km created split incentives: opportunists attacked while GC contenders soft-pedaled to safety.",
+      "ROMO Javier repeatedly targeted KOM points from first categorized climb, revealing early jersey hunting strategy from non-GC threats.",
+      "EF mechanic positioned perfectly for KRON's late crash, suggesting team cars anticipated attack chaos in final kilometers despite neutralization."
+    ],
+    "rider_signals": {
+      "KRON Andreas": "positive: attacked final climb despite earlier crash, showing opportunism when GC riders mentally checked out at neutralization point",
+      "EVENEPOEL Remco": "negative: required nature break with teammates mid-race, vocal displeasure about TTT conditions suggests mental fragility carrying into road stages",
+      "BARDET Romain": "positive: DSM squad took virtual red jersey despite starting TTT in near-darkness, showing depth beyond stage racing favorites"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:07:09.218381+00:00"
+}

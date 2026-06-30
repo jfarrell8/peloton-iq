@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-27",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "DENNIS Rowan bridged solo to VINE Jay on the final climb summit, then time-trialed 8km to win and take GC lead by 1 second from VINE.",
+    "winner": "DENNIS Rowan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MATTHEWS Michael chain drop 21km from finish signals automatic attacking opportunity that opposing teams exploited immediately",
+      "VINE Jay maximized KOM points over summit but lacked TTing power to hold solo breakaway companion on descent",
+      "DENNIS Rowan bridged 45-second gap solo on climb then held wheelsucker YATES at bay through 8km technical descent"
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: world-class pursuit power to close 45s gap solo on climb, then resist Yates for 8km",
+      "MATTHEWS Michael": "negative: mechanical at worst moment 21km out eliminated GC contention on crucial MTF stage",
+      "VINE Jay": "neutral: strong climber took maximum KOM points but lacks time trial engine to defend solo lead",
+      "YATES Simon": "negative: sat on Dennis wheel entire descent refusing to contribute, tactical passivity cost stage win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:26:33.144797+00:00"
+}

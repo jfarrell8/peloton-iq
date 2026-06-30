@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who attacks from front groups on penultimate climbs, then time-trials solo to finish. Prefers mountain-top finishes where he can destroy breakaway companions 10-15km from finish and sustain power advantage alone.",
+  "team_tactics": "Operates with tactical freedom in breakaways, teams often allow him significant leeway (5+ minutes despite close GC gaps). Not reliant on domestique support; thrives when sent up the road early to manage own efforts.",
+  "terrain_preference": "Excels on sustained mountain-top finishes where consistent power trumps explosiveness. Strong on technical descents (Splugen example). Weather-shortened or late-race fatigue stages neutralize explosive rivals and favor his steady diesel engine.",
+  "vulnerability": "Struggles on explosive final climbs when fresh (dropped early on steep MTFs). At age 35+, form consistency between races uncertain. Cannot respond when isolated and attacked repeatedly by pure climbers.",
+  "key_patterns": [
+    "Destroys breakaway companions on penultimate climb, then solos final 10-15km (3 observations)",
+    "GC teams force to chase despite close GC gaps, respecting his threat (3 observations)",
+    "Perfect energy management: holds minimal advantages through superior pacing, not power (4 observations)",
+    "Late-career breakthrough: first GT wins at 33-35 years old when fatigue levels field (3 observations)",
+    "Tactically alert opportunist: exploits coverage gaps and intermediate sprints for GC seconds (2 observations)"
+  ],
+  "form_trajectory": "neutral: Showed GC form at age 35 in 2023 Vuelta (teams respected 23sec gap), but questioned whether purely opportunistic. No dominant performances like 2021 peak victories.",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "CARUSO Damiano",
+  "built_from": [
+    "2018 Tirreno-Adriatico Stage 6",
+    "2021 Giro d'Italia Stage 16",
+    "2021 Giro d'Italia Stage 19",
+    "2021 Giro d'Italia Stage 20",
+    "2021 Giro d'Italia Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2021 Vuelta a Espana Stage 7",
+    "2021 Vuelta a Espana Stage 9",
+    "2021 Vuelta a Espana Stage 9",
+    "2023 Tirreno-Adriatico Stage 5",
+    "2023 Vuelta a Espana Stage 3",
+    "2023 Vuelta a Espana Stage 3"
+  ]
+}

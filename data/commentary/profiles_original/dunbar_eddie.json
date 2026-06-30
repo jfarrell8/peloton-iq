@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Dunbar does not initiate aggressive attacks; instead, he climbs steadily and efficiently to capitalize on others' weaknesses and race chaos, moving up GC through attrition management rather than explosive moves.",
+  "team_tactics": "Operates as fourth GC option for Ineos with minimal dedicated team support. Benefits from team's overall strength creating chaos but climbs independently without domestique protection.",
+  "terrain_preference": "High mountain stages with cumulative fatigue where steady climbing rhythm and endurance trump explosive power. Thrives when attrition eliminates more aggressive but less consistent climbers.",
+  "vulnerability": "Lacks firepower for decisive attacks when race situation requires offensive riding. Depends on chaos and others' misfortune rather than controlling his own destiny through aggressive racing.",
+  "key_patterns": [
+    "Consistently moves up GC without aggressive riding, benefiting from attrition (3 observations)",
+    "Climbs well without team support, operating independently as fourth Ineos option (2 observations)",
+    "Gains positions through survival and consistency rather than explosive attacks (3 observations)"
+  ],
+  "form_trajectory": "positive: Steady GC progression throughout Giro 2023, climbing from outside top-10 to fifth overall through consistent performances despite lack of team support",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DUNBAR Eddie",
+  "built_from": [
+    "2023 Giro dItalia Stage 10",
+    "2023 Giro dItalia Stage 16",
+    "2023 Giro dItalia Stage 18"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-13",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked solo with approximately 5km remaining on Prati di Tivo, held off a late chase from YATES by 6 seconds.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR launched his winning move before 5km to go, forcing rivals to close individually rather than organize pursuit.",
+      "YATES attacked from the chase group late despite struggling previous days, suggesting recovery gamble or team directive shift.",
+      "THOMAS initiated early moves before summit, probing POGAČAR's response threshold and isolating him from UAE teammates early."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: won alone after long solo effort despite visibly suffering, indicating superior time-trial capacity on extended mountain finishes",
+      "YATES Simon": "positive: recovered from being dropped in previous stages to finish second via late attack, showing volatile day-to-day form",
+      "VAN AERT Wout": "neutral: limited to chase group finish, suggesting this climb gradient/length exceeds his uphill offensive capabilities",
+      "HIGUITA Sergio": "positive: finished third by one second over LANDA, demonstrating sharp finishing kick after prolonged climbing effort",
+      "LANDA Mikel": "neutral: marked favorites throughout but lacked acceleration in final kilometer to challenge for podium positions",
+      "ALMEIDA João": "neutral: pursued early moves but absorbed back, confirming role as domestique rather than protected GC option",
+      "THOMAS Geraint": "negative: initiated early attacks but faded completely before summit, caught from breakaway suggesting poor recovery or illness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:06:00.473990+00:00"
+}

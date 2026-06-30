@@ -1,0 +1,31 @@
+{
+  "label": "2019 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-14",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won the stage 5 individual time trial, with BERNAL Egan climbing to second overall, 19 seconds behind yellow jersey KWIATKOWSKI Michał.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KWIATKOWSKI collecting 14 bonus seconds before the ITT reveals proactive Yellow Jersey defense against superior time trialists.",
+      "BERNAL finishing 15 seconds off ITT winner YATES shows Grand Tour TT competence earlier than typical Colombian climber development.",
+      "JUNGELS Bob 11th at intermediate check clawing back to 8th finish suggests pacing errors under pressure as pre-race favorite.",
+      "Education First placing four riders in top 10 ITT indicates team-wide aerodynamic optimization exceeding equipment-only explanations."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: first professional ITT victory on flat course contradicts pure-climber stereotype, peaks well pre-Giro",
+      "BERNAL Egan": "positive: 15 seconds off ITT win plus crosswind strength stages 1-2 reveals complete stage racer toolkit at 22",
+      "KWIATKOWSKI Michał": "neutral: third on stage extends lead but BERNAL at 19 seconds pressures remaining mountain stages",
+      "QUINTANA Nairo": "negative: 17th on stage, over minute down overall confirms continued ITT weakness prevents stage race contention",
+      "SÁNCHEZ Luis León": "negative: slipped from second overall, losing 1:15 exposes time trial vulnerability despite strong road racing",
+      "JUNGELS Bob": "negative: 8th finish as pre-stage favorite and Luxembourg TT champion shows form below spring expectations",
+      "POLITT Nils": "positive: second place finish marks breakout ITT performance suggesting emergence as classics/TT specialist",
+      "VAN GARDEREN Tejay": "positive: first of four Education First in top 10 demonstrates maintained TT ability despite declining GC trajectory",
+      "BARDET Romain": "neutral: working hard on TT improvement but stage result still confirms discipline remains limitation for GC ambitions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:01:43.129446+00:00"
+}

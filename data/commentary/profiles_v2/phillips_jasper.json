@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Thrives in attritional, chaotic sprint finishes where the peloton has been fractured by challenging conditions. Excels in uphill sprints after long, hard stages that thin out pure sprinters.",
+  "team_tactics": "Limited tactical data available, but benefits from race situations where natural attrition replaces organized lead-outs, allowing him to position independently in reduced groups.",
+  "terrain_preference": "Uphill sprint finishes after brutally long stages with headwinds or adverse weather. Exposed terrain that fragments the field suits his resilience better than flat, organized bunch sprints.",
+  "vulnerability": "Injury prone, particularly crashes affecting lower body. Knee injuries specifically mentioned as compromising sprint form, suggesting physical durability concerns in Grand Tour stage sequences.",
+  "key_patterns": [
+    "Wins from fractured pelotons after extreme distance or weather creates natural selection (Vuelta 143.5mi stage).",
+    "Uphill sprint capability separates him from pure flat sprinters in reduced groups.",
+    "Crash vulnerability raises questions about maintaining form through three-week stage sequences."
+  ],
+  "form_trajectory": "negative: Most recent observation shows crash-related injury with doubts raised about sprint form for subsequent stages, indicating fragility in stage racing",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PHILLIPS Jasper",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 15",
+    "2021 Benelux Tour Stage 3"
+  ]
+}

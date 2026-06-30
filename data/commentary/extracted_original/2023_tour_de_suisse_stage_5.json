@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de Suisse Stage 5",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-15",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "AYUSO Juan attacked solo on the Albula Pass descent, gained over a minute on the yellow jersey group, vaulted from 1:18 deficit to third overall at 18 seconds.",
+    "winner": "AYUSO Juan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SKJELMOSE accelerated on descent to close gap to GALL group, using downhill technical skills to gain bonus seconds for GC.",
+      "SCARONI Felix attacked early on Albula climb to preemptively distance EVENEPOEL and SKJELMOSE before time trial Sunday.",
+      "AYUSO dropped breakaway companions KOSTA and TIBERI solo before summit, then extended advantage on descent—descending skills decisive."
+    ],
+    "rider_signals": {
+      "AYUSO Juan": "positive: 20-year-old showed Grand Tour-level climbing and descending to gain 1:00+ solo, now serious GC threat at 18 seconds",
+      "EVENEPOEL Remco": "negative: lost time again on Albula climb, confirming weakness on long mountain passes despite upcoming favorable time trial",
+      "SKJELMOSE Mattias": "positive: regained yellow jersey through smart chase on descent and bonus seconds, demonstrating superior technical descending",
+      "GALL Felix": "neutral: early attack tactically sound given time trial liability but couldn't sustain gap or match AYUSO's performance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:24:12.107435+00:00"
+}

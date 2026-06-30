@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Aggressive from extreme distance, notably attacking from kilometer zero on HC mountain stages. Favors short punchy climbs 15-25km from finish and early breakaways rather than late decisive moves.",
+  "team_tactics": "Limited team support for finales; relies on self-sufficiency in breakaways. EF lacks organized firepower to hold off WorldTour lead-out trains. Often positioned as opportunistic raider rather than protected GC asset.",
+  "terrain_preference": "Short punchy climbs and HC mountain stages suit best. Cobbled classics showed surprising versatility (nearly took yellow). Struggles on repeated climbs later in stages when fresher climbers dominate.",
+  "vulnerability": "Exposed on second ascents of same climb when team hierarchy/strength differences emerge. Lacks finishing speed against organized teams. Struggles to convert breakaway leads without team support in final kilometers.",
+  "key_patterns": [
+    "Attacks from extreme distance: kilometer zero on HC stages, 20-25km out on punchy terrain.",
+    "KOM jersey tactics: strategic climb selection, sometimes skipping finish points for bigger opportunities.",
+    "Breakaway specialist prioritizing time recovery over stage wins when needed (2020 TDF twice).",
+    "Strong form resilience: attacks day after mechanicals, contests finishes while managing GC goals.",
+    "Fades in structured finales against organized teams, losing leads in final 15 seconds repeatedly."
+  ],
+  "form_trajectory": "neutral: 2023 TDF showed tactical maturity in KOM competition but ultimately lost on tiebreaker, suggesting ceiling as classification hunter rather than stage winner evolution",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "POWLESS Neilson",
+  "built_from": [
+    "2020 Paris - Nice Stage 8",
+    "2020 Tour de France Stage 6",
+    "2020 Tour de France Stage 8",
+    "2020 Tour de France Stage 8",
+    "2021 Paris-Nice Stage 4",
+    "2022 Tour de France Stage 12",
+    "2022 Tour de France Stage 5",
+    "2022 Tour de France Stage 6",
+    "2023 Paris-Nice Stage 1",
+    "2023 Tour de France Stage 12",
+    "2023 Tour de France Stage 13",
+    "2023 Tour de France Stage 14"
+  ]
+}

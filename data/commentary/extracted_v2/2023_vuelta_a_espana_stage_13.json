@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked on Tourmalet descent, caught and dropped ROGLIC, won by 33 seconds over KUSS who defended red jersey",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled from OBisque start with GESINK pacing, neutralizing attacks before systematic Tourmalet deployment showing defensive dominance converts to offense",
+      "EVENEPOEL cracked on first climb OBisque not third climb, suggesting high-altitude or early pace acceleration vulnerability rather than late-stage fatigue weakness",
+      "VINGEGAARD attacked Tourmalet descent not summit, exploiting technical terrain where descending skill amplifies power advantage over pure climbers",
+      "KUSS limited losses to 30 seconds despite being distanced, demonstrating team leader can survive teammates' attacks when pace controlled earlier"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: dropped on OBisque (first climb) losing 24+ minutes, indicating catastrophic form collapse or illness not tactical miscalculation",
+      "VINGEGAARD Jonas": "positive: attacked descent after Tourmalet summit, caught teammate ROGLIC, won stage suggesting superior form to Tour de France peak",
+      "KUSS Sepp": "positive: defended red jersey losing only 30 seconds to attacking teammate, showing unexpected resilience against world-class climbers",
+      "ROGLIC Primoz": "neutral: moved to third overall but caught by VINGEGAARD on descent, revealing descending remains tactical weakness despite climbing strength",
+      "RODRIGUEZ Cristian": "positive: early break attempt before OBisque targeting KOM points suggests DSM using aggressive positioning before GC selection happens"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:05:31.397448+00:00"
+}

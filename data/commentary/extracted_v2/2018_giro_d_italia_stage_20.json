@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-26",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Christopher defended GC by shadowing DUMOULIN Tom's three attacks in final 9km, then counterattacked when Dutch rider cracked",
+    "winner": "HARTNER Lukas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Dumoulin attacked three times in 9km but went into red without establishing gap, revealing poor pacing calibration under pressure.",
+      "Froome counterattacked immediately when Dumoulin cracked rather than soft-pedaling, indicating willingness to maximize damage over sitting defensively with 40-second lead.",
+      "Astana and Sky controlled breakaway gap all day despite Dumoulin needing stage win for bonuses, showing Team Sky forced rivals to chase."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: dropped second consecutive day, suggesting Finestre effort irreversibly depleted reserves for remaining mountain stage",
+      "PINARELLO Thibaut": "negative: hit the wall catastrophically mid-stage requiring sugar, almost passing out—classic post-mountain-stage glycogen depletion",
+      "DUMOULIN Tom": "negative: shook head after third attack and cracked, revealing either poor form or inability to pace multi-acceleration efforts",
+      "FROOME Christopher": "positive: confident enough to ride at front between Dumoulin attacks and counterattack when rival cracked rather than defend conservatively",
+      "NIEVE Mikel": "positive: attacked from breakaway with anger and belief, showing emotional investment can fuel late-race moves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:21:14.703608+00:00"
+}

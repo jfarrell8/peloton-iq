@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Bridges to breakaways on penultimate climbs rather than launching solo attacks, then relies on superior finishing speed in technical finales. Prefers tactical positioning over pure power displays.",
+  "team_tactics": "Limited team visibility in observations; appears to operate independently once positioned, suggesting trust in personal finishing ability over heavy domestique support in critical moments.",
+  "terrain_preference": "Technical, wet finales with short punchy climbs before finish. Excels when race requires combination of climbing to bridge gaps and sprint speed to finish. Sustained climbs for GC defense also favorable.",
+  "vulnerability": "Observations show defensive GC riding rather than aggressive stage hunting when protecting lead, suggesting potential vulnerability to sustained attacks that force reactive racing rather than tactical positioning.",
+  "key_patterns": [
+    "Bridges gaps solo to select groups rather than staying with peloton (2 instances)",
+    "Unexpected finishing speed against pure sprinters in reduced bunch scenarios (2 instances)",
+    "Conservative energy management when defending GC leads rather than seeking stage wins (2 instances)",
+    "Performs well in adverse weather conditions, specifically wet technical courses (2 instances)"
+  ],
+  "form_trajectory": "positive: Won stage then successfully defended GC lead with tactical maturity, showing both offensive firepower and defensive race management",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SCHACHMANN Max",
+  "built_from": [
+    "2020 Paris - Nice Stage 1",
+    "2020 Paris - Nice Stage 1",
+    "2020 Paris - Nice Stage 4"
+  ]
+}

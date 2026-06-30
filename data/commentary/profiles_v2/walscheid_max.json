@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; utilized as a powerful chase engine and leadout asset for teammates, deployed in transitional phases rather than finale sprints.",
+  "team_tactics": "NTT employs him as early-stage chase power to control breakaways and set up other finishers, though timing coordination appears problematic with premature deployment.",
+  "terrain_preference": "Flat to rolling stages where sustained power output can control pace; struggles when efforts extend into technical finales requiring explosive acceleration.",
+  "vulnerability": "Exposed when deployed too early in chase scenarios, leaving him exhausted before critical finale moments; timing coordination with team strategy appears inconsistent.",
+  "key_patterns": [
+    "Used as chase workhorse to control breakaways for teammates rather than personal opportunities.",
+    "Premature deployment exhausts his considerable power before reaching optimal finish positioning.",
+    "Functions as transitional domestique rather than protected sprinter despite powerful engine."
+  ],
+  "form_trajectory": "unknown: single observation shows strong raw power but poor tactical deployment prevents assessment of true finishing capability",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "WALSCHEID Max",
+  "built_from": [
+    "2020 Tour de France Stage 11",
+    "2020 Tour de France Stage 11"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-29",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SPITZ Nans won from the breakaway after solo attack inside 25km, while LANDA Mikel attacked the GC group in final kilometers gaining 12 seconds on rivals.",
+    "winner": "SPITZ Nans",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SPITZ attacked solo before final climb knowing bigger riders would hesitate on rolling gradual finish terrain, not steep finale.",
+      "Movistar double-pronged GC assault: LANDA attacked final kilometer while LOPEZ marked CARAPAZ, splitting defensive responsibilities of rivals.",
+      "CONTI Valerio feigned weakness on descent then counter-attacked at 25km, revealing recovery tactic to avoid marking before decisive moment.",
+      "Breakaway riders initiated attacks at 25km specifically to avoid peloton's faster closing speed inside final timing checkpoint."
+    ],
+    "rider_signals": {
+      "LANDA Mikel": "positive: attacked final kilometer on shallow gradient gaining 12 seconds, suggesting superior recovery from previous stage than GC rivals",
+      "LOPEZ Miguel Angel": "negative: teammates set up attack but he lacked legs, then marked CARAPAZ instead of attacking independently",
+      "CARAPAZ Richard": "neutral: chased LANDA personally rather than delegating to teammates, suggesting isolation concerns within own Movistar squad",
+      "NIBALI Vincenzo": "negative: losing 20+ seconds on shallow biathlon circuit finish indicates cumulative fatigue significantly worse than expected",
+      "SPITZ Nans": "positive: larger rider successfully timed solo move for gradual finish rather than waiting for steep climb where physiology disadvantages him"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:49:24.630853+00:00"
+}

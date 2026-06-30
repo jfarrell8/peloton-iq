@@ -1,0 +1,25 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 8",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon defended 40-second GC lead in 10.1km San Benedetto ITT, winning Tirreno by 17 seconds over MICKA, becoming first British winner.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo shattered Cancellara's 2016 course record (11:08) by 26 seconds at 10:42, resetting ITT power benchmarks.",
+      "THOMAS Geraint posted 4th fastest time at +28s to Ganna, signaling return to peak form despite not contending GC.",
+      "MICKA Rafal rode defensively to protect 2nd place rather than maximize speed, finishing 40s slower than expected."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: Destroyed 4-year-old Cancellara course record by 26 seconds, establishing new ITT dominance hierarchy for short efforts",
+      "THOMAS Geraint": "positive: 4th fastest time only 28s behind Ganna suggests return to 2018 Tour-winning form despite not racing for GC",
+      "YATES Simon": "positive: Defended 40s lead with sub-11-minute ITT at 50kph average, showing improved TT capacity for pure climber",
+      "MICKA Rafal": "neutral: Conservative ride to secure 2nd overall, barely held off Thomas despite starting with 23-second buffer"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:21:57.467200+00:00"
+}

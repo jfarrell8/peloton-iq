@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Initiates medium-distance attacks (15-20km from finish) on climbs, willing to go solo early. Shows opportunistic approach in early/mid-race breaks rather than waiting for final climbs.",
+  "team_tactics": "Often operates with minimal domestique support (noted two-man team at Tour de Suisse). Relies on personal initiative rather than orchestrated team tempo control. Given freedom to infiltrate early moves.",
+  "terrain_preference": "Thrives on attritional, varied terrain including punchy climbs and surprisingly cobbled classics. Suited to stage races with cumulative fatigue eliminating pure sprinters and time trialists. Less effective against explosive climbers in short efforts.",
+  "vulnerability": "Severe third-week Grand Tour fatigue pattern. Cannot sustain advantages against top-tier stage race specialists (Evenepoel). Equipment/mechanical issues in critical moments suggest preparation gaps.",
+  "key_patterns": [
+    "Multiple attacks in same race when conditions favor; showed twice at Paris-Nice 16.4km solo move",
+    "Strong early/mid-season form deteriorates significantly in Grand Tour week three",
+    "Performs above expected level in cobbled classics for climber profile; 5th Flanders 2023",
+    "Infiltrates dangerous breaks earning GC respect; UAE concerned enough to control at Tour 2022",
+    "Cannot match accelerations of elite stage racers but excels in attrition scenarios"
+  ],
+  "form_trajectory": "neutral: Strong spring 2023 classics/stage race form, but repeated Grand Tour fade pattern suggests conditioning ceiling. Early-season performer.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "POWLESS Neilson",
+  "built_from": [
+    "2022 Tour de France Stage 6",
+    "2022 Tour de Suisse Stage 8",
+    "2023 Paris-Nice Stage 1",
+    "2023 Ronde van Vlaanderen - Tour des Flandres",
+    "2023 Tour de France Stage 17",
+    "2023 Tour de Suisse Stage 7"
+  ]
+}

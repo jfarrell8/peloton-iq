@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attempts moves on penultimate climbs with teammate support, but lacks finishing power on final HC climbs where sustained effort is required.",
+  "team_tactics": "Team provides support for attacks on earlier climbs in multi-climb stages, attempting to make moves before final ascents rather than saving energy for summit finishes.",
+  "terrain_preference": "Struggles on HC category summit finishes requiring sustained high-intensity efforts. The Pantera climb HC finish exposed significant weaknesses in his climbing capacity.",
+  "vulnerability": "Cannot maintain pace on steep HC climbs when the race intensifies. Shows pattern of losing time and falling back in GC on hardest mountain stages.",
+  "key_patterns": [
+    "Attacks fail on penultimate climbs, unable to sustain efforts through stage conclusion.",
+    "Loses significant time on HC summit finishes, consistently falling back in GC rankings.",
+    "Team support deployed early in stages, but rider cannot capitalize on positioning."
+  ],
+  "form_trajectory": "negative: Multiple failed attacks and time losses on crucial mountain stages indicate declining form or insufficient climbing strength for Grand Tour GC contention during 2017 Vuelta",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CHAVEZ Johan",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 17"
+  ]
+}

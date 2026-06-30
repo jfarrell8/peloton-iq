@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-14",
+  "stage": 13,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BARGUIL Warren won from a breakaway on Bastille Day, sitting on QUINTANA/CONTADOR/LANDA who did the work before outsprinting them at the finish",
+    "winner": "BARGUIL Warren",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FROOME attacked steepest sections of final climb multiple times to test form after losing yellow, ARU marked every move.",
+      "Team SKY sent LANDA forward in break rather than defending, forcing ARU's isolated Astana to chase without teammates.",
+      "BARGUIL tactically sat on QUINTANA/CONTADOR/LANDA's chase work in closing kilometers, preserving energy for final sprint.",
+      "FROOME attacked on descent after climb neutralized, pressuring ARU's descending skills when GC group split."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: Attacked steepest sections and descent aggressively despite looking weak earlier, silencing doubts about form after losing yellow",
+      "ARU Fabio": "neutral: Successfully marked all Froome attacks while completely isolated without Astana teammates, vulnerable tactical position going forward",
+      "LANDA Mikel": "positive: Sent in breakaway by Sky as offensive tactic rather than defending, strong enough to hold GC riders",
+      "BARGUIL Warren": "positive: Showed tactical maturity sitting on chasers' wheels despite motivation of Bastille Day win, fast enough to win sprint",
+      "QUINTANA Nairo": "positive: Recovered from previous day's struggles to finish second, active in late-race chase despite earlier form doubts",
+      "CONTADOR Alberto": "positive: Attacked from death's door condition earlier in Tour, third place shows resurgence after GC struggles",
+      "MARTIN Dan": "positive: Did massive pace work on final climb, pulled 45 seconds back from leaders in last 3km"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:09:05.182603+00:00"
+}

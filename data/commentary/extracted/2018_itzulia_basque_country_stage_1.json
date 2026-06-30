@@ -1,0 +1,31 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 1",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-02",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked final climb with ROGLIČ, then forced ROGLIČ to lead on descent and out-positioned him in sprint finish.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky (KWIATKOWSKI/LANDA) set penultimate climb tempo 22km out, revealing defensive posture rather than controlling final climb.",
+      "ALAPHILIPPE forced ROGLIČ to take descent lead by sitting on, preserving positioning advantage for sprint finish.",
+      "QUINTANA dropped on explosive punchy final climb, confirming unsuitability to short steep efforts versus longer alpine tests.",
+      "Lotto-Jumbo and Quick-Step alternated lead duties on final climb approach, suggesting neither confident enough to commit solo."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: tactical maturity forcing ROGLIČ to lead descent while preserving sprint positioning shows race-winning craft",
+      "ROGLIČ Primož": "positive: matched ALAPHILIPPE on decisive final climb attack but tactically outmaneuvered on descent lead-out",
+      "QUINTANA Nairo": "negative: dropped when ALAPHILIPPE/ROGLIČ launched explosive attack, confirming weakness on short punchy finales versus longer climbs",
+      "BARDET Romain": "neutral: chased ALAPHILIPPE/ROGLIČ group but couldn't close on descent, third-tier positioning",
+      "MAS Enric": "positive: finished ahead of main group as Quick-Step backup, showing form depth",
+      "BILBAO Pello": "neutral: finished in lead group behind podium, solid positioning",
+      "IZAGIRRE Gorka": "neutral: survived final climb in front group",
+      "KWIATKOWSKI Michał": "neutral: worked penultimate climb tempo for Sky 22km out, standard domestique role",
+      "LANDA Mikel": "neutral: shared Sky tempo-setting 22km out before finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:27:55.806463+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-21",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DE GENDT Thomas attacked from breakaway before final tunnel, held 23-27 second gap over fractured chase despite Movistar/Mitchelton pressure, took stage and race lead",
+    "winner": "DE GENDT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "De Gendt controlled breakaway psychologically, making companions believe in collective result before attacking solo pre-tunnel",
+      "Movistar/UAE initiated softening attacks in tunnel approach but coordination failed, allowing De Gendt to maintain 24-second buffer",
+      "QUINTANA attacked YATES into headwind immediately after climb top, easily neutralized showing poor terrain selection for lightweight climber",
+      "Chase group's gap oscillated 19-27 seconds in final 1700m due to intermittent cooperation, never sustaining coordinated pursuit"
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: held power output constant through tunnel/no-rest parcours where others expected fatigue collapse, gaining race lead",
+      "MARTIN Dan": "positive: appeared 'elbows out in happy place' during tunnel attacks, suggesting better form than expected",
+      "YATES Simon": "positive: easily neutralized Quintana's headwind attack, then won chase group sprint for minor time bonuses",
+      "QUINTANA Nairo": "negative: tactical error attacking lightweight climber into headwind post-climb, wasted energy before finish",
+      "IMPEY Daryl": "neutral: designated Mitchelton-Scott leader but team control insufficient to reel in 23-second deficit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:39:14.585105+00:00"
+}

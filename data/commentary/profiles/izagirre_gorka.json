@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Favors very late attacks (1-1.5km to go) after policing breakaways all day, using superior patience and freshness management. Waits until finale rather than committing early on climbs.",
+  "team_tactics": "Functions tactically for family/team goals—willing to sacrifice own energy staying barely clear to shield brother Ion from chase work. Less dependent on domestique support, operates autonomously in breaks.",
+  "terrain_preference": "Strong on medium mountains and uphill finishes with sprint capability. Handles stage race climbing well enough for GC positioning (top 3 overall), but not explosive on punchy terrain.",
+  "vulnerability": "Susceptible to being dropped on sustained pace climbs even when not described as punishing. Descending/positioning under pressure is questionable (crashed on final climb). Slow to find form early in stage races.",
+  "key_patterns": [
+    "Attacks with 1-1.5km remaining after policing breakaways, superior late-race freshness management (2 observations)",
+    "Takes 10+ kilometers to warm into stage races, stronger on second/later days (2 observations)",
+    "Tactically sacrifices own position for brother Ion's benefit in races (2 observations)",
+    "Gets dropped on sustained climbing pace earlier than GC ambitions suggest (2 observations)",
+    "Possesses strong uphill sprint capability unusual for GC-oriented rider (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2020 showed tactical intelligence but in pure domestique role; 2019 stage win demonstrated peak form; 2018 mixed with early-season weaknesses but mid-race improvement pattern",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "IZAGIRRE Gorka",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 1",
+    "2018 Itzulia Basque Country Stage 2",
+    "2018 Paris-Nice Stage 1",
+    "2018 Paris-Nice Stage 8",
+    "2018 Tour of Oman Stage 5",
+    "2018 Vuelta a Espana Stage 2",
+    "2018 Vuelta a Espana Stage 9",
+    "2019 Vuelta a Espana Stage 11",
+    "2019 Vuelta a Espana Stage 11",
+    "2019 Vuelta a Espana Stage 11",
+    "2020 Vuelta a Espana Stage 6",
+    "2020 Vuelta a Espana Stage 6"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour of Oman Stage 5",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-18",
+  "stage": 5,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "HERMANS Ben defended red jersey by attacking on Green Mountain, holding off late-charging ARU by 3 seconds",
+    "winner": "HERMANS Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC's Hermans waited through teammates' repeated probing attacks (Morton, Laala) before launching decisive move himself on Green Mountain.",
+      "White jersey Kudus bridged early but lacked finishing power, revealing young riders attack too soon on summit finishes.",
+      "Astana's Aru closed fastest in final meters, suggesting team misjudged when to commit rather than lacking form."
+    ],
+    "rider_signals": {
+      "HERMANS Ben": "positive: converted time trial leader strength into climbing win, managing own effort while teammates probed",
+      "MORTON Lachlan": "neutral: attacking twice for leader suggests BMC used climbing domestiques as tactical decoys",
+      "KUDUS Merhawi": "negative: white jersey went too early, faded when Hermans countered showing immature summit finish timing",
+      "ARU Fabio": "positive: fastest late acceleration suggests Astana miscalculated launch point not rider form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:11:08.572324+00:00"
+}

@@ -1,21 +1,34 @@
 {
-  "attacking_style": "Attacks on final climbs from breakaway scenarios, bridging between groups before launching moves that force counter-attacks. Operates from reduced peloton or break rather than GC group.",
-  "team_tactics": "Relies on individual positioning and bonus seconds strategy from early breakaways rather than sustained team support. Opportunistic rather than team-controlled setups.",
-  "terrain_preference": "Medium mountain stages and breakaway-friendly parcours where bonus seconds can be accumulated. Vulnerable on pure summit finishes against specialist climbers.",
-  "vulnerability": "Cannot sustain pace against pure climbers on summit finishes when GC acceleration begins. Red jersey defense collapsed before summit proper, indicating climbing threshold limitations.",
+  "attacking_style": "Opportunistic breakaway specialist who attacks from within established breaks to fragment groups before key climbs. Uses tactical deception (feigned cramping) and bridging moves from chase groups to position for GC gains.",
+  "team_tactics": "Operates with high autonomy in breakaways rather than relying on team tempo. Shows veteran craft in positioning through non-climbing stages to defend GC when holding jerseys.",
+  "terrain_preference": "Undulating finales and medium-mountain stages where breakaways stay clear. Struggles catastrophically on high-altitude summit finishes where pure climbing power decides.",
+  "vulnerability": "High-altitude finishes expose him severely (4-minute losses documented). Crash-prone in Grand Tours. Chase group dynamics where non-cooperation prevents him from bridging gaps for podiums.",
   "key_patterns": [
-    "Bonus seconds from breakaways critical to GC positioning (2-second margin maintained red jersey)",
-    "Bridging attacks between groups on climbs, often catalyzing winning moves by others",
-    "GC ambitions limited by inability to match climber acceleration on sustained ascents"
+    "Bridges from chase to front breakaway then attacks to fragment group (2 instances)",
+    "Uses tactical deception including feigned cramping to discourage pursuit before attacks (2 instances)",
+    "Gains GC positions opportunistically through breakaways when favorites rest (3 instances)",
+    "Shows resilience after being dropped on undulating terrain, recovers position (2 instances)",
+    "Catastrophic altitude weakness: loses 4+ minutes on high mountain finishes (2 instances)",
+    "Sitting on in chase groups demoralizes cooperation but costs podium chances (2 instances)"
   ],
-  "form_trajectory": "negative: 2019 Vuelta showed GC defense unsustainable against climbers despite early race success",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "negative: 2019 Vuelta abandonment after crash while 5th overall represents career setback. 2021 Giro shows continued breakaway capability but age/injuries limiting GC consistency.",
+  "races_analysed": 11,
+  "confidence": "high",
   "rider_name": "ROCHE Nicolas",
   "built_from": [
     "2017 Tour de France Stage 8",
     "2017 Tour de France Stage 8",
+    "2017 Vuelta a Espana Stage 10",
+    "2017 Vuelta a Espana Stage 11",
+    "2017 Vuelta a Espana Stage 19",
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2019 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 2",
     "2019 Vuelta a Espana Stage 3",
-    "2019 Vuelta a Espana Stage 5"
+    "2019 Vuelta a Espana Stage 4",
+    "2019 Vuelta a Espana Stage 5",
+    "2019 Vuelta a Espana Stage 6",
+    "2021 Giro d'Italia Stage 18"
   ]
 }

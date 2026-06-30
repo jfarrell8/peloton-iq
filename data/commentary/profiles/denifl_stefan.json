@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Thrives on extremely steep gradients (30%+ slopes), capable of holding position against elite chasers in late-race scenarios from breakaway positions.",
+  "team_tactics": "Operates from breakaway positions rather than relying on team-led setups, suggesting autonomy in stage hunting tactics.",
+  "terrain_preference": "Excels on brutally steep, punchy climbs where gradient exceeds 20-30%. Suits mountain stages with explosive, high-gradient finales rather than sustained tempo climbs.",
+  "vulnerability": "Limited data prevents clear identification, but breakaway reliance suggests potential weakness in direct GC contender confrontations on long, steady climbs.",
+  "key_patterns": [
+    "Single race observation: won from breakaway on 30% gradient against Contador's chase",
+    "Demonstrated strong climbing form in Grand Tour late-stage mountain finishes",
+    "Capable of resisting pressure from elite climbers on extreme gradients"
+  ],
+  "form_trajectory": "positive: showed strong climbing form with breakthrough win on extreme gradient, holding off elite opposition",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DENIFL Stefan",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 17",
+    "2017 Vuelta a Espana Stage 17"
+  ]
+}

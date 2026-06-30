@@ -1,0 +1,16 @@
+{
+  "label": "2021 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-06-13",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "Stage 8 finish with team congratulations but no tactical content visible in broadcast coverage",
+    "winner": "Unknown",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:56:25.490597+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2018 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-09",
+  "stage": 15,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PINOT Thibaut attacked 6km from summit of Lagos de Covadonga while GC favorites marked each other, winning by 28 seconds.",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "PINOT exploited GC stalemate by attacking from non-threatening overall position, gaining 28s while favorites watched each other.",
+      "LÓPEZ Miguel Ángel counterattacked after PINOT established gap, but YATES refused to chase without QUINTANA/VALVERDE cooperation.",
+      "GARCÍA CORTINA fed breakaway teammate EZQUERRA Jesús late in stage, suggesting Bahrain sacrificed breakaway GC placement for team classification.",
+      "Astana paced category one climb mid-stage despite no visible GC interest, possibly burning matches for LÓPEZ's late attack."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "positive: attacked from non-threatening GC position 6km out, banking on favorites' mutual distrust to avoid chase",
+      "LÓPEZ Miguel Ángel": "positive: only GC contender willing to counterattack PINOT alone, showing superior form to passive rivals",
+      "YATES Simon": "negative: frustrated with QUINTANA/VALVERDE refusal to share chase work, suggesting defensive rather than dominant position",
+      "KELDERMAN Wilco": "negative: dropped on final climb despite moderate pace, indicating yesterday's efforts took toll",
+      "TEUNS Dylan": "negative: distanced early on final climb, struggling to maintain high mountain form over consecutive days",
+      "KRUIJSWIJK Steven": "neutral: followed favorites to finish but showed no attacking ambition despite being within striking distance",
+      "MAS Enric": "neutral: finished with lead group but passive throughout, content to limit losses",
+      "VALVERDE Alejandro": "neutral: briefly dropped then returned to lead group, suggesting variable pacing rather than weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:47:34.065372+00:00"
+}

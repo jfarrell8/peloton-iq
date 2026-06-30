@@ -1,0 +1,29 @@
+{
+  "label": "2019 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-23",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENEDETTI Cesare won after being dropped on final climb, bridging back in last 700m when lead trio of BRAMBILLA, CAPECCHI, DUNBAR hesitated and waiting to outsprint them.",
+    "winner": "BENEDETTI Cesare",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LÓPEZ Miguel Ángel and LANDA Mikel attacked GC group on steep section, gaining 30s while ZAKARIN caught out behind.",
+      "Lead trio BRAMBILLA/CAPECCHI/DUNBAR looked back at each other repeatedly in final 700m allowing BENEDETTI bridge from behind after being dropped.",
+      "DUNBAR Eddie attacked alone on first cobbled climb passage, fracturing 25-rider breakaway before being caught by chasers.",
+      "MOLLEMA Bauke caught out in split at finish losing 30s to main GC group despite UAE controlling all day."
+    ],
+    "rider_signals": {
+      "BENEDETTI Cesare": "positive: inferior climber who tactically saved energy in break, repeatedly bridged after being dropped, then held fresher legs for sprint",
+      "DUNBAR Eddie": "positive: first professional win attempt, soloed clear on cobbled climb but lacked experience to convert against veterans BRAMBILLA/CAPECCHI",
+      "LÓPEZ Miguel Ángel": "positive: first GC attack after earlier disaster, gained time immediately suggesting earlier losses were tactical not physical",
+      "LANDA Mikel": "positive: followed LÓPEZ attack gaining 30s, UAE already forcing Bahrain to chase despite POLANC taking pink",
+      "MOLLEMA Bauke": "negative: caught behind split in GC group losing 30s despite UAE controlling tempo all day",
+      "ZAKARIN Ilnur": "negative: only major GC rider caught out in finale split losing 30s, positioning error not legs",
+      "POLANC Jan": "neutral: moved into pink jersey but gapped temporarily on steep section before regrouping, 4:07 advantage over ROGLIČ vulnerable"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:55:18.775796+00:00"
+}

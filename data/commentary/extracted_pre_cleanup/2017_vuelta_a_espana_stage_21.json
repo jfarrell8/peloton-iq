@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 21",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-10",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won Madrid sprint with Quick-Step leadout after breakaway caught inside 1km, taking his fourth stage win.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FROOME Chris contested intermediate sprint specifically to defend green jersey from TRENTIN's four stage wins.",
+      "Quick-Step controlled final kilometer timing perfectly, catching three-rider break just before launch point for TRENTIN.",
+      "Team Sky executed full team control during ceremonial stage to prevent TRENTIN taking points jersey despite dominance."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: four stage wins demonstrates best sprint form but team didn't prioritize intermediate points for jersey",
+      "FROOME Chris": "positive: targeted intermediate sprint tactically to secure green jersey rather than concede to specialist",
+      "SAGAN Peter": "neutral: participated in three-rider breakaway on ceremonial stage showing professional race engagement",
+      "DE MARCHI Alessandro": "neutral: animated final stage breakaway suggesting recovery after three-week effort",
+      "MANZIN Lorrenzo": "positive: second place finish marks FDJ's best result after difficult Vuelta campaign"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:18:30.799635+00:00"
+}

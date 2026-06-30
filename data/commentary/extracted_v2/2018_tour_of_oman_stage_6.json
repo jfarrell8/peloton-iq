@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour of Oman Stage 6",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-18",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the Matrah Corniche finish after HAAS Nathan and Katusha tried to explode the race on the final climb but failed to create selection",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Katusha-Alpecin's HAAS attempted to split the sprint field on the final climb approach, revealing tactical desperation when lacking pure speed",
+      "CAVAGNA Remy (Quick-Step) went solo from the five-man break on the Matrah Corniche circuit, taking maximum risks on technical descent laps",
+      "Trek-Segafredo worked to control the break for NIZZOLO despite not having dominant sprint form, suggesting limited team options"
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: Dominated this specific Matrah Corniche finish all week, indicating course-specific advantage on technical uphill sprint finishes",
+      "HAAS Nathan": "negative: Katusha's attempt to pre-emptively attack before the sprint finish suggests they lacked confidence in pure leadout speed",
+      "CAVAGNA Remy": "positive: Strong enough to solo away from established breakaway on repeated Matrah climbs, showing unusually aggressive racing for Quick-Step domestique",
+      "LUTSENKO Alexei": "positive: Defended 11-second GC advantage through technical circuit finish, showing time-trial strength translated to position defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:38:32.835364+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won stage 3 with a solo attack inside 150m on the final climb to Arinsal, taking red jersey before crashing post-finish",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARUSO Damiano allowed 5+ minutes in break despite only 23sec GC gap, forcing Jumbo/Ineos chase instead of EF",
+      "KUSS Sepp made bridging attack for ROGLIC positioning, revealing Jumbo dual-leadership before expected mountain stages",
+      "VINGEGAARD Jonas couldn't close EVENEPOEL's inside-150m attack, suggesting uphill sprint weakness compared to sustained climbing"
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: won from late attack and took red jersey, but post-finish barrier crash raises durability concerns",
+      "CARUSO Damiano": "positive: teams respected his breakaway threat at only 23sec down, confirming GC form at age 35",
+      "KUSS Sepp": "positive: made bridging attacks for ROGLIC, suggesting protected co-leadership role rather than pure domestique",
+      "LOPEZ Juan Pedro": "positive: hung with GC group on category-1 finish despite Astana having race leader duties",
+      "VINGEGAARD Jonas": "negative: couldn't match EVENEPOEL's inside-150m uphill acceleration, only took 6sec bonus vs 10sec for winner"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:07:21.813333+00:00"
+}

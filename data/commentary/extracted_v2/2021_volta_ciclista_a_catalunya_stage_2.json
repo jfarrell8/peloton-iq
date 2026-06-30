@@ -1,0 +1,27 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-23",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rowan won the 18.5km technical TT by 5 seconds over Cavagna, while YATES Adam's unexpected 7th place (only 7sec behind Almeida) reshuffled GC dynamics.",
+    "winner": "DENNIS Rowan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Dennis exploited technical corners and final 1500m push where pure power specialists like Cavagna lose seconds disproportionately.",
+      "Ineos positioned both Porte and A.Yates within 7sec of leader Almeida, creating numerical advantage for mountain stages.",
+      "Almeida prioritized TT gains knowing his 30-40sec deficit pattern to Yates on gradual climbs vs steeper finishes."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: Only 7 seconds behind Almeida in 18.5km TT despite losing 30+ to him in UAE Tour 13km TT reveals form progression",
+      "DENNIS Rowan": "positive: First win since 2019 Worlds, maximized technical course advantage through corner speed differential over pure power riders",
+      "ALMEIDA João": "neutral: Beat GC rivals as expected but margin over A.Yates compressed compared to UAE Tour, vulnerable on upcoming climbs",
+      "CAVAGNA Rémy": "negative: Lost 5 seconds to Dennis despite being stage favorite, technical descents exposed weakness relative to rolling power courses",
+      "KUSS Sepp": "negative: Lost 55 seconds creating 1min gap to teammate Kruijswijk, complicates Jumbo's dual-leader strategy for mountain stages",
+      "PORTE Richie": "positive: Only 35sec to Dennis post-Paris-Nice crash indicates hidden form, 6sec behind leader with Yates as co-leader"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:57:55.822176+00:00"
+}

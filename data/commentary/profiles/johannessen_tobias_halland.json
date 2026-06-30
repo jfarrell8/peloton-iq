@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic racer who contests intermediate sprints for time bonuses and tactical pressure, even when not in GC contention. Shows willingness to race aggressively throughout stages rather than wait for finish.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns. Appears to operate with individual freedom in stage races.",
+  "terrain_preference": "Climbing stages suit him best - demonstrated ability to finish with elite GC climbers like Carapaz. Strong stage race climber as a young rider.",
+  "vulnerability": "Limited observations prevent definitive weakness identification, though aggressive intermediate sprint contesting suggests possible energy management issues in longer efforts.",
+  "key_patterns": [
+    "Contests intermediate sprints tactically even outside top-10 GC position (2 instances observed)",
+    "Finishes with elite GC climber groups on mountain stages showing climbing durability",
+    "Races aggressively throughout stages rather than conserving for selective moments"
+  ],
+  "form_trajectory": "positive: strong climbing performance staying with Carapaz group, plus tactical aggression at intermediates shows confidence",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "JOHANNESSEN Tobias Halland",
+  "built_from": [
+    "2022 Volta Ciclista a Catalunya Stage 4",
+    "2022 Volta Ciclista a Catalunya Stage 5"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-04",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VALVERDE won stage 6 uphill sprint finish at La Cipet, out-accelerating GEOGHEGAN HART in final 100m while LUTSENKO took yellow via third place time bonus.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LUTSENKO positioned himself third wheel in final 200m specifically to capture time bonus for yellow, not stage win.",
+      "Movistar deployed LÓPEZ as lead-out man for final 2km, unusual team sacrifice allowing VALVERDE fresh legs for sprint.",
+      "CRADDOCK bridged solo from peloton to breakaway mid-stage, revealing EF tactical willingness to sacrifice GC for stage hunting.",
+      "GEOGHEGAN HART launched first move with 200m remaining but insufficient gap before VALVERDE's superior sprint closed him down.",
+      "Jumbo-Visma and Astana both placed multiple riders in final group but neither team controlled finale, allowing Movistar's patience."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: at 41 demonstrated superior sprint acceleration from fifth wheel position, closing GEOGHEGAN HART's 100m gap",
+      "LUTSENKO Alexey": "positive: tactically precise positioning for time bonus over stage win, managed effort across multiple late climbs",
+      "GEOGHEGAN HART Tao": "neutral: strong enough to initiate winning move but lacked acceleration to hold off veteran sprinter",
+      "LÓPEZ Miguel Ángel": "positive: sacrificed personal result by riding tempo final 2km, demonstrating team cohesion under pressure",
+      "KELDERMAN Wilco": "positive: moved to third overall despite PÖSTLBERGER fadeout creating chaotic finale",
+      "THOMAS Geraint": "neutral: remained in contact but passive in finale, finishing fourth overall without contesting sprint",
+      "CRADDOCK Lawson": "positive: bridged 114-second gap solo mid-race to service breakaway, revealing strong climbing form",
+      "PÖSTLBERGER Lukas": "negative: faded badly on final climbs after defending yellow since stage 2, suggesting unsustainable early effort",
+      "KUSS Sepp": "neutral: late attack earned top-10 but insufficient to challenge sprint finishers or gain significant time"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:49:05.410994+00:00"
+}

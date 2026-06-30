@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 6",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-25",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked from breakaway on final cat-1 climb, held off EVENEPOEL by 15 seconds while ROGLIC lost 1:37 with entire GC group sitting on his wheel",
+    "winner": "VINE Jay",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon's counterattack to VINE failed, revealing lack of form on wet technical climbs early Vuelta.",
+      "EVENEPOEL's entire Quick-Step squad burnt out sheltering him from weather before final climb, PHILIPPE doing monster turn.",
+      "GC group tactically exploited ROGLIC's obligation to chase, sitting on his wheel knowing he had to close.",
+      "VINE bridged from breakaway remnants to solo leader PADAN then immediately attacked, not resting from effort."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: forced to lead chase alone with no team support, hemorrhaged 1:37 when rivals refused to contribute",
+      "EVENEPOEL Remco": "positive: took red jersey and 15 seconds on ROGLIC despite team exhausted by weather-protection duties pre-climb",
+      "CARAPAZ Richard": "negative: lost 2:56, massive time loss suggests either poor wet-weather handling or hidden physical weakness",
+      "MAS Enric": "positive: finished with EVENEPOEL for surprise podium position, showing unexpected punch on wet technical finish",
+      "YATES Simon": "negative: attempted follow of VINE's attack quickly abandoned, clear signal of insufficient climbing legs",
+      "VINE Jay": "positive: bridged 42-second gap to breakaway leader then immediately attacked again, exceptional sustained climbing power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:45:02.879888+00:00"
+}

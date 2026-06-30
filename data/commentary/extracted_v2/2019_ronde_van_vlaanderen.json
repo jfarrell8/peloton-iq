@@ -1,0 +1,24 @@
+{
+  "label": "2019 Ronde Van Vlaanderen",
+  "race_name": "Ronde Van Vlaanderen",
+  "race_date": "2019-04-07",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BETTIOL Alberto soloed to his first professional victory after attacking on Oude Kwaremont with 14km remaining, holding off ASGREEN's chase.",
+    "winner": "BETTIOL Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BETTIOL attacked alone on Oude Kwaremont second ascent with 14km to go, winning from distance despite headwind finish.",
+      "EF Education First committed VANMARCKE Sebastian to full domestique protection of BETTIOL in final 14km despite being ex-podium finisher.",
+      "ASGREEN Casper rode to second without team support, revealing individual capacity exceeds Deceuninck's tactical deployment of him."
+    ],
+    "rider_signals": {
+      "BETTIOL Alberto": "positive: Won first career race at monument level after being non-contender, suggesting EF talent identification superior to market",
+      "ASGREEN Casper": "positive: Finished second without visible team support while Deceuninck focused elsewhere, signaling misallocation of protected rider status",
+      "VANMARCKE Sebastian": "neutral: World-class classics rider deployed purely as gregario for non-winner teammate, indicating EF saw him as diminished threat"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:54:49.640199+00:00"
+}

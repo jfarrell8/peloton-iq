@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker; sprinter who relies on positioning in finale but struggles with consistent execution and tactical discipline in chaotic sprint scenarios.",
+  "team_tactics": "Benefits from leadout positioning but appears to lack dedicated train support, leaving him exposed to navigate final meters independently with mixed results.",
+  "terrain_preference": "Flat sprint finishes after long stages, though execution quality deteriorates significantly after 200+ km efforts when acceleration is required.",
+  "vulnerability": "Sprint discipline and positioning judgment under pressure; fades when requiring late acceleration after extended stages; rule violations in chaotic finales.",
+  "key_patterns": [
+    "Positioning advantage deteriorates in final execution phase of sprints (2 instances)",
+    "Struggles to convert good position into results after 200km+ stages (2 instances)",
+    "Decision-making under sprint pressure leads to costly errors including disqualifications (2 instances)"
+  ],
+  "form_trajectory": "negative: showed regression from 2021 winning position to 2022 fade, indicating declining sprint punch or confidence",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HOFSTETTER Hugo",
+  "built_from": [
+    "2021 Tour de Pologne Stage 6",
+    "2022 Volta Ciclista a Catalunya Stage 5"
+  ]
+}

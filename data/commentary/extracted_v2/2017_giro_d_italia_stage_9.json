@@ -1,0 +1,28 @@
+{
+  "label": "2017 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-14",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo won Stage 9 after Team Sky crashed en masse before the final climb, attacking on the Blockhaus ascent to take race lead.",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar accelerated immediately before crash site, suggesting pre-identified danger zone reconnaissance or deliberate positioning before known pinch point.",
+      "Quintana attacked final climb while Sky leaders neutralized by crash, exploiting organizational chaos rather than pure climbing superiority.",
+      "Dumoulin isolated without Mollema's help on Blockhaus yet limited losses to 24 seconds, signaling time trial could erase deficit."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: Sky leadership collapsed after crash, over 5 minutes lost, revealing team's vulnerability to single positioning error",
+      "LANDA Mikel": "negative: race ended by crash, Sky lost both GC cards simultaneously from single incident",
+      "QUINTANA Nairo": "positive: capitalized immediately on Sky crash chaos, attacked decisively on Blockhaus to take stage and race lead",
+      "DUMOULIN Tom": "positive: isolated without teammates on final climb yet limited damage to 24 seconds, unusual climbing resilience for big rider",
+      "MOLLEMA Bauke": "neutral: admitted being on limit behind Dumoulin, couldn't contribute to chase effort despite being team's climber",
+      "PINOT Thibaut": "positive: finished 24 seconds behind Quintana to take second overall, imposed himself on final climb curves",
+      "YATES Adam": "negative: caught in same crash as Sky, positioning error before crucial stage finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:59:05.982046+00:00"
+}

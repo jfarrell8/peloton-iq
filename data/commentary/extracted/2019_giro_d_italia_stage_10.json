@@ -1,0 +1,26 @@
+{
+  "label": "2019 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-21",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DÉMARE won from chaos after ACKERMANN crashed in final kilometer, VIVIANI followed wrong wheel (EWAN) from 5-6km out.",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VIVIANI committed to EWAN wheel from 5-6km out, lacked positional flexibility when surprise attack came from DÉMARE.",
+      "Quick-Step organized leadout at 3km but crash inside 1km proves late positioning safer than early control on flat sprints.",
+      "DURBRIDGE Lotto-Soudal pulled back solo DURBRIDGE at 1.2km showing teams correctly calculated catch distance despite appearance of danger."
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: first 2019 win from poor season, struck alone when favorites boxed in, demonstrates revival form",
+      "VIVIANI Elia": "negative: second place again, tactical error following EWAN wheel too early (5-6km) prevented adapting to DÉMARE surprise",
+      "ACKERMANN Pascal": "negative: crashed final kilometer eliminating win chance, positional error touching wheels on barriers approach",
+      "EWAN Caleb": "neutral: led out strongly but became decoy wheel trapping VIVIANI behind him",
+      "GAVIRIA Fernando": "negative: absent from final, significant weakness for expected sprint contender on flat finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:54:44.299218+00:00"
+}

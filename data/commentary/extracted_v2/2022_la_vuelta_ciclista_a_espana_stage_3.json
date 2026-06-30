@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 3",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-21",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a second consecutive sprint via van Poppel's late leadout, beating Pedersen after Ackermann faded from launching 750m out",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo dominated pace-setting all day but couldn't convert work into positioning at final turn 750m out",
+      "Ackermann's premature launch before 750m marker allowed fresher sprinters to slipstream then overtake in final 300m",
+      "Van Poppel's repeated late-release leadout for Bennett proves more effective than earlier train positioning in flat sprints"
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: back-to-back sprint wins suggest form trajectory improving rather than peaking,van Poppel chemistry decisive",
+      "PEDERSEN Mads": "neutral: consistently second indicates positioning skill but lacks acceleration to beat Bennett when both have clean run",
+      "ACKERMANN Pascal": "negative: premature acceleration before 750m reveals poor sprint timing despite apparent form",
+      "MERLIER Tim": "negative: out of position finish suggests either team dysfunction or inability to navigate technical sprint finishes",
+      "AFFINI Edoardo": "neutral: inheriting red jersey within Jumbo-Visma indicates team's TTT strength without individual effort",
+      "WOODS Michael": "negative: crash with Einhorn ending race signals vulnerability in nervous flat stages despite climbing focus"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:14:54.454436+00:00"
+}

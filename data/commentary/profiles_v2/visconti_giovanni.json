@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets early KOM points rather than sustained climbing efforts. Attacks on shorter climbs or intermediate sprints within breakaways, not final climbs.",
+  "team_tactics": "Minimal team support evident; operates independently in breakaways to contest mountain points classification rather than stage wins.",
+  "terrain_preference": "Shorter, punchy climbs and KOM sprints within breakaways suit best. Long, sustained high-power climbs expose limitations against pure climbers and time trialists.",
+  "vulnerability": "Sustained power efforts on long climbs where pure climbers and even time trial specialists can drop him. Struggles to defend position actively when attacked.",
+  "key_patterns": [
+    "Targets mountains jersey through breakaway placement rather than climbing dominance (2 observations)",
+    "Dropped on sustained climbs by both pure climbers and TT specialists (2 observations)",
+    "Defends classifications passively rather than through aggressive counterattacks (2 observations)"
+  ],
+  "form_trajectory": "neutral: Maintained breakaway presence and fought for KOM jersey, but clear physical limitations prevented active defense",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VISCONTI Giovanni",
+  "built_from": [
+    "2020 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 16"
+  ]
+}

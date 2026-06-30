@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-27",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan caught DENNIS Rohan's long-range TT effort in final meters after MCNULTY's early move failed on steep Oron finish",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS Rohan's TT power viable for hilltop finishes when launching 2km out, nearly held off pure climbers.",
+      "Race leader HAYTER crash at 14km triggered activation sequence; teams waited for chaos before attacking.",
+      "MCNULTY Brandon's UAE move failed despite white jersey positioning; team lacked numbers to control steep finale.",
+      "INEOS Grenadiers burned DEPLUS extensively throughout stage despite having race leader, tactically questionable energy management."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: TT specialists can nearly steal hilltop finishes with 2km attacks when gradient suits power over W/kg",
+      "HAYTER Ethan": "negative: lost race lead to crash at 14km, suggesting positioning vulnerability in nervous finale approaches",
+      "DEPLUS Laurens": "positive: carried exceptional form doing extended pacemaking work for INEOS throughout stage",
+      "MCNULTY Brandon": "neutral: initiated final climb attack but lacked support to sustain effort through steep gradients",
+      "TEUNS Dylan": "positive: timed finale perfectly to benefit from DENNIS's long effort without committing early",
+      "CAVAGNA Rémi": "negative: 5km solo attack gained only 8 seconds despite national champion strength, revealing field's climbing depth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:26:15.778435+00:00"
+}

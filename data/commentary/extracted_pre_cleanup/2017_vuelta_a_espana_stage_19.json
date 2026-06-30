@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-08",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DE GENDT Thomas won a 9-rider sprint from the breakaway after GARCÍA CORTINA Iván's solo attack from 35km was caught in the finale.",
+    "winner": "DE GENDT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CONTADOR Alberto attacking 10km out to bridge to teammate THEUNS Edward reveals Sky's weakness controlling late tempo attacks.",
+      "GARCÍA CORTINA Iván's solo TT-style attack from 35km failed when caught by four chasers, suggesting local breakaway riders overcommit early.",
+      "19-rider breakaway gaining 15 minutes shows GC teams completely abdicated stage control before final mountain stages, tactical rest day."
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: won sprint from 9-rider group after appearing weaker on climbs, reveals superior positioning tactics over raw power",
+      "GARCÍA CORTINA Iván": "negative: burned matches with 35km solo TT effort only to finish third, poor energy management for local rider",
+      "CONTADOR Alberto": "neutral: attacked 10km out attempting teammate bridge but Team Sky still controlled finish, showing late aggression without consequence",
+      "ROCHE Nicolas": "positive: entered top 15 overall from breakaway result, demonstrates ability to gain GC positions when leaders rest"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:17:54.777518+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-01-01",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HAGA Chad won the ITT stage in Verona, beating favorite CAMPENAERTS Victor and European champion expectations, while CARAPAZ Richard secured GC without drama.",
+    "winner": "HAGA Chad",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HAGA beat European TT champion CAMPENAERTS by 4 seconds despite three-week Grand Tour fatigue, defying conventional freshness advantage.",
+      "ROGLIC Primoz gained exactly enough time on LANDA Mikel to steal final podium spot by mere seconds on final stage.",
+      "CARAPAZ rode tactically perfect three weeks despite zero previous Grand Tour leadership experience, never cracking under pressure."
+    ],
+    "rider_signals": {
+      "HAGA Chad": "positive: Sunweb rider peaked perfectly for final ITT after anonymous three weeks, revealing strong stage-hunting TT capability late in GTs",
+      "CAMPENAERTS Victor": "negative: European TT champion expected to dominate but lost by 4 seconds, suggesting specialization doesn't overcome three-week racing form",
+      "LANDA Mikel": "negative: Lost podium by 23 seconds on final day after being supremely confident at start, catastrophic miscalculation of required effort",
+      "ROGLIC Primoz": "positive: Timed podium-stealing TT performance with surgical precision, gaining exactly 23+ seconds needed on LANDA",
+      "CARAPAZ Richard": "positive: First-time GT leader never made tactical error across three weeks against vastly more experienced rivals like NIBALI"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:50:33.235849+00:00"
+}

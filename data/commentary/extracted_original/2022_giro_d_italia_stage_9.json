@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-15",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai won the Blockhaus sprint from six-rider group after YATES crashed out with knee injury and LOPEZ miraculously limited losses to 1:46 to retain pink",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS deployed PORTE as sole domestique with 12km remaining, forcing rivals to attack with no teammates rather than controlling pace.",
+      "CARAPAZ attacked but BALDE/LANDER immediately followed, creating stalemate that allowed ALMEIDA/POZZOVIVO to rejoin rather than selection.",
+      "HINDLEY positioned perfectly into final corner while BALDE lost crucial meters, demonstrating descent positioning matters even on summit finishes."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: abandoned before Blockhaus with strapped knee from Etna crash, confirming that injury eliminated him as GC threat",
+      "LOPEZ Juan Pedro": "positive: limited losses to 1:46 despite losing contact with 12km remaining, revealing unexpected climbing durability for non-climber",
+      "KELDERMAN Wilco": "negative: first GC casualty on Blockhaus with mechanical at critical moment, exposing BORA team depth issues",
+      "PORTE Richie": "neutral: worked as last INEOS domestique but inability to pace group longer suggests diminished climbing strength compared to previous years",
+      "HINDLEY Jai": "positive: superior positioning into final corner delivered stage win from six-man group, showing tactical sharpness beyond pure climbing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:41:05.545875+00:00"
+}

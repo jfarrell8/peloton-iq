@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 15",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-29",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MÄDER Gino soloed to victory from 87.3km out after escaping elite 25-rider break that fractured peloton, while YATES Adam gained 15 seconds with late attack from GC group.",
+    "winner": "MÄDER Gino",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar chased 25-rider break despite missing it, fracturing peloton at 51+km/h pace in opening hour.",
+      "Jumbo-Visma planted riders in multiple break waves (Sepp Kuss early, Christoph Wike later) guaranteeing result.",
+      "MÄDER Gino rejected ARU Fabio's company at 87.3km, preferring solo over collaboration with secondary chasers.",
+      "YATES Adam attacked GC group on category-three climb while others hesitated, banking 15 seconds without chase response."
+    ],
+    "rider_signals": {
+      "MÄDER Gino": "positive: chose 87km solo over waiting for chasers, suggesting exceptional TT/descending confidence paid off",
+      "WIKE Christoph": "positive: Jumbo planted him in secondary chase group, secured second place while teammates protected GC",
+      "YATES Adam": "positive: showed opportunism attacking GC group on minor cat-3 climb when others passive, gained time",
+      "LOPEZ Miguel Angel": "neutral: hesitated when Yates attacked, considered chase but declined to commit",
+      "ARU Fabio": "negative: couldn't hold Mäder's pace after initial breakaway selection, reabsorbed by chasers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:26:24.014515+00:00"
+}

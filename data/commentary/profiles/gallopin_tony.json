@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Launches late attacks from breakaways on rolling terrain, typically with 2km to go. Prefers solo efforts from reduced groups rather than attacking the peloton directly.",
+  "team_tactics": "Operates with freedom in breakaways without GC protection duties. Limited evidence of team setup for attacks; appears to ride opportunistically when given leeway.",
+  "terrain_preference": "Rolling terrain suits best for late breakaway accelerations. Exposed on steep, punchy finishes where pure climbers drop him in final meters.",
+  "vulnerability": "Struggles to hold wheels of pure climbers on steep gradients in final 100-200 meters. Bridge attempts from peloton to breakaways lack coordination and success.",
+  "key_patterns": [
+    "Attacks from breakaways in final 2km rather than initiating breaks from peloton (2 instances)",
+    "Operates in aggressive, opportunistic role without GC responsibilities across races (3 instances)",
+    "Lost contact with stronger climbers on steep finishes in closing meters (2 instances)",
+    "Bridge attempts to breakaways unsuccessful, caught by peloton or coordinated poorly (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2018 showed recovery ability post-injury with solo win, but 2021 Giro attempt lacked punch. Limited recent data for conclusive trend.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "GALLOPIN Tony",
+  "built_from": [
+    "2017 Paris-Nice Stage 5",
+    "2017 Paris-Nice Stage 6",
+    "2018 Paris-Nice Stage 7",
+    "2018 Vuelta a Espana Stage 7",
+    "2018 Vuelta a Espana Stage 7",
+    "2021 Giro d'Italia Stage 3"
+  ]
+}

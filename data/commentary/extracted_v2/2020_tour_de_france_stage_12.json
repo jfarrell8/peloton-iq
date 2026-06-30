@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-10",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HIRSCHY Marc solo attacked miles from finish on uphill finale, won by 47 seconds over ROLLAND, taking advantage of GC teams unwilling to chase.",
+    "winner": "HIRSCHY Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Hirschy attacked miles before uphill finish knowing 1h07m deficit meant GC teams wouldn't organize chase.",
+      "Deceuninck led out Bennett for 7th-place intermediate sprint showing total commitment to green jersey over energy conservation.",
+      "Martin crash within opening kilometers demonstrates category-2 summit 8-second bonus incentivized dangerous early positioning from GC riders."
+    ],
+    "rider_signals": {
+      "HIRSCHY Marc": "positive: 22 years old, 1h07m down overall yet still had legs for long-range solo attack on uphill finish",
+      "SAGAN Peter": "negative: consistently slower than Bennett in every sprint confrontation including intermediate sprints for minor points",
+      "BENNETT Sam": "positive: Morkov held leadout to line for 7th-place intermediate sprint showing Deceuninck's total tactical commitment",
+      "MARTIN Guillaume": "neutral: crashed in opening kilometers while positioned aggressively near front for 8-second bonus on category-2 climb",
+      "ROLLAND Pierre": "positive: finished 47 seconds down after following Hirschy's move, promising form with mountains approaching despite 21st at 20 minutes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:22:48.774616+00:00"
+}

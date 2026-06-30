@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Guangxi Stage 5",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-20",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won stage 5 sprint after MEZGEC Luca crashed in final 250m taking down half the field including ACKERMANN's leadout.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TRENTIN and MEZGEC deliberately sat on Bora-Hansgrohe's leadout train rather than organizing their own, exploiting numerical advantage.",
+      "DILLIER won all four KOM climbs from breakaway to secure classification with stage remaining, forcing rivals into energy-wasting chase.",
+      "Sky controlled peloton despite having only GC jersey to defend, preventing Astana from isolating MOSCON on climbs."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: opened sprint at 200m marker showing tactical awareness to time effort despite being only two-man team",
+      "ACKERMANN Pascal": "positive: Bora-Hansgrohe leadout remained intact until 250m despite having weaker riders latch on, took points jersey",
+      "DILLIER Sylvan": "positive: possessed superior climbing legs to sweep all four KOMs against dedicated rival ACKHORN who was equally motivated",
+      "CHARNETSKI Sergey": "negative: Astana unable to create meaningful GC pressure despite trying to make stage difficult for Sky",
+      "MEZGEC Luca": "negative: initiated crash through clash with ACKERMANN in final 250m, eliminating his own winning opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:37:17.424806+00:00"
+}

@@ -1,21 +1,36 @@
 {
-  "attacking_style": "Shows ability to bridge solo from GC groups to stage contenders on climbs, demonstrating climbing strength and tactical opportunism when allowed freedom from team constraints.",
-  "team_tactics": "Inconsistent team support across DSM and Ineos eras - sometimes held back from breaks despite viable GC gap, other times used as climbing depth rather than protected leader.",
-  "terrain_preference": "Mountain stages suit his climbing capabilities best, particularly when positioned to pursue stage opportunities from minor GC positions rather than defending high placement.",
-  "vulnerability": "Susceptible to deep fatigue accumulation in third week of Grand Tours, losing 5+ minutes when exhausted. Crash involvement has disrupted preparation before key mountain blocks.",
+  "attacking_style": "Opportunistic breakaway hunter who targets queen stages from long-range elite breaks (29-rider groups). Capable of bridging significant gaps (40+ seconds) on climbs then competing for the win, but lacks tactical sprint experience against veterans.",
+  "team_tactics": "Deployed primarily as climbing domestique with freedom to hunt stages from breakaways when team GC ambitions are settled. Pace-setting duties in third week of Grand Tours, suggesting trust in stamina over explosive support.",
+  "terrain_preference": "Hardest summit finishes suit him best, winning queen stage from breakaway. Unexpectedly strong time trialist for climber profile (22-23 seconds down from winners, top-10 checkpoints). Long climbs favor his diesel engine over punchy gradients.",
+  "vulnerability": "Catastrophically short recovery window after hard efforts—lost 5 minutes within 2 days of winning queen stage. Inexperienced in tactical sprints when breakaways succeed. Prone to race-ending crashes in critical moments (Vuelta 2023).",
   "key_patterns": [
-    "Third-week fatigue: dropped badly by favorites losing 5+ minutes when accumulated fatigue hits",
-    "Team tactical mismanagement: kept from breaks or crashes compromise form before critical stages",
-    "Young climber profile: showed strong solo bridging ability at age 22 in Giro"
+    "Wins/places high from large breakaways on hardest mountain stages, never from reduced peloton sprints.",
+    "Strong unexpected TT performances across multiple Grand Tours, 20-25 seconds from winners despite climber classification.",
+    "Severe recovery deficit after maximum efforts: 5-minute losses within 48 hours of stage wins.",
+    "Improves form deep into three-week races, moving into top-10 GC while doing domestique work.",
+    "Hunts bonus seconds aggressively when in GC contention, gaining positions by single-second margins.",
+    "Lacks finishing composure against experienced riders in small-group sprints despite similar form levels."
   ],
-  "form_trajectory": "negative: recent Grand Tour appearances marred by late-race crashes and deep third-week fatigue limiting sustained performance",
-  "races_analysed": 4,
-  "confidence": "medium",
+  "form_trajectory": "neutral: Showed strong late-Giro form (top-10 with pacing duties) in 2023, but Vuelta ended prematurely in crash before demonstrating peak. Mixed signals from most recent complete race block.",
+  "races_analysed": 12,
+  "confidence": "high",
   "rider_name": "ARENSMAN Thymen",
   "built_from": [
+    "2020 Vuelta a Espana Stage 5",
+    "2020 Vuelta a Espana Stage 5",
+    "2021 Volta Ciclista a Catalunya Stage 3",
     "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Giro d'Italia Stage 21",
+    "2022 La Vuelta ciclista a Espana Stage 14",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 La Vuelta ciclista a Espana Stage 15",
     "2022 La Vuelta ciclista a Espana Stage 17",
-    "2022 La Vuelta ciclista a Espana Stage 9",
-    "2023 La Vuelta Ciclista a Espana Stage 7"
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 La Vuelta ciclista a Espana Stage 20",
+    "2022 La Vuelta ciclista a Espana Stage 21",
+    "2023 Giro dItalia Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 7",
+    "2023 Tirreno-Adriatico Stage 1"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "label": "2020 UAE Tour Stage 4",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-26",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai defended yellow on Mount Buller's 17km final climb, countering BERWICK Seth's attacks in final 500m to win stage and extend GC lead to 10 seconds",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sunweb massed at peloton front to control break gap under 3:30, preventing dangerous 2:32-down RUSH from threatening GC",
+      "BERWICK attacked from third wheel on steepest gradients targeting HINDLEY's weakness rather than rhythm climbing, forcing yellow jersey to respond",
+      "HINDLEY waited until final 150m inside barriers to counter rather than chase, using positional advantage over raw power"
+    ],
+    "rider_signals": {
+      "BERWICK Seth": "positive: 20-year-old riding aggressively to pressure race leader, closing gap from 16 seconds to 10 despite losing stage",
+      "YATES Simon": "negative: quickly overtaken after attacking, unable to sustain acceleration when U23 riders counterattacked on steep gradients",
+      "WHELAN James": "negative: bad day dropped him out of top-10 contention despite previously strong GC position",
+      "VINE Jay": "positive: U23 rider finishing ahead of multiple World Tour pros including former winner HOWSON on selective 17km climb",
+      "RUSH Jonas": "positive: survived longest from break on final climb, still mixing with favorites despite starting from early move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:28:38.021179+00:00"
+}

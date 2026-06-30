@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Not an attacker in traditional sense. Specialized time trial engine who leads TTT efforts and sets early benchmarks in individual TTs before being overtaken by pure specialists on varied terrain.",
+  "team_tactics": "Deployed as TTT locomotive and early-stage TT benchmark setter. Team optimizes aero equipment specifically for his domestique TT role, maximizing marginal gains for non-GC riders.",
+  "terrain_preference": "Excels on flat, pure power TTT courses. Track cycling background translates to high-speed flat efforts (54kph benchmarks). Struggles on mixed terrain TT parcours with technical/climbing sections.",
+  "vulnerability": "Mixed terrain time trials expose limitations—sets early benchmarks but consistently superseded. Pure climbing efforts beyond domestique duties not in tactical repertoire.",
+  "key_patterns": [
+    "TTT specialist across multiple Grand Tours and stage races, leading team efforts (3 observations)",
+    "Sets early TT benchmarks at high speeds before specialists overtake on varied terrain (2 observations)",
+    "Team invests in aero optimization for his domestique TT capability specifically (2 observations)",
+    "Track cycling background enables exceptional flat power but limited climbing versatility (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 shows continued TTT strength but role remains specialized domestique rather than individual progression",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HEPBURN Michael",
+  "built_from": [
+    "2019 Tirreno-Adriatico Stage 1",
+    "2019 Tirreno-Adriatico Stage 1",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Vuelta a Espana Stage 10",
+    "2023 Tirreno-Adriatico Stage 1"
+  ]
+}

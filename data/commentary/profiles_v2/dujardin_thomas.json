@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks from early breakaways on final repetitions of circuit climbs, using accumulated fatigue to drop rivals on the decisive ascent.",
+  "team_tactics": "Insufficient data to determine team setup patterns. Appears to operate independently once in breakaway position.",
+  "terrain_preference": "Specialized for repetitive circuit climbs where multiple ascents create cumulative fatigue. Stage finish profiles with repeated moderate gradients suit perfectly.",
+  "vulnerability": "Unknown from available data - single race sample insufficient to identify weaknesses.",
+  "key_patterns": [
+    "Wins from early breakaways rather than reduced bunch sprints or late attacks.",
+    "Excels on final repetitions of climbs after multiple earlier ascents wear down rivals.",
+    "Proven success profile on repetitive circuit climbs across multiple victories (Malbun, Kasen)."
+  ],
+  "form_trajectory": "positive: demonstrated consistent specialized climbing ability with stage victory matching previous win profile",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DUJARDIN Thomas",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
+    "2017 Criterium du Dauphine Stage 1"
+  ]
+}

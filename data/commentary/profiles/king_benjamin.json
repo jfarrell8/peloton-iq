@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches decisive attacks on uncategorized pre-climb ramps (9-12% gradient) before official categorized climbs begin, exploiting surprise timing and gradient spikes to catch rivals off-guard.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from available observations.",
+  "terrain_preference": "Excels on variable gradient spikes (9-12%) and uncategorized approach ramps; exploits terrain that allows sudden accelerations before expected climbing segments begin.",
+  "vulnerability": "Unknown - insufficient observations to identify specific weaknesses or scenarios where this rider struggles.",
+  "key_patterns": [
+    "Attacks on uncategorized pre-climb sections rather than waiting for official climb starts.",
+    "Sustains exceptional power output through variable gradient spikes of 9-12%.",
+    "Timing of attacks exposes poor pacing decisions by chasing groups behind."
+  ],
+  "form_trajectory": "unknown: only single race observation from 2018 available, no recent data to assess current trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KING Benjamin",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 9",
+    "2018 Vuelta a Espana Stage 9",
+    "2018 Vuelta a Espana Stage 9"
+  ]
+}

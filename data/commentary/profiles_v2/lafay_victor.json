@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Deliberately waits for rivals to expend energy on premature moves, then launches decisive attack in final 1-3km with sustained power. Exploits opponent hesitation and fatigue rather than attacking from distance.",
+  "team_tactics": "Appears to operate with tactical freedom from breakaways rather than team-led trains. Benefits when favorites' teams (e.g., Jumbo-Visma) neutralize each other, creating windows of hesitation.",
+  "terrain_preference": "Medium-length climbs (3km) where he can use sustained power after sitting on. Strong enough on mixed terrain to force responses from top climbers like Pogačar. Flat sprint finishes would expose him.",
+  "vulnerability": "Relies on opponents making premature moves first—may struggle if forced to initiate or control race himself. Loses to pure sprinters in bunch finishes, needs tactical chaos or breakaway scenarios.",
+  "key_patterns": [
+    "Wins by conserving energy while others attack prematurely, then countering in final 1-3km (3 instances)",
+    "Exploits tactical hesitation from favorite teams after they neutralize earlier moves (2 instances)",
+    "Delivers sustained power efforts rather than explosive accelerations, holding off closers (2 instances)",
+    "Operates from breakaways or reduced groups, not mass sprints (all race contexts)",
+    "Career-best results when not the obvious choice, flying under tactical radar (2 wins)"
+  ],
+  "form_trajectory": "positive: 2023 TDF win showed career progression, sustaining 450m power effort against closing WorldTour sprinters—built on tactical patience demonstrated in 2021-2022",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "LAFAY Victor",
+  "built_from": [
+    "2021 Giro d'Italia Stage 8",
+    "2021 Giro d'Italia Stage 8",
+    "2022 Tirreno-Adriatico Stage 4",
+    "2023 Tour de France Stage 2",
+    "2023 Tour de France Stage 2"
+  ]
+}

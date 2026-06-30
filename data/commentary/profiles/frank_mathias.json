@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Initiates attacks late in races (inside 10km) on climbs, often serving as catalyst rather than finisher. Prefers using local knowledge and terrain familiarity to time efforts on home climbs.",
+  "team_tactics": "AG2R uses him as primary option over teammates when betting on late disruption. Attacks solo to prevent sprints when team lacks confidence in leadout positioning.",
+  "terrain_preference": "Home climbs and familiar terrain where local knowledge provides advantage. Capable on Monument-level climbs but best as aggressor rather than finisher. Struggles on flat roads after climbing efforts.",
+  "vulnerability": "Cannot sustain efforts after early breakaway participation—fades in finale after extended work. Lacks sprint finish to convert late attacks into wins when caught.",
+  "key_patterns": [
+    "Attacks late inside 10km mark, documented in Tour de Suisse and Romandie finales.",
+    "Functions as catalyst for winning moves rather than winner—initiated Nibali's Lombardia attack sequence.",
+    "Fades after early breaks, insufficient depth for sustained multi-hour efforts shown twice.",
+    "AG2R prioritizes him over teammates for late-race disruption tactics when sprint uncertain.",
+    "Strong late-race surges but lacks finishing speed to convert, nearly caught leaders in Romandie."
+  ],
+  "form_trajectory": "positive: 2019 Swiss races showed improved late-race strength on home terrain with successful climbs and near-catches, upgrading from 2018 fade issues",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "FRANK Mathias",
+  "built_from": [
+    "2017 Il Lombardia",
+    "2017 Il Lombardia",
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2019 Tour de Romandie Stage 1",
+    "2019 Tour de Suisse Stage 4",
+    "2019 Tour de Suisse Stage 4",
+    "2019 Tour de Suisse Stage 7"
+  ]
+}

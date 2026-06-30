@@ -1,0 +1,25 @@
+{
+  "label": "2020 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-19",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked final mountain time trial to overcome 57-second deficit, destroying ROGLIČ by 1:56 to steal yellow on penultimate stage.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POGAČAR reversed 40-second deficit between checkpoint 2 and 3, revealing explosive climbing capacity in final kilometers of mountain TTs.",
+      "ROGLIČ held yellow 11 days with team support but cracked when isolated, exposing fundamental weakness in solo climbing efforts.",
+      "UAE Emirates structured entire tour around single rider superiority rather than team domestique strength, validating skeleton-crew GC approach."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: At 21 captured yellow/polka dot/white/stage simultaneously, demonstrating unprecedented multi-discipline dominance in single ITT effort",
+      "ROGLIČ Primož": "negative: Lost 1:56 on mountain ITT despite holding yellow 11 days, revealing catastrophic time trial weakness against pure climbers",
+      "PORTE Richie": "neutral: Started 22 seconds behind LANDA fighting for podium position, career-defining final podium photo opportunity at stake",
+      "CARAPAZ Richard": "negative: Lost polka dot jersey despite coasting early ITT kilometers, unable to defend KOM lead against POGAČAR's climbing speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:36:43.519615+00:00"
+}

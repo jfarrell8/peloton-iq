@@ -1,0 +1,27 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-05",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won from reduced bunch sprint after KWIATKOWSKI Michał crashed 2km out while in yellow, losing jersey to IMPEY Daryl via bonus seconds.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott seized peloton control on Montée de l'Avocat descent, demonstrating breakaway-catching expertise on technical downhills under one minute.",
+      "ACKERMANN switched sprint positioning from front to back-of-pack free-wheeling approach after stage 1 mistake, enabling higher entry speed.",
+      "Bonus seconds proved decisive when KWIATKOWSKI crashed inside 3km protection zone, tactical argument for sprint train dominance on hilly sprint stages."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: deliberate tactical adjustment from frontal to rear sprint positioning after prior stage error shows adaptive intelligence",
+      "KWIATKOWSKI Michał": "negative: lost yellow jersey via bonus seconds despite 3km rule protection after roundabout crash, positioning vulnerability exposed",
+      "IMPEY Daryl": "positive: third place finish sufficient for yellow via 4-second bonus when rival crashed, demonstrates bonus-hunting awareness",
+      "PÉRICHON Pierre-Luc": "positive: swept all four climbing bonuses from breakaway, revealing KOM jersey hunting strategy",
+      "FEILLU Brice": "negative: polka dot jersey dropped on Montée de l'Avocat despite early climb points, insufficient threshold for hilly sprint stages",
+      "COQUARD Bryan": "negative: dropped on Montée de l'Avocat alongside FEILLU, signals BMC sprinter unable to handle steep late-race climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:21:36.354448+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2022 E3 Saxo Bank Classic",
+  "race_name": "E3 Saxo Bank Classic",
+  "race_date": "2022-03-25",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout and LAPORTE Christophe rode away from 20-rider group after Jumbo-Visma took top three positions into Patterberg, van Aert won with 36km solo.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma dominated Patterberg entry with all three leadout positions, launching dual attack that no team could counter organizationally.",
+      "Van Aert/Laporte gap jumped from 15 to 20 seconds within two climbs post-Patterberg, suggesting chase hesitation from mixed-team composition.",
+      "Ineos chase work brought peloton close enough for Pidcock bridge at Eikenberg, revealing their willingness to burn matches early."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Second teammate duo breakaway win this season suggests Jumbo's numeric superiority renders traditional chase dynamics obsolete",
+      "LAPORTE Christophe": "positive: Survived Patterberg selection and sustained power over 36km indicates climbing weight has not compromised cobbled strength",
+      "GIRMAY Biniam": "positive: Fifth place at age 21 in debut cobbled classic suggests Eritrean can handle Northern classics, not just sprints",
+      "PIDCOCK Jonathan": "neutral: Required Ineos team support to bridge at Eikenberg rather than solo effort, questioning his diesel engine claims",
+      "ASGREEN Kasper": "negative: Defending champion dropped on Patterberg and finished ninth, form regression from 2021 concerning for Quick-Step",
+      "KÜNG Stefan": "positive: Solo third place from chase group shows his move timing exploited hesitation from sprint-cautious chasers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:06:21.493095+00:00"
+}

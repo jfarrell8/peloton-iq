@@ -1,0 +1,30 @@
+{
+  "label": "2023 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo dominated the flat 26km ITT by 1:41 over BISSEGGER Stefan, while KUSS Sepp unexpectedly retained red by 40 seconds over SOLER Marc through exceptional pacing discipline.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "GANNA caught four riders starting from his 1-minute man, indicating extreme power differential that forced pure climbers to recalibrate ITT expectations.",
+      "KUSS executed all-in pacing strategy on dead-flat ITT despite climber profile, suggesting UAE/Soudal misjudged his true TT ceiling by 40+ seconds.",
+      "EVENEPOEL finished only 16 seconds faster than KUSS, revealing critical weakness in converting flat TT superiority against motivated pure climbers.",
+      "Pure climbers AYUSO and MARTINEZ cracked top-10 ITT results, signaling new generation climbers prioritize TT development unlike previous cohorts."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: Retained red by 40s over SOLER on dead-flat ITT far outside wheelhouse, complicates Jumbo-Visma leadership dynamics for mountain stages.",
+      "GANNA Filippo": "positive: 1:41 margin over BISSEGGER at 53kph average shows track-honed team pursuit empty-tank ability translates to road ITT dominance.",
+      "EVENEPOEL Remco": "negative: Only 16 seconds faster than KUSS reveals inability to maximize advantages on terrain designed for his skillset, questionable for GC pressure.",
+      "ROGLIČ Primož": "negative: 1:36 down on KUSS and 20 seconds slower than EVENEPOEL indicates either form deficit or deliberate domestique role acceptance.",
+      "SOLER Marc": "negative: Lost red by 26 seconds suggests conservative pacing or misjudged effort distribution on straightforward flat course.",
+      "AYUSO Juan": "positive: Seventh place among pure climbers most impressive, signals complete rider development trajectory unlike traditional single-dimension climbers.",
+      "BISSEGGER Stefan": "neutral: European champion beaten by 1:41 establishes GANNA as clear tier-one ITT reference, but BISSEGGER remains elite baseline.",
+      "MARTINEZ William": "positive: Moved into top-10 GC via ITT, indicating emerging climbers now arrive with sufficient chrono skills to defend GC positions."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:31:23.724495+00:00"
+}

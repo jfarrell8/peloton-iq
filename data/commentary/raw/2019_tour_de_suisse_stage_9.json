@@ -4,85 +4,21 @@
   "race_date": "2019-06-23",
   "stage": 9,
   "video": {
-    "video_id": "3t-wS-kclLE",
-    "title": "Tour de Suisse 2019: Stage 9 On-bike action",
-    "published": "2019-06-23 18:02:33+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=3t-wS-kclLE",
-    "match_score": 140.0,
-    "all_candidates": [
-      {
-        "video_id": "3t-wS-kclLE",
-        "title": "Tour de Suisse 2019: Stage 9 On-bike action",
-        "channel": "Velon",
-        "published": "2019-06-23 18:02:33+00:00",
-        "match_score": 140.0
-      },
-      {
-        "video_id": "asnH7YoBZp4",
-        "title": "Tour de Suisse 2019: Inside the Race on Stage 9",
-        "channel": "Velon",
-        "published": "2019-06-23 18:29:20+00:00",
-        "match_score": 140.0
-      },
-      {
-        "video_id": "EPnJFWK5XOc",
-        "title": "Tour de Suisse 2019 - Stage 9 Highlights",
-        "channel": "Velon",
-        "published": "2019-06-24 09:38:40+00:00",
-        "match_score": 135.0
-      },
-      {
-        "video_id": "kMwGL4haiTE",
-        "title": "Tour de Suisse 2019: Inside the Race on Stage 8",
-        "channel": "Velon",
-        "published": "2019-06-23 08:11:34+00:00",
-        "match_score": 100.0
-      },
-      {
-        "video_id": "IaObekNouTs",
-        "title": "Tour de Suisse 2019: Stage 7 Highlights",
-        "channel": "Velon",
-        "published": "2019-06-22 06:46:03+00:00",
-        "match_score": 95.0
-      },
-      {
-        "video_id": "tLQBH17Kors",
-        "title": "Tour de Suisse 2019: Stage 8 on-bike action",
-        "channel": "Velon",
-        "published": "2019-06-22 18:15:14+00:00",
-        "match_score": 90.0
-      },
-      {
-        "video_id": "vl8srjxacF8",
-        "title": "Tour de Suisse 2019: Stage 7 on-bike",
-        "channel": "Velon",
-        "published": "2019-06-21 18:33:00+00:00",
-        "match_score": 75.0
-      },
-      {
-        "video_id": "vt3c8zyIA_U",
-        "title": "Tour de Suisse 2019: Inside the Race on Stage 7",
-        "channel": "Velon",
-        "published": "2019-06-21 20:55:45+00:00",
-        "match_score": 75.0
-      },
-      {
-        "video_id": "NYGJt5jXjfE",
-        "title": "Tour de Suisse 2019: Stage 2 highlights",
-        "channel": "Velon",
-        "published": "2019-06-16 18:25:07+00:00",
-        "match_score": 60.0
-      },
-      {
-        "video_id": "_J2F5e_t4iY",
-        "title": "Tour de Suisse 2019: Stage 3 on-bike highlights",
-        "channel": "Velon",
-        "published": "2019-06-17 17:23:18+00:00",
-        "match_score": 60.0
-      }
-    ]
+    "video_id": "EPnJFWK5XOc",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=EPnJFWK5XOc",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 49,
+    "raw_chars": 1783,
+    "clean_chars": 1764,
+    "duration_mins": 2.0,
+    "clean_text": "the ninth and final stage of Tour de Suisse was billed as the Queen stage with three hors catégorie climbs packed into 101 kilometers in which a gambrel of team Aeneas would defend his 22 second overall lead over Bahrain Marita's Rowand Denis the climbing began from the start in a weakened and EF education first skew car he stretched his legs to crest the luqman and pass clear of a chase group with team INEOS controlling the pace for burnout in the fast wind link teletón over the second climb at Sanger tardo karthi's relentless pace helped him to extend his lead while former overall winner Ceylon Sri lack of Catoosa Odyssey made a bid to improve on his seventh place overall he and others would wilt in these sunny conditions as the face increased on the força pass the final climb of the day with Karthi still at front the 24-year old Englishman topped his third climb to secure the final king of the mountains title and with it a winning lead on the stage Ron Dennis attacked close to the summit to try and distance bear now that the Colombian race leader was equal to the challenge as the other main contenders drifted back racing down the valley to the finish in all Rican Karthi had enough enhanced to take his maiden world tour success at a famous victory in the history of Tour de Suisse Dennison Barnell followed just over in a minute behind the third place for bar now ensuring that he took jour de Suisse overall glory his second world to a stage race success of the season Dennis and Patrick Conrad of Borah hansgrohe joined Bernal on the final podium in second and third places respectively Pater Sagan's secured his eight reports title well done Iowa's best young rider and Karthi measured the podium to collect the king of the mountains title",
+    "preview_start": "the ninth and final stage of Tour de Suisse was billed as the Queen stage with three hors catégorie climbs packed into 101 kilometers in which a gambrel of team Aeneas would defend his 22 second overall lead over Bahrain Marita's Rowand Denis the climbing began from the start in a weakened and EF education first skew car he stretched his legs to crest the luqman and pass clear of a chase group with team INEOS controlling the pace for burnout in the fast wind link teletón over the second climb at",
+    "preview_end": "ctory in the history of Tour de Suisse Dennison Barnell followed just over in a minute behind the third place for bar now ensuring that he took jour de Suisse overall glory his second world to a stage race success of the season Dennis and Patrick Conrad of Borah hansgrohe joined Bernal on the final podium in second and third places respectively Pater Sagan's secured his eight reports title well done Iowa's best young rider and Karthi measured the podium to collect the king of the mountains title"
+  },
+  "status": "transcript_saved"
 }

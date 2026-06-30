@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-26",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won from 21-man breakaway after resisting MAJKA's attacks on Xorret de Catí, while FROOME attacked mid-climb to distance GC rivals except CONTADOR.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-Hansgrohe launched MAJKA on steepest sections up to 20%, but tactical patience from ALAPHILIPPE neutralized team support advantage.",
+      "FROOME attacked at mid-ascent rather than steep finale, creating selection but allowing CONTADOR to rejoin on descent.",
+      "OLIVEIRA Nelson virtually took red jersey within breakaway, showing teams willing to surrender GC for intermediate stage control."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Won Grand Tour stage debut at 25, showing superior sprint after tiring out domestique-supported MAJKA through patient tactics.",
+      "FROOME Chris": "positive: Extended GC lead to 28 seconds by mid-climb attack, but inability to drop CONTADOR on descent reveals descending vulnerability.",
+      "CONTADOR Alberto": "positive: Matched FROOME despite difficult season start and knee injury forcing Tour absence, caught leader on final 2km descent.",
+      "MAJKA Rafal": "negative: Failed to convert team support and tactical launch on 20% gradients into stage win against solo rider."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:15:54.567005+00:00"
+}

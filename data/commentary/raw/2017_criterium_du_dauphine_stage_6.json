@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-09",
   "stage": 6,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "_9C4av45oSk",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=_9C4av45oSk",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 97,
+    "raw_chars": 3357,
+    "clean_chars": 3322,
+    "duration_mins": 4.1,
+    "clean_text": "it's time for a new gear train under Criterium D doin the Monda is at the center of attention today a first of three difficult Mountain stages that will decide the race win before it gets to the first out of classification Ascent six men leave the pack behind and break away amongst them two Frenchmen TI and Anis best placed of The Escapist is s pows he lies 3 minutes and 38 seconds behind thas dent and will soon virtually take over the leader Jersey as the Escape group has a lead of 8 minutes and 30 seconds at Mid race but in the pack Roman B decides to launch the hunt before getting to the Misha and his team aider quickens the pace considerably the pack is very nervous several Riders come to fall and when it gets to the ascent of the Misha the gap between the Escape group and the yellow Jersey has dwindled to 3 minutes the first few hundred meters of the ascent will be fatal to Tomas durent who knew he wasn't likely to hold on to the yellow jersey in the mountains Alejandro valver on the other hand seems in great shape and attacks 8 km from the summit he is however quickly taken by Fabu aru the Italian passes spard before catching up to the last escapes and leaving them behind also on the slope of 10% the winner of the welta 2015 also resists fuman Port who passed the summit 15 seconds after aru contador valde and B are distanced by a minute and should be unable to catch up to the Italian on The Descent to lot but arus hopes will be disappointed he's soon joined by Christopher Frum Richie port and even his teammate yakob fugang the for Sprint to the finish line and to everyone's surprise it's Jakob fugang who passes the line before the favorites and takes the stage opposed to Christopher FR Richie port or his team leader Fabio aru yakob fugang certainly wasn't a favorite but on a perfect team Race by aana he first worked for his team leader before resisting the great favorites on the ascent of the Monda and boldly taking his chance on the final Sprint except for a team time trial it's the only success on the world tour for fugang in The Last 5 Years the dry spell has come to an it's been uh it's been a lot of bad luck for the for our team this year from and uh finally it seemed that everything comes together and that we we start to be competitive and and really competitive luckily it's now before the before the tour and uh to go in in doony like this and and on the first hard stage be there in front with two guys with the with two of the other favorites of the for the tour and and for doany it's of course uh really nice and for me personally to to win for the first time for Asana uh it's a huge relief it's a huge relief behind the winning quartet The Losers of the day are Roman B and Alberto contador the Frenchman didn't manage to pursue his effort and loses 5050 seconds to the stage winner today for contador it's even worse he passes to line 1 minute and 6 seconds after Fugal Zone narrowly beaten on the Sprint finish Richie Port can find Solace with the yellow Jersey it's the first time the Australian takes the leader Jersey on the doin stage seven on Saturday will be the most demanding of the three Mountain stages in the Alps it goes up by almost 40 km the ascent of the caen that will take the Riders to the foot of the mythical Alp promises an exciting battle",
+    "preview_start": "it's time for a new gear train under Criterium D doin the Monda is at the center of attention today a first of three difficult Mountain stages that will decide the race win before it gets to the first out of classification Ascent six men leave the pack behind and break away amongst them two Frenchmen TI and Anis best placed of The Escapist is s pows he lies 3 minutes and 38 seconds behind thas dent and will soon virtually take over the leader Jersey as the Escape group has a lead of 8 minutes an",
+    "preview_end": " to the stage winner today for contador it's even worse he passes to line 1 minute and 6 seconds after Fugal Zone narrowly beaten on the Sprint finish Richie Port can find Solace with the yellow Jersey it's the first time the Australian takes the leader Jersey on the doin stage seven on Saturday will be the most demanding of the three Mountain stages in the Alps it goes up by almost 40 km the ascent of the caen that will take the Riders to the foot of the mythical Alp promises an exciting battle"
+  },
+  "status": "transcript_saved"
 }

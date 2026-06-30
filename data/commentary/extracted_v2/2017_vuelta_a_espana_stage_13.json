@@ -1,0 +1,23 @@
+{
+  "label": "2017 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won his third sprint stage after Quick-Step controlled the entire day, reeling in breakaway inside final 7km in Seville.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step initiated chase 40km out despite having already won both sprint stages, revealing aggressive accumulation strategy.",
+      "Breakaway reduced Dimension Data to duo before capture, suggesting team sacrificed numbers early rather than defending numerical advantage.",
+      "Trentin winning all three available sprint stages indicates rivals unable or unwilling to commit full leadout trains."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "neutral: described as having 'more relaxed stage' after previous day's troubles, maintaining 59-second GC lead",
+      "FRYDAY Omar": "negative: abandoned race despite winning last two Vuelta mountain classifications, suggesting form collapse mid-race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:13:06.361811+00:00"
+}

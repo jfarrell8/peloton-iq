@@ -1,0 +1,24 @@
+{
+  "label": "2017 Vuelta a Espana Stage 21",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-10",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won Madrid sprint with 1km Quick-Step lead-out, taking 4th stage but lost green to FROOME who contested intermediate sprint",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step executed 1km lead-out on Madrid circuit, demonstrating team sprint train still viable at race-end fatigue levels.",
+      "Froome/Sky contested intermediate sprint specifically to defend green jersey from Trentin, prioritizing jersey over ceremonial stage protocol.",
+      "Three-man breakaway (Ciolek, De Marchi, Schultz) survived 20km on Madrid circuits before peloton reeled them in final lap."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Won 4th stage matching best Vuelta sprint haul since Degenkolb 2014, showed consistent fast-twitch preservation across three weeks",
+      "FROOME Chris": "positive: Won Vuelta by 2min margin (largest in 10 years), contested intermediate sprint despite overall lead showing Sky's jersey-defense obsessiveness",
+      "DE MARCHI Alessandro": "neutral: Labeled 'never tiring' for breakaway effort on final stage, consistent with pattern of late-race animation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:14:50.431777+00:00"
+}

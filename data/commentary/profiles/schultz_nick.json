@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Capable of sustained breakaway efforts with strong time trial ability on gradual finishing climbs. Shows willingness to commit to long-range moves in Grand Tours.",
+  "team_tactics": "Limited evidence of specific team setup; demonstrated ability to function independently in breakaways without heavy domestique support.",
+  "terrain_preference": "Gradual finishing climbs that favor time trial power over pure climbing. Suited to long breakaways where TT strength can be leveraged in final kilometers.",
+  "vulnerability": "Inexperienced in sprint finishes after breakaways; lost to bike throw despite being strongest rider, suggesting tactical naivety in close finishes.",
+  "key_patterns": [
+    "Strong solo time trial ability in breakaway scenarios, particularly on gradual climbs.",
+    "Lacks experience in technical finish execution despite having physical strength to win."
+  ],
+  "form_trajectory": "positive: showed Grand Tour breakthrough potential with near-stage win, demonstrating climbing and TT capabilities",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SCHULTZ Nick",
+  "built_from": [
+    "2022 Tour de France Stage 10",
+    "2022 Tour de France Stage 10"
+  ]
+}

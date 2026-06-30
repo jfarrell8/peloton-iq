@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Attempts extended solo efforts (5km+) from distance, but lacks power to sustain breakaways when peloton is organized. Attacks appear opportunistic rather than tactically timed.",
+  "team_tactics": "Insufficient data to establish clear team support patterns. Solo attack suggests either limited domestique support or independent racing approach.",
+  "terrain_preference": "Insufficient data to determine clear terrain preference. Struggled on finish with uphill component (final 2km), suggesting climbing may be a limiter.",
+  "vulnerability": "Lacks power reserve to sustain extended solo efforts when facing organized peloton chase. Vulnerable when attacks require sustained high output over 5km+ without teammates.",
+  "key_patterns": [
+    "Solo breakaway attempts absorbed by organized peloton, indicating threshold insufficient against coordinated chase"
+  ],
+  "form_trajectory": "unknown: Single 2017 observation shows failed attack, but insufficient data to establish trajectory trend",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "NORMAN LETH Lasse",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 2"
+  ]
+}

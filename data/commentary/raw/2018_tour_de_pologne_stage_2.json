@@ -4,12 +4,12 @@
   "race_date": "2018-08-05",
   "stage": 2,
   "video": {
-    "video_id": "CguEVIFfWPg",
-    "title": "Tour of Guangxi 2018: Stage 2 - extended highlights",
-    "published": "2018-10-18 09:53:25+00:00",
-    "channel": "Velon",
-    "url": "https://youtube.com/watch?v=CguEVIFfWPg",
-    "match_score": 89.81,
+    "video_id": "fYyx-ftQwJI",
+    "title": "Tour de Pologne 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
+    "published": "2018-08-07 10:46:34+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=fYyx-ftQwJI",
+    "match_score": 120.0,
     "all_candidates": [
       {
         "video_id": "fYyx-ftQwJI",
@@ -47,17 +47,17 @@
         "match_score": 80.0
       },
       {
-        "video_id": "JDXjXLsKtAI",
-        "title": "Tour de Pologne 2018 | Stage 3 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2018-08-07 11:05:03+00:00",
-        "match_score": 80.0
-      },
-      {
         "video_id": "o_f1fpskA5E",
         "title": "Tour de Pologne 2018 | Stage 5 Finish Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
         "published": "2018-08-08 15:53:57+00:00",
+        "match_score": 80.0
+      },
+      {
+        "video_id": "JDXjXLsKtAI",
+        "title": "Tour de Pologne 2018 | Stage 3 Finish Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2018-08-07 11:05:03+00:00",
         "match_score": 80.0
       },
       {
@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 72,
+    "raw_chars": 2486,
+    "clean_chars": 2486,
+    "duration_mins": 2.8,
+    "clean_text": "to maneuver the sprinters teams as expected a little maneuver on to the top of this rise round the roundabout but it's so fast running you're going to need at least straight on the motorbike i'll tell you what if your motor pace down it you're going to be going very fast although towards the finish now tony you're going to need a lot more uh gap than this and uh you know they're going to die all the way to the finish the lead out is commencing now with the mark off but where are the others but look at what happened was on the back wheel there and he's just let that go sorry hodge was on the back wheel there and he's just let it go this could cause all sorts of trouble hodge now in about 12th place in the bunch morkhoff is gonna have to do the job here but he's got two of the polish national team riders one in front of him one behind he's taking the pressure off it's lotto eno yumbo now on the front of the bunch doing the lead out boson hogan it looks like in there as well is it gonna be mark off he's lighting up but he's got the polish rider on his back wheel here comes the bunch and it looks like yesterday's winner pascal well he makes his way through there and he's gonna get his arms in the air with hodge in second place and uh it looked like the trek uh segafredo rider in third place as well back danny van pop iceland to let hold himself back as a ackerman and hodge came through the gap in front of him so you just see uh the the lotto young ball right on the left-hand side he opened up his sprint all of a sudden bang you see it again that maneuver two way two wheels can buy them shake of the heads do i think he was happy with that but these guys were coming at speed yeah they were coming at some speed there pascal ackermann i'm in the air hodge not very happy with his own sprint now i don't think he can can complain too much about the move of hodge here we go brian yeah here we go there is is mark off but watch them come on with speeds behind i think it's a edvard boson haagen in the right hand side danny van pop we'll just watch arkeman he knows he's going to be blocked and now decides bang and turning right here oh straight in front of i'm not sure about that um i'm not sure about that one brian i think he could be in trouble with the commissaries over that one but then are they going to take hodge out as well because he followed him through it's going to be a difficult one to call i think that that's that's that's a sprint there but you",
+    "preview_start": "to maneuver the sprinters teams as expected a little maneuver on to the top of this rise round the roundabout but it's so fast running you're going to need at least straight on the motorbike i'll tell you what if your motor pace down it you're going to be going very fast although towards the finish now tony you're going to need a lot more uh gap than this and uh you know they're going to die all the way to the finish the lead out is commencing now with the mark off but where are the others but l",
+    "preview_end": "k it's a edvard boson haagen in the right hand side danny van pop we'll just watch arkeman he knows he's going to be blocked and now decides bang and turning right here oh straight in front of i'm not sure about that um i'm not sure about that one brian i think he could be in trouble with the commissaries over that one but then are they going to take hodge out as well because he followed him through it's going to be a difficult one to call i think that that's that's that's a sprint there but you"
+  },
+  "status": "transcript_saved"
 }

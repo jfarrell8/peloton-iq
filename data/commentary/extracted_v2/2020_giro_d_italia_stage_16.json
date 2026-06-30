@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-20",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRATNIK Jan soloed to victory from 28-rider breakaway after bridging on penultimate Monte Ragogna climb, holding off O'CONNOR's chase.",
+    "winner": "TRATNIK Jan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GC teams granted 28-rider break excessive freedom before Madonna di Campiglio, revealing strategic energy conservation before decisive mountain stage.",
+      "Tratnik attacked with 40km remaining on penultimate Monte Ragogna lap, not final climb, exploiting organizational chaos in oversized break.",
+      "Almeida gained 2 seconds in final kilometer on flat finish against GC rivals, signaling unusual time trial strength or rival weakness."
+    ],
+    "rider_signals": {
+      "TRATNIK Jan": "positive: managed 40-second solo effort perfectly after O'Connor bridge, suggesting exceptional power reserve after 6-hour breakaway effort",
+      "O'CONNOR Ben": "positive: closed 40 seconds to Tratnik on penultimate climb at age 24, demonstrating grand tour breakaway capacity despite second place",
+      "ALMEIDA João": "positive: extended pink jersey lead to 17 seconds by gapping GC rivals in final kilometer of flat finish, unusual aggression",
+      "KELDERMAN Wilco": "negative: lost 2 seconds to Almeida in final kilometer sprint despite being stronger time trialist, reveals poor positioning or legs",
+      "VISCONTI Giovanni": "neutral: defended mountains jersey passively in 28-rider break, lost only 1 point despite Guerreiro's attacks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:14:08.329536+00:00"
+}

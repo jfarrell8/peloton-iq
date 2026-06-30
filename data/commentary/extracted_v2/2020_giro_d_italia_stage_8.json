@@ -1,0 +1,25 @@
+{
+  "label": "2020 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-10",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DOWSETT Alex escaped solo from a 6-rider breakaway with a second attack on the final climb, holding 1+ minute to win stage 8.",
+    "winner": "DOWSETT Alex",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DOWSETT's second attack from breakaway on final categorized climb exploited hesitation from chase group to build decisive gap.",
+      "Trek-Segafredo forced peloton despite 10+ minute gap suggesting team disruption tactics rather than genuine chase of break.",
+      "Six-rider breakaway composition too strong for peloton to control; multiple GC teams let skilled TTer escape on lumpy stage."
+    ],
+    "rider_signals": {
+      "DOWSETT Alex": "positive: Won from breakaway showing climbing sufficient for lumpy stages despite being primarily a time trialist, contract-year motivation evident.",
+      "DEMARE Arnaud": "neutral: Collected 2 intermediate sprint points at 100km mark extending maglia ciclamino lead, strategic positioning continuing.",
+      "ALMEIDA Joao": "neutral: Retained 43-second pink jersey lead over Bilbao without incident on transition stage before mountain weekend.",
+      "GASTAUER Ben": "negative: Crashed out as 14th abandonment in 8 stages, signaling peloton attrition rate affecting team depth."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:16:27.558440+00:00"
+}

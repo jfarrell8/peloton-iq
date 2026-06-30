@@ -1,18 +1,19 @@
 {
-  "attacking_style": "Capable of joining elite breakaways on breakaway-friendly stages, though execution appears dependent on team strategic priorities rather than personal aggression patterns.",
-  "team_tactics": "UAE demonstrates selective commitment to his breakaway efforts - teammates will not chase or support when broader team objectives (ceremonial finishes, GC protection) take precedence over stage hunting.",
-  "terrain_preference": "Insufficient data to determine specific terrain preferences - single observation shows breakaway capability but not terrain-specific strength.",
-  "vulnerability": "Lacks team support infrastructure for sustained breakaway efforts when UAE has conflicting priorities; cannot convert breakaway selection into results without domestique assistance.",
+  "attacking_style": "Not a primary attacker; focuses on sprint launches from favorable positions (second wheel). Shows tendency to misjudge timing, going too early and fading in final meters.",
+  "team_tactics": "Operates without dominant lead-out train support, relies on positioning himself in wheels of other teams' trains for sprint opportunities.",
+  "terrain_preference": "Flat sprint finishes where positioning can compensate for lack of organized team support. Exposed when sprints require sustained power through long finishing straights.",
+  "vulnerability": "Sprint timing and distance judgment—launches prematurely from good positions, lacks power endurance to sustain efforts through final 50 meters when going early.",
   "key_patterns": [
-    "Deployed in ceremonial-stage breakaways when UAE has no competitive objectives (1 observation)",
-    "Team refuses chase/support duty when stage outcome secondary to broader goals (1 observation)"
+    "Consistently finds strong second-wheel positions but misjudges launch timing",
+    "Fades in final 50m after early sprint initiation",
+    "Operates without organized lead-out train support"
   ],
-  "form_trajectory": "unknown: single observation from ceremonial stage provides no meaningful form assessment",
+  "form_trajectory": "unknown: single observation insufficient to determine trajectory, but tactical execution issues evident",
   "races_analysed": 1,
   "confidence": "low",
   "rider_name": "POGACAR Filippo",
   "built_from": [
-    "2023 La Vuelta Ciclista a Espana Stage 21",
-    "2023 La Vuelta Ciclista a Espana Stage 21"
+    "2023 Vuelta a Espana Stage 19",
+    "2023 Vuelta a Espana Stage 19"
   ]
 }

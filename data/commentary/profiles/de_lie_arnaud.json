@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Pure sprinter relying on leadout train positioning rather than attacking. Finishes races in organized bunch sprints with team support.",
+  "team_tactics": "Lotto-Soudal commits full leadout train resources to deliver DE LIE optimally positioned into final sprint. High-stakes deployment reflects team's broader strategic needs.",
+  "terrain_preference": "Flat bunch sprint finishes where leadout organization determines outcome. Exposed when positioning alone insufficient against superior pure sprinters.",
+  "vulnerability": "Cannot overcome top-tier sprinters even from optimal positioning. Conversion rate appears weak when facing WorldTour-level sprint competition despite full team support.",
+  "key_patterns": [
+    "Requires full leadout infrastructure to compete, not self-sufficient in positioning battles.",
+    "Fourth place from optimal position indicates finishing speed deficit versus elite sprinters."
+  ],
+  "form_trajectory": "neutral: Single observation shows good positioning but conversion weakness; insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DE LIE Arnaud",
+  "built_from": [
+    "2022 Bretagne Classic - Ouest-France",
+    "2022 Bretagne Classic - Ouest-France"
+  ]
+}

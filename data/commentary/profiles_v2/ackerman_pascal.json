@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Pure sprinter who contests bunch finishes rather than initiating attacks. Wins from adjusted positioning in final 2km, learning from earlier positioning errors to come from back with higher speed.",
+  "team_tactics": "Relies on teammates for peloton control to set up sprint finishes, but team protection collapses on moderate climbs (dropped at 40km despite team presence). Limited dedicated leadout evidence in observations.",
+  "terrain_preference": "Flat sprint stages only. Exposed and dropped on even moderate terrain well before final climbs. Cannot survive in reduced groups when climbers accelerate, even when initially present.",
+  "vulnerability": "Moderate climbing exposes him catastrophically (dropped 40km out, UAE Tour). Crash-prone in technical sprint finishes (barriers contact at 1.2km). Positioning desperation visible when outmatched in sprint quality.",
+  "key_patterns": [
+    "Dropped on moderate terrain well before decisive climbs, losing contention entirely (UAE Tour 40km out)",
+    "Positioning errors and crashes in sprint finishes reduce win conversion rate (barriers crash, contested finish despite no win)",
+    "Legitimate WorldTour sprint threat with multiple 2018 wins against top-tier fields (4 WT wins documented)",
+    "Adaptive positioning strategy: learns from mistakes, switching to back-to-front sprint approach with higher speed"
+  ],
+  "form_trajectory": "negative: 2018 showed 4 WorldTour wins and sprint competitiveness, but 2019-2020 marked by crashes, positioning errors, and terrain vulnerability without wins recorded",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "ACKERMAN Pascal",
+  "built_from": [
+    "2018 Criterium du Dauphine Stage 2",
+    "2018 Criterium du Dauphine Stage 2",
+    "2018 Tour de Romandie Stage 2",
+    "2018 Tour de Romandie Stage 2",
+    "2019 Giro d'Italia Stage 10",
+    "2019 Giro d'Italia Stage 4",
+    "2019 UAE Tour Stage 2",
+    "2020 Vuelta a Espana Stage 15"
+  ]
+}

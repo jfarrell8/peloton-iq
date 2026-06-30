@@ -1,0 +1,28 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-24",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João attacked with Quintana and Iguita 2.7km to go, won photo finish on gravel summit after Quintana overcautiously cornered the descent.",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "UAE placed Soler in break after missing stage 3, insurance tactic paid off when O'Connor cracked late.",
+      "INEOS set grinding pace with Sivakov/Krywkowski/Porte despite no GC contender, likely targeting stage for Carapaz not overall.",
+      "Quintana saved teammates' energy never pulling in chase groups, preserving firepower for final 3km attack.",
+      "Gravel summit finish at top rewarded descending courage; Quintana's caution on loose surface cost stage win."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "negative: lost leader's jersey after team burned chasing break, couldn't respond when Almeida/Quintana/Iguita went at 2.7km",
+      "ALMEIDA João": "positive: UAE's secondary GC option outsprinted two Colombians on gravel after summit attack, takes white jersey",
+      "QUINTANA Nacho": "positive: took GC lead on countback same time as Almeida, conserved team energy by never pulling in groups",
+      "CARAPAZ Richard": "neutral: INEOS set pace for his attack but Almeida/Quintana/Iguita group proved stronger on final climb",
+      "VALVERDE Alejandro": "negative: dropped early indicating illness or off-form, unable to maintain even moderate climbing pace",
+      "IGUITA Santiago": "positive: Colombian champion matched every late move including Carapaz and final 2.7km selection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:31:00.016200+00:00"
+}

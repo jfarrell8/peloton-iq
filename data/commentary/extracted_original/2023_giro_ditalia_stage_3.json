@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro dItalia Stage 3",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won the sprint after Jayco AlUla's sustained climbing pace dropped McNulty and traditional sprint leadout trains, with Pedersen recovering from being dropped on climbs",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jayco AlUla set climbing tempo specifically to thin sprint field rather than protect breakaway, revealing GC-agnostic sprint preparation strategy.",
+      "Evenepoel actively contested intermediate bonus seconds despite holding pink jersey, signaling aggressive accumulation strategy before shedding leader duties.",
+      "Pinot collecting KOM points via repeated attacks rather than breakaway commitment suggests targeting classification without sacrificing GC support role."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: won after Jayco's climbing work filtered the sprint field, showing renewed ability to survive lumpy parcours that eliminated traditional fastmen",
+      "PEDERSEN Mads": "positive: dropped on climbs but regained peloton to contest sprint, demonstrating unexpected recovery capacity on difficult terrain",
+      "McNULTY Brandon": "negative: unexpectedly distanced on modest third-category climbs while teammates controlled pace, major red flag for GC ambitions",
+      "KÄMNA Lennard": "negative: absent from finale on terrain suited to his profile while teammate Matthews contended, suggests poor form or tactical misallocation",
+      "PINOT Thibaut": "neutral: attacked twice for KOM points then returned to bunch, indicating classification hunting without committing to breakaway risk",
+      "ALMEIDA João": "neutral: caught in crash but recovered to peloton, showing strong chase capacity but raising durability concerns"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:02:44.920818+00:00"
+}

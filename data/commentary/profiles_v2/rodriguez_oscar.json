@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Explosive attacks on exceptionally steep gradients (14%+), often from already-formed breakaways rather than the peloton. Thrives in short, punchy summit finishes (3km walls) where gradient spikes.",
+  "team_tactics": "Appears to operate with significant autonomy, often infiltrating breakaways early. Limited evidence of coordinated team support; potential internal hierarchy issues when multiple team leaders present.",
+  "terrain_preference": "Excels on steep-percentage climbs (14%+) and short, brutal summit finishes. Strong in chaotic race situations where positioning matters more than sustained tempo. Less effective on longer, grinding ascents.",
+  "vulnerability": "Struggles when team tactics are unclear or when teammates are also in contention. May lack the sustained power for longer climbs where pure watts-per-kilo matters more than punch.",
+  "key_patterns": [
+    "Operates stealthily without visible attacks; GC gains achieved through positioning not spectacle (2 instances)",
+    "Exceptional acceleration on 14%+ gradients; drops competitors immediately when gradient spikes (2 instances)",
+    "Works from breakaways rather than peloton; bridges then attacks from established groups (2 instances)",
+    "Form inconsistency across seasons; dropped by teammate in 2019 after winning solo in 2018"
+  ],
+  "form_trajectory": "neutral: 2022 showed podium GC result but no attacking flair; unclear if conserving energy tactically or lacking explosive form from 2018 peak",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "RODRIGUEZ Oscar",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 13",
+    "2018 Vuelta a Espana Stage 13",
+    "2019 Vuelta a Espana Stage 15",
+    "2022 Tour de Suisse Stage 7"
+  ]
+}

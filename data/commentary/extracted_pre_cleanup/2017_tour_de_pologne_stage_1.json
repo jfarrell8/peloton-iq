@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-29",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won stage 1 by jumping early when sprinters hesitated in disorganized finale, holding off EWAN Caleb after multiple failed moves.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "KEIZER Martijn took intermediate sprint with PATERSKI Maciej, bonus seconds critical for team car positioning on stage 2.",
+      "BMC's OEHLINGER Daniel strung out pace at 2km with no sprinter, disrupting leadout trains fatally for organized teams.",
+      "Quick-Step attacked without sprinter present creating chaos; teams brought wrong rosters expecting controlled finish.",
+      "SAGAN launched sprint when leadouts collapsed, recognizing hesitation beats organization when finale becomes disorganized."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: spotted timing window when sprinter teams hesitated, launched early and held power to line despite disorganized approach",
+      "EWAN Caleb": "neutral: second place but MEZGEC Luka leadout exhausted early, forced to improvise positioning behind rival trains",
+      "MEZGEC Luka": "negative: died slow death as leadout man, looking for help 900m out indicating insufficient preparation",
+      "OEHLINGER Daniel": "neutral: BMC used him to disrupt at 2km without sprinter, tactical move but caught before finale",
+      "BONIFAZIO Niccolò": "neutral: top five finish suggests opportunism works when crash and chaos eliminate organized trains",
+      "FARRAR Tyler": "neutral: third place result shows veterans capitalize when leadouts fail and younger sprinters crash"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:11:56.163850+00:00"
+}

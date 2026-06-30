@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-15",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERSEN Mads won a breakaway sprint on transition stage 13 after rivals made tactical errors pulling for him with 10km to go",
+    "winner": "PETERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PETERSEN successfully hid in breakaway final 10km while HOULE and WRIGHT burned matches pulling, revealing tactical naivety",
+      "SAGAN Peter's early breakaway attempt rejected by peloton due to sprint handicapping—faster riders avoided cooperating with him",
+      "GC teams completely neutralized transition stage despite 7000ft climbing, protecting leaders after Alpe d'Huez damage assessment"
+    ],
+    "rider_signals": {
+      "PETERSEN Mads": "positive: forced rivals to leadout in final kilometer showing superior positioning instincts and confidence managing faster raw speed",
+      "SAGAN Peter": "negative: peloton actively refused cooperation when he attacked, suggesting reputation makes him unmarketable breakaway partner",
+      "VINGEGAARD Jonas": "neutral: team successfully protected 2:22 gap third consecutive day suggesting UAE lacks firepower for transition-stage attacks",
+      "VAN POPPEL Danny": "negative: dropped immediately on cat-3 climb despite making breakaway, exposed lack of form after mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:21:44.259988+00:00"
+}

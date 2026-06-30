@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primož took the opening ITT by 6 seconds over ARANBURU Alex, savaging the flat final kilometers while BERNAL disappointed on the climb.",
+    "winner": "ROGLIC Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ARANBURU Alex beat pure climbers on hilly ITT, suggesting sprinters with power-to-weight can exploit technical parcours with limited climbing.",
+      "ROGLIC Primož gained decisive time in final 300m at 35mph, revealing pacing strategy that saved watts for flat finish.",
+      "BERNAL Egan lost 17 seconds to ARANBURU on 2.5km climb despite expectations, signaling form concerns from protected GC leader."
+    ],
+    "rider_signals": {
+      "ARANBURU Alex": "positive: Fast sprinter took 2nd overall and beat YATES Adam on climb, showing unexpected climbing form threatens pure climbers",
+      "BERNAL Egan": "negative: Lost 21 seconds to ROGLIC and surprisingly slow on climb segment, raising questions about GC form and Ineos protection hierarchy",
+      "CRADDOCK Lawson": "positive: Fourth place and half-second off climb KOM shows EF domestique has unexpected TT form for support role",
+      "ROGLIC Primož": "positive: Six-second margin gained entirely in final 300m demonstrates superior pacing and flat power reserves after climbing",
+      "YATES Adam": "negative: Beaten by teammate VAN BAARLE Dylan and multiple non-climbers on hilly course suggests TT weakness worse than expected"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:59:35.210868+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-19",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE defended yellow by beating THOMAS by 14 seconds in the 27.2km ITT, climbing faster than expected on the uphill finish.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE gained time on the final uphill kilometer into Pau, reversing expected TT specialist advantage on technical climbing finish.",
+      "THOMAS Geraint lost 35 seconds to ALAPHILIPPE despite being favored, suggesting yellow jersey psychological boost outweighed pure TT power.",
+      "DEGENT crashed approaching finish while holding fastest time, revealing barriers positioned dangerously tight on technical right-hand bend.",
+      "BERNAL conceded 1:12 to THOMAS, finishing 20th and confirming clear team hierarchy favoring defending champion over climbing specialist."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Climbed final kilometer faster than pure TT specialists, indicating climbing form strong enough to defend GC in mountains",
+      "THOMAS Geraint": "positive: Beat teammate BERNAL by 1:12, establishing himself as sole INEOS leader despite losing to ALAPHILIPPE",
+      "BERNAL Egan": "negative: 20th place finish 2+ minutes down signals weakness in ITTs that makes him vulnerable in future grand tour GC battles",
+      "DEGENT Thomas": "positive: Held fastest time before crash, confirming breakaway stage win reflected genuine form spike not just tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:57:15.249042+00:00"
+}

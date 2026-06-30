@@ -1,0 +1,25 @@
+{
+  "label": "2019 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-27",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won Stage 4 sprint in photo finish after CAVAGNA's 1.5km solo attack disrupted rival leadouts",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVAGNA attacked 1.5km out forcing rival teams to chase, disorganizing sprint trains before Quick-Step reset their leadout",
+      "BENNETT lost four positions after Quick-Step disruption forced him to ride without teammates in final kilometer",
+      "Quick-Step switched back to JAKOBSEN after CAVAGNA caught, showing tactical flexibility after previous day's mistake made them sharper"
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: finished second after recovering from disorganized position without teammates, shows ability to freestyle sprint",
+      "ROCHE Nicolas": "neutral: holds red jersey by 2 seconds over QUINTANA but commentary doubts he survives tomorrow's summit finish",
+      "URAN Rigoberto": "negative: crashed after teammate wheel touch, showed frustration suggesting team positioning issues",
+      "JAKOBSEN Fabio": "positive: Quick-Step delivered sprint victory after learning from previous stage mistake, team responds well to adversity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:09:30.919611+00:00"
+}

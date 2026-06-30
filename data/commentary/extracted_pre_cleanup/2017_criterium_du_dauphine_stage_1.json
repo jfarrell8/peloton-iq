@@ -1,0 +1,28 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-04",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DE GENDT Thomas attacked from early breakaway on penultimate Katschberg lap, dropped DOMONT Axel on final Katschberg ascent to solo to victory.",
+    "winner": "DE GENDT Thomas",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "DE GENDT Thomas targeted polka dots via early break on stage with 30km ascending, then converted to stage win.",
+      "AG2R placed DOMONT Axel breakaway, LATOUR Pierre counterattack descent for top-five insurance on lumpy opener.",
+      "DIMENSION DATA paced peloton for BOASSON HAGEN but tempo eliminated pure sprinters without catching quality climber breakaway."
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: dominated stage with 30km ascending total, shed DOMONT on final Katschberg pass showing excellent climbing form",
+      "DOMONT Axel": "positive: lasted to final climb in winning break, took second on lumpy opener indicating strong early-race legs",
+      "LATOUR Pierre": "positive: attacked final descent from peloton for fourth, showing opportunism and descending courage",
+      "BOASSON HAGEN Edvald": "neutral: team chased but peloton pace insufficient to catch breakaway on lumpy profile",
+      "COQUARD Bryan": "negative: eliminated by DIMENSION DATA tempo before finale, confirming pure sprinters cannot survive 30km ascending",
+      "BOUHANNI Nacer": "negative: dropped by peloton pace before finale on lumpy stage with substantial climbing",
+      "DÉMARE Arnaud": "negative: shed by tempo on stage with 30km ascending, signaling vulnerability on even moderately hilly profiles"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:55:41.766327+00:00"
+}

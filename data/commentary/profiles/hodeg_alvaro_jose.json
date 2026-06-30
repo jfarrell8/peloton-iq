@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Pure sprinter relying on explosive final acceleration from 200-300m, most effective from third wheel or when launched early (800m+) by surprise timing rather than classic power leadouts.",
+  "team_tactics": "Quick-Step deploys early surprise leadouts (800m+) via MØRKØV to catch rivals malpositioned, rather than sustained power trains. Team abandons support on lumpy terrain, prioritizing GC riders over sprint.",
+  "terrain_preference": "Flat bunch sprints with straightforward finales. Exposed and dropped on moderate second-category climbs and lumpy stages; team withdraws support when terrain undulates.",
+  "vulnerability": "Poor positioning instincts in chaotic finales (boxed at 1600m, abandoned leadout wheel). Loses team commitment on any lumpy terrain. Struggles when forced to initiate own sprint without setup.",
+  "key_patterns": [
+    "MØRKØV executes early surprise leadouts (800m) to neutralize rivals through positioning, not power (3 races)",
+    "Dropped or unsupported on any lumpy/climbing stages; pure sprinter bandwidth exposed (3 races)",
+    "Positioning errors in chaos: boxed badly, abandoned team wheels, left-side acceleration mistakes (3 races)",
+    "Explosive speed from third wheel compensates for positioning weaknesses when setup works (2 races)",
+    "Team deprioritizes him for GC riders (ALAPHILIPPE, GILBERT) when terrain suits climbers (2 races)"
+  ],
+  "form_trajectory": "negative: 2021 showed no systematic leadout support and only seventh place, significant decline from 2018-2019 wins when team fully committed",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "HODEG Alvaro Jose",
+  "built_from": [
+    "2018 Tour de Pologne Stage 2",
+    "2018 Tour de Pologne Stage 3",
+    "2018 Tour de Pologne Stage 3",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2019 BinckBank Tour Stage 2",
+    "2019 BinckBank Tour Stage 5",
+    "2019 BinckBank Tour Stage 5",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Criterium du Dauphine Stage 3",
+    "2021 Tirreno-Adriatico Stage 1"
+  ]
+}

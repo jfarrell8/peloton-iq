@@ -1,0 +1,27 @@
+{
+  "label": "2023 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-08",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 2.5km remaining on the 7km final climb at La Loge des Gardes, bridged to GAUDU's earlier move, dropped him in final kilometer to win and take yellow.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "UAE Emirates domestiques chased breakaway all day signaling Pogačar's aggressive intentions before uphill finish rather than conserving energy.",
+      "Intermediate sprint bonus seconds contested 7km before summit finish showing GC teams willing to expend matches twice in finale.",
+      "Gaudu attacked at 3.5km to go attempting to preempt Pogačar/Vingegaard marked duel, forcing Pogačar to bridge alone.",
+      "INEOS led into climb base but immediately ceded to Gall's Austrian champion Großschartner showing weak mountain train depth."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "negative: attacked first at 5km but couldn't follow Pogačar's bridge to Gaudu, finished 44 seconds down revealing March form deficit",
+      "GAUDU David": "positive: solo attack 3.5km out forced Pogačar to work for stage win, held second at 10 seconds demonstrating Tour leadership credentials",
+      "GALL Felix": "positive: Großschartner as Austrian champion set tempo on climb for Gall's GC suggesting AG2R depth beyond Gaudu",
+      "CORT Magnus": "negative: yellow jersey unable to hold position on 7km at 7.1% exposing weight/climbing limitations for post-Classics shape",
+      "VOKRRI Kevin": "positive: finished ahead of Vingegaard at 44 seconds as young rider showing emerging GC potential in mountain finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:09:55.211381+00:00"
+}

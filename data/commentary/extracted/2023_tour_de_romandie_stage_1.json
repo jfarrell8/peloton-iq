@@ -1,0 +1,29 @@
+{
+  "label": "2023 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-26",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BAUHAUS Phil won bunch sprint after early crash, MATTHEWS Michael captured 5 bonus seconds at intermediate sprints to close GC gap from 14s to 6s behind BETTIOL.",
+    "winner": "BAUHAUS Phil",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MATTHEWS Michael prioritized intermediate sprint bonifications over stage win, tactically targeting GC via time bonuses on flat stage.",
+      "PETERS Nans solo breakaway absorbed only after gaining KOM points, suggesting early-stage points jerseys undefended in opener circuits.",
+      "UAE train crashed approaching intermediate sprint while controlling, revealing over-commitment to minor time bonuses creates positional risk.",
+      "PLAPP Luke attacked for KOM points despite Australian road champion jersey, indicating domestique role prioritizes classification over stage result."
+    ],
+    "rider_signals": {
+      "BAUHAUS Phil": "positive: recovered from early heavy crash to win sprint, showing resilience but vulnerability to crashes on circuit finishes",
+      "MATTHEWS Michael": "positive: executed dual intermediate sprint strategy netting 5s GC gain, tactical discipline prioritizing bonifications over stage hunting",
+      "BETTIOL Alberto": "neutral: defended leader jersey but lost 6s to bonification hunting, UAE train crashed chasing intermediate points",
+      "PETERS Nans": "neutral: lone early attacker for KOM points suggests climber testing form in season opener without GC threat",
+      "STRONG Corbin": "positive: contested both intermediate sprints against faster finishers, aggressive points hunting from breakaway specialist",
+      "HAYTER Ethan": "negative: crashed early requiring bandaging, compromised sprint finish indicates injury impact on performance",
+      "EWAN Caleb": "positive: second place sprint after using MATTHEWS as leadout reference from Schwalbe Classic, learning curve visible"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:26:21.266327+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Not an attacker; positioned as sprint train component who occasionally finishes sprints when lead-out collapses or team lacks dedicated finisher.",
+  "team_tactics": "Functions within Sunweb lead-out as positioning domestique for primary sprinter (Bennett), though capable of salvage role when organization breaks down in final 2km",
+  "terrain_preference": "Flat sprint stages with organized finishes; struggles when chaos disrupts trains in final 2km, lacks explosive acceleration against top-tier lead-out trains like Quick-Step",
+  "vulnerability": "Chaotic sprint finales where positioning is disrupted (evidenced twice in Vuelta); lacks final acceleration horsepower to compete when Quick-Step or similar teams execute cleanly",
+  "key_patterns": [
+    "Serves as lead-out/positioning wheel for Bennett rather than primary finisher (2 observations)",
+    "Lost positioning in final 2km during chaotic finishes, exposing train vulnerability (2 observations)",
+    "Provides salvage option when lead-out collapses but lacks top-tier finishing speed (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistently performing lead-out role but showing same positioning vulnerabilities in chaos without improvement between 2018-2019",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "WALSCHEID Max",
+  "built_from": [
+    "2018 Tour of Guangxi Stage 3",
+    "2019 Vuelta a Espana Stage 3",
+    "2019 Vuelta a Espana Stage 3",
+    "2019 Vuelta a Espana Stage 4",
+    "2019 Vuelta a Espana Stage 4"
+  ]
+}

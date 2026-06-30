@@ -1,0 +1,29 @@
+{
+  "label": "2020 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-16",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ULISSI Diego infiltrated GC group sprint after SAGAN Peter's double-climb strategy failed by 15 seconds, ALMEIDA João gained bonus seconds in second",
+    "winner": "ULISSI Diego",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SAGAN Peter's pre-stage pressure via BODNAR Maciej forcing tempo on penultimate climb isolated DÉMARE Arnaud only temporarily",
+      "Deceuninck Quick-Step using MASNADA Fausto and KNOX James to pace GC group extended gap to SAGAN bridging group final 15km",
+      "ULISSI Diego infiltrating GC group after climbs avoided energy-sapping bridge effort while retaining sprint speed versus pure climbers",
+      "ALMEIDA João targeting intermediate sprint bonus seconds day before TT reveals confident time trial form anticipation"
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "negative: dropped on Muro di Calaone with SWIFT Ben, bridging effort to 15 seconds shows vulnerability on steep pitches",
+      "DÉMARE Arnaud": "positive: re-caught GC group with 20km remaining after being distanced on Roccolo shows exceptional diesel recovery",
+      "ULISSI Diego": "positive: second stage win by infiltrating climber sprint shows tactical opportunism and preserved fast-twitch after selective climbs",
+      "ALMEIDA João": "positive: second place finish targeting bonus seconds day before TT reveals confidence in extending GC lead",
+      "BALLERINI Davide": "negative: sat on SAGAN/SWIFT bridge without contributing then didn't contest sprint shows confused race execution",
+      "MASNADA Fausto": "positive: pacing GC group final kilometers to distance SAGAN shows domestique value beyond mountain stages",
+      "KNOX James": "positive: sharing pace with MASNADA to control GC group reveals expanded role beyond mountain support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:24:11.474453+00:00"
+}

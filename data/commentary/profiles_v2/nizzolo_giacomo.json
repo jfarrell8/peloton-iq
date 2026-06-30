@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Pure sprinter who relies entirely on leadout positioning rather than attacking. Wins from reduced bunch sprints through superior timing and patience, waiting for opponents to fade in final 200m.",
+  "team_tactics": "Heavily dependent on high-quality leadout trains to deliver him into final kilometer. When leadout dissolves or fails (Alpecin-Fenix 2022, multiple Giro instances), rarely able to self-position effectively for contention.",
+  "terrain_preference": "Flat bunch sprints with reduced peloton numbers suit him best. Exposed on any uphill gradients in finales and struggles when pace-making begins 40km+ from finish, getting dropped despite domestique support.",
+  "vulnerability": "Lacks peak raw speed against top-tier sprinters even with perfect positioning. Dropped easily on sustained pace-making or uphill sprint finishes. Cannot compensate when leadout fails in final kilometer.",
+  "key_patterns": [
+    "Excellent positioning but insufficient top-end speed documented across 4 observations spanning 2019-2022",
+    "Relies on timing and patience over power, waiting for premature efforts to fade",
+    "Gets dropped on any sustained pace 40km+ out or uphill finishes (3 observations)",
+    "Heavily leadout-dependent; rarely converts without perfect train delivery into final kilometer",
+    "Record 16 Giro podiums before first win suggests consistent positioning but speed deficit"
+  ],
+  "form_trajectory": "negative: 2022 observations show declining form with leadout failures and being dropped earlier in stages compared to 2020-2021 when he managed wins",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "NIZZOLO Giacomo",
+  "built_from": [
+    "2019 Giro d'Italia Stage 11",
+    "2020 Paris - Nice Stage 2",
+    "2020 Paris - Nice Stage 2",
+    "2020 Tour de France Stage 1",
+    "2021 Giro d'Italia Stage 10",
+    "2021 Giro d'Italia Stage 13",
+    "2021 Giro d'Italia Stage 13",
+    "2022 Giro d'Italia Stage 3",
+    "2022 Tirreno-Adriatico Stage 7"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Prefers opportunistic moves from breakaway positions rather than direct GC attacks. Uses final climbs to bridge groups and fragment cooperation, typically attacking when already in advantageous break positions.",
+  "team_tactics": "Operates with minimal team support, relying on tactical cunning and refusing work to conserve energy. Feigns weakness to avoid pulls, then commits when tactically optimal.",
+  "terrain_preference": "Technical descents are a notable strength (gained time on Froome). Thrives in breakaway scenarios on mixed terrain. Severely exposed on high-altitude summit finishes.",
+  "vulnerability": "Catastrophic weakness on high-altitude summit finishes (lost 4min, dropped from top-10). Marginal GC gains unsustainable against pure climbers on successive mountain stages.",
+  "key_patterns": [
+    "Refuses pulls in breakaways to demoralize chasers and conserve energy (2+ instances)",
+    "Targets GC advancement from non-threatening breakaway positions rather than peloton-based climbing (3+ instances)",
+    "Uses tactical gamesmanship: feigning cramps, sitting on, fragmenting cooperation (3+ instances)",
+    "Technical descending ability gains time on GC rivals (Froome example)",
+    "Late-career GC resilience shown by holding race lead at age 39",
+    "Altitude/sustained summit finishes expose catastrophic weakness (4min losses)"
+  ],
+  "form_trajectory": "neutral: Showed remarkable durability holding Vuelta lead at 39 (2019), but commentary doubted survival on summit finishes, consistent with historical altitude weakness pattern",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "ROCHE Nicolas",
+  "built_from": [
+    "2017 Tour de France Stage 8",
+    "2017 Tour de France Stage 8",
+    "2017 Vuelta a Espana Stage 10",
+    "2017 Vuelta a Espana Stage 11",
+    "2017 Vuelta a Espana Stage 19",
+    "2019 Tour de France Stage 9",
+    "2019 Tour de France Stage 9",
+    "2019 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 3",
+    "2019 Vuelta a Espana Stage 4"
+  ]
+}

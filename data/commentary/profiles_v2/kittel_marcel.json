@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Pure sprinter who launches from 150-250m out, often from disadvantaged positions (8th wheel or deeper). Excels at wheel-surfing and improvising through gaps rather than following linear leadout trains.",
+  "team_tactics": "Relies heavily on dedicated leadout infrastructure (Quick-Step era). When leadout fails or is absent, shows adaptability by jumping wheel-to-wheel through final 500m. Performance collapses entirely without proper team support structure.",
+  "terrain_preference": "Flat, pure sprint stages only. Completely exposed on any undulating or moderately hilly terrain where he gets distanced with multiple teammates, unable to contest intermediate sprints or defend positions.",
+  "vulnerability": "Instantly non-competitive on any terrain with gradient. Struggles dramatically when switching teams without dedicated leadout (Quick-Step to other setup). Wind exposure causes significant fading. Form highly dependent on team infrastructure.",
+  "key_patterns": [
+    "Wins from deep positions (8th+) via late slingshots, not pure leadout power (5 observations)",
+    "Dropped on moderate climbs with teammates, loses 12+ minutes easily (3 observations)",
+    "Peak adaptability when improvising through gaps after leadout failures (4 observations)",
+    "Performance collapses without dedicated Quick-Step infrastructure, invisible after team switch (3 observations)",
+    "Exceptional bike throw and timing in photo finishes, winning from half-length deficits (2 observations)"
+  ],
+  "form_trajectory": "negative: 2017 peak form (5 TdF wins) deteriorated sharply by mid-2018 after team switch, dropping to non-top-30 finishes without Quick-Step leadout infrastructure",
+  "races_analysed": 15,
+  "confidence": "high",
+  "rider_name": "KITTEL Marcel",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
+    "2017 Paris-Nice Stage 1",
+    "2017 Paris-Nice Stage 3",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 14",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 2",
+    "2017 Tour de France Stage 2",
+    "2017 Tour de France Stage 4",
+    "2017 Tour de France Stage 6",
+    "2017 Tour de France Stage 6",
+    "2017 Tour de France Stage 7",
+    "2017 Tour de France Stage 7",
+    "2018 BinckBank Tour Stage 1",
+    "2018 Tirreno-Adriatico Stage 2",
+    "2018 Tirreno-Adriatico Stage 2",
+    "2018 Tirreno-Adriatico Stage 6",
+    "2018 Tirreno-Adriatico Stage 6",
+    "2018 Tour de France Stage 7"
+  ]
+}

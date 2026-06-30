@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-14",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl won by refusing to pull in final kilometer after TEUNISSEN Tijs did all the work, then outsprinting him despite being slower on paper.",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POSTLBERGER Lucas solo attacked the 14-rider break early and extended advantage despite cooperation behind, showing breakaway hesitation vulnerability.",
+      "IMPEY Daryl sat on TEUNISSEN's wheel entire final kilometer, forcing Belgian to set tempo then outsprinting him easily.",
+      "ROCHE Nicolas sat in breakaway group refusing pulls, causing chase demoralization and accelerating group disintegration behind leaders."
+    ],
+    "rider_signals": {
+      "POSTLBERGER Lucas": "positive: sustained solo advantage over cooperating 14-rider chase group including powerful rouleurs, exceptional time-trialing strength",
+      "IMPEY Daryl": "positive: tactically superior in 2-up sprint, let TEUNISSEN do all work final kilometer despite being labeled slower rider",
+      "TEUNISSEN Tijs": "negative: lacked tactical awareness to force IMPEY through in final kilometer, did all pacemaking and lost sprint",
+      "ROCHE Nicolas": "neutral: refused pulls in chase group but stayed with breakaway, tactical sitting-on demoralized chasers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:01:08.355729+00:00"
+}

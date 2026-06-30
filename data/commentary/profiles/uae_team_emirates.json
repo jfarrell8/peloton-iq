@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Employs late-race attacks through domestiques to destabilize rivals rather than direct GC rider offensives. Opportunistic acceleration when other teams initiate, suggesting reactive rather than primary aggression.",
+  "team_tactics": "Flexible approach between full-stage pacing for GC defense and strategic domestique attacks to force rival teams into defensive chasing. Positioning-based control preferred over sustained tempo when defending small margins.",
+  "terrain_preference": "Insufficient data for definitive terrain preference. Observations span mixed parcours showing adaptability to both stage race GC defense and opportunistic scenarios.",
+  "vulnerability": "Appears to lack consistent offensive firepower for sustained tempo control in high-mountain scenarios. Relies on tactical disruption rather than dominant climbing strength to influence GC races.",
+  "key_patterns": [
+    "Uses domestique attacks (De la Cruz example) to isolate rivals and shift defensive burden.",
+    "Strategic pacing deployment: full-stage control when necessary, positioning-only when margin allows efficiency.",
+    "Reactive team tactics: joins rival accelerations rather than consistently dictating race pace themselves."
+  ],
+  "form_trajectory": "unknown: observations span 2018-2021 without sufficient recent concentrated data to assess current trajectory",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "UAE Team Emirates",
+  "built_from": [
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2020 Tour de France Stage 16",
+    "2021 Benelux Tour Stage 6"
+  ]
+}

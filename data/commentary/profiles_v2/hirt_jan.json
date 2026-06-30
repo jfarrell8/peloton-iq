@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets stage wins from long-range moves, capable of finishing with sprint strength when surviving to the line in reduced groups.",
+  "team_tactics": "Astana willing to use him as expendable domestique for GC ambitions, deployed for sustained tempo work until exhaustion. Given freedom to hunt stages when team GC not in play.",
+  "terrain_preference": "Breakaway-friendly stages where reduced bunch sprints favor strong finishers. Can handle sustained climbing efforts but not final selection-making gradients.",
+  "vulnerability": "Sacrificed without hesitation when team GC needs demand it. Gets dropped after extended pacing duties, suggesting limited recovery capacity for multi-day sacrifice.",
+  "key_patterns": [
+    "Functions as expendable domestique for Astana GC goals, worked to exhaustion (2 instances)",
+    "Seeks breakaway stage wins at Grand Tours when given freedom (2 observations)",
+    "Shows sprint capacity in reduced groups, can contest wins from breaks (1 direct observation)",
+    "Stage win hungry but winless at Grand Tour level through 2019 (2 observations)"
+  ],
+  "form_trajectory": "positive: 2019 Giro showed improved stage-hunting aggression and competitiveness compared to pure domestique role in 2018",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HIRT Jan",
+  "built_from": [
+    "2018 Tour of Oman Stage 5",
+    "2019 Giro d'Italia Stage 16"
+  ]
+}

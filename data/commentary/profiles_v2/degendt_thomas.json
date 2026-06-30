@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Aggressive long-range breakaway specialist who targets early moves, prioritizing both KOM and intermediate sprint points to dominate multiple classifications from the front.",
+  "team_tactics": "Appears to operate with freedom for opportunistic breakaway hunting rather than structured team support; autonomous stage-hunting role.",
+  "terrain_preference": "Mountain stages with multiple categorized climbs where KOM points are available; thrives in breakaways on routes with both climbing and sprint intermediate opportunities.",
+  "vulnerability": "Single race data insufficient to identify clear vulnerabilities; likely struggles when race stays controlled or when pure climbers contest KOMs.",
+  "key_patterns": [
+    "Dominates breakaway competitions by targeting multiple objectives (KOM, sprints) simultaneously.",
+    "Early-race aggression to establish breakaway position before selective terrain begins.",
+    "Stage hunting approach focused on points classifications rather than stage win alone."
+  ],
+  "form_trajectory": "positive: demonstrated strong early Giro form with breakaway dominance, suggesting readiness for stage opportunities",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DEGENDT Thomas",
+  "built_from": [
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 2"
+  ]
+}

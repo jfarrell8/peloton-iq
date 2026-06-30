@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-08",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD Tadej won Stage 7 with a 25-meter sprint on 24% gravel finish, taking back-to-back wins and extending yellow jersey lead to 35 seconds.",
+    "winner": "VINGEGAARD Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked on 20% gravel section inside 1km but VINGEGAARD countered in final 25m on steeper 24% gradient.",
+      "UAE had systemic equipment failures with multiple bike swaps early stage, revealing pre-stage prep vulnerability for future mountain stages.",
+      "MARTINEZ Dani animated for INEOS but team still riding defensively despite needing to attack POGACAR/VINGEGAARD dominance.",
+      "Gravel finale at 24-26% gradient neutralized pure climbers, favoring explosive sprint power over sustained climbing rhythm."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "negative: lost time bonuses by finishing second, now 35s down instead of narrowing gap through intermediate attacks",
+      "THOMAS Geraint": "neutral: moved to third overall but losing further time gaps, INEOS still riding passively despite needing aggression",
+      "BARDET Romain": "positive: DSM rider solid on steep finish after strong Giro, emerging as dark horse GC threat",
+      "QUINTANA Nairo": "negative: surprisingly lost time on explosive gravel finish, revealing weakness on super-steep punchy gradients versus sustained climbs",
+      "LETAC Kamil": "positive: went for stage win glory with late attack, showing aggressive tactical approach despite GC position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:24:36.191917+00:00"
+}

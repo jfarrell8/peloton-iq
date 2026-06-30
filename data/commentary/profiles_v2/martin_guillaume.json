@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Opportunistic attacker who strikes in chaotic stages or from breakaways to gain GC time, rather than direct confrontations. Shows aggression in final kilometers (sub-300m) and contests KOM points on intermediate climbs.",
+  "team_tactics": "Operates with autonomy for Cofidis, often positioning aggressively for bonus seconds on categorized climbs. Limited visible domestique support; relies on being missed as secondary GC threat in breaks.",
+  "terrain_preference": "Multi-climb stages where GC teams suffer focus fatigue. Exploits chaos better than pure climbing performance. Vulnerable on sustained final climbs where pure climbing strength matters.",
+  "vulnerability": "Fades on final sustained climbs when pure climbing ability is tested (2 instances in Vuelta). Crash-prone when positioning aggressively early in stages. Physical durability concerns post-crash and with long COVID recovery.",
+  "key_patterns": [
+    "Gains GC time opportunistically from breakaways when teams overlook him as threat (2 observations)",
+    "Contests KOM points aggressively on intermediate climbs even as GC rider (2 observations)",
+    "Positions aggressively early in stages, increasing crash exposure (2 observations)",
+    "Fades on sustained final climbs despite being in contention earlier (2 Vuelta stages)",
+    "Exploits stage chaos to jump GC positions without pure climbing dominance (2 observations)",
+    "Shows ambition beyond domestique role with late-race attacks sub-1km (2 observations)"
+  ],
+  "form_trajectory": "neutral: recovering from long COVID in 2023 but showed preparation; historical pattern of injuries and durability concerns temper optimism",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "MARTIN Guillaume",
+  "built_from": [
+    "2020 Tour de France Stage 12",
+    "2020 Tour de France Stage 4",
+    "2020 Tour de France Stage 4",
+    "2020 Vuelta a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Tour de France Stage 14",
+    "2021 Tour de France Stage 14",
+    "2021 Vuelta a Espana Stage 17",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 15",
+    "2023 Criterium du Dauphine Stage 2"
+  ]
+}

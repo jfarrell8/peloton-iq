@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Precise, calculated attacks on climbs with 4-5km remaining, favoring situations where environmental factors (wind, gradient changes) prevent chase organization. Waits for optimal moment rather than forcing early.",
+  "team_tactics": "Limited evidence of team support; appears to operate independently or without significant domestique lead-out on climbs. Relies on personal timing rather than team-orchestrated setups.",
+  "terrain_preference": "Mountain stages with decisive summit finishes where headwinds or technical finish zones favor solo efforts. Etna-type climbs (volcanic, consistent gradient) appear optimal. Struggles when repeated accelerations required.",
+  "vulnerability": "Cannot respond when decisive moves come in rapid succession or early in long climbs. Visibly struggles in opening kilometers of hard climbs before finding rhythm. Exposed by explosive accelerations rather than sustained tempo.",
+  "key_patterns": [
+    "Struggles early in climbs before finding rhythm; recurring weakness in initial acceleration phases (2 observations)",
+    "Executes precisely-timed attacks at 4-5km from summit when conditions favor solo efforts (1 win)",
+    "Cannot follow when multiple decisive moves happen; loses contact dramatically once initial gap opens (2 observations)",
+    "Protective GC riding over stage hunting in recent years; focused survival over aggression 2022"
+  ],
+  "form_trajectory": "neutral: 2022 showed resilience protecting top-10 GC but with visible struggle; survival mode rather than winning ambition suggests plateau or tactical shift from earlier aggressive wins",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "POLANC Jan",
+  "built_from": [
+    "2017 Giro d'Italia Stage 4",
+    "2019 Giro d'Italia Stage 14",
+    "2022 La Vuelta ciclista a Espana Stage 12"
+  ]
+}

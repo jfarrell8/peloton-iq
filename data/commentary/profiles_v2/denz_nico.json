@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Attacks from established breakaways in the final 10-15km, typically after recovering from near-elimination on climbs. Exploits weakened groups rather than initiating splits, then leverages superior sprint power on technical or uphill finishes.",
+  "team_tactics": "Mixed support—DSM has both protected his breakaway chances and undermined them by chasing him back (2021 Vuelta). Primary pattern is individual opportunism rather than coordinated team setup in breaks.",
+  "terrain_preference": "Technical uphill finishes from medium mountain stages suit him best. Survives categorized climbs despite moments of weakness, then recovers to attack or sprint. Photo finish power on steep gradients (Moosalp 2022).",
+  "vulnerability": "Tactically naive in sprint positioning—forced into premature leadouts when strongest (2019 Giro). Can be nearly dropped on climbs before recovering, suggesting limited pure climbing threshold. GC teams mark him aggressively despite no overall threat.",
+  "key_patterns": [
+    "Won multiple Giro stages from 29-30 rider breakaways, bridging late and sprinting uphill (3 instances, 2023)",
+    "Superior recovery capacity: repeatedly nearly dropped on climbs then attacks 10-15km later (3 documented cases)",
+    "Emerging sprint opportunism on technical finishes after breakaway survival efforts (4 wins show pattern)",
+    "GC teams mark him in breaks despite no overall threat, indicating reputation as dangerous finisher (2023 Vuelta)",
+    "Struggles with sprint tactics when strongest, vulnerable to being forced into leadout role (2019 pattern)"
+  ],
+  "form_trajectory": "positive: Multiple stage wins in 2023 Giro showing repeatable power after bridging efforts. Pattern of recovery and sprint timing has matured since 2019 tactical naivety.",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "DENZ Nico",
+  "built_from": [
+    "2018 Giro d'Italia Stage 10",
+    "2018 Giro d'Italia Stage 10",
+    "2019 Giro d'Italia Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2022 Tour de Suisse Stage 6",
+    "2023 Giro d'Italia Stage 12",
+    "2023 Giro d'Italia Stage 12",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro dItalia Stage 12",
+    "2023 Giro dItalia Stage 12",
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 14",
+    "2023 La Vuelta Ciclista a Espana Stage 15"
+  ]
+}

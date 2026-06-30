@@ -1,0 +1,28 @@
+{
+  "label": "2023 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2023-10-07",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked on Selvino descent with 40km remaining, built 1-minute gap through 19 hairpins where he'd previously struggled, held off elite chase group",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Adam Yates initiated selection on climb before Selvino, forcing elite riders to chase rather than organize controlled pursuit.",
+      "POGACAR reversed his weakness from 2021, attacking on Selvino's 19-hairpin descent rather than struggling, gaining 45 seconds descending.",
+      "UAE isolated POGACAR early with no teammates, yet he executed solo effort over 40km against organized chase groups.",
+      "Olympic champion CARAPAZ dropped on key climb selection, showing road race form doesn't translate to late-season monument climbing."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: cramped at 12km to go but recovered to maintain 1-minute gap, showing superior crisis management in monuments",
+      "EVENEPOEL Remco": "negative: crashed 21km in and never featured in decisive selections, eliminated before Adam Yates initiated key move",
+      "YATES Adam": "positive: animated winning move by attacking first on climb before Selvino, controlling tempo for brother Simon",
+      "CARAPAZ Richard": "negative: Olympic champion dropped when elite group formed, significant gap between championship and monument-specific fitness",
+      "MAS Enric": "negative: first major casualty before climb selections began, suggesting Movistar's preparation failed",
+      "ROGLIC Primoz": "neutral: third place in final race for Jumbo-Visma before transfer, showed loyalty but couldn't match POGACAR's descent attack"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:04:06.878196+00:00"
+}

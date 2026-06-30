@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Solo opportunistic attacks in technical finales, exploiting adverse conditions and gaps in sprinter team control. Willing to commit fully despite limited team support.",
+  "team_tactics": "Operates with minimal to no team support, relying on personal initiative rather than coordinated setups. Independent offensive rider.",
+  "terrain_preference": "Wet, technical circuit finales where handling skills and positioning matter more than raw power. Thrives when sprinter teams face control challenges.",
+  "vulnerability": "Lack of team support leaves attacks isolated. Final kilometer power appears insufficient to hold off organized chase groups.",
+  "key_patterns": [
+    "Commits to solo attacks in challenging conditions when stronger teams struggle with race control.",
+    "Shows willingness to attack without team backup, relying on individual opportunism over coordination.",
+    "Strong in technical finales but lacks final kick to hold off chasers in last 700m."
+  ],
+  "form_trajectory": "unknown: single observation shows capability but insufficient data to assess trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BETANCOURT Carlos",
+  "built_from": [
+    "2018 Giro d'Italia Stage 12",
+    "2018 Giro d'Italia Stage 12"
+  ]
+}

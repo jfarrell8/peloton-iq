@@ -1,0 +1,29 @@
+{
+  "label": "2019 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-09",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FULGSANG Jakob attacked from 17km breakaway, held off GEOGHEGAN HART by 22 seconds after ROGLIC successfully defended red jersey despite visible vulnerability late on final climb.",
+    "winner": "FULGSANG Jakob",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC isolated 1km from summit but limited losses through pacing control rather than attacking strength, revealing defensive posture.",
+      "LOPEZ Superman and POGACAR cooperated despite 17-second GC gap between them, prioritizing time gains over teammate VALVERDE who was dropped.",
+      "BRAMBILLA refused pulls in break before cracking, suggesting teams sending riders up road without fitness to contribute tactically.",
+      "BOUCHER attacked too early for KOM points on first climb, allowing MADRAZO to respond and contest, showing anxiety cost him efficiency."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: isolated and visibly vulnerable final kilometer, gained breathing space only through rivals' hesitation not own strength",
+      "LOPEZ Superman": "positive: found climbing legs after poor recent form, prioritized GC over protecting dropped teammate Valverde",
+      "POGACAR Tadej": "positive: collaborated with Lopez despite being GC rivals, showed tactical maturity to maximize time gains on others",
+      "VALVERDE Alejandro": "negative: dropped from GC group and required Movistar pacing to limit losses to 21 seconds, concerning for second place",
+      "QUINTANA Nairo": "negative: lost over 2 minutes and slipped from 5th to 6th, dropped to Valverde group indicating declining form",
+      "GEOGHEGAN HART Tao": "positive: chased down 17-second gap on Fulgsang alone after breakaway split, finishing second shows strong climbing development",
+      "FULGSANG Jakob": "positive: attacked 17km climb from breakaway and held off strong chaser, career-best form after Tour disappointment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:07:47.489749+00:00"
+}

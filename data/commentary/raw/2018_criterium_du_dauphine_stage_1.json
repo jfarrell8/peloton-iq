@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2018-06-04",
   "stage": 1,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "jJHwK4dgntI",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=jJHwK4dgntI",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 87,
+    "raw_chars": 2989,
+    "clean_chars": 2927,
+    "duration_mins": 4.1,
+    "clean_text": "today's races headed for surgery Samuel Bayer a pretty town in the Loire for a 179 kilometers stage the final part of the stage is a 12.5 kilometer loop with a nice steep slope at the garage on down and they'll have to climb twice soon after the stage kickoff came the first climb and the first breakaway with three races on the offensive briefs for you Nicola a day and Lawson Craddock quickly took their distances to fight over points for the climbers Jersey clearly the day's targets for these inveterate fighters the escape groups gap peaked at about six minutes at kilometer 50 Nicola a day took the lead in the quoi male climb 40 kilometers from the finish the three men were still escapees as they crossed the line for the first time 24 kilometres from the finish but ten kilometers away from the line the peloton was back together making a bunch sprint inevitable in the day's final climb the peloton stuff guys shook off the opposition Julien Alif a leap didn't uns along with Roman body Michele Viet cough ski and gained Thomas ended up in front leaving the true sprinters behind on the line in Sanju Saahil bear a dual opposing Judy and a la Filipe and Daryl Impey and victory fell on the mitchelton SWAT team South African racer with Bora Hansbrough as Pascal Ackerman taking third place Daryl Impey took everyone by surprise in surgery son or bear against all odds the South African Rose raid champion climbed among the favorites and stage victory came within his reach to winning this year's Down Under tour he snagged his first stage victory in a prestigious week-long race it remains to be seen if he can now keep up with the leaders in the next few days a name for a bigger win he certainly did well today he's now in second place to second out behind leader Michele fat costly I shouldn't feel too good actually told Edmondson that he should go for the final himself if I'm there in the end I'll try but don't look after me so that surprised myself exit the end I found myself in a good position and then decided to go 200 meters and is a long way out but Daryl Impey won the sprint in surgery saw a bear ahead of Julian Alex a deep and German race recommen about 60 races only are in the top group no major surprises for the favorites with via kospi finishing in fifth place in the overall ranking with a ten-second time bonus in payors now just two seconds behind Curtis racing via coughs key stood in an awfully Prost 5th place while Bob jungles overall is definitely one to watch mummy's on bed needle on the map the second stage of this year's doe female from the lower to the roam with no less than four categories free mountain passes along the 180 point 5 kilometer route the last part of boudewijn ass is about 13 kilometers away from the finish line and it sixths could descent it's 6% fashion gradients sure to skim the peloton leaving survivors to fight it out on the final climb to Belleville you",
+    "preview_start": "today's races headed for surgery Samuel Bayer a pretty town in the Loire for a 179 kilometers stage the final part of the stage is a 12.5 kilometer loop with a nice steep slope at the garage on down and they'll have to climb twice soon after the stage kickoff came the first climb and the first breakaway with three races on the offensive briefs for you Nicola a day and Lawson Craddock quickly took their distances to fight over points for the climbers Jersey clearly the day's targets for these inv",
+    "preview_end": "fully Prost 5th place while Bob jungles overall is definitely one to watch mummy's on bed needle on the map the second stage of this year's doe female from the lower to the roam with no less than four categories free mountain passes along the 180 point 5 kilometer route the last part of boudewijn ass is about 13 kilometers away from the finish line and it sixths could descent it's 6% fashion gradients sure to skim the peloton leaving survivors to fight it out on the final climb to Belleville you"
+  },
+  "status": "transcript_saved"
 }

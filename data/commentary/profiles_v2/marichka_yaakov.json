@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Sprint specialist who holds position until final 300m before launching. Prefers flat finishes where leadout can deliver optimal positioning.",
+  "team_tactics": "Bianchi-Triestina provides dedicated leadout train. Team controls race to protect leader's jersey while setting up sprint finishes.",
+  "terrain_preference": "Flat stages suit best, demonstrating repeated success on Chinese flat terrain. Sprint finishes where positioning and timing are decisive.",
+  "vulnerability": "Insufficient data to determine specific weaknesses. Single race sample limits tactical vulnerability assessment.",
+  "key_patterns": [
+    "Holds sprint launch until final 300m, demonstrating patience and timing discipline.",
+    "Relies heavily on team leadout rather than independent positioning or launches.",
+    "Capable of combining GC defense with stage hunting in stage races."
+  ],
+  "form_trajectory": "positive: Won fourth stage and held race lead with 19-second margin, showing sustained dominance",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MARICHKA Yaakov",
+  "built_from": [
+    "2017 Tour de Pologne Stage 6",
+    "2017 Tour de Pologne Stage 6"
+  ]
+}

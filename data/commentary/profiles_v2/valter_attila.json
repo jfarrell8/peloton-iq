@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Does not typically initiate attacks; relies on positioning and limiting losses rather than explosive moves. Struggles to respond when terrain combines technical challenges with sustained gradients.",
+  "team_tactics": "Limited evidence of dedicated team support for attacks. Appears to ride defensively, focusing on maintaining position rather than orchestrating offensive moves through team tempo.",
+  "terrain_preference": "Performs best on sustained climbs without technical complications. Gravel sectors and mixed-surface terrain expose significant weaknesses, particularly when combined with gradients.",
+  "vulnerability": "Gravel-gradient combinations cause severe time losses (49 seconds in single stage). Chase coordination and tactical execution in decisive moments also problematic, failing to capitalize on reduced gaps.",
+  "key_patterns": [
+    "Struggles on gravel surfaces: lost pink jersey and 49s on gravel-climb combo (2 observations)",
+    "Strong individual efforts undermined by tactical/coordination failures in finale (2 observations)",
+    "Capable of limiting gaps to top GC riders on standard climbs early-career (2 observations)",
+    "Recovery/resilience after setbacks: strongest in chase after early crash at Strade (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 showed physical strength (best of chase group) but persistent tactical execution problems that plagued 2021 Giro remain unresolved",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VALTER Attila",
+  "built_from": [
+    "2021 Giro d'Italia Stage 6",
+    "2021 Giro d'Italia Stage 9",
+    "2023 Strade Bianche"
+  ]
+}

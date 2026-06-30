@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2021-05-01",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "WOODS won atop Thyon 2000 after THOMAS crashed within final 50 meters while contesting sprint, losing 21 seconds despite bridging late solo attack.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "WOODS refused cooperation after THOMAS bridged 6km attack, gambling TT advantage would prevent yellow jersey trade-off.",
+      "THOMAS bridged solo to late breakaway survivor showing GC climbing form, immediately contested stage despite yellow deficit.",
+      "Breakaway duo CORT and PETILLI imploded final 3km when peloton surge fragmented cooperation before summit finish.",
+      "O'CONNOR finished third on stage marking THOMAS bridge while avoiding work, revealing conservative GC positioning over stage hunting."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: Confident enough in TT superiority over THOMAS to refuse cooperation after 6km attack was bridged, tactically mature.",
+      "THOMAS Geraint": "positive: Bridged solo to breakaway remnants showing strong climbing despite crash losing time, aggressive GC racing not defensive.",
+      "O'CONNOR Ben": "neutral: Marked late moves for podium finish but avoided offensive tactics, playing safe GC card before time trial.",
+      "SOLER Marc": "negative: Lost 33 seconds as pre-stage yellow jersey, unable to follow aggressive late pace set by THOMAS bridge."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:13:07.734052+00:00"
+}

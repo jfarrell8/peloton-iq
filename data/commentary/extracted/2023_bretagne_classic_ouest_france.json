@@ -1,0 +1,25 @@
+{
+  "label": "2023 Bretagne Classic - Ouest-France",
+  "race_name": "Bretagne Classic - Ouest-France",
+  "race_date": "2023-09-03",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SKELMOSE Mattias attacked solo on the final lap with 32 seconds gap, holding off four chasers who were tactically paralyzed after 4h10m of chaotic racing",
+    "winner": "SKJELMOSE Mattias",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SKELMOSE Mattias exploited teammate SCREECH Tom's repeated counterattacks to mask his own winning move on final lap",
+      "HARPER Chris and HAMILTON Lucas cancelled each other with two Jayco riders in five-man selection, enabling Lotto Trek numerical advantage",
+      "Race fractured definitively after 40km mirroring 2022 pattern, suggesting early Breakaway commitment critical for Maryland profile"
+    ],
+    "rider_signals": {
+      "SKJELMOSE Mattias": "positive: survived multiple dropped moments in selection then had residual power for solo final lap attack",
+      "SCREECH Tom": "positive: sacrificed own result with repeated attacks to set up SKELMOSE, elite domestique execution",
+      "HAMILTON Lucas": "neutral: made five-rider selection but tactically neutralized by HARPER presence, lacked finishing speed for third",
+      "HOULE Hugo": "neutral: made podium from selection but never countered SKELMOSE move, conservative racing for third"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:58:00.214156+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-21",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won from breakaway while PINOT attacked final 4km, ALAPHILIPPE cracked but defended yellow by 27 seconds aided by THOMAS pacing.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "PINOT attacked with 4km to summit, exploiting ALAPHILIPPE's isolation after teammates dropped, gaining crucial time on yellow.",
+      "THOMAS paced ALAPHILIPPE back when cracked, showing Ineos prioritized defending yellow over BERNAL's GC ambitions mid-stage.",
+      "BERNAL attempted to follow PINOT's acceleration but cracked, revealing yellow jersey defense trumped team leader ambitions for Ineos.",
+      "ALAPHILIPPE survived with no teammates for many kilometers despite multiple accelerations, suggesting deep reserves but tactical vulnerability when isolated."
+    ],
+    "rider_signals": {
+      "PINOT Thibaut": "positive: Attacked 4km from summit with such power BERNAL couldn't hold wheel, exceptional climbing form throughout tour",
+      "ALAPHILIPPE Julian": "negative: Cracked on final climb requiring THOMAS pacing, lost 27 seconds but vulnerability signals yellow unsustainable in Alps",
+      "BERNAL Egan": "negative: Couldn't hold PINOT's wheel 4km out despite trying, revealing Ineos hierarchy favors defending ALAPHILIPPE over BERNAL attacks",
+      "THOMAS Geraint": "positive: Strong enough to pace ALAPHILIPPE back when isolated, defending champion showing form but team tactics prevent personal ambition",
+      "LANDA Mikel": "positive: Came from depths of peloton to contend for podium, master of steady tempo climbing gained significant time",
+      "URAN Rigoberto": "negative: Lost over 3 minutes starting day in seventh overall, major collapse from EF leader"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:57:48.849934+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Not a natural attacker; relies on positioning discipline and tactical craft in final kilometers rather than explosive accelerations. Most effective on steep summit finishes where positioning and cornering technique matter more than pure power.",
+  "team_tactics": "Movistar sets tempo through domestiques but Mas struggles to capitalize on team-created advantages. Team occasionally prioritizes his stage opportunities (sprint finishes, bonus seconds) over conservative GC defense.",
+  "terrain_preference": "Steep summit finishes where race craft and positioning trump raw explosiveness. Technical final kilometers with corners favor his tactical maturity. Exposed on climbs requiring sustained acceleration responses.",
+  "vulnerability": "Cannot follow or match explosive accelerations from pure climbers like Roglic. Collapses when forced to respond repeatedly to high-intensity surges in final kilometers, losing significant time (2:43 observed).",
+  "key_patterns": [
+    "Excels through positioning and tactical intelligence rather than raw climbing power (3 instances)",
+    "Consistently struggles to match explosive accelerations from top-tier climbers like Roglic (3 instances)",
+    "Shows superior race craft versus faster finishers in technical conclusions (2 instances)",
+    "Team tempo-setting doesn't guarantee ability to follow when race intensifies (2 instances)",
+    "Competes for bonus seconds and stage placings even as GC rider (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 shows continued tactical sharpness (sprint for 5th) but no evidence of improved ability to match explosive climbers that has plagued him since 2020-2022",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "MAS Enrique",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 20",
+    "2018 Vuelta a Espana Stage 20",
+    "2020 Vuelta a Espana Stage 8",
+    "2021 Vuelta a Espana Stage 11",
+    "2022 Vuelta a Espana Stage 14",
+    "2022 Vuelta a Espana Stage 4",
+    "2023 Vuelta a Espana Stage 1"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-09",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello soloed to victory from a 25-rider breakaway on final climb after YATES Adam's acceleration split favorites but couldn't bridge.",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AG2R deployed dual tactic: BARDET Romain drilled peloton on Col de Prey, then released LATOUR Pierre ahead into break.",
+      "BILBAO Pello held 21 seconds over chasers despite YATES Adam pulling THOMAS Geraint and MARTIN Dan halfway up final climb.",
+      "Sky's pursuit after LATOUR Pierre regained breakaway proved insufficient; 25-rider break too strong to eliminate on final ascent."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: recovered from empty Giro-induced bad day to finish second, conducted teammates wisely before attacking final kilometer",
+      "NIBALI Vincenzo": "negative: distanced when AG2R raised tempo on Col de Prey, unable to stay with favorites group",
+      "MOSCON Gianni": "negative: dropped when peloton fractured under AG2R pressure on Col de Prey",
+      "JUNGELS Bob": "negative: shed from favorites group during AG2R acceleration on Col de Prey",
+      "BARDET Romain": "positive: set crippling rhythm on Col de Prey fracturing peloton, then attacked after summit though unsuccessful",
+      "LATOUR Pierre": "positive: bridged from peloton after Col de Prey summit back to 25-rider breakaway, AG2R tactical asset",
+      "YATES Adam": "positive: only rider to meaningfully accelerate halfway up final climb, pulled elite group chasing BILBAO",
+      "MARTIN Dan": "positive: followed YATES Adam's acceleration into chase group, finished third day after stage win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:22:28.328050+00:00"
+}

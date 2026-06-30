@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-08",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim won uphill finish after pinch-point crash 1.1km out fractured peloton, outsprinting Woods and G.Bennett on final grind",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pinch-point crash at 1.1km created selection before official climb started, rewarding front positioning over pure climbing legs.",
+      "KOM jersey holder Battaglin contested intermediate climb against Frapporti to secure points gap, ignoring breakaway cooperation dynamics.",
+      "Breakaway caught inside final 2km despite uphill finish, suggesting teams misjudged power balance or intentionally delayed chase."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: Won uphill finish against recognized climbers Bennett/Woods/Yates, suggesting stronger punch than classification indicates",
+      "DENNIS Rohan": "positive: Pink jersey limited losses on uphill finish after late-race pinch crash, positioning better than expected",
+      "YATES Simon": "negative: Failed to capitalize on uphill finish despite being perfectly positioned, Bennett dragging him forward",
+      "BENNETT George": "neutral: Attacked early on final climb but lacked finishing speed, perhaps testing form rather than genuine winning move",
+      "BATTAGLIN Enrico": "positive: Tactically contested intermediate KOM against breakaway companion, prioritizing jersey over cooperation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:21:51.585446+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HEALY Ben soloed to victory attacking 50km out on the penultimate climb while ROGLIC Primoz gained 14 seconds on EVENEPOEL Remco in GC group.",
+    "winner": "HEALY Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HEALY Ben attacked 50km out on first ascent of Salita Capuccini, proving early isolation works when breakaway fatigues.",
+      "ROGLIC Primoz exploited EVENEPOEL Remco's weakness on final climb despite INEOS duo THOMAS-HART pacing, gaining 14 seconds tactically.",
+      "DSM controlled peloton for intermediate sprint to protect MILAN Jonathan's ciclamino lead, revealing jersey defense overrides GC support.",
+      "Breakaway took 80km to establish on unclassified opening climb, suggesting teams gambled on hard finish neutralizing early moves."
+    ],
+    "rider_signals": {
+      "HEALY Ben": "positive: Won by 1:49, largest margin in 5 years, attacking 50km out shows exceptional form progression beyond spring classics.",
+      "EVENEPOEL Remco": "negative: Lost 14 seconds to ROGLIC on final climb, first visible weakness before crucial 35km TT where he's favorite.",
+      "ROGLIC Primoz": "positive: Attacked final climb tactically to gain time before TT, now 30 seconds behind, showing recovery from early deficit.",
+      "LEKNESSUND Andreas": "neutral: Retained pink by 8 seconds despite defensive riding, vulnerable position before specialist TT stage.",
+      "THOMAS Geraint": "positive: Paced EVENEPOEL with HART on final climb, INEOS deploying dual GT winners as domestiques reveals GC commitment."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:04:46.998434+00:00"
+}

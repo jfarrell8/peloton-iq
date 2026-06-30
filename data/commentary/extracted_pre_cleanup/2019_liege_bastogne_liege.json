@@ -1,0 +1,33 @@
+{
+  "label": "2019 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2019-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob attacked solo over the final climb with 13km remaining, nearly crashed on a descent corner but held on for victory.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FUGLSANG Jakob attacked immediately after WELLENS Tim's acceleration crested the final climb, exploiting momentary hesitation from ALAPHILIPPE.",
+      "VALVERDE Alejandro abandoned early with 103km remaining, forcing Movistar into aggressive racing without their designated leader.",
+      "VAN AVERMAET Greg launched multiple probing attacks 70-74km from finish, testing legs before decisive selection occurred.",
+      "ALAPHILIPPE cracked on final 1.3km climb despite being at front, working backwards as FUGLSANG counterattacked over summit.",
+      "WOODS Michael bridged to FUGLSANG group but cracked before descent, revealing inability to follow explosive final acceleration."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: Won after podiums in every prior classic this season, showed timing precision attacking exactly at summit.",
+      "ALAPHILIPPE Julian": "negative: Uncharacteristically cracked on final climb, unable to respond to FUGLSANG counterattack after WELLENS move.",
+      "VALVERDE Alejandro": "negative: Abandoned at 103km to go, significant reliability concern for monuments despite veteran status.",
+      "VAN AVERMAET Greg": "neutral: Multiple attacks mid-race showed form but faded before decisive selection, unable to follow final climb.",
+      "WOODS Michael": "negative: Bridged to lead group but cracked on descent pursuit, legs failed at critical moment.",
+      "FORMOLO Davide": "positive: Second place, followed FUGLSANG's winning move and held on when WOODS couldn't.",
+      "SCHACHMANN Maximilian": "positive: Third place from chase group, strong finish when favorites like ALAPHILIPPE faltered.",
+      "YATES Adam": "neutral: Fourth place, consistent in chase but couldn't bridge to FUGLSANG despite being present at selection.",
+      "NIBALI Vincenzo": "neutral: Present in final selection group but no podium, sprinted for minor positions.",
+      "WELLENS Tim": "neutral: Launched the initial acceleration on final climb that caused selection, but cracked immediately after."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:00:33.739850+00:00"
+}

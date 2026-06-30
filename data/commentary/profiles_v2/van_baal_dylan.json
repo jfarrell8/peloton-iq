@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic bridging rider who attacks on climbs to join lead groups rather than distancing others, then contests finishes from reduced selections. Shows willingness to go solo when tactical situations favor it.",
+  "team_tactics": "Frequently deployed as super-domestique with late-stage pulling duties (4km+ efforts), but given freedom to contest results when team leader situation allows. Movistar uses his engine for stage prioritization over GC support.",
+  "terrain_preference": "Hilly Classics and medium mountain stages where power-to-weight allows bridging to selections. Strong time trial capability (sub-10 minute benchmark) suits hybrid race situations. Monument-level parcours brings out best race-craft.",
+  "vulnerability": "Unclear primary role creates tactical ambiguity—strong enough to lead but often relegated to support. May lack pure climbing watts for sustained GC mountain defense despite TT strength.",
+  "key_patterns": [
+    "Bridges solo to lead groups on climbs then contests finish (2 observations, 2018-2022)",
+    "Performs extended late-stage pulls for teammates despite having own result potential (2 observations)",
+    "Demonstrates superior tactical reading in reduced bunch scenarios, exploits non-cooperation (2 observations)",
+    "Shows TT strength beyond typical domestique profile, potential GC support asset (2 observations)"
+  ],
+  "form_trajectory": "positive: Monument podium (2nd Flanders 2022) from chase group shows tactical maturity and peak Classics form, upgraded from Grand Tour domestique role",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "VAN BAAL Dylan",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 1",
+    "2018 Vuelta a Espana Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2022 Ronde van Vlaanderen - Tour des Flandres"
+  ]
+}

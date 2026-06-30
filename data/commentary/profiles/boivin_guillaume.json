@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets intermediate points (sprints and KOM) for visibility rather than stage wins. Attacks early in stages to maximize exposure time.",
+  "team_tactics": "Israeli Academy uses him for promotional breakaways rather than protected riding. Given freedom to hunt points classifications and camera time without expectation of stage victory contention.",
+  "terrain_preference": "Suited to transitional stages where breakaways can gain extended airtime. Less effective in pure sprint finishes where positioning chaos becomes critical.",
+  "vulnerability": "Exposed in late-race technical sections and crashes due to positioning further back in bunch. Sprint finishes show limitations when peloton remains intact.",
+  "key_patterns": [
+    "Targets intermediate points from breakaways for team visibility (2 instances observed)",
+    "Affected by late-race positioning chaos, caught behind splits/crashes (2 instances)",
+    "Deployed for promotional/exposure tactics rather than results-oriented missions (2 instances)"
+  ],
+  "form_trajectory": "unknown: insufficient recent data, but 2020 incident suggests continued domestique/breakaway role rather than leadership evolution",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BOIVIN Guillaume",
+  "built_from": [
+    "2018 Giro d'Italia Stage 3",
+    "2020 BinckBank Tour Stage 1"
+  ]
+}

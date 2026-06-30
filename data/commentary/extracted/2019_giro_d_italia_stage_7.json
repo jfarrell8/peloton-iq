@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BILBAO Pello won from 8-rider breakaway on uphill finish after attacking with 1900m to go, exploiting hesitation among chasers.",
+    "winner": "BILBAO Pello",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE PLUS Laurens abandoned after previous day breakaway effort, proving recovery cost from non-productive breaks in Grand Tours.",
+      "BILBAO attacked 1900m out when chasers hesitated looking at each other, demonstrating how indecision creates decisive gaps on gradual finales.",
+      "PEDRERO Antonio pulled exceptionally hard for ROJAS despite both being in breakaway, revealing Movistar willing to sacrifice one leader for another.",
+      "UAE struggled to control after intermediate sprint with only two riders working, forcing BORA to contribute despite no sprint interest."
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "negative: abandoned day after breakaway work, critical loss for ROGLIČ's mountain support depth",
+      "BILBAO Pello": "positive: timed 1900m attack perfectly when rivals hesitated, showed strong finishing power despite long breakaway",
+      "PEDRERO Antonio": "positive: pulled aggressively for breakaway companion ROJAS despite own GC ambitions, strong domestique instincts",
+      "CONTI Valerio": "neutral: pink jersey team required BORA assistance to control, revealing UAE lacks chase depth",
+      "FORMOLO Davide": "neutral: third place but unable to follow BILBAO's decisive acceleration with 1900m remaining"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:58:56.691670+00:00"
+}

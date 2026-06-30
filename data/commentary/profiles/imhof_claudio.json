@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Early breakaway specialist who targets KOM points in first half of races, launching solo or small group efforts well beyond 100km from finish on mountain stages.",
+  "team_tactics": "Operates with autonomy in early breaks without visible team support; appears assigned to collect KOM points while teams behind control pace for sprinters/GC riders.",
+  "terrain_preference": "Mountain stages with early categorized climbs where KOM points are available before peloton organizing chase; benefits from controlled race scenarios where break is permitted long leash.",
+  "vulnerability": "Mechanicals have disrupted two observed long-range efforts; lacks firepower to stay away once peloton commits to organized chase in final 35km; dependent on teams granting freedom.",
+  "key_patterns": [
+    "Targets early breakaways specifically for KOM point accumulation, successful in both observed races.",
+    "Sustains 100km+ solo or small group efforts before organized peloton catch.",
+    "Mechanicals disrupted both observed breakaway attempts (12km and 100km+ marks).",
+    "Caught within final 35km window when peloton executes controlled chase."
+  ],
+  "form_trajectory": "neutral: Successfully executing breakaway/KOM strategy consistently but mechanicals prevented testing true staying power; role appears defined rather than form-dependent",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "IMHOF Claudio",
+  "built_from": [
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 5"
+  ]
+}

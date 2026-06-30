@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Premeditated breakaway specialist who forces selections early in climbs (before final ascent) to fragment groups. Targets stages identified through reconnaissance, attacking when companions are still recovering from prior efforts.",
+  "team_tactics": "Operates with independence in breakaways rather than team support. Relies on equipment selection (climbing bikes on targeted stages) and personal positioning to create winning scenarios from long-range moves.",
+  "terrain_preference": "Multi-climb stages where he can accumulate KOM points and exploit fragmentation opportunities. Thrives on 10+ minute breakaways culminating in 12km+ climbs where attrition works in his favor.",
+  "vulnerability": "Poor energy management when forced to respond to counters rather than control pace. Gets dropped when others attack after he's already made multiple failed attempts, suggesting limited recovery capacity.",
+  "key_patterns": [
+    "Reconnaissance-driven stage selection, choosing equipment and tactics days in advance (2 instances)",
+    "Forces breakaway fragmentation before final climb, not on it (2 instances)",
+    "Consistently infiltrates breakaways across multiple stages to accumulate KOM points (Vuelta 2018)",
+    "Vulnerable when making multiple attacks without success, leading to dropped status (Tour 2019)"
+  ],
+  "form_trajectory": "negative: 2019 Tour showed deteriorated race intelligence with failed multiple attacks and poor energy management, contrasting with calculated 2018 Vuelta success",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "KING Ben",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 13",
+    "2018 Vuelta a Espana Stage 4",
+    "2018 Vuelta a Espana Stage 4",
+    "2018 Vuelta a Espana Stage 4",
+    "2019 Tour de France Stage 17"
+  ]
+}

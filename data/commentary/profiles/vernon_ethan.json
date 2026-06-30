@@ -1,20 +1,24 @@
 {
-  "attacking_style": "Does not initiate attacks; relies on fast finish in bunch sprints when gradients are minimal. Opportunistic sprinter who capitalizes on depleted fields rather than creating opportunities.",
-  "team_tactics": "Quick-Step provides traditional sprint train support, though Vernon has shown ability to win without full leadout when field is reduced. Team positioning appears standard for sprint preparation.",
-  "terrain_preference": "Flat to minimal gradient finishes where pure speed decides. Struggles on late climbs or drag finishes that require sustained power over variable terrain.",
-  "vulnerability": "Late-race climbs and drag finishes expose clear climbing deficit. Cannot contest sprints when even moderate gradients thin the bunch, despite team support.",
+  "attacking_style": "Pure sprinter who relies on team-delivered positioning rather than late attacks. Performs best on slight uphill ramps where power-to-weight gives marginal advantage over pure flat sprinters.",
+  "team_tactics": "Soudal-Quick-Step deploys long, energy-intensive leadout trains that can be beaten by shorter, better-timed efforts. Team willing to opportunistically position him even during GC-focused stages when peloton fractures.",
+  "terrain_preference": "Slight ramp finishes where climbing ability separates pure sprinters (Catalunya Stage 3 victory). Struggles on long drags and selective finishes that require sustained climbing power (Romandie).",
+  "vulnerability": "Dropped on any sustained climbing or long drags. Team's long leadout trains waste energy in technical finales, leaving him exposed to better-timed rival efforts. Lacks firepower against top-tier sprinters on pure flat finishes.",
   "key_patterns": [
-    "Dropped on late drag finishes, preventing sprint contest despite team support (2 observations)",
-    "Wins sprints from reduced/depleted fields rather than full bunch scenarios (2 observations)",
-    "Can finish without traditional leadout, suggesting superior raw speed over positioning dependency (2 observations)"
+    "Dropped on selective finishes with sustained climbing; cannot contest beyond flat/slight ramp terrain.",
+    "Team deploys long leadout trains that get outmaneuvered by shorter, energy-conserving rival efforts.",
+    "Best results on slight uphill finishes where power beats pure speed sprinters.",
+    "Quick-Step opportunistically positions him even during GC-focused races when peloton control weakens."
   ],
-  "form_trajectory": "negative: Showed speed at Catalunya in March but climbing weakness exposed at Romandie in April prevented finishing",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "negative: 2023 Dauphiné showed insufficient firepower versus top sprinters despite heavy team investment, downward trend from 2022 Catalunya success",
+  "races_analysed": 4,
+  "confidence": "medium",
   "rider_name": "VERNON Ethan",
   "built_from": [
     "2022 Tour de Romandie Stage 2",
+    "2022 Volta Ciclista a Catalunya Stage 2",
     "2022 Volta Ciclista a Catalunya Stage 5",
-    "2022 Volta Ciclista a Catalunya Stage 5"
+    "2022 Volta Ciclista a Catalunya Stage 5",
+    "2023 Criterium du Dauphine Stage 3",
+    "2023 Criterium du Dauphine Stage 3"
   ]
 }

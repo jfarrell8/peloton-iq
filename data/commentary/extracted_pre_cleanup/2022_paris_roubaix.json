@@ -1,0 +1,33 @@
+{
+  "label": "2022 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2022-04-17",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN BAARLE Dylan won after INEOS exploited early crosswinds, LAMPAERT crashed late from the lead group, and VAN DER POEL Mathieu failed tactically despite being present",
+    "winner": "VAN BAARLE Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo initiated early echelon split in crosswinds before cobbles, eliminating PEDERSEN Mads via positioning crash",
+      "INEOS pre-emptively shelled race with gutter riding before pave sectors, suggesting crosswind reconnaissance overrides cobble-focused preparation",
+      "VAN DER POEL Mathieu declined to chase critical moves despite presence, indicating energy reservation backfired against committed riders",
+      "LAMPAERT Yves crashed from winning position late, suggesting fatigue-induced handling errors outweigh pure power in finale",
+      "TURNER Ben delivered exceptional domestique work despite late crash, enabling VAN BAARLE victory through positioning sacrifice"
+    ],
+    "rider_signals": {
+      "VAN BAARLE Dylan": "positive: transformed from previous year's time-cut elimination to victory, indicating INEOS system refinement",
+      "GANNA Filippo": "positive: orchestrated decisive early echelon split using crosswinds before pave, showing tactical initiative beyond time-trialing specialty",
+      "VAN DER POEL Mathieu": "negative: present in finale but refused to chase moves, tactical passivity cost podium after surviving entire race",
+      "LAMPAERT Yves": "negative: crashed from leading group late despite superior form, positioning error from fatigue negated strongest ride",
+      "KUNG Stefan": "positive: third place despite being caught by chase group suggests time-trial power translates when sprint contention reduced",
+      "DEVRIENDT Tom": "positive: fourth place as complete unknown reveals breakaway survival outweighs reputation in reduced sprint finales",
+      "PEDERSEN Mads": "negative: crashed before cobbles during echelon formation at 36mph, early positioning error cascaded into chase deficit",
+      "STUYVEN Jasper": "positive: seventh despite appearing dead final 50km, suggests recovery capacity underestimated in fatigue assessment",
+      "TURNER Ben": "positive: 10th-11th after critical late domestique work and crash, sacrifice timing maximized leader outcome",
+      "SÉNÉCHAL Florian": "neutral: top-15 finish as regional rider, local knowledge advantage appears marginal in modern recon era"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:38:43.335922+00:00"
+}

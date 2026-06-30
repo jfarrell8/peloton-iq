@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Explosive power on steep, punchy cobbled climbs (like Molenberg), capable of dropping entire groups. Equally effective in positioning for sprint finishes from large breakaways or reduced groups.",
+  "team_tactics": "Dual-role rider: executes leadouts for designated sprinters (Pedersen) when needed, but given freedom in classics. Trek uses him to infiltrate large breakaway moves in stage races, banking on his finishing power.",
+  "terrain_preference": "Steep cobbled bergs and punchy classics terrain where pure power dominates. Thrives in reduced bunch sprints or breakaway finishes. Less suited to pure flat sprints where positioning is crucial.",
+  "vulnerability": "Forced to lead out sprints from front creates positional disadvantage, though compensated by raw power. Relies heavily on explosive strength rather than tactical finesse in finale positioning.",
+  "key_patterns": [
+    "Strongest on steep cobbled sections, capable of dropping entire breakaway groups solo",
+    "Effective infiltrator in large breakaway moves, consistently finishing high from reduced groups",
+    "Team-first mentality: switches between personal ambition and leadout duties based on team needs",
+    "Overcomes poor sprint positioning through pure power rather than tactical craft"
+  ],
+  "form_trajectory": "neutral: Limited recent data (2022), but showed tactical maturity in team role. Earlier performances (2020-2021) demonstrated consistent strength in classics and stage race breakaways.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "STUYVEN Jasper",
+  "built_from": [
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Omloop Het Nieuwsblad",
+    "2021 Tour de France Stage 7",
+    "2022 Paris-Nice Stage 3"
+  ]
+}

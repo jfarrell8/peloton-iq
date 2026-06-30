@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Capable of very long-range solo efforts (40+ km), often going on penultimate climbs rather than final ascents. Timing can be tactically poor—attacks too early or misses decisive late moves when ideally positioned.",
+  "team_tactics": "Primarily executes high-level domestique work for GC leaders (Pogačar, Hershey), setting tempo and positioning teammates before finale. Often isolated as sole team representative in final selections, indicating limited multi-rider support.",
+  "terrain_preference": "Performs well on technical Italian one-day races with sustained climbs (Strade Bianche podium group, LBL runner-up). Struggles on gravel sectors despite experience. Strong descender when solo, but vulnerable when others attack on descents.",
+  "vulnerability": "Poor positioning judgment in decisive moments—energetic but missing moves he should be in. Gets dropped on explosive accelerations (Bilbao 1900m, Yates, Van Aert descent attack). Gravel sectors expose him despite Italian roads familiarity.",
+  "key_patterns": [
+    "Elite domestique execution for GC leaders, consistently positioning and setting tempo on critical climbs",
+    "Misses tactically suitable moves despite energy; positioning errors repeated across 2019 Vuelta and other races",
+    "Reaches podium/top-10 positions but lacks finishing punch to follow decisive accelerations under 2km",
+    "Long solo efforts with precise power management; held 40km+ break calculating gaps perfectly",
+    "Performs as lone team representative in finals, suggesting limited team depth or isolated racing"
+  ],
+  "form_trajectory": "neutral: 2023 Strade Bianche top-10 after puncture chase shows resilience, but primarily domestique role since 2021 indicates repositioned ambitions rather than declining/improving GC capabilities",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "FORMOLO Davide",
+  "built_from": [
+    "2017 Liege-Bastogne-Liege",
+    "2018 Giro d'Italia Stage 11",
+    "2019 Giro d'Italia Stage 7",
+    "2019 Liege-Bastogne-Liege",
+    "2019 Tirreno-Adriatico Stage 2",
+    "2019 Tirreno-Adriatico Stage 4",
+    "2019 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 2",
+    "2019 Vuelta a Espana Stage 6",
+    "2020 Criterium du Dauphine Stage 3",
+    "2020 Criterium du Dauphine Stage 3",
+    "2020 Strade Bianche",
+    "2021 Giro d'Italia Stage 11",
+    "2021 Giro d'Italia Stage 4",
+    "2021 Tirreno-Adriatico Stage 5",
+    "2021 Tirreno-Adriatico Stage 5",
+    "2021 Tour de Pologne Stage 2",
+    "2022 Giro d'Italia Stage 10",
+    "2023 Strade Bianche"
+  ]
+}

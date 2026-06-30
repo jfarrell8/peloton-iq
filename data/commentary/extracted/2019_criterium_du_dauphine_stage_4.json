@@ -1,0 +1,32 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-12",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the 26km ITT by 31 seconds over VAN GARDEREN Tejay, taking TEUNS Dylan's yellow jersey by exactly 4 seconds to give it to YATES Adam.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN AERT Wout gained 18 seconds on DUMOULIN Tom at intermediate split, indicating superior descending ability converted TT dominance.",
+      "TEUNS Dylan lost yellow jersey by exactly 4 seconds, revealing pre-race GC buffer was calculated too tightly for ITT defense.",
+      "YATES Adam's sixth-place TT finish 56 seconds down proves climbers with basic ITT competence inherit leadership when specialists neutralize each other.",
+      "VAN GARDEREN Tejay's second place, 31 seconds behind VAN AERT, shows American TT specialists remain undervalued when cyclocross-trained riders enter."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: First WorldTour victory via ITT dominance, 46.9 seconds faster than DUMOULIN Tom, elite descending separated him at intermediate split",
+      "YATES Adam": "positive: Inherited yellow jersey without winning stage, ITT limiting only 56 seconds suggests viable GC threat on climber-friendly parcours",
+      "TEUNS Dylan": "negative: Lost yellow by 4 seconds after pre-race confidence about ITT ability, miscalculated margin reveals tactical overconfidence",
+      "VAN GARDEREN Tejay": "positive: Second place 31 seconds down, described as 'looking rock-solid', significantly outperformed GC position expectations",
+      "DUMOULIN Tom": "negative: Lost 46.9 seconds to VAN AERT despite former world champion status, descent weakness exposed by 18-second intermediate split deficit",
+      "FUGLSANG Jakob": "neutral: One minute six seconds down suggests mountain bike descending ability didn't translate to TT advantage as commentary predicted",
+      "PINOT Thibaut": "negative: Lost 1:20 at finish, 30 seconds to BUCHMANN Emanuel and 33 to DUMOULIN Tom, confirming chronic ITT weakness",
+      "FROOME Chris": "negative: Crashed during course recon hitting wall in crosswind with one hand on bars, ruled out of Tour de France",
+      "KRUIJSWIJK Steven": "positive: Fourth place with CRAS Steff showing Jumbo-Visma depth, two riders in top four demonstrates team TT strength",
+      "BUCHMANN Emanuel": "positive: Beat PINOT Thibaut by 30 seconds, emerging as climber with superior ITT capability for GC defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:53:13.040445+00:00"
+}

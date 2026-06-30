@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-26",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BAUHAUS Phil won bunch sprint after recovering from early crash, holding off EWAN and MATTHEWS in final 200m",
+    "winner": "BAUHAUS Phil",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PLAPP Luke attacked for KOM points on intermediate climb with enough force to temporarily drop peloton to 21s.",
+      "MATTHEWS Michael systematically hunted intermediate sprint bonuses, closing 8-second GC gap despite not winning stage.",
+      "STRONG Corbin timed ziptrack intermediate sprint perfectly, beating MATTHEWS who opened too early despite tracking wheels."
+    ],
+    "rider_signals": {
+      "BAUHAUS Phil": "positive: recovered from massive early crash impact to win sprint, showing mental resilience lacking in previous events",
+      "MATTHEWS Michael": "positive: executed targeted bonus second strategy across two intermediates despite preferring harder parcours for GC",
+      "MEEUS Jordy": "negative: early crash eliminated pre-race sprint favorite who had just finished second at Schwalbe Classic",
+      "PLAPP Luke": "positive: Australian champion showed KOM-hunting aggression strong enough to open 21-second gap on intermediate climb",
+      "STRONG Corbin": "positive: superior sprint timing at intermediates, beating MATTHEWS who had better positioning but opened sprint too early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:00:05.147701+00:00"
+}

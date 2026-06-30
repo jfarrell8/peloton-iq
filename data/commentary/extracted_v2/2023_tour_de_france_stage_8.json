@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-08",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won from peloton sprint after long lead-out by STEUYVEN Jasper, sustaining power through rising uphill finish.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "STEUYVEN led out PEDERSEN from 1km+ despite downhill-to-uphill transition, unusual distance for modern sprint trains.",
+      "Trek successfully isolated their sprint train without full team control at front, suggesting numerical superiority less critical on gradient finishes.",
+      "YATES Simon lost 47 seconds in late crash, demonstrating GC vulnerability on supposedly safe sprint stages."
+    ],
+    "rider_signals": {
+      "PEDERSEN Mads": "positive: holds power on rising finishes better than pure sprinters, suggesting target uphill sprint stages specifically",
+      "STEUYVEN Jasper": "positive: demonstrated diesel engine capacity to lead out from abnormally long distance on gradient finish",
+      "PHILLIPSEN Jasper": "neutral: second place but faded in final meters when gradient increased, confirming flat-finish preference",
+      "YATES Simon": "negative: lost 47 seconds to crash positioning on sprint stage, revealing weak team support for late-stage positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:59:41.276107+00:00"
+}

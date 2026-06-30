@@ -1,0 +1,29 @@
+{
+  "label": "2017 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-09",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "URAN Rigoberto won a photo finish on Stage 9's mountainous finale after his derailleur broke in the PORTE/MARTIN crash, forcing him to sprint in 53x11 only.",
+    "winner": "URAN Rigoberto",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ARU attacked Mont du Chat (climb 7) during FROOME mechanical, rejecting traditional etiquette to exploit moment of weakness.",
+      "FROOME pre-identified Mont du Chat descent as tactical weapon months before Tour, used descending aggression to pressure rivals into crashes.",
+      "Team SUNWEB pushed MATTHEWS over climbs for green jersey points despite mountain finish, revealing non-GC sprint teams' willingness to suffer.",
+      "FUGLSANG inexplicably cooperated with yellow jersey FROOME in chase instead of letting him work, tactically naïve for ARU's interests."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: Maintained descending aggression even in yellow jersey to time-gap rivals, gained 4 seconds on ARU via technical superiority",
+      "PORTE Richie": "negative: Crashed at 45mph attempting to match FROOME's descent speed on Mont du Chat, revealed technical limitations under pressure",
+      "ARU Fabio": "negative: Attacked FROOME mechanical but lacked legs to sustain effort in final sprint, showing aggression without power reserve",
+      "URAN Rigoberto": "positive: Won despite broken derailleur limiting him to 53x11, showing tactical composure to maintain speed without acceleration option",
+      "MARTIN Dan": "positive: Crashed with PORTE at 45mph but remounted to finish 9th, exceptional resilience after high-speed incident",
+      "BARGUIL Warren": "negative: Solo attacked final 12km but faded in sprint finish, mistimed effort by going too early on flat run-in",
+      "QUINTANA Nairo": "negative: Lost over 2 minutes to FROOME, significantly worse than expected on stage he should excel"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:08:18.447131+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Insufficient data to establish attacking pattern. Single ITT performance shows GC capability but no attacking behavior observed.",
+  "team_tactics": "CCC appeared to adapt tactics when Bevan emerged as GC contender via ITT, suggesting flexible team strategy rather than predetermined setup.",
+  "terrain_preference": "Strong time trialist capable of gaining significant GC positions against the clock. Mountain and stage race durability unknown from available data.",
+  "vulnerability": "Unknown whether ITT strength translates to mountain defense or multi-week consistency. Single-race sample prevents identifying weaknesses.",
+  "key_patterns": [
+    "Emerged from domestique role to GC contention unexpectedly via strong ITT performance",
+    "Time trial specialist capable of major GC leaps in Grand Tour context"
+  ],
+  "form_trajectory": "unknown: Only one race observation showing strong ITT form, insufficient data to assess trajectory or consistency",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BEVAN Patrick",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 10",
+    "2019 Vuelta a Espana Stage 10"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2023 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-29",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "COQUARD Bryan won from a split peloton after Jayco-AlUla exploited crosswinds to fracture the field mid-stage",
+    "winner": "COQUARD Bryan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jayco-AlUla premeditated wind split execution in Aldinga crosswind section fractured field before final circuits, eliminating climbers",
+      "INEOS wound up pace when 20-second gap threatened, revealing they prioritized group cohesion over stage win",
+      "Breakaway attempts by RICKAERT Jonas failed when peloton allowed intermediate sprint catch, forcing energy expenditure before wind split"
+    ],
+    "rider_signals": {
+      "COQUARD Bryan": "positive: first World Tour win after 10-year career shows he can finish splits when pure sprinters eliminated",
+      "YATES Adam": "neutral: maintained 15-second GC lead but wanted leadout support back, suggesting team stretched thin in split",
+      "VINE Jay": "positive: held 15-second GC position despite mixing in sprint chaos, showing resilience in non-climber terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:26:56.117897+00:00"
+}

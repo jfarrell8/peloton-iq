@@ -1,0 +1,25 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 19",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-09",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won a controlled sprint after Trek-Segafredo paced hard enough over two mountain laps to shed most sprinters but preserved their own finisher",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek paced Cat-2 climb twice specifically to eliminate pure sprinters while keeping Pedersen, filtering field to manageable size.",
+      "Scotson attacked early from reduced group knowing Trek's dominance meant only hope was catching Pedersen before launch.",
+      "Three-rider breakaway granted no meaningful gap despite modest size, suggesting peloton calculated sprint finish certainty on double-lap profile."
+    ],
+    "rider_signals": {
+      "PEDERSEN Mads": "positive: third stage win after early-race second places suggests form improvement through three-week race rather than decline",
+      "WRIGHT Fred": "positive: survived Trek's selective mountain pace as pure sprinter, indicating climbing improvement or misjudged categorization",
+      "VERMEERSCH Gianni": "neutral: fast finish from reduced group confirms he's not eliminated by moderate climbing but can't match top-tier speed",
+      "EVENEPOEL Remco": "neutral: gained only two seconds on rest day eve before queen stage suggests team prioritizing defense over aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:43:38.281039+00:00"
+}

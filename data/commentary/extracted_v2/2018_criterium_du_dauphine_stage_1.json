@@ -1,0 +1,25 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-04",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl surprised from reduced bunch after peloton caught break at 10km, launched from 200m out on final climb finish in Annecy",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott allowed Impey freedom over Edmondson despite GC favoritism, revealing flexible leadership tactics in stage racing.",
+      "Peloton deliberately reeled back break only at 10km mark, suggesting confidence in controlling finale without early commitment.",
+      "Final climb shredded pure sprinters but punchy climbers Alaphilippe/Bardet positioned perfectly, indicating this profile suits aggressive rouleurs."
+    ],
+    "rider_signals": {
+      "IMPEY Daryl": "positive: Won from 200m out after assuming he'd work for Edmondson, shows opportunistic decision-making under uncertain team orders",
+      "ALAPHILIPPE Julian": "neutral: Second after surviving climb but couldn't match Impey's long sprint, suggests power endurance limitation on gradual finales",
+      "MOHORIC Matej": "neutral: Finished top-5 showing climbing improvement, signals potential stage-hunting versatility beyond pure sprint stages",
+      "KWIATKOWSKI Michal": "positive: Fourth place with 10-second bonus despite no sprinting reputation, indicates exceptional positioning discipline on reduced finales"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:17:22.531726+00:00"
+}

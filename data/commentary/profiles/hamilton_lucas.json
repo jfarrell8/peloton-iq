@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Late-climb specialist who attacks on final ascents to hold narrow margins. Prefers solo moves in final kilometers rather than long-range efforts, relying on sustained power to the line.",
+  "team_tactics": "Functions both as protected rider and domestique depending on team needs. When leading, receives minimal direct support and often isolated in finals. Has executed lead-out work for sprinters.",
+  "terrain_preference": "Punchy uphill finishes and late-race climbing where sustained power under fatigue is decisive. Struggles in pure sprint situations and exposed when team tactics neutralize his moves.",
+  "vulnerability": "Lacks finishing speed in small group scenarios (5-rider selections). Vulnerable to team tactical situations where multiple riders from opposing squads neutralize attacks. Can lose significant time in GT mountain stages.",
+  "key_patterns": [
+    "Makes final selections but often isolated from teammates in decisive moments (3 observations)",
+    "Strong climbing under accumulated fatigue; performs late in stage races (3 observations)",
+    "Finishing speed deficit in small sprint situations costs podium positions (2 observations)",
+    "Functions tactically as both leader and domestique within same race calendar (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 showed ability to reach key selections but tactical neutralization and sprint deficit prevented podiums, suggesting plateaued performance level",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "HAMILTON Lucas",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tour de Pologne Stage 2",
+    "2021 Paris-Nice Stage 7",
+    "2022 Giro d'Italia Stage 12",
+    "2023 Bretagne Classic - Ouest-France",
+    "2023 Bretagne Classic - Ouest-France"
+  ]
+}

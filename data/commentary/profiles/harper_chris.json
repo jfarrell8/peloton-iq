@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a primary attacker. Functions as a domestique/support rider rather than initiating decisive moves himself.",
+  "team_tactics": "Deploys high-tempo pacing on key climbs for team leaders. Can inadvertently create tactical stalemates when multiple team riders reach selection (Bretagne Classic example).",
+  "terrain_preference": "Capable on Monument-level climbs (Madonna del Ghisallo), suggesting comfort on sustained climbs. Positioning suggests all-rounder domestique profile rather than pure climber or sprinter.",
+  "vulnerability": "Lacks individual winning punch when team numerical advantage exists. Tactical inexperience visible when co-responsibility with teammate neutralizes team strength rather than exploiting it.",
+  "key_patterns": [
+    "Strong domestique work on decisive climbs, maintaining pace for team leaders (Il Lombardia)",
+    "High professionalism even in transitional contract situations, completing assigned duties despite uncertainty",
+    "Tactical inefficiency when multiple team riders in selection, failing to leverage numbers advantage"
+  ],
+  "form_trajectory": "neutral: Limited recent data, but 2023 shows active selection-making ability, maintaining domestique effectiveness from 2022",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HARPER Chris",
+  "built_from": [
+    "2022 Il Lombardia",
+    "2022 Il Lombardia",
+    "2023 Bretagne Classic - Ouest-France"
+  ]
+}

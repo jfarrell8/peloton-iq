@@ -1,21 +1,35 @@
 {
-  "attacking_style": "Not a primary attacker; functions as high-altitude pacing resource rather than finale aggressor. Works in final 3km to deliver protected riders on mountain stages.",
-  "team_tactics": "Deployed as super-domestique on high-mountain stages, controlling tempo in final kilometers to deliver team leader. Protected rider role reserved for lesser objectives where form permits.",
-  "terrain_preference": "High-altitude mountain finishes where sustained tempo work (final 3km) is required. Struggles on punchy, explosive climbs like Civiglio where repeated accelerations occur.",
-  "vulnerability": "End-of-season fatigue causes significant form drop; early victim on punchy climbs. Mechanical reliability issues with team equipment have caused race-ending crashes.",
+  "attacking_style": "Rarely attacks for personal gain; when in breakaways, shows willingness but insufficient finishing power to capitalize. Fifth-place climbing sprint at Vuelta 2022 suggests emerging punch on steep finishes.",
+  "team_tactics": "Primary role as final mountain domestique for GC leaders (Carapaz, Bernal). Sets tempo in final 5km of summit finishes, typically last support before leader isolates. Part of thin Ineos climbing depth requiring relay pacing with other domestiques.",
+  "terrain_preference": "High-altitude sustained climbs where he can set tempo. Exposed on technical descents (crashed/pedal-strike twice) and appears vulnerable when repeated accelerations required rather than steady pacing.",
+  "vulnerability": "Mechanical issues at critical moments (3 documented incidents causing energy waste or neutralized positions). Descending technical errors. Collapses when team faces systematic high-tempo destruction. Poor form periods significantly impact effectiveness.",
   "key_patterns": [
-    "Dual role capacity: super-domestique in Grand Tours, protected rider in one-day races (2 instances)",
-    "Strong sustained climbing at altitude but dropped early on explosive punchy ascents (2 instances)",
-    "Form deteriorates significantly by late season, October races show clear weakness (1 strong instance)",
-    "Team mechanical issues affecting his race outcomes despite Ineos budget and resources (1 instance)"
+    "Mechanical failures at race-critical moments documented three times across 2021-2022 (chains, crashes).",
+    "Functions as last domestique on final climbs, pulls off 5km or less from summit.",
+    "Crashes and technical errors on descents repeatedly compromise team tactics and positioning.",
+    "Form deficits coincide with entire Ineos team collapses, suggesting shared training/preparation issues.",
+    "Protected GC rider role abandoned early in stage races due to time losses (2021 Giro)."
   ],
-  "form_trajectory": "negative: Strong Grand Tour climbing form in May (pacing at altitude) deteriorated sharply by October (early drop at Lombardia)",
-  "races_analysed": 3,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2022 Vuelta showed unexpected climbing sprint ability (5th place), but overall pattern remains high-altitude pacing domestique rather than emerging GC threat. Role consistency suggests acceptance of support position.",
+  "races_analysed": 14,
+  "confidence": "high",
   "rider_name": "SIVAKOV Pavel",
   "built_from": [
+    "2019 Giro d'Italia Stage 9",
+    "2020 Criterium du Dauphine Stage 3",
+    "2020 Criterium du Dauphine Stage 4",
+    "2020 Criterium du Dauphine Stage 5",
+    "2020 Criterium du Dauphine Stage 5",
+    "2020 Tour de France Stage 2",
+    "2021 Giro d'Italia Stage 4",
+    "2021 Giro d'Italia Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Tirreno-Adriatico Stage 2",
     "2022 Giro d'Italia Stage 16",
     "2022 Giro d'Italia Stage 19",
-    "2022 Il Lombardia"
+    "2022 Giro d'Italia Stage 20",
+    "2022 La Vuelta ciclista a Espana Stage 3",
+    "2022 La Vuelta ciclista a Espana Stage 4"
   ]
 }

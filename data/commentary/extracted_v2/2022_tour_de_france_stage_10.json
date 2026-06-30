@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-12",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from breakaway with bike throw over Schultz, while POGAČAR sprinted final 100m to retain yellow by 11 seconds over KÄMNA who nearly took it on time.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR actively defended yellow on MTF sprint despite pre-race speculation he'd surrender it before mountain stages.",
+      "KÄMNA came within 11 seconds of yellow by riding tempo in chase group, nearly taking jersey without attacking.",
+      "Breakaway struggled to establish on long downhill start, suggesting teams still protective before major mountain stages ahead."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: sprinted final 100m uphill to defend yellow when could have sat in, signals unwillingness to cede race lead",
+      "KÄMNA Lennard": "positive: nearly took yellow by 11 seconds through tempo riding in chase group without attacking",
+      "VINGEGAARD Jonas": "neutral: gained time on POGAČAR in chase group but didn't attack, sitting 39 seconds back",
+      "SCHULTZ Nick": "positive: nearly won from breakaway in debut Tour, lost by inches to CORT bike throw",
+      "CORT Magnus": "positive: won uphill sprint from breakaway with bike throw, first Tour stage since 2018"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:21:03.118644+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-25",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME Christopher attacked 80km from finish on Colle delle Finestre, took 6+ minutes on YATES Simon to claim virtual pink jersey",
+    "winner": "FROOME Christopher",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FROOME attacked alone 80km out on gravel Finestre despite isolation risk, opponents paralyzed expecting him to fade",
+      "DUMOULIN gestured PINOT not to panic when FROOME attacked, revealing collaboration against Sky rather than pursuing immediately",
+      "YATES Simon cracked catastrophically on Finestre after showing mechanical issues earlier, suggesting deterioration masked as equipment problems",
+      "CARAPAZ attacked finish for 6-second bonus in white jersey battle with LOPEZ, prioritizing GC bonuses over stage result"
+    ],
+    "rider_signals": {
+      "FROOME Christopher": "positive: sustained 80km solo attack on gravel climb shows exceptional form and willingness to take massive tactical gamble",
+      "YATES Simon": "negative: lost nearly 6 minutes and pink jersey after earlier fake mechanical, complete collapse suggests accumulated fatigue",
+      "DUMOULIN Tom": "positive: recovered after Finestre to finish strong, coordinated with PINOT rather than panicking at deficit",
+      "PINOT Thibaut": "positive: responded well when DUMOULIN gestured patience, showing good form when previously thought out of contention",
+      "CARAPAZ Richard": "positive: tactical awareness to attack for bonus seconds in white jersey competition despite being in break remnants"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:20:48.869844+00:00"
+}

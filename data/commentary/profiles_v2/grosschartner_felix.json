@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Limited attacking observed; tends toward reactive rather than proactive racing. When positioned well, struggles to capitalize with decisive moves in critical moments.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from available observations.",
+  "terrain_preference": "Showed strength on Stage 1 terrain but exposed on sustained final climbs where losses accumulated. Struggles to maintain form across multi-stage efforts.",
+  "vulnerability": "Passive decision-making in chase dynamics; drops on final climbs despite earlier strength; inability to sustain form race-to-race leading to significant time losses.",
+  "key_patterns": [
+    "Passive tactics in decisive moments: played cat-and-mouse instead of attacking hard (2 instances).",
+    "Form inconsistency: strong performances followed immediately by being dropped on climbs (2 instances).",
+    "Poor tactical calculation in chase groups, costing overall classification positions and time."
+  ],
+  "form_trajectory": "negative: Both observations show deteriorating performance within same race, losing red jersey through passive tactics and unable to sustain initial strength",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GROSSCHARTNER Felix",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 2",
+    "2021 Vuelta a Espana Stage 7",
+    "2021 Vuelta a Espana Stage 7"
+  ]
+}

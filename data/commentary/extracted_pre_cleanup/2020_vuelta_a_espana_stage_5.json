@@ -1,0 +1,30 @@
+{
+  "label": "2020 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-24",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim won from a 12-rider breakaway after two riders separated in the finale, sprinting past ARENSMAN Thymen who had gone earlier.",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WELLENS Tim's 29 career wins gave composure advantage over 20-year-old ARENSMAN Thymen in two-up sprint despite similar form.",
+      "Sunweb placed three riders in 12-man break, creating numerical advantage that allowed ARENSMAN to attack with WELLENS late.",
+      "ROGLIČ Primož gained 4 seconds on GC rivals by sprinting peloton finish despite 2:13 gap to break, tactical acceleration before crash.",
+      "Three-kilometer crash rule confusion suggests future similar finishes require positioning before final descent complexities, not after.",
+      "KUSS Sepp became virtual race leader mid-stage from breakaway, demonstrating GC vulnerability when multiple top-10 teams commit riders forward."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: Stage win plus KOM jersey shows peak form after Tour de France non-selection, now motivated to defend mountains lead.",
+      "ARENSMAN Thymen": "positive: First Grand Tour rider at 20 years old nearly won stage after late separation, inexperience cost sprint finish.",
+      "ROGLIČ Primož": "positive: Accelerated peloton finish to gain 4 seconds on GC rivals despite stage won 2:13 ahead, alert tactical racing.",
+      "GROßSCHARTNER Felix": "positive: Only lost 1 second to ROGLIČ at peloton finish while other GC contenders lost 4, positioned better through chaos.",
+      "KUSS Sepp": "positive: Rode tempo in 12-man break containing multiple top-10 teams, virtual leader role shows GC ambitions remain viable.",
+      "CARAPAZ Richard": "neutral: Lost 4 seconds to ROGLIČ at finish, but 10 KOM points available next stage could reclaim mountains jersey from WELLENS.",
+      "CHAVES Esteban": "neutral: Avoided mechanicals unlike previous stage but lost 4 seconds to ROGLIČ, positioning through finale descent still problematic."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:44:57.407003+00:00"
+}

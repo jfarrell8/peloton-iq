@@ -1,0 +1,29 @@
+{
+  "label": "2023 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ won Stage 17 atop Angliru, outsprinting teammate VINGEGAARD despite the latter defending GC, narrowing gap to leader KUSS to just 8 seconds",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EVENEPOEL attacked early after deliberately conceding time previous day, forcing Jumbo-Visma to control despite teammate leading GC",
+      "UAE's SOLER attacked first climb forcing Jumbo response, revealing UAE's willingness to exploit Jumbo's internal GC complications",
+      "ROGLIČ outsprinted VINGEGAARD at finish despite teammate KUSS holding red jersey by seconds, exposing team priority tensions",
+      "KUSS finished 19 seconds behind teammates, suggesting deliberate pacing choice or inability to match their final acceleration"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Posted second-fastest Angliru ascent ever while taking stage, now only 8 seconds from red despite supporting role",
+      "VINGEGAARD Jonas": "positive: Matched Roglič on Angliru climb, moved to 29 seconds behind Kuss, not respecting internal team hierarchy",
+      "KUSS Sepp": "negative: Lost 19 seconds to teammates on final climb, red jersey lead down to 8 seconds reveals vulnerability on ultra-steep finales",
+      "EVENEPOEL Remco": "neutral: Attacked breakaway after deliberately losing time previous day, signaling GC abandonment enables stage-hunting freedom rest of race",
+      "SOLER Marc": "positive: UAE allowed him to attack despite being GC threat, indicating team willing to exploit Jumbo's complicated three-leader situation",
+      "LANDA Mikel": "positive: Finished same time as Vingegaard, moved within striking distance showing late-race form improvement",
+      "AYUSO Juan": "negative: Dropped significantly on Angliru, losing podium contention and now 4+ minutes down"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:06:29.761463+00:00"
+}

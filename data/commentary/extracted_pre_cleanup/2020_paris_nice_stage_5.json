@@ -1,0 +1,32 @@
+{
+  "label": "2020 Paris - Nice Stage 5",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-12",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BONIFAZIO Niccolò won from a reduced peloton after TRATNIK Jan was caught inside final 300m following 5+ hour breakaway.",
+    "winner": "BONIFAZIO Niccolò",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "TRATNIK survived solo 60km+ after breakaway split, caught inside 300m—breakaway persistence threshold extends far on hard stages.",
+      "TURGIS collected KOM points from breakaway despite no GC threat, allowing TOTAL DIRECT ENERGIE to defend jersey without team effort.",
+      "GILBERT and ARNDT paced final chase after DENZ cracked, revealing GC domestiques prioritized over sprint leadout on hardest stages.",
+      "EWAN mechanically out on longest stage after earlier crash, confirming sprinters with accumulated damage exit race before final mountain days."
+    ],
+    "rider_signals": {
+      "TRATNIK Jan": "positive: survived solo 60+km after breakaway fracture, nearly held off peloton after 227km stage",
+      "BONIFAZIO Niccolò": "positive: won from reduced bunch sprint after 227km hard stage, suggesting genuine all-rounder capacity",
+      "GARCÍA CORTINA Iván": "neutral: led out teammate BONIFAZIO effectively but faded final 50m, domestique role confirmed",
+      "EWAN Caleb": "negative: mechanical in finale after stage 3 crash, accumulating race damage eliminating him before mountains",
+      "DENZ Nico": "negative: dropped while pacing peloton before finale, insufficient form to sustain GC chase tempo",
+      "WOODS Michael": "negative: abandoned after descent crash pointing to pelvis, DNF before mountain stages",
+      "MULLEN Ryan": "neutral: survived longest breakaway adventure but contributed nothing to finale, time trial specialist misused",
+      "GOUGEARD Alexis": "neutral: animated breakaway all day but caught with TRATNIK in finale",
+      "TURGIS Anthony": "positive: collected KOM points from breakaway despite team having jersey, opportunistic tactical execution",
+      "SCHACHMANN Maximilian": "neutral: retained yellow with team defending conservatively, BORA prioritizing GC over stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:30:09.777840+00:00"
+}

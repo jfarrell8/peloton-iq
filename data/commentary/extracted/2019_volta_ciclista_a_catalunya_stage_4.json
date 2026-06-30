@@ -1,0 +1,16 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-28",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "Insufficient intelligible commentary to determine stage winner or decisive tactical moments",
+    "winner": "UNKNOWN",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T22:15:25.729909+00:00"
+}

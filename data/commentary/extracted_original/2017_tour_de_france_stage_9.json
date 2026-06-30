@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-09",
+  "stage": 9,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "URAN Rigoberto won stage 9 after a crash with Martin destroyed his derailleur, forcing him to sprint in his biggest gear 53x11 only.",
+    "winner": "URAN Rigoberto",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FROOME weaponized Mont du Chat descent preparation from months prior, forcing rivals to match his technical speed or lose time.",
+      "ARU Fabio correctly attacked FROOME's mechanical on final climb despite unwritten rules, proving 2017 peloton prioritizes opportunism over etiquette.",
+      "SUNWEB placed MATTHEWS in breakaway on HC climbs to steal green jersey points when sprinters absent, expanding points classification tactics.",
+      "FUGLSANG inexplicably cooperated with yellow jersey FROOME in chase instead of letting him work alone, gifting time bonuses to GC leader."
+    ],
+    "rider_signals": {
+      "PORT Richie": "negative: pre-race favorite abandoned after 45mph crash attempting to match FROOME's technical descent speed, revealing skill gap",
+      "FROOME Chris": "positive: gained 4 seconds on ARU via time bonus despite mechanical, demonstrating stage reconnaissance pays dividends on technical descents",
+      "URAN Rigoberto": "positive: won mountain stage photo finish sprinting in only 53x11 after derailleur destroyed, showing resilience compensates for mechanical disaster",
+      "MARTIN Dan": "positive: crashed at 45mph with PORT but regrouped to finish 9th, exceptional recovery suggests undertapped resilience in adversity",
+      "ARU Fabio": "neutral: attacked FROOME's mechanical correctly but couldn't follow on descent, establishing technical descending as his GC weakness",
+      "QUINTANA Nairo": "negative: lost over 2 minutes on stage FROOME marked as hardest, signaling he lacks explosive climbing to compete for yellow"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:12:10.030960+00:00"
+}

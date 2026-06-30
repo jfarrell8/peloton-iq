@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour of Oman Stage 1",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-14",
+  "stage": 1,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander used positional knowledge from previous year's victory to win headwind bunch sprint after COLBRELLI Sonny punctured 8km out.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "COLBRELLI Sonny puncture at 8km eliminated primary sprint threat, demonstrating late mechanicals decide headwind finishes more than form.",
+      "DECLERCQ Benjamin and PONZI Simone abandoned breakaway after second sprint, suggesting intermediate points were primary objective over stage win.",
+      "Course knowledge from previous editions provides decisive positioning advantage in technical headwind finishes as KRISTOFF Alexander demonstrated."
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: exploited previous year's winning experience to position perfectly in headwind sprint finish",
+      "COLBRELLI Sonny": "negative: puncture at 8km eliminated from contention despite being clear favorite for headwind sprint",
+      "BOONEN Tom": "negative: crash in final kilometers indicates positioning error or poor late-race form",
+      "DECLERCQ Benjamin": "neutral: abandoned breakaway after second intermediate sprint, suggesting points collection was tactical goal",
+      "PONZI Simone": "neutral: abandoned breakaway after second intermediate sprint alongside DECLERCQ, indicating coordinated points strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:13:48.845393+00:00"
+}

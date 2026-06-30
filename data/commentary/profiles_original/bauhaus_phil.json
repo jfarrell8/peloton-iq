@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Pure sprinter who relies on final 200-300m positioning and tactical awareness rather than raw lead-out power. Shows ability to improvise when boxed in late sprint situations.",
+  "team_tactics": "Bahrain lead-out frequently fails or finishes early, forcing him to sprint solo from 300m+ out. Team depth insufficient for consistent sprint trains in WorldTour stage races.",
+  "terrain_preference": "Flat sprint stages where positioning intelligence can compensate for weak lead-out support. Struggles on any stage with categorized climbs, getting distanced on final ascents.",
+  "vulnerability": "Completely exposed on any hilly terrain—distanced on final climbs multiple times. Deteriorates physically in multi-day tours (Dauphine withdrawal). Technical finales show inconsistency (chicane error 2023).",
+  "key_patterns": [
+    "Repeatedly isolated in final kilometer after team support exhausted (4 observations)",
+    "Converts poor positioning to podium results through tactical improvisation, not power (3 instances)",
+    "Cannot survive even moderate climbing stages in stage races (2 confirmed DNF/distanced)",
+    "Year-over-year tactical regression evident: 2023 chicane error on same Tirreno stage he won 2022",
+    "Consistently finishes second when lead-out fails, suggesting threshold just below top-tier sprinters"
+  ],
+  "form_trajectory": "negative: 2023 Tirreno shows tactical regression (chicane mistake on previously won stage), pattern of physical struggles in stage races continues",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "BAUHAUS Phil",
+  "built_from": [
+    "2022 Criterium du Dauphine Stage 1",
+    "2022 Criterium du Dauphine Stage 2",
+    "2022 Tirreno-Adriatico Stage 7",
+    "2022 Tirreno-Adriatico Stage 7",
+    "2022 Volta Ciclista a Catalunya Stage 2",
+    "2022 Volta Ciclista a Catalunya Stage 5",
+    "2023 Tirreno-Adriatico Stage 7"
+  ]
+}

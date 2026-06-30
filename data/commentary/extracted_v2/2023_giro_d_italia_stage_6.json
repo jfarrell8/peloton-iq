@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERSON Mads won sprint from caught breakaway with 200m remaining after CLARK and DE MARCHI waited too long, refusing to commit early.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway held 33 seconds at 3km but lost through hesitation games with 800m left, showing psychological collapse pattern.",
+      "THOMAS Garrett mechanical at critical junction forced full team TTT through convoy, revealing GC vulnerability in disorganized finale.",
+      "Peloton caught break only at 200m despite 1min+ at 15km, indicating poor chase coordination enables late breaks."
+    ],
+    "rider_signals": {
+      "CLARK Simon": "negative: 36-year-old hesitated in winning position with 800m remaining, suggesting age/experience paradoxically creates overthinking in breaks",
+      "DE MARCHI Alessandro": "negative: former Maglia Rosa played waiting games from winning break position instead of committing early",
+      "CAVENDISH Mark": "negative: dropped on first categorized climb due to knee injury from Stage 5 crash, signaling compromised climbing form",
+      "THOMAS Geraint": "negative: late mechanical required team convoy chase in disorganized finale, exposing crash risk when GC protection dissolves",
+      "PETERSON Mads": "positive: completed Peter Slam launching at 200m from chasing group, showing superior sprint timing over hesitant breakaway"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:40:53.344449+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2021 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2021-10-03",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "COBRELLI Sonny won a sprint finish at Roubaix velodrome after surviving brutal wet conditions, outsprinting VERMEERSCH and VAN DER POEL",
+    "winner": "COBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma riders showed superior bike handling on wet tarmac while Deceuninck teammates repeatedly crashed, revealing equipment/setup differences.",
+      "MOSCONI nearly won from breakaway before being caught at velodrome, suggesting early aggression nearly worked despite wet conditions.",
+      "VAN DER POEL expended too much energy bridging/leading into velodrome, visibly destroyed at finish despite reaching final sprint."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "negative: crashed early requiring teammate assistance, then overextended approaching velodrome leaving nothing for sprint despite making podium",
+      "VERMEERSCH Florian": "positive: second place as emerging rider suggests he can handle extreme wet cobbles better than established stars",
+      "SAGAN Peter": "negative: multiple crashes on wet tarmac before cobbles even started, indicating serious equipment or condition adaptation issues",
+      "LAMPAERT Yves": "negative: fell early despite being Deceuninck leader and 2019 third place, same equipment issues as teammates",
+      "MOSCONI Gianni": "positive: nearly won from breakaway finishing fourth, proving aggressive early moves viable even in wet Monument conditions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:48:12.689675+00:00"
+}

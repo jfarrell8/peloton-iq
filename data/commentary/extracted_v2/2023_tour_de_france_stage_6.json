@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-06",
+  "stage": 6,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked midway through the final Cat-1 climb, dropped VINGEGAARD solo to win by ~24 seconds and seize back time after yesterday's losses.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE reversed roles from Stage 5, attacking instead of defending after Pogačar's previous day losses showed vulnerability.",
+      "Jumbo-Visma sent VAN AERT into early break to create havoc, repeating 2022 Tour disruption tactic.",
+      "Pogačar's attack came halfway up final Cat-1 climb, exploiting steepening gradients rather than waiting for summit.",
+      "10-second time bonus motivated Pogačar to ride through line at full gas, reversing typical stage winner celebration behavior."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: responded immediately to Stage 5 defeat with solo victory, suggesting psychological resilience absent in 2022 Tour",
+      "VINGEGAARD Jonas": "negative: took yellow but lost 24+ seconds on Cat-1 finish, unexpected weakness on gradient steeper than yesterday'sCol de Marie Blanque",
+      "VAN AERT Wout": "positive: deployed as breakaway disruptor on short 145km stage, forcing rivals to chase rather than control",
+      "HINDLEY Jai": "neutral: brief yellow jersey stint ended but held podium position, confirming GC viability beyond Giro form",
+      "ALAPHILIPPE Julian": "neutral: animated in early VAN AERT chase, showing willingness to engage on Pyrenean stages despite non-GC status"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:59:17.671808+00:00"
+}

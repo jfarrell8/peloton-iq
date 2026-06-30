@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 44,
+    "raw_chars": 1491,
+    "clean_chars": 1483,
+    "duration_mins": 2.5,
+    "clean_text": "with Alexander Kristoff in the red leaders jersey 142 Riders faced the 142 and A2 km second stage of the tour of a this stage took the Riders from Nal to Al buan the peleton showed none of the fatigue of the previous day many attacks took place and it took 52 minutes for two Riders to be given their freedom Mark Christian of Aqua BL and prean Van Hecker of sport vandren balaz broke clear after 45 km and they quickly built their lead in the first hour though the pelaton covered an impressive 50.8 km after 17 km in the lead the duo were enjoying a lead of 7 minutes and 55 seconds but it wasn't too long until the pelaton decided their advantage was too big they started to chase hard and the Gap started to Tumble it was on the penultimate climb at Al hria that the Breakaway folded first van Hecker dropped then Christian was caught it was set up to be a great finish the white jersey Lassie Norman Hansen of Aqua BL tried with Eaton of United Healthcare but the pelaton refused to give in hansome was left alone with 5 km to go but he was caught inside 2 km to the line kudus of Dimension data sensed his chance he pounced C here but in sight of the Finish Line Ben Herman of BMC spotted his opportunity his strength his straight power climbs and he demonstrated all of his ability he pulled ahead of kudus opening up the distance on his Rivals he won a tremendous stage beating former world champion ruie costan to second place his win also earned him the leader's red jersey",
+    "preview_start": "with Alexander Kristoff in the red leaders jersey 142 Riders faced the 142 and A2 km second stage of the tour of a this stage took the Riders from Nal to Al buan the peleton showed none of the fatigue of the previous day many attacks took place and it took 52 minutes for two Riders to be given their freedom Mark Christian of Aqua BL and prean Van Hecker of sport vandren balaz broke clear after 45 km and they quickly built their lead in the first hour though the pelaton covered an impressive 50.8",
+    "preview_end": "d to give in hansome was left alone with 5 km to go but he was caught inside 2 km to the line kudus of Dimension data sensed his chance he pounced C here but in sight of the Finish Line Ben Herman of BMC spotted his opportunity his strength his straight power climbs and he demonstrated all of his ability he pulled ahead of kudus opening up the distance on his Rivals he won a tremendous stage beating former world champion ruie costan to second place his win also earned him the leader's red jersey"
+  },
+  "status": "transcript_saved"
 }

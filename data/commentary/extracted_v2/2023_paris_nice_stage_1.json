@@ -1,0 +1,26 @@
+{
+  "label": "2023 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-05",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won bunch sprint after POGAČAR took 6 bonus seconds at late intermediate sprint following failed attack phase, positioning best among GC contenders.",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pogačar hunting intermediate sprint bonuses with 5.9km remaining, forcing Vingegaard to chase without gaining seconds reveals 2023 micro-gains emphasis.",
+      "Quick-Step allowing UAE/Jumbo attacks to expire 16-20km out rather than chasing immediately, preserving sprint train energy for finale.",
+      "Neilson Powless attacking penultimate 12% climb after crash fragmented peloton shows EF targeting transition chaos over pure climbing."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: aggressively targeting bonus seconds at intermediate sprints on rolling stages rather than waiting for mountains, adapting tactics for marginal gains",
+      "VINGEGAARD Jonas": "neutral: made split when Pogačar attacked but lost intermediate sprint seconds, suggesting less focus on stage racing minutiae than rival",
+      "POWLESS Neilson": "positive: attacking twice on short punchy climbs 20km and 16km from finish shows confidence after early-season stage race win",
+      "MERLIER Tim": "positive: Quick-Step sprint execution remains reference-level despite late GC contender attacks fragmenting positioning",
+      "GALNØYCK Thymen": "negative: crashed during crucial transition phase before attacks, UAE losing domestique when needed most"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:51:30.830568+00:00"
+}

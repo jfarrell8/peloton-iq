@@ -4,85 +4,103 @@
   "race_date": "2021-08-09",
   "stage": 1,
   "video": {
-    "video_id": "_NIaEwGWhWU",
-    "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-    "published": "2021-07-14 16:30:32+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=_NIaEwGWhWU",
-    "match_score": 77.39,
+    "video_id": "RT8LMlXrqyk",
+    "title": "Tour de Luxembourg 2021 - Stage 1 | Highlights | Cycling | Eurosport",
+    "published": "2021-09-14 16:46:49+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=RT8LMlXrqyk",
+    "match_score": 78.75,
     "all_candidates": [
       {
-        "video_id": "_NIaEwGWhWU",
-        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-        "channel": "GCN Racing",
-        "published": "2021-07-14 16:30:32+00:00",
+        "video_id": "RT8LMlXrqyk",
+        "title": "Tour de Luxembourg 2021 - Stage 1 | Highlights | Cycling | Eurosport",
+        "published": "2021-09-14 16:46:49+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "uB6Ca040_kg",
+        "title": "Tour de Romandie 2021 - Stage 1 Highlights | Cycling | Eurosport",
+        "published": "2021-04-28 17:19:17+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 78.0
+      },
+      {
+        "video_id": "AXqnkihrr_k",
+        "title": "Tour de Romandie 2021 | Stage 1 Highlights | inCycle",
+        "published": "2021-04-29 17:00:06+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 78.0
+      },
+      {
+        "video_id": "xrVkzcmLNzU",
+        "title": "Tour de Suisse 2021: Stage 1 Highlights",
+        "published": "2021-06-06 18:29:16+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 77.39
       },
       {
-        "video_id": "JZk6a1Z7Csk",
-        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
-        "channel": "GCN Racing",
-        "published": "2021-07-13 16:41:29+00:00",
+        "video_id": "Cro4NkXjIbA",
+        "title": "Tour de Suisse 2021: Stage 1 On-Bike Highlights of a wet and wild ITT",
+        "published": "2021-06-06 19:06:23+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 77.39
       },
       {
-        "video_id": "Lou_5_FxJOQ",
-        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
-        "channel": "GCN Racing",
-        "published": "2021-07-15 16:33:10+00:00",
-        "match_score": 77.39
+        "video_id": "vd6jyt1p1AE",
+        "title": "2021 Tour de Suisse - Stage 1 | Highlights | Cycling | Eurosport",
+        "published": "2021-06-07 09:39:34+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 75.0
       },
       {
-        "video_id": "khNB4kSu1bk",
-        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
-        "channel": "GCN Racing",
-        "published": "2021-07-16 16:26:55+00:00",
-        "match_score": 77.39
+        "video_id": "uzIqr6S1WWU",
+        "title": "Tour the France 2021: Stage 14 on-bike highlights",
+        "published": "2021-07-10 19:12:40+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 75.0
       },
       {
-        "video_id": "ZvTEmEWJcWs",
-        "title": "Tour de France 2021 Stage 10 Highlights | Another Big Win In The Fight For Green",
-        "channel": "GCN Racing",
-        "published": "2021-07-06 16:54:51+00:00",
-        "match_score": 77.39
+        "video_id": "E2YN0FejmgI",
+        "title": "Tour of Norway 2021: Stage 1 Highlights",
+        "published": "2021-08-19 17:27:44+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
       },
       {
-        "video_id": "NgBx2V7fFb8",
-        "title": "Tour de France 2021 Stage 11 Highlights | Cracks Start To Show & A Surprise Winner On Mont Ventoux",
-        "channel": "GCN Racing",
-        "published": "2021-07-07 16:44:06+00:00",
-        "match_score": 77.39
+        "video_id": "nG_6cznx98c",
+        "title": "Tour of Norway 2021: Stage 1 On-Bike Highlights",
+        "published": "2021-08-19 21:11:02+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
       },
       {
-        "video_id": "93gi5mbEOts",
-        "title": "Tour de France 2021 Stage 12 Highlights | Mark Cavendish Vs The Breakaway",
-        "channel": "GCN Racing",
-        "published": "2021-07-08 16:19:07+00:00",
-        "match_score": 77.39
-      },
-      {
-        "video_id": "g_A-6CM_N4g",
-        "title": "Tour de France 2021 Stage 13 Highlights | Can Mark Cavendish Equal Eddy Merckx's Stage Wins Record?",
-        "channel": "GCN Racing",
-        "published": "2021-07-09 16:41:45+00:00",
-        "match_score": 77.39
-      },
-      {
-        "video_id": "zUu7ZGf4MpI",
-        "title": "Tour de France 2021 Stage 14 Highlights | Breakaways Aplenty As Potential Podium Spots Up For Grabs",
-        "channel": "GCN Racing",
-        "published": "2021-07-10 16:08:51+00:00",
-        "match_score": 77.39
-      },
-      {
-        "video_id": "UFeZ8wwgJpc",
-        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
-        "channel": "GCN Racing",
-        "published": "2021-07-11 16:54:14+00:00",
-        "match_score": 77.39
+        "video_id": "Cq1TilF6gVs",
+        "title": "2021 Baloise Belgium Tour - Stage 1 | Highlights | Cycling | Eurosport",
+        "published": "2021-06-09 16:51:41+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 73.33
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 119,
+    "raw_chars": 4089,
+    "clean_chars": 4089,
+    "duration_mins": 4.8,
+    "clean_text": "with the world championships rapidly approaching you always need a punchy event in order to tee yourself up for flounders and the skoda tour of luxembourg provides that every single season or slightly different parkour this time round plenty of punchy finishes but no prologue this time instead a time trial on the penultimate day which should indeed add some bigger gaps than we used to at this race luxembourg and back again our opening stage and some real tests along the way including an or category test that would indeed decide who would have the king of the mountains jersey on the opening stage but it was the kickers at the very end the code stave felter in particular with ramps of 12 and 13 percent that were going to cause trouble to the fast men like caleb and indeed brian cook how would they cope we would have to wait and see a breakaway went up the road it was a strong one jack bauer perhaps the engine room of it for team bike exchange who brought esteban chavez to this race the chase though was being led in a forthright fashion party kerny quickstep with pre-race favourite xiao almeida very much to the forefront of their minds the breakaway started to fracture because of the pace that they were having to maintain the chase was a sterling one they knew they had to catch the break before 10ks to go to have a chance of denying them oronte first out the back door for rally says kavikias was to join him shortly afterwards kenny molly who dominated the mountains competition was still here for binyol powell's along with sean berger and fuentes but slowly but surely they all indeed seeded as the chase was on well they're all getting themselves into color order uh just by the 15 kilometers to go marker knowing that those two climbing tests including a non-categorized ramp up to the finishing plateau were going to be those that pose the biggest questions to everybody well once the breakaway was dealt with fuentes seeding and then finally jack bauer himself a lot more pedaling squares down there and this was definitely not one for the quick men you had to be a puncher to offer up the knockout blow but who would it be well dakone quickstep had done so much work during the day for xiao almeida who were starting to wonder whether they'd done too much lots of teams were sitting in including edgy tour citroen and ua team emirates emirates working of course for mark hershey kozafa and chapels out the options for ag2a situate well the last turn coming with only 250 meters to go was always going to be a technical finale so perhaps it wasn't to be a bunch finish elijah's bear from archaea who brought nero quintana along for the ride he pushed on but ultimately was to be denied by uae who wrote him down who else would take a chance still on those ramps and still almost a slow-motion bicycle race when david gordo went for group armor francis de jer tebo pineau was supposed to be their chosen son for the day but god always a massive threat at moments such as this and the chase had to be a serious one well it's french team ag2r citroen that set off in pursuit giving a magic carpet ride perhaps to ue team emirates but there was to be a compression towards the end look at the left hand side of your picture here so right hand side of the road it was too busy it opened up on the other side and stepping through the shout out job well done paying his teammates back to perfection kept it sensible while the others were busy getting the shoulders involved mark hershey possibly could have won on the day but was denied by that barrack room battling he finished third behind molomar yao made it our winner shabuzan got up for a g2r citron meaning it was kostwa on the barriers quintana with a top five finish as well super racing here in luxembourg and almeida courtesy of the bonus seconds offered up at the line leads this race by a modest margin but they always are modest margins in luxembourg this is how it stacks up overall a late incident for confidence meaning that specular field got a similar time but almeida is in charge for now foreign you",
+    "preview_start": "with the world championships rapidly approaching you always need a punchy event in order to tee yourself up for flounders and the skoda tour of luxembourg provides that every single season or slightly different parkour this time round plenty of punchy finishes but no prologue this time instead a time trial on the penultimate day which should indeed add some bigger gaps than we used to at this race luxembourg and back again our opening stage and some real tests along the way including an or categ",
+    "preview_end": "finished third behind molomar yao made it our winner shabuzan got up for a g2r citron meaning it was kostwa on the barriers quintana with a top five finish as well super racing here in luxembourg and almeida courtesy of the bonus seconds offered up at the line leads this race by a modest margin but they always are modest margins in luxembourg this is how it stacks up overall a late incident for confidence meaning that specular field got a similar time but almeida is in charge for now foreign you"
+  },
+  "status": "transcript_saved"
 }

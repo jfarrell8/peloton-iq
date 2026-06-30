@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Launches long-range solo attacks (50km+) on flat to rolling stages, maintaining gaps of 1:30+ through sustained power output rather than explosive accelerations. Thrives in breakaway scenarios where sprinter teams misjudge timing.",
+  "team_tactics": "Operates with significant independence in breakaways, relying on peloton miscalculation rather than team setups. No clear domestique support pattern visible in successful efforts.",
+  "terrain_preference": "Flat to rolling stages with crosswind exposure where sustainable power matters more than climbing. Excels when sprinter teams must control but hesitate, creating tactical confusion.",
+  "vulnerability": "Gets caught in final kilometer when sprinter teams finally commit to organized chase. Requires peloton disorganization or miscalculation to succeed rather than pure strength advantage.",
+  "key_patterns": [
+    "Executes 40-50km solo efforts maintaining 1:30 gaps through time trial-style riding (2 observations)",
+    "Succeeds when sprinter teams delay chase until final 10km or less (2 observations)",
+    "Wins from small tactical breakaways when stronger riders underestimate his finishing speed (2 observations)",
+    "Exploits crosswind conditions to establish and maintain breakaway gaps (2 observations)"
+  ],
+  "form_trajectory": "positive: Won stage and showed improved sprint finish while demonstrating exceptional endurance in 50km solo effort within same Grand Tour",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DE BONDT Dries",
+  "built_from": [
+    "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 18"
+  ]
+}

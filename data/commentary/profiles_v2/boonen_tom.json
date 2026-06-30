@@ -1,0 +1,20 @@
+{
+  "attacking_style": "No longer initiating attacks; attempting to follow decisive moves in final 15-40km range but unable to sustain efforts in the critical final hour of major Classics.",
+  "team_tactics": "Quick-Step built numerical advantage (three riders forward at Ronde) to compensate for diminished individual capability, but mechanicals and execution failures undermined strategy.",
+  "terrain_preference": "Historically suited to cobbled Classics (Paris-Roubaix, Ronde van Vlaanderen), but 2017 observations show declining ability to handle decisive terrain in race-winning moments regardless of surface type.",
+  "vulnerability": "Critical weakness in final hour execution: unable to follow moves at 15km (Paris-Roubaix), positioning errors in sprint finishes (Oman crash), and mechanical misfortune at decisive moments (Ronde chain jam).",
+  "key_patterns": [
+    "Present with leaders at 40km+ but fading before finish, suggesting declining endurance. (2 races)",
+    "Execution failures in decisive moments: mechanical issues, positioning errors, inability to follow attacks. (3 races)",
+    "Team building numerical advantages to support him, indicating compensatory tactics for reduced form. (1 race)"
+  ],
+  "form_trajectory": "negative: consistent pattern of being competitive mid-race but failing to execute in final decisive phases across all three 2017 observations, suggesting age-related decline",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BOONEN Tom",
+  "built_from": [
+    "2017 Paris-Roubaix",
+    "2017 Ronde Van Vlaanderen",
+    "2017 Tour of Oman Stage 1"
+  ]
+}

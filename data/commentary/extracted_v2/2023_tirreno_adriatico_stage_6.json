@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLITCH won Stage 6 with a final kilometer attack from a select group after KELDERMAN crashed mid-race, forcing Jumbo-Visma tactical recalibration.",
+    "winner": "ROGLITCH Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "COFIDIS, MOVISTAR (Verona/Burrau) counter-moved during Jumbo's Kelderman-crash chaos, forcing INEOS to chase and fracture peloton.",
+      "UAE committed ALMEIDA to prolonged pace-making despite white jersey, revealing willingness to sacrifice youth classification for podium.",
+      "WOODS solo flyer from chase group exploited hesitation about who should control, nearly bridging to leaders.",
+      "ROGLIC positioned at barriers final 200m, using crowd-side momentum to launch winning acceleration despite appearing spent."
+    ],
+    "rider_signals": {
+      "KELDERMAN Wilco": "negative: mid-race concentration lapse crash eliminated Jumbo's designated domestique support for Roglic on crucial climbs",
+      "VAN AERT Wout": "neutral: worked early but Jumbo abandoned original plan after Kelderman crash, suggesting he was preserved not depleted",
+      "MAS Enric": "negative: Movistar executed perfect leadout but Mas faded to barriers final 300m, revealing declining sprint endurance",
+      "KÄMNA Lennard": "negative: dropped significantly on final circuit despite no reported mechanical, finishing in gruppetto suggests hidden form issues",
+      "GEOGHEGAN HART Tao": "positive: second place sprint from select group demonstrates recovered form after INEOS had to chase earlier breaks",
+      "PIDCOCK Tom": "neutral: finished in select group on punchy circuit, confirming climbing versatility beyond pure MTB/CX power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:54:59.441504+00:00"
+}

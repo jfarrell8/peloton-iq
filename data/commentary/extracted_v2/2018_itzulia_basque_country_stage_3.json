@@ -1,0 +1,25 @@
+{
+  "label": "2018 Itzulia Basque Country Stage 3",
+  "race_name": "Itzulia Basque Country",
+  "race_date": "2018-04-04",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MCCARTHY Jay won a bunch sprint after a late breakaway reabsorption inside final 500 meters, Matthews completely absent from finale positioning.",
+    "winner": "MCCARTHY Jay",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Bora-Hansgrohe's Mühlberger worked heavily for breakaway before sprint setup, revealing dual-purpose domestique positioning strategy.",
+      "UAE's late leadout materialized only inside 500m after breakaway caught, suggesting reactive rather than controlled sprint preparation.",
+      "Alaphilippe sat up early believing position secured, prioritizing GC safety over stage result despite being competitive."
+    ],
+    "rider_signals": {
+      "MCCARTHY Jay": "positive: delivered convincing win by half-length with perfectly timed kick despite not being pre-race favorite",
+      "MATTHEWS Michael": "negative: completely absent from finale positioning despite expected sprint contention, suggesting form or team support issues",
+      "ALAPHILIPPE Julian": "neutral: deliberately sat up before line prioritizing GC time gaps over bonus seconds, revealing conservative yellow jersey defense",
+      "HULKOFF Michal": "positive: contested sprint effectively after heavy breakaway work, showing unusual dual-role capacity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:23:34.975379+00:00"
+}

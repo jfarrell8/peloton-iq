@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-11",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rowan won the Stage 16 ITT, while YATES Simon extended his GC lead to 32 seconds over Valverde through unexpectedly strong time trialing.",
+    "winner": "DENNIS Rowan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC deployed dual-pronged ITT strategy with Dennis and Rosskopf both finishing top-2, suggesting team reserve power investment.",
+      "YATES Simon controlled start/finish but attacked middle section of ITT, inverting conventional pacing wisdom for GC defense.",
+      "KWIATKOVSKI crushed ITT one day after Covadonga victory, revealing time-trialing form doesn't deteriorate immediately post-mountain effort as commonly assumed."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Extended GC lead in non-preferred discipline through tactical pacing, mental focus overcame technical weakness",
+      "KWIATKOVSKI Michal": "negative: Strong ITT performance but suggests cumulative fatigue pattern where post-mountain-win efforts still extract future cost",
+      "DENNIS Rowan": "neutral: Used Castroviejo as real-time benchmark split indicator, tactical approach to gauge performance mid-effort",
+      "QUINTANA Nairo": "negative: Disappointing ITT despite expectations suggests third-week fatigue compromising even steady-state efforts",
+      "LOPEZ Miguel Angel": "negative: More disappointing than Quintana in ITT reveals climbing specialists' time trial degradation accelerates late-race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:41:00.616091+00:00"
+}

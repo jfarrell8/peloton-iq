@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not appear to be a primary attacker; focuses on strong positioning through finales to contest sprints, but lacks explosive acceleration in final 50 meters.",
+  "team_tactics": "Insufficient data on team support structure; appears to rely on individual positioning skills rather than coordinated lead-out trains.",
+  "terrain_preference": "Flat sprint finales where positioning matters more than pure top-end speed; struggles when numerical superiority or technical corners are factors.",
+  "vulnerability": "Final 50m acceleration deficit prevents winning against pure sprinters; susceptible to being boxed in at technical corners when outnumbered, particularly when lacking teammates for positioning support.",
+  "key_patterns": [
+    "Strong positioning through finales but unable to convert to victories (2 observations)",
+    "Vulnerable to tactical isolation: boxed in when numerical disadvantage exists (2 observations)",
+    "Lacks explosive final-meters acceleration despite reaching strong positions (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent podium positioning shows good tactical awareness, but repeated inability to convert suggests fundamental speed limitation rather than declining form",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MARINI Nicolas",
+  "built_from": [
+    "2017 Tour de Pologne Stage 5",
+    "2017 Tour de Pologne Stage 6"
+  ]
+}

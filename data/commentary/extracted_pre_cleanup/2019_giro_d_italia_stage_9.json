@@ -1,0 +1,32 @@
+{
+  "label": "2019 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-19",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked the final climb in wet conditions, winning by 1:04 over CAMPENAERTS who lost 20-30 seconds to a mechanical bike change.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CAMPENAERTS unplanned bike change cost him stage victory, suggests equipment failure risk in wet TT conditions worth 20-30 seconds.",
+      "ROGLIČ paced middle section conservatively in rain, gained decisive margin on final climb showing superior wet-weather power distribution.",
+      "YATES collapsed in middle sector, losing 20+ seconds to NIBALI there before climb, revealing vulnerability in sustained flat power.",
+      "NIBALI gained significantly on middle flat section versus GC rivals, suggesting his diesel power suits longer TT efforts better than explosive climbers.",
+      "CONTI maintained Maglia Rosa despite expectations of shake-up, indicating GC men underperformed relative to time gaps held by breakaway rider."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Won stage with perfectly measured effort, took back significant time despite starting in worse rain conditions than early starters.",
+      "CAMPENAERTS Victor": "positive: Set fastest early time by 2:26, would have won without mechanical, shows European champion form translating to Grand Tours.",
+      "YATES Simon": "negative: Disaster performance, collapsed in middle flat section losing 20+ seconds to NIBALI, finished outside top 10 on stage.",
+      "NIBALI Vincenzo": "positive: Fastest of initial GC group at first check, gained 20+ seconds on YATES in middle sector, suggests strong TT form building.",
+      "JUNGELS Bob": "positive: Only 11 seconds behind ROGLIČ at first time check, limiting losses better than other GC threats.",
+      "CONTI Valerio": "neutral: Retained pink jersey despite being vulnerable, GC favorites underperformed expectations allowing him to keep lead.",
+      "LÓPEZ Miguel Ángel": "negative: Specifically mentioned as putting in terrible performance, slower than struggling YATES.",
+      "SIVAKOV Pavel": "neutral: Mentioned as reference point, finishing faster than imploded GC contenders like YATES.",
+      "GEOGHEGAN HART Tao": "neutral: Beat YATES on stage, used as benchmark for disappointing GC rider performances."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:59:39.400409+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-12",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won stage 1 from a reduced bunch sprint after RICCITELLO Sergio's attack 2.9km out fragmented the group on the Cat 4 finishing climb.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "RICCITELLO attacked 2.9km out on Cat 4 climb fragmenting group, revealing finishing gradients steep enough to drop pure sprinters.",
+      "ROGLIC positioned third wheel after RICCITELLO move, showing Jumbo-Visma's comfort letting van Aert finish rather than controlling earlier.",
+      "LATOUR's counter-attack with 2km remaining exploited altitude training advantage, suggesting high-altitude prep critical for Dauphiné climbs.",
+      "IMPEY's outside sprint closed 35kph to van Aert's 31kph in final 50m, nearly catching winner—positioning cost him victory."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Won from reduced bunch after Cat 4 climb, showing remarkable recovery one year post-Tour crash hospitalization.",
+      "FROOME Chris": "negative: Sat up on final climb after being sick, concerning form signal despite team claiming managed recovery effort.",
+      "IMPEY Daryl": "positive: Nearly caught van Aert with superior closing speed but boxed in, demonstrating stronger finishing kick than positioning suggested.",
+      "ROGLIC Primoz": "neutral: Third wheel positioning after Riccitello attack but let van Aert finish, tactical deference or lacking final punch unclear.",
+      "BERNAL Egan": "positive: Third place from bunch sprint despite coming from further back than Impey, solid climbing form evident.",
+      "VAN GARDEREN Tejay": "negative: Dropped decisively on early climbs despite two previous runner-up finishes at this race, significant form decline.",
+      "BONIFAZIO Niccolo": "negative: Abandoned breakaway with back pain despite leading KOM, forced out while in competitive position.",
+      "ALAPHILIPPE Julian": "negative: Only 13th place on finish suited to his characteristics, unexpectedly weak on punchy Cat 4 finale."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:11:26.643705+00:00"
+}

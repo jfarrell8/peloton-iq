@@ -1,0 +1,29 @@
+{
+  "label": "2023 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KEMNA Lennard won from the breakaway on the cat-2 summit finish while GC group split in crosswinds first hour, time gaps awarded at 2.6km due to mudslide chaos.",
+    "winner": "KEMNA Lennard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma put seven riders in crosswind split early, averaging 32mph first hour to pressure GC rivals before climb.",
+      "Soudal drove echelon in gutter while Jumbo fanned wide, revealing conflicting crosswind tactics between top teams.",
+      "Organizers awarded GC times at 2.6km from finish due to mudslide, creating tactical incentive for late attacks pre-obstacle.",
+      "ALMEIDA and VLASOV attacked inside 2km together, gaining seconds on ROGLIC/EVENEPOEL group through mudslide time-cut loophole."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "neutral: stayed with SOLER throughout split but lost time to ALMEIDA/VLASOV/ROGLIC/VINGEGAARD/EVENEPOEL group, gap unclear pending official times",
+      "ALMEIDA Joao": "positive: attacked with VLASOV inside 2.6km to exploit mudslide time-cut, led GC favorites group across line",
+      "VINGEGAARD Jonas": "neutral: followed ROGLIC/EVENEPOEL group, gained time on KUSS but not on ALMEIDA attack",
+      "EVENEPOEL Remco": "neutral: finished with ROGLIC and VINGEGAARD, gaining on KUSS but conceding to ALMEIDA/VLASOV move",
+      "BERNAL Egan": "negative: caught behind initial crosswind split, minutes down after early echelon selection",
+      "ROGLIC Primoz": "positive: led GC favorites group through finish with EVENEPOEL on wheel, teammate gained stage win",
+      "VLASOV Aleksandr": "positive: attacked with ALMEIDA inside 2.6km, took pulls in crosswind echelon showing strong form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:35:28.175738+00:00"
+}

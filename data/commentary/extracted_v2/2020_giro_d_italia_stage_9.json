@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-11",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GERHEIGH Ruben won solo after following CASTROVIEJO's late attack while NIBALI's test attack failed to produce damage prompting team abandon of effort.",
+    "winner": "GERHEIGH Ruben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BIALOV bridged solo from peloton to 7-man break, immediately counterattacked with 35km showing strength through effort stacking.",
+      "NIBALI shark attack prompted immediate look-back assessment and team abort signal when damage insufficient, revealing pre-planned threshold metrics.",
+      "CASTROVIEJO unable to shed GERHEIGH despite riding, suggesting stage hunters should expect Portuguese climber in late-race selections.",
+      "HAMILTON and KAGAN gaining GC time from final climb selection indicates breakaway positioning critical on medium mountain stages."
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "negative: aborted own attack mid-effort after visual assessment showed insufficient gaps, suggesting declining confidence in climbing firepower",
+      "ALMEIDA Joao": "positive: defended pink jersey through selective climbing on stage with 4500m elevation, now holding GC lead deeper than any Portuguese in history",
+      "GERHEIGH Ruben": "positive: first grand tour win came from following wheels then finishing stronger, not initiating, revealing patient tactical maturity at 26",
+      "CASTROVIEJO Jonathan": "negative: failed to drop weaker climber despite leading final climb attack, suggesting diminished late-race power after bridge effort",
+      "BILBAO Pello": "positive: moved closer to pink jersey reaching third overall, gaining time through smart positioning not attacking"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:16:40.816133+00:00"
+}

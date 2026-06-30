@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-11",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian won stage 2 after teammate ALMEIDA Joao's 30km breakaway attempt softened the group, enabling Deceuninck QuickStep 1-2 finish.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Deceuninck QuickStep deployed ALMEIDA in 30km breakaway specifically to fatigue rivals before ALAPHILIPPE's sprint, textbook dual-threat strategy.",
+      "YATES Simon, reigning champion, surprisingly dropped during the breakaway effort despite being marked as dangerous pre-race.",
+      "VAN AERT Wout's team prioritized jersey defense over stage hunting, allowing QuickStep's teamwork to prevail in final 1000m.",
+      "VANDERPOEL Mathieu launched sprint too late despite positioning, suggesting misjudged timing on unfamiliar uphill finish gradient."
+    ],
+    "rider_signals": {
+      "ALMEIDA Joao": "positive: sustained 30km breakaway effort on lumpy terrain after first half flat racing shows exceptional diesel engine beyond known TT ability",
+      "YATES Simon": "negative: defending champion couldn't follow breakaway move on terrain that should suit, suggests poor current form or tactical misread",
+      "ALAPHILIPPE Julian": "positive: won uphill sprint after teammate's long attack, demonstrating recovered versatility beyond pure punchy climbs",
+      "VANDERPOEL Mathieu": "neutral: positioning perfect but sprint timing hesitant, likely still calibrating form early season",
+      "VAN AERT Wout": "neutral: team rode defensively for jersey rather than stage win, revealing conservative early-week GC protection strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:49:02.433602+00:00"
+}

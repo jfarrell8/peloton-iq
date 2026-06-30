@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker. Durbridge is a time trial specialist and team worker who excels in individual TT stages, particularly when starting early in the running order.",
+  "team_tactics": "Functions as high-level domestique in team time trials, delivering the squad to strong finishes. Not positioned for personal glory in road stages.",
+  "terrain_preference": "Time trial stages, especially prologue/early TTs where he can set benchmarks. Flat, power-based efforts suit his diesel engine and TTT skills.",
+  "vulnerability": "Mountain stages and selective terrain where pure climbing watts matter. Role limits personal ambitions in stage races beyond TT days.",
+  "key_patterns": [
+    "Early starter in time trials who sets competitive benchmarks before favorites roll (2 observations)",
+    "Team time trial specialist holding high individual positions through pacing excellence (2 observations)",
+    "Consistent top-six TT finisher even with 50+ second deficits to pure specialists"
+  ],
+  "form_trajectory": "neutral: 2022 TT performance showed maintained quality as domestique/TT worker, but limited recent data for trend analysis",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DURBRIDGE Luke",
+  "built_from": [
+    "2019 Tirreno-Adriatico Stage 1",
+    "2022 Criterium du Dauphine Stage 4"
+  ]
+}

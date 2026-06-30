@@ -4,85 +4,21 @@
   "race_date": "2021-06-08",
   "stage": 3,
   "video": {
-    "video_id": "H7D-K5Hb5e0",
-    "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
-    "published": "2021-06-28 16:32:57+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=H7D-K5Hb5e0",
-    "match_score": 78.18,
-    "all_candidates": [
-      {
-        "video_id": "H7D-K5Hb5e0",
-        "title": "Tour de France 2021 Stage 3 Highlights | Brutal Crashes Strike Jumbo Visma & Team Ineos!",
-        "channel": "GCN Racing",
-        "published": "2021-06-28 16:32:57+00:00",
-        "match_score": 78.18
-      },
-      {
-        "video_id": "xTkhn1WOduA",
-        "title": "Can Team Ineos Really Win The 2021 Tour De France Against Pogačar & Roglič? | GCN's Racing News Show",
-        "channel": "GCN Racing",
-        "published": "2021-06-14 15:00:52+00:00",
-        "match_score": 46.07
-      },
-      {
-        "video_id": "_NIaEwGWhWU",
-        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-        "channel": "GCN Racing",
-        "published": "2021-07-14 16:30:32+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "JZk6a1Z7Csk",
-        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
-        "channel": "GCN Racing",
-        "published": "2021-07-13 16:41:29+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "Lou_5_FxJOQ",
-        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
-        "channel": "GCN Racing",
-        "published": "2021-07-15 16:33:10+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "khNB4kSu1bk",
-        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
-        "channel": "GCN Racing",
-        "published": "2021-07-16 16:26:55+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "UFeZ8wwgJpc",
-        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
-        "channel": "GCN Racing",
-        "published": "2021-07-11 16:54:14+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "g_A-6CM_N4g",
-        "title": "Tour de France 2021 Stage 13 Highlights | Can Mark Cavendish Equal Eddy Merckx's Stage Wins Record?",
-        "channel": "GCN Racing",
-        "published": "2021-07-09 16:41:45+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "3PeuXUd6yHE",
-        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
-        "channel": "GCN Racing",
-        "published": "2021-07-18 18:57:54+00:00",
-        "match_score": 38.18
-      },
-      {
-        "video_id": "JDqt96CevYc",
-        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
-        "channel": "GCN Racing",
-        "published": "2021-07-17 17:03:43+00:00",
-        "match_score": 38.18
-      }
-    ]
+    "video_id": "Zo8rYTZnNxI",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=Zo8rYTZnNxI",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 57,
+    "raw_chars": 1252,
+    "clean_chars": 1165,
+    "duration_mins": 5.7,
+    "clean_text": "yes um okay so them mm-hmm this hey on the pool it's you again and like yesterday you were the strongest rider by far where do you get the energy from that's a good question i think uh yeah i had a good day again i wanted to make the race hard like yesterday on the final climb but they were still uh yeah i think around 30 40 guys with us and um yeah we did the sprint one lap before the finish and i saw that it was something that suits me really well so i aimed for that you're also the new leader right now is it the goal to defend the jersey as long as it's possible yeah as long as it's possible maybe but it will be difficult maybe tomorrow is an opportunity still but then it's uh yeah in the mountains it's too hard for me but tomorrow it's also an opportunity for you to win again yeah i think it's kind of similar to these two days but yeah for sure they're not going to make it easy uh also today was very difficult we we had to do a really big effort with the whole team and yeah again they were impressive today you think it's possible to win third time everything is possible there has to win someone so maybe it's me again thank you very much um you",
+    "preview_start": "yes um okay so them mm-hmm this hey on the pool it's you again and like yesterday you were the strongest rider by far where do you get the energy from that's a good question i think uh yeah i had a good day again i wanted to make the race hard like yesterday on the final climb but they were still uh yeah i think around 30 40 guys with us and um yeah we did the sprint one lap before the finish and i saw that it was something that suits me really well so i aimed for that you're also the new leader",
+    "preview_end": " still but then it's uh yeah in the mountains it's too hard for me but tomorrow it's also an opportunity for you to win again yeah i think it's kind of similar to these two days but yeah for sure they're not going to make it easy uh also today was very difficult we we had to do a really big effort with the whole team and yeah again they were impressive today you think it's possible to win third time everything is possible there has to win someone so maybe it's me again thank you very much um you"
+  },
+  "status": "transcript_saved"
 }

@@ -1,0 +1,27 @@
+{
+  "label": "2020 UAE Tour Stage 2",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-24",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai won uphill sprint at Falls Creek after attacking 2.5km out, dropped everyone except HOWSON and BERRICK who led out finale.",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Mitchelson-Scott waited until 13km to go before chasing down breakaway, allowing 24-year-old LYONS solo escape to persist dangerously.",
+      "MORTON's high-gear crushing attack style proved unsustainable on Falls Creek gradients despite ultra-endurance pedigree suggesting diesel power.",
+      "BERRICK as only non-WorldTour rider staying with favorites then leading out sprint reveals team tactical miscalculation losing stage.",
+      "Sunweb used STORER domestique work until 2.5km remaining before HINDLEY attacked, typical late-firing Australian team pattern."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: unexpectedly dropped when peloton still had numbers with 13km remaining, suggesting poor form or illness at supposed GC target race",
+      "BERRICK Sebastian": "positive: only non-WorldTour rider staying with GC favorites and strong enough to lead sprint proves serious emerging talent",
+      "VINE Jay": "neutral: bridged to MORTON attack but absorbed quickly, showing acceleration but not sustained climbing to threaten GC",
+      "LYONS Angus": "positive: 24-year-old sustained solo attack from 55km out until final climb base, unusual diesel engine for young rider",
+      "MORTON Lachlan": "negative: ultra-endurance background didn't translate to grinding climb power despite big gear mashing looking impressive visually"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:28:12.918125+00:00"
+}

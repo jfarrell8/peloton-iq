@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Long-range breakaway rider who leads over penultimate climbs but struggles with final accelerations when fresh riders bridge. Capable of solo victories on HC summit finishes when left unchallenged.",
+  "team_tactics": "Deployed as climbing domestique for team leaders (worked for ROGLIČ) despite own GC capabilities. Limited evidence of dedicated team support when riding for personal ambitions in stage hunts.",
+  "terrain_preference": "High-altitude HC summit finishes with sustained gradients (La Plagne victory). Struggles when races require sharp accelerations or when faced with fresh riders bridging late.",
+  "vulnerability": "Lacks final acceleration when caught by stronger finishers bridging from behind. Mechanicals at critical moments (broken wheel on final Giro climb). Cannot respond when elite climbers attack late.",
+  "key_patterns": [
+    "Breakaway specialist who leads over earlier climbs but fades when caught late (Vuelta, Giro evidence).",
+    "Emerged as HC-level summit finish winner in early twenties, beating established climbers like KUSS.",
+    "Accepts domestique duties for team leaders despite personal climbing strength (ROGLIČ support, tactical flexibility).",
+    "Strong sustained climbing but lacks explosive power to counter attacks from fresh riders."
+  ],
+  "form_trajectory": "negative: 2021 showed breakthrough HC stage wins and elite climbing, but 2022 Vuelta showed declining ability to finish efforts when challenged",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "PADUN Mark",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 5",
+    "2018 Itzulia Basque Country Stage 5",
+    "2020 Giro d'Italia Stage 12",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 8",
+    "2022 La Vuelta ciclista a Espana Stage 6",
+    "2022 La Vuelta ciclista a Espana Stage 6"
+  ]
+}

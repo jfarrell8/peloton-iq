@@ -1,0 +1,28 @@
+{
+  "label": "2021 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-26",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTIN Dan soloed to victory from 19-rider break after attacking 10km out on Sega di Ala, while BERNAL cracked for first time losing 1:23 to YATES.",
+    "winner": "MARTIN Dan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange valley pacing nearly caught 19-rider break despite 5:30 gap, questioning traditional mountain stage break calculus.",
+      "Martin attacked final climb at 10km not summit, exploiting early acceleration advantage over chasers on 14km ascent.",
+      "Bernal's bad back caused first GC crack at 123 seconds, Martinez pacing unable to prevent Yates gaining minute.",
+      "Almeida outclimbed Yates by 17 seconds chasing Martin, signaling sunny-day form superiority over stage-race positioning."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: First visible weakness with bad back, lost 1:23 despite Martinez pacing support on Sega di Ala",
+      "YATES Simon": "positive: Gained nearly minute on Bernal to move back onto podium at 3:23, suggesting pink jersey vulnerability",
+      "ALMEIDA Joao": "positive: Chased Martin harder than Yates, finishing 17 seconds ahead, jumped back into top 10 on summit finish",
+      "MARTIN Dan": "positive: 10km solo effort from 19-rider break shows recovered form after losing time previous days",
+      "VLASSOV Aleksandr": "negative: Distanced on Paso San Valentino, dropped to 4th at 6:03, showing Summit weakness",
+      "CARTHY Hugh": "negative: Major trouble on climbs, fell from 4th to 6th at 6:09, lost over three minutes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:38:13.570182+00:00"
+}

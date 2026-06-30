@@ -1,0 +1,27 @@
+{
+  "label": "2023 Ronde van Vlaanderen - Tour des Flandres",
+  "race_name": "Ronde van Vlaanderen - Tour des Flandres",
+  "race_date": "2023-04-02",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR Tadej attacked repeatedly on the paired Oude Kwaremont-Paterberg climbs to drop VAN DER POEL Mathieu, winning solo by 15+ seconds.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked relentlessly on paired Kwaremont-Paterberg to avoid sprint finish, proving Monument tactics prioritize format denial over energy conservation.",
+      "VAN DER POEL's mechanical chain drop on key climb proved decisive when chasing fractured breakaway quality riders.",
+      "Trek's PEDERSEN animated 100km+ breakaway forcing favorites to bridge rather than control, fragmenting Alpecin-Deceuninck domestique coverage.",
+      "VAN HOOYDONCK sacrificed own result to pace WOUT VAN AERT after weakness shown, revealing Jumbo-Visma prioritized podium salvage."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Demonstrated Monument-winning tactical maturity by attacking repeatedly to guarantee solo finish rather than risk his inferior sprint.",
+      "VAN DER POEL Mathieu": "negative: Mechanical at worst moment plus inability to match POGACAR's repeated accelerations exposes vulnerability when domestiques depleted by crashes.",
+      "WOUT VAN AERT Bernards": "negative: Struggled visibly on climbs despite Jumbo-Visma numerical superiority, suggesting form insufficient for hilly Monument victory.",
+      "PEDERSEN Mads": "positive: Fourth place from 100km+ breakaway shows capability to threaten favorites when race fractures early in windy Flemish classics.",
+      "POWLESS Neilson": "positive: Fifth place finish demonstrates American climber's underrated cobbled classics capability when race becomes attritional."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:11:05.763339+00:00"
+}

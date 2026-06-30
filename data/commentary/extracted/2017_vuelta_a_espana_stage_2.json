@@ -1,0 +1,29 @@
+{
+  "label": "2017 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-20",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAMPAERT Yves won solo after Team Sky forced echelon chaos 8km from finish, Quick-Step caught and countered at 60kph.",
+    "winner": "LAMPAERT Yves",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky's echelon attempt at 8km out on flat roads backfired when Quick-Step's superior TTT skills turned defense into winning offense.",
+      "DENNIS Rohan took bonus seconds at intermediate sprint to virtually claim red jersey, showing Quick-Step targeted GC gaps before finale.",
+      "Sky rolling at 60kph with 8km remaining on flat stage signals they'll weaponize echelons aggressively even without crosswinds.",
+      "Quick-Step converting Sky's failed echelon into LAMPAERT solo proves Belgian squad's superior collective strength in nervous finales."
+    ],
+    "rider_signals": {
+      "LAMPAERT Yves": "positive: converted defensive Quick-Step response to Sky's echelon into irresistible solo, taking stage and both jerseys",
+      "FROOME Chris": "neutral: mechanical problems mid-stage but Team Sky's 8km echelon attempt shows aggressive GC tactics despite stage profile",
+      "NIBALI Vincenzo": "negative: crashed out of race on Stage 2, ending Vuelta before mountains",
+      "MORENO Javier": "negative: crashed out of race on Stage 2 alongside teammate NIBALI",
+      "DENNIS Rohan": "positive: took intermediate sprint bonuses to virtually claim red jersey before Quick-Step's finale dominance",
+      "TRENTIN Matteo": "positive: finished second behind teammate LAMPAERT, showing Quick-Step's depth in controlling chaotic finale",
+      "MODOLO Sacha": "neutral: took fifth despite Quick-Step controlling finale, indicating sprint positioning survived echelon chaos"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:18:07.985023+00:00"
+}

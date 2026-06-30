@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-08",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won a technical sprint after Jumbo-Visma forced crosswind split at 10km creating 20-rider front group that caught several top sprinters behind",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma initiated crosswind split at 10km despite unclear wind conditions, forcing nervous positioning that split peloton into 20 riders",
+      "VAN DER POEL Mathieu served as lead-out man for PHILIPSEN through technical finale with chicanes, releasing sprint at 175m mark",
+      "AUGNER Filippo bridged PHILIPSEN to front group by protecting GC leader position, inadvertently delivering rival sprinter to winning position"
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: positioned perfectly in crosswind-induced front group while rival JACOBSEN caught behind, then finished technical sprint cleanly",
+      "VAN DER POEL Mathieu": "positive: functioned as de facto lead-out specialist through complex finale despite typically being protected rider himself",
+      "ROGLIC Primoz": "neutral: prioritized front positioning during crosswind panic suggesting lingering concern about crash vulnerability from previous day",
+      "JACOBSEN Fabio": "negative: caught behind crosswind split despite winning previous stage, then struggled physically using barriers for balance in finale",
+      "GIRMAY Biniam": "positive: reached podium without team support in technical finale, showing improved sprint positioning skills"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:54:11.421922+00:00"
+}

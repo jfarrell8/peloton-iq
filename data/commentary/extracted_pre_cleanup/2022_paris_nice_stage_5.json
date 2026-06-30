@@ -1,0 +1,31 @@
+{
+  "label": "2022 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MCNULTY Brandon attacked from the breakaway on the final classified climb, built a 2-minute gap over chasers JORGENSON and BONNAMOUR while ROGLIC inherited yellow as VAN AERT was dropped.",
+    "winner": "MCNULTY Brandon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MCNULTY attacked final classified climb from 10-rider break with 45km remaining, time trialed solo descent and flat to 2-minute victory.",
+      "SAMSIC team isolated ROGLIC on classified climbs despite him wearing virtual yellow, exposing Jumbo-Visma numerical weakness from mass illness non-starts.",
+      "VAN AERT dropped shortly after LAPORTE on penultimate climb, confirming yellow jersey occupants cracked before GC contenders on mid-mountain stages.",
+      "JORGENSON clawed significant GC time back in break chase group while YATES/VLASOV attacks on ROGLIC neutralized by counter-moves, not team control."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "positive: Soloed 45km including technical descent with 4:30 deficit to overcome, demonstrated diesel TT power over varied terrain.",
+      "VAN AERT Wout": "negative: Dropped on final classified climb while in yellow jersey, revealing form limitations on consecutive climbing days.",
+      "LAPORTE Christophe": "negative: Dropped on podium position before VAN AERT, suggesting sprint-weight penalties accumulate faster than pure climbers.",
+      "ROGLIC Primož": "neutral: Defended without teammates against YATES/VLASOV/MARTÍNEZ attacks but relied on mutual marking, not dominance.",
+      "JORGENSON Matteo": "positive: Bridged to BONNAMOUR in chase behind MCNULTY, took significant GC time while favorites watched each other.",
+      "LATOUR Pierre": "positive: Attempted late sprint separation from favorites group at finish, showing aggressive intent despite GC time loss.",
+      "YATES Simon": "neutral: Initiated chase of ROGLIC but lacked finishing power to create gap, moved to second overall passively.",
+      "MARTÍNEZ Daniel Felipe": "negative: Given little room by team to attack despite ROGLIC isolation, suggesting INEOS tactical confusion.",
+      "BONNAMOUR Franck": "positive: Made final three-rider chase group from larger break, limiting losses to 2 minutes behind MCNULTY's attack."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:37:33.337389+00:00"
+}

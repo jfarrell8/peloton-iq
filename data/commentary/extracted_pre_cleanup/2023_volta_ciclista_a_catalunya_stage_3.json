@@ -1,0 +1,29 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-22",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL attacked with 1km to go after ROGLIČ refused to share pace, won by 2 seconds but lost GC by bonus seconds arithmetic.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step over-paced earlier climbs with BERNAL, exhausting domestiques before finale—risky investment for marginal gains.",
+      "EVENEPOEL repeatedly demanded turns from ROGLIČ while ahead, signaling psychological warfare before final kilometer attack.",
+      "SOLER attacked without protecting ALMEIDA's GC position, revealing UAE's internal hierarchy confusion on selective mountain stages.",
+      "KARAPAZ resisted multiple break attacks on penultimate climb, showing champion's resilience despite ultimately being caught 9km out."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: dominant power display forcing ROGLIČ into passive tactics, but celebration cost 2 seconds and potential GC lead",
+      "ROGLIČ Primož": "positive: tactically astute refusal to work preserved 4-second bonus gap, retaining GC despite weaker finale",
+      "BERNAL Egan": "negative: suffered badly on successive climbs despite team support, recovery timeline appears significantly longer than anticipated",
+      "SOLER Marc": "neutral: strong enough to attack late but unclear team role suggests UAE lacks cohesive GC protection plan",
+      "KARAPAZ Richard": "positive: survived break attacks until 9km remaining, showing capacity to defend advantage despite not winning",
+      "VAN GILS Maxim": "positive: last breakaway rider caught confirms ability to sustain efforts on progressive altitude stages",
+      "ALMEIDA João": "neutral: well-placed despite SOLER's unsupported attack, suggesting personal form sufficient without team commitment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:29:50.533792+00:00"
+}

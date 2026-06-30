@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Not a traditional attacker; uses aggressive positioning moves pre-intermediate sprints to probe rivals and test form. Launches early solo sprints (200m out) when lacking leadout support, relying on sustained power rather than explosive punch.",
+  "team_tactics": "Historically operates with minimal leadout support (single domestique or none), forcing self-reliant positioning and early sprint launches. Team commitment to sprint infrastructure has been inconsistent across squads.",
+  "terrain_preference": "Better climbing form than typical sprinter—holds position on repeated circuit climbs and stage-ending ascents. Excels in attrition-based stages where cumulative fatigue eliminates pure sprinters. Struggles with explosive short climbs that drop him before finales.",
+  "vulnerability": "Lacks ultimate top-end speed against pure sprinters in textbook leadout scenarios. Exposed on punchy 8km climbs before GC riders. Respiratory issues (bronchitis) severely compromise finishing ability. Prone to desperation tactics when chasing classification points.",
+  "key_patterns": [
+    "Launches sprints at 200m without leadout, using sustained power over explosive speed. (2 instances)",
+    "Superior late-tour freshness; wins when cumulative fatigue affects competitors more. (2 instances)",
+    "Makes aggressive pre-sprint moves for tactical reconnaissance rather than energy conservation. (2 instances)",
+    "Holds position on climbs better than sprint rivals; unexpected climbing durability. (3 instances)",
+    "Closes impossible gaps but lacks final meters; strong chase, weak final acceleration. (2 instances)",
+    "Health issues directly compromise race-winning capacity despite strong positioning. (2 instances)"
+  ],
+  "form_trajectory": "negative: 2022 observations show marked decline with bronchitis impact, dropped on climbs previously manageable, lost sprint despite champion status",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "COLBRELLI Sonny",
+  "built_from": [
+    "2017 Paris-Nice Stage 2",
+    "2017 Paris-Nice Stage 2",
+    "2018 Tour de France Stage 2",
+    "2018 Tour de France Stage 7",
+    "2019 UAE Tour Stage 4",
+    "2019 UAE Tour Stage 4",
+    "2021 Benelux Tour Stage 1",
+    "2021 Criterium du Dauphine Stage 5",
+    "2021 Tour de France Stage 1",
+    "2021 Tour de France Stage 10",
+    "2021 Tour de Romandie Stage 1",
+    "2022 Paris-Nice Stage 1",
+    "2022 Volta Ciclista a Catalunya Stage 1"
+  ]
+}

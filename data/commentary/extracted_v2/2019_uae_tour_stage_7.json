@@ -1,0 +1,25 @@
+{
+  "label": "2019 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2019-03-02",
+  "stage": 7,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won stage 7 sprint after recovering from crash outside Brussels finish, edging EWAN in final meters with Jumbo-Visma leadout fractured.",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Jumbo-Visma leadout abandoned GROENEWEGEN early when Marcus Burkhart took front, forcing solo positioning in final kilometer.",
+      "SAGAN's Bora positioned perfectly with LASS leading, then inexplicably SAGAN didn't follow, got boxed and had to wait for gaps.",
+      "VIVIANI executed textbook positioning inside top-10 entering final kilometer but lacked final 100m speed against pure fastmen."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: Demonstrated mental resilience winning after Brussels crash, plus raw speed to hold off EWAN despite compromised leadout",
+      "EWAN Caleb": "positive: Nearly won despite starting sprint from worse position than SAGAN/GROENEWEGEN, suggesting superior peak wattage in final 150m",
+      "SAGAN Peter": "negative: Positioned perfectly on LASS wheel but failed to follow teammate's acceleration, suggesting tactical hesitation or mistimed jump",
+      "VAN GARDEREN Tejay": "negative: Face injury from road sign 7km into stage suggests vulnerability to close-quarters positioning in nervous pelotons"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:05:14.402108+00:00"
+}

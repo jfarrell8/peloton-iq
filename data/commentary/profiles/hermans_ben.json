@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Explosive, short-range attacker who strikes inside the final kilometer on uphill finishes and punchy climbs. Prefers well-timed accelerations rather than long-distance efforts, particularly effective on steep gradients under 3km.",
+  "team_tactics": "Shows ability to operate independently without significant team support, evidenced by defending GC after crash without domestique assistance. Relies on personal positioning and tactical reading rather than team-led setups.",
+  "terrain_preference": "Thrives on punchy uphill finales and medium-length climbs like Green Mountain where explosive power matters more than sustained climbing. Excels when steep gradients allow decisive short accelerations in final 1-2km.",
+  "vulnerability": "Struggles to sustain pace on prolonged steep gradients, particularly when forced to defend rather than attack. Fades badly in final kilometers when unable to control tempo or make decisive accelerations on his terms.",
+  "key_patterns": [
+    "Attacks inside final kilometer on uphill finishes with precise timing (3 observations).",
+    "Demonstrates tactical intelligence to read race dynamics and counter moves effectively (2 observations).",
+    "Shows resilience under adversity but limited team support infrastructure (2 observations crash/GC defense).",
+    "Superior finishing power on punchy climbs but fades when gradients become sustained (2 observations)."
+  ],
+  "form_trajectory": "negative: 2017 showed consistent punch and tactical acumen, but 2018 Tirreno revealed inability to sustain effort on steep finishes, suggesting decline in climbing durability",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HERMANS Ben",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 2",
+    "2017 Tour of Oman Stage 5",
+    "2017 Tour of Oman Stage 5",
+    "2017 Tour of Oman Stage 6",
+    "2017 Tour of Oman Stage 6",
+    "2018 Tirreno-Adriatico Stage 4"
+  ]
+}

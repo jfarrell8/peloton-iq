@@ -1,0 +1,30 @@
+{
+  "label": "2022 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-01-01",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai secured first Australian Giro victory by maintaining 1:25 GC lead over CARAPAZ Richard in final 17.4km Verona TT, aided by KÄMNA Lennard's Stage 20 work.",
+    "winner": "SOBRERO Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KÄMNA Lennard's domestique effort on Stage 20 Fedaia pre-positioned HINDLEY Jai's TT cushion, revealing multi-stage GC defense tactics.",
+      "HINDLEY matched CARAPAZ exactly through climb checkpoints (1 second difference), showing defensive pacing mastery under GC pressure.",
+      "ARENSMAN Thymen's Grand Tour debut produced 2nd place TT finish, 22.6 seconds down, signaling emerging stage race capability."
+    ],
+    "rider_signals": {
+      "SOBRERO Matteo": "positive: Won by 76 seconds in national champion skinsuit, second TT victory for team after YATES Stage 1.",
+      "HINDLEY Jai": "positive: Zero time gap to CARAPAZ at climb summit reveals controlled risk management, not raw TT power.",
+      "ARENSMAN Thymen": "positive: 22.6 seconds behind winner on Grand Tour debut signals precocious TT ability for future GC campaigns.",
+      "KÄMNA Lennard": "positive: Stage 20 mountain domestique work mentioned as critical factor in creating defendable 1:25 GC gap.",
+      "CARAPAZ Richard": "neutral: Matched HINDLEY's splits throughout but 1:25 Stage 20 loss proved insurmountable despite birthday effort.",
+      "LANDA Mikel": "positive: Secured podium three years after missing it, showing late-career consistency improvement.",
+      "HEPBURN Michael": "neutral: Set early benchmark but superseded, suggesting team time trial specialists struggle on mixed terrain parcours.",
+      "CORT Magnus": "neutral: Led briefly before SCHMID, confirming puncheur TT ability fades on technical descents.",
+      "AFFINI Edoardo": "neutral: Local rider from 40km away couldn't match SOBRERO, showing home advantage limited in specialist TTs."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:28:36.187243+00:00"
+}

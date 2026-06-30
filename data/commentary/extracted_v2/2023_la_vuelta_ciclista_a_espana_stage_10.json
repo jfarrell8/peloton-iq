@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 10",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-05",
+  "stage": 10,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 25.8km Valladolid ITT at 56kph, beating world champion EVENEPOEL by 16 seconds while SEPU'LVEDA Jes's defended red jersey by reduced margin.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA caught multiple minute-men sequentially, extending time gaps at each split from 30s to 53s, indicating perfect pacing execution.",
+      "ROGLIC committed excessively through corners requiring multiple checks, sacrificing 36s to GANNA suggesting desperation versus calculated GC racing.",
+      "UAE transformed team TT capability with AYUSO placing fourth at 50s, signaling depth beyond POGACAR for stage race support.",
+      "EVENEPOEL placed second despite carrying accumulated fatigue from GC defense, only 16s down after weeks of racing pressure."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: 56kph average on technical course with one 7% climb reveals peak form, not just flat power specialist",
+      "EVENEPOEL Remco": "neutral: 16s loss acceptable given accumulated GC workload, but gap closing to specialist suggests fatigue accumulating",
+      "VINGEGAARD Jonas": "negative: 1:18 down in seventh shows busy season weighing on form, concerning for GC ambitions in final week",
+      "SEPULVEDA Jesus": "positive: TT performance exceeded expectations for non-specialist, retaining red suggests mental resilience under unexpected pressure",
+      "ROGLIC Primoz": "negative: desperate corner tactics losing 36s indicates anxiety about GC position rather than controlled racing",
+      "AYUSO Juan": "positive: fourth at 50s demonstrates UE team depth, potential super-domestique or protected co-leader capability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:46:49.407978+00:00"
+}

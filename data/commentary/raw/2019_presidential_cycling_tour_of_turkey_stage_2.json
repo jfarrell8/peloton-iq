@@ -14,75 +14,85 @@
       {
         "video_id": "4rDABvl0IIk",
         "title": "Brabantse Pijl 2019 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-04-17 16:37:33+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 92.1
       },
       {
         "video_id": "nvUvo5oHNIE",
-        "title": "Vuelta a España 2019 | Stage 20 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 20 Highlights | Cycling | Eurosport",
         "published": "2019-09-14 16:47:41+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "ovVa7kcZChc",
-        "title": "Vuelta a España 2019 | Stage 21 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 21 Highlights | Cycling | Eurosport",
         "published": "2019-09-15 19:59:50+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "JPV1-LzQI5U",
-        "title": "Vuelta a España 2019 | Stage 2 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Vuelta a Espa\u00f1a 2019 | Stage 2 Highlights | Cycling | Eurosport",
         "published": "2019-08-25 19:28:46+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "0WleWDN4XTI",
         "title": "BinckBank Tour 2019 | Stage 2 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-08-13 16:43:13+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "hieJ0q-0rks",
         "title": "Tour de France 2019 | Stage 20 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-07-27 16:42:32+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "ZbLwck8C-EM",
         "title": "Paris-Nice 2019 | Stage 2 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-03-11 16:49:07+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "tev_HZcAXNg",
-        "title": "Giro d’Italia 2019 | Stage 20 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Giro d\u2019Italia 2019 | Stage 20 Highlights | Cycling | Eurosport",
         "published": "2019-06-01 19:10:34+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "DR2OF6Saja8",
-        "title": "Giro d’Italia 2019 | Stage 21 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
+        "title": "Giro d\u2019Italia 2019 | Stage 21 Highlights | Cycling | Eurosport",
         "published": "2019-06-02 18:43:52+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "PNhDkn1seh4",
         "title": "Tour de France 2019 | Stage 2 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2019-07-07 17:09:49+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

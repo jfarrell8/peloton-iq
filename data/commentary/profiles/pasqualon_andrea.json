@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches late attacks inside final 1km at technical features (roundabouts), attempting surprise over pure power. Timing-based rather than gradient or distance attacks.",
+  "team_tactics": "Insufficient data to establish team tactical pattern from single race observation.",
+  "terrain_preference": "Technical finishes with roundabouts or features allowing surprise positioning moves. Exposed on gradients where pure power determines outcome.",
+  "vulnerability": "Lacks sustained power to hold off elite sprinters like Sagan who can wait and counter. Gradient finishes expose power limitations despite good positioning.",
+  "key_patterns": [
+    "Attacks at technical features (roundabouts) in final kilometer seeking positional advantage.",
+    "Strong positioning skills but insufficient power to hold off waiting elite sprinters.",
+    "Relies on surprise timing rather than sustained power in finale attacks."
+  ],
+  "form_trajectory": "unknown: single observation shows tactical awareness but power deficit against top-tier opposition",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PASQUALON Andrea",
+  "built_from": [
+    "2021 Tour de Romandie Stage 1",
+    "2021 Tour de Romandie Stage 1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Long-range solo attacks from established breakaways, typically launching 20-25km from finish on flat-to-rolling terrain. Prefers attacking from numerical advantage groups rather than initiating breaks alone.",
+  "team_tactics": "Functions flexibly within Deceuninck system — capable of both breakaway exploitation and leadout duties when primary plans fail. Team allows freedom in intermediate groups for GC opportunism.",
+  "terrain_preference": "Flat-to-rolling breakaway stages where endurance positioning and multiple accelerations wear down companions. Excels when organizers allow sustained gaps without peloton pursuit.",
+  "vulnerability": "Relies on disorganized chasing to maintain gaps; vulnerable when peloton commits organized pursuit. Bonus-hunting can compromise breakaway cooperation and reduce win probability.",
+  "key_patterns": [
+    "Attacks from established breakaways rather than initiating moves, launches 20-25km out (2 observations)",
+    "Multiple accelerations before decisive move, tests companions' endurance before final attack (2 observations)",
+    "Targets intermediate bonuses aggressively, sometimes prioritizing GC seconds over stage cooperation (2 observations)",
+    "Versatile team role: primary breakaway attacker and backup leadout capacity documented (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2020 showed peak breakaway execution with win; 2021 relegated to support role suggests tactical reassignment rather than form decline",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "CERNY Josef",
+  "built_from": [
+    "2019 BinckBank Tour Stage 2",
+    "2020 Giro d'Italia Stage 19",
+    "2020 Giro d'Italia Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 16"
+  ]
+}

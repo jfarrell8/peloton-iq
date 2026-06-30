@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2022-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAMPAERT Yves won the Copenhagen opening ITT by 5 seconds over Van Aert in wet conditions after Bissegger crashed twice early, losing the stage he was favored for.",
+    "winner": "LAMPAERT Yves",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bissegger crashed twice within 4km on wet corners chasing yellow, showing favorites overcommitted early in technical TT conditions.",
+      "Lampaert beat specialist Van Aert by 5 seconds on pancake-flat course, revealing pure power advantage not terrain-dependent.",
+      "Pidcock took 3rd ahead of world champion Ganna in debut Tour TT, signaling exceptional all-rounder TT capability."
+    ],
+    "rider_signals": {
+      "LAMPAERT Yves": "positive: Won flat TT over Van Aert despite losing Belgian nationals to Evenepoel week prior, peaking perfectly",
+      "BISSEGGER Stefan": "negative: Double crash within 4km hunting yellow destroyed stage, reveals risk-taking overwhelms technical skill under pressure",
+      "VAN AERT Wout": "neutral: Lost by only 5 seconds in similar conditions to Lampaert, suggesting equal form but margin tighter than expected",
+      "PIDCOCK Tom": "positive: Beat Ganna for 3rd in first Tour TT debut, confirming elite stage race TT ability beyond classics",
+      "GANNA Filippo": "negative: World champion only 4th on flat course suits him, 22 seconds off winner signals form concerns",
+      "VINGEGAARD Jonas": "neutral: 7th place at 19 seconds acceptable for GC defense but Van Aert proximity suggests Jumbo TT equipment/positioning edge minimal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:20:51.909836+00:00"
+}

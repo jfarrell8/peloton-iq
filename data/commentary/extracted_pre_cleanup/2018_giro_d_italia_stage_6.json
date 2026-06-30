@@ -1,0 +1,29 @@
+{
+  "label": "2018 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-10",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHAVES Esteban won from breakaway on Etna after YATES Simon attacked favorites with 2km left, then gifted stage to teammate",
+    "winner": "CHAVES Esteban",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Simon attacked at 2km when DENNIS Rohan cracked, capitalizing on Sky domestique failure to control steep gradient",
+      "Mitchelton-Scott placed CHAVES Esteban in early break while YATES protected GC, enabling stage gift without losing bonus seconds",
+      "PINOT Thibaut sprinted for remaining time bonuses after 1-2, revealing bonus seconds matter more than positioning on summit finishes",
+      "TEN DAM Laurens crashed mid-climb removing DUMOULIN Tom's key climbing support before decisive phase, exposing shallow Sky mountain roster"
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked decisively with 2km remaining and looked comfortable controlling favorites group throughout Etna ascent",
+      "CHAVES Esteban": "positive: strong enough in breakaway to drop Colombians like NIV Guy on steepest Etna gradients before stage gift",
+      "DENNIS Rohan": "negative: cracked when pace lifted with 2-3km left, unable to sustain threshold on extended steep gradient",
+      "FROOME Chris": "neutral: looked uncomfortable throughout climb but stayed with favorites group, suggests bluffing weakness or genuinely struggling",
+      "PINOT Thibaut": "positive: sprinted aggressively for bonus seconds after climb showing both recovery capacity and tactical awareness of GC margins",
+      "DUMOULIN Tom": "negative: lost key lieutenant TEN DAM Laurens to crash mid-climb, revealing team depth vulnerability on high mountains",
+      "CICCONE Giulio": "neutral: animated in breakaway but couldn't sustain effort on steepest section, health issues post-stage win affecting form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:26:50.220083+00:00"
+}

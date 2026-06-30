@@ -1,0 +1,27 @@
+{
+  "label": "2022 Dwars door Vlaanderen",
+  "race_name": "Dwars door Vlaanderen",
+  "race_date": "2022-03-30",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu attacked inside 4km on descent using 62-tooth chainring, caught, then countered again with BENOOT to win two-up sprint",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS (TURNER/PIDCOCK) initiated decisive selection on Oude Kwaremont cobbles at 60km, not traditional late-race positioning for British team",
+      "CAMPENAERTS chipped tooth descending in 62-tooth chainring inside 10km, signal that extreme gearing choices effective on technical descents pre-finale",
+      "VAN DER POEL required multiple attacks (inside 4km, then again after being caught) to finally establish winning move with BENOOT",
+      "POGACAR closed solo from peloton to within 10 seconds of leaders mid-race despite cobble inexperience, abandoned chase around 30km mark"
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "neutral: first cobbled race showed raw power closing 10-second gaps solo but inexperience prevented full bridge, abandoned chase 30km out",
+      "CAMPENAERTS Victor": "positive: established gap on descent in 62-tooth chainring before being caught, finished 4th showing TT specialists can survive cobbled classics",
+      "PIDCOCK Tom": "positive: INEOS initiated decisive Kwaremont selection and finished 3rd, marking team's evolving cobbled race tactics beyond support role",
+      "BENOOT Tiesj": "positive: only rider able to follow VAN DER POEL's final attacks, nearly won sprint after matching multiple accelerations inside 4km",
+      "VAN AVERMAET Greg": "negative: attempted chase on Kanarieberg but unable to close gaps, signal of declining ability to bridge in decisive moments"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:36:25.224238+00:00"
+}

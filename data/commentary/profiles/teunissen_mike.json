@@ -1,23 +1,27 @@
 {
-  "attacking_style": "Not a traditional attacker. Opportunistic sprinter who capitalizes on chaos in reduced bunch sprints, showing ability to finish strongly from 200-250m when positioned well without formal leadout.",
-  "team_tactics": "Initially deployed as leadout man but demonstrates capacity to freelance when team sprint trains collapse. Benefits from general team pace-forcing that fragments sprints rather than controlled leadouts.",
-  "terrain_preference": "Flat sprint stages and chaotic finishes where positioning matters more than pure top-end speed. Completely exposed on any sustained climbing - drops quickly on mountain stages beyond 50km from finish.",
-  "vulnerability": "Mountain stages eliminate him decisively (2+ minute losses on 50km climbs). Pure sprint trains with organized leadouts may disadvantage him versus relying on instinctive positioning in disrupted finishes.",
+  "attacking_style": "Does not attack traditionally; opportunistic sprinter who capitalizes on late chaos when leadout duties end or sprinters crash. Wins come from final 200m sprint power, not positioning breakaways.",
+  "team_tactics": "Jumbo-Visma deploys comprehensive flat-stage tempo control to protect jersey positions, even when no sprint interest exists. Functions primarily as leadout domestique until opportunity presents itself.",
+  "terrain_preference": "Flat sprint stages ideal for primary role. Surprisingly capable on climbs at 60kph pace to create splits, showing versatility beyond pure sprinter profile. Cobbled classics present (limited success in Roubaix).",
+  "vulnerability": "Relies heavily on chaos or crashes to access sprint opportunities when designated sprinter present. Early shutdown in cobbled classics (Roubaix trio neutralized). Not a primary sprinter by design.",
   "key_patterns": [
-    "Consistently places top-5 in sprints across multiple Grand Tours when positioned correctly (2021, 2022)",
-    "Loses significant time on mountain stages, 2+ minutes when climbs extend beyond 50km",
-    "Performs better in disrupted/chaotic sprints than organized trains with traditional leadouts (2019, 2021)",
-    "Values consistent high placings and bonus seconds over risky stage win attempts (2022 Vuelta)"
+    "Won yellow jersey through crash-related opportunity, not planned sprint setup (Tour 2019).",
+    "Team executes full-stage control for jersey defense even without sprint objective (Vuelta 2022).",
+    "Demonstrates mature race intelligence: skipping pulls to conserve energy for jersey defense (Tour 2019).",
+    "Versatile beyond sprint role: paced 60kph on climbs creating decisive splits (Paris-Nice 2022).",
+    "Consistently fills dual role: leadout domestique converting to opportunistic finisher when needed."
   ],
-  "form_trajectory": "positive: evolved from pure leadout man (2019) to consistent top-5 finisher with improved tactical awareness in sprint chaos (2021-2022)",
-  "races_analysed": 4,
+  "form_trajectory": "positive: 2022 data shows evolution from pure leadout to climber-capable racer creating splits at 60kph, plus red jersey acquisition demonstrates continued opportunism",
+  "races_analysed": 6,
   "confidence": "medium",
   "rider_name": "TEUNISSEN Mike",
   "built_from": [
+    "2018 Paris-Roubaix",
     "2019 Tour de France Stage 1",
     "2019 Tour de France Stage 1",
-    "2019 Tour de France Stage 3",
-    "2021 La Vuelta ciclista a Espana Stage 5",
-    "2022 La Vuelta ciclista a Espana Stage 2"
+    "2019 Tour de France Stage 2",
+    "2019 Tour de France Stage 2",
+    "2022 La Vuelta ciclista a Espana Stage 2",
+    "2022 Paris-Nice Stage 1",
+    "2022 Vuelta a Espana Stage 2"
   ]
 }

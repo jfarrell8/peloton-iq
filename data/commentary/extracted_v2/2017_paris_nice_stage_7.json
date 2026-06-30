@@ -1,0 +1,25 @@
+{
+  "label": "2017 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-11",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PORTE Richie won stage 7 atop Col de la Couillole after starting 15+ minutes down on GC, while ALAPHILIPPE cracked early losing yellow to HENAO.",
+    "winner": "PORTE Richie",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Riders compromised by Stage 1-2 crosswind splits (PORTE 15min down) can salvage stage wins when GC pressure removed.",
+      "ALAPHILIPPE's collapse came unusually far from finish on final climb, suggesting prior ITT/stage overextension rather than summit weakness.",
+      "Sky controlled final climb for HENAO while CONTADOR remained close, indicating Sky's defensive posture even with leader's jersey."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: Lost yellow and fell to 5th overall on final climb despite leading race, indicating premature leadership burden for development stage",
+      "PORTE Richie": "positive: Rebounded from 15+ minute GC deficit (crosswind disaster) to win hardest stage, showing resilience pattern for future Grand Tour handicapping",
+      "HENAO Sergio": "positive: Took yellow by 30sec over Contador on decisive mountain stage, revealing Sky has GC depth beyond their designated leaders",
+      "CONTADOR Alberto": "neutral: Finished strong at 31sec but lacked accelerations to challenge for stage win or significant GC gaps"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:01:02.650421+00:00"
+}

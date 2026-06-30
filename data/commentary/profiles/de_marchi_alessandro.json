@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Long-distance breakaway specialist who attacks early (often in opening kilometers) and relies on diesel endurance rather than explosive accelerations. Prefers solo attacks on final climbs to avoid sprint finishes, recognizing tactical sprint disadvantage.",
+  "team_tactics": "Frequently used as tactical placeholder in early breaks to control peloton chase dynamics. Teams prioritize his breakaway presence for strategic advantage (GC time gaps, chase disruption) over stage wins. Limited visible domestique support in breaks.",
+  "terrain_preference": "Excels on long, sustained climbs and all-day breakaway courses (Amstel distance survival, 40km+ solo efforts). Strong on summit finishes with gradual gradients. Struggles on technical descents and positioning games despite capable descending speed.",
+  "vulnerability": "Cannot sustain pace when countered by explosive climbers. Weak in sprint finishes from small groups, leading to preemptive climbing attacks. Technical finishes and positioning battles expose tactical limitations. Recent injury history (2021 crash).",
+  "key_patterns": [
+    "Repeatedly targets early breakaways with exceptional diesel endurance for 40km+ solo efforts (3+ observations)",
+    "Deliberately attacks to avoid sprint finishes, recognizing sprint disadvantage in small groups (2 observations)",
+    "Serves team tactical roles in breaks rather than pure stage-hunting (3 observations)",
+    "Strong on sustained climbs but cracks to explosive accelerations in final 500m-7km (3 observations)",
+    "Career resurgence at age 34+ with first pink jersey, suggesting late-peak maturity (2021-2023)"
+  ],
+  "form_trajectory": "neutral: 2023 showed climbing strength in breaks but tactical passivity. Age 37 with diminished killer instinct compared to 2021 pink jersey peak.",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "DE MARCHI Alessandro",
+  "built_from": [
+    "2017 La Fleche Wallonne",
+    "2017 La Fleche Wallonne",
+    "2017 Vuelta a Espana Stage 13",
+    "2017 Vuelta a Espana Stage 13",
+    "2017 Vuelta a Espana Stage 21",
+    "2017 Vuelta a Espana Stage 7",
+    "2018 Vuelta a Espana Stage 11",
+    "2018 Vuelta a Espana Stage 11",
+    "2018 Vuelta a Espana Stage 11",
+    "2018 Vuelta a Espana Stage 5",
+    "2019 Amstel Gold Race",
+    "2019 Criterium du Dauphine Stage 6",
+    "2019 Tour de France Stage 8",
+    "2019 Tour de France Stage 8",
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 4",
+    "2021 Giro d'Italia Stage 4",
+    "2022 Giro d'Italia Stage 10",
+    "2023 Giro dItalia Stage 6"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 14",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-03",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard bridged to Sanchez on penultimate climb, detonated the break, and soloed to victory while ROGLIC attacked EVENEPOEL on final climb, reducing GC gap from 2:41 to 1:49",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma set pace entire final climb despite Roglic needing to attack, revealing they lacked pure firepower to drop Evenepoel.",
+      "Carapaz bridging to Sanchez on penultimate climb specifically detonated break, suggesting early aggression destroys break cohesion before finale.",
+      "Evenepoel cracked when Roglic attacked but limited losses to 52 seconds, showing vulnerability appears before catastrophic collapse.",
+      "Miguel Angel Lopez bridged to Roglic group for bonus seconds, indicating attacking riders can close gaps on finale despite energy expenditure."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: dropped when Roglic attacked on final climb after looking comfortable, suggests he wilts under sustained pace then acceleration",
+      "ROGLIC Primoz": "positive: gained 52 seconds despite Jumbo-Visma pacing burden, showing recovery from earlier Vuelta struggles",
+      "MAS Enric": "positive: followed Roglic attack and finished with Rodriguez group, moving to third overall at 2:43",
+      "AYUSO Juan": "neutral: required bike change but minimized losses, suggesting mechanical resilience but revealed no attacking form",
+      "CARAPAZ Richard": "positive: second stage win via bridging move on penultimate climb, confirming he peaks late in Grand Tours",
+      "KELDERMAN Wilco": "neutral: finished in top 10 with GC group, remains factor but showed no attacking initiative"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:42:35.583259+00:00"
+}

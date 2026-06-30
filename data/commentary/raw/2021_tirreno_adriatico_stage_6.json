@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 43,
+    "raw_chars": 1251,
+    "clean_chars": 1224,
+    "duration_mins": 1.8,
+    "clean_text": "hey front which gained a maximum lead of 6 minutes and 40 seconds it was being whittled down nicely and controlled well but great strength in the group up front with simone velasco young bakulans marthford schmidt nelson oliveira emily liebens and frank van moore clear of the peloton as they work their way through the final laps a grippy climb on the finishing circuit alaska at the back found more in front of him the 23 year old belgium backlash the oldest rider in the group the other belgian he's 35 mads verts in the green jersey leader of the king of the mountains competition what's he like in a flat road well he's a useful time trialist is he a useful fast finisher sixth and penultimate stage now no adriatico oliveira is going to lead out the sprint for the line man's first in prime position in second place bachelor's third up van moore and velasco coming for the run from behind we launched to the line now as sprint is well and truly on it's going to start fast nelson oliveira had to do it that way here comes matt's verse up and around him to try and get there velasco coming with a run van moore is there there abouts as well van moore's going to get this one i think it's going to be very very tight you",
+    "preview_start": "hey front which gained a maximum lead of 6 minutes and 40 seconds it was being whittled down nicely and controlled well but great strength in the group up front with simone velasco young bakulans marthford schmidt nelson oliveira emily liebens and frank van moore clear of the peloton as they work their way through the final laps a grippy climb on the finishing circuit alaska at the back found more in front of him the 23 year old belgium backlash the oldest rider in the group the other belgian he",
+    "preview_end": "iveira is going to lead out the sprint for the line man's first in prime position in second place bachelor's third up van moore and velasco coming for the run from behind we launched to the line now as sprint is well and truly on it's going to start fast nelson oliveira had to do it that way here comes matt's verse up and around him to try and get there velasco coming with a run van moore is there there abouts as well van moore's going to get this one i think it's going to be very very tight you"
+  },
+  "status": "transcript_saved"
 }

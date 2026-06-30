@@ -1,0 +1,28 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 9",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-28",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MENKES Louis won from the breakaway on the brutal final 24% climb while EVENEPOEL Remco distanced ROGLIC Primoz by 1:12 to take the overall lead.",
+    "winner": "MENKES Louis",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step controlled peloton tempo for Evenepoel despite losing Serry to COVID, revealing surprising depth in GC support.",
+      "Breakaway fractured internally before final climb with Mollema-Janssens work rate disputes, enabling Menkes solo opportunity despite numerical advantage.",
+      "Evenepoel attacked on 24% gradients rather than defending, exploiting exact terrain where Roglic's climbing weakness manifests most severely.",
+      "Peloton crash before final climb opened gaps that Quick-Step chose not to chase, tactically accepting chaos favored Evenepoel."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: gained 1:12 on Roglic on extreme gradients while appearing comfortable, destroying assumption he only excels in time trials",
+      "ROGLIC Primoz": "negative: lost over a minute on 3.5km finish climb at 24%, revealing explosive gradient weakness before time trial",
+      "MAS Enric": "negative: conceded 44 seconds to Evenepoel despite being pure climber, signals insufficient form to challenge in mountains",
+      "YATES Simon": "negative: finished 2:37 down despite winning this stage in 2018, massive decline on explosive finishes",
+      "VINE Jay": "neutral: fifth place after two prior stage wins suggests breakaway specialist struggling when GC riders engage",
+      "DEGE Thymen Arensman": "negative: DSM refused to let him in break despite being 3:18 down, bizarre tactical conservatism that wasted opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:16:13.718069+00:00"
+}

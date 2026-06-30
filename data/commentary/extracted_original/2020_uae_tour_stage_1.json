@@ -1,0 +1,23 @@
+{
+  "label": "2020 UAE Tour Stage 1",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-23",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DAINESE Alberto won bunch sprint in Shepparton after early 5-man break absorbed with 5km remaining, taking leader's jersey.",
+    "winner": "DAINESE Alberto",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MITCHELTON-SCOTT committed single rider WELSFORD to pacing at 30km out, minimal team investment for flat stage control.",
+      "Break time gap capped at ~3min despite faster-than-schedule peloton pace suggesting teams prioritized positioning over suppression."
+    ],
+    "rider_signals": {
+      "DAINESE Alberto": "positive: Former SEG Racing sprinter won from compromised position through tight final corner, suggesting bike handling advantage over pure power",
+      "GROVES Kaden": "positive: Challenged fellow SEG Racing alumnus DAINESE in World Tour debut sprint, delivered by MITCHELTON-SCOTT positioning",
+      "COYLE Jesse": "negative: Attempted solo bridge to breakaway then abandoned effort before second intermediate sprint, poor pacing judgment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:24:01.955647+00:00"
+}

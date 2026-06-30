@@ -1,0 +1,25 @@
+{
+  "label": "2023 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won Stage 14 solo after dominating all KOM points, recovering completely from disastrous previous stage performance.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL doing 70-80% of breakaway work before solo victory suggests calculated energy expenditure despite appearing overextended early.",
+      "THEUNINSSEN Thomas attacking first as domestique to string out peloton for KRON Andreas reveals Kom jersey team strategy.",
+      "BARDET Roman taking intermediate sprint points while conserving energy versus EVENEPOEL on KOM suggests DSM tactical prioritization mid-breakaway."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Complete recovery from stage 13 disaster, winning all KOM points and never going truly deep until final 2km suggests enormous reserves remain",
+      "VINGEGAARD Jonas": "positive: Fourth place while recovering from deep effort previous day puts him alone in Roglic/Kuss stratosphere behind podium",
+      "SEPCUSS": "positive: Mentality described as 'solid as a rock' after surviving both Pyrenean stages without time loss to rivals",
+      "THEUNINSSEN Thomas": "neutral: Earmarks stages throughout grand tours to attack early as setup rider rather than personal objectives"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:05:43.114579+00:00"
+}

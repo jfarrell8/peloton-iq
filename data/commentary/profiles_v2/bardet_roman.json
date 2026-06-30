@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Attacks on final climbs to recover time or exploit emotional momentum, often immediately after teammate success or personal setbacks. Struggles to sustain efforts on gradients exceeding 10%.",
+  "team_tactics": "Team prioritizes his GC time recovery over stage wins, even when teammates lead breakaways. Limited high-mountain domestique support forces opportunistic attacks rather than controlled setups.",
+  "terrain_preference": "Suited to moderate gradient climbs where resilience and tactical timing matter. Exposed on steep (10%+) gradients and narrow finishing ramps where positioning and pure power determine outcomes.",
+  "vulnerability": "Cracks on sustained 10%+ gradients. Vulnerable to positioning squeeze-outs on narrow, steep finishes. Must gamble on attacks to gain time rather than defend through team strength.",
+  "key_patterns": [
+    "Attacks final climbs to recover GC time lost earlier in race (3 observations)",
+    "Team sacrifices stage opportunities to support his GC time recovery objectives (2 observations)",
+    "Loses significant time on sustained steep gradients 10% or steeper (2 observations)",
+    "Converts emotional/momentum moments into immediate attacks after crashes or teammate wins (2 observations)",
+    "Positioning disadvantage on narrow steep finishes costs opportunities versus strong climbers (2 observations)"
+  ],
+  "form_trajectory": "neutral: Recent 2023 data shows tactical competitiveness but positioning vulnerabilities persist; insufficient recent climbing performance data to assess current climbing capacity versus historical weakness on steep gradients",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BARDET Roman",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 6",
+    "2017 Criterium du Dauphine Stage 6",
+    "2020 Paris - Nice Stage 8",
+    "2020 Paris - Nice Stage 8",
+    "2020 Tour de France Stage 8",
+    "2020 Tour de France Stage 8",
+    "2023 La Fleche Wallonne",
+    "2023 Vuelta a Espana Stage 14"
+  ]
+}

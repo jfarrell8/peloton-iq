@@ -1,0 +1,28 @@
+{
+  "label": "2022 Dwars door Vlaanderen",
+  "race_name": "Dwars door Vlaanderen",
+  "race_date": "2022-03-30",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu attacked inside 4km multiple times, escaped with BENOOT Tiesj after using teammates' earlier acceleration, held sprint with 250m to go",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Ineos used TURNER/PIDCOCK to create 5-rider split on Oude Kwaremont cobbles, positioning before traditional finale climbs crucial",
+      "CAMPENAERTS chipped tooth using 62-tooth chainring on descent attacks, showing extreme gearing gambles pay off on technical downhills",
+      "VAN DER POEL attacked 3+ times inside 4km after teammates worked earlier, repeated accelerations broke chasers' cooperation",
+      "POGACAR bridged 40-second gaps twice despite cobble inexperience, pure power compensates for technical deficits more than expected"
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: closed multiple 40-second gaps on debut cobbled race, shows Classics contention viable without prior experience",
+      "PIDCOCK Tom": "positive: bridged to CAMPENAERTS attack then followed VAN DER POEL's repeated accelerations for podium, elite positioning instincts",
+      "CAMPENAERTS Victor": "positive: solo descent attack with 62-tooth chainring created first meaningful gap, high-risk equipment choices justify selection",
+      "BENOOT Tiesj": "positive: matched VAN DER POEL's final attacks and nearly won sprint, Jumbo tactics of waiting for teammate counterproductive",
+      "VAN AVERMAET Greg": "negative: chased on Kattenberg but couldn't sustain effort to bridge, age limiting explosive efforts on key climbs",
+      "NAESEN Oliver": "negative: crashed hard mid-race eliminating contender, touch-of-wheels crashes remain tactical liability in cobbled races"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:06:07.764822+00:00"
+}

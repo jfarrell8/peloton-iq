@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches multiple aggressive attacks on climbs attempting to distance GC rivals, but struggles to create decisive gaps against top-tier climbers. Shows willingness to attack repeatedly even when initial efforts fail.",
+  "team_tactics": "Limited domestique support visible; relies on personal aggression and repeated solo efforts rather than team-orchestrated setups. Forced to defend positions personally in critical moments.",
+  "terrain_preference": "Mountain stages at Tour de Romandie level, capable on sustained climbs but lacks explosive power to definitively drop elite climbers like Roglic or Thomas.",
+  "vulnerability": "Insufficient power differential against WorldTour GC leaders—attacks fail to create separation. Defensive riding in final kilometers suggests concern about protecting narrow GC margins rather than extending leads.",
+  "key_patterns": [
+    "Launches multiple attacks on climbs without creating decisive gaps (2 observations)",
+    "Engages in defensive marking tactics when holding slim GC advantages (2 observations)",
+    "Shows aggressive intent but lacks finishing power against top GC contenders (2 observations)"
+  ],
+  "form_trajectory": "neutral: Shifted from offensive failure in 2018 to defensive success in 2019, suggesting tactical adaptation but no clear power improvement",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BETANCUR Carlos",
+  "built_from": [
+    "2018 Tour de Romandie Stage 4",
+    "2019 Tour de Romandie Stage 1"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Willing to launch extreme-distance attacks (80km solo) on climbs when rivals show weakness. Opportunistic counterattacker who exploits moments when gruppettos are caught rather than waiting for final kilometers.",
+  "team_tactics": "Sky employs sustained tempo control to retain multiple domestiques deep into finales (3+ at 25km). Crosswind tactics prioritized over mountain attacks for isolating GC rivals. Team sets brutal pace rather than explosive attacks.",
+  "terrain_preference": "Gravel climbs and unconventional terrain where audacious long-range efforts can break rival morale. Benefits most when team can control pace on extended climbs rather than punchy gradients.",
+  "vulnerability": "Struggles when isolated from Sky teammates, particularly on technical descents where crashes/mechanicals cause nervousness. Uncertain form in pre-Tour buildup races where teammates can drop him.",
+  "key_patterns": [
+    "Attacks immediately when sensing rival weakness rather than conservative defense (3 observations)",
+    "Executes sustained solo efforts 80km+ from finish, massive tactical gambles (2 observations)",
+    "Team retains multiple domestiques exceptionally late into mountain stages for control (2 observations)",
+    "Actively seeks bonus seconds even when stage win unlikely, margin hunting (2 observations)",
+    "Vulnerable when mechanicals/crashes leave him isolated from team support (2 observations)"
+  ],
+  "form_trajectory": "positive: May 2018 Giro shows peak willingness for aggressive racing and sustained power, massive contrast from June 2017 Dauphine weakness",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "FROOME Christopher",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 7",
+    "2017 Tour de France Stage 16",
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 18",
+    "2017 Vuelta a Espana Stage 5",
+    "2018 Giro d'Italia Stage 18",
+    "2018 Giro d'Italia Stage 19",
+    "2018 Giro d'Italia Stage 19",
+    "2018 Giro d'Italia Stage 20"
+  ]
+}

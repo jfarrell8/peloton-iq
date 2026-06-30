@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-19",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primož won from early breakaway, soloing over Telegraph/Galibier and descending to finish, while FROOME gained time on GC rivals on final Galibier accelerations.",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC attacked repeatedly on climbs within breakaway before Telegraph/Galibier, isolating himself early rather than waiting for final climb.",
+      "MARTIN Dan's repeated accelerations on Galibier for Sky intentionally softened rivals before FROOME's decisive move, team-coordinated attrition pattern.",
+      "BARGUIL Warren attacked mid-Galibier for KOM points while still in GC group, prioritizing jersey over position.",
+      "SKY placed LANDA with FROOME in finale group, maintaining 2-rider numerical advantage that deterred coordinated counter-attacks."
+    ],
+    "rider_signals": {
+      "ROGLIC Primož": "positive: crashed in breakaway but remounted and still had power to solo from Telegraph, exceptional stage-racing durability signal",
+      "FROOME Chris": "positive: responded to BARDET/URAN attacks directly without teammate aid, high-altitude acceleration strength despite being GC leader",
+      "YATES Simon": "negative: definitively dropped on Galibier accelerations and never returned to lead group, altitude weakness exposed",
+      "ARU Fabio": "negative: repeatedly distanced by each acceleration, losing 9 seconds to FROOME/URAN/BARDET despite shorter gap at stage start",
+      "BARDET Romain": "positive: multiple attacks on Galibier at altitude forced FROOME to respond personally, offensive threat despite time deficit",
+      "MATTHEWS Michael": "positive: gaining green jersey via KDO crash reveals late-tour strength progression, climbing into points range",
+      "MARTIN Dan": "positive: attacked for Sky as domestique on Galibier, revealing team depth and willingness to sacrifice GC position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:05:33.705905+00:00"
+}

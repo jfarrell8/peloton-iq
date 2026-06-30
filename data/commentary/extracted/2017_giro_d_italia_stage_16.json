@@ -1,0 +1,29 @@
+{
+  "label": "2017 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-23",
+  "stage": 16,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIBALI attacked final Stelvio descent, caught LANDA in final meters with superior cornering, DUMOULIN retained pink despite stomach issues costing 2:18",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DUMOULIN's mechanical/clothing stop respected initially, but LANDA and NIBALI exploited fraying alliance before full regrouping completed",
+      "NIBALI prioritized descending aggression over summit attacks, catching LANDA purely through risk-taking cornering technique on wet roads",
+      "QUINTANA unable or unwilling to counter NIBALI's descent attack, revealing descending weakness when isolated from team support",
+      "POZZOVIVO consistently finished with GC group despite size disadvantage, suggesting superior high-altitude climbing economy at extreme altitude"
+    ],
+    "rider_signals": {
+      "NIBALI Vincenzo": "positive: attacked descent not summit, won stage through technical superiority despite inferior climbing shown on ascent",
+      "LANDA Mikel": "positive: strongest climber on final Stelvio ascent, gapped group solo but lost stage through conservative descending",
+      "DUMOULIN Tom": "neutral: retained pink despite 2:18 loss from stomach illness, group's initial respect shows psychological control",
+      "QUINTANA Nairo": "negative: followed NIBALI but couldn't counter, third place suggests declining form or tactical paralysis without team",
+      "POZZOVIVO Domenico": "positive: finished 31 seconds behind winner consistently in GC group, punching above weight class literally",
+      "ZAKARIN Ilnur": "positive: fifth place suggests recovering form, riding independently without team support structure",
+      "PINOT Thibaut": "negative: dropped significantly from GC group, mentioned losing time confirms poor form trajectory continues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:59:03.430781+00:00"
+}

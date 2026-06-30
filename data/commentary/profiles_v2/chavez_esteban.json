@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Employs war-of-attrition tactics with repeated accelerations in final 8km of mountain stages, typically breaking companions around 2-3km from finish after multiple probing attacks have weakened rivals.",
+  "team_tactics": "Mitchelton-Scott uses dual-threat strategy, allowing Chavez breakaway freedom on mountain stages while preserving domestiques for GC leader. Team sometimes abandons him on rolling/plateau terrain to prioritize resources.",
+  "terrain_preference": "Excels on steep mountain finishes where repeated accelerations pay off; technical descending skills compensate for climbing deficits. Exposed and fragile on rolling plateaus, long time trials, and sustained tempo efforts.",
+  "vulnerability": "Complete collapse in long TT efforts (4+ minutes lost). Vulnerable when Sky/strong teams set high sustained tempo on rolling terrain—team abandons him in these scenarios, revealing tactical acceptance of weakness.",
+  "key_patterns": [
+    "Repeated attacks in final 8km until rivals crack, not single decisive move (3 observations)",
+    "Immediately follows top GC threats' attacks but cannot sustain multi-day defense (3 observations)",
+    "Strong technical descending recovers time/contact lost on climbs (2 observations)",
+    "Mental resilience: continues attacking after failures, doesn't abandon aggression (2 observations)",
+    "Team deliberately sacrifices him on rolling plateau stages to save domestiques (2 observations)",
+    "Time trial efforts reveal inability to sustain power beyond climbing efforts (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2021 showed strong closing speed on climbs (7s gap closed) but no wins since 2019 stage victory. Gap between observations limits assessment.",
+  "races_analysed": 12,
+  "confidence": "medium",
+  "rider_name": "CHAVEZ Esteban",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 1",
+    "2017 Vuelta a Espana Stage 11",
+    "2017 Vuelta a Espana Stage 16",
+    "2017 Vuelta a Espana Stage 3",
+    "2017 Vuelta a Espana Stage 5",
+    "2017 Vuelta a Espana Stage 6",
+    "2017 Vuelta a Espana Stage 9",
+    "2018 Giro d'Italia Stage 10",
+    "2018 Giro d'Italia Stage 13",
+    "2018 Giro d'Italia Stage 6",
+    "2018 Giro d'Italia Stage 6",
+    "2019 Giro d'Italia Stage 19",
+    "2019 Giro d'Italia Stage 19",
+    "2021 Volta Ciclista a Catalunya Stage 3"
+  ]
+}

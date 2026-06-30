@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2021-04-21",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian used ROGLIČ Primož's slipstream on the final Mur de Huy ascent before timing a late acceleration to perfection for his third Flèche win.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ Primož forced to lead early on Mur de Huy, became unwitting wind-break for ALAPHILIPPE who exploited aero positioning.",
+      "CARAPAZ Richard attacked Côte de Cherave, likely sacrificial move to position PIDCOCK Thomas or YATES Adam for finale positioning.",
+      "VALVERDE Alejandro used pavement on Mur approach to gain positioning, still reached podium suggesting unconventional lines avoid congestion.",
+      "WELLENS Tim bridged to remnants after Cherave rather than waiting for bunch, revealing confidence in isolation survival over draft benefit."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: demonstrated superior tactical patience by tracking ROGLIČ wheel rather than leading, converting slipstream advantage into victory",
+      "ROGLIČ Primož": "negative: forced to lead too early on Mur without teammates, became tactical victim despite strong climbing form",
+      "VALVERDE Alejandro": "positive: podium at age shows retained explosive power; pavement positioning gambit revealed tactical creativity under pressure",
+      "PIDCOCK Thomas": "neutral: crashed early requiring GEOGHEGAN HART Tao assist, still recovered to sixth suggesting resilience but compromised preparation",
+      "WOODS Michael": "positive: fourth place without team support on final climb indicates genuine one-day climbing form development",
+      "CARAPAZ Richard": "neutral: attacked Cherave as apparent team tactic rather than personal ambition, sacrificial role for INEOS positioning",
+      "FRAILE Omar": "neutral: policing breakaway moves for Astana reveals team's defensive race control tactics without GC ambitions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:56:51.519170+00:00"
+}

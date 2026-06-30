@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 11",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-25",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked with 1km to go on the 20% wall finish in Valdepenas, gapping MASS and entire field for stage win.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC used SEPP domestique to launch final attack on 20% wall, exploiting positioning over pure climbing power.",
+      "NIELSEN Magnus broke at 16km remaining before final climb, tactical error going too early for wall finish.",
+      "MASS Enric had VAN BAAL Dylan pull through final 4km despite not being GC leader, Movistar prioritizing stages.",
+      "UAE's DE LA CRUZ attacked from 13th GC on penultimate climb, teams outside top-10 gambling early."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: won stage day after crash, demonstrating superior recovery and explosive power on extreme gradients",
+      "MASS Enric": "positive: matched ROGLIC until final 500m on wall, Movistar committing full team support suggests GC priority shift",
+      "NIELSEN Magnus": "negative: caught in final kilometer after 16km solo effort, misjudged effort distribution for variable gradient finish",
+      "VAN BAAL Dylan": "positive: pulled MASS through final 4km despite not being team leader, unusual domestique strength late in stage",
+      "EIKE Odd Christian": "neutral: retained red jersey but gained no time, passive racing suggests defending not attacking posture"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:41:37.237883+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 16",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-31",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSON Fabio won a chaotic sprint after UAE Emirates deliberately shredded the peloton on rolling terrain to pressure his green jersey.",
+    "winner": "JAKOBSON Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates attacks on rolling terrain targeting green jersey holder forced Quick-Step into defensive chase work, depleting sprint train.",
+      "Quick-Step positioned two riders in early break as insurance policy while Jakobson chased back from crashed peloton.",
+      "Lotto-Soudal sent Van Aert to bridge to break after it was established, revealing uncertainty about controlling finale."
+    ],
+    "rider_signals": {
+      "JAKOBSON Fabio": "positive: Won despite crash injuries and depleted leadout after chasing back solo, suggests exceptional current form",
+      "CERNY Josef": "positive: Led out sprint for Jakobson after team depleted by crashes, demonstrating Quick-Step tactical flexibility",
+      "MOHORIČ Matej": "negative: Krieger mistakenly led out wrong rider thinking Mohorič on wheel, suggesting poor positioning in technical finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:42:37.975291+00:00"
+}

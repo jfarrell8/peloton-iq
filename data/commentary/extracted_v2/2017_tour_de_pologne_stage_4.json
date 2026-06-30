@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-01",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "YUAN Caleb won bunch sprint after staying sheltered behind leadout while SAGAN forced to hit wind early from 800m, VAN POPPEL nearly closed in final 50m.",
+    "winner": "YUAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN teams controlled despite third GC position, actively riding for sprint bonus seconds not overall protection revealing stage race priorities.",
+      "YUAN held pocket 200m longer than SAGAN who hit wind from 800m; positioning timing differential decided sprint not pure power.",
+      "VAN POPPEL nearly equalized final 50m after appearing distanced, suggesting YUAN's smaller frame created optical illusion of larger winning margin."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "neutral: throwing for bonus seconds at line despite yellow jersey and third GC shows prioritizing stage hunting over conserving energy for mountains.",
+      "YUAN Caleb": "positive: first win since Giro d'Italia ends drought, needed confidence boost as head drops without results per commentary.",
+      "HAIG Jack": "positive: doing full leadout work with only 6 Orica riders remaining after BEWLEY DNS reveals team depth under attrition.",
+      "PORSEV Alexander": "negative: 14th place disappointing for expectations, significantly underperformed against similar fast finisher profile."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:09:09.938998+00:00"
+}

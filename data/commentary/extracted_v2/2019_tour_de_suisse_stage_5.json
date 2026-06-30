@@ -1,0 +1,23 @@
+{
+  "label": "2019 Tour de Suisse Stage 5",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-19",
+  "stage": 5,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "LEÓN SÁNCHEZ attacked with 12km remaining to win solo, while ZAKARIN Ilnur took overall lead by narrowest margins via time bonuses.",
+    "winner": "LEÓN SÁNCHEZ Luis",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Astana paced aggressively through final 35km climbs to set up late attacks rather than defending.",
+      "Time bonuses at intermediate sprint actively contested by GC riders when gaps under one second overall."
+    ],
+    "rider_signals": {
+      "LEÓN SÁNCHEZ Luis": "positive: veteran showed ability to capitalize on aggressive pace-making with solo 12km attack",
+      "ZAKARIN Ilnur": "positive: took GC lead via time bonuses rather than pure climbing, suggesting tactical awareness",
+      "IMHOFF Claudio": "neutral: mechanical at 35km to go ended KOM jersey effort after 100km+ solo break"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:03:01.912821+00:00"
+}

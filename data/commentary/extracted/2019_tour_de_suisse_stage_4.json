@@ -1,0 +1,30 @@
+{
+  "label": "2019 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-18",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won from a textbook DECEUNINCK Quick-Step leadout after THOMAS Geraint crashed at 30km to go, ending his GC hopes.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DECEUNINCK Quick-Step executed three-rider relay (ASGREEN-LAMPAERT-MØRKØV) proving decisive even when opposition teams knew it was coming.",
+      "BORA-HANSGROHE controlled peloton for SAGAN rather than letting breakaway gain time, revealing prioritization of stage over protecting yellow jersey energy.",
+      "FRANK Mathias attacked late to prevent bunch sprint despite local rider FRIESECKE in break, suggesting AG2R bet on Franck over teammate.",
+      "High-speed crash at 30km eliminated pre-race favorite THOMAS, indicating dangerous descent positioning before final climbs more critical than expected."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: First Tour de Suisse win shows he's peaking later in season than typical early-year dominance pattern",
+      "THOMAS Geraint": "negative: Crash at high speed 30km out with hospitalization ends GC ambitions and reveals vulnerability in technical descents under fatigue",
+      "SAGAN Peter": "neutral: Followed Viviani's wheel closely but settled for podium, suggesting team prioritized protecting yellow over stage hunting",
+      "MATTHEWS Michael": "positive: Second place moved him to second overall, showing climbing resilience unusual for pure sprinter in hilly stage race",
+      "FRIESECKE Gian": "positive: Swiss national team rider lasted longest from break on local climbs, outperforming WorldTour riders in stamina",
+      "FRANK Mathias": "neutral: Solo attack attempt to prevent sprint suggests AG2R lacked confidence in positioning for bunch finish",
+      "ASGREEN Kasper": "positive: Leading three-man sprint train from distance demonstrates emerging domestique skill before becoming classics contender",
+      "ZEITS Andrey": "negative: Crashed out at 30km alongside Thomas, removing Astana GC protection option"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:12:08.626109+00:00"
+}

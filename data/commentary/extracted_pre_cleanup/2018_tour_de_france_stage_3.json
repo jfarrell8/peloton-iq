@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-09",
+  "stage": 3,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET took yellow as BMC won the 35km team time trial by 4 seconds over Sky, with December recon work proving decisive.",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC rode course three times in one day months prior plus morning recon—winter preparation trumped day-of execution.",
+      "VAN GARDEREN pulled final 200m despite being TTT specialist, suggesting team prioritized his GC minutes over optimal rotation dynamics.",
+      "SKY finished 3s back deliberately to dump yellow jersey media duties while keeping GC proximity—tactical sandbagging to offload workload.",
+      "CRADDOCK completed full TTT pulls with broken shoulder blade, revealing EF prioritized URÁN GC over rider health protocols."
+    ],
+    "rider_signals": {
+      "VAN GARDEREN Tejay": "positive: led team TTT and took massive 200m pull at finish, confirming he's BMC's GC co-leader alongside PORTE",
+      "PORTE Richie": "positive: strong TTT performance positions him well for GC while teammates absorb yellow jersey duties through first rest day",
+      "FROOME Chris": "negative: over 50 seconds down already concerns Sky despite successful jersey-dump tactics, early deficit unusual for four-time champion",
+      "CRADDOCK Lawson": "positive: completed full TTT pulls with broken shoulder blade when pre-race recon suggested he'd abandon, extreme toughness signal",
+      "SAGAN Peter": "neutral: struggled in TTT but retained green as expected, seemed disappointed despite regaining jersey suggesting fitness concerns",
+      "GAVIRIA Fernando": "neutral: close second in green jersey standings sets up sprint battle if both avoid crashes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:36:52.602049+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Pure sprinter who relies entirely on leadout train execution in final 250m. Does not initiate attacks; dependent on being launched at optimal moment (150-200m) for finishing kick.",
+  "team_tactics": "Requires elite leadout train (Deceuninck-QuickStep with Morkov) to control final kilometers and deliver to front. When leadout fails or is disrupted, shows inability to self-position through chaos.",
+  "terrain_preference": "Standard flat sprint stages with wide finishes. Exposed by technical/narrow finales (Champs-Élysées) and climbs within 15km of finish (Côte de Meron). Cannot handle positioning battles through technical sections.",
+  "vulnerability": "Positional awareness deficient on technical finishes; loses wheels when leadout disrupted. Poor timing judgment when launching own sprint (waits too long, ~150m). Vulnerable to late climbs shredding trains before finale.",
+  "key_patterns": [
+    "Repeatedly loses position on technical finishes despite strong leadout support (Champs-Élysées, Cofidis chaos)",
+    "Sprint timing inconsistent: launched too early (200m, faded) or too late (150m, missed advantage)",
+    "Vulnerable to disruption 15-75km from finish: climbs and accelerations expose positioning weakness",
+    "Performed domestique duty on climbs for Alaphilippe despite being pure sprinter, suggesting team role flexibility"
+  ],
+  "form_trajectory": "negative: 2020 Paris-Nice showed continued positioning/timing problems even after team change to Cofidis, indicating persistent tactical deficiencies rather than team-specific issues",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "VIVIANI Elia",
+  "built_from": [
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 15",
+    "2019 Tour de France Stage 21",
+    "2019 Tour de France Stage 21",
+    "2019 Tour de France Stage 4",
+    "2019 Tour de France Stage 4",
+    "2019 Tour de France Stage 7",
+    "2020 Paris - Nice Stage 3"
+  ]
+}

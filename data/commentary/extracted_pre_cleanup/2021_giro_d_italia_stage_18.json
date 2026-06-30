@@ -1,0 +1,27 @@
+{
+  "label": "2021 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-27",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BETTIOL Alberto attacked from 23-rider breakaway on penultimate climb, caught CAVAGNA Rémi solo on final ascent, won by 17 seconds over chasing group.",
+    "winner": "BETTIOL Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVAGNA Rémi's solo attack gained 30 seconds initially but cracked completely when caught, suggesting diesel riders can't sustain punchy climb surges.",
+      "BETTIOL Alberto waited until penultimate climb to bridge despite 30-second gap, demonstrating classics riders should trust power reserves over early panic.",
+      "23-rider breakaway took 50km to establish on longest Giro stage, revealing peloton fatigue creates delayed selection on flat transition stages."
+    ],
+    "rider_signals": {
+      "BETTIOL Alberto": "positive: Won from large breakaway by timing bridge on penultimate climb, showing classics engine translates to hilly breakaway stages.",
+      "CAVAGNA Rémi": "negative: Built 30-second solo gap but completely emptied when caught, exposed weakness sustaining efforts after early acceleration.",
+      "CONSONNI Simone": "positive: Finished second from breakaway chase group, demonstrating surprising climbing range for perceived sprinter type.",
+      "ROCHES Nicolas": "positive: Bridged to leaders and held third despite being dropped once, showing veteran resilience on undulating finales.",
+      "BEVIN Patrick": "neutral: Launched early attack from 23-rider break but faded, suggesting premature acceleration from large groups rarely succeeds.",
+      "BERNAL Egan": "neutral: Retained maglia rosa by 23+ minutes as expected on breakaway stage with no GC implications."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:52:32.290850+00:00"
+}

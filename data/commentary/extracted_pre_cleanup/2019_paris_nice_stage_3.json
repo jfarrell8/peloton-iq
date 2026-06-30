@@ -1,0 +1,26 @@
+{
+  "label": "2019 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-12",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 3 sprint after peloton caught breakaway at 39km to go, holding off EWAN Caleb in headwind finish.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky harvested intermediate sprint bonuses with ROWE Luke piloting KWIATKOWSKI and BERNAL through, revealing GC control tactics.",
+      "BENNETT Sam specifically peaks for stage 3 opportunities at stage races, having won Paris-Nice stage 3 two years prior.",
+      "Headwind neutralized early breakaway by 39km mark, suggesting crosswind stages 1-2 were only realistic break windows this race."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: claimed third win of season, executed perfectly on self-identified last sprint opportunity, showing deliberate stage targeting",
+      "ARU Fabio": "negative: abandoned stage 3 with nausea after losing 17+ minutes, showing catastrophic form collapse at UAE",
+      "GROENEWEGEN Dylan": "negative: dropped to 9th after winning stages 1-2, tank empty after 51kph average yesterday proved unsustainable",
+      "EWAN Caleb": "positive: second place finish shows recovery ability after two frantic opening stages, remains competitive depth option",
+      "CAVENDISH Mark": "negative: caught in bridge crash bottleneck, race effectively over before GC shakeup stage 4"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:01:13.350388+00:00"
+}

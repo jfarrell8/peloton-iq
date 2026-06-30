@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 12",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-18",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won from a 30-rider breakaway after surviving near-elimination on Col Braida, then attacking with 12km to go before holding off sprint challengers.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "30-rider breakaway stayed clear on transition stage before mountains, revealing GC teams prioritized recovery over controlling stage outcomes.",
+      "Denz attacked 12km from finish on final descent, forcing chase collaboration breakdown rather than waiting for inevitable sprint.",
+      "Five-rider split from 30-man break failed because batistello illness prevented rotation, showing numerical advantage trumps small gaps with sick riders."
+    ],
+    "rider_signals": {
+      "DENZ Nico": "positive: nearly dropped on Col Braida but recovered to attack solo with 12km remaining, suggesting superior recovery capacity under duress",
+      "GROVES Kaden": "negative: abandoned due to illness without reaching back of peloton, indicating week-two fatigue vulnerability for sprinters",
+      "BATISTELLO Samuel": "negative: dropped from 5-rider split despite initial selection, illness preventing him from capitalizing on breakaway position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:42:19.851160+00:00"
+}

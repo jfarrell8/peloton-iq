@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 37,
+    "raw_chars": 1333,
+    "clean_chars": 1325,
+    "duration_mins": 2.1,
+    "clean_text": "the final 1302 km from wave muskat to Matra cornes would provide a springboard for attacks and plenty of crosswind sections after only 3 and a half km of racing three Riders race clear IO Kaiser of quickstep Dent of sport vren balaz and jro of Delco quickly opened a gap on the field as the race reached the climb of Al hamri there was a moment of concern for race leader Ben hermans approaching the lower slopes of the climb he crashed luckily he was okay and remounted quickly to rejoin the race it was it was on this climb that ilio Kaiser and Dent went clear Dent scored and secured the most aggressive Rider jersey in the closing Laps on Matra KES kaisand deant held off the pack but as the race entered its final kilometers and with the advantage diminishing Kaiser made his move he had 30 seconds lead but the heavy wins made life difficult after 123 km in the lead he was finally caught Roman B tried his hand he attacked but eventually attracting Olympic champion Greg van aat to the move they worked well together despite Furious descending they were caught only inside the final 2 km setting up the race for a Sprint the Norwegian Kristoff got ready he Unleashed his Sprint late but one effectively his third win of this year's race Ben hermans crossed the line safely in the pelaton to secure his biggest tour win",
+    "preview_start": "the final 1302 km from wave muskat to Matra cornes would provide a springboard for attacks and plenty of crosswind sections after only 3 and a half km of racing three Riders race clear IO Kaiser of quickstep Dent of sport vren balaz and jro of Delco quickly opened a gap on the field as the race reached the climb of Al hamri there was a moment of concern for race leader Ben hermans approaching the lower slopes of the climb he crashed luckily he was okay and remounted quickly to rejoin the race it",
+    "preview_end": "ns made life difficult after 123 km in the lead he was finally caught Roman B tried his hand he attacked but eventually attracting Olympic champion Greg van aat to the move they worked well together despite Furious descending they were caught only inside the final 2 km setting up the race for a Sprint the Norwegian Kristoff got ready he Unleashed his Sprint late but one effectively his third win of this year's race Ben hermans crossed the line safely in the pelaton to secure his biggest tour win"
+  },
+  "status": "transcript_saved"
 }

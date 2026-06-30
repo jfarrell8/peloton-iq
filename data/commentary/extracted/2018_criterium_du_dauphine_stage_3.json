@@ -1,0 +1,27 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-06",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI won stage 3 team time trial, Team Sky dominated with 37-second margin over BMC, reclaiming yellow jersey.",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky placed three riders in prologue top nine, pre-positioning strength for TTT dominance—check prologue results before handicapping TTTs.",
+      "BARDET's AG2R started with only six riders after abandonment, confirming TTT disadvantage compounds quickly with depleted squads.",
+      "Sky beat second-placed BMC by 37 seconds at finish but only 22 at intermediate two—accelerated final segment critical."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michał": "positive: reclaimed yellow after losing it Wednesday, Sky's TTT tactical leader",
+      "THOMAS Geraint": "neutral: fourth overall at 1:52, Sky's protected GC rider positioned conservatively in TTT",
+      "BARDET Romain": "negative: seventh at 1:29 with depleted six-man squad after VUILLERMOZ abandon, GC ambitions compromised early",
+      "NIBALI Vincenzo": "negative: lost two minutes in TTT with Bahrain, catastrophic GC setback on flat terrain",
+      "MOSCON Gianni": "positive: Sky top three overall after TTT, confirms prologue strength translated to team effort",
+      "CASTROVIEJO Jonathan": "positive: Sky top three overall after TTT, workhorse executed perfectly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:21:48.051747+00:00"
+}

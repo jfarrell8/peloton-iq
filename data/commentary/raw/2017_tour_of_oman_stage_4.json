@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 22,
+    "raw_chars": 821,
+    "clean_chars": 821,
+    "duration_mins": 1.0,
+    "clean_text": "This is where stage number three will be decided as we make our way up the slopes to Curyat. And this young rider yet again is trying to go clear to win today's stage. Lawrence Dloose with a little bit of an advantage now on the rest of the chasing group. This pelaton of riders has split under the pressure on the run to this finishing line. D plus now just concentrating hard, keeping the rhythm, trying to hold off the rest of this group behind. He's he's riding very, very well. He looks around now, but finally he is caught and it's one of the Sunweb team who is coming back to him now. Who is this? This looks like the young rider from Sunweb, Saurin Craig Anderson, the 22year-old from Sunweb, pulls off an incredible win on the top of Curat. That was unexpected. This rider with his first pro win. What a victory.",
+    "preview_start": "This is where stage number three will be decided as we make our way up the slopes to Curyat. And this young rider yet again is trying to go clear to win today's stage. Lawrence Dloose with a little bit of an advantage now on the rest of the chasing group. This pelaton of riders has split under the pressure on the run to this finishing line. D plus now just concentrating hard, keeping the rhythm, trying to hold off the rest of this group behind. He's he's riding very, very well. He looks around n",
+    "preview_end": " this finishing line. D plus now just concentrating hard, keeping the rhythm, trying to hold off the rest of this group behind. He's he's riding very, very well. He looks around now, but finally he is caught and it's one of the Sunweb team who is coming back to him now. Who is this? This looks like the young rider from Sunweb, Saurin Craig Anderson, the 22year-old from Sunweb, pulls off an incredible win on the top of Curat. That was unexpected. This rider with his first pro win. What a victory."
+  },
+  "status": "transcript_saved"
 }

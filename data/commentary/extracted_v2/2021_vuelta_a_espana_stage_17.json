@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primož attacked early on the penultimate category 1 climb with BERNAL, dropped him on Lagos de Covadonga, won solo by 1:35 over teammate KUSS.",
+    "winner": "ROGLIC Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BERNAL attacked from distance on penultimate Cat 1 climb, forcing ROGLIC to chase alone without teammates, tactical error dragging leader.",
+      "ROGLIC chose to match BERNAL's early attack despite holding GC lead, taking unnecessary risks on wet descent to fight head-to-head.",
+      "KUSS sat on throughout climb conserving energy while leaders attacked, enabled sprint for 2nd and 6-second time bonus over LOPEZ.",
+      "EIKING chased aggressively after crash to defend jersey despite being dropped, lost red but honored leadership rather than abandoning."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: attacked from distance on Cat 1 climb but faded badly on Lagos, losing 1:35+ after forcing the pace early",
+      "ROGLIC Primož": "positive: willing to take risks on wet technical descent and match attacks despite GC lead, crushed rivals on final climb",
+      "KUSS Sepp": "positive: conserved energy by sitting on while ROGLIC worked, sprinted to 2nd place and 6-second bonus over tired climbers",
+      "SIVAKOV Pavel": "negative: dropped early as Ineos domestique, unable to support BERNAL's aggressive strategy",
+      "MARTIN Guillaume": "negative: complained about rib/hip/leg injuries from previous stage crash, expected to fall out of top 10",
+      "EIKING Odd Christian": "positive: crashed early but chased flat out all day to minimize losses, fought to honor jersey despite inevitable loss"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:01:08.244976+00:00"
+}

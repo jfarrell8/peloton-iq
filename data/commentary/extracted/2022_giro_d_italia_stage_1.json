@@ -3,25 +3,28 @@
   "race_name": "Giro d'Italia",
   "race_date": "2022-05-06",
   "stage": 1,
-  "channel": "GCN Racing",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "VON DER POEL Mathieu won the uphill sprint after Caleb Ewan crashed from wheel contact with Girmay in final 100m while positioned third wheel.",
+    "one_line_summary": "VAN DER POEL Mathieu won the uphill finish in Visegrád after EWAN Caleb crashed touching GIRMAY Biniam's wheel in the final sprint.",
     "winner": "VAN DER POEL Mathieu",
     "commentary_quality": "moderate",
     "tactical_patterns": [
-      "Alpecin-Fenix controlled final kilometers solo without train, suggesting confidence in van der Poel's raw power over positioning.",
-      "KEMNA attacked inside final 3km creating 10-second gap, forcing other teams to chase rather than organize sprints.",
-      "Final right-hand corner before climb caused massive crashes including Tratnik/van Hooydonck, revealing positioning chaos before uphill finish."
+      "KÄMNA Lennard attacked solo inside 3km on uphill finish, revealing Bora's willingness to gamble early GC bonus seconds.",
+      "NASSEN Lawrence attacked for AG2R before Kämna, showing teams testing whether uphill gradient could create separation before sprint.",
+      "ALPECIN controlled final kilometers after EF and Groupama helped chase, indicating sprint teams willing to share pace on hybrid finishes.",
+      "EWAN Caleb survived gradient as only pure sprinter, but positioning third wheel proved fatal on steep uphill sprint."
     ],
     "rider_signals": {
-      "VAN DER POEL Mathieu": "positive: won without leadout train on 5.6km at 4% gradient, demonstrating superior uphill sprint power",
-      "GIRMAY Biniam": "positive: finished second uphill without team support, holding position through chaotic finale as neo-pro",
-      "EWAN Caleb": "negative: crashed from wheel contact while in third position, suggesting positioning error or bike handling issue uphill",
-      "KEMNA Lennard": "positive: solo attack sub-3km gained 10 seconds, forcing peloton disruption despite being caught",
-      "BILBAO Pello": "positive: salvaged third and 4 bonus seconds from crash chaos, showing opportunistic positioning",
-      "DUMOULIN Tom": "neutral: survived uphill finish in lead group but showed no offensive capacity on gradient"
+      "VAN DER POEL Mathieu": "positive: won uphill sprint convincingly as pre-stage favorite, validating strength on 4% gradients at race start",
+      "GIRMAY Biniam": "positive: finished second in uphill sprint and took white jersey, immediately competitive against puncheurs at Grand Tour debut",
+      "BILBAO Pello": "positive: rolled third for 4 bonus seconds after crash, opportunistically gaining time despite uphill sprint not suiting pure climbers",
+      "EWAN Caleb": "negative: only pure sprinter to survive gradient but crashed touching wheel in top-3 position, revealing poor bike handling under fatigue",
+      "KÄMNA Lennard": "neutral: solo attack gained 10 seconds but caught inside final km, showing form but insufficient gradient for true separation",
+      "NAESEN Lawrence": "neutral: first to attack for AG2R despite not being original roster selection, suggesting team tactical flexibility",
+      "ULISSI Diego": "neutral: FORMOLO and VILLELLA led him out but finish position unclear, UAE train intact but execution questionable",
+      "CORT Magnus": "neutral: EWAN positioned third on his wheel before crash, suggesting EF sacrificed own sprint for leadout work"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:37:03.101414+00:00"
+  "extracted_at": "2026-06-28T23:24:55.755119+00:00"
 }

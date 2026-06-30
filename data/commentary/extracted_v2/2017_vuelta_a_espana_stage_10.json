@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won from 18-rider breakaway after Quick-Step controlled final descent with teammate Terpstra, dropped ROJAS in final 100m sprint",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step placed two riders (Terpstra and Trentin) in breakaway, controlled final descent tactics when Terpstra dropped back strategically.",
+      "Van Rensburg attacked 50km out on first ascent but quartet formation (Terpstra/Rojas/Rosen) neutralized solo move before final climb.",
+      "Froome lost 29 seconds to Nicolas Roche in peloton on descent despite no GC battle, suggesting Sky weakness in technical downhills."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Used Rojas as downhill pacer then outsprinted him, showing tactical opportunism combined with fast-twitch finishing",
+      "ROCHE Nicolas": "positive: Gained 29 seconds on Froome in peloton on technical descent, suggesting underrated descending ability for GC positioning",
+      "TERPSTRA Niki": "positive: Sacrificed own result after making four-man selection to pace teammate Trentin on descent, effective domestique work in breakaway",
+      "FROOME Chris": "negative: Lost time to Roche on descent despite no attacks, revealing technical descending vulnerability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:12:34.373136+00:00"
+}

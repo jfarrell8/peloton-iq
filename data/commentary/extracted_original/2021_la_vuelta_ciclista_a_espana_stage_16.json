@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 16",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-31",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JACOBSEN Fabio won sprint after UAE Emirates' pace attacks on rolling terrain forced De Koenig to expend resources bridging him back.",
+    "winner": "JACOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates pre-positioned attacks on undulating terrain specifically targeting Jacobsen's green jersey, forcing De Koenig defensive expenditure before finale.",
+      "De Koenig placed two riders in six-man break as insurance policy while defending green jersey behind.",
+      "Van Hulk bridged from peloton to breakaway at 1:23 gap, indicating Lotto Soudal read UAE's tempo wouldn't sustain break threat.",
+      "Technical finale with dropped chains suggests over-geared sprinters unprepared for sharp gradients inside 5km."
+    ],
+    "rider_signals": {
+      "JACOBSEN Fabio": "positive: survived UAE-orchestrated attacks on climbs and regrouped, then finished sprint without full leadout train",
+      "CERMAK Joe": "positive: De Koenig's last leadout man inadvertently set up rivals, showing team depth depleted by earlier bridging effort",
+      "KRIEGER Alex": "negative: believed Modolo on wheel for leadout but lost spatial awareness, wasting positioning",
+      "BOL John": "negative: carried visible cuts throughout stage after major crash, indicating reduced team support capacity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:26:35.505270+00:00"
+}

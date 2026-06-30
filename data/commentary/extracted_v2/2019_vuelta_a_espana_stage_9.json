@@ -1,0 +1,29 @@
+{
+  "label": "2019 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR Tadej won by attacking 3km out on gravel section, dropped QUINTANA and ROGLIČ who salvaged third after early distancing.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar sacrificed SOLER's breakaway stage win with 3km left to pace QUINTANA, revealing team hierarchy prioritizes GC over opportunistic wins.",
+      "QUINTANA attacked on gravel section catching LÓPEZ/HERRADA, showing Movistar targets unconventional surfaces for decisive moves rather than steep gradients.",
+      "ROGLIČ appeared dropped but salvaged podium through superior pacing on final 1km, suggesting deliberate tempo management versus explosive attacks.",
+      "BEVIN led entire climb for breakaway then let PESCADOR take KOM points, demonstrating EF's willingness to work without reward for positioning."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: At 20 years old won by attacking solo 3km out, showing Grand Tour winning capability years before expected breakthrough",
+      "LÓPEZ Miguel Ángel": "negative: Lost 1:17 and race lead after commanding position, cracking completely on gravel while rivals attacked through it",
+      "SOLER Marc": "negative: Visibly disgusted when ordered to wait for QUINTANA despite riding toward stage win, revealing internal team conflict",
+      "ROGLIČ Primož": "positive: Appeared dropped mid-climb but closed gap and sprinted for 4-second bonus, showing tactical discipline over panic",
+      "QUINTANA Nairo": "positive: Successfully attacked on gravel with VALVERDE to catch leaders, demonstrating surface-specific tactical awareness",
+      "VALVERDE Alejandro": "neutral: Premature attack 3km out brought chasers back to LÓPEZ, nearly sabotaging team strategy before correction",
+      "CHAVES Esteban": "negative: Mechanical/crash required bike changes from teammates 40cm taller, lost contact during critical selection phase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:10:44.803571+00:00"
+}

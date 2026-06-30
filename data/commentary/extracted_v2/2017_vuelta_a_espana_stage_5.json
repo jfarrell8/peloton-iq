@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-23",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUCHENKO Alexei attacked before the final 10% climb, dropped companions on the 20% descent, won solo at Alcossebre.",
+    "winner": "LUCHENKO Alexei",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "LUCHENKO attacked pre-climb rather than on the 10% ascent itself, leveraging tailwind and 20% descent skills.",
+      "Team Sky controlled peloton despite knowing break would succeed, prioritizing time gaps over stage contention.",
+      "CONTADOR positioned at front of favorites group signals returning form after quiet opening week."
+    ],
+    "rider_signals": {
+      "LUCHENKO Alexei": "positive: U23 world champion progression confirmed by attacking before steep climb and descending away from specialists",
+      "CONTADOR Alberto": "positive: Leading favorites group through finish suggests improved condition after early Vuelta struggles",
+      "FROOME Christopher": "positive: Gained 8 seconds on VAN GARDEREN despite not contesting stage, active team control throughout",
+      "CHAVEZ Esteban": "positive: Jumped from 6th to 3rd GC, suggesting better form than opening stages indicated"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:15:19.848865+00:00"
+}

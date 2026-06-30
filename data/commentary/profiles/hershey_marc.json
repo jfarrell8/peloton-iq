@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late-race attacks at 1km to go, exploiting gradient changes where steep climbs flatten out. Strikes when GC rivals show visible weakness on the steepest sections.",
+  "team_tactics": "Operates independently without dedicated teammate support on climbs. Self-sufficient positioning to track GC threats personally before launching solo moves.",
+  "terrain_preference": "Excels on climbs with gradient variation (12-13% steep ramps transitioning to flatter sections). Uses changing gradients tactically to time attacks when rivals are recovering from maximum efforts.",
+  "vulnerability": "Lack of teammate support on climbs leaves him exposed to coordinated team attacks. Must track threats personally, which could drain energy in repeated surge scenarios.",
+  "key_patterns": [
+    "Attacks precisely at gradient transitions from steep to flat sections (1km to go timing)",
+    "Tracks GC threats independently without team support, conserving energy on steepest gradients",
+    "Exploits visible rival weakness on maximum gradient sections to launch winning moves"
+  ],
+  "form_trajectory": "unknown: single race observation from 2021 insufficient to assess current form trajectory or recent development",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HERSHEY Marc",
+  "built_from": [
+    "2021 Tour de Pologne Stage 2",
+    "2021 Tour de Pologne Stage 2"
+  ]
+}

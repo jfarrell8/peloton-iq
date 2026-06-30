@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-02",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KÜNG Stefan attacked on the Mollendruz descent, rode solo 59 seconds clear to Morges while peloton refused to organize chase.",
+    "winner": "KÜNG Stefan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KÜNG attacked descent after Mollendruz when peloton complacent on designated sprint stage, gained 1:20 before panic set in.",
+      "Teams with sprinters failed to organize chase despite sprint finish, losing only 10 seconds in final 10km when gap was closeable.",
+      "KÜNG wearing skinsuit for breakaway on sprint stage reveals premeditated long-range attack, not opportunistic move."
+    ],
+    "rider_signals": {
+      "KÜNG Stefan": "positive: Won solo after multi-hour breakaway, third Romandie stage win in four years shows consistent ability to read sprint-stage chaos.",
+      "BACKAERT Frederik": "positive: Contributed to KÜNG breakaway that peloton failed to control, co-conspirator in successful sprint-stage ambush.",
+      "BAGDONAS Gediminas": "positive: Part of KÜNG breakaway group that exploited peloton disorganization on expected sprint finish.",
+      "ROGLIČ Primož": "neutral: Retained GC lead by 10 seconds despite KÜNG stage win, team chose not to chase breakaway on sprint stage.",
+      "THOMAS Geraint": "neutral: Remains 14 seconds down in GC after team declined to chase KÜNG breakaway, conserving energy for mountains.",
+      "BENNETT Sam": "negative: Led peloton sprint for minor places after teams failed to organize chase, lost opportunity on designated sprint stage.",
+      "COLBRELLI Sonny": "negative: Despite claiming he liked stage profile, his team failed to chase down winnable breakaway, finished behind BENNETT."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:10:38.924921+00:00"
+}

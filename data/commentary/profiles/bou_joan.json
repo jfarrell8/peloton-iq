@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic rider who capitalizes on breakaway situations rather than pure climbing attacks. Takes advantage of transfer/flat stages to contest intermediate sprints despite lacking sprint specialization.",
+  "team_tactics": "Operates with freedom in breakaways for Burgos team, hunting points and visibility on stages where GC teams allow breaks to succeed. Low domestique support visible in observations.",
+  "terrain_preference": "Transfer stages and flatter Vuelta stages where breakaways survive. Avoids pure sprint finishes but contests intermediate points when in breaks.",
+  "vulnerability": "Late-race crashes significantly impact performance though pain tolerance keeps him in race. Limited pure climbing or sprinting ability restricts winning opportunities to breakaway scenarios.",
+  "key_patterns": [
+    "Contests intermediate sprints from breakaways despite no sprint credentials (opportunistic points hunting)",
+    "High pain tolerance/abandonment threshold shown by continuing after mid-race crash injuries",
+    "Breakaway specialist role for Burgos seeking visibility on non-GC critical stages"
+  ],
+  "form_trajectory": "negative: crashed badly mid-Vuelta 2021, though continued racing suggests managed decline rather than collapse",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BOU Joan",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 16",
+    "2021 La Vuelta ciclista a Espana Stage 4"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2020 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-28",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIC attacked inside final 500m on steep Alto de Moncalvillo finish, took 13 seconds on CARAPAZ despite Movistar's entire-climb tempo control.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar burned three domestiques (Verona, Amador, Valverde attacking) setting tempo but still lost 13s to Roglic's late acceleration.",
+      "Jumbo put GESINK on front to control Valverde's probe despite not having jersey, revealing defensive flexibility.",
+      "Roglic gained 13s in final 200m alone on same gradient, showing superior kick reserves after sustained steep climbing.",
+      "Ineos left CARAPAZ isolated with no teammates, foreshadowing vulnerability on subsequent mountain stages per commentator."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: extended gap from 4s to 13s in final 200m, indicating superior anaerobic reserves after 22+ minute categorized climb",
+      "CARAPAZ Richard": "negative: isolated without Ineos support on decisive climb, lost 13s despite receiving Movistar's pacesetting benefits",
+      "MAS Enrique": "negative: couldn't follow accelerations despite own team's tempo-setting, suggesting form deficit versus expectations",
+      "VALVERDE Alejandro": "neutral: went offensive early as predicted for GC positioning (started 3rd of Movistar leaders), but absorbed without creating selection",
+      "SEPP Kuss": "positive: stayed with leaders on steep gradient finish, suggesting hidden climbing strength beyond domestique role",
+      "MARTIN Dan": "positive: finished 6s behind Roglic for stage podium, outperforming GC position expectations",
+      "CARTHY Hugh": "negative: lost 33s and likely dropped from top-3 GC despite pre-stage positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:32:35.890260+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2019 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-11",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHICONE Giulio attacked early in breakaway, held off LANDA by 2:20 and THOMAS by 1:44 to take stage and yellow jersey",
+    "winner": "CHICONE Giulio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek failed to tell Chicone maintain tempo alone; hesitation asking for help nearly cost stage/yellow instead of riding solo",
+      "Ineos rode collected pace with no panic despite Landa threatening at 2:13 gap, suggesting calculated GC defense over stage",
+      "Thomas attacked Alaphilippe in final kilometer gaining 1:46, revealing Ineos targeting GC shake-up not just defending Bernal",
+      "Quintana presence in early moves suggested hidden form, yet commentary noted everyone focused on Ineos missing alternate threats"
+    ],
+    "rider_signals": {
+      "CHICONE Giulio": "positive: first Tour, post-Giro, ignored for fatigue concerns yet took 2:20 over Landa proving Grand Tour double-race form",
+      "THOMAS Gareth": "positive: attacked Alaphilippe in final km gaining 1:46, significantly distanced Bernal showing internal Ineos hierarchy shift",
+      "BERNAL Egan": "negative: struggled and lost time to Thomas, Ineos riding collected suggests they're protecting Thomas not Bernal",
+      "LANDA Mikel": "negative: chased at 2:13 gap but faded to 2:20, eyes bigger than stomach commentary suggests overestimated form",
+      "ALAPHILIPPE Julian": "negative: barely held yellow at 1:46 down, struggled final kilometer when Thomas attacked revealing summit weakness",
+      "THIBAUT Pinot": "negative: third day unable to feature in leading group, reversal of fortune still absent contradicting French hope status",
+      "WELLENS Tim": "positive: third consecutive day in leading group, commanding KOM lead suggesting sustained breakaway form",
+      "ARU Fabio": "negative: cracked at back of front group early, confirming declining form pattern"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:00:28.813733+00:00"
+}

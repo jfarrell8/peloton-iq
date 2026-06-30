@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Sprint finisher who positions on the left side of the road in contested bunch finishes. Not a primary attacker but opportunistic in final meters.",
+  "team_tactics": "Insufficient data to determine clear team setup patterns. Appears to contest sprints independently when opportunity arises.",
+  "terrain_preference": "Flat to rolling stages with bunch sprint finishes. Benefits from reduced pure sprinter fields in stage race contexts.",
+  "vulnerability": "Susceptible to illness during multi-day racing events, resulting in significant performance drops on consecutive stages.",
+  "key_patterns": [
+    "Wins bunch sprints in stage races through positioning and persistence rather than pure speed.",
+    "Shows mental resilience to recover from poor form days within same stage race.",
+    "Takes advantage of disqualifications and chaos in sprint finishes to claim victories."
+  ],
+  "form_trajectory": "positive: demonstrated ability to recover quickly from illness-induced poor performance within same race week",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KANTER Max",
+  "built_from": [
+    "2021 Tour de Pologne Stage 6",
+    "2021 Tour de Pologne Stage 6"
+  ]
+}

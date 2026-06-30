@@ -1,0 +1,26 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-08",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BAUHAUS Philipp surprised favorites by launching early from the left at 200m, beating four French sprinters after Sunweb worked from 90km out.",
+    "winner": "BAUHAUS Philipp",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sunweb committed to sprint leadout from 90km despite only two sprint opportunities all week, revealing confidence in form.",
+      "Teams Bora/FDJ focused exclusively on Kristoff, allowing Bauhaus space to launch uncovered from left side at 200m.",
+      "Dimension Data, Katusha, FDJ collective chase maintained 47kph in hour-3, reducing 5:50 gap to catch at 20km despite frustration."
+    ],
+    "rider_signals": {
+      "BAUHAUS Philipp": "positive: 22-year-old immediately post-Giro showed superior sprint legs, recognized opportunity when favorites overmarked Kristoff",
+      "BOASSON HAGEN Edvald": "negative: team overcommitted resources marking Kristoff while Bauhaus remained unmonitored from flank",
+      "BOONMAN Kees": "neutral: targeted mountain points via breakaway for third consecutive stage, dropped partners at 25km knowing catch inevitable",
+      "KRISTOFF Alexander": "negative: attracted all opponent attention but failed to convert, suggesting reputation exceeded current form",
+      "DEMARE Arnaud": "negative: finished second despite green jersey, fourth French rider in top-5 suggesting poor positioning coordination"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:53:55.325891+00:00"
+}

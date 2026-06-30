@@ -1,0 +1,28 @@
+{
+  "label": "2023 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp won from breakaway on Alto de Observatorio Astrofísico after MARTINEZ Lenny's Groupama-FDJ teammates controlled break positioning him for GC jersey.",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Groupama-FDJ embedded MARTINEZ Lenny with two strong teammates in break to control positioning before steep final climb",
+      "SOLER Marc took intermediate sprint bonuses while virtual leader, revealing hunger for GC time gains from breakaway position",
+      "Jumbo-Visma controlled break tempo through TRATNIK Jan before steep pitches, avoiding individual leader responsibilities while gaining GC time",
+      "EVENEPOEL Remco limited losses to 30s after going into red, suggesting pacing discipline more important than defending jersey"
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: won stage at 2000m+ altitude where he historically excels, confirming high-altitude specialist status",
+      "MARTINEZ Lenny": "positive: at 20 years old took GC lead via team-supported breakaway, but pressure-handling on French team unknown",
+      "EVENEPOEL Remco": "neutral: lost red jersey but recovered from 40s to 30s deficit, showing restraint after overextension",
+      "VINES Jay": "negative: abandoned after high-speed crash at 40km, removing key UAE climbing support",
+      "BUCHMANN Emanuel": "negative: dropped 2 miles from finish on steep gradients, suggesting poor form for sustained steep climbs",
+      "SOLER Marc": "positive: aggressively pursued bonus seconds while virtual leader, showing GC ambition from breakaway tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:34:41.496972+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 3",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-28",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won from a reduced GC group after VINGEGAARD was the only rider able to follow his late attack on the final climb.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARDET Roman's long-range attack over penultimate climb failed; 10km descent plus 9km climb proved too far to hold solo.",
+      "Soudal-QuickStep paced aggressively on final climb despite no teammate ahead, suggesting confidence in EVENEPOEL's finish over rivals.",
+      "SEPULVEDA Eduardo punctured on descent while leading trio, revealing mechanical vulnerability on technical descents after hard climbs.",
+      "AYUZO Juan and SOLER Marc softening attacks isolated THOMAS Geraint before decisive move, exposing Sky/INEOS depth weakness."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: only rider able to follow and counter attacks on final climb, demonstrating superior form to fellow GC contenders",
+      "VINGEGAARD Jonas": "neutral: strong enough to match EVENEPOEL but unable to drop him, suggesting parity not dominance",
+      "THOMAS Geraint": "negative: dropped on final climb by AYUZO/SOLER harassment tactics before decisive moves, lacks climbing form",
+      "ROGLIC Primoz": "neutral: finished in main GC group after KUSS domestique work but didn't contest finale",
+      "BARDET Romain": "negative: 19km solo effort from penultimate climb summit caught before finale, tactical misjudgment of gap sustainability",
+      "KUSS Sepp": "positive: paced aggressively for ROGLIC allowing him to conserve energy while rivals attacked",
+      "KEMNA Lennard": "negative: caught from breakaway despite being last survivor, couldn't negotiate pace-sharing with CARUSO effectively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:07:37.803714+00:00"
+}

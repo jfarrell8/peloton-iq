@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2022-04-20",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan won after Valverde led into final Mur de Huy hairpins but cracked on 18-19% gradients, Bahrain's Belgian first home winner since Gilbert.",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Geraint Thomas drove tempo on final lap for Ineos with 9km to go, neutralizing late breakaway for sprinters.",
+      "Søren Kragh Andersen's attack between climbs reached Mur de Huy base first, forcing favorites to chase from behind.",
+      "Enric Mas positioned Valverde perfectly entering Mur de Huy, but Valverde cracked on steepest 18-19% hairpins specifically."
+    ],
+    "rider_signals": {
+      "PIDCOCK Tom": "negative: dropped on Côte de Cherave/Ahffe, still affected by recent illness issues before finale",
+      "VALVERDE Alejandro": "negative: had perfect Mas positioning but couldn't hold power on steepest hairpin gradients despite five prior wins",
+      "VLASOV Alexandr": "positive: third place finish unexpected for Russian, suggests strong form on explosive steep gradients",
+      "ALAPHILIPPE Julian": "negative: fourth place as defending champion seeking fourth win indicates declining form on Mur de Huy",
+      "THOMAS Geraint": "neutral: worked final lap tempo control for Ineos but unclear if for himself or teammate",
+      "TEUNS Dylan": "positive: won without leadout support, timed surge on steepest hairpins perfectly when Valverde faded"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:11:52.304699+00:00"
+}

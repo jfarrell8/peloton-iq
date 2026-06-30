@@ -1,0 +1,24 @@
+{
+  "label": "2023 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-23",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MEIJS Jordi won the Champs-Élysées sprint in a photo finish over PHILIPSEN Jasper, while VINGEGAARD Jonas secured his second consecutive Tour de France overall victory.",
+    "winner": "MEIJS Jordi",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGAČAR Tadej attacked in final 50km despite yellow jersey secured, forcing others to mark rather than cooperate.",
+      "ALPECIN-DECEUNINCK led out PHILIPSEN but MEIJS positioned right-hand side opposite leadout train to steal victory in photo.",
+      "JUMBO-VISMA defended yellow jersey casually allowing breakaway chaos, only TREK-SEGAFREDO chased to protect sprinter interests."
+    ],
+    "rider_signals": {
+      "MEIJS Jordi": "positive: Tour debut winner on Champs-Élysées reveals tactical maturity to avoid leadout trains and finish opposite side",
+      "POGAČAR Tadej": "neutral: attacking for stage win despite losing GC shows competitive mentality but inability to find willing partners",
+      "PHILIPSEN Jasper": "negative: lost photo finish despite perfect ALPECIN leadout suggests positioning error or insufficient final kick variation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:21:51.050121+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2022 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC attacked 6km from summit on Col de Turini, dropped everyone except MARTINEZ who marked wheels, then out-kicked him at 200m to go",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS split leadership between A.Yates and Martinez backfired; A.Yates attacked 7km out but Martinez marked S.Yates instead of following teammate",
+      "ROGLIC waited until 6km despite Dennis setting tempo, using teammate work to avoid showing cards early on 15km climb",
+      "QUINTANA repeatedly distanced then clawed back during tactical stalemate, exploiting lack of cooperation between MARTINEZ/S.YATES final 2km",
+      "ALMEIDA bridged late after poor positioning earlier, suggesting BikeExchange allowed initial selection rather than mechanicals"
+    ],
+    "rider_signals": {
+      "YATES Adam": "negative: attacking at 7km on 15km climb revealed poor pacing judgment, caught quickly and distanced before finish",
+      "MARTINEZ Danny": "negative: marked rivals instead of following Yates teammate, then failed to beat Roglic in sprint despite fresh legs",
+      "JORGENSEN Mateo": "negative: lost white jersey by dropping early on 7.3% gradient, significantly weaker than expected pre-race form",
+      "YATES Simon": "positive: bridged to Roglic group after brother dropped him, more diesel strength than A.Yates' explosive weakness",
+      "HAIG Jack": "positive: survived in Roglic's move at 6km despite not being animated, strong positioning for 20-second group",
+      "QUINTANA Nairo": "neutral: repeatedly gapped but recovered suggests tactical hesitation from others rather than Quintana strength",
+      "ALMEIDA Joao": "positive: recovered from poor early-week positioning to bridge in final kilometers, better form than GC standing suggested"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:17:56.992598+00:00"
+}

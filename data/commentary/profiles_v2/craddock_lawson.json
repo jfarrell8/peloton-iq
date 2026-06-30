@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Operates from breakaways rather than peloton attacks, willing to bridge solo from established groups when initial composition lacks quality. Initiates moves on consecutive days, suggesting high recovery and opportunistic racing rather than single-day targeting.",
+  "team_tactics": "Deployed as expendable domestique in multi-day races, launching early breaks before decisive stages to preserve team leaders. Executes textbook tempo control in final kilometers (1.5km sustained at 31mph) to set up teammates, preventing counterattacks while maintaining leadout position.",
+  "terrain_preference": "Climbing-adapted diesel engine suited to sustained high-tempo efforts on medium gradients rather than explosive steep pitches. Shows surprising time trial capability for a domestique role. Adapts well to punchy classics terrain despite non-European background.",
+  "vulnerability": "Positioned as expendable asset suggests team lacks confidence in decisive mountain stages. Solo bridging efforts indicate difficulty staying with highest-quality climber groups initially, requiring chase efforts that drain reserves.",
+  "key_patterns": [
+    "Bridges gaps solo or aggressively on consecutive race days (Vuelta 2019, Dauphine 2021, Vuelta 2022).",
+    "Sustains exceptionally high tempo when exhausted late in Grand Tours (31mph final 1.5km, Stage 19).",
+    "Used strategically in early breaks before key mountain stages (Dauphine consecutive days, Vuelta patterns).",
+    "Shows unexpected TT form for climbing domestique role (4th place, half-second off KOM).",
+    "Demonstrates extraordinary toughness through injury (broken shoulder blade TTT pulls for team leader)."
+  ],
+  "form_trajectory": "neutral: Recent 2022 Vuelta appearance shows continued breakaway aggression, but lack of post-2022 data and consistent domestique deployment suggests stable but plateaued role within team hierarchy.",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "CRADDOCK Lawson",
+  "built_from": [
+    "2018 Amstel Gold Race",
+    "2018 Tour de France Stage 3",
+    "2019 Vuelta a Espana Stage 11",
+    "2021 Criterium du Dauphine Stage 6",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Vuelta a Espana Stage 1",
+    "2021 Vuelta a Espana Stage 19",
+    "2021 Vuelta a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 15"
+  ]
+}

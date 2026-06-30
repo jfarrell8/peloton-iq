@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Operates from long-range breakaways, showing capacity to sustain efforts on extended stages and finish strongly when the break stays clear. Demonstrates finishing speed to contest reduced sprint finishes from breaks.",
+  "team_tactics": "Limited data on team setup. Appears to be given freedom for opportunistic breakaway attempts rather than being a protected leader.",
+  "terrain_preference": "Long, attrition-based stages that favor endurance over pure climbing or sprinting. Best suited to breakaway scenarios on stages where peloton may miscalculate or fatigue.",
+  "vulnerability": "Unlikely to succeed when peloton controls tempo tightly or when pure climbers/sprinters are motivated. Depends on peloton tactical errors or fatigue rather than overpowering opponents.",
+  "key_patterns": [
+    "Breakaway specialist: both recorded results came from long-range break attempts (2 observations)",
+    "Strong finale from breaks: podium finish capability when break succeeds, 1st and 3rd recorded",
+    "Endurance-focused rider: success on longest Paris-Nice stage highlights stamina over explosive power"
+  ],
+  "form_trajectory": "positive: progression from breakaway podium at 2019 Vuelta to first pro win at 2022 Paris-Nice shows development",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GODON Dorian",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 6",
+    "2022 Paris-Nice Stage 6",
+    "2022 Paris-Nice Stage 6"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-06",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won stage 6 by timing a late outside slingshot around Kristoff from 8th position with ~200m remaining.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step overcame early positioning failure by stringing peloton at high tempo via Sabatini before final 200m, enabling Kittel's late jump.",
+      "Kittel exploited late roundabouts at 1km and 400m remaining which elongated sprint peloton, creating passing lanes despite poor position.",
+      "Dimension Data disrupted Quick-Step's control between 1km-400m remaining, forcing sprinters to navigate from deeper positions than typical leadout finishes.",
+      "Extreme heat (99°F/37°C) over long stage may have blunted competitors' acceleration reserves relative to Kittel's sustained power output."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Won second stage after terrible positioning on stage 4 crash day, suggesting Quick-Step learned tactical adjustments for chaotic finishes",
+      "DEMARE Arnaud": "negative: Lost 13 points in green jersey despite second place, indicating insufficient sprint speed to challenge Kittel even with better positioning",
+      "KRISTOFF Alexander": "neutral: Provided inadvertent slingshot for Kittel but closed Demare dangerously into barriers, revealing aggressive late-sprint tactics under pressure",
+      "MATTHEWS Michael": "neutral: Commentary identifies him as green jersey threat via medium mountain breakaways, not sprint speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:07:33.107124+00:00"
+}

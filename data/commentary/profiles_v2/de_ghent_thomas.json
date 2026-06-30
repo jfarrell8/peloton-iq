@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Commits to extremely long-range breakaways (4+ hours), succeeding on stages where terrain selectivity prevents full peloton chase organization. Patient diesel engine approach rather than explosive late attacks.",
+  "team_tactics": "Relies on individual autonomy in breakaways rather than team setup; gets into early moves before sprinter teams fully commit to chase organization.",
+  "terrain_preference": "Selective terrain that splits peloton attention without being climber-dominated; stages where sprinter teams hesitate on chase commitment. Exceptional time trial power sustains long solo efforts.",
+  "vulnerability": "Likely exposed when GC teams or climbers aggressively control from early stages; depends on opposition miscalculation of chase requirements.",
+  "key_patterns": [
+    "Executes 4+ hour solo/breakaway efforts, proven across both Catalunya stage wins (2 observations)",
+    "Wins from early breakaways on selective terrain, fourth Catalunya stage win from breaks",
+    "Success relies on sprinter team underestimation of his TT power and breakaway sustainability",
+    "Targets stages where peloton control is ambiguous between sprinter and selective terrain dynamics"
+  ],
+  "form_trajectory": "positive: Back-to-back stage wins demonstrating peak condition and fourth career Catalunya win from breaks shows refined tactical execution",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DE GHENT Thomas",
+  "built_from": [
+    "2019 Volta Ciclista a Catalunya Stage 1",
+    "2019 Volta Ciclista a Catalunya Stage 1",
+    "2019 Volta Ciclista a Catalunya Stage 2",
+    "2019 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2021 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won stage 5 sprint after TARAMAE Rein crashed 11km from finish, losing red jersey to ELISSONDE Kenny who inherited lead without gaining time.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE led out through final 1.6km but DECEUNINCK sat on wheels refusing to work, timing entry perfectly at 1km.",
+      "PHILIPSEN's teammate ASGREEN pulled off with ~300m remaining, sacrificing leadout early but PHILIPSEN still won comfortably.",
+      "Wind direction change at 50km created crosswind risk window that teams ignored, focusing only on sprint positioning."
+    ],
+    "rider_signals": {
+      "TARAMAE Rein": "negative: crashed 11km out despite being well-positioned near front on wide boulevard, suggesting positioning alone insufficient on sprint stages",
+      "JACOBSEN Fabio": "negative: DECEUNINCK executed perfect positioning strategy but JACOBSEN was too far back when sprint opened, missing wheels",
+      "MOLANO Juan Sebastian": "positive: UAE committed full leadout from 1.6km but MOLANO still finished 4th, showing depth but not winning speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:02:40.571356+00:00"
+}

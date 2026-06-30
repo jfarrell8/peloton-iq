@@ -1,0 +1,28 @@
+{
+  "label": "2023 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2023-03-04",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PIDCOCK Thomas attacked 42km out after bridging solo to breakaway on Monte Santa Maria descent, held off disorganized chase by 25 seconds",
+    "winner": "PIDCOCK Thomas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "PIDCOCK's Monte Santa Maria descent attack at 45km exploited hesitant chase coordination between Bahrain/Jumbo despite half-minute gap vulnerability",
+      "VAN DER POEL's immediate counter-attack failed when Bahrain/Jumbo refused to cooperate, revealing 2023 form deficit from 2021 winning level",
+      "MADOUAS attacking own teammate VALTER multiple times on final sectors destroyed UAE's chase cohesion despite having numerical advantage",
+      "Chase group's cat-and-mouse tactics on final gravel sector let gap balloon from 7 to 30 seconds, proving coordination failure costs more than individual strength deficits"
+    ],
+    "rider_signals": {
+      "PIDCOCK Thomas": "positive: Successfully executed 42km solo after high-risk descent separation, suggesting superior gravel TT ability than previously recognized",
+      "VAN DER POEL Mathieu": "negative: 2021 winner never rode at characteristic level, abandoned chase effort mid-race showing concerning form trajectory",
+      "MADOUAS Valentin": "positive: Repeatedly attacked including own teammate Valter on final sectors, finished second despite tactical chaos created",
+      "VALTER Attila": "positive: Crashed early but strongest of chase group on penultimate sector, reduced gap to 7 seconds before finale coordination failure",
+      "BETTIOL Alberto": "negative: Initiated promising early move as local rider but crashed out at 26km, race management issue",
+      "SHEFFIELD Magnus": "negative: Crashed at critical 26km juncture when positioned well in chase group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:53:33.514207+00:00"
+}

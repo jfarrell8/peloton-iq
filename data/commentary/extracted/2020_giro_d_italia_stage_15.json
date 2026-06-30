@@ -1,0 +1,32 @@
+{
+  "label": "2020 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-18",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GEOGHEGAN HART attacked solo final climb at Pian Cavallo, won by 2 seconds over KELDERMAN with ALMEIDA limiting losses to 37 seconds to retain pink.",
+    "winner": "GEOGHEGAN HART Tao",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS attacked breakaway solo 46km out when peloton acceleration began, demonstrating precise timing awareness before final climb.",
+      "HINDLEY paced aggressively for KELDERMAN on final climb, revealing Sunweb's confidence in captain over co-leader despite equal GC.",
+      "SAMITIER bridged as sole second rider after initial ten-man break formed, showing willingness to burn domestique energy.",
+      "ALMEIDA isolated early on Pian Cavallo but limited losses to 37 seconds, revealing unusual resilience for U23 GC novice."
+    ],
+    "rider_signals": {
+      "GEOGHEGAN HART Tao": "positive: first Grand Tour stage win positions him within three minutes of podium with team now eyeing overall victory",
+      "DENNIS Rohan": "positive: timed 46km solo attack precisely to peloton acceleration, showing tactical acumen despite eventual capture",
+      "HINDLEY Jai": "positive: rode tempo on final climb for KELDERMAN rather than himself, confirming domestique role despite comparable GC position",
+      "KELDERMAN Wilco": "positive: finished 2 seconds behind stage winner, now 15 seconds from pink with team fully committed to his leadership",
+      "ALMEIDA João": "positive: retained maglia rosa isolated on final climb, limiting losses to just 37 seconds shows exceptional maturity",
+      "NIBALI Vincenzo": "negative: distanced on final climb well before GC contenders split, suggests fading form in second week",
+      "MAJKA Rafał": "negative: lost contact on final climb, indicating Bora's GC ambitions weakening",
+      "KONRAD Patrick": "negative: distanced on final climb alongside other domestiques, not protecting GC position",
+      "FUGLSANG Jakob": "negative: dropped on final climb, confirming continued struggles after earlier race difficulties",
+      "VISCONTI Giovanni": "neutral: won first KOM sprint to take virtual mountains jersey but dropped from late breakaway on final climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:24:41.971271+00:00"
+}

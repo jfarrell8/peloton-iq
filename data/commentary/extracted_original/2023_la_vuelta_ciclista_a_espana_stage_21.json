@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 21",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-17",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Caden won Stage 21 Madrid sprint after EVENEPOEL Remco's aggressive counterattack to breakaway forced Groves to chase for green jersey security.",
+    "winner": "GROVES Caden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL Remco counterattacked intermediate sprint breakaway forcing GROVES to abandon sprinter conservation tactics to protect green jersey mathematically.",
+      "BORA's DENZ and KAMNA double-rider breakaway selection maximized finale positioning but both hesitated leading, allowing peloton compression sub-1km.",
+      "POGACAR Filippo joined elite breakaway but UAE teammates refused chase duty, revealing team's stage 21 ceremonial rather than competitive posture."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: counterattacked breakaway despite securing white jersey, attempting stage win that would threaten Groves' green mathematically",
+      "GROVES Caden": "positive: sacrificed sprinter positioning to chase Evenepoel breakaway personally, calculating jersey defense outweighed optimal sprint preparation",
+      "POGACAR Filippo": "neutral: selected into quality breakaway but lacked teammate support for sustained effort, suggesting UAE prioritized ceremony over stage hunting",
+      "DENZ Nico": "negative: hesitated leading finale despite BORA's numerical breakaway advantage with Kamna, allowing gap compression from 20 to contestable",
+      "KUSS Sepp": "neutral: completed Jumbo-Visma podium lockout 1-2-3, rare grand tour outcome revealing team's depth dominance pattern"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:07:22.343308+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-02",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alexey won the 16.4km time trial, catching two riders on course, missing yellow by one second to PÖSTLBERGER Lukas.",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD Jonas first sub-22min, dominant first half but all riders lost time to him second half showing pacing vulnerability.",
+      "MCNULTY Brandon 4.5sec up at 7.5km time check, held form better than climber-specialists on technical second half.",
+      "THOMAS Geraint fastest at intermediate but lost 23sec to LUTSENKO in final 8.9km, suggesting pacing miscalculation or technical weakness.",
+      "LUTSENKO caught both two-minute men on course, only rider shown doing so, revealing exceptional pacing strategy for 16km effort."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: Historically non-spectacular TT rider winning against world-class field suggests major form peak timing for stage races.",
+      "PÖSTLBERGER Lukas": "positive: Defending yellow by 1sec against PORTE/THOMAS/KELDERMAN on lumpy technical TT reveals unexpected time trial resilience for non-specialist.",
+      "VINGEGAARD Jonas": "positive: First sub-22min and dominated first half, indicating climbing TT strength but potential pacing refinement needed.",
+      "THOMAS Geraint": "negative: Fastest intermediate but faded 23sec to LUTSENKO on technical finish, 2sec slower than teammate PORTE suggests form concerns.",
+      "MCNULTY Brandon": "positive: 8th place at 24 years old, 4.5sec up at intermediate sustained better than climbers shows emerging TT strength.",
+      "FROOME Chris": "negative: 40sec down at 7.5km time check in TT specialty reveals continued struggle two years post-injury.",
+      "PORTE Richie": "neutral: Beat teammate THOMAS by 2sec despite lower intermediate split, showing superior technical execution on twisty finale.",
+      "ASGREEN Kasper": "neutral: Pre-race favorite for yellow finished 3rd GC, underperformed expectations on lumpy technical course favoring his skillset."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:48:31.567290+00:00"
+}

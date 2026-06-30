@@ -1,0 +1,30 @@
+{
+  "label": "2017 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-02",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MAJKA Rafał attacked solo 10km from summit finish on Sierra de la Pandera, held off favorites by 27 seconds after breakaway.",
+    "winner": "MAJKA Rafał",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MAJKA attacked from breakaway at 10km mark when steep wall fragmented group rather than waiting for summit.",
+      "CONTADOR's attack at 3.5km too late after breakaway absorbed; early positioning from remnants proved superior.",
+      "NIBALI sprinted for 4-second bonus despite arriving in group, showing GC micro-gains matter on summit finishes."
+    ],
+    "rider_signals": {
+      "MAJKA Rafał": "positive: timed solo attack from breakaway at exact fragmentation point 10km out, held 27 seconds on motivated chasers",
+      "CONTADOR Alberto": "negative: attacked at 3.5km from finish but couldn't distance FROOME, suggesting declining climbing power late race",
+      "LÓPEZ Miguel Ángel": "positive: second on stage after late attack, confirmed climbing form with ability to drop main GC group",
+      "NIBALI Vincenzo": "positive: tactical awareness to sprint for 4-second bonus in group finish despite not contesting stage win",
+      "FROOME Chris": "neutral: marked all moves but didn't lose time, conservative defense holding 55-second lead over NIBALI",
+      "CHAVES Esteban": "negative: suffered on Pantera ascent and lost GC ground, weakness on sustained 8% climbs exposed",
+      "DE LA CRUZ David": "negative: fell back on final climb alongside CHAVES, losing GC positions on sustained steep gradient",
+      "KELDERMAN Wilco": "positive: moved up in GC by surviving final climb better than CHAVES and DE LA CRUZ",
+      "ZAKARIN Ilnur": "positive: gained GC positions when CHAVES and DE LA CRUZ faltered on out-of-category ascent"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:16:50.389903+00:00"
+}

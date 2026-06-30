@@ -1,27 +1,35 @@
 {
-  "attacking_style": "Breakaway specialist who wins from large groups (29-30 riders) with strong uphill sprint finishes. Excels in final 800m-1km after surviving climbs rather than attacking on them.",
-  "team_tactics": "BORA leverages team depth to place multiple riders in breaks (Kamna partnership visible). However, hesitates to lead when numerically superior, preferring reactive positioning over proactive pulling.",
-  "terrain_preference": "HC and category climbs with uphill sprint finishes suit best. Survives hard climbs 'by teeth-gritted determination' then unleashes finish speed. Struggles when required to lead/control breakaways on flatter finales.",
-  "vulnerability": "Tactical indecision when holding numerical advantage—hesitates to commit when leadership required. Peloton marks him too dangerous for certain breaks, limiting opportunities when identified as GC-adjacent threat.",
+  "attacking_style": "Opportunistic breakaway specialist who attacks from reduced groups at 12km to go, particularly effective on finishing climbs where he can absorb chasers in final 3km. Prefers to wait and counter rather than initiate early.",
+  "team_tactics": "Operates independently in breakaways with minimal visible team support. Relies on positioning himself correctly within break dynamics rather than domestique-led setups. Others (e.g., VLASOV) use his wheels for pacing.",
+  "terrain_preference": "Medium-mountain stages with final climb sprint finishes suit him best (won on Moosalp HC summit, Colle Brianza, uphill 300m sprint). Exposed on sustained high-tempo climbs where he visibly suffers before recovering.",
+  "vulnerability": "Lacks pure finishing speed against top sprinters when fresher riders commit (EVENEPOEL, GROVES). Shows tactical impatience attacking solo <5km which fragments breakaway cooperation, allowing peloton to close. Cannot sustain GC-level chase tempo.",
   "key_patterns": [
-    "Wins from large breakaways (29-30 riders) with uphill finishes, not solo efforts (3 instances)",
-    "Survives climbs marginally then wins sprint, nearly dropped before winning twice at Giro",
-    "Peloton threat assessment limits break inclusion despite teammate allowed forward (Vuelta stage 15)",
-    "Hesitates leading when teammates present, prefers reactive tactics over controlling (Vuelta finale)",
-    "Breakthrough form windows: exceptional clusters like 2 wins in 3 days Giro 2023"
+    "Elite recovery capacity: visibly suffering on penultimate climb, attacks successfully 12km later (multiple instances)",
+    "Breakaway specialist with tactical discipline: waits for opponents' premature moves before countering in final kilometers",
+    "Multiple Grand Tour stage wins from reduced breakaways, 2023 Giro double in three days",
+    "Photo-finish capable on HC summit finishes, breakthrough climbing sprint power since 2022",
+    "Fragile when forced to lead: solo moves <5km consistently backfire, needs others to pace first"
   ],
-  "form_trajectory": "neutral: 2023 Giro peak (2 wins, age 29 breakthrough) followed by Vuelta tactical hesitation suggests form declining or confidence issues post-success. No 2024 data limits assessment.",
-  "races_analysed": 5,
-  "confidence": "medium",
+  "form_trajectory": "positive: Multiple 2023 Giro stage wins demonstrate peak form and refined tactical discipline compared to 2019 impatience. Breakthrough climbing power established 2022 continues.",
+  "races_analysed": 10,
+  "confidence": "high",
   "rider_name": "DENZ Nico",
   "built_from": [
+    "2018 Giro d'Italia Stage 10",
+    "2019 Giro d'Italia Stage 18",
+    "2019 Giro d'Italia Stage 18",
+    "2020 Paris - Nice Stage 5",
     "2022 Tour de Suisse Stage 6",
     "2022 Tour de Suisse Stage 6",
+    "2023 Giro d'Italia Stage 12",
+    "2023 Giro d'Italia Stage 12",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 14",
     "2023 Giro dItalia Stage 12",
     "2023 Giro dItalia Stage 12",
     "2023 Giro dItalia Stage 14",
     "2023 Giro dItalia Stage 14",
-    "2023 La Vuelta Ciclista a Espana Stage 15",
+    "2023 La Vuelta Ciclista a Espana Stage 18",
     "2023 La Vuelta Ciclista a Espana Stage 21"
   ]
 }

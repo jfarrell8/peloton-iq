@@ -1,0 +1,31 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-21",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DE GENDT Thomas soloed to victory from breakaway in final tunnel approach, holding 23 seconds over chasing group led by YATES Simon.",
+    "winner": "DE GENDT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE GENDT Thomas manipulated breakaway companions psychologically, making them believe in collective success before attacking solo late.",
+      "UAE Team Emirates unexpectedly joined Movistar's acceleration, signaling wider team ambitions than originally anticipated for this parcours.",
+      "YATES Simon's late acceleration neutralized QUINTANA Nairo's headwind attack easily, then immediately shut down pace exposing team confidence hierarchy.",
+      "LANGEN Vegard Stake led chase work closing gap from 27s to 19s, revealing UAE's willingness to expend domestique resources."
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: Demonstrated tactical maturity manipulating breakaway dynamics before solo effort, suggesting improved race craft beyond pure climbing power.",
+      "YATES Simon": "positive: Neutralized QUINTANA's attack in headwind with authority then won sprint from chase group, showing form depth beyond pure climbing.",
+      "MARTIN Dan": "positive: Positioned aggressively in early tunnel attacks looking comfortable with elbows out, unexpected attacking intent for stage profile.",
+      "QUINTANA Nairo": "negative: Lightweight attack into headwind easily neutralized by YATES Simon, poor tactical judgment reveals declining race intuition.",
+      "VALVERDE Alejandro": "neutral: Tagged along on early attacks conservatively, standard positioning without commitment reveals calculated points defense strategy.",
+      "IMPEY Daryl": "neutral: Identified as Mitchelton-Scott's chosen rider pre-race but invisible in finale, suggesting team miscalculated stage difficulty.",
+      "FRANK Mathias": "negative: Mentioned as not being part of finale after featuring in early break, fade suggests insufficient depth for sustained efforts.",
+      "LAENGEN Vegard Stake": "positive: Led sustained chase effort closing significant gap, elevated domestique role indicates UAE's tactical flexibility.",
+      "NOVAK Domen": "neutral: Added late firepower for Bahrain-Merida but too late, timing suggests team's stage-reading lag behind rivals."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:45:42.257662+00:00"
+}

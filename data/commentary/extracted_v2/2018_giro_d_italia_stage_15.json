@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-20",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked on final climb, dropped FROOME by 1:30+ and DUMOULIN, extending GC lead decisively",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Yates attacked when Dumoulin finished pulling on final climb, isolating him after he'd emptied himself working",
+      "Karapaz/Poels responded for Movistar when Dumoulin faltered, revealing team split priorities between stage/GC",
+      "Froome's minute-plus loss suggests Zoncolan stage hangover manifests next-day, not same-day weakness pattern",
+      "Large breakaway group accepted early suggests peloton conceded stage to preserve energy for mountain finish"
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: extended GC lead by attacking precisely when domestique Dumoulin finished working the climb",
+      "FROOME Chris": "negative: lost 1:30+ suggesting previous stage mega-effort creates next-day rather than immediate weakness",
+      "DUMOULIN Tom": "negative: did pulling work then couldn't follow attacks, burned bonuses chasing instead of securing podium",
+      "PINOT Thibaut": "positive: responded strongly to attacks after appearing questionable earlier in stage",
+      "BALLERINI Davide": "neutral: contested intermediate sprint in breakaway group showing sprint form returning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:19:59.880885+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range solo attacks from 30km+ out, willing to commit fully to breakaways on challenging finishes including maximum gradient climbs.",
+  "team_tactics": "Insufficient data to establish team setup patterns from single race observation.",
+  "terrain_preference": "Maximum gradient finishes where explosive power matters more than sustained climbing; benefits from disorganized chase scenarios where peloton coordination is difficult.",
+  "vulnerability": "Unable to determine specific vulnerabilities from limited observations, though solo efforts suggest potential weakness in direct sprint or organized chase situations.",
+  "key_patterns": [
+    "Executes long-range solo attacks exceeding 30km, committed to high-risk breakaway efforts.",
+    "Thrives in accumulated fatigue conditions where peloton organization breaks down.",
+    "Strong finishing capacity on maximum gradient climbs after extended solo efforts."
+  ],
+  "form_trajectory": "unknown: only single 2020 observation available, showing strong breakaway capacity but insufficient data for trend analysis",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FABRO Matteo",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 7",
+    "2020 Tirreno Adriatico Stage 7"
+  ]
+}

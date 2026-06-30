@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Initiates moves on final climb approaches but lacks explosive power in the final 200-300m, particularly after technical corners where acceleration is critical.",
+  "team_tactics": "Benefits from Astana support to position for late attacks, but team setup alone cannot compensate for insufficient finishing punch in short sprints.",
+  "terrain_preference": "Can animate races on climb approaches and positioning phases; exposed on technical finishes requiring sharp accelerations under 300m to go.",
+  "vulnerability": "Sub-300m sprint finishes after right-hand corners or technical sections where pure explosive power is required; unable to sustain winning moves into final straight.",
+  "key_patterns": [
+    "Initiates winning moves on final climbs but fades before line (2 observations)",
+    "Lacks finishing punch in sub-300m sprints despite strong positioning (2 observations)",
+    "Power insufficient after technical corners requiring sharp re-acceleration (2 observations)"
+  ],
+  "form_trajectory": "negative: demonstrated ability to position and initiate but repeatedly unable to convert due to insufficient finishing power",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VILELA Andrea",
+  "built_from": [
+    "2019 Tour de Romandie Stage 3",
+    "2019 Tour de Romandie Stage 3"
+  ]
+}

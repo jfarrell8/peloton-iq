@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-05",
   "stage": 2,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "eJpcXEACn78",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=eJpcXEACn78",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 74,
+    "raw_chars": 2636,
+    "clean_chars": 2620,
+    "duration_mins": 3.3,
+    "clean_text": "will the sprinters finally be able to shine at Aron not favored by the tracing of yesterday's stage bhani and Co should have a better opportunity to show themselves in the PED do but for this to happen there are two conditions the first passing the difficult first 100 km is fulfilled without problems the second keeping Escapes in check seems a little more complicated as right from the start four men leave the pack behind for a long haul Escape amongst them the Frenchman Roman kbo the Dutchman K buman Nathan Brown from canondale and Alex lenko ordered by his team aana to catch up to the Escape Group after 92 km 31st in the overall ranking before today's stage Nathan Brown virtually takes the yellow Jersey but the pelaton has no intention to let keep it the pack has learned yesterday's lesson the team slotto sudal in Direct Energy don't let the lead grow too much and on the first passage 31 km before arrival the for escapes have a lead of less than a minute this is when the kazak lutsenko decides to risk it all and attacks at the race front but just like his fellow escapes he's reeled in on the 4,600 Met long Finish Line and at the end of the slightly ascending Road the stage win is decided by a Sprint finish that's when Arnold dear grasps the opportunity to beat his Rivals by a bikes length it's the sixth success for the Frenchman in 2017 a success that should be very motivating only one month before the start of the tour to France beating a pack of sprinters that include stars like buhan Kristof or Kar boosts confidence and shows your Rivals that you need to be reckoned with Arno dear Ben benefits of the great work of his teammates impr proves his ever increasing quality it's the 25th success on a stage rates for the 25-year-old former youth world champion we really focused on the Sprint even though our legs were Heavy after the difficult track all the sprinters were exhausted I said this morning during breakfast that this could suit me but that I needed to be present for the Sprint our team worked very well during our training week in Cora and I'm happy that all this hard work paid off one month after hitting the ground in Yorkshire Naser bhani proves his increasing shape and finish a third behind Alexander Kristoff in the overall ranking Thomas durent keeps the yellow Jersey with a lead of 48 seconds to Axel Doo stage three on Tuesday will lead the pack to the east towards tulan at the sprinters teams should once again try to keep aggressive riders in check to give their Stars the chance for a Sprint finish probably one of the last opportunities for the sprinters to shine",
+    "preview_start": "will the sprinters finally be able to shine at Aron not favored by the tracing of yesterday's stage bhani and Co should have a better opportunity to show themselves in the PED do but for this to happen there are two conditions the first passing the difficult first 100 km is fulfilled without problems the second keeping Escapes in check seems a little more complicated as right from the start four men leave the pack behind for a long haul Escape amongst them the Frenchman Roman kbo the Dutchman K ",
+    "preview_end": "off one month after hitting the ground in Yorkshire Naser bhani proves his increasing shape and finish a third behind Alexander Kristoff in the overall ranking Thomas durent keeps the yellow Jersey with a lead of 48 seconds to Axel Doo stage three on Tuesday will lead the pack to the east towards tulan at the sprinters teams should once again try to keep aggressive riders in check to give their Stars the chance for a Sprint finish probably one of the last opportunities for the sprinters to shine"
+  },
+  "status": "transcript_saved"
 }

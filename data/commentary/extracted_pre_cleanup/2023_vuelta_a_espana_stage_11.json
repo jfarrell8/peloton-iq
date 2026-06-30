@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HERRADA Jesus won from 26-rider breakaway; EVENEPOEL Remco probed KUSS Sepp with 200m acceleration on steep finish, Kuss matched easily.",
+    "winner": "HERRADA Jesus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint placed 5th from breakaway despite being best-placed GC rider at 91:4 deficit, suggesting form collapse.",
+      "EVENEPOEL Remco tested KUSS Sepp only in final 200m on 14% gradients, revealing tactical passivity despite time trial strength.",
+      "CARTHY Hugh exploited Quick-Step's tolerance for lower GC threats escaping, forcing temporary chase response before being reabsorbed.",
+      "Quick-Step controlled entire stage with HESSINK Robert, VAN BAARLE Dylan, TRATNIK Jan on flat, then allowed 6-minute breakaway gap."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: matched EVENEPOEL's late acceleration effortlessly after time trial, suggesting superior recovery or Remco withholding effort",
+      "EVENEPOEL Remco": "neutral: probed only symbolically in final 200m despite stage profile favoring explosive efforts, possibly saving for Tourmalet",
+      "THOMAS Geraint": "negative: finished 5th from advantaged breakaway position, confirming abysmal Vuelta form continues",
+      "AYUSO Juan": "neutral: crashed in neutral section requiring medical car visit, but finished on same time as GC group",
+      "CARTHY Hugh": "positive: opportunistically attacked when Quick-Step let lower threats escape, forcing tactical response"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:31:36.678913+00:00"
+}

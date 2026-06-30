@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Thrives on brutal final climbs in summit finishes, capable of matching pure climbers in steep gradients. Shows ability to respond to attacks rather than initiate early moves.",
+  "team_tactics": "Positioned as primary GC card for EF, relying on team to deliver him into position on climb approaches. Vulnerable when mechanical support fails at critical moments.",
+  "terrain_preference": "Excels on steep, sustained summit finishes where pure climbing power decides outcomes. Brutal final climbs with high gradients suit his style best.",
+  "vulnerability": "Mechanical issues at critical GC moments can derail ambitions entirely. Dependent on flawless positioning and equipment through climb approaches.",
+  "key_patterns": [
+    "Performs best on brutal, steep summit finishes requiring sustained climbing power (2 observations)",
+    "Shows climbing form renaissance capable of matching top-tier climbers on final ascents (2 observations)",
+    "GC ambitions vulnerable to mechanical failures at critical race moments (2 observations)"
+  ],
+  "form_trajectory": "unknown: limited recent data with mixed signals - strong climbing form in 2019 but mechanical disruption in 2022 prevents clear assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GUERREIRO Ruben",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 15",
+    "2022 UAE Tour Stage 7"
+  ]
+}

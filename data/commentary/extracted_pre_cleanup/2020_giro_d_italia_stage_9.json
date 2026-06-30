@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-11",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GUERREIRO attacked with CASTROVIEJO on final climb, sat on until final meters, took maiden grand tour win gaining time on ALMEIDA's group.",
+    "winner": "GUERREIRO Ruben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BJERG bridging solo mid-race after early break formed signals exceptional diesel strength for future mountain domestique work.",
+      "NIBALI's team aborted attack when insufficient damage done immediately behind, revealing defensive threshold judgment for protecting top-five.",
+      "GUERREIRO refusing to share workload with CASTROVIEJO after final attack succeeded by tactical patience, not counterattack strength."
+    ],
+    "rider_signals": {
+      "GUERREIRO Ruben": "positive: won first grand tour stage by sitting on CASTROVIEJO's wheel entire final climb despite being weaker team",
+      "BJERG Mikkel": "positive: bridged solo from peloton to established breakaway showing exceptional endurance capacity beyond standard rouleur profile",
+      "NIBALI Vincenzo": "negative: abandoned attack immediately when group stayed close, suggesting defensive rather than aggressive GC positioning mentality",
+      "ALMEIDA João": "neutral: lost seconds but held pink, now 30s ahead with BILBAO and KELDERMAN gaining most time",
+      "GEOGHEGAN HART Tao": "positive: gained time alongside HAMILTON Lucas attacking GC group, showing opportunistic aggression beyond standard domestique role",
+      "FUGLSANG Jakob": "positive: gained time moving closer to podium positions without visible effort in commentary"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:27:47.082519+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data to determine personal attacking style. Observations show breakaway and domestique roles rather than personal winning efforts.",
+  "team_tactics": "Deployed in service of team leader Sagan - takes breakaway duties for intermediate sprint points and performs positioning/pacing work to preserve leader's energy.",
+  "terrain_preference": "Appears on cobbled Monuments and sprint stages, suggesting versatility in classics/sprint support rather than climbing specialization.",
+  "vulnerability": "Early-race crashes have disrupted team plans (Paris-Roubaix 2019), potentially exposing positional awareness issues in chaotic race starts.",
+  "key_patterns": [
+    "Breakaway specialist for intermediate sprint point collection (Tour de France 2020)",
+    "Protects team leader Sagan's energy through domestique work across race types",
+    "Early-race positioning incidents impact team tactical execution (Paris-Roubaix crash)"
+  ],
+  "form_trajectory": "unknown: limited observations show consistent domestique role rather than personal results trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "OSS Daniel",
+  "built_from": [
+    "2019 Paris-Roubaix",
+    "2020 Tour de France Stage 6"
+  ]
+}

@@ -4,85 +4,21 @@
   "race_date": "2018-02-15",
   "stage": 3,
   "video": {
-    "video_id": "KcHxquyN7hQ",
-    "title": "Dubai Tour 2018 | Stage 3 Race Report",
-    "published": "2018-02-08 15:02:12+00:00",
-    "channel": "GCN",
-    "url": "https://youtube.com/watch?v=KcHxquyN7hQ",
-    "match_score": 77.5,
-    "all_candidates": [
-      {
-        "video_id": "KcHxquyN7hQ",
-        "title": "Dubai Tour 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-08 15:02:12+00:00",
-        "match_score": 77.5
-      },
-      {
-        "video_id": "2HUgDhV0z1s",
-        "title": "Tour Down Under 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-01-18 09:51:51+00:00",
-        "match_score": 66.67
-      },
-      {
-        "video_id": "ALoP2tj8wFc",
-        "title": "Abu Dhabi Tour 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-23 16:15:00+00:00",
-        "match_score": 62.5
-      },
-      {
-        "video_id": "78XnO8iXYwU",
-        "title": "Abu Dhabi Tour 2018 | Stage 1 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-21 19:32:09+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "oCdreJx2pM8",
-        "title": "Dubai Tour 2018 | Stage 4 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-09 14:02:58+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "-KTuqGMzJ14",
-        "title": "Dubai Tour 2018 | Stage 5 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-10 15:39:21+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "tq6giNZAEgI",
-        "title": "Abu Dhabi Tour 2018 | Stage 2 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-22 15:37:33+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "lxab7eXHM1c",
-        "title": "Tour Down Under 2018 | Stage 6 Report",
-        "channel": "GCN",
-        "published": "2018-01-21 10:56:11+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "Wy8QYQbdENY",
-        "title": "Who Is Geraint Thomas? Tour de France Winner 2018 | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-29 17:40:05+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "33P8lVAtw2Q",
-        "title": "5 Key Climbs Of The 2018 Tour de France | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-12 16:09:27+00:00",
-        "match_score": 26.67
-      }
-    ]
+    "video_id": "ZWcdZsqPnKw",
+    "title": "Summary - Stage 3 - Tour of Oman 2018",
+    "url": "https://youtube.com/watch?v=ZWcdZsqPnKw",
+    "channel": "playlist_import",
+    "published": "2018-02-15T17:47:43Z",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 43,
+    "raw_chars": 1512,
+    "clean_chars": 1504,
+    "duration_mins": 2.3,
+    "clean_text": "Stage three of the tour of a man from the German university of technology to the wadi darker damn a difficult day in advance of the riders 179 and a half kilometers of racing with some steep climbs in the red jersey Nathan Hass of Katusha a person still smiling after a stage victory the day before the four-man breakaway forming chateau of coffee dismiss of the want a group show bet whipp'd of room pot and Schultz of cassia Royale but there was a man on a mission Loic Shetty - in the most aggressive rider jersey from stage number two was on the hunt for more sprint points and walking in the mountains whippet was dropped Shetty pushed on what a day the man from confidence was having taking every single one of the Sprint's and the king of the mountains well-deserved the peloton catching him before the final king of the mountains of the day at wadi darker the peloton all together the race was set for a big showdown shet whose legs began to give out and at the front it was the Astana pro team looking after Miguel Angle Lopes Tanel can get showing well but then it was BMC Racing team who came to the front one kilometer to go an uphill finish the Olympic champion started his sprint very very early the world champion previously Rui Costa tried to get in contact but there was no stopping the man from BMC Racing team he finally took a stage win in the Tour of Oman and the red jersey to add to a glorious day van a ver Matt now leads this race with an advantage of 11 seconds in today for you",
+    "preview_start": "Stage three of the tour of a man from the German university of technology to the wadi darker damn a difficult day in advance of the riders 179 and a half kilometers of racing with some steep climbs in the red jersey Nathan Hass of Katusha a person still smiling after a stage victory the day before the four-man breakaway forming chateau of coffee dismiss of the want a group show bet whipp'd of room pot and Schultz of cassia Royale but there was a man on a mission Loic Shetty - in the most aggress",
+    "preview_end": "ooking after Miguel Angle Lopes Tanel can get showing well but then it was BMC Racing team who came to the front one kilometer to go an uphill finish the Olympic champion started his sprint very very early the world champion previously Rui Costa tried to get in contact but there was no stopping the man from BMC Racing team he finally took a stage win in the Tour of Oman and the red jersey to add to a glorious day van a ver Matt now leads this race with an advantage of 11 seconds in today for you"
+  },
+  "status": "transcript_saved"
 }

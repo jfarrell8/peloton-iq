@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-11",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam timed his sprint perfectly from BORA's leadout, capitalizing on chaos after MARTIN Tony's late attack disrupted VIVIANI's Quick-Step train.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MARTIN Tony's late solo attack from 13.6km shattered VIVIANI's leadout train positioning, forcing Quick-Step to chase reactively.",
+      "BORA positioned VAN POPPEL Danny through final corner first, creating numerical advantage before BENNETT's final acceleration.",
+      "Quick-Step riders physically leaning on VIVIANI under flamme rouge suggests leadout train disorganization under sustained pressure.",
+      "SÉNÉCHAL Florian's intermediate sprint work for Quick-Step reveals team prioritizing points jersey accumulation beyond stage wins."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: perfectly timed sprint launch demonstrates patience to wait for chaos rather than following standard leadout rhythm",
+      "MARTIN Tony": "positive: solo 13.6km acceleration shows willingness to sacrifice personal result to disrupt rival sprint trains tactically",
+      "VIVIANI Elia": "negative: Quick-Step leadout fractured under pressure despite numerical presence, losing organization in final kilometer",
+      "VAN POPPEL Danny": "positive: BORA's corner positioning through final turn superior to Quick-Step's despite latter having more numbers",
+      "SÉNÉCHAL Florian": "neutral: intermediate sprint targeting reveals Quick-Step building points classification depth beyond VIVIANI alone"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:27:02.636593+00:00"
+}

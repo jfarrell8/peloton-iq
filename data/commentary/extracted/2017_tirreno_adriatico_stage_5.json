@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-12",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter survived all climbs to launch inside attack with right-hand turn approaching, taking stage from reduced sprint group ahead of PINOT and ROGLIČ",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Adam abandoned while 33 seconds from lead, revealing GC contenders risk overextension defending slim margins on multi-climb stages",
+      "SAGAN Peter moved 10th to 3rd before final kilometer right-hand turn, using corner geometry to launch inside attack",
+      "QUINTANA Nairo extended 33-second lead despite YATES abandonment, suggesting conservative riding when closest rival eliminates himself",
+      "PINOT Thibaut gained 6 seconds via bonuses despite second place, showing time bonuses matter more than placings for chasing GC"
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Survived multiple climbs to win reduced sprint, positioning from 10th in final kilometer shows exceptional race-reading on hilly finishes",
+      "YATES Adam": "negative: Abandoned from 33 seconds behind GC lead, suggesting mechanical/illness vulnerability rather than pure climbing deficit",
+      "QUINTANA Nairo": "neutral: Extended lead passively through rival's abandonment while conserving energy in group finish",
+      "PINOT Thibaut": "positive: Recovered 6 seconds on QUINTANA through bonuses despite losing stage, demonstrates aggressive bonus-hunting strategy",
+      "THOMAS Geraint": "positive: Fourth place after being at sharp end in finale shows climbing form compatible with reduced sprint positioning",
+      "ROGLIČ Primož": "positive: Third place from break/climb selection suggests early-career versatility on mixed terrain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:05:51.777137+00:00"
+}

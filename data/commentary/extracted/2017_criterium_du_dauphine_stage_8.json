@@ -1,0 +1,28 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-11",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG attacked with MARTIN Dan on Plateau de Solaison, dropped his teammate on the climb, won by 10 seconds over PORTE who time-trialed solo to defend yellow but lost GC by 4 seconds.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FUGLSANG used MARTIN Dan as launch pad before dropping him, converting teammate attack into personal GC gain—team coordination masked individual ambition.",
+      "PORTE isolated after Col de Colombier when ARU and VALVERDE forced early selection; BMC unable to defend on first climb exposed yellow jersey.",
+      "FROOME attacked PORTE on final meters of Colombier then bridged alone on descent, demonstrating superior descending when climbing parity existed.",
+      "Stage winner bonus (10 seconds) proved decisive margin in GC, transforming what would be GC tie into FUGLSANG victory—time bonuses matter on summit finishes."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: dropped climbing specialist MARTIN Dan on sustained 9% gradient after using him as bridge, then held 1:15 gap solo for stage win and GC",
+      "PORTE Richie": "negative: lost all teammates on Col de Colombier, couldn't follow ARU/VALVERDE forcing, then dropped by FROOME on climb finish despite time-trialing well solo on final climb",
+      "FROOME Chris": "positive: attacked PORTE precisely at Colombier summit when rival weakest, bridged 1:15 gap alone via descent/valley to reach leaders—tactical precision and descending strength",
+      "ARU Fabio": "positive: initial attack with VALVERDE on Colombier immediately shelled PORTE's team, forcing yellow jersey to chase without support—smart early aggression",
+      "MARTIN Dan": "neutral: attacked to set up FUGLSANG but dropped on sustained 9% Solaison climb, finished third only 1 second ahead of FROOME—strong but not elite climbing",
+      "VALVERDE Alejandro": "positive: combined with ARU to apply early pressure on Colombier, eliminating PORTE's team protection before main difficulty—veteran tactical awareness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:57:15.186827+00:00"
+}

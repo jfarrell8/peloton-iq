@@ -1,23 +1,27 @@
 {
-  "attacking_style": "Versatile opportunist who strikes late in technical finales or executes sustained solo chases. Comfortable attacking in final kilometers with technical corners or uphill gradients up to 9%.",
-  "team_tactics": "Deployed as high-value domestique for GC protection, capable of solo bridge efforts and sprint lead-outs. Takes responsibility for neutralizing dangerous moves through individual firepower rather than team tempo.",
-  "terrain_preference": "Technical finales with criterium-style corners, uphill sprint gradients (9%), and headwind finishes where power-to-weight advantages apply. Shows unexpected GC-level climbing strength in stage race contexts.",
-  "vulnerability": "Limited observations suggest potential weakness in pure sprint positioning battles. Role as domestique may limit opportunities to showcase full capabilities in controlled bunch finishes.",
+  "attacking_style": "Primarily attacks for KOM points or in breakaways rather than stage wins, showing tactical discipline in domestique role. Survives in breaks until final kilometer but rarely contests finish.",
+  "team_tactics": "Deployed as high-powered domestique for GC leaders, executing controlled chase pacing and mountain leadout work. Sacrifices personal results to protect team leaders, even when wearing national champion jersey.",
+  "terrain_preference": "Time trials and moderate mountain stages suit best (5th on Jebel Hafeet). Extended steep climbing and mountain finishes with GC-level sustained gradients expose limitations despite solid climbing capacity.",
+  "vulnerability": "Loses positions on final steep kilometers of extended mountain stages when GC contenders accelerate. TTer physiology struggles when sustained climbing intensity required, evidenced by losing podium by 1 second after conservative UAE Tour ride.",
   "key_patterns": [
-    "Late-race breakaway attempts in technical finales, forcing teams to chase deep (2 observations)",
-    "Solo chase/bridge efforts covering significant gaps to protect teammates or disrupt races (2 observations)",
-    "Versatile tactical deployment: sprint lead-outs on gradients and GC protection duties (3 observations)",
-    "Strong individual firepower in headwind/power-based scenarios, neutralizing solo attackers (2 observations)"
+    "Executes team pacing duties over personal ambitions, even wearing Australian road champion jersey (2 instances)",
+    "Strong on moderate climbs but vulnerable final kilometers of mountain stages (3 observations UAE Tour)",
+    "Breakaway participation for KOM points or team tactics, survival to final km without contesting win",
+    "Calibrated chase/leadout pacing protects GC riders while limiting own energy expenditure (2 instances)",
+    "TTer with genuine climbing capacity (5th Hafeet) but not elite sustained steep gradient performance"
   ],
-  "form_trajectory": "positive: All three observations from 2022 show proactive, high-quality interventions including GC-level climbing and technical handling confidence",
-  "races_analysed": 3,
+  "form_trajectory": "neutral: Shows consistent domestique execution across 2022-2023 but UAE Tour podium loss by 1 second suggests ceiling reached in GC climbing. Role solidified as high-level support rider rather than personal GC threat.",
+  "races_analysed": 6,
   "confidence": "medium",
   "rider_name": "PLAPP Luke",
   "built_from": [
     "2022 La Vuelta ciclista a Espana Stage 21",
     "2022 La Vuelta ciclista a Espana Stage 21",
     "2022 Tour de Romandie Stage 4",
-    "2022 Tour de Romandie Stage 4",
-    "2022 UAE Tour Stage 4"
+    "2022 UAE Tour Stage 4",
+    "2022 UAE Tour Stage 7",
+    "2023 Tour de Romandie Stage 1",
+    "2023 UAE Tour Stage 7",
+    "2023 UAE Tour Stage 7"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-06",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb surged from BENNETT Sam's slipstream in final 200m on uphill drag, won from seemingly nowhere after appearing non-competitive.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EWAN deliberately sat behind BENNETT until final 200m on uphill drag, concealing form before explosive acceleration.",
+      "HAMILTON Lucas and MEYER Cam led IMPEY Daryl's train but IMPEY launched too early on right boards, fading before line.",
+      "MORKOV Michael positioned BENNETT Sam perfectly, but Bennett cracked on uphill finish despite optimal leadout placement."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: disguised readiness in slipstream before devastating uphill sprint, suggesting peakedness and tactical maturity absent day prior",
+      "BENNETT Sam": "negative: cracked on gradual uphill drag despite perfect MORKOV leadout, revealing climbing deficit in sprint finishes",
+      "IMPEY Daryl": "neutral: went long on right boards with MITCHELTON-SCOTT train support but distance judgment flawed on gradual climb",
+      "HAAS Nathan": "positive: finished strong enough for bonus seconds on uphill finish without dedicated leadout",
+      "DENNIS Rohan": "negative: poorly timed puncture suggests mechanical vulnerability or positioning carelessness in crucial phase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:39:28.908548+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2020 Vuelta a Espana Stage 16",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-06",
+  "stage": 16,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won the sprint from the break after CAVAGNA Rémi's long solo effort, while ROGLIČ Primož took crucial 6-second bonus by outsprinting CARAPAZ Richard for second.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ contested intermediate sprint despite GC lead, revealing Jumbo's concern about small margins with crosswinds threatening time splits.",
+      "UAE and Bora controlled peloton instead of Jumbo-Visma, suggesting weak teams burn energy while dominant squads conserve for crosswind splits.",
+      "EF didn't work at front all day yet CARTHY stayed well-positioned, showing strong teams can hide riders before crucial stages.",
+      "CAVAGNA Rémi from 6-rider break went solo, typical breakaway pattern where strongest rouleur attacks before finale on moderate climbs."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: Sprinted from third wheel for 6-second bonus on non-sprint stage, shows calculated bonus hunting when GC margins tight",
+      "CARAPAZ Richard": "neutral: Recognized danger of ROGLIČ bonus hunting and responded, but lacked sprint speed to counter from second position",
+      "CORT Magnus": "positive: Won from early breakaway sprint against faster finishers like ROGLIČ, improving climbing allows him to contest mountain transition stages",
+      "CAVAGNA Rémi": "positive: Strong enough to solo from 6-rider break on hilly stage, confirms rouleur capability on moderate mountain stages",
+      "CARTHY Hugh": "positive: EF team morale elevated by stage win, positioned well without working, team confidence matters entering final mountain stage",
+      "STANNARD Robert": "positive: Made consecutive breakaways on back-to-back stages, elite breakaway specialists can sustain repeated efforts",
+      "PHILIPSEN Jasper": "neutral: Previous stage win noted but not relevant to mountain stage tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:43:24.881788+00:00"
+}

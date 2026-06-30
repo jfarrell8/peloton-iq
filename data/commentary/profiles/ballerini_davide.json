@@ -1,0 +1,37 @@
+{
+  "attacking_style": "Not a traditional attacker; functions as a sprinter who excels when drafting early launchers and finishing late (200-300m), timing his surge when others fade rather than initiating.",
+  "team_tactics": "Used by Quick-Step as pre-finale stretch engine to soften peloton before key moves, but team struggles to organize consistent leadout for him. Shows sprint leadership flexibility as substitute option when primary sprinter unavailable.",
+  "terrain_preference": "Flat sprint finishes where he can sit on wheels of stronger launchers. Demonstrates breakaway resilience but ultimately returns to bunch sprint role. Not suited to sustained efforts or technical positioning battles.",
+  "vulnerability": "Fragile when team leadout structure disrupts—loses positioning badly in chaotic finales. Poor pacing judgment when chasing inside final kilometer, burning out quickly. Positional failure in high-pressure sprints despite team depth.",
+  "key_patterns": [
+    "Stronger finishing from draft than leading sprint himself; wins by timing late surge behind early launchers (3 observations)",
+    "Consistently loses positioning or misses leadout wheel when Quick-Step train disrupted despite team strength (3 observations)",
+    "Deployed as pre-finale domestique to stretch peloton before team leaders' moves in stage races (2 observations)",
+    "Confused race execution: sat on bridges without contributing, mistimed sprint launches in tight finishes (2 observations)",
+    "Shows tactical racecraft beyond raw power: positioning beats strength in intermediate sprints, breakaway resilience (3 observations)"
+  ],
+  "form_trajectory": "neutral: substituted for Jakobsen in 2023 suggests maintained relevance but unclear if through form or tactical flexibility; limited recent decisive performances",
+  "races_analysed": 12,
+  "confidence": "medium",
+  "rider_name": "BALLERINI Davide",
+  "built_from": [
+    "2018 Giro d'Italia Stage 15",
+    "2018 Giro d'Italia Stage 9",
+    "2018 Giro d'Italia Stage 9",
+    "2019 Tirreno-Adriatico Stage 6",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Tirreno Adriatico Stage 2",
+    "2020 Tour de Pologne Stage 3",
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 4",
+    "2020 Tour de Pologne Stage 5",
+    "2020 Tour de Pologne Stage 5",
+    "2021 Tirreno-Adriatico Stage 1",
+    "2021 Tirreno-Adriatico Stage 3",
+    "2021 Tirreno-Adriatico Stage 3",
+    "2021 Tour de France Stage 4",
+    "2023 Tirreno-Adriatico Stage 7",
+    "2023 Tirreno-Adriatico Stage 7"
+  ]
+}

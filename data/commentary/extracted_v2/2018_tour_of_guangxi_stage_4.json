@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour of Guangxi Stage 4",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-19",
+  "stage": 4,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "MUSKAAN Johnny attacked from bottom of summit finish to Mashan scenic point, took solo stage win and race lead.",
+    "winner": "MUSKAAN Johnny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MUSKAAN attacked immediately at climb base rather than waiting for final kilometers, proving early aggression works on steep finishes.",
+      "Trek-Segafredo and EF Education First controlled peloton through feedzone despite having GC climbers, preventing early breakaway gap.",
+      "Team Sky allowed MUSKAAN complete freedom despite being race favorites, suggesting internal leadership uncertainty or deliberate dual-card strategy."
+    ],
+    "rider_signals": {
+      "MUSKAAN Johnny": "positive: solo victory from climb base after 'tough controversial season' suggests form peaked perfectly for late-season races.",
+      "GROOTEGARTNER Felix": "positive: second place on summit finish signals unexpected climbing form for rider not previously flagged as GC threat.",
+      "URAN Rigoberto": "negative: dropped by MUSKAAN and failed to podium despite EF's tempo control suggests declining form post-Vuelta.",
+      "KUNG Stefan": "neutral: animated all three intermediate sprints from breakaway but provides useful domestique signal for future breakaway viability testing."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:37:05.635176+00:00"
+}

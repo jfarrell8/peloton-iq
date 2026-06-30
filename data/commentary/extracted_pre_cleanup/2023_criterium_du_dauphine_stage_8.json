@@ -1,0 +1,31 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 8",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-11",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CICCONE attacked alone with 3km remaining on Col de Port descent after breaking away from ALAPHILIPPE, held off VINGEGAARD by 23 seconds.",
+    "winner": "CICCONE Giulio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALAPHILIPPE exhausted breakaway companions on Col du Grenier, enabling CICCONE to counterattack final climb without resistance.",
+      "CASTROVIEJO bridged 1:30 gap from peloton on Col du Grenier, unusually ambitious tactical commitment by INEOS domestique.",
+      "CICCONE attacked with 3km left knowing descent advantage, not waiting for summit—descending skill decisive over pure climbing.",
+      "VINGEGAARD allowed breakaway margin until Col de Port, then paced conservatively—team prioritized GC defense over stage hunt."
+    ],
+    "rider_signals": {
+      "CICCONE Giulio": "positive: timed solo attack perfectly with 3km remaining, used descending superiority rather than pure climbing to distance chasers",
+      "ALAPHILIPPE Julian": "neutral: strong enough to drive breakaway all day but lacked finishing power on Col de Port",
+      "VINGEGAARD Jonas": "positive: dominated GC by 2:23, comfortable enough to pace second climb rather than chase stage win",
+      "CASTROVIEJO Jonathan": "positive: bridged 1:30 to breakaway during Col du Grenier, exceptional domestique effort though ultimately dropped",
+      "BENOOT Tiesj": "neutral: took KOM points on HC Grenier but unable to follow final selection",
+      "O'CONNOR Ben": "positive: secured podium with aggressive riding, clear third in GC battle",
+      "YATES Adam": "neutral: third on stage but GC gap to VINGEGAARD reveals pure climbing deficit",
+      "BERNAL Egan": "neutral: finished within standards post-injury, progressive improvement but still subpar compared to pre-crash form",
+      "PEDRERO Antonio": "neutral: attacked penultimately climb aggressively but lacked legs to catch CICCONE or contest stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:00:19.149785+00:00"
+}

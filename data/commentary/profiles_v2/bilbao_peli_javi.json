@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic finisher who exploits tactical hesitation in small group scenarios, launching decisive attacks inside final 2km on uphill finishes to maximize climbing advantage.",
+  "team_tactics": "Team operates with flexible GC assignment based on race situation rather than pre-determined leadership hierarchy, allowing improvisation when primary plans fail.",
+  "terrain_preference": "Uphill finishes where climbing ability becomes decisive in reduced groups; thrives in breakaway scenarios requiring both endurance and explosive finishing power.",
+  "vulnerability": "Insufficient data to determine consistent vulnerabilities; reliance on breakaway success suggests potential weakness in pure GC mountain stages or large sprint finishes.",
+  "key_patterns": [
+    "Wins from small breakaway groups (8 riders) rather than large peloton scenarios.",
+    "Attacks with under 2km remaining on climbing finishes to leverage power advantage.",
+    "Receives GC opportunities through team improvisation rather than pre-race designation."
+  ],
+  "form_trajectory": "unknown: Single race observation insufficient to establish trajectory despite positive result and GC freedom signal",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BILBAO Peli Javi",
+  "built_from": [
+    "2019 Giro d'Italia Stage 7",
+    "2019 Giro d'Italia Stage 7"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2018 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-12",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard escaped the early 7-man breakaway with 3.8km to go on the Montevergine summit finish, while PINOT attacked for bonus seconds behind as FROOME struggled.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar let Carapaz hunt stage from breakaway despite Betancourt being designated GC leader, revealing internal hierarchy shift.",
+      "Bernal attacked final kilometer for bonus seconds while Sky leader Froome was dropped, exposing Sky's inverted team strength.",
+      "Carapaz final attack at 3.8km on Montevergine shows breakaway riders must accelerate before final kilometer on medium climbs."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: First Grand Tour stage win and moving into GC contention, clearly stronger than designated Movistar leader Betancourt",
+      "FROOME Chris": "negative: Loose handling and nearly crashed on Montevergine climb, required Elissonde and Poels rescue, unconvincing display continues",
+      "PINOT Thibaut": "positive: Opportunistically attacked for bonus seconds in finale while GC favorites hesitated, gaining time when not expected",
+      "BERNAL Egan": "positive: Attacked final kilometer for bonus seconds while team leader Froome struggled behind, showing reversed Sky hierarchy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:22:40.256733+00:00"
+}

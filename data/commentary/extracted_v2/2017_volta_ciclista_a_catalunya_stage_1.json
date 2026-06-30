@@ -1,0 +1,24 @@
+{
+  "label": "2017 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2017-03-20",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ONASANYA defeated Elia Viviani in a sprint after Degenkolb was stranded too deep (5th position) when Cofidis lead-out disintegrated.",
+    "winner": "ONASANYA (first name unclear from transcript)",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Cofidis train collapsed before final 300m, leaving Degenkolb in 5th position forcing abandonment of sprint effort.",
+      "Elia Viviani launched sprint too early allowing drafting rider to carry momentum past him at line.",
+      "Movistar posted fastest TTT despite not being noted TTT specialists, signaling Valverde team peaking early."
+    ],
+    "rider_signals": {
+      "DEGENKOLB John": "negative: caught in wrong position (5th wheel) after lead-out train failed, abandoned sprint effort entirely",
+      "VIVIANI Elia": "negative: initiated sprint prematurely, allowed slipstream rider to pip him at line showing poor timing judgment",
+      "VALVERDE Alejandro": "positive: Movistar TTT unexpectedly competitive (fastest time pre-penalty) suggesting strong collective form for team leader"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:11:37.494888+00:00"
+}

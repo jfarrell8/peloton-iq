@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-15",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "DENNIS Rowan won the 9.5km prologue by 0.14 seconds over BODNAR, with GC favorites starting early to avoid forecast rain.",
+    "winner": "DENNIS Rowan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "GC contenders deliberately started early in prologue to avoid forecast rain, accepting worse road conditions over weather risk.",
+      "THOMAS Geraint 17 seconds down in 13th signals minimal prologue prioritization compared to Dennis's rainbow jersey motivation."
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: first win in rainbow stripes suggests psychological barrier broken after world championship title",
+      "BODNAR Matti": "positive: third place only 1 second back shows Bora-Hansgrohe's prologue depth beyond Sagan",
+      "THOMAS Geraint": "neutral: 17 seconds back in 13th indicates Tour de France preservation mode rather than Tour de Suisse GC commitment",
+      "SAGAN Peter": "neutral: seventh place in short prologue confirms points jersey focus over GC or stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:02:22.852260+00:00"
+}

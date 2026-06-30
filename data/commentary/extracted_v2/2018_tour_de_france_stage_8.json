@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-14",
+  "stage": 8,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GRØNEWEEGEN Dylan won a chaotic sprint with no leadouts after Gaviria lost Quick-Step's Philippe/Alaphilippe to Martin's crash group, enabling a freelance finish.",
+    "winner": "GRØNEWEEGEN Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quick-Step missing Alaphilippe in crash chase fractured Gaviria's leadout, proving critical personnel loss trumps individual speed in sprint finishes.",
+      "Grøneweegen capitalized on right-side road positioning when Gaviria pinned left fence, showing lane choice matters when leadout trains disintegrate.",
+      "Martin sitting mid-peloton with 17km remaining on easy stage reveals chronic positioning weakness that cost 1:14, not crash itself."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "negative: had superior speed but initiated headbutt contact with Greipel after poor positioning, revealing composure issues under chaotic sprint conditions",
+      "MARTIN Dan": "negative: crashed 17km out positioned too far back on easy flat stage, exposing career-long tactical weakness of sitting deep to save energy",
+      "SAGAN Peter": "negative: launched sprint from distance but quickly swamped by Greipel/Gaviria/Grøneweegen, confirming Week 1 sprint dominance already fading",
+      "ALAPHILIPPE Julian": "negative: caught behind Martin crash eliminated Quick-Step's critical leadout piece, showing sprint train vulnerability to single personnel loss",
+      "GREIPEL André": "neutral: held barrier line legally against Gaviria contact, second place confirms late-career speed still competitive when positioned correctly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:32:38.404082+00:00"
+}

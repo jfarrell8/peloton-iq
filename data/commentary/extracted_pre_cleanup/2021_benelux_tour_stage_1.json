@@ -1,0 +1,23 @@
+{
+  "label": "2021 Benelux Tour Stage 1",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-08-30",
+  "stage": 1,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won a bunch sprint after CAVENDISH Mark's Deceuninck team controlled and delivered their sprinter to the line in pursuit of Merckx's record",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "COLBRELLI Sonny probed CAVENDISH's leadout train mid-stage but MØRKØV Michael immediately shut it down, showing Deceuninck's willingness to defend early",
+      "Deceuninck committed full team to pace entire stage for CAVENDISH rather than conserving resources, revealing all-in approach when sprinter opportunities rare"
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: Team rode full gas entire stage despite climbs, showing organizational commitment to sprint opportunities after mountain gauntlet",
+      "COLBRELLI Sonny": "neutral: Tested CAVENDISH's train strength mid-stage but was immediately neutralized by MØRKØV, lacked follow-through in final",
+      "VAN DER SANDE Tosh": "neutral: First Tour appearance after nine pro years, made breakaway but commentary suggests limited threat level"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T22:46:24.190492+00:00"
+}

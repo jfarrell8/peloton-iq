@@ -1,0 +1,26 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-07",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked final 300 meters of summit finish after Sky-led peloton caught CATALDO who had solo'd from km 73 over Col du Manoir",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CATALDO's 73km breakaway collapsed 300m from line despite 1:30 gap post-HC descent, proving GC threat limits Sky tolerance window",
+      "Sky and AG2R jointly closed 2-minute gap final 2km when CATALDO threatened overall, revealing threshold for inter-team cooperation",
+      "ALAPHILIPPE concealed form all stage then attacked final 300m uphill, exploiting Sky's tempo control leaving no lead-out organization"
+    ],
+    "rider_signals": {
+      "CATALDO Dario": "neutral: Strong HC solo but caught 300m from win shows descending skill insufficient against organized GC pursuit",
+      "ALAPHILIPPE Julian": "positive: Hid until final 300m then won against BARDET/MARTIN/THOMAS, demonstrating superior positioning over pure climbing",
+      "MOSCON Gianni": "positive: Took yellow jersey after Kwiatkowski, indicating Sky rotating GC options rather than committing early",
+      "THOMAS Geraint": "positive: Finished top group despite Sky pacemaking duty, suggesting dual GC protection capability",
+      "BARDET Romain": "neutral: Third place but unable to distance MARTIN/THOMAS on home climbs, revealing declining form relative to rivals"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:22:00.429500+00:00"
+}

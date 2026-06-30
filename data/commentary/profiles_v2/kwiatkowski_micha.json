@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Relies on tactical patience and sprint finish rather than long-range attacks. Prefers to convert team-controlled situations into winning moves in final kilometers, often through bonus seconds or two-up scenarios.",
+  "team_tactics": "Benefits from full team tempo control on climbs, particularly Sky/Ineos train setting up selective finishes. Positioned as protected rider with freedom to capitalize on sprint speed when opportunity arises.",
+  "terrain_preference": "Selective finishes on punchy Ardennes-style climbs where tactical positioning and finishing kick matter more than pure climbing watts. Struggles when racing requires sustained dominance rather than tactical conversion.",
+  "vulnerability": "Declining form on pure Ardennes classics (6th at Fleche despite full support). Opportunistic attacks in chaotic situations get rejected by organized opposition. Cannot sustain leads through climbing dominance alone.",
+  "key_patterns": [
+    "Converts team-controlled races into wins through superior sprint/tactical timing (Tirreno, Amstel)",
+    "Relies on bonus seconds and tactical margins rather than dominant climbing (Paris-Nice, Tirreno)",
+    "Shows tactical patience, avoiding premature commitment even when appearing hesitant (Amstel 2022)",
+    "Opportunistic attacks without team setup get rejected by organized pelotons (Tour 2021)",
+    "Form decline evident in Ardennes classics despite former success (6th Fleche 2020)"
+  ],
+  "form_trajectory": "negative: Despite 2022 Amstel win, pattern shows shift from Ardennes dominance to tactical opportunism, with 2020 Fleche result suggesting declining raw climbing form",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "KWIATKOWSKI Michał",
+  "built_from": [
+    "2018 Tirreno-Adriatico Stage 5",
+    "2018 Tirreno-Adriatico Stage 5",
+    "2019 Paris-Nice Stage 5",
+    "2020 La Fleche Wallonne",
+    "2021 Tour de France Stage 19",
+    "2022 Amstel Gold Race"
+  ]
+}

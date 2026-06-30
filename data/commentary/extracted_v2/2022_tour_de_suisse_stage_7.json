@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de Suisse Stage 7",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-18",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PINO won stage 7 mountaintop finish at Malbun after escaping from 19-rider breakaway; HIGITA took yellow by 2 seconds over THOMAS before final TT",
+    "winner": "PINO Thibaut",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Premier Tech and Ineos shared pace-making for GC despite having leaders 2nd/3rd, allowing 19-man break substantial gap.",
+      "HIGITA attacked within final 2km when leader FULSANG forced to chase, inverting defensive burden before time trial.",
+      "THOMAS attacked FULSANG final 500m but FULSANG's team had burned matches controlling earlier, leaving him isolated."
+    ],
+    "rider_signals": {
+      "PINO Thibaut": "positive: bridged to breakaway riders solo after initially dropped, showing improved climbing form two months after Tour of Alps win",
+      "EVENEPOEL Remco": "neutral: probing attack immediately shut down by FULSANG suggests testing legs but no follow-through capacity",
+      "RODRIGUEZ Oscar": "positive: finished 2nd on GC stage stealthily without visible attacks, indicating hidden climbing strength within chaos",
+      "KUNG Stefan": "positive: GC rider held breakaway position deep into final climb before distancing, unusual diesel climbing capacity",
+      "FULSANG Jakob": "negative: dropped from yellow despite controlling race when THOMAS attacked final 500m, tactical burden cost jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:28:26.817969+00:00"
+}

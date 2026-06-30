@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-13",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando solo bridged and won after CONTI Roberto crashed on a technical turn, out-sprinting chasers in finale",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GC riders like LANDA Mikel attacked early on coastal rollers to gain 10-second bonuses despite modest stage profile.",
+      "LEON SANCHEZ Luis waited for breakaway companions on opening climb despite being strongest, preferring cooperation over solo effort.",
+      "GAVIRIA successfully bridged solo to break remnants after crash, suggesting Quick-Step prioritized stage hunting over pink jersey defense."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: Bridged solo to break after technical crash, then had finishing speed to hold off VISCONTI—rare combo",
+      "CONTI Roberto": "negative: Crashed on technical turn while competing for intermediate sprint bonuses, lost pink jersey opportunity",
+      "LANDA Mikel": "neutral: Initiated GC probing attacks on coastal rollers but was immediately reabsorbed, testing rivals early",
+      "LEON SANCHEZ Luis": "neutral: Deliberately waited for breakaway companions despite being strongest on opening climb, prioritizing late ambush"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:58:53.638068+00:00"
+}

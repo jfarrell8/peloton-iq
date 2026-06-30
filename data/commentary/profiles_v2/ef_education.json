@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Does not feature a primary attacking rider profile; instead focuses on positioning sprinters and puncheurs for reduced bunch finishes after selective terrain.",
+  "team_tactics": "Employs full domestique deployment on selective climbs to create puncheur-sprint scenarios; controls breakaway margins tightly (under 1:30) rather than building traditional leadouts; uses aggressive physical positioning in final kilometers.",
+  "terrain_preference": "Stages with late climbs that eliminate pure sprinters but allow puncheur-sprinters to contest reduced finishes; moderately selective parcours over flat sprints or mountain stages.",
+  "vulnerability": "Overmatched by superior sprint trains (Quick-Step) in pure leadout battles; forced into UCI points hunting via breakaways when out of GC contention, indicating resource constraints.",
+  "key_patterns": [
+    "Breakaway margin control under 1:30 to engineer reduced sprint finishes (2 observations)",
+    "Full squad commitment on final climbs to position puncheur-sprinters, not pure leadouts (2 observations)",
+    "Aggressive physical positioning/blocking tactics inside final 1500m (2 observations)",
+    "UCI points urgency driving breakaway placement when GC irrelevant (2 observations across Grand Tours)",
+    "Targets stages with late selective terrain eliminating pure sprinters (3 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent tactical approach across 2021-2022 focused on puncheur-sprint setups and points hunting, but no evolution in capabilities against top sprint trains",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "EF Education",
+  "built_from": [
+    "2018 Giro d'Italia Stage 13",
+    "2018 Tirreno-Adriatico Stage 6",
+    "2021 La Vuelta ciclista a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2022 Tour de Pologne Stage 4",
+    "2022 Tour de Suisse Stage 4"
+  ]
+}

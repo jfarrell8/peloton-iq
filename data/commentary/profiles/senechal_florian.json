@@ -1,20 +1,19 @@
 {
-  "attacking_style": "Not a traditional attacker - operates as sprint finisher when opportunity arises. Capable of converting unplanned sprint situations in final kilometers through powerful finishing throw.",
-  "team_tactics": "Functions primarily as Deceuninck domestique/leadout man with ability to pivot to finisher role when designated sprinter unavailable. Capable of solo leadout work that strings out entire peloton.",
-  "terrain_preference": "Flat sprint stages where his leadout power and finishing speed both have value. Strong enough to handle demanding finales that shed pure sprinters.",
-  "vulnerability": "Role clarity - positioned as support rider rather than protected finisher. May lack full sprint train support when stepping into opportunistic finisher role.",
+  "attacking_style": "Not a primary attacker. Functions as a leadout specialist and intermediate sprint worker, operating in service of team objectives rather than personal results.",
+  "team_tactics": "Deploys in longer leadout trains and intermediate sprint point-gathering operations. Used tactically for jersey competitions rather than stage victory setups.",
+  "terrain_preference": "Flat, technical finales where leadout trains function. Intermediate sprint points on flat roads. Avoids sustained climbing scenarios.",
+  "vulnerability": "Longer leadout trains can be beaten by shorter, fresher efforts through technical sequences. Energy expenditure on intermediate sprints may compromise finale effectiveness.",
   "key_patterns": [
-    "Demonstrates dual capability: powerful leadout work and competitive sprint finish in same race",
-    "Successfully adapts role mid-race from domestique to finisher when circumstances require",
-    "Leadout power sufficient to single-handedly string out fields, creating selection pressure"
+    "Works intermediate sprints for team points jersey campaigns (2 observations)",
+    "Functions in leadout capacity rather than finishing role (2 observations)",
+    "Operates within Quick-Step/Soudal tactical framework as domestique specialist (2 observations)"
   ],
-  "form_trajectory": "positive: showed versatility and strong form at Vuelta, both in leadout duties and opportunistic sprint victory",
+  "form_trajectory": "unknown: Limited recent data, with 5-year gap between observations making trajectory assessment impossible",
   "races_analysed": 2,
   "confidence": "low",
-  "rider_name": "SENECHAL Florian",
+  "rider_name": "SÉNÉCHAL Florian",
   "built_from": [
-    "2021 La Vuelta ciclista a Espana Stage 13",
-    "2021 La Vuelta ciclista a Espana Stage 13",
-    "2021 La Vuelta ciclista a Espana Stage 8"
+    "2018 Giro d'Italia Stage 7",
+    "2023 Criterium du Dauphine Stage 3"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "label": "2019 BinckBank Tour Stage 1",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-12",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam skipped between leadout trains in final 5km, avoided chaos in wet technical finale, outsprinted BAUHAUS Phil who did the work for him",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BENNETT exploited Bora's leadout by wheel-surfing rather than organizing own train, saving energy for final 200m",
+      "BAK Lars prioritized intermediate sprint points in early break despite wet conditions favoring position conservation",
+      "Trek-Segafredo overcommitted leadout positioning MOSCHETTI but lost organization through final corner at 300m to go",
+      "GROENEWEGEN Dylan boxed in at 200m after leading through flam rouge, suggesting wet corners nullify pure speed advantage"
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: tactically astute to conserve position without committing to leadout work, strong finisher even when skipping wheels",
+      "BAUHAUS Phil": "negative: teammates delivered perfect setup but finished second, suggests positioning discipline problems in chaotic finales",
+      "GROENEWEGEN Dylan": "negative: led at 300m but boxed by 200m, vulnerability when controlling race without numerical superiority",
+      "THEUNS Edward": "positive: third place without visible leadout support indicates strong independent positioning instincts",
+      "MOSCHETTI Matteo": "negative: Trek organized for him but lost cohesion through penultimate corner, needs tighter finale coordination"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:50:43.672177+00:00"
+}

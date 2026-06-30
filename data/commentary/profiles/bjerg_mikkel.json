@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Not a traditional attacker. Excels in solo efforts and time trials with strong negative-split pacing discipline. Capable of long-range solo bridging efforts that exceed typical rouleur capabilities.",
+  "team_tactics": "Consistently given freedom in ITTs despite domestique role at UAE, suggesting team prioritizes stage hunting over conservation. Team willing to let him start early and expend full effort rather than pace for GC protection.",
+  "terrain_preference": "Rolling time trials where pacing discipline trumps raw power. Shows exceptional endurance for solo bridging efforts. ITT specialist profile with unusually strong stamina for breakaway efforts.",
+  "vulnerability": "Crashes disrupt GC ambitions significantly. Mechanical issues compound recovery efforts. Appears to struggle when forced to react to attacks rather than execute planned efforts.",
+  "key_patterns": [
+    "Negative-split ITT specialist: trailed at first checkpoint but won by 12s at finish (Dauphiné 2023)",
+    "Given team freedom in time trials across multiple teams (UAE, EF) despite domestique classification",
+    "Solo bridging capacity exceptional: closed peloton-to-breakaway gap alone at 2020 Giro",
+    "Vulnerable to race incidents: crash and mechanicals destroyed yellow jersey bid within 24h"
+  ],
+  "form_trajectory": "positive: First pro win in 2023 demonstrates elite ITT capability, but immediate crash suggests GC fragility. Peak performance in time trials emerging.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BJERG Mikkel",
+  "built_from": [
+    "2020 Giro d'Italia Stage 9",
+    "2021 Tour de France Stage 5",
+    "2022 UAE Tour Stage 3",
+    "2023 Criterium du Dauphine Stage 4",
+    "2023 Criterium du Dauphine Stage 4",
+    "2023 Criterium du Dauphine Stage 5"
+  ]
+}

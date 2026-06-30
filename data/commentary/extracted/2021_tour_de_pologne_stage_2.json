@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-10",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HERSHEY Marc attacked solo at 1km to go on flattening gradient after QUINTANA visibly cracked on 12-13% ramps, stealing 4-second GC lead.",
+    "winner": "HERSHEY Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "HERSHEY waited for QUINTANA's wheel to weave on steep ramps before attacking at flamme rouge when gradient flattened.",
+      "TURGIS Anthony launched kamikaze 10.5km solo from group, forcing UAE and Arkea to burn domestiques before key climb.",
+      "HERSHEY rode third wheel behind FORMOLO on final ramps, using teammate as pace judge to time late acceleration perfectly."
+    ],
+    "rider_signals": {
+      "HERSHEY Marc": "positive: tracked GC threats on steep ramps without teammates, then timed solo attack precisely when gradient eased at 1km",
+      "ALMEIDA João": "negative: burned entire team before final climb, forced to chase alone when isolated on 12-13% gradients",
+      "QUINTANA Nairo": "negative: visibly cracking on 12-13% ramps with weaving wheel, no longer able to handle sustained steep gradients",
+      "TURGIS Anthony": "neutral: committed to 10.5km solo flyer but lacked power to sustain gap on approach to steep finish",
+      "FORMOLO Davide": "positive: rode tempo for HERSHEY on final climb positioning, suggesting team tactical discipline for young rider's GC bid"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:12:01.700753+00:00"
+}

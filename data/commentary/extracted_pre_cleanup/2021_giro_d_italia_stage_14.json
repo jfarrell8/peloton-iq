@@ -1,0 +1,32 @@
+{
+  "label": "2021 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-22",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FORTUNATO Lorenzo soloed to victory after dropping TRATNIK Jan with 2km to go on the Zoncolan, while BERNAL Egan extended his GC lead.",
+    "winner": "FORTUNATO Lorenzo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VLASOV team Astana burned energy controlling early, then cracked late; proxy pacing for non-leaders backfires on mountain finishes.",
+      "TRATNIK Jan attacked before main climb started, forcing bridging efforts; early aggression from breakaway domestiques creates selection before favorites engage.",
+      "BERNAL Egan's team allowed descent splits to form after penultimate climb, forcing rivals to expend energy regaining contact before final ascent.",
+      "YATES Simon attacked with 2km remaining but BERNAL countered on steeper gradients; launching before maximum gradient favors sustained power over explosive climbing."
+    ],
+    "rider_signals": {
+      "FORTUNATO Lorenzo": "positive: First Grand Tour win from breakaway, dropped experienced TRATNIK on 20%+ gradients with 2km to go",
+      "BERNAL Egan": "positive: Controlled all attacks, gained time on all GC rivals except YATES, extended pink jersey lead to 1:30",
+      "YATES Simon": "positive: Only rider to match BERNAL's acceleration, limited losses to 11 seconds on summit finish",
+      "VLASOV Aleksandr": "negative: Lost over one minute after his team controlled early; proxy pacing strategy backfired completely",
+      "NIBALI Vincenzo": "negative: Dropped with 2km to go on final climb, described as 'off day' suggests form declining",
+      "TRATNIK Jan": "positive: Initiated decisive breakaway move before main climb, held second until final 2km against specialist climbers",
+      "CARUSO Damiano": "positive: Finished in top group, maintained third on GC despite aggressive racing",
+      "MARTÍNEZ Daniel Felipe": "positive: Moved up GC standings, finished in top ten on selective mountain finish",
+      "BOUCHARD Geoffrey": "neutral: Remained in early break longer than most, still holds top ten GC position",
+      "CICCONE Giulio": "positive: Moved up to eighth on GC, finished with main favorites group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:51:28.095093+00:00"
+}

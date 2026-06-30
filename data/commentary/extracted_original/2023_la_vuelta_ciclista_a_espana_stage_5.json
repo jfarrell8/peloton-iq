@@ -1,0 +1,25 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 5",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-30",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won a sprint by one-third of a wheel over teammate Ganna after Evenepoel took intermediate bonus seconds to extend GC lead before summit finish the next day.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Evenepoel took 6 bonus seconds at intermediate sprint before summit finish next day, while sprint teams conserved energy.",
+      "Sepulveda attacked categorized climb solo despite breakaway being present to maximize KOM points gap before mountains.",
+      "Ganna played leadout for Groves despite being co-protected sprinter, revealing team hierarchy when both are present."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Aggressively hunted intermediate bonuses day before major summit finish, extending 6-second lead to 11 seconds rather than conserving",
+      "GROVES Kaden": "positive: Won by minimal margin after sitting on teammate's wheel through leadout, showing superior positioning instinct",
+      "MENTEN Marlon": "negative: Crashed on roundabout approach, eliminating him from sprint contention before finale",
+      "GANNA Filippo": "neutral: Executed leadout for Groves from 650m but nearly won himself, suggesting ambiguous team hierarchy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:08:00.035159+00:00"
+}

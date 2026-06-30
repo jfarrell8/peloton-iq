@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic counter-attacker who capitalizes on GC battles and breakaway confusion. Strikes in final climbs when favorites are distracted or fixated on each other, not from long range.",
+  "team_tactics": "Benefits from family/team sacrifices in breakaways (brother Dylan's 10km+ pull). Operates independently once positioned, minimal visible lead-out but relies on smart pre-positioning.",
+  "terrain_preference": "Final climbs of hilly/medium mountain stages where GC riders neutralize each other. Excels when race dynamics create tactical confusion rather than pure climbing tests.",
+  "vulnerability": "Pure climbing power against top GC riders (lost 12 seconds to Yates over 4km). Not a dominant force; requires tactical circumstances to align rather than imposing his own will.",
+  "key_patterns": [
+    "Wins from breakaways when peloton focused on GC dynamics, not chasing escapees (2 instances)",
+    "Counter-attacks at optimal moments rather than initiating long-range moves (3 instances)",
+    "Leverages familial/team support for crucial positioning before final attacks (2 documented)",
+    "Targets stages where GC favorites neutralize each other, creating stage hunter opportunities (2 instances)"
+  ],
+  "form_trajectory": "positive: 2020 Vuelta win shows continued ability to read races and execute; consistent tactical intelligence across all observations",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "IZAGIRRE Ion",
+  "built_from": [
+    "2018 Paris-Nice Stage 7",
+    "2019 Paris-Nice Stage 8",
+    "2019 Paris-Nice Stage 8",
+    "2020 Vuelta a Espana Stage 6",
+    "2020 Vuelta a Espana Stage 6"
+  ]
+}

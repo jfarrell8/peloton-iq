@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 11",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-31",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won a windswept sprint after Bike Exchange controlled the finale despite losing Simon Yates to COVID that morning",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bike Exchange pivoted from GC support to sprint train within hours of losing Yates, revealing pre-existing sprint contingency planning.",
+      "PEDERSEN secured intermediate sprint points despite no threat from Bennett absent, suggesting green jersey points optimization over energy conservation.",
+      "UAU chose MILANO over ACKERMANN for leadout duties, indicating internal sprint hierarchy shift or Ackermann form concerns.",
+      "Only 3-man breakaway formed despite no mountains points, showing peloton's reluctance to burn matches into headwind on flat stages."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "positive: outsprinted Merlier and Van Poppel with full leadout, confirming升级 to protected sprinter status",
+      "ACKERMANN Pascal": "negative: not selected as UAE's sprint option despite Merlier preference, signals possible form loss or team confidence issue",
+      "PEDERSEN Mads": "neutral: 5th place maintains green jersey dominance but suggests prioritizing points security over stage hunting",
+      "YATES Simon": "negative: COVID positive exit eliminates Bike Exchange GC threat, drastically simplifying Evenepoel's path to Madrid",
+      "ALAPHILIPPE Julian": "negative: shoulder injury crash removes key Evenepoel mountain support with hardest stages approaching"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:41:58.107674+00:00"
+}

@@ -1,21 +1,37 @@
 {
-  "attacking_style": "Opportunistic breakaway rider who targets stage wins from reduced group sprints rather than solo efforts. Lacks the sustained power for long-distance solo bridges, preferring to position for finale sprint tactics.",
-  "team_tactics": "Limited evidence of team support in observations; appears to operate independently in breakaways, relying on individual positioning and tactical awareness rather than coordinated setups.",
-  "terrain_preference": "Medium mountain stages and reduced bunch scenarios where tactical acumen matters more than pure climbing power. Exposed on efforts requiring sustained high-wattage chasing or bridging.",
-  "vulnerability": "Struggles with pacing judgment on long solo chase efforts, particularly on climbs. Failed bridge attempts despite visual contact with targets suggest power limitations at threshold. Can be tactically outsmarted when refusing cooperation costs the win.",
+  "attacking_style": "Breakaway specialist who positions in early moves, then conserves energy throughout the stage to unleash a calculated sprint finish. Employs psychological gamesmanship in breaks, disrupting cooperation before final kilometers.",
+  "team_tactics": "Uses domestiques (e.g., CONTI) to force accelerations and bleed energy from breakaway companions. Minimal team reliance in finals—relies on individual tactics and energy conservation rather than lead-out trains.",
+  "terrain_preference": "Excels on uphill sprint finishes and classics-type steep gradients where climbing ability meets positioning skills. Strong in varied terrain (Strade Bianche chase groups, rolling stages) but not pure mountain stages.",
+  "vulnerability": "Struggles to bridge gaps when isolated against stronger time trialists or pure climbers. Sprint positioning irregularities (2021 disqualification). Cannot respond when caught out by early powerful attacks (VAN AVERMAET 2018).",
   "key_patterns": [
-    "Failed solo bridge attempts despite breakaway being in sight; lacks sustained chase power (2 instances)",
-    "Wins from tactical small-group scenarios rather than solo efforts; sprint finisher from breaks (1 win)",
-    "Poor cooperation in chase situations; tactical rigidity allows third parties to succeed (2 instances)"
+    "Breakaway energy conservation: refuses collaboration with companions, saving watts for final sprint (4 observations)",
+    "Psychological warfare in breaks: creates dissent and argues with companions to disrupt cooperation (3 observations)",
+    "Uphill sprint finisher: consistently places top-3 on steep gradient finales mixing power and positioning",
+    "Grand Tour stage hunting: targets breakaway stages in Vuelta/Giro rather than GC support role",
+    "Sprint calculation over pure power: times efforts perfectly, holding narrow margins (2-second wins, line catches)"
   ],
-  "form_trajectory": "positive: 2023 Vuelta stage win shows matured tactical finishing ability, though fundamental power limitations for sustained efforts remain unchanged",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "positive: 2023 Vuelta stage win after decade drought demonstrates sustained tactical sharpness and sprint finishing at age 37, plus Strade Bianche top-5 chase suggests maintained climbing form",
+  "races_analysed": 12,
+  "confidence": "high",
   "rider_name": "COSTA Rui",
   "built_from": [
     "2017 Giro d'Italia Stage 11",
-    "2019 Tour de France Stage 9",
-    "2019 Tour de France Stage 9",
-    "2023 La Vuelta Ciclista a Espana Stage 15"
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 17",
+    "2017 Giro d'Italia Stage 17",
+    "2017 Tour of Oman Stage 2",
+    "2018 Tour of Oman Stage 3",
+    "2019 Tour de Romandie Stage 1",
+    "2019 Tour de Romandie Stage 3",
+    "2019 Tour de Romandie Stage 5",
+    "2020 Vuelta a Espana Stage 6",
+    "2021 Tour de Suisse Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 15",
+    "2023 La Vuelta Ciclista a Espana Stage 15",
+    "2023 La Vuelta Ciclista a Espana Stage 15",
+    "2023 Strade Bianche",
+    "2023 Vuelta a Espana Stage 15",
+    "2023 Vuelta a Espana Stage 15",
+    "2023 Vuelta a Espana Stage 15"
   ]
 }

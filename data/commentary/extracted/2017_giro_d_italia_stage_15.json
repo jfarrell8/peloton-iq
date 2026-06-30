@@ -1,0 +1,29 @@
+{
+  "label": "2017 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-21",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JUNGELS Bob won solo after attacking in the final kilometers, holding off late charges from POZZOVIVO, MOLLEMA, YATES, and QUINTANA who sprinted for bonifications.",
+    "winner": "JUNGELS Bob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROLLAND Pierre bridged solo to breakaway on penultimate climb while peloton tempo-controlled, classic opportunistic energy preservation move.",
+      "QUINTANA Nairo sprinted finish despite mechanical to claim 6-second bonus, treating stage finish as time-bonus opportunity not stage win.",
+      "MOLLEMA Bauke attacked final kilometer after losing GC time previous day, revenge-hunting stage win rather than defending position.",
+      "JUNGELS Bob time-trialed final 2km alone after group fragmentation, Quick-Step prioritizing stage hunting over GC support for others."
+    ],
+    "rider_signals": {
+      "JUNGELS Bob": "positive: soloed to victory in final kilometers with time-trial power, sixth Quick-Step stage win shows team dominance",
+      "QUINTANA Nairo": "neutral: crashed/mechanical mid-climb yet sprinted finish for 6-second bonus, prioritizing marginal GC gains over recovery",
+      "POZZOVIVO Domenico": "positive: animated final kilometer with multiple attacks despite smaller stature, competed for stage win not just GC defense",
+      "MOLLEMA Bauke": "neutral: attacked after yesterday's GC loss showing morale intact but lacked sprint finish to convert opportunity",
+      "DUMOULIN Tom": "positive: neutralized race during Quintana mechanical showing GC confidence, finished comfortably in group maintaining 2:41 advantage",
+      "YATES Adam": "negative: launched sprint first but faded badly, poor timing discipline cost potential stage win and bonifications",
+      "PINOT Thibaut": "neutral: placed third in finale sprint maintaining GC position without decisive aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:58:48.521817+00:00"
+}

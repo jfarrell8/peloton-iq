@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not a primary attacker; operates as elite leadout specialist with precise positioning in final kilometer. Early breakaway attempts appear opportunistic rather than strategic strength.",
+  "team_tactics": "Executes high-value leadout organization for designated sprinter (DÉMARE) in final 1km, maintaining composure when rival trains disorganized. Provides tactical positioning control rather than raw pace-setting.",
+  "terrain_preference": "Flat sprint finishes where leadout precision matters most. Compromised on climbs where early breakaway role suggests misallocation of classics/flat specialist skillset.",
+  "vulnerability": "Climbs expose limitations when forced into breakaway duty rather than sprint support role. Tactical choices questionable when crosswind opportunities neutralized.",
+  "key_patterns": [
+    "Replicated high-value 1km leadout positioning across Grand Tours (Tour, Giro) for DÉMARE",
+    "Neutralizes rival sprint launches through precise final kilometer organization, not raw power",
+    "Early breakaway attempts on climbs indicate tactical compromise when primary sprint role unavailable"
+  ],
+  "form_trajectory": "neutral: 2020 shows refined leadout execution, but limited recent data and narrow specialist role prevents clear trajectory assessment",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KEISSE Iljo",
+  "built_from": [
+    "2017 Tour of Oman Stage 6",
+    "2017 Tour of Oman Stage 6",
+    "2020 Giro d'Italia Stage 4",
+    "2020 Giro d'Italia Stage 4"
+  ]
+}

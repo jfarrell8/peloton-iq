@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-10",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER HOORN Taco soloed from the early break with 3km remaining after Bora-Hansgrohe's aggressive pacing backfired spectacularly",
+    "winner": "VAN DER HOORN Taco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN Peter's team Bora-Hansgrohe shelled MERLIER Tim by over-pacing, yet SAGAN still lost the sprint finish",
+      "Peloton catastrophically miscalculated VAN DER HOORN Taco's solo strength, maintaining 22s gap with 2km remaining despite chasing",
+      "GALLOPIN Tony and TOCCONI's late bridge attempt from peloton was caught, revealing lack of coordination behind breakaway"
+    ],
+    "rider_signals": {
+      "VAN DER HOORN Taco": "positive: unemployed in December, won GT stage solo in May after attacking remnant breakaway under 3km",
+      "SAGAN Peter": "negative: team paced aggressively on climbs to isolate sprinters but SAGAN could only manage third in reduced sprint",
+      "MERLIER Tim": "negative: dropped with 20km remaining despite being defending stage winner, vulnerability on moderate gradients exposed",
+      "CIMOLAI Davide": "positive: won reduced peloton sprint for second, outperformed favored sprinters on punchy finish",
+      "EVENEPOEL Remco": "negative: dropped on unclassified 7.1% climb with 15km remaining, losing time on GC contenders"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:53:49.472335+00:00"
+}

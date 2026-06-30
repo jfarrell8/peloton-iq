@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Long-range diesel efforts, bridging solo in final 15-20km. Prioritizes early breakaways for secondary objectives (KOM points) when GC not viable.",
+  "team_tactics": "Limited evidence of coordinated team support; appears to operate independently in breakaways. Mechanical support failures suggest lower prioritization in team hierarchy.",
+  "terrain_preference": "Flat to rolling terrain suited to sustained power output. Cobbles manageable but physical size creates disadvantage on technical circuits and velodrome finishes.",
+  "vulnerability": "Technical circuits expose size disadvantage (velodrome banking); mechanical reliability issues under high power output; team support gaps in critical moments.",
+  "key_patterns": [
+    "Solo bridging efforts in final 15-20km demonstrate sustained diesel engine capability (2 instances)",
+    "Early breakaway participation for secondary objectives when not targeting overall result (2 instances)",
+    "Physical size creates handling disadvantage on technical finishes like velodromes (2 instances)",
+    "Mechanical failures under peak power output suggest equipment durability issues (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2023 mechanical disasters mask actual form; earlier consistency in long-range efforts suggests stable baseline capability",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "POLITT Nils",
+  "built_from": [
+    "2018 Paris-Nice Stage 5",
+    "2019 Paris-Roubaix",
+    "2020 Tour de France Stage 4",
+    "2023 Tour de France Stage 19"
+  ]
+}

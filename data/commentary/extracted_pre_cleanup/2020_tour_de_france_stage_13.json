@@ -1,0 +1,30 @@
+{
+  "label": "2020 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-11",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTÍNEZ Daniel Felipe won from the breakaway while POGAČAR and ROGLIČ distanced BERNAL by 37 seconds on the final climb, vaulting POGAČAR to second overall.",
+    "winner": "MARTÍNEZ Daniel Felipe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POWLESS Neilson infiltrated break as teammate of MARTÍNEZ, enabling pacing support on final climb for stage win setup.",
+      "VAN GARDEREN Tejay in pink jersey attacked early to join break, using GC position to secure breakaway selection.",
+      "SAGAN Peter targeted intermediate sprint after three categorized climbs, positioning before sprinters could contest it effectively.",
+      "ROGLIČ Primož and POGAČAR Tadej cooperated on final climb to distance BERNAL, prioritizing time gaps over racing each other.",
+      "BERNAL Egan cracked after team set tempo, losing 37 seconds despite Ineos controlling earlier when teammates exhausted supporting role."
+    ],
+    "rider_signals": {
+      "MARTÍNEZ Daniel Felipe": "positive: won slowest sprint at finish after tracking KÄMNA the entire climb, showing poise under counter-attacks",
+      "ROGLIČ Primož": "positive: first mountain stage defense in yellow showed no weaknesses, accelerated on final climb to take time",
+      "POGAČAR Tadej": "positive: jumped to second overall by gaining 37s on BERNAL despite losing minute to mechanical days earlier",
+      "BERNAL Egan": "negative: lost 37 seconds on final climb after Ineos teammates exhausted themselves, now 59s down from yellow",
+      "KÄMNA Lennard": "positive: finished second after being in early break, strong enough to follow MARTÍNEZ until sprint",
+      "POWLESS Neilson": "positive: tactical break infiltration as domestique proved crucial for MARTÍNEZ's winning move setup",
+      "URÁN Rigoberto": "positive: climbed into fourth overall at 1:10, gained positions as others cracked on final climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:34:29.075276+00:00"
+}

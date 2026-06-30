@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a primary attacker; functions as a sprint lead-out specialist delivering final acceleration in the last 200m before releasing sprinter.",
+  "team_tactics": "Executes elite-level lead-outs with minimal team support, demonstrating ability to deliver sprinters effectively even when outnumbered by rival trains.",
+  "terrain_preference": "Flat sprint finishes where lead-out skills are decisive; capable of taking opportunistic results when lead-out duties are compromised.",
+  "vulnerability": "Reliant on team structure remaining intact; observations show success when plans adapt, but role is exposed without a designated sprinter to deliver.",
+  "key_patterns": [
+    "Delivers superior 200m lead-outs even with less team depth than rivals (2 observations)",
+    "Capable of personal results when team lead-out collapses, showing versatility beyond pure domestique role (2 observations)",
+    "Consistently demonstrates strong sprint positioning and timing in final kilometer across multi-year span"
+  ],
+  "form_trajectory": "positive: 2022 Vuelta observations show elite lead-out execution, suggesting sustained high-level performance into later career",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "POPPEL Danny",
+  "built_from": [
+    "2017 Tour de Pologne Stage 2",
+    "2022 Vuelta a Espana Stage 2",
+    "2022 Vuelta a Espana Stage 2"
+  ]
+}

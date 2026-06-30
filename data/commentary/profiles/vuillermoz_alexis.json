@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Late-race opportunistic attacks in final kilometers, often solo moves. Willing to gamble on technical finishes but execution has proven inconsistent under pressure.",
+  "team_tactics": "Team commits resources early to support his position (tempo setting, jersey defense), but this can leave him isolated when final selection occurs on hardest climbs.",
+  "terrain_preference": "Moderate mountain stages where he can hold position. Struggles on wet technical surfaces (cobbles) and against pure climbers on sustained steep gradients.",
+  "vulnerability": "Insufficient climbing strength when facing top-tier climbers on final summit finishes. Poor power-to-weight on extended steep efforts leads to jersey losses and failed attacks.",
+  "key_patterns": [
+    "Attacks in final kilometer when opportunity presents, regardless of surface conditions or form.",
+    "Team burns domestiques early for tempo/defense, leaving rider exposed in critical final moments.",
+    "Unable to defend leadership positions on hardest climbs against superior pure climbers.",
+    "Solo efforts under pressure consistently fail when execution matters most."
+  ],
+  "form_trajectory": "negative: 2022 showed inability to defend yellow jersey despite team support, suggesting decline in climbing capacity against top competition",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VUILLERMOZ Alexis",
+  "built_from": [
+    "2018 Paris-Nice Stage 1",
+    "2022 Criterium du Dauphine Stage 3"
+  ]
+}

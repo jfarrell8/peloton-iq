@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Breakaway specialist who targets early moves on mountain stages to collect KOM points rather than stage wins. Willing to trade primary sprint domestique role for classification opportunities.",
+  "team_tactics": "Cannondale-Drapac grants freedom for breakaway hunting and classification chasing over strict GC protection duties. Team prioritizes opportunistic stage hunting and allows virtual race lead situations in breaks.",
+  "terrain_preference": "Mountain stages where breakaways can succeed and KOM points are available. Shows unexpected climbing resilience to stay with GC groups on harder alpine terrain.",
+  "vulnerability": "Limited observations suggest sprint support role conflicts with personal ambitions. Unlikely to contend for stage wins when breakaway is caught.",
+  "key_patterns": [
+    "Targets breakaways on mountain stages for KOM points rather than stage victories (2 instances)",
+    "Team grants tactical freedom to pursue classifications over traditional domestique duties (2 instances)",
+    "Climbing form stronger than expected, staying with GC groups on Tour stages (2 instances)"
+  ],
+  "form_trajectory": "positive: demonstrated better-than-anticipated climbing ability at Tour de France, successfully transitioning from sprint support to mountain breakaway role",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "BROWN Nathan",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 2",
+    "2017 Tour de France Stage 3",
+    "2017 Tour de France Stage 8"
+  ]
+}

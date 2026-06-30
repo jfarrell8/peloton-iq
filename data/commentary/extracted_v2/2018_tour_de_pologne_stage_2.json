@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-05",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won Stage 2 sprinting past HODEG Alvaro after cutting right and blocking BOASSON HAGEN, likely facing commissaire review.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MORKHOFF lost HODEG leadout positioning on pre-finish roundabout, forcing solo effort against Polish national team interference.",
+      "Lotto-Jumbo hijacked Quick-Step leadout in final 300m when HODEG failed to follow MORKHOFF's wheel through gap.",
+      "VAN POPPEL hesitated fatally when ACKERMANN cut right across his line, losing podium by waiting instead of committing."
+    ],
+    "rider_signals": {
+      "HODEG Alvaro": "negative: lost MORKHOFF's wheel at critical roundabout moment despite being positioned perfectly, suggesting concentration lapse under high speed",
+      "MORKHOFF Michael": "neutral: isolated against Polish national team bracketing tactics with no Quick-Step support, forced premature launch",
+      "BOASSON HAGEN Edvald": "positive: positioned strongly on right in final 200m until ACKERMANN's questionable lateral move blocked momentum",
+      "VAN POPPEL Danny": "negative: froze when ACKERMANN cut across, showing hesitation that cost podium when HODEG filled gap"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:33:14.674509+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2022-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco attacked with under 30km to go on La Redoute, soloed to win by 48 seconds over the chase group.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL's attack from La Redoute with 30km remaining succeeded despite climb historically only setting up finales, not winning moves.",
+      "Quick-Step rode defensively after EVENEPOEL's move; no chase organization from favorites allowed 48-second gap despite flat run-in.",
+      "VAN AERT contested sprint for second rather than bridging solo, revealing cost-benefit calculation against pursuing lone attackers."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: delivered under massive pressure after pelvis fracture in 2020 Lombardia and subsequent criticism for lack of wins",
+      "VAN AERT Wout": "neutral: strong enough for podium sprint but chose not to commit to solo bridge with 30km remaining",
+      "MATTHEWS Michael": "negative: abandoned early despite strong AG2R squad supporting him as pre-race option",
+      "VALVERDE Alejandro": "neutral: seventh place in final LBL appearance after four career wins shows declining but respectable form",
+      "HIGUITA Sergio": "positive: finished in podium group despite team status suggesting strong individual climbing remains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:16:26.354485+00:00"
+}

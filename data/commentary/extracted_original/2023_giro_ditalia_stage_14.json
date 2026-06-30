@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro dItalia Stage 14",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-20",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won from a 29-rider breakaway after late chase group caught leaders with 800m to go, while ALMIRAI Bruno took maglia rosa from 18.5-minute deficit via mid-stage break reaction.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BAIS David attacked Passo Sempione summit specifically to reclaim KOM jersey after losing it previous day, showing calculated jersey defense.",
+      "ALMIRAI Bruno's group reacted when initial break gained 12+ minutes, exploiting INEOS's reluctance to chase with such deep time gaps.",
+      "Late four-man bridge (SCREAMS, BALLERINI, OLDANI, BETTIOL) caught at 800m despite nearly 1-minute gap, revealing sprint finish inevitability on flat runins."
+    ],
+    "rider_signals": {
+      "DENZ Nico": "positive: Second stage win in three days suggests exceptional current form, won uphill finish after chasing down leaders",
+      "GEE Derek": "neutral: Third second-place finish of this Giro indicates consistently strong positioning but missing final acceleration",
+      "ALMIRAI Bruno": "positive: Workhorse domestique gained 17 minutes in breakaway reaction, first French maglia rosa since 1999 shows opportunistic GC awareness",
+      "BAIS David": "positive: Tactically attacked first-category summit specifically to reclaim KOM jersey, demonstrating jersey competition drives mid-race strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:00:53.503143+00:00"
+}

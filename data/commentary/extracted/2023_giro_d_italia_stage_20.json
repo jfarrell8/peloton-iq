@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked the ITT climb after mechanical delay, taking 40 seconds from THOMAS Geraint to overturn 26-second deficit and win Giro by 14 seconds",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC recovered 40s on THOMAS despite mid-climb mechanical, showing superior ITT climbing power erases equipment losses on steep gradients",
+      "THOMAS changed both bike and helmet at intermediate point, losing critical seconds in transition on 25-meter exchange zone",
+      "KUSS Sepp's +2s intermediate time foreshadowed teammate ROGLIC's dominance, revealing Jumbo-Visma pacing intel advantage"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: absorbed mechanical setback then gained 32s on final climb section, ITT climbing strength underestimated in stage race scenarios",
+      "THOMAS Geraint": "negative: faded badly on steepest gradients despite leading early, 40s loss reveals ceiling on ultra-steep ITT climbs",
+      "ALMEIDA João": "positive: held third by 1m55s in mountain ITT, credible podium defense signals emerging Portuguese GC capability",
+      "MCNULTY Brandon": "positive: early wave reference time pressured GC rivals, stage winner versatility extends to mountain ITTs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:03:20.427294+00:00"
+}

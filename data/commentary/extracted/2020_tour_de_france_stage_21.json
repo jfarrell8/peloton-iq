@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-20",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the Champs-Élysées sprint on Stage 21 as POGAČAR secured overall victory in his Tour debut, having taken yellow from ROGLIČ in the penultimate-day time trial.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "POGAČAR secured youngest Tour win since 1904 by delaying GC attack until penultimate-day time trial, reversing conventional stage racing wisdom.",
+      "COSNEFROY Benoît held polka dots nearly two weeks before losing it, demonstrating vulnerability of early breakaway-based KOM strategies in 2020."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: won Tour debut at 21, taking yellow in stage 20 ITT after deliberately waiting until penultimate day to strike",
+      "ROGLIČ Primož": "negative: lost 59-second lead in single penultimate-day ITT despite controlling race for weeks",
+      "PORTE Richie": "positive: moved to podium at age 35 in 10th Tour, suggesting late-career GC form peak still possible",
+      "LANDA Mikel": "neutral: finished fourth overall after moving up in final time trial",
+      "MAS Enric": "neutral: finished fifth overall at 6:07, consolidating position in final ITT",
+      "COSNEFROY Benoît": "negative: held KOM jersey nearly two weeks but lost it late, exposing breakaway-dependent classification defense fragility"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:36:59.497917+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Infiltrates breakaways for tactical control rather than stage wins, prioritizing time gaps and bonus second management over personal glory. Operates as a climbing domestique on extended mountain efforts.",
+  "team_tactics": "Deployed as advance guard in breakaways to police gaps and bonus seconds when team leader rides defensively. Performs extended pacing duties on full climbs for GC leaders, even without podium prospects.",
+  "terrain_preference": "Mountain stages where climbing endurance and tempo control matter more than explosive attacks. Can control GC groups and pace climbs, but struggles to finish off opportunities when positioned for personal results.",
+  "vulnerability": "Durability concerns in Grand Tours - abandoned Giro 2019 after hard early breakaway effort. Cannot convert good positioning into wins when given opportunity (Pologne 2018).",
+  "key_patterns": [
+    "Infiltrates breakaways for tactical control, not stage hunting (BinckBank, Giro examples)",
+    "Executes full-climb pacing efforts for leaders even without team podium chance (TDF 2019)",
+    "Shows tactical maturity managing bonus seconds and gaps proactively (BinckBank GC defense)",
+    "Abandonment risk after intense early-race efforts in Grand Tours (Giro 2019 Stage 6)"
+  ],
+  "form_trajectory": "neutral: Recent 2023 Giro showing strong domestique form controlling GC groups, but no leader present limits assessment of current climbing depth compared to earlier TDF/Giro domestique work",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "DE PLUS Laurens",
+  "built_from": [
+    "2018 Tour de Pologne Stage 4",
+    "2019 BinckBank Tour Stage 7",
+    "2019 Giro d'Italia Stage 7",
+    "2019 Tour de France Stage 20",
+    "2023 Giro d'Italia Stage 4"
+  ]
+}

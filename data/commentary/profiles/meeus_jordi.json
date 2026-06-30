@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Pure sprinter who launches from technical/chaotic finishes rather than textbook leadouts. Generates high momentum from behind but timing remains inconsistent—needs precise final 150m positioning.",
+  "team_tactics": "Receives full leadout investment in Grand Tours with patient three-week development. Team willing to redirect resources from veteran sprinters (SAGAN precedent) once commitment made to MEEUS as protected rider.",
+  "terrain_preference": "Technical flat finishes where positioning chaos favors late acceleration. Vulnerable on cobbled classics—crashes early before secteurs determine selection. Pure pancake sprints show consistent top-5 capability.",
+  "vulnerability": "Early-race crashes eliminate him before key terrain (Paris-Roubaix example). Late launch timing costs wins despite superior speed—multiple photo finishes lost when coming from behind with momentum.",
+  "key_patterns": [
+    "Photo finish specialist: lost to VAN AERT, beat PHILIPSEN by inches—elite speed unmatched timing (2 instances)",
+    "Three-week Grand Tour investment pays dividends: team builds leadout confidence progressively until final week (Tour 2023)",
+    "Coming-from-behind momentum strategy backfires: faster sprinting can't overcome positional deficit in tight finishes (2 losses)",
+    "Progression trajectory visible: 4th Vuelta 2021 → matching VAN AERT 2022 → Champs-Élysées win 2023"
+  ],
+  "form_trajectory": "positive: Won Champs-Élysées in 2023 Tour debut after two-year progression from 4th places to beating elite sprinters, though Roubaix crash shows classics vulnerability persists",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "MEEUS Jordi",
+  "built_from": [
+    "2021 Vuelta a Espana Stage 8",
+    "2022 Criterium du Dauphine Stage 5",
+    "2022 Criterium du Dauphine Stage 5",
+    "2023 Paris-Roubaix",
+    "2023 Tour de France Stage 21",
+    "2023 Tour de France Stage 21"
+  ]
+}

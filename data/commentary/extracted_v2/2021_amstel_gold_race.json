@@ -1,0 +1,26 @@
+{
+  "label": "2021 Amstel Gold Race",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2021-04-18",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout outsprinted PIDCOCK Tom and SCHACHMANN Max from a 3-man break formed when Pidcock attacked after catching Kwiatkowski's solo move.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS deployed 3-man squad (Kwiatkowski, Pidcock, Schachmann) into elite group, yet still lost to van Aert's superior sprint.",
+      "Crash at 53km triggered race selection before final circuits, forcing Bora-Hansgrohe and Israel into desperate chase mode.",
+      "PIDCOCK attacked immediately after catching KWIATKOWSKI's solo move, using fresh legs advantage to bridge with SCHACHMANN and van Aert."
+    ],
+    "rider_signals": {
+      "PIDCOCK Tom": "positive: attacking immediately after catching Kwiatkowski showed tactical maturity, nearly won sprint despite van Aert's presence",
+      "ROGLIC Primoz": "negative: mechanical on final Cauberg ascent eliminated him from contention in closing kilometers",
+      "ALAPHILIPPE Julian": "negative: attacked on Cauberg but faded badly afterward, suggesting poor form or overextension",
+      "KWIATKOWSKI Michal": "neutral: solo move caught but enabled Pidcock's counter-attack with INEOS numbers",
+      "VALVERDE Alejandro": "positive: crossed to elite group as last rider at age 40, finished 5th showing exceptional durability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:32:57.730814+00:00"
+}

@@ -7,32 +7,9 @@
     "video_id": "tiQiDoU4MKE",
     "title": "2017 Tour de France: Stage 8 Recap",
     "url": "https://youtube.com/watch?v=tiQiDoU4MKE",
-    "channel": "NBC Sports",
-    "published": "2017-07-09T13:45:52Z",
-    "match_score": 120.0,
-    "all_candidates": [
-      {
-        "video_id": "tiQiDoU4MKE",
-        "title": "2017 Tour de France: Stage 8 Recap",
-        "channel": "NBC Sports",
-        "published": "2017-07-09T13:45:52Z",
-        "match_score": 120.0
-      },
-      {
-        "video_id": "eoJcu2-dSQg",
-        "title": "Tour de France 2017: Stage 9 Recap | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-09T17:58:03Z",
-        "match_score": 80.0
-      },
-      {
-        "video_id": "aIVNtLPzifg",
-        "title": "Tour de France 2017: Chris Froome stands atop podium | NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2017-07-23T20:08:52Z",
-        "match_score": 30.0
-      }
-    ]
+    "channel": "playlist_import",
+    "published": "2018-02-20T01:20:30Z",
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 361,

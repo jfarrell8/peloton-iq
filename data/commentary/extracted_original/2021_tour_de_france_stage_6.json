@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-01",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won sprint in Châteauroux after Kluge/Vanmarcke breakaway caught inside 2km, Deceuninck train dominated positioning.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Asgreen/Vanmarcke early attacking forced panic chase when GC threats infiltrated break, shows sprint teams fear bonus seconds leakage.",
+      "Deceuninck-QuickStep positioned leadout man Philippe inside final 1km despite WorldFire announcing non-participation, reveals tactical misdirection advantage.",
+      "Cavendish launched off Philippe's wheel before traditional final 200m, earlier acceleration suggests confidence in pure speed over positioning."
+    ],
+    "rider_signals": {
+      "ASGREEN Kasper": "positive: threatened GC jersey holder Vanderpoort in early move, suggests willingness to attack beyond domestique role",
+      "KLUGE Roger": "neutral: strong enough to contest intermediate sprint points against peloton despite being in two-man break",
+      "GUARNIERI Jacopo": "negative: crashed inside final 2km but finished third, indicates fragile positioning despite good form",
+      "PHILIPPE Julian": "positive: WorldFire announced non-sprint yet Philippe led out Cavendish inside 1km, reveals team using misinformation tactically"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:33:14.502718+00:00"
+}

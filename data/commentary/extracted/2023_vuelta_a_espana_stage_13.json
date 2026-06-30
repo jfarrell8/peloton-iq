@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked on the Tourmalet descent, soloed to victory while EVENEPOEL cracked on the opening climb losing 24+ minutes.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD attacked on Tourmalet descent after conservation over two prior climbs, indicating descending finish suits aggression over summit attacks.",
+      "KUSS defended red jersey by limiting losses to teammate VINGEGAARD to under 30 seconds despite not matching acceleration.",
+      "Quick-Step completely absent from support when EVENEPOEL cracked on Aubisque, suggesting no depth for GC defense on explosive starts.",
+      "Jumbo-Visma positioned all three GC riders in top positions before Aubisque summit, making early climb selection decisive for control."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: Dropped on first major climb (Aubisque) in opening hour losing 24+ minutes, indicating either illness or total form collapse.",
+      "KUSS Sepp": "positive: Clawed back significant time after initially distanced by VINGEGAARD, showing resilience under pressure to defend lead.",
+      "VINGEGAARD Jonas": "positive: Won stage with descent attack rather than summit acceleration, demonstrating tactical evolution beyond pure climbing dominance.",
+      "ROGLIČ Primož": "positive: Finished third at 33 seconds, completing Jumbo 1-2-3 and moving into podium position.",
+      "BARGUIL Warren": "neutral: In early breakaway attempting KOM points despite being KOM leader HERRADA's main threat."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:32:04.558437+00:00"
+}

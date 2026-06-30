@@ -1,0 +1,26 @@
+{
+  "label": "2020 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-03",
+  "stage": 13,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked the flat headwind section with pure power, paced the climb perfectly, and reclaimed red with 39 seconds over CARAPAZ who disintegrated on the final ascent.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ paced flat 30km headwind aggressively instead of conserving for climb, breaking GC climbers before steep gradient",
+      "CARAPAZ tried matching ROGLIČ on flat sections and paid catastrophically on final climb, losing 49 seconds",
+      "BARTA nearly won by combining cyclocross-quality bike change skills with high-cadence climbing after 38 minutes at threshold",
+      "CARTHY moved into podium by avoiding CARAPAZ mistake of overextending on flat headwind sections"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: delivered redemption ITT win after Tour collapse, showing Tour loss didn't break morale or diesel engine",
+      "BARTA Will": "positive: matched ROGLIČ power for 38km then executed flawless bike change, only lost stage by 1 second on final climb",
+      "CARAPAZ Richard": "negative: tactical error trying to match power riders on flat headwind, collapsed 49 seconds on climb he should dominate",
+      "CARTHY Hugh": "positive: rode disciplined ITT respecting limitations on flat, consolidated podium position without overextending"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:42:34.786586+00:00"
+}

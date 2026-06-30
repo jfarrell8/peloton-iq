@@ -1,0 +1,32 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-09",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BOASSON HAGEN won from a reduced sprint after LAMBRECHT joined a late breakaway that nearly survived, caught inside final 1500m.",
+    "winner": "BOASSON HAGEN Edvald",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE accelerated at 20km with KWIATKOWSKI, racing for stage not protecting HODEG sprinter, fracturing peloton significantly.",
+      "LAMBRECHT attacking from breakaway on final climbs provided enough tempo variance to shed pure sprinters before late catch.",
+      "DIMENSION DATA timed sprint commitment perfectly in reduced group where BOASSON HAGEN's short-distance kick beats classics specialists.",
+      "Teams with pure sprinters BENNETT and GREIPEL eliminated by repeated accelerations mid-stage rather than final climb selection."
+    ],
+    "rider_signals": {
+      "BOASSON HAGEN Edvald": "positive: delivered elite short-distance kick in reduced sprint, suggesting classics-terrain punch intact for hillier stages",
+      "ALAPHILIPPE Julian": "positive: drove race-splitting acceleration 20km out, confirming aggression carries from classics into stage races",
+      "LAMBRECHT Bjorg": "positive: solo accelerations from breakaway on climbs nearly held off peloton, exceptional climbing for young rider",
+      "GILBERT Philippe": "neutral: positioned well for reduced sprint but lacked final kick to challenge BOASSON HAGEN",
+      "IMPEY Daryl": "neutral: present in reduced group and attempted late positioning, survived selection but no sprint finish",
+      "HODEG Álvaro José": "negative: DECEUNINCK abandoned sprint support for HODEG when ALAPHILIPPE accelerated, suggesting unsuitability for lumpy terrain",
+      "BENNETT Sam": "negative: eliminated before finale by mid-stage accelerations, confirming vulnerability on undulating parcours",
+      "KWIATKOWSKI Michał": "positive: followed ALAPHILIPPE's 20km acceleration immediately, showing INEOS willing to race aggressively early",
+      "VERMOTE Julien": "negative: dropped from early breakaway despite breakaway specialist pedigree, form concerns evident",
+      "EDET Nicolas": "negative: tested accelerations early but dropped before decisive phase, lacking form to influence selection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:52:13.743753+00:00"
+}

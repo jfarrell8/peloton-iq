@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-11",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SEPP KUSS attacked with 20km remaining on home roads in Andorra, holding off VALVERDE and the break remnants after INEOS pacing isolated POGACAR's rivals.",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS pulling DEKKER/CASTROVIEJO back from 32-rider break to pace GC group reveals team preservation over breakaway stage wins.",
+      "ROGLIC's team still winning mountain stages post-abandon shows JUMBO prioritized stage hunting over domestique conservation for GC riders.",
+      "CARAPAZ lost 3+ minutes on descent not climb, moving 2nd to 9th, exposing descending as critical selection point.",
+      "POGACAR never needed to respond to late WOUT attacks showing UAE isolation tactics working despite numerical disadvantage."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: attacked solo with 20km left on local Andorran roads, suggesting course knowledge provides measurable advantage",
+      "CARAPAZ Richard": "negative: dropped on descent not climb, falling from 2nd to 9th, reveals technical weakness under pressure",
+      "VALVERDE Alejandro": "positive: outsprinted break remnants at age 41 for second, still dangerous in reduced bunch sprints",
+      "POELS Wout": "positive: moved to KOM lead with 8-point gap via breakaway, showing UAE prioritizing secondary classifications",
+      "VAN AERT Wout": "negative: late attacks with VINGEGAARD failed to distress POGACAR, suggesting JUMBO lacked firepower for GC disruption",
+      "QUINTANA Nairo": "neutral: animated in break for Arkea's first stage but couldn't deliver, now hunting KOM jersey instead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:31:06.723138+00:00"
+}

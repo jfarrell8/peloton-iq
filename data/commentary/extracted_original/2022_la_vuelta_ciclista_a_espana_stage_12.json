@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 12",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-01",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAS attacked from 32-rider breakaway on final climb, took stage while POGACAR attacked GC group but ROGLIC/MAS matched easily",
+    "winner": "CARAPAS Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BATISTELLA solo attack at 65km isolated by break's refusal to chase, revealing peloton-sized breaks kill initiative",
+      "BORA deployed FABRO as super-domestique on final climb specifically to pace KELDERMAN into top six GC",
+      "POGACAR's red jersey team depleted on final climb, forcing him to counterattack rather than control defensively",
+      "VINE struggled after winning two prior stages, suggesting recovery cost from breakaway wins accumulates within three stages"
+    ],
+    "rider_signals": {
+      "CARAPAS Richard": "positive: Stage win suggests form returning after demotion within INEOS hierarchy; seized opportunity when VINE fatigued",
+      "KELDERMAN Wilco": "positive: Jumped to 6th GC via dedicated team support on final climb; BORA committed resources specifically for his placement",
+      "VINE Jay": "negative: Faded on final climb after two stage wins, indicating breakaway victories extract multi-day recovery toll",
+      "POGACAR Tadej": "neutral: Attacked last kilometer but isolated without teammates; aggressive response masked defensive positioning throughout climb",
+      "POLANS Jan": "positive: Recovered from struggling early on climb to finish 4th, jumped to 9th GC showing deeper resilience"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:42:11.222884+00:00"
+}

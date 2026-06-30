@@ -1,0 +1,31 @@
+{
+  "label": "2023 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2023-03-04",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PIDCOCK Thomas attacked 42km out on Monte Santa Maria, soloed for nearly 50km with chasers hesitating behind, winning by significant margin.",
+    "winner": "PIDCOCK Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PIDCOCK Thomas went 42km out on Monte Santa Maria, earlier than optimal but hesitation behind meant chasers never committed fully.",
+      "VAN DER POEL Mathieu immediately chased PIDCOCK but was caught back; 2021 winner showed unusual weakness throughout race.",
+      "VALTER Attila despite earlier crash looked strongest of chase group on final sector, reduced gap to 7s but teammates hesitated.",
+      "Chase group played cat-and-mouse in finale instead of collaborating, allowing 7-second gap to balloon back to 30 seconds."
+    ],
+    "rider_signals": {
+      "PIDCOCK Thomas": "positive: Bridged to early break on Monte Santa Maria descent alone, then sustained 42km solo effort with high-risk descending",
+      "VAN DER POEL Mathieu": "negative: 2021 winner notably weak, chased PIDCOCK briefly but immediately caught back, never his usual form",
+      "VALTER Attila": "positive: Crashed earlier but strongest of chase group on final gravel sector, closed gap to 7s alone",
+      "MADOUAS Valentin": "positive: Most active chaser attacking repeatedly from group, had legs for sprint finish taking second place",
+      "BETTIOL Alberto": "negative: Local rider attacked early on Monte Santa Maria with BAGIOLI but crashed badly with 26km remaining",
+      "SHEFFIELD Magnus": "negative: Crashed alongside BETTIOL with 26km to go, race ended for both contenders",
+      "BENOOT Tiesj": "positive: In final chase group and sprinted for third place podium",
+      "COSTA Rui": "positive: Survived to chase group and battled VALTER for fourth place",
+      "FORMOLO Davide": "positive: Made top ten in ninth after being distanced early with puncture requiring hard chase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:19:15.573510+00:00"
+}

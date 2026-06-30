@@ -1,0 +1,29 @@
+{
+  "label": "2020 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-31",
+  "stage": 11,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GODON David won from the breakaway after SOLAIRE Marc bridged solo from the peloton two climbs earlier, holding off GC riders who only attacked inside final 200 meters.",
+    "winner": "GODON David",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SOLAIRE Marc bridged alone from peloton to breakaway two climbs before summit, demonstrating GC riders let breakaway threats escape too late.",
+      "GC favorites waited until final 200m to attack on 16.5km climb, revealing conservatism before Angliru enabled breakaway to succeed.",
+      "VLASOV Aleksandr allowed to gap by ROGLIČ teammates during climb because 6:52 GC deficit made him irrelevant to podium battle.",
+      "GODON needed to attack SOLAIRE earlier on final climb but waited for closing sprint, nearly losing to superior climber's finishing speed."
+    ],
+    "rider_signals": {
+      "GODON David": "positive: won first Grand Tour stage by holding off SOLAIRE in sprint after long breakaway, showing elite climbing endurance",
+      "SOLER Marc": "positive: bridged solo from peloton to breakaway group over multiple climbs, then nearly won stage despite towing GODON",
+      "MARTIN Dan": "positive: initiated GC attacks with 200m remaining on brutal finish, showing aggressive intent unlike other favorites",
+      "VLASOV Aleksandr": "neutral: allowed gap by ROGLIČ team due to 6:52 deficit, confirming his irrelevance to podium despite improving form",
+      "STORER Michael": "positive: third on stage with teammate DONOVAN fifth, Sunweb placing two riders top-5 from breakaway",
+      "MARTIN Guillaume": "positive: extended KOM jersey lead despite finishing minute down, prioritizing points over stage position",
+      "BENNETT George": "negative: finished 19th at 1+ minute despite pacing for JUMBO, showing weakness compared to other domestiques on steep gradients"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:42:03.094721+00:00"
+}

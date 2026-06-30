@@ -1,0 +1,26 @@
+{
+  "label": "2020 UAE Tour Stage 5",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-27",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won the sprint on final stage after teammate Smith led out, celebrating before the line while Groves took stage 2 win of tour",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINE Jay exploited intermediate sprints (20km and <30km) to leapfrog GC position without attacking, targeting bonus seconds strategically.",
+      "SCULLY Tom pulled off early from leadout allowing GROVES to slot back through corners, then re-accelerate on sloping finish straight.",
+      "Team Bridgelane controlled peloton at 35-second gap for breakaway containing their points jersey rider, no urgency to close faster."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "positive: mastered sloping finish gradient to win by margin allowing teammate to sit up and celebrate before line",
+      "VINE Jay": "positive: showed tactical awareness targeting intermediate sprints rather than wasting energy in breaks to secure top-5 GC",
+      "HOFLAND Moreno": "negative: had perfect leadout position but chose to drop back through corners and missed sprint opportunity entirely",
+      "DAINESE Alberto": "negative: caught badly out of position in circuit finale finishing 50th despite being pre-race sprint favorite",
+      "HILL Ben": "positive: attacked every stage to mathematically lock points jersey, understanding accumulation beats selective aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:28:49.805451+00:00"
+}

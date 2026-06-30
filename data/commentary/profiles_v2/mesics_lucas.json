@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker. Functions as a lead-out rider for sprinters, specifically deployed in the final 2km to position his team leader.",
+  "team_tactics": "Sacrificed early in lead-out train, expected to deliver sprinter to final kilometer. Left exposed when planned positioning fails, required to chase down opponent attacks alone without team support.",
+  "terrain_preference": "Flat sprint stages where lead-out execution matters. Exposed when plan disrupts and forced into reactive mode in final 2km.",
+  "vulnerability": "Collapses when lead-out plan fails and forced to chase alone inside final 2km. Cannot sustain effort beyond 900m when isolated without relief wheels. Vulnerable to late tactical attacks (1.6km out) that force him into bridging role.",
+  "key_patterns": [
+    "Sacrificed early as lead-out domestique, fades inside final kilometer when effort extended.",
+    "Left isolated to chase when opponents attack and team structure collapses.",
+    "Unable to find relief wheels when under pressure in final 2km."
+  ],
+  "form_trajectory": "unknown: Single observation shows tactical role failure but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MESICS Lucas",
+  "built_from": [
+    "2017 Tour de Pologne Stage 1",
+    "2017 Tour de Pologne Stage 1"
+  ]
+}

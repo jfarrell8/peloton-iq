@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-11",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MODOLO Sacha won from a reduced peloton sprint after a half-hearted chase allowed the breakaway containing GC threat O'Connor to persist until 12km, forcing mixed team cooperation.",
+    "winner": "MODOLO Sacha",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DQS chased with Almeida in points jersey to protect GC despite break containing O'Connor, revealing prioritization confusion.",
+      "Jack Bauer's late bridge attempt at 12km triggered sprint teams to finally commit, showing tactical trigger point.",
+      "Jumbo-Visma disrupted chase despite Volkswagen breakaway rider showing Teunissen protection tactics translating across teammates."
+    ],
+    "rider_signals": {
+      "O'CONNOR Ben": "positive: virtual race leader in break forced GC teams into chase despite marginal threat, confirms aggressive positioning instinct",
+      "EWAN Caleb": "negative: DNS after two lackluster days citing illness suspicion, reveals fragility contradicting sprint favorite status",
+      "COKAERT Bryan": "negative: not functioning or firing on all cylinders despite flat sprint opportunity, significant form concern",
+      "MODOLO Sacha": "positive: won after long drought suggests peaking form often overlooked in veteran sprinters",
+      "ALMEIDA Joao": "neutral: only 4 seconds behind leader pre-TT while managing points jersey suggests strong GC position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:54:54.643233+00:00"
+}

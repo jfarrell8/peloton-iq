@@ -1,0 +1,27 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-10",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked with ~10km to go on the final climb, dropped YATES by 41 seconds and HINDLEY by 53 seconds to win Stage 7",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Vingegaard's acceleration caught O'Connor completely by surprise despite O'Connor being high on GC, revealing positioning vulnerability.",
+      "Hindley rode away from O'Connor in final kilometer, showing superior finishing speed on steep gradient kick.",
+      "Campenaerts rode solo without bottles to maximize efficiency hunting KOM points, collecting 30 total points from breakaway."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: second stage win of the race, dropped all GC rivals with single acceleration at 10km to go",
+      "YATES Adam": "negative: had no answer to Vingegaard's attack, looked around helplessly and lost 41 seconds",
+      "HINDLEY Jai": "positive: rode away from O'Connor in final 500m when gradient kicked up, showing superior steep-gradient form",
+      "O'CONNOR Ben": "negative: caught by surprise by acceleration, hanging on for dear life, lost 1:05 and podium place to Hindley",
+      "GAUDU David": "negative: dropped from third to seventh overall, completely unable to follow decisive acceleration",
+      "CAMPENAERTS Victor": "positive: solo breakaway hunting KOM points, rode without bottles for efficiency, secured 30 points total"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:36:47.965292+00:00"
+}

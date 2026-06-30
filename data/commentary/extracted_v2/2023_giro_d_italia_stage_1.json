@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco dominated the 70km opening time trial by 43 seconds over ROGLIČ, taking 20 seconds at first checkpoint alone on windswept coastal flats.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Evenepoel's 20-second advantage at first intermediate on flat coastal section suggests elite TT specialists can't match his sustained power on long efforts.",
+      "McNulty and Vine going 1-2 for UAE before Almeida's ride reveals team depth in TT discipline and strategic roster building for stage racing.",
+      "Geoghegan Hart climbing final 2km significantly faster than early starters despite slower coastal splits shows precise pacing strategy for uphill finishes.",
+      "43-second gap to Roglič on stage 1 of 21-stage GT demonstrates modern willingness to concede massive time when form differential is clear."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 26-second margin over Roglič at climb base after flat section indicates unprecedented TT dominance regardless of terrain type",
+      "VINE Jay": "positive: posting second-fastest time while recovering from spring knee injury signals rapid UAE integration and resilience under physical compromise",
+      "ROGLIČ Primož": "negative: 43-second deficit suggests either tactical surrender on stage 1 or genuine form deficit that contradicts pre-race GC favorite status",
+      "GEOGHEGAN HART Tao": "positive: superior climb split despite slower flats indicates selective effort allocation and genuine climbing form retention from 2020 win",
+      "ALMEIDA João": "neutral: third place 29 seconds down positions him as dark horse GC threat rather than expected domestique role for UAE leadership"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:37:14.682872+00:00"
+}

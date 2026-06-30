@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Does not initiate decisive moves early; instead times late surges perfectly on steep gradients (18-19%) in final meters, particularly on punchy uphill finishes. Excels at catching long-range efforts rather than launching them.",
+  "team_tactics": "Operates with minimal leadout support, often without proper sprint train even when team commits resources. Functions as opportunistic finisher rather than protected sprint leader, relying on positioning over team control.",
+  "terrain_preference": "Steep punchy climbs with gradients above 15%, especially short explosive finishes like Mur de Huy. Strong on hairpin sections where recovery capacity and uphill sprint speed create advantages. Struggles on sustained climbing efforts.",
+  "vulnerability": "Tactical naivety when in winning position—shares workload unnecessarily allowing chasers to bridge. Passive racing when not the designated finisher, failing to counter-attack from favorable positions.",
+  "key_patterns": [
+    "Wins by timing late surges on steepest sections, not early attacks (Romandie, Fleche Wallonne)",
+    "Superior recovery capacity allows bridging after appearing dropped on climbs (Poland 2018, uphill sprints)",
+    "Demonstrates tactical maturity sitting back early, then exploiting others' efforts in finale (Vuelta 2019, Romandie)",
+    "Strong uphill sprint speed nearly steals stages even from tactically superior positioned riders (Woods 2018)",
+    "Tactical errors when leading: shares pace allowing bridges rather than forcing others to chase (Paris-Nice 2020)"
+  ],
+  "form_trajectory": "positive: 2022 showed peak tactical maturity with two major wins (Fleche Wallonne, Romandie) using refined timing over raw power, winning without team support",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "TEUNS Dylan",
+  "built_from": [
+    "2017 La Fleche Wallonne",
+    "2018 Paris-Nice Stage 7",
+    "2018 Tour de Pologne Stage 4",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Vuelta a Espana Stage 17",
+    "2019 BinckBank Tour Stage 5",
+    "2019 Criterium du Dauphine Stage 2",
+    "2019 Vuelta a Espana Stage 6",
+    "2020 Paris - Nice Stage 1",
+    "2022 La Fleche Wallonne",
+    "2022 La Fleche Wallonne",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 1"
+  ]
+}

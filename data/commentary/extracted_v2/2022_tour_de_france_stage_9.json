@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-10",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JUNGELS Bob won from a 21-rider breakaway, dropping VAN AERT on the descent 55km out and holding off PINOT's late chase.",
+    "winner": "JUNGELS Bob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUNGELS attacked on descent from third of four climbs at 55km, not summit, exploiting technical downhill skills.",
+      "Peloton allowed 21-rider break after initially suppressing moves, suggesting GC teams conserving energy pre-rest day.",
+      "POGACAR's team defended yellow with minimal work despite controlling race, indicating comfort with current GC gaps.",
+      "THOMAS lost 3 seconds in final sprint despite being with GC group, revealing tactical sloppiness or fatigue."
+    ],
+    "rider_signals": {
+      "JUNGELS Bob": "positive: First win in years after struggling form, attacked on descent not climb, dropped in-form VAN AERT",
+      "VAN AERT Wout": "negative: Couldn't follow JUNGELS' descent attack despite winning previous day and sprinting well 24h earlier",
+      "PINOT Thibaut": "negative: Lost 21 seconds despite desperate late chase, couldn't bring back solo JUNGELS in final kilometers",
+      "WOODS Michael": "negative: Crashed early on flat roundabout approach despite targeting stage, neutralized before climbing started",
+      "THOMAS Geraint": "negative: Lost 3 seconds to POGACAR/VINGEGAARD in final sprint positioning, careless time management",
+      "QUINTANA Nairo": "positive: Moved onto second GC page within 2 minutes, climbing form building toward second week"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:25:04.668756+00:00"
+}

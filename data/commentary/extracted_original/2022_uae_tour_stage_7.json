@@ -1,0 +1,27 @@
+{
+  "label": "2022 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-26",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR won UAE Tour Stage 7 atop Jebel Hafeet after ALMEIDA's late attack forced YATES to chase, letting POGACAR sit on his wheel into the sprint finish.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALMEIDA attacked for POGACAR with under 2km remaining, forcing YATES to close while POGACAR sat on for free.",
+      "UAE Emirates worked through CONRAD then MAJKA high on climb, saving POGACAR completely until final 2km explosion.",
+      "BILBAO dragged ALMEIDA up to YATES/POGACAR group, inadvertently gifting UAE domestique a tow to final selection."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Won both summit finishes showing UAE's tactical depth allows him to repeatedly sit wheels then outsprint fresh.",
+      "YATES Adam": "negative: Shook head demanding POGACAR take pulls in final 2km but lacked acceleration to punish refusal tactically.",
+      "ALMEIDA Joao": "positive: Strong enough to attack with 2km left while wearing white jersey, proving UAE has two-pronged GC weapon.",
+      "BILBAO Pello": "neutral: Led chase to bridge but faded final 2km, bridging effort may have cost podium finish.",
+      "MAJKA Rafal": "positive: Did extended high-altitude pacing work suggesting UAE can afford burning strong climber before finale.",
+      "PLAAPP Lucas": "positive: Finished 5th on Hafeet climb as young Australian, unexpected result on 11% gradients."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:57:37.881074+00:00"
+}

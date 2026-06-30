@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-17",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT won the Stage 20 time trial, exploiting the rolling terrain advantage over lighter specialists while VINGEGAARD extended his second place cushion over CARAPAZ.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT's weight advantage on rolling TT courses versus punchy profiles reveals crucial course selection bias for heavy power riders.",
+      "JUMBO-VISMA with only four remaining riders still extracted three stage wins, showing depth-over-numbers can succeed with elite remnants.",
+      "POGAČAR soft-pedaled the final TT with 5:45 buffer, signaling Olympics prep prioritization over marginal time gains in decided races."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Distinguished rolling TT terrain preference over punchy first TT, suggesting weight-to-power specialists need course profiling",
+      "VINGEGAARD Jonas": "positive: Extended second place gap to CARAPAZ from 6 seconds to substantial margin despite depleted team support",
+      "POGAČAR Tadej": "neutral: Consciously throttled effort with commanding GC lead, prioritizing recovery for upcoming Olympics over time maximization",
+      "ALAPHILIPPE Julian": "negative: Failed to replicate past TT form despite maximum visible effort, suggesting declining against-the-clock performance trajectory",
+      "CARAPAZ Richard": "negative: Lost significant time to VINGEGAARD in decisive TT despite minimal starting gap, exposing chronometer weakness for podium defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:52:37.927512+00:00"
+}

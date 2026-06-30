@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late-race attacks from reduced groups after climbs have eliminated sprinters. Capitalizes on selection made by stronger climbers rather than initiating the decisive move himself.",
+  "team_tactics": "Minimal data on team setup. Appears to position for opportunities created by other teams' aggressive racing rather than controlling through domestique support.",
+  "terrain_preference": "Hilly finishes that eliminate pure sprinters but don't require elite climbing ability. Best in reduced bunch scenarios with 10-30 riders after selective climbs.",
+  "vulnerability": "Likely exposed on sustained steep climbs against pure climbers, and in mass sprints against specialists. Needs pre-selection by others to compete for victory.",
+  "key_patterns": [
+    "Wins from small breakaways formed late in race after climbers create selection",
+    "Exceptional early-season form in 2018, vastly exceeding typical annual win rate",
+    "Exploits opportunities rather than forcing race through personal firepower"
+  ],
+  "form_trajectory": "positive: Five wins by early March 2018 versus typical 2-3 annually indicates career-best form and extended peak period",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HIVERT Jonathan",
+  "built_from": [
+    "2018 Paris-Nice Stage 3",
+    "2018 Paris-Nice Stage 3"
+  ]
+}

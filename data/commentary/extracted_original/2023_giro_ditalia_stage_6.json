@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro dItalia Stage 6",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PETERSON Mads won the sprint from a caught breakaway after CLARK and DE MARCHI waited too long inside final 200m.",
+    "winner": "PETERSON Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CLARK/DE MARCHI broke clear on second categorized climb but hesitated fatally at 200m, caught by sprint trains.",
+      "INEOS disorganization visible: THOMAS mechanical at 15km cost GC positioning despite team car relay effort.",
+      "Break maintained 1+ minute at 15km but unorganized peloton only caught with 200m remaining, not standard catch timing."
+    ],
+    "rider_signals": {
+      "CLARK Simon": "negative: 36-year-old showed climbing strength to drop three breakaway companions but catastrophic hesitation cost grand tour stage set completion",
+      "CAVENDISH Mark": "negative: dropped on first categorized climb due to knee injury from previous crash, sprinting form compromised",
+      "PETERSON Mads": "positive: completed Peter Slam (stages at all three Grand Tours), timing shows tactical maturity against Milan's earlier launches",
+      "MILAN Jonathan": "neutral: launched sprint early but held second, retained maglia ciclamino despite missing intermediate sprint points to Groves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:03:16.762489+00:00"
+}

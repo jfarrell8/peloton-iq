@@ -1,0 +1,30 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-15",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FUGLSANG gained race lead through relentless tempo in final 10km while POELS attacked final 300m for stage win and crucial teammate bonifications.",
+    "winner": "POELS Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FUGLSANG rode entire final climb in big gear maintaining threshold pace rather than explosive attacks to gain time incrementally.",
+      "ASTANA deployed LUTSENKO and WOODS in early breakaway specifically to drain YATES' team before final climb assaults commenced.",
+      "YATES lacked acceleration response when finally forced to react inside 2km, revealing fatigue from chasing earlier QUINTANA probes.",
+      "POELS timed counterattack for final 300m specifically after teammate bonifications were secured, exploiting FUGLSANG's 7-second deficit focus."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: sustained power output in big gear entire final climb created time gaps without traditional attacks",
+      "YATES Adam": "negative: unable to respond with acceleration when attacked sub-2km, only grind back slowly indicating depleted anaerobic capacity",
+      "POELS Wout": "positive: perfectly timed 300m counterattack after sitting in showed excellent race intelligence and preserved power",
+      "LUTSENKO Alexey": "positive: spent entire day in breakaways explicitly working for FUGLSANG's GC ambitions rather than own result",
+      "WOODS Michael": "positive: committed to long-range breakaway attack despite crash complications demonstrating aggressive tactical approach",
+      "BUCHMANN Emanuel": "positive: followed FUGLSANG's relentless tempo to podium spot showing elite threshold power sustainability",
+      "MARTIN Dan": "neutral: attempted acceleration at 1km but lacked finishing power to sustain move for time bonuses",
+      "QUINTANA Nairo": "negative: attacked early on final climb but quickly sat forward on saddle indicating immediate distress under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:54:00.901583+00:00"
+}

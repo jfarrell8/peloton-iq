@@ -1,0 +1,24 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 21",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-17",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won Stage 21 Madrid sprint after chasing down EVENEPOEL Remco's late attack, throwing bike at line to secure green jersey.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL attacked in Madrid finale specifically to threaten GROVES' green jersey, forcing Groves to chase instead of conserve.",
+      "Break succeeded with 3km remaining because teammates of escapees refused to chase, leaving only EF and UAE working.",
+      "GROVES threw bike despite apparent gap showing he couldn't visually confirm victory from saddle position against POGACAR's late rush."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: launched late attack targeting green jersey points calculation, forcing Groves into energy-draining chase despite polka dot jersey already secured",
+      "POGACAR Tadej": "positive: closed rapidly from peloton in final 200m nearly catching break, showing exceptional final kick even post-grand tour",
+      "GROVES Kaden": "positive: tactical awareness to recognize EVENEPOEL win would threaten green jersey via points, abandoned sprinter positioning to chase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:49:35.701045+00:00"
+}

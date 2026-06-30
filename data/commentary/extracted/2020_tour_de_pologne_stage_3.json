@@ -1,0 +1,29 @@
+{
+  "label": "2020 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-07",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard attacked inside final kilometer uphill, held off ULISSI Diego's chase to win and take yellow by 4 seconds.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARAPAZ attacked solo sub-1km on uphill finish, exploiting sprinters' hesitation on gradient to gap organised chase.",
+      "EVENEPOEL Remco positioned front over final categorized climb, signaling team willing to control despite sprint finish format.",
+      "HAAS Nathan attacked 2.5 years winless with 7km circuits remaining, forcing rivals to organize chase rotation early."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: won from late solo move on uphill finish, took yellow, opportunistic against pure sprinters",
+      "ULISSI Diego": "positive: led organized chase of CARAPAZ, nearly closed gap on uphill sprint despite late response",
+      "BALLERINI Davide": "negative: first to chase CARAPAZ but burned out quickly, poor pacing judgment inside final kilometer",
+      "HAAS Nathan": "neutral: attacked with 7km circuits but caught, still seeking first World Tour win after 2.5 years",
+      "PEDERSEN Mads": "negative: yellow jersey invisible in finale positioning, nowhere to be seen inside final 2km",
+      "EVENEPOEL Remco": "neutral: positioned at front over final categorized climb, showing team control presence",
+      "VAN DER HOORN Taco": "neutral: in breakaway, attacked over final categorized climb but caught before finale",
+      "KELDERMAN Wilco": "positive: mixed with sprinters on uphill finish, unusual positioning for GC rider suggests confidence"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:39:40.842056+00:00"
+}

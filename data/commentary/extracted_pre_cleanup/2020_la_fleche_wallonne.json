@@ -1,0 +1,29 @@
+{
+  "label": "2020 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2020-09-30",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HIRSCHI attacked with 50m remaining on Mur de Huy to overtake WOODS who had gone at 200m, first Swiss winner since 1952.",
+    "winner": "HIRSCHI Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VANSEVENANT in early break reveals Deceuninck testing young riders in strategic race situations despite inexperience.",
+      "URÁN bridging solo from peloton on penultimate climb suggests targeting positioning before final Mur, not contesting sprint.",
+      "POLANC leadout for POGAČAR at Mur base indicates UAE prioritized positioning over firepower despite leader's climbing ability.",
+      "HIRSCHI waiting until 50m versus WOODS at 200m proves extreme patience beats early acceleration even on steep finales."
+    ],
+    "rider_signals": {
+      "HIRSCHI Marc": "positive: timing sprint launch at 50m rather than following standard 200m attacks reveals exceptional tactical maturity",
+      "WOODS Michael": "negative: going at 200m with strong acceleration insufficient to hold off late movers on Mur de Huy",
+      "VANSEVENANT Mauri": "positive: surviving as last breakaway rider and holding 15s on URÁN shows climbing promise despite crash",
+      "URÁN Rigoberto": "neutral: solo bridge attempt on penultimate climb showed positioning ambition but caught immediately at Mur base",
+      "POGAČAR Tadej": "negative: requiring POLANC leadout and finishing ninth suggests Mur de Huy's steep explosive gradient unsuited to sustained power",
+      "COSNEFROY Benoît": "positive: second place without mentioned attacks indicates excellent positioning discipline and late-race punch",
+      "POELS Wout": "neutral: attacking first among favorites but finishing eighth shows effort mistimed or insufficient power reserve"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:28:12.960581+00:00"
+}

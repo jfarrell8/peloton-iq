@@ -1,0 +1,28 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 13",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-08",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked with 8km to go on Tourmalet, KUSS marked all moves and finished second, JUMBO-VISMA took podium sweep and top-3 GC.",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD attacked 8km from summit with AYUSO shadowing, revealing JUMBO's willingness to let Tour winner chase stage glory.",
+      "KUSS acted as tactical policeman marking ROGLIC's rivals rather than chasing teammate VINGEGAARD, prioritizing GC control over stage win.",
+      "ROGLIC held powder dry while KUSS policed attacks from LANDA and BUJAK, showing dual-leader structure with KUSS protected.",
+      "EVENEPOEL dropped on first climb Aubisque despite not being ill, suggesting altitude or heat vulnerability distinct from standard bad day."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: Lost major time on Aubisque before key climbs, suggesting metabolic issue rather than illness requiring tactical reassessment.",
+      "KUSS Sepp": "positive: Looked freshest after policing all attacks, then finished second only 29 seconds down, revealing unexpected GC-winning form.",
+      "VINGEGAARD Jonas": "positive: Won from 50-second gap built 8km out, demonstrating Tour form carried over despite supporting KUSS overall.",
+      "AYUSO Juan": "positive: Took KOM jersey by surviving with leaders while accumulating points, showing stage-hunting tactics within GC defense.",
+      "SOLER Marc": "negative: Started second on GC, tumbled significantly despite no reported incident, indicating sudden form collapse.",
+      "LANDA Mikel": "negative: Attacked but edged off by KUSS's pace changes, confirming third-tier status behind JUMBO trio."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:47:31.507412+00:00"
+}

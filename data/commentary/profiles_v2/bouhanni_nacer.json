@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter who does not attack but relies on positioning in final kilometers. Wins from reduced bunch sprints when attrition eliminates pure fastmen.",
+  "team_tactics": "Team sets tempo on front to control approaches, but rider frequently becomes isolated in finals without dedicated lead-out train support, forcing early self-positioning.",
+  "terrain_preference": "Reduced bunch sprints after late splits from technical finishes or roadside furniture. Struggles when pure sprint trains dominate organized finales.",
+  "vulnerability": "Isolated without lead-out support in organized sprints. Missing from final positioning suggests timing/placement issues when teams execute structured trains. Quick-Step lack of lead-out infrastructure problematic.",
+  "key_patterns": [
+    "Becomes isolated in sprint finals without lead-out, forces early self-positioning (2 observations)",
+    "Capitalizes on chaotic/reduced sprints when favorites boxed or eliminated by splits (2 observations)",
+    "Team provides front tempo work but not structured lead-out train (2 observations)",
+    "Positioning or timing failures evident when missing from organized sprint analysis (2 observations)"
+  ],
+  "form_trajectory": "neutral: showed rapid recovery post-crash in 2017, but 2018 Vuelta reveals persistent isolation issues despite stage win",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "BOUHANNI Nacer",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 2",
+    "2017 Tour de France Stage 10",
+    "2018 Vuelta a Espana Stage 10",
+    "2018 Vuelta a Espana Stage 6",
+    "2018 Vuelta a Espana Stage 6"
+  ]
+}

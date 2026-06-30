@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-20",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR won with a late attack inside final kilometer, but VINGEGAARD marked it easily and limited losses to just 4 seconds despite no teammates.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD conserved energy by sitting on McNulty's wheel all final two climbs instead of sharing pace, defensive masterclass",
+      "POGAČAR waited until steepest 20%+ gradient at 300m to attack, terrain-specific timing failed against superior form",
+      "VAN AERT clinched green jersey at intermediate sprint then Jumbo-Visma immediately shifted 100% focus to yellow jersey defense",
+      "McNulty age 24 paced final two climbs alone for POGAČAR, UAE tactical gamble failed to crack VINGEGAARD"
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: defended yellow with zero teammates on final two climbs, never showed weakness when Pogačar attacked steep gradient",
+      "POGAČAR Tadej": "negative: won stage but only gained 4 seconds despite McNulty's pacing and attacking at optimal 20% gradient",
+      "McNulty Brandon": "positive: 24-year-old set ferocious pace on final two climbs solo, won most aggressive rider, emerging as UAE's super-domestique",
+      "VAN AART Wout": "positive: secured green jersey mathematically at intermediate sprint mid-stage, freed Jumbo-Visma to ignore sprint duties",
+      "MÁJA Rafal": "negative: abandoned at start due to chain snap injury from previous stage, Pogačar lost key climbing support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:22:34.864548+00:00"
+}

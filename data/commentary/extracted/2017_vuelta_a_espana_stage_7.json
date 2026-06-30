@@ -1,0 +1,29 @@
+{
+  "label": "2017 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-25",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MOHORIČ attacked solo on cobblestones entering Cuenca castle with 5km remaining, escaped while ROJAS and SÁNCHEZ marked each other, won on descent.",
+    "winner": "MOHORIČ Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOHORIČ exploited marking contest between ROJAS and SÁNCHEZ on cobblestone approach to castle, decisive move 5km out.",
+      "Team Sky received minimal peloton support despite 7-minute gap at 40km, revealing Sky's isolation without committed leadout riders.",
+      "Dimension Data lost KUDUS and WARBASSE to crashes early, reduced to four riders, neutralizing team tactics for remainder of stage.",
+      "POLJAŃSKI repeated second place from previous stage, suggesting breakaway positioning skill but inability to close final acceleration gaps."
+    ],
+    "rider_signals": {
+      "MOHORIČ Matej": "positive: demonstrated ability to exploit tactical stalemates between rivals, superior descending skills sealed victory after cobble attack",
+      "POLJAŃSKI Paweł": "neutral: consecutive runner-up finishes reveal strong breakaway endurance but lack of decisive final punch",
+      "ROJAS José Joaquín": "negative: tactical marking contest with SÁNCHEZ cost stage victory, allowed third rider to escape unchallenged",
+      "SÁNCHEZ Luis León": "negative: mutual marking with ROJAS enabled MOHORIČ escape, failed to recognize real threat",
+      "DE MARCHI Alessandro": "neutral: placed in 14-rider early break, standard aggressive riding for Movistar domestique role",
+      "KUDUS Merhawi": "negative: abandoned after early crash, dimension data critically weakened for remaining stages",
+      "WARBASSE Larry": "negative: abandoned after early crash, further depleting dimension data's already thin squad"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:19:35.301023+00:00"
+}

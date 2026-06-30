@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic rider who capitalizes on repeated accelerations to shell competitors, timing decisive moves late in reduced sprint situations (3-up). Exploits moments when GC favorites are racing each other rather than launching solo efforts.",
+  "team_tactics": "Operates with autonomy in breakaways, relying on individual race-reading rather than heavy domestique support. Positioned to exploit tactical gaps when team leaders focused elsewhere.",
+  "terrain_preference": "Medium mountain stages where repeated accelerations fragment groups, creating small sprint situations that favor his combination of climbing durability and finishing speed over pure climbers.",
+  "vulnerability": "Lacks explosiveness for single decisive attacks; requires attrition through multiple accelerations to eliminate pure climbers. Dependent on tactical scenarios rather than raw power.",
+  "key_patterns": [
+    "Wins from breakaways after repeated accelerations shell pure climbers like Pozzovivo (2 observations)",
+    "Demonstrates tactical intelligence reading race dynamics and competitor weaknesses (2 observations)",
+    "Targets alternative GC time-gaining opportunities like intermediate bonuses when viable (2 observations)",
+    "Excels in reduced bunch sprints after selection, timing final move precisely (2 observations)"
+  ],
+  "form_trajectory": "unknown: observations span 3-year gap (2018-2021) without sufficient recent data to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SHACHMANN Maximilian",
+  "built_from": [
+    "2018 Giro d'Italia Stage 18",
+    "2018 Giro d'Italia Stage 18",
+    "2021 Paris-Nice Stage 5"
+  ]
+}

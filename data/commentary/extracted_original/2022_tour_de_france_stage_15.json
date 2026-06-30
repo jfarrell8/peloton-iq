@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-17",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won a reduced bunch sprint after GC teams rode tempo all day to prevent crosswind splits, beating WOUT VAN AERT by half a wheel.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma placed GC leader Vingegaard in active chase when breakaway companion Teunissen abandoned, revealing nervous leadership protection.",
+      "GC teams (not sprint trains) controlled finale due to crosswind threat, leaving shortened leadouts that favored positioning over pure speed.",
+      "Wout van Aert racing for stage despite holding green jersey commanding lead suggests team prioritizing morale over energy conservation."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "neutral: crashed but remounted quickly; team lost Kuss and Kruijswijk same stage, significantly weakening Pyrenees support",
+      "VAN AERT Wout": "positive: contested sprint finish despite already controlling green by huge margin, showing exceptional form and confidence",
+      "GROENEWEGEN Dylan": "negative: distanced on minor classified climb, signaling form deficit versus top sprinters heading into final week",
+      "CHRISTOPHE Alexander": "negative: struggling just to hold contact on minor climbs, indicating Cofidis may lack sprint delivery capacity",
+      "THOMAS Benjamin": "neutral: Cofidis gave local rider 500m solo flyer for exposure despite 14-year stage drought, tactical charity gift"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:51:00.857068+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-10",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FERRON Valentin attacked inside final kilometer from 6-rider breakaway, won as experienced riders (Baguio, Rolland, Bagioli) looked at each other instead of chasing",
+    "winner": "FERRON Valentin",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step sent BAGIOLI in break despite being 3:02 down on GC, forcing Jumbo-Visma to control behind entire stage",
+      "Teams successfully eliminated Groenewegen using high tempo and crosswinds before finale, prioritizing rival removal over breakaway control",
+      "Experienced breakaway riders (Baguio, Rolland, Bagioli) hesitated when 24-year-old attacked final kilometer, letting unknown beat World Tour winners"
+    ],
+    "rider_signals": {
+      "BAGIOLI Andrea": "positive: Quick-Step used him as breakaway GC threat at -3:02 to pin Jumbo-Visma, tactical sacrifice for Evenepoel",
+      "GROENEWEGEN Dylan": "negative: Teams successfully collaborated with high tempo and crosswinds to eliminate him before finale again, clear targeting pattern",
+      "LAPORTE Christophe": "positive: Domestique work at 5km despite having won stages himself shows complete team commitment in yellow jersey defense",
+      "FERRON Valentin": "positive: 24-year-old recognized experienced riders' hesitation psychology and attacked final kilometer when others had superior palmares"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:05:21.372659+00:00"
+}

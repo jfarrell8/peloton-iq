@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking patterns. Limited observations show involvement in breakaways but lacks decisive finishing acceleration when it matters.",
+  "team_tactics": "Insufficient observations to determine team support patterns or tactical setup.",
+  "terrain_preference": "Appears suited to stage racing and climbing terrain sufficient to reach final positions, but lacks explosive power on steep accelerations that decide outcomes among climbing specialists.",
+  "vulnerability": "Exposed when pure climbing accelerations occur - unable to respond to sharper attacks from peers like Woods. Conservative racing when defending position suggests concern about finishing speed in direct confrontations.",
+  "key_patterns": [
+    "Defensive positioning when protecting GC placement rather than aggressive racing (2 observations)",
+    "Inferior acceleration compared to climbing specialists in decisive moments (2 observations)",
+    "Capable of reaching front groups but struggles to contest final selection"
+  ],
+  "form_trajectory": "neutral: Secured 2nd overall at Tirreno-Adriatico but defensive approach and inability to respond to accelerations suggests plateau rather than growth",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MICKA Rafal",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 3",
+    "2020 Tirreno Adriatico Stage 8",
+    "2020 Tirreno Adriatico Stage 8"
+  ]
+}

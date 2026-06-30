@@ -4,85 +4,21 @@
   "race_date": "2020-10-04",
   "stage": 2,
   "video": {
-    "video_id": "cpaCW_q7xzI",
-    "title": "Giro d'Italia 2020 | Stage 2 | Highlights",
-    "published": "2020-10-04 17:01:22+00:00",
-    "channel": "Giro d'Italia",
-    "url": "https://youtube.com/watch?v=cpaCW_q7xzI",
-    "match_score": 195.0,
-    "all_candidates": [
-      {
-        "video_id": "cpaCW_q7xzI",
-        "title": "Giro d'Italia 2020 | Stage 2 | Highlights",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-04 17:01:22+00:00",
-        "match_score": 195.0
-      },
-      {
-        "video_id": "ClDme73Y0q8",
-        "title": "Giro d'Italia 2020 | Stage 2 | The Start",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-04 12:25:26+00:00",
-        "match_score": 175.0
-      },
-      {
-        "video_id": "8SVkFQXegjY",
-        "title": "Giro d'Italia 2020 | Stage 2 | Last Km",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-04 15:13:27+00:00",
-        "match_score": 175.0
-      },
-      {
-        "video_id": "Aj2IawGNdus",
-        "title": "Giro d'Italia 2020 | Stage 2 | Best Of",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-04 17:03:43+00:00",
-        "match_score": 175.0
-      },
-      {
-        "video_id": "Pw2Vrlc1np8",
-        "title": "Video Percorso Giro d'Italia 2020 | Stage 21",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-02 13:32:40+00:00",
-        "match_score": 150.0
-      },
-      {
-        "video_id": "o_MJ6wjn6Y4",
-        "title": "Video Percorso Giro d'Italia 2020 | Stage 2",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-01 16:33:03+00:00",
-        "match_score": 150.0
-      },
-      {
-        "video_id": "2Wa3NCUq9IQ",
-        "title": "Giro d'Italia 2020 | Interviews Post Race | Stage 2",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-04 15:46:57+00:00",
-        "match_score": 145.0
-      },
-      {
-        "video_id": "f1ocAEkXXJ4",
-        "title": "Giro d'Italia 2020 | Interviews Pre Race | Stage 2",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-04 12:03:46+00:00",
-        "match_score": 145.0
-      },
-      {
-        "video_id": "fD10Zm_zPBg",
-        "title": "Giro d'Italia 2020 | Stage 1 | Highlights",
-        "channel": "Giro d'Italia",
-        "published": "2020-10-03 16:44:37+00:00",
-        "match_score": 145.0
-      },
-      {
-        "video_id": "2PmATGzzJ54",
-        "title": "Giro d'Italia 2020 - Stage 2 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2020-10-04 20:55:45+00:00",
-        "match_score": 145.0
-      }
-    ]
+    "video_id": "2PmATGzzJ54",
+    "title": "Giro d'Italia 2020 - Stage 2 Highlights | Cycling | Eurosport",
+    "url": "https://youtube.com/watch?v=2PmATGzzJ54",
+    "channel": "playlist_import",
+    "published": "2020-10-04T20:50:38Z",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 78,
+    "raw_chars": 1989,
+    "clean_chars": 1905,
+    "duration_mins": 4.3,
+    "clean_text": "stage two the general italia between alcomo and agrigento a big day for a possible breakaway and in the first opening throws it was a group of five who'd eventually managed to get away those five riders would be finempo de gent gastar vice antonelli and after five kilometers of racing there was a gap that finally opened up with 114 kilometers to go they were preparing for what was to come could you almeida manage to take the pink jersey at the end taking things along the way the first king of the mountains prize went to thomas against he showed himself to be the strongest without doubt from the five men up the road he'd also take the intermediate sprint that would come a little further down the line but coming down the line there was an option for the big sprinters to go for that sprint gabilia went for it the mar behind crashing in third place was elia viviani and just a couple of minutes later simone consondi was also on the ground so two teammates from cophilis crashing before we saw our only abandon of the day alexander vlasov getting into the car feeling unwell stomach trouble forcing him to abandon halfway through the first road stage of this cheeto and after miguel lopez an absolute disaster for astana just six riders left until their biggest names gone the break would be caught with just over eight kilometers to go by the last survivor and it will be a lightning-fast run into the final climb of the day at the finish line huge attack from diego olisi had really broken things up and he'd be the strongest man in the sprint alongside michelle already looking for his first grand tour stage when peter sagan looking for his first zero stage win but it's the man who'd done it on six previous occasions sue made it to seventh seventh heaven for diego lisi raising his arms or lucy and still in the pink jersey people ghana that was stage two what about tomorrow is people a you",
+    "preview_start": "stage two the general italia between alcomo and agrigento a big day for a possible breakaway and in the first opening throws it was a group of five who'd eventually managed to get away those five riders would be finempo de gent gastar vice antonelli and after five kilometers of racing there was a gap that finally opened up with 114 kilometers to go they were preparing for what was to come could you almeida manage to take the pink jersey at the end taking things along the way the first king of th",
+    "preview_end": "o the final climb of the day at the finish line huge attack from diego olisi had really broken things up and he'd be the strongest man in the sprint alongside michelle already looking for his first grand tour stage when peter sagan looking for his first zero stage win but it's the man who'd done it on six previous occasions sue made it to seventh seventh heaven for diego lisi raising his arms or lucy and still in the pink jersey people ghana that was stage two what about tomorrow is people a you"
+  },
+  "status": "transcript_saved"
 }

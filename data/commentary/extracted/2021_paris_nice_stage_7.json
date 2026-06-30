@@ -1,0 +1,29 @@
+{
+  "label": "2021 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-13",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked with approximately 700m remaining on the final climb to Col San Martin, caught solo leader MÄDER inside 20m to go, sealing his third stage win and overall victory.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ deliberately sat on SCHACHMANN's wheel during penultimate acceleration to neutralize him before launching final winning sprint.",
+      "BENNETT infiltrated breakaway for training accelerations specifically targeting Milan-San Remo Poggio preparation, abandoned when caught by peloton.",
+      "BENOOT launched penultimate attack from chase group forcing ROGLIČ to respond before ROGLIČ's decisive counter-acceleration with 700m remaining.",
+      "MÄDER held 18 seconds with 1km remaining but lost on gradient steepening in final 400m when ROGLIČ could deploy sprint power."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: ruthlessly optimized stage hunting after sealing GC, demonstrating climbing sprint power beyond typical GC riders on steep gradients",
+      "SCHACHMANN Maximilian": "neutral: defended second overall but lacked acceleration to counter ROGLIČ's final surge despite attempting to initiate late attacks",
+      "MÄDER Gino": "positive: held off peloton pursuit for entire climb from breakaway but lacks sprint power on steep gradients against pure climbers",
+      "BENOOT Tiesj": "positive: second overall 2020, attacked from chase group forcing ROGLIČ response showing retained climbing form despite not contending GC",
+      "HAMILTON Lucas": "positive: finished fourth isolated from teammates suggesting strong late-race climbing ability under fatigue",
+      "BENNETT Sam": "neutral: used breakaway specifically for Poggio-specific acceleration training intervals, abandoned when peloton caught demonstrating structured preparation",
+      "VANHOUCKE Harm": "positive: strong mountain performance noted at finish suggesting climbing form building despite no podium placement"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:03:57.610356+00:00"
+}

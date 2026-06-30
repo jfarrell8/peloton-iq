@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets intermediate sprints and stage placements rather than outright wins. Shows willingness to contest final sprints from breaks for podium positions.",
+  "team_tactics": "Used as an aggressive domestique in Grand Tours - sent into breakaways to gather time splits, control break dynamics, and collect bonus seconds when opportunities arise without threatening GC.",
+  "terrain_preference": "Breakaway-friendly transitional stages where early moves can succeed. Capable of finishing efforts with sprint contested placements rather than requiring selective climbing terrain.",
+  "vulnerability": "Not a stage winner profile - limited ability to convert breakaway presence into victories. Finishes second or third in reduced sprints rather than dominating.",
+  "key_patterns": [
+    "Multiple breakaway appearances within same Grand Tour, showing repeated deployment pattern (2 observations)",
+    "Targets bonus seconds and time splits rather than stage wins (2 observations)",
+    "Team consistently uses him for early reconnaissance and information gathering (2 observations)",
+    "Finishes second or third in break sprints, not first (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent role execution across 2018-2020 as breakaway domestique without evolution toward stage-winning capability",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PUCCIO Salvatore",
+  "built_from": [
+    "2018 Giro d'Italia Stage 5",
+    "2020 Giro d'Italia Stage 8"
+  ]
+}

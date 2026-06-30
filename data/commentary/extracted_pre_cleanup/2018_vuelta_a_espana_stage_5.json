@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-29",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MOLARD Rudy attacked on the descent from the cat-2 summit with 9km to go, survived a late chase by DE MARCHI Alessandro and CLARKE Simon, and won despite cramping.",
+    "winner": "MOLARD Rudy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MOLARD attacked on descent not summit of cat-2 climb, exploiting hesitation in 25-rider breakaway with poor cooperation",
+      "AMADOR Andrey counter-attacked on final climb but lacked support, revealing GC riders probing without committing teammates",
+      "DE MARCHI and CLARKE bridged to MOLARD but waited too long, allowing him track-racing positioning advantage in final 3km"
+    ],
+    "rider_signals": {
+      "MOLARD Rudy": "positive: won despite cramping when CAMALAMÉR attacked, showing track racing background enables cold tactical calculation under physical duress",
+      "MOLLEMA Bauke": "neutral: flatted at worst possible moment on final climb approach but rejoined, revealing bad luck not weakness",
+      "AMADOR Andrey": "neutral: animated on final climb but lacked teammates to sustain move, suggesting isolated GC probing",
+      "CLARKE Simon": "negative: bridged to winning move but passive in final 3km, suggesting poor sprint after long stages",
+      "DE MARCHI Alessandro": "negative: caught MOLARD on descent but outsmarted in positioning game despite being fast finisher"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:49:30.682694+00:00"
+}

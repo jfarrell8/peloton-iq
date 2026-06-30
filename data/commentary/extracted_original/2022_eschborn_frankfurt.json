@@ -1,0 +1,26 @@
+{
+  "label": "2022 Eschborn-Frankfurt",
+  "race_name": "Eschborn-Frankfurt",
+  "race_date": "2022-05-01",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won after VAN POPPEL Danny delivered a perfectly timed leadout, exploiting KRISTOFF's inability to come around despite positioning in the slipstream.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ZIMMERMAN Gael attacked mid-race attempting to fracture peloton before finale, suggesting early aggression to shed sprinters' leadout trains.",
+      "BORA positioned KRISTOFF in GERMAINE Biniam's wheel after Wright's leadout, revealing their reluctance to commit VAN POPPEL early.",
+      "REINDEERS Jens participated in both breakaways then regrouped post-Mammalstein, exploiting double-break tactic to exhaust peloton control teams."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: return to top form after difficult season, suggests previous struggles were form not ability",
+      "VAN POPPEL Danny": "positive: executed leadout so dominant he could sit up celebrating, elevating BORA's sprint train credibility",
+      "KRISTOFF Alexander": "neutral: positioned perfectly in GERMAINE's wheel but couldn't convert, indicating slight power decline despite tactical acumen",
+      "GERMAINE Biniam": "negative: led out too early on city circuit, burned matches without support infrastructure for technical finish",
+      "REINDEERS Jens": "positive: survived two breakaways including regrouping after dropped, signals exceptional diesel engine for future escape tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:36:50.716226+00:00"
+}

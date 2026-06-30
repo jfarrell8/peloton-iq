@@ -1,0 +1,30 @@
+{
+  "label": "2020 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-17",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI won Stage 18 to La Roche-sur-Foron after CARAPAZ attacked wrong-side of a roundabout and was caught late by regrouping teammates.",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CARAPAZ exploited roundabout geometry to attack opposite side, gaining lengths before HIRSCHI could react to tactical positioning.",
+      "INEOS sacrificed KWIATKOWSKI mountain points to HIRSCHI early, banking teammate for late regrouping after CARAPAZ breakaway failed.",
+      "BENNETT consistently beats SAGAN in identical sprint conditions, revealing pure speed differential not leadout or positioning advantage.",
+      "LANDA vaulted to fifth overall exclusively through YATES abandonment, exposing team depth failure when single GC leader cracks."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michał": "positive: First Tour stage win at 30 proves veteran value for stage hunting when released from pure domestique duties.",
+      "CARAPAZ Richard": "positive: Took KOM jersey through aggressive descending risk-taking rather than climbing superiority, reveals multi-terrain calculation.",
+      "HIRSCHI Marc": "positive: Matched CARAPAZ across all intermediate sprints despite teammate interference, showing KOM threat sustainability beyond single-stage efforts.",
+      "BENNETT Sam": "positive: Clean speed advantage over SAGAN in identical sprint setups confirms green jersey dominance through watts not tactics.",
+      "POGAČAR Tadej": "neutral: Defended white jersey passively while ROGLIČ strengthened, suggesting Saturday TT focus over stage hunting.",
+      "ROGLIČ Primož": "positive: Dropped teammate KUSS on final climb while extending GC gap, signaling overcapacity reserves before decisive TT.",
+      "YATES Adam": "negative: Abandonment from fifth overall exposes single-leader team fragility when altitude accumulation breaks climber unexpectedly.",
+      "LANDA Mikel": "neutral: Fifth overall gained through YATES abandonment not performance, reveals opportunistic GC positioning without threatening attacks."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:36:00.531427+00:00"
+}

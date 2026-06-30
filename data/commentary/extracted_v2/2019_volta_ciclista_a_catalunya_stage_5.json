@@ -1,0 +1,16 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 5",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-29",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "No race action covered; documentary segment on Matthews' career and mental coaching approach from 2018-2019 period.",
+    "winner": "N/A",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:05:46.946019+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late attacker from established breakaways, striking inside final 1km when peloton positioning compresses. Prefers exploiting tactical chaos over pure power moves.",
+  "team_tactics": "Insufficient data - observed as lone wolf in breakaway rather than team-supported effort. No visible team setup patterns detected.",
+  "terrain_preference": "Courses with multiple KOM contests that drain breakaway rivals but allow riders with superior endurance to survive for final sprint. Mixed terrain stages favor his profile.",
+  "vulnerability": "Unknown in pure climbing scenarios or head-to-head sprint finishes. Likely vulnerable when peloton has clean run to chase down breaks without positioning complications.",
+  "key_patterns": [
+    "Conserves energy in early breakaways despite KOM contests, striking only in finale (2 observations)",
+    "Exploits peloton positioning chaos and compression rather than attacking on open road (2 observations)",
+    "Shows unexpected endurance sustaining multi-hour breakaway efforts through mountainous terrain (2 observations)"
+  ],
+  "form_trajectory": "unknown: Single race data from 2017 shows strong breakaway capacity and tactical awareness, but no trajectory visible",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "POLLBURGGER Lukas",
+  "built_from": [
+    "2017 Giro d'Italia Stage 1",
+    "2017 Giro d'Italia Stage 1"
+  ]
+}

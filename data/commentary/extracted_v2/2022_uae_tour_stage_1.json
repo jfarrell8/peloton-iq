@@ -1,0 +1,26 @@
+{
+  "label": "2022 UAE Tour Stage 1",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-20",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won from Alpecin-Fenix leadout after UAE and BikeExchange trains burned out, GROENEWEGEN and BENNETT badly out of position.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE and BikeExchange led early sprint organization but lacked depth to hold position through final kilometer chaos.",
+      "Alpecin-Fenix deliberately stayed patient while rivals exhausted leadouts, striking late with fresh Philipsen train.",
+      "Bennett positioned at rear with entire team suggests Bora deliberately avoiding early positioning battles on arrow-straight 60km run-in."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: finished extraordinarily strongly from terrible position, knee injury concerns seemingly resolved",
+      "GROENEWEGEN Dylan": "negative: had Alpecin-Fenix leadout but lost Philipsen's wheel at barriers, suggests positioning panic rather than form issue",
+      "ACKERMANN Pascal": "negative: UAE built entire train for home race debut but Ackermann faded badly when Philipsen launched",
+      "CAVENDISH Mark": "negative: just fading mentioned separately from positioning problems implies leg speed deficit not tactical error",
+      "STRAKHOV Dmitry": "neutral: Gazprom rider took both intermediate sprints from break to secure bonus seconds for GC placement"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:28:53.159333+00:00"
+}

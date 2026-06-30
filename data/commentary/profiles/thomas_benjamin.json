@@ -1,19 +1,25 @@
 {
-  "attacking_style": "Limited attacking profile observed; appears to be given token opportunities for exposure rather than genuine winning attempts. No sustained climbing or sprint acceleration evident.",
-  "team_tactics": "Cofidis uses Thomas for publicity moments (local rider showcases) rather than protected leadership. Appears to be a domestique or lower-tier roster rider given limited team support.",
-  "terrain_preference": "Insufficient data to determine clear terrain preference. Struggles to follow accelerations on climbs (unable to match Barguil's pace at Tirreno-Adriatico).",
-  "vulnerability": "Cannot respond to accelerations when pace intensifies on climbs. Large time deficits (1:08+) suggest struggles in mountain stages. Lacks finishing power for competitive results.",
+  "attacking_style": "Specializes in opportunistic late-race attacks, typically launching inside final 3km or even sub-500m when sprint teams are disorganized or exhausted. Favors surprise timing over sustained climbing attacks.",
+  "team_tactics": "Cofidis employs him in speculative breakaway gambits even when significant time down, forcing rivals to expend domestique resources. Operates with autonomy to seize late-race chaos rather than structured leadouts.",
+  "terrain_preference": "Circuit races and stages with chaotic finales where sprint teams fragment. Struggles on pure descending speed despite KOM ability. Best when technical positioning trumps raw power.",
+  "vulnerability": "Tactical hesitation in final kilometer when in winning position. Lacks descending speed to capitalize on climbing gains. Ineffective when peloton maintains high, organized speeds into finales.",
   "key_patterns": [
-    "Given symbolic breakaway opportunities rather than serious winning chances (Tour, Tirreno observations)",
-    "Unable to follow when stronger climbers accelerate on decisive moments",
-    "Team prioritizes PR value over competitive positioning for this rider"
+    "Launches surprise attacks sub-1km when sprint teams disorganized, nearly stealing stages. (2 instances)",
+    "Shows KOM climbing ability but cannot convert on technical descents against specialists. (2 instances)",
+    "Teams force rival resource commitment through speculative breakaway presence despite time deficits. (2 instances)",
+    "Attacks inside final 3km repeatedly fail when peloton speeds remain high and organized. (2 instances)",
+    "Final kilometer tactical hesitation costs potential victories when in winning positions. (2 instances)"
   ],
-  "form_trajectory": "neutral: Limited data but shows consistent domestique role without competitive results across Grand Tour and stage race",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2022 shows increased late-race aggression and near-victories, but persistent final-kilometer hesitation prevents breakthrough. Domestique role limits consistent opportunities.",
+  "races_analysed": 5,
+  "confidence": "medium",
   "rider_name": "THOMAS Benjamin",
   "built_from": [
+    "2019 Tour de Romandie Stage 3",
+    "2021 Tour de Suisse Stage 4",
+    "2022 Criterium du Dauphine Stage 5",
     "2022 Tirreno-Adriatico Stage 5",
+    "2022 Tour de France Stage 15",
     "2022 Tour de France Stage 15"
   ]
 }

@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 9,
+    "raw_chars": 209,
+    "clean_chars": 185,
+    "duration_mins": 1.5,
+    "clean_text": "is that a good set into the base now and speed up set into the base 5k Audrey this is good clearance on a party every Ally anytime you're getting time away on love 5 LH very close party",
+    "preview_start": "is that a good set into the base now and speed up set into the base 5k Audrey this is good clearance on a party every Ally anytime you're getting time away on love 5 LH very close party",
+    "preview_end": "is that a good set into the base now and speed up set into the base 5k Audrey this is good clearance on a party every Ally anytime you're getting time away on love 5 LH very close party"
+  },
+  "status": "transcript_saved"
 }

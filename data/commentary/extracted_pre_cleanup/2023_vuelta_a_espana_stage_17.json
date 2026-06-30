@@ -1,0 +1,30 @@
+{
+  "label": "2023 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won Stage 17 with VINGEGAARD Jonas on his wheel, burning matches for personal glory while teammate KUSS Sepp defended red by 19 seconds, preserving an 8-second GC lead.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC prioritized stage win over team preservation with 100m sprint against VINGEGAARD, risking KUSS's red jersey for personal palmares.",
+      "EVENEPOEL Remco conceded massive time previous day wearing rain jacket entire stage, securing freedom for future breakaway attempts from jumbo oversight.",
+      "UAE sent SOLER Marc early attack before main climb to force jumbo pacing, revealing team depth strategy against numerically superior opponent.",
+      "KUSS held podium position by only 19 seconds after teammates took time bonuses, exposing leader vulnerability when domestiques chase glory.",
+      "LANDA Mikel closed gap on descent after being dropped on steep section, demonstrating technical skill compensates for climbing deficit on Angliru."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: Won stage with second-fastest Angliru ascent ever, but prioritizing victory over team tactics signals confidence or internal tension.",
+      "VINGEGAARD Jonas": "positive: Followed ROGLIC wheel to second place, taking 6-second time bonus that directly threatened own teammate KUSS's red jersey.",
+      "KUSS Sepp": "neutral: Retained red jersey by only 8 seconds after teammates took bonuses, fighting desperately on steep gradients suggesting defensive vulnerability remains.",
+      "EVENEPOEL Remco": "positive: Strategic time concession previous stage wearing rain jacket bought freedom for breakaway hunting, suggesting calculated GC sacrifice for stage opportunities.",
+      "SOLER Marc": "positive: Deployed as early danger attack by UAE before main climb to force jumbo pacing response, tactical weapon despite GC position.",
+      "LANDA Mikel": "positive: Descended technical roads after being dropped to close back within striking distance, revealing descending as weapon on technical finishes.",
+      "AYUSO Juan": "negative: Lost significant time on Angliru steep sections, dropping from comfortable fourth to 4+ minutes deficit, exposing inexperience on extreme gradients."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:33:01.857524+00:00"
+}

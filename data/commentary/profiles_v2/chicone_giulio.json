@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Goes early in breakaway formations, capable of sustaining long-range efforts to hold off chasers by significant margins (2+ minutes).",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from single race observation.",
+  "terrain_preference": "Unknown specific terrain from available data, though demonstrated ability to defend breakaway advantages over quality climbers.",
+  "vulnerability": "Theoretical fatigue risk from Grand Tour doubles proved unfounded; actual vulnerabilities not exposed in observed performance.",
+  "key_patterns": [
+    "Capable of racing double Grand Tours in same season without significant form loss",
+    "Willing to commit to early breakaway moves rather than waiting for selective moments",
+    "Can time trial effectively enough to hold 2+ minute advantages to finish"
+  ],
+  "form_trajectory": "positive: defied fatigue expectations racing Tour post-Giro, won stage and took yellow jersey",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CHICONE Giulio",
+  "built_from": [
+    "2019 Tour de France Stage 6",
+    "2019 Tour de France Stage 6"
+  ]
+}

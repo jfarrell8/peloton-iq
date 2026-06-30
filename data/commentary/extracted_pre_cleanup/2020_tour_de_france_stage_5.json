@@ -1,0 +1,29 @@
+{
+  "label": "2020 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-02",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won a 183km stage to Privas in a bunch sprint after INEOS and JUMBO-VISMA imposed a ferocious pace in crosswinds late in the stage to splinter the field.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS and JUMBO-VISMA orchestrated brutal crosswind attacks inside final 20km specifically to fracture sprinter positioning, not GC.",
+      "VAN AERT positioned himself in leadout trains rather than relying on dedicated leadout, exploiting sprinter team chaos from earlier splits.",
+      "Intermediate sprint saw sprinter teams fully committed early, suggesting they anticipated crosswind aggression would deplete leadout resources later.",
+      "SCHÄR Michael launched decoy attack inside 2km to isolate TRENTIN Matteo as sole CCC threat, forcing rivals to chase."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Worked for team in crosswinds then still won sprint, proving diesel engine sprint power after high tempo",
+      "BOL Cees": "positive: SUNWEB leadout delivered him to perfect third-wheel position inside 1km, lost only to superior finishing speed",
+      "BENNETT Sam": "positive: Third place from chaos positioning suggests superior opportunistic sprint instincts when traditional trains collapse",
+      "SAGAN Peter": "negative: Started sprint too late or lacked power against VAN AERT, troubling sign given intermediate sprint deficit already",
+      "EWAN Caleb": "negative: Eased up before line despite being well-positioned left barriers inside final km, suggests crosswind effort damaged him",
+      "MEZGEC Luka": "neutral: MITCHELTON-SCOTT invested leadout effort but sprinter finished sixth, indicating team miscalculation or rider form deficit",
+      "TRENTIN Matteo": "negative: Despite SCHÄR decoy attack for position, could only scramble on inside barriers without organized delivery"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:37:50.660779+00:00"
+}

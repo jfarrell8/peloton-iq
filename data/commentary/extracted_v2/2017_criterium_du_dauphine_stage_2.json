@@ -1,0 +1,24 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-05",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DEMARE Arnaud won the sprint finish after LUTSENKO Alexey's solo attack from the breakaway was caught on the final circuit with under 1km to go.",
+    "winner": "DEMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto-Soudal and Direct Energie controlled peloton tightly after Stage 1 lesson, keeping 4-man break under 1 minute at 31km.",
+      "LUTSENKO attacked solo from breakaway group on final circuit, showing Astana willing to sacrifice break cooperation for individual glory.",
+      "Sprinters' teams waited until 4.6km finishing circuit to reel in break, timing control tighter than typical flat stage."
+    ],
+    "rider_signals": {
+      "DEMARE Arnaud": "positive: Won sprint despite claiming heavy legs from hard opening 100km, suggesting superior recovery compared to pure sprinters",
+      "BOUHANNI Nacer": "positive: Third place one month post-Yorkshire crash shows rapidly improving form trajectory toward Tour",
+      "BROWN Nathan": "neutral: Cannondale allowed him to take virtual yellow in break, revealing team prioritizes stage hunting over GC protection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:53:19.647712+00:00"
+}

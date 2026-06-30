@@ -1,0 +1,27 @@
+{
+  "label": "2017 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo won from four-rider breakaway sprint after TERPSTRA attacked final descent to reduce group, using ROJAS as descending pilot.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TERPSTRA attacked final descent to shed rivals, reducing four to trio before being caught, classic Quick-Step attrition strategy.",
+      "TRENTIN deliberately followed ROJAS through technical descent rather than leading, exploiting local rider's superior descending to distance others.",
+      "Eighteen-rider breakaway required 80km to establish, suggesting peloton indecision or conflicting team interests on transitional stages.",
+      "ROCHE gained 29 seconds on FROOME despite peloton finish, indicating Sky lacked motivation to control pace on breakaway stage."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Second stage win reveals exceptional tactical intelligence to use rivals as pace pilots before decisive sprint.",
+      "TERPSTRA Niki": "positive: Initiated winning move on final descent despite cramping later, showing Quick-Step's coordinated breakaway aggression.",
+      "ROJAS José Joaquín": "neutral: Strong descending intimidated rivals but couldn't convert advantage to stage win when isolated from teammates.",
+      "ROCHE Nicolas": "positive: Gaining 29 seconds on red jersey group in breakaway stage signals emerging GC threat beyond initial expectations.",
+      "FROOME Chris": "negative: Lost time to ROCHE on controlled stage suggests Sky unwilling to defend lead aggressively on intermediate terrain."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:15:53.744742+00:00"
+}

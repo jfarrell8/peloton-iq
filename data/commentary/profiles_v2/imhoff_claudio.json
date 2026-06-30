@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Willing to commit to ultra-long solo breakaways (100km+), showing track racing aggression translated to road racing. Goes early rather than waiting for decisive moments.",
+  "team_tactics": "Appears to operate with freedom for individual breakaway attempts rather than being deployed as a domestique. Limited evidence of coordinated team support.",
+  "terrain_preference": "Track specialist background suggests suitability for tempo-controlled stages and time trials rather than sustained mountainous breakaways where mechanicals and endurance become critical.",
+  "vulnerability": "Mechanical reliability issues have derailed promising breakaway efforts. Sustainability over 100km+ solo efforts questionable despite willingness to commit. KOM jersey ambitions undermined by equipment failures.",
+  "key_patterns": [
+    "Commits to extremely long solo breakaways exceeding 100km (2 observations)",
+    "Mechanical issues have ended promising efforts, suggesting equipment or positioning vulnerabilities (2 observations)",
+    "Targets KOM classification through early, sustained breakaway presence rather than tactical climbing (2 observations)"
+  ],
+  "form_trajectory": "unknown: Both observations from same race week affected by mechanicals, making true form assessment impossible",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "IMHOFF Claudio",
+  "built_from": [
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 5"
+  ]
+}

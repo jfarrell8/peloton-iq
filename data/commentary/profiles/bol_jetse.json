@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Breakaway specialist who targets intermediate sprints and stage placements rather than outright wins. Operates from long-range moves but calculates effort expenditure carefully.",
+  "team_tactics": "Appears to operate with autonomy in breakaways, using team resources minimally. Focuses on individual opportunities rather than coordinated team attacks.",
+  "terrain_preference": "Stages suited to breakaway success where intermediate sprints offer value. Capable of lasting in breaks over varied terrain but not targeting summit finishes.",
+  "vulnerability": "Not a pure finisher—prioritizes intermediate points over stage wins. Likely struggles when breaks are controlled tightly or in pure sprint/climbing specialist scenarios.",
+  "key_patterns": [
+    "Takes intermediate sprints from breakaways across multiple Grand Tours (2019, 2021, 2023 confirmed)",
+    "Demonstrates calculated energy management: shelters late in breaks, conserves for placement over victory",
+    "Targets bonus money/points opportunistically rather than stage wins in Grand Tour context"
+  ],
+  "form_trajectory": "neutral: 2023 observation shows continuation of established breakaway/sprint pattern without elevation or decline in approach",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BOL Jetse",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 5",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2023 Volta Ciclista a Catalunya Stage 1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who attacks from small groups in the final kilometer, particularly on climbs. Shows tactical sharpness with late-race positioning (300m attacks) after multi-climb attrition.",
+  "team_tactics": "Given freedom to contest secondary classifications (KOM) and breakaway stage wins when team leader not in contention. Team prioritizes opportunistic gains over GC support in specific stages.",
+  "terrain_preference": "Multi-climb mountain stages that create attrition and reduce bunch size. Excels in breakaway scenarios with 5-10 riders on final climbs where positioning and timing matter more than raw power.",
+  "vulnerability": "Susceptible to pure power attacks from GC contenders in final meters (held off Evenepoel only by margins). Effectiveness depends on breakaway freedom rather than leading from distance.",
+  "key_patterns": [
+    "Contests secondary classifications via breakaways when team strategy allows (KOM points, stage hunting)",
+    "Attacks from small groups inside final kilometer on climbs, using positioning over sustained efforts",
+    "Shows strongest form after multi-climb attrition reduces field to select groups"
+  ],
+  "form_trajectory": "positive: 2023 Vuelta stage win demonstrated evolved tactical sharpness and ability to execute against top GC riders",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "POELS Wout",
+  "built_from": [
+    "2021 Tour de France Stage 15",
+    "2023 La Vuelta Ciclista a Espana Stage 20",
+    "2023 La Vuelta Ciclista a Espana Stage 20"
+  ]
+}

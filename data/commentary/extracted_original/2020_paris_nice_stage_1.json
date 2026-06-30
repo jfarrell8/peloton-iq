@@ -1,0 +1,26 @@
+{
+  "label": "2020 Paris - Nice Stage 1",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-08",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SCHACHMANN Max won from reduced group after ALAPHILIPPE Julian's 50km breakaway attempt with SOLER exhausted him before final kilometer",
+    "winner": "SCHACHMANN Max",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alaphilippe attacked at intermediate sprint with Soler, bridged 20+ seconds gap, but burned matches before finale allowing Schachmann win.",
+      "Seven absent teams created coordination vacuum enabling persistent splits from 50km out; EF/Trek forced prolonged chase without domestiques.",
+      "Bora delivered Schachmann to front group despite Sagan weakness, showing GC rider prioritization over depleted sprint train."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: burned himself attacking 30km out for bonus seconds, had nothing left when group caught him in final kilometer",
+      "SCHACHMANN Max": "positive: positioned perfectly on Teunissen wheel with 150m out, suggesting superior race reading when strongest riders emptied",
+      "SAGAN Peter": "negative: explicitly noted as not looking himself, Bora ignored him entirely for Schachmann GC ambitions",
+      "PORTE Richie": "negative: caught out in split at 50km despite predictable wind/terrain, poor positioning for supposed GC contender",
+      "NIBALI Vincenzo": "negative: also caught in 50km split alongside Porte, raises questions about Trek's front-of-race awareness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:23:03.106076+00:00"
+}

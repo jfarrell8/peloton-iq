@@ -1,0 +1,21 @@
+{
+  "label": "2021 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-01-01",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BISSEGGER Stefan won the Stage 1 time trial on his local training roads despite struggling in TT preparation just two weeks prior.",
+    "winner": "BISSEGGER Stefan",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BISSEGGER's form peaked rapidly in final two weeks after struggling early in TT-specific training block, suggesting late-peaking protocol.",
+      "Local course knowledge proved decisive as BISSEGGER executed pre-planned strategy perfectly on daily training roads near home."
+    ],
+    "rider_signals": {
+      "BISSEGGER Stefan": "positive: extreme form progression within 14-day window from struggling in TT training to winning, indicates successful taper protocol"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:13:14.823707+00:00"
+}

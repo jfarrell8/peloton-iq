@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Deploys in early breakaways rather than late-race attacks, using positioning to bridge between breakaway groups and team leaders. When attacking climbs, shows animation on final ascents but typically as probing moves rather than committed efforts.",
+  "team_tactics": "Primary role as high-altitude domestique and tactical placement tool—positioned in breakaways to provide assistance when leaders bridge up. Executes chase group work to defend team GC positions. Limited dedicated team support for personal moves.",
+  "terrain_preference": "Mountain stages where breakaway tactics can be leveraged into team support roles. Functions best when breakaway positioning allows him to assist leaders on climbs rather than riding tempo in the peloton.",
+  "vulnerability": "Isolated on climbs without teammate support—unable to sustain moves when animated. Personal attacks lack the backing needed to succeed, suggesting weakness when required to finish moves alone.",
+  "key_patterns": [
+    "Breakaway positioning used strategically across multiple Grand Tours to assist team leaders (3 instances)",
+    "Consecutive-day breakaway aggression as Movistar pressure tactic, not personal ambition (2 instances)",
+    "Strong chase/defensive work for team GC rather than personal results focus (2 instances)",
+    "Counter-attacks on final climbs lack support and fail to develop fully (2 instances)"
+  ],
+  "form_trajectory": "positive: 2020 Vuelta showed spectacular domestique form depth with effective chase work defending Carapaz, suggesting peak utility role execution",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "AMADOR Andrey",
+  "built_from": [
+    "2018 Tour de France Stage 19",
+    "2018 Vuelta a Espana Stage 5",
+    "2018 Vuelta a Espana Stage 5",
+    "2019 Giro d'Italia Stage 14",
+    "2020 Vuelta a Espana Stage 7"
+  ]
+}

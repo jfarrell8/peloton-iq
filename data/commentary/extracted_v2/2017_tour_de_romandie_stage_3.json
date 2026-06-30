@@ -1,0 +1,23 @@
+{
+  "label": "2017 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2017-04-28",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MYLECHKIN Jakob took his 12th career stage win in a sprint finish, with MARINI holding leaders jersey by 1 second over MYLECHKIN",
+    "winner": "MYLECHKIN Jakob",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Winner and Unitedhealthcare attempted attacks on flat run-in but terrain too benign, reconfirming need for gradient for selection",
+      "Japanese rider OSHIMA successfully led out MARINI despite sprint finish chaos, showing Asian-European team collaboration functional"
+    ],
+    "rider_signals": {
+      "MARINI Nicolas": "positive: Leading GC by 1 second while hunting contract shows mental composure under dual pressure of results and employment",
+      "MYLECHKIN Jakob": "positive: 12 stage wins across 8 race editions reveals unmatched Asian circuit sprint dominance, 7 wins in single early edition",
+      "HILL Ben": "neutral: Accumulated bonus seconds from breakaways across multiple stages, positioning via intermediate sprints rather than GC rides"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:10:06.702295+00:00"
+}

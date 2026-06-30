@@ -1,0 +1,25 @@
+{
+  "label": "2021 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SENECHAL Florian won after JAKOBSEN Fabio suffered a mechanical inside 2km, Deceuninck's lead-out speed so high they won without their designated sprinter.",
+    "winner": "SENECHAL Florian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck lead-out speed from 3km was so extreme it dropped their own sprinter JAKOBSEN yet still secured victory.",
+      "BERNAL Egan and overall contenders lost 6+ seconds by missing the Deceuninck acceleration before final 2km, revealing positioning vulnerability.",
+      "KNOX James as domestique setting flat-stage pace for GC team signals Deceuninck prioritizes positioning control over sprint train conservation."
+    ],
+    "rider_signals": {
+      "SENECHAL Florian": "positive: converted domestique role into opportunistic sprint win when lead-out speed dropped designated sprinter JAKOBSEN",
+      "JAKOBSEN Fabio": "negative: mechanical inside 2km after team executed perfect lead-out reveals equipment vulnerability at critical moments",
+      "BERNAL Egan": "negative: caught behind split at 6 seconds, failed to follow Deceuninck acceleration showing poor flat-stage positioning instincts",
+      "TRENTIN Matteo": "positive: positioned third wheel behind Deceuninck train without teammates, showing individual sprint positioning skill"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:17:46.615540+00:00"
+}

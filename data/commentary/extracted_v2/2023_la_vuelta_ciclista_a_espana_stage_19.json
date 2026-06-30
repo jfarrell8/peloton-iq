@@ -1,0 +1,25 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 19",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-15",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CONSONNI Simone won flat Stage 19 sprint after late crash at 2.3km eliminated lead-out trains, beating GANNA by 3/4 bike length without organized support",
+    "winner": "CONSONNI Simone",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway held at 2-minute maximum on flat stage, suggesting Alpecin-Deceuninck calculated wind risk warranted controlling tempo despite flat profile.",
+      "Late crash at 2.3km right-hander eliminated lead-out trains, creating disorganized sprint favoring opportunistic riders without structured position.",
+      "GROVES contested intermediate sprint at distance despite being pure sprinter, revealing green jersey vulnerability concerns despite large points margin."
+    ],
+    "rider_signals": {
+      "CONSONNI Simone": "positive: Won without lead-out train after crash disruption, showing ability to improvise in chaotic sprint situations",
+      "GROVES Caden": "neutral: Avoided crash injury but crashed bike suggests positional error at critical 2.3km corner with organized lead-out",
+      "GANNA Filippo": "positive: Nearly won bunch sprint despite being time trial specialist, indicating exceptional form beyond TT discipline",
+      "EVENEPOEL Remco": "neutral: Did not contest intermediate sprint despite green jersey mathematical possibility, confirming GC conservation priority over points competition"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:48:57.961394+00:00"
+}

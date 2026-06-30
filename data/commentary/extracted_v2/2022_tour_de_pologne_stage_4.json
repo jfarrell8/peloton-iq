@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-08-02",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl won from reduced bunch after attack at line, beating MATTHEWS on final climb that shed pure sprinters like PASQUALON.",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "EF Education-EasyPost controlled breakaway margin under 1:30 throughout to ensure reduced sprint finish, not pure leadout.",
+      "Final climb steep enough to distance PASQUALON-type sprinters but WILLIAMS rejoined through clever positioning before summit.",
+      "REICHENBACH's late attack created launch platform for IMPEY's winning move, showing Israel-PremierTech coordinated 1-2 punch."
+    ],
+    "rider_signals": {
+      "IMPEY Daryl": "positive: 37-year-old shows climb-sprint hybrid still competitive when EF sets up selective finish",
+      "WILLIAMS Stephen": "positive: despite being distanced on final climb, tactical positioning allowed rejoin before summit attacks",
+      "PASQUALON Andrea": "negative: dropped on final climb that faster puncheurs handled, confirming limitation on even moderate gradients",
+      "REICHENBACH Sebastian": "neutral: attack didn't stick but created chaos enabling IMPEY's winning move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:25:50.250275+00:00"
+}

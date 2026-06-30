@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Suited to long-range breakaway efforts leveraging time trial power rather than explosive short attacks. Displays diesel engine characteristics, sustaining efforts into final kilometers but lacking sprint finish.",
+  "team_tactics": "Consistently prioritizes team leader support over personal ambitions, executing early aggressive moves to control race before key climbs. Willing to sacrifice own chances when leader is in contention or already dropped.",
+  "terrain_preference": "Strong on sustained climbs and rolling classics terrain where TT power transfers effectively. Technical corners and positioning battles in nervous peloton phases expose weaknesses.",
+  "vulnerability": "Positioning errors leading to crashes on technical sections (2020, 2022). Lacks ability to convert strong domestique work into personal results when given freedom. Compromised in scenarios requiring explosive accelerations.",
+  "key_patterns": [
+    "Sacrifices personal ambitions for team leaders across multiple seasons and teams (2023 RVV, 2019 Oman)",
+    "Uses time trial engine to extend breakaway gaps and stress pelotons (2019 Oman, 2018 Guangxi)",
+    "Demonstrates climbing strength beyond typical domestique expectations (2022 Paris-Nice podium, sustained breakaways)",
+    "Crashes on technical sections during positioning work, twice compromising team strategy (2020, 2022)",
+    "Executes early aggressive tactics before main climbs to control race tempo (2022 RVV)"
+  ],
+  "form_trajectory": "neutral: 2023 shows continued domestique role excellence but no evolution toward personal results. Tactical discipline remains but positioning vulnerabilities persist from 2020-2022.",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "VAN HOOYDONCK Nathan",
+  "built_from": [
+    "2018 Tour of Guangxi Stage 3",
+    "2019 Tour of Oman Stage 4",
+    "2019 Tour of Oman Stage 6",
+    "2019 Tour of Oman Stage 6",
+    "2020 BinckBank Tour Stage 1",
+    "2022 Amstel Gold Race",
+    "2022 Paris-Nice Stage 1",
+    "2022 Ronde van Vlaanderen - Tour des Flandres",
+    "2023 Paris-Nice Stage 2",
+    "2023 Ronde van Vlaanderen - Tour des Flandres"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARUSO Damiano timed his solo breakaway perfectly, holding off ROGLIC Primoz by 1:05 on the Velefique MTF despite minimal gap entering the climb.",
+    "winner": "CARUSO Damiano",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Ineos replaced Jumbo-Visma pacemaking on lower Velefique slopes, signaling they rejected Jumbo's deliberately soft tempo favoring breakaway survival.",
+      "CARUSO's gap reached 5:15 mid-stage but only 1.5min on GC-equivalent time, indicating Jumbo calculated exact threshold for stage win.",
+      "ROGLIC sprinted for time bonuses at MTF despite stage loss, prioritizing 6-second gains over chasing when outcome uncertain."
+    ],
+    "rider_signals": {
+      "YATES Adam": "neutral: identified as having 'least to lose' suggesting Ineos already writing off his GC, focusing aggression elsewhere",
+      "BERNAL Egan": "negative: cracked badly losing 1:11 to Roglic on Velefique, forced Ineos to 'go back to drawing board' mid-race",
+      "HAGUE Jack": "positive: unexpected best-of-rest ride for Bahrain after Landa struggles, emerged as alternative protected rider",
+      "CARUSO Damiano": "positive: held 1:05 advantage despite only 1.5min GC-equivalent buffer entering final climb, perfect energy management from domestique role",
+      "ROGLIC Primoz": "positive: sprinted for time bonuses even after stage loss sealed, maximizing every marginal gain opportunity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:03:36.005718+00:00"
+}

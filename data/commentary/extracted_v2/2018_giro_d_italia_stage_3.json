@@ -1,0 +1,25 @@
+{
+  "label": "2018 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-06",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the bunch sprint for the second consecutive day, beating MODOLO and BENNETT after Quick-Step controlled the finale",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step deliberately asked teammates via radio whether Viviani was out of position, suggesting psychological warfare or positioning feint.",
+      "Barbin strategically sat in breakaway refusing to work, solely focused on collecting KOM points to defend jersey from Boivin.",
+      "Bahrain-Merida rode above threshold pace in peloton middle kilometers despite flat stage, unusual energy expenditure for non-sprint team."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: held composure through tactical right-hander 200m out while others opened early, won despite barrier contact",
+      "BENNETT Sam": "neutral: third place shows consistent positioning but unable to match Viviani's late acceleration in technical finish",
+      "FRAPPORTI Marco": "positive: attacked for breakaway KOM points showing opportunistic racing despite minimal overall reward",
+      "BARBIN Enrico": "neutral: conservative breakaway tactics prioritizing jersey defense over stage ambition reveals limited capabilities"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:21:37.023690+00:00"
+}

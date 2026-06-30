@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-15",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MAS Enric attacked LÓPEZ Miguel Ángel on the final corners of the Alto de Balcón de Bizkaia, studying Valverde's 2012 victory tape to time his sprint perfectly.",
+    "winner": "MAS Enric",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Simon attacked when VALVERDE couldn't respond, knowing repeated visual presence of rival creates psychological pressure regardless of legs.",
+      "MAS Enric pre-studied 2012 finish footage to identify exact corner where early sprint would close door on LÓPEZ before final straight.",
+      "QUINTANA Nairo deliberately waited for VALVERDE rather than following moves, suggesting tactical collaboration to protect Spanish GC positions."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Dominated both final mountain stage and prior day, showing Grand Tour winners can peak twice when first attempt (Giro) ends badly.",
+      "MAS Enric": "positive: Tactically sophisticated beyond age, using video study to execute precise corner-based attack that neutralized LÓPEZ's superior sprint.",
+      "LÓPEZ Miguel Ángel": "positive: Aggressive GC move trying to overcome 31-second deficit on penultimate stage shows willingness to gamble when mathematics require it.",
+      "VALVERDE Alejandro": "negative: Lost 32 seconds immediately when YATES attacked, then bled time to lose nearly 4.5 minutes, indicating complete form collapse.",
+      "QUINTANA Nairo": "neutral: Dropped back without apparent physical distress to pace VALVERDE, sacrificing own result for team GC protection."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:48:52.052724+00:00"
+}

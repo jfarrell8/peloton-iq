@@ -1,0 +1,28 @@
+{
+  "label": "2021 E3 Saxo Bank Classic",
+  "race_name": "E3 Saxo Bank Classic",
+  "race_date": "2021-03-26",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ASGREEN attacked solo at 4.8km after Deceuninck-Quick-Step deployed all seven riders in pre-Taaienberg team time trial, isolating VAN DER POEL and VAN AERT.",
+    "winner": "ASGREEN Kasper",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Deceuninck-Quick-Step executed coordinated seven-rider team time trial before Taaienberg at 66km, creating numerical superiority for later attacks.",
+      "ASGREEN attacked at 4.8km despite being theoretically spent, exploiting three teammates marking VAN DER POEL and VAN AERT simultaneously.",
+      "VAN DER POEL and VAN AERT's Paterberg move forced premature effort while Quick-Step numbers controlled, inverting normal isolation dynamics.",
+      "Wind-assisted race fragmentation favored Quick-Step's depth over individual marquee riders' attacking strength in finale."
+    ],
+    "rider_signals": {
+      "ASGREEN Kasper": "positive: Won despite appearing spent, revealing Quick-Step's willingness to sacrifice domestiques' legs early for late numerical advantage.",
+      "VAN DER POEL Mathieu": "negative: Isolated despite attacking Paterberg with VAN AERT; Quick-Step's three-rider marking negated solo class in finale.",
+      "VAN AERT Wout": "negative: Marked out of contention despite making selection; unable to counter when theoretically weaker ASGREEN attacked.",
+      "LAMPAERT Yves": "positive: Bridged to lead group mid-race, demonstrating Quick-Step's depth extended beyond traditional climbers on hellingen.",
+      "GREIPEL André": "neutral: Made early breakaway showing sprinters can survive initial selections when peloton controls tempo.",
+      "TERPSTRA Niki": "neutral: Former winner in breakaway suggests Quick-Step willing to sacrifice experience for numbers behind."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:49:51.595610+00:00"
+}

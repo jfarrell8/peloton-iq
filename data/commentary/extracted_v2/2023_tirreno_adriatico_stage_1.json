@@ -1,0 +1,28 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 11.5km flat ITT by 28 seconds over KELDERMAN, with late starters benefiting from weather improvement and drier roads.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Late starters gained significant advantage as rain stopped and roads dried, creating 40-second gaps among GC contenders.",
+      "INEOS placed two riders on podium (Ganna, Sheffield) showing depth in short flat ITT specialists.",
+      "McNulty positioned second American behind Sheffield at turn, suggesting UAE pacing strategy prioritized first half conservatively."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: 28-second margin suggests holding blue jersey into mountain stages feasible for large TT specialist",
+      "SHEFFIELD Magnus": "positive: set early benchmark holding against accomplished riders until late weather-aided runs",
+      "MCNULTY Brandon": "positive: 40-second gap over teammate Yates signals GC hierarchy shift within UAE",
+      "YATES Adam": "negative: conceding 40 seconds to McNulty on flat ITT reveals vulnerability in non-climbing disciplines",
+      "KELDERMAN Wilco": "positive: second place confirms time trial form retained despite GC ambitions",
+      "HEPBURN Michael": "positive: split two Americans showing Jayco TT depth continues 2023 success pattern",
+      "KÄMNA Lennard": "positive: third place confirms reinvention as TT specialist beyond mountain climbing youth pedigree"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:53:45.882046+00:00"
+}

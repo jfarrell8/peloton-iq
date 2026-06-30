@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-19",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENIS Rohan drove BMC to TTT victory in 13.7km technical Nîmes circuit, repeating their 2015 success on this same course.",
+    "winner": "DENIS Rohan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC's specific experience advantage: won this exact Nîmes TTT course in 2015, suggesting course-specific reconnaissance pays dividends.",
+      "Quick-Step set early 16:04 benchmark that only one team could beat, showing depth threshold for sub-16-minute technical TTTs.",
+      "Sky slowed deliberately before finish to wait for fifth rider, indicating even top TTT teams miscalculate threshold timing."
+    ],
+    "rider_signals": {
+      "ARU Fabio": "negative: Astana lost over 30 seconds in opening TTT, revealing preparation issues before GC battle begins",
+      "CONTADOR Alberto": "negative: Trek-Segafredo finished 30+ seconds down in his final Vuelta, weak TTT support for farewell tour",
+      "FROOME Chris": "neutral: Sky third despite defending TTT title, suggesting either tactical conservatism or reduced depth from 2016",
+      "ATAPUMA Darwin": "negative: Crashed in first bend showing technical vulnerability on urban circuits under pressure",
+      "CHAVEZ Esteban": "positive: Orica-Scott fifth at 17 seconds despite not being TTT specialists, strong support depth for GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:12:23.105557+00:00"
+}

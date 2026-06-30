@@ -1,0 +1,26 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-09",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ZIMMERMAN George won from 14-rider breakaway on Crest-Volant finish, counter-attacking BERGADO who went too early at 500m.",
+    "winner": "ZIMMERMAN George",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bergado attacked early to catch Zimmerman, secured KOM points tactically, then catastrophically launched final sprint at 500m remaining.",
+      "GC group accelerated with 1000m to go but let breakaway succeed, suggesting teams content with time gaps.",
+      "Intermarché placed Zimmerman in 14-rider break knowing steep 2.3km finish favored holding counter-attack over early acceleration."
+    ],
+    "rider_signals": {
+      "BERGADO Matthew": "positive: Won KOM jersey and dominated breakaway attacks but fatal tactical error going 500m out allowed Zimmerman counter",
+      "ZIMMERMAN George": "positive: First WT win in nearly 4 years by sitting on Bergado's wheels all day, perfect counter timing",
+      "GORDU David": "negative: Explicitly struggling with illness after strong Pyrenees, legs not responding despite previous form",
+      "VINGEGAARD Jonas": "neutral: Led GC acceleration at 1km but allowed breakaway to stay clear, suggesting confidence in overall position",
+      "TRENTIN Matteo": "positive: Only 31 seconds behind in green jersey fight, contested intermediate sprint from breakaway aggressively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:36:36.410538+00:00"
+}

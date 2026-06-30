@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Attacks on uphill finishes in final 1-2km to disrupt organized sprint trains, retaining fast-twitch power after selective climbs. Excels at infiltrating GC group sprints after climbs rather than bridging from behind.",
+  "team_tactics": "UAE typically provides leadout support into final kilometers on uphill finishes, but team often exhausted before finale. Can operate independently when sprint trains collapse (positioned second wheel after crash, salvaged results when domestiques dropped).",
+  "terrain_preference": "Uphill sprint finishes and selective climb sequences that eliminate pure sprinters but allow retained sprint speed. Steep gradients (Fleche Wallonne top-3) suit his hybrid profile better than flat sprints.",
+  "vulnerability": "Reliant on narrow team margins in key races (UAE domestiques exhausted before finale at Fleche). Execution unclear when full leadout intact. Energy-sapping bridge efforts compromise his sprint speed versus pure climbers.",
+  "key_patterns": [
+    "Attacks final 1km uphill finishes to shatter sprint trains, won/nearly won 3+ times this way",
+    "Infiltrates GC group sprints after climbs rather than bridging, preserving fast-twitch power (2020 Giro pattern)",
+    "Contests intermediate sprints aggressively for small margins (defended ciclamino sprint at 70km)",
+    "Operates effectively without team support when sprint organization collapses (2019 crash scenario, 2023 domestique exhaustion)",
+    "Stage-hunting prioritized over team GC support when opportunity arises (2021 break infiltration)"
+  ],
+  "form_trajectory": "negative: 2023 Fleche showed exhausted UAE support with unclear results, contrasts sharply with 2020 Giro double-win dominance and tactical opportunism. No recent winning signals.",
+  "races_analysed": 10,
+  "confidence": "high",
+  "rider_name": "ULISSI Diego",
+  "built_from": [
+    "2018 Giro d'Italia Stage 5",
+    "2019 Giro d'Italia Stage 4",
+    "2019 La Fleche Wallonne",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 2",
+    "2020 Giro d'Italia Stage 4",
+    "2020 Giro d'Italia Stage 4",
+    "2020 Tour de Pologne Stage 3",
+    "2021 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 1",
+    "2023 La Fleche Wallonne"
+  ]
+}

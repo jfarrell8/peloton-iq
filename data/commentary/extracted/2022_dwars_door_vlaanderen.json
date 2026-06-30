@@ -5,23 +5,28 @@
   "stage": null,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "VAN DER POEL Mathieu attacked inside 4km on descent using 62-tooth chainring, caught, then countered again with BENOOT to win two-up sprint",
+    "one_line_summary": "VAN DER POEL Mathieu won from a late two-up with BENOOT Tiesj after CAMPENAERTS Victor's 62-tooth chainring descent attack regrouped, outsprinting Benoot in final 250m",
     "winner": "VAN DER POEL Mathieu",
     "commentary_quality": "rich",
     "tactical_patterns": [
-      "INEOS (TURNER/PIDCOCK) initiated decisive selection on Oude Kwaremont cobbles at 60km, not traditional late-race positioning for British team",
-      "CAMPENAERTS chipped tooth descending in 62-tooth chainring inside 10km, signal that extreme gearing choices effective on technical descents pre-finale",
-      "VAN DER POEL required multiple attacks (inside 4km, then again after being caught) to finally establish winning move with BENOOT",
-      "POGACAR closed solo from peloton to within 10 seconds of leaders mid-race despite cobble inexperience, abandoned chase around 30km mark"
+      "CAMPENAERTS Victor used 62t chainring on descent after climb 13 to solo, chipped tooth from effort, shows equipment gambles viable",
+      "INEOS riders TURNER Ben and PIDCOCK Thomas bridged early on Oudenaardeberg cobbles, creating platform that held despite subsequent attacks",
+      "BENOOT Tiesj made multiple late accelerations inside 4km forcing VAN DER POEL to chase repeatedly, inverting sprint freshness dynamics",
+      "POGAČAR Tadej closed 10s gap solo after caught out of position but stalled at that deficit, cobble inexperience showed in positioning not power"
     ],
     "rider_signals": {
-      "POGACAR Tadej": "neutral: first cobbled race showed raw power closing 10-second gaps solo but inexperience prevented full bridge, abandoned chase 30km out",
-      "CAMPENAERTS Victor": "positive: established gap on descent in 62-tooth chainring before being caught, finished 4th showing TT specialists can survive cobbled classics",
-      "PIDCOCK Tom": "positive: INEOS initiated decisive Kwaremont selection and finished 3rd, marking team's evolving cobbled race tactics beyond support role",
-      "BENOOT Tiesj": "positive: only rider able to follow VAN DER POEL's final attacks, nearly won sprint after matching multiple accelerations inside 4km",
-      "VAN AVERMAET Greg": "negative: attempted chase on Kanarieberg but unable to close gaps, signal of declining ability to bridge in decisive moments"
+      "VAN DER POEL Mathieu": "positive: nearly overcooked final corner at 250m from overpowering, suggesting peak form but marginal bike handling sharpness",
+      "CAMPENAERTS Victor": "positive: willing to use extreme gearing (62t) and solo descent from climb 13, tactically aggressive beyond pure classics specialist role",
+      "BENOOT Tiesj": "positive: initiated multiple accelerations inside 4km including one with CAMPENAERTS that gained gap, more aggressive than typical domestique role",
+      "PIDCOCK Thomas": "positive: bridged to leaders early on Oudenaardeberg then survived all regroupings for podium, showing cobbled maturity beyond expectations",
+      "POGAČAR Tadej": "neutral: power closed gap to 10s solo but couldn't bridge final seconds, positioning errors costly despite physical capability on cobbles debut",
+      "KÜNG Stefan": "neutral: attacked on climb 13 but couldn't sustain, suggests time trial power insufficient without positioning advantage on cobbles",
+      "NAESEN Oliver": "negative: crashed hard mid-race from touch of wheels, vulnerability in bunch positioning during nervous phase",
+      "TURNER Ben": "positive: co-initiated decisive INEOS move on Oudenaardeberg with PIDCOCK, unusual aggression for domestique suggests protected status",
+      "VAN MOER Brent": "neutral: bridged early with 90km remaining but faded from decisive selection, early effort timing misjudged",
+      "VAN AVERMAET Greg": "negative: attempted bridge on Kanarieberg but failed while POGAČAR nearly succeeded, age showing in acceleration capacity"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:36:25.224238+00:00"
+  "extracted_at": "2026-06-28T23:24:09.878460+00:00"
 }

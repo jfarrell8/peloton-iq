@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 2",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-08",
+  "stage": 2,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won a chaotic sprint after late crash split field, holding off SAGAN Peter who crashed earlier but rejoined",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KITTEL launched exposed without leadout train but still held off SAGAN, suggesting raw power overcomes positioning chaos.",
+      "SAGAN recovered from crash inside final kilometers to still finish second, revealing exceptional restart ability under pressure.",
+      "GAVIRIA positioned on SAGAN's wheel rather than organizing own team, tactical admission of Sagan's superior sprint positioning.",
+      "NIZZOLO third despite having VAN POPPEL Danny leadout suggests support riders survive crashes better in chaotic finishes."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: won despite launching far out without leadout, demonstrates he can win messy sprints through power alone",
+      "SAGAN Peter": "positive: crashed with 1km to go yet still finished second, elite-level crash recovery and restart speed",
+      "GAVIRIA Fernando": "negative: positioned seventh despite using SAGAN's wheel, failed to capitalize on world champion's slipstream",
+      "EWAN Caleb": "negative: completely disrupted by late crash positioning, finished 11th showing vulnerability when sprint organization breaks down",
+      "VENTURINI Clément": "negative: designated sprinter caught in crash, ANDRONI team lacks depth to recover sprint positioning",
+      "NIZZOLO Giacomo": "neutral: third place salvages result but presence of VAN POPPEL Danny suggests leadout partially intact"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:32:03.384710+00:00"
+}

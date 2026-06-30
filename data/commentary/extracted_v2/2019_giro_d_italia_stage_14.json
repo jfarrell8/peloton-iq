@@ -1,0 +1,28 @@
+{
+  "label": "2019 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-25",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard attacked 3km from summit finish, distanced ROGLIC when Caruso's pace ended, gained only 4 seconds but took maglia rosa",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Mitchelton-Scott placed two riders in break forcing Roglic to police without teammates, isolating him immediately on climb one.",
+      "Astana dual-pronged: two break riders plus Lopez attacking favorites group diluted chasing resources across multiple threats simultaneously.",
+      "Carapaz timed his winning move exactly when Caruso exhausted himself closing Lopez gap, exploiting momentary hesitation before Roglic could react.",
+      "Nibali attacked corners on first climb kilometer knowing Roglic isolated, testing GC leader without teammates before sustained climbing began."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: looked struggling initially but bridged intelligently when favorites watched each other, recovering 1:30+ from bad previous day",
+      "ROGLIC Primoz": "negative: completely isolated with 4.5 climbs remaining, forced to personally police every Lopez attack without any Jumbo support",
+      "LANDA Mikel": "negative: mechanical at worst moment as Lopez attacked, lost contact with favorites group during crucial early selection",
+      "LOPEZ Miguel Angel": "positive: launched repeated accelerations as best young rider forcing Roglic to close every gap personally, softening him for Carapaz",
+      "NIBALI Vincenzo": "neutral: attacked aggressively early on corners with brother Antonio's leadout but gained only bonus seconds at finish",
+      "POLANC Jan": "negative: hanging tough at back early in climb but fell away dramatically when decisive moves came"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:48:41.398359+00:00"
+}

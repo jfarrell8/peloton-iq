@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Not a primary attacker; functions as sprint leadout and emergency finisher. When sprinting himself, emerges in final 1.5km from chaotic situations rather than planned launches.",
+  "team_tactics": "Jumbo-Visma deploys him as selfless leadout domestique willing to sacrifice personal position. Team commits riders to chase/defend when he holds jersey but coordination can fail without external cooperation.",
+  "terrain_preference": "Flat sprint stages and technical finales requiring classics-style bike handling. TTT strength shown winning stage by 20 seconds. Sprint stages with late positioning chaos suit his opportunism.",
+  "vulnerability": "Relies on team numbers to defend leader responsibilities; isolated when rival teams refuse cooperation in complicated finales. Not a pure sprinter—opportunistic rather than dominant.",
+  "key_patterns": [
+    "Acts as leadout man first, sprinter second—twice finished sprints after leadout duties (2 instances)",
+    "Demonstrates team-first mentality even in yellow, taking hard pulls 2km out risking jersey loss",
+    "Wins from chaos/crashes rather than organized sprints—both sprint results came from disrupted finales",
+    "Trek/Jumbo positions him through technical sections 1-2km out using classics positioning skills",
+    "Team defense of yellow jersey failed when rivals wouldn't share chase workload"
+  ],
+  "form_trajectory": "neutral: Fulfilled multiple roles successfully (TTT win, sprint wins, leadout work) but narrow July dataset shows tactical versatility rather than progression",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "TEUNISSEN Mike",
+  "built_from": [
+    "2019 BinckBank Tour Stage 1",
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 1",
+    "2019 Tour de France Stage 2",
+    "2019 Tour de France Stage 2",
+    "2019 Tour de France Stage 3"
+  ]
+}

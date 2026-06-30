@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-16",
+  "stage": 15,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BARDET won solo from breakaway while FROOME survived a mechanical on penultimate Cat 1 climb, requiring full Sky team effort to close 40 seconds.",
+    "winner": "BARDET Romain",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "AG2R attacked immediately when Froome flatted on Cat 1 climb; no waiting when yellow jersey mechanicals mid-climb.",
+      "Sky burned entire team (Kwiatkowski, Henao, Nieve, Landa) closing 40 seconds, leaving Froome isolated for final climbs.",
+      "Martin bridged to dropped breakaway riders who cooperated despite GC threat, suggesting personal relationships override team tactics late-tour.",
+      "Yates attacking in final km signals Mitchelton targeting third week after conserving early stages."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "negative: Required full team to close 40s gap after flat on Cat 1, then wasted energy sprinting meaninglessly at finish",
+      "LANDA Mikel": "positive: Dropped back from lead group to pace Froome, confirming full domestique role despite earlier team tension speculation",
+      "MARTIN Dan": "positive: Jumped to 5th GC at 1:12 despite crash injuries so severe he struggles entering team bus",
+      "YATES Simon": "positive: Attacking in finale signals form peaking for Alps third week after quiet first two weeks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:04:58.912364+00:00"
+}

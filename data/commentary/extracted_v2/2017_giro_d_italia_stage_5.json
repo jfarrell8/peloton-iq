@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-10",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won the sprint by using both his own leadout and Bora-Hansgrohe's train after Quick-Step stayed patient in the final 500m",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step positioned both Gaviria and second sprinter deep, allowing Gaviria to poach Bora-Hansgrohe's leadout instead of launching own train early.",
+      "Bennett showed sprint form despite Bora losing control, suggesting Quick-Step's dual-threat strategy forced rivals into premature positioning errors.",
+      "GC riders Thomas/Landa clustering 2nd-3rd overall on flat island stages reveals Sky's willingness to defer individual ambitions early in Grand Tours."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: Won by tactically sitting on rival leadouts rather than relying solely on teammate, showing race intelligence beyond pure speed",
+      "BENNETT Sam": "positive: Placed high despite team losing sprint train control in final 500m, indicating strong individual positioning ability",
+      "GREIPEL Andre": "negative: Caught far back with 500m remaining despite Bora attempting leadout, suggesting declining ability to maintain front position in technical finishes",
+      "VIVIANI Elia": "negative: Not mentioned despite being top-tier sprinter, indicating either poor positioning or mechanical issues in straightforward sprint finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:58:21.784484+00:00"
+}

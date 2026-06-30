@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-30",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won stage 7 atop Mas de la Costa after sitting on QUINTANA's repeated accelerations, then exploiting LOPEZ's vulnerability in final 500m.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "QUINTANA's repeated surges cracked VALVERDE at 500m out, but going too deep allowed VALVERDE to recover and counterpunch.",
+      "ROGLIC refused to lead on the concrete section with 300m remaining, forcing VALVERDE into track-sprint-style musical chairs positioning.",
+      "LOPEZ rode at his own rhythm instead of matching QUINTANA's accelerations, but paid when gradient kicked in final 500m.",
+      "UAE's SOLER drove hard early at the front of break, revealing team willing to sacrifice GC riders for stage hunts."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: at 38 years old, showed tactical maturity by appearing cracked at 500m then recovering to win from the front",
+      "QUINTANA Nairo": "negative: set tempo and attacked repeatedly but burned matches too early, allowing VALVERDE to exploit his weakness in final 100m",
+      "LOPEZ Miguel Angel": "negative: riding at constant rhythm instead of covering QUINTANA's surges left him isolated and dropped when gradient kicked hardest",
+      "ROGLIC Primoz": "neutral: refused to lead in final 300m positioning battle, suggesting he's calculating efforts across three weeks not fighting stages",
+      "VAN DER POEL Dylan": "negative: dropped 5km from summit on only Cat-3 section, shockingly early collapse for red jersey wearer"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:10:14.995072+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour of Oman Stage 3",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-18",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LUTSENKO attacked inside 2km on the final climb after his team neutralized crosswind splits, taking stage and jersey from KRISTOFF",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LUTSENKO used aggressive riding in crosswinds to defend position before winning, attack as best form of defense confirmed.",
+      "VAN HECKE Preben collected intermediate points from breakaway while teammate worked for him, Lotto doubling classification targets.",
+      "Right-hand crosswinds created echelons that eliminated GC threats before final climb, positioning crucial before 15km mark.",
+      "KRISTOFF cracked at 2km despite holding position until final climb, red jersey defense failed when gradient hit."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: won stage after initiating crosswind splits earlier, showed rare combination of classics positioning and climbing punch",
+      "KRISTOFF Alexander": "negative: lost jersey at 2km after defending well, lacks climbing capacity to hold gains on uphill finishes",
+      "POZZOVIVO Domenico": "neutral: dropped by LUTSENKO inside 2km on climb, lost 1 second but survived crosswinds",
+      "VAN HECKE Preben": "positive: targeted points classification from breakaway while team supported him, strategic KOM hunting confirmed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:13:19.704877+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-09",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won from a Laporte leadout after peloton caught breakaway in final 150 meters on rolling finish course.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma used Laporte as dedicated leadout man for Van Aert despite having yellow jersey to defend with Roglic.",
+      "Multiple spiteful uncategorized climbs distanced Groenewegen repeatedly, revealing pure sprinters vulnerable on even moderate rolling terrain.",
+      "Break survived past 20km on relentless descents, forcing BikeExchange to chase late when team already fragmented.",
+      "Four-man break waited for struggling Dubai on non-categorized climbs, preserving cooperation until final meters when cat-and-mouse failed."
+    ],
+    "rider_signals": {
+      "HAYTER Ethan": "positive: Racing for stage while defending white jersey, strong enough for podium on rolling finish after Ineos tempo",
+      "GROENEWEGEN Dylan": "negative: Repeatedly distanced on short uncategorized climbs throughout stage, marginal for any non-flat finish",
+      "LAPORTE Christophe": "positive: Deployed as pure leadout for Van Aert despite GC situation, indicates Jumbo prioritizing stage wins",
+      "MEEUS Jordi": "positive: Nearly beat Van Aert after Laporte leadout, suggesting capacity for hillier sprint finishes",
+      "ROLAND Romain": "neutral: Abandoned break early to preserve polka dot jersey energy, prioritizing classification over stage hunt"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:35:30.109482+00:00"
+}

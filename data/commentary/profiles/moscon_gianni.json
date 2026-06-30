@@ -1,0 +1,42 @@
+{
+  "attacking_style": "Attacks from climb bases (17.5km solo at Guangxi) with early, sustained aggression rather than explosive late moves. Capable of long-range efforts but lacks finishing punch when caught.",
+  "team_tactics": "Used primarily as high-level domestique setting tempo on final climbs for protected riders (Bernal). Team rotates yellow jersey internally and willingly sacrifices his GC position when stronger options emerge (Dauphine). Rarely receives full team support for personal ambitions.",
+  "terrain_preference": "Excels on moderate climbs allowing sustained tempo (Guangxi solo win) and wet cobbles (Paris-Roubaix 4th). Exposed on steep gradients above 10% (dropped Col de Prey, cracked at 4.5km Dauphine finish).",
+  "vulnerability": "Lacks finishing speed against sprinters and pure puncheurs despite strong positioning. Crashes on technical descents when pushing limits (Giro). Gets dropped on steep sustained climbs when pace intensifies late.",
+  "key_patterns": [
+    "Strong cobbles rider in wet conditions but cannot convert late-race positioning into wins (Paris-Roubaix 4th)",
+    "Dropped on steep gradients when attacks come inside 5km (Dauphine lost yellow twice)",
+    "Executes long-range solo attacks from climb bases, holding advantages 15km+ (Guangxi 17.5km solo)",
+    "Team willingly rotates him out of yellow jersey when stronger teammates emerge (3 Dauphine instances)",
+    "Finishes fast wheels well but lacks final sprint acceleration (Vuelta 2nd, multiple fade-outs)",
+    "Descent technical vulnerability exposed when chasing aggressively (Giro crash)"
+  ],
+  "form_trajectory": "neutral: Last observation (2021 Paris-Roubaix) shows maintained cobbles strength but persistent finishing weakness. Prior Giro work effective as domestique, consistent with career trajectory as super-domestique rather than protected leader.",
+  "races_analysed": 16,
+  "confidence": "high",
+  "rider_name": "MOSCON Gianni",
+  "built_from": [
+    "2017 Il Lombardia",
+    "2017 Ronde Van Vlaanderen",
+    "2017 Tirreno-Adriatico Stage 3",
+    "2017 Tirreno-Adriatico Stage 3",
+    "2017 Vuelta a Espana Stage 13",
+    "2018 Criterium du Dauphine",
+    "2018 Criterium du Dauphine Stage 3",
+    "2018 Criterium du Dauphine Stage 4",
+    "2018 Criterium du Dauphine Stage 5",
+    "2018 Criterium du Dauphine Stage 5",
+    "2018 Criterium du Dauphine Stage 6",
+    "2018 Tirreno-Adriatico Stage 3",
+    "2018 Tirreno-Adriatico Stage 3",
+    "2018 Tour of Guangxi Stage 4",
+    "2018 Tour of Guangxi Stage 4",
+    "2018 Tour of Guangxi Stage 5",
+    "2018 Tour of Guangxi Stage 6",
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 9",
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix"
+  ]
+}

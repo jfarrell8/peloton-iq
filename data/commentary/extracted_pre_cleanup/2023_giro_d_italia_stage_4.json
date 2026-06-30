@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PARET-PEINTRE Aurélien won from 7-rider break formed after 80km, out-sprinting LEKNESSUND Andreas who took maglia rosa as peloton finished 2+ minutes back",
+    "winner": "PARET-PEINTRE Aurélien",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step deliberately surrendered pink jersey by letting 80km attacks drain peloton before allowing dangerous break containing LEKNESSUND.",
+      "UAE Emirates caught napping early with ALMEIDA João in wrong split during attack phase, requiring energy-draining chase back.",
+      "EVENEPOEL Remco isolated with 3km remaining on final climb despite leading race, revealing team depth limitations on sustained mountain stages.",
+      "Break formation required 80km of attrition before peloton yielded, indicating teams understood stage profile suited escapees over controlled chase."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: At 23, took pink jersey from breakaway despite losing sprint, showing GC awareness by securing 3 bonus seconds at intermediate.",
+      "PARET-PEINTRE Aurélien": "positive: Recovered after being distanced to rejoin LEKNESSUND in final 3km, then proved superior climber-sprinter combination.",
+      "EVENEPOEL Remco": "negative: Isolated with teammates all dropped inside final kilometers on moderate Category 2 climb, tactical vulnerability exposed.",
+      "ALMEIDA João": "negative: Caught in early split during messy breakaway formation phase requiring teammate assistance to regain peloton contact.",
+      "DE PLUS Laurens": "positive: Led GC group pacing for Ineos despite EVENEPOEL wearing pink, suggesting confidence in isolating rival leader."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:03:56.639060+00:00"
+}

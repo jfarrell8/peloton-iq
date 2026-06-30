@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 5",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won the sprint after TARAXAY Rein crashed ~11km from finish, handing ALISSON Kenny the race lead via misfortune.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE led out MOLANO Juan Sebastian until 1.6km but burned matches too early, allowing Deceuninck perfect drafting position.",
+      "Deceuninck held JACOBSEN Fabio off UAE wheels until 1km, refusing to share pace burden despite UAE controlling.",
+      "Alpecin launched PHILIPSEN at ~300m when Groupama and UAE leadouts expired, exploiting timing gap perfectly.",
+      "Race leader TARAXAY Rein positioned correctly near front but crashed 11km out proving even textbook positioning fails on straight roads."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Won from perfect leadout timing, took second stage, green jersey demonstrates best form of sprint field.",
+      "JACOBSEN Fabio": "neutral: Positioned too far back in final 500m despite Deceuninck controlling pace, tactical positioning error cost stage.",
+      "MOLANO Juan Sebastian": "neutral: UAE burned leadout too early for him at 1.6km, fourth place shows speed but team tactical timing flawed.",
+      "TARAXAY Rein": "negative: Lost red jersey to crash 11km out despite correct positioning, suggests handling vulnerability on fast straight roads.",
+      "ALISSON Kenny": "neutral: Inherited red jersey via TARAXAY crash, gains 25 seconds to ROGLIC Primoz without effort."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:20:14.909065+00:00"
+}

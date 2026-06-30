@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-11",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GILBERT Phillipe won the sprint after crosswinds split the peloton at 40km out, with QUINTANA gaining 1:30 on ROGLIC in the front group to take virtual GC lead.",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar abandoned Valverde's GC support after his rest-day weakness, redirecting full team to Quintana's GC ambitions instead.",
+      "Sunweb positioned four riders in wind split then actively chased to drop Jakobsen, prioritizing improved sprint odds over leadout.",
+      "UAE refused to chase with Pogacar in second group despite having two teammates forward, betting on regrouping over pace.",
+      "Deceuninck isolated Jakobsen pre-split at 40km by controlling tempo, showing willingness to sacrifice sprint stage for tactical gains."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: gained 1:30 on Roglic via wind split to take virtual red, showing Movistar rebuilt GC strategy around him post-rest day",
+      "VALVERDE Alejandro": "negative: team no longer protecting his GC after worst mountain day before rest day, demoted to Quintana domestique role",
+      "ROGLIC Primoz": "negative: isolated in second group when Jumbo failed to anticipate crosswind split, surrendered GC lead without teammate support",
+      "JAKOBSEN Fabio": "neutral: mechanical before split but Deceuninck never waited, revealing team accepted sacrifice for Gilbert/Evenepoel sprint chances",
+      "POGACAR Tadej": "negative: UAE had two riders forward but refused to chase, accepting 1:30 loss rather than burning Pogacar early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:08:02.095889+00:00"
+}

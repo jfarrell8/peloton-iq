@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks from breakaways rather than peloton, capable of finishing climbs solo despite physical distress. Shows willingness to commit early to long-range moves.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Can handle finishing climbs with sufficient gradient to maintain gaps. Lacks data on flat finishes or high-mountain stages.",
+  "vulnerability": "Susceptible to severe cramping in final 5km, suggesting potential issues with pacing, nutrition, or hydration management under race stress.",
+  "key_patterns": [
+    "Only single race observation available - insufficient data for reliable pattern identification",
+    "Demonstrated exceptional mental resilience when compromised physically in finale",
+    "Operates effectively from breakaway situations rather than main field positioning"
+  ],
+  "form_trajectory": "unknown: single observation prevents form trajectory analysis, though showed winning capability under duress",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CALMEJANE Lilian",
+  "built_from": [
+    "2017 Tour de France Stage 8",
+    "2017 Tour de France Stage 8"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who gets into the right moves but struggles with final acceleration and timing. Shows strength in intermediate efforts but lacks explosive finishing power to convert positioning into wins.",
+  "team_tactics": "Benefits from Movistar's collective efforts (TTT success) but often found isolated in breakaway scenarios without domestique support. Team unable to provide late-race positioning assistance when it matters most.",
+  "terrain_preference": "Strong on technical descents where he can intimidate rivals and gain advantages. Handles varied terrain in breakaways but requires selective finishes rather than pure sprints to be competitive.",
+  "vulnerability": "Repeatedly caught in tactical marking contests that allow third parties to escape (2+ instances). Poor final positioning costs him when in winning breaks. Lacks explosive acceleration to respond to late surges in small groups.",
+  "key_patterns": [
+    "Gets into winning breakaways but finishes 2nd or behind due to tactical missteps (3 instances)",
+    "Isolated from teammates in critical final moments when conversion support needed (2+ observations)",
+    "Strong intermediate rider but consistently lacks final 500m acceleration against rivals",
+    "Tactical marking errors: engages in neutralizing contests allowing others to escape uncontested",
+    "Technical descending strength creates advantages but cannot convert alone into stage wins"
+  ],
+  "form_trajectory": "neutral: Showed physical strength in 2019 Giro bridging efforts, but persistent tactical/positioning weaknesses unchanged from 2017 pattern",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "ROJAS Jose Joaquin",
+  "built_from": [
+    "2017 Volta Ciclista a Catalunya Stage 2",
+    "2017 Vuelta a Espana Stage 10",
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 7",
+    "2019 Giro d'Italia Stage 6"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2018 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-09",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BATTAGLIN Enrico won from a breakaway that was caught inside 3.5km, surviving the chaotic final kilometer positioning battle.",
+    "winner": "BATTAGLIN Enrico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KIRYIENKA's tempo control brought breakaway from 5min to caught in just 5km, revealing Sky's pacing calibration for similar profiles.",
+      "VIVIANI caught behind main group with delayed team response, suggesting Quick-Step communication gap under echelon-like splits.",
+      "Sky positioned FROOME aggressively inside 3km despite GC riders typically waiting, signaling defensive marking strategy on rolling finishes.",
+      "Breakaway survived to 3.5km then collapsed instantly, indicating critical threshold where chasing effort exceeds holding advantage on this terrain."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "negative: caught off position requiring multiple teammates to pace back, uncharacteristic positioning error from sprint specialist",
+      "BATTAGLIN Enrico": "positive: won from doomed breakaway by surviving positioning chaos in final kilometer better than stronger names",
+      "KIRYIENKA Vasil": "positive: tempo riding erased 5-minute gap in 5km segment, demonstrating diesel engine value on rolling terrain",
+      "LÓPEZ Miguel Ángel": "negative: Astana riding desperately to bring him back to peloton inside 3km, worrying positioning for GC contender",
+      "ULISSI Diego": "positive: UAE leading out attacks with 1km remaining on uphill finish, showing sprint-climb hybrid ambitions",
+      "PUCCIO Salvatore": "positive: took bonus seconds in third place finish, Team Sky gathering time splits aggressively early in race",
+      "VISCONTI Giovanni": "positive: second place suggests strong finishing kick on short uphill drag after positioning chaos"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:26:36.625244+00:00"
+}

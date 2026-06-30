@@ -1,0 +1,28 @@
+{
+  "label": "2019 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2019-03-09",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked with FUGLSANG on the final gravel climb at Santa Caterina, dropped him inside 300m, soloing to victory ahead of FUGLSANG and VAN AERT.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT bridged solo from peloton to two-man break with 36km remaining, demonstrating unexpected gravel diesel capacity.",
+      "FUGLSANG attacked on Santa Caterina penultimate climb, immediately gapping VAN AERT but unable to sustain against ALAPHILIPPE's counter.",
+      "ALAPHILIPPE delayed final attack until final 300m technical section, neutralizing FUGLSANG's earlier forcing without wasting energy.",
+      "ROSA breakaway neutralized before critical sector entry, showing Sky unable to sustain climber advantage on gravel positioning."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: first Strade participation yielded dominant victory, confirming gravel climbing ability translates from Ardennes puncheur profile",
+      "FUGLSANG Jakob": "positive: second place shows climbing diesel on gravel, attacked decisively but lacked final 300m punch against pure puncheur",
+      "VAN AERT Wout": "positive: bridged 36km solo effort to leaders shows remarkable gravel endurance, podium finish despite fading on final climb",
+      "BENOOT Tiesj": "positive: fourth place confirms Quick-Step gravel depth, suggests support rider elevation potential in similar races",
+      "SCHACHMANN Maximilian": "positive: fifth repeats 2018 podium consistency, reliable gravel performer lacking only winning acceleration",
+      "ROSA Diego": "negative: Sky climber breakaway caught before critical sectors, indicating pure climbing insufficient without gravel-specific positioning skills"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:03:07.219546+00:00"
+}

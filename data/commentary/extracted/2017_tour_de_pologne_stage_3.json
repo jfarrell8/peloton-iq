@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-31",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARCZYŃSKI Tomasz won Stage 3 sprint from reduced bunch after attempts to split peloton on fast terrain failed.",
+    "winner": "MARCZYŃSKI Tomasz",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BEPPU Fumiyuki provided leadout work for MARCZYŃSKI despite being from different teams, revealing cross-team sprint cooperation.",
+      "Teams attempted splits on flat terrain before finale, suggesting tailwind or crosswind conditions created tactical opportunities."
+    ],
+    "rider_signals": {
+      "MARCZYŃSKI Tomasz": "positive: twelfth career stage win at this race shows exceptional specialization in this specific event's conditions",
+      "BEPPU Fumiyuki": "positive: leadout capability strong enough that rival sprinters will use him when their own trains fail"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:12:16.925530+00:00"
+}

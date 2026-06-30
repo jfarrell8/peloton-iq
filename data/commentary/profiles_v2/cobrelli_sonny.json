@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Sprint finisher who excels in final 200m with explosive acceleration, particularly effective on uphill finishes and selective parcours. Rarely attacks early; relies on positioning and superior closing speed.",
+  "team_tactics": "Team execution inconsistent—multiple failures to deliver despite having fastest finisher. When functioning, they position him well but chase strategy has proven problematic. Rider often salvages results through individual quality.",
+  "terrain_preference": "Uphill sprint finishes and brutal selective conditions (wet Paris-Roubaix, hilly stages) where pure sprinters are dropped. Thrives when attrition removes fast-twitch specialists but finish remains bunch sprint.",
+  "vulnerability": "Dependent on team execution which has failed repeatedly (at least 2 lost opportunities at Dauphiné alone). When team pacing/chase strategy fails, even superior speed cannot salvage the win.",
+  "key_patterns": [
+    "Superior final 200m acceleration repeatedly underestimated, catches riders from seemingly impossible distances (2 instances)",
+    "Rare sprinter profile: survives selective climbs and tough conditions while retaining sprint dominance (3 races)",
+    "Team execution failures cost wins despite being fastest finisher (3 documented failures)",
+    "Excels when opponents jump early; benefits from positioning behind premature attacks before unleashing finish",
+    "Performs best in attritional conditions that eliminate pure sprinters but allow powerful finishers to survive"
+  ],
+  "form_trajectory": "positive: Peaked brilliantly through mid-2021, culminating in Paris-Roubaix Monument victory in October after demonstrating consistent sprint superiority and rare ability to survive brutal conditions throughout season",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "COBRELLI Sonny",
+  "built_from": [
+    "2021 Criterium du Dauphine Stage 1",
+    "2021 Criterium du Dauphine Stage 2",
+    "2021 Criterium du Dauphine Stage 3",
+    "2021 Criterium du Dauphine Stage 3",
+    "2021 Paris-Roubaix",
+    "2021 Tour de France Stage 16"
+  ]
+}

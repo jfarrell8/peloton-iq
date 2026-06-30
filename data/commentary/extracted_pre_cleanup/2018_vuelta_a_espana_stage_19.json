@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-14",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked when VALVERDE punctured, held off chase by MAS and URÁN to take massive GC time before PINOT soloed to stage win",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon exploited VALVERDE puncture timing to bridge, preventing Movistar team coverage on final climb.",
+      "BENNETT George immediately marked QUINTANA bridge attempt, showing Jumbo's tactical awareness before teammate commitment.",
+      "PINOT screened behind QUINTANA-KUSS group before attacking for stage, using GC riders as camouflage.",
+      "MAS Enric and URÁN counter-attacked together when VALVERDE dropped, coordinating despite different teams to chase YATES."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked when rival punctured, then held GC gains against multiple chasers showing mental hardness beyond Covadonga",
+      "VALVERDE Alejandro": "negative: punctured after team set sustained pace, couldn't respond when rivals immediately attacked his misfortune",
+      "PINOT Thibaut": "positive: second stage win after hiding in break, only attacked once GC battle cleared ahead",
+      "QUINTANA Nairo": "neutral: appeared spent or deliberately waited for VALVERDE, unclear if tactical sacrifice or weakness",
+      "BENNETT George": "positive: immediately followed QUINTANA bridge showing Jumbo's active GC defense for teammate"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:48:27.964315+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Pure sprinter who launches final acceleration 50-100m from line, occasionally timing late surges perfectly when boxed in earlier. Not an attacker in traditional sense.",
+  "team_tactics": "Relies on team positioning through final 5km but shows declining ability to maintain front position in technical or contested finishes. Bora leadout attempts noted but frequently fails to stay connected.",
+  "terrain_preference": "Wide, uncomplicated roads with headwind finishes where tactical positioning trumps pure power. Struggles on technical finales requiring sustained positioning aggression through final kilometers.",
+  "vulnerability": "Chronic positioning deficits in final 5km, especially technical finishes. Gets trapped far back in peloton tail. Dropped on flat stages before finale signals serious power deficit versus top-tier sprinters by 2019.",
+  "key_patterns": [
+    "Caught far back (500m-5km) repeatedly despite team support, limiting contest ability. (4 observations)",
+    "Tactical veteran craft exploits headwinds and younger sprinters' timing errors when positioned correctly. (3 observations)",
+    "Physical decline evident 2017-2019: competitive when positioned well, but increasingly unable to maintain position. (5 observations)",
+    "Launching too early or aggressive positioning shifts suggest desperation tactics compensating for declining speed. (2 observations)",
+    "Boxed-in patience followed by late acceleration successful when achievable, but positioning failures prevent setup. (2 observations)"
+  ],
+  "form_trajectory": "negative: Clear decline 2017-2020. Still shows flashes of speed when positioned perfectly, but chronic inability to maintain front positioning and being dropped on flat stages indicate serious power deficit versus WorldTour sprinters",
+  "races_analysed": 10,
+  "confidence": "high",
+  "rider_name": "GREIPEL Andre",
+  "built_from": [
+    "2017 Giro d'Italia Stage 2",
+    "2017 Giro d'Italia Stage 2",
+    "2017 Giro d'Italia Stage 5",
+    "2017 Paris-Nice Stage 5",
+    "2017 Paris-Nice Stage 5",
+    "2018 Tour de France Stage 2",
+    "2018 Tour de France Stage 4",
+    "2018 Tour de France Stage 8",
+    "2018 Tour de Suisse Stage 8",
+    "2019 Tour de France Stage 11",
+    "2019 Tour of Oman Stage 1",
+    "2020 Tour de France Stage 10"
+  ]
+}

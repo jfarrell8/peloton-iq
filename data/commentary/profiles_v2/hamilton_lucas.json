@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Late attacks on summit finishes, typically launching on the final climb to solo away from reduced groups. Shows willingness to go alone rather than wait for sprint finish.",
+  "team_tactics": "Benefits from having multiple teammates in breaks to control tempo before late individual moves. Team appears to identify him as protected climber/leader in stage races.",
+  "terrain_preference": "Summit finishes and sustained climbing efforts suit him best. Altitude training suggests preparation for high-mountain stages. Struggles to respond to explosive accelerations in breakaway scenarios.",
+  "vulnerability": "Cannot match sharp, explosive accelerations from pure puncheurs despite being present in winning moves. Appears to lack final kick when racing against specialists with faster finishing speed.",
+  "key_patterns": [
+    "Attacks late on final climbs in summit finishes, going solo (2 observations)",
+    "Positioned as team leader/protected rider in stage races at DSM/Jayco (2 observations)",
+    "Strong climbing form derived from altitude training camps at Andorra base (2 observations)",
+    "Present in winning breaks but vulnerable to explosive accelerations from puncheurs (2 observations)"
+  ],
+  "form_trajectory": "negative: Unable to convert numerical advantage into result at 2023 Bretagne Classic, suggesting declining ability to match top-level accelerations compared to earlier breakthrough wins",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "HAMILTON Lucas",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 4",
+    "2021 Paris-Nice Stage 7",
+    "2023 Bretagne Classic - Ouest-France"
+  ]
+}

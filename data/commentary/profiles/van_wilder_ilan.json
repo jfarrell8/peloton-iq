@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Not a primary attacker; functions as high-altitude domestique who maintains pace into final 3-7km on mountain stages before detaching when GC accelerations begin.",
+  "team_tactics": "Deployed as last domestique standing for GC leader on mountain stages, positioned to extend tempo into final kilometers. Team willing to let him detach rather than overextend his effort when leader is isolated.",
+  "terrain_preference": "Difficult mountain terrain where sustained tempo matters more than explosive accelerations. Struggles when pace intensifies under 3km or on steepest gradients requiring repeated attacks.",
+  "vulnerability": "Crash-prone in technical finishes and roundabouts (3 crashes/DNFs across observations). Drops when GC contenders launch decisive attacks inside 7km, unable to follow explosive pace changes.",
+  "key_patterns": [
+    "Functions as last domestique for team leader on mountain stages, extending support into final 3-7km.",
+    "Drops when GC attacks intensify, marking transition point where leader must ride alone.",
+    "Multiple crash incidents in technical sections, including late-race roundabouts and finish approaches.",
+    "Versatile tactically: deployed both for mountain support and sprint lead-outs depending on stage profile."
+  ],
+  "form_trajectory": "neutral: Most recent 2023 observation shows improved mountain support capacity versus 2022 crashes, but still fundamentally a domestique role without progression to protected status",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "VAN WILDER Ilan",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2022 Tour de Suisse Stage 1",
+    "2022 Tour de Suisse Stage 8",
+    "2022 Volta Ciclista a Catalunya Stage 5",
+    "2023 Giro dItalia Stage 4",
+    "2023 Giro dItalia Stage 4"
+  ]
+}

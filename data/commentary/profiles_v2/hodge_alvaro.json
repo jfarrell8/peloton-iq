@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Not a primary attacker; relies on late-race sprint positioning within final 2km. Depends on organized leadout delivery rather than initiating moves.",
+  "team_tactics": "Quick-Step provides flexible support but he holds secondary status in hierarchy. Team will abandon sprint prep if race situation demands different tactics. Leadout releases him around 1600m mark.",
+  "terrain_preference": "Flat sprint stages where positioning and organization matter more than pure power. Messy, disorganized finales appear to favor his opportunistic style over structured sprints.",
+  "vulnerability": "Exposed when team releases leadout too early (before 1600m) for his sprint characteristics. Sacrificed when Quick-Step has conflicting GC or tactical priorities in split race situations.",
+  "key_patterns": [
+    "Secondary status within Quick-Step hierarchy; twice abandoned or deprioritized when team had other options.",
+    "Succeeds in chaotic finales when opponent trains disintegrate; won when Bennett's leadout fell apart.",
+    "Timing-sensitive sprinter requiring late release; struggled when deployed before 1600m mark.",
+    "Benefits from team flexibility; won when Quick-Step unexpectedly pivoted to support him over GC."
+  ],
+  "form_trajectory": "neutral: Mixed results showing capability to win when supported, but unclear development trajectory given secondary team role",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "HODGE Alvaro",
+  "built_from": [
+    "2019 BinckBank Tour Stage 5",
+    "2019 BinckBank Tour Stage 5",
+    "2019 Criterium du Dauphine Stage 1",
+    "2019 Criterium du Dauphine Stage 3"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-19",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won a chaotic flat sprint from behind after late downhill negated leadout trains, passing BENNETT Sam in final 100m.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POZZATO Filippo attacked with 3.5km remaining, forcing sprinter teams to chase rather than organize traditional leadouts.",
+      "Late downhill before finish neutralized traditional leadout trains; riders positioning at crest proved more important than early sprint trains.",
+      "GAVIRIA Fernando demonstrated superior ability to navigate messy sprint from behind when leadouts fractured on technical finish."
+    ],
+    "rider_signals": {
+      "POZZATO Filippo": "positive: attacked solo at 3.5km in sprint stage showing opportunistic racing instincts despite being away from leadout duties",
+      "BENNETT Sam": "negative: second consecutive runner-up finish suggests closing speed deficit despite superior positioning from team leadout",
+      "GAVIRIA Fernando": "positive: fourth stage win demonstrates ability to win from chaos when traditional sprint trains disintegrate",
+      "THOMAS Geraint": "negative: DNS indicates accumulated damage from earlier crashes, suggesting Sky mismanaged recovery after GC hopes ended",
+      "STUYVEN Jasper": "positive: third place demonstrates Quick-Step can produce results without dedicated leadout on technical finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:58:16.034111+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2021 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-10",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER HOORN Taco won from the breakaway after going solo with under 3km to go, peloton misjudged his strength by over 30 seconds",
+    "winner": "VAN DER HOORN Taco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-Hansgrohe paced aggressively early to drop sprinters for Sagan, but their effort backfired as it set up breakaway victory.",
+      "Peloton miscalculated van der Hoorn's strength by 30+ seconds with 2km to go despite controlling gap to 19s at final climb.",
+      "Solo attacks inside final 3km from breakaway remnants succeeded because chasing groups were caught and absorbed into peloton dynamics."
+    ],
+    "rider_signals": {
+      "VAN DER HOORN Taco": "positive: Unemployed in December, went solo under 3km maintaining 22-second gap with 1km remaining against organized peloton",
+      "MERLIER Tim": "negative: Dropped on unclassified 7.1% climb with 15km remaining despite stage suiting sprint characteristics",
+      "SAGAN Peter": "negative: Finished third despite Bora setting tempo all day to thin sprinter field on climbs",
+      "CIMOLAI Davide": "positive: Won bunch sprint for second, showing resilience after peloton's tactical miscalculation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:39:29.223261+00:00"
+}

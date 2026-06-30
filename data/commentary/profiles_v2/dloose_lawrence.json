@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Aggressive breakaway rider who launches premature solo efforts on climbs, often going too early and getting caught before or at the summit (meters from the line).",
+  "team_tactics": "Insufficient data to determine clear team support patterns; appears to ride opportunistically in breakaways without coordinated team setup.",
+  "terrain_preference": "Shows willingness to attack on summit finishes, but lacks the power reserve to sustain efforts to the line. Exposed on finishing climbs where timing and sustained power are critical.",
+  "vulnerability": "Poor pacing judgment on climbs - consistently attacks too far from finish, depleting power reserves and getting caught within sight of the line. Lacks the explosive finish needed after hard climbing efforts.",
+  "key_patterns": [
+    "Launches solo attacks prematurely on climbs, caught before summit (2 observations)",
+    "Insufficient power reserve for summit finishes despite animated racing (2 observations)",
+    "Breakaway-oriented racing style, aggressive but tactically naive timing (2 observations)"
+  ],
+  "form_trajectory": "negative: Multiple failed attacks due to premature efforts and power depletion suggest poor form or tactical judgment in early 2017",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DLOOSE Lawrence",
+  "built_from": [
+    "2017 Tour of Oman Stage 3",
+    "2017 Tour of Oman Stage 4"
+  ]
+}

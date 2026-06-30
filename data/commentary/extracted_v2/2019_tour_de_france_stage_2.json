@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-07",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TEUNISSEN Mike retained yellow as Jumbo-Visma won team time trial by 20 seconds over Ineos, who started first and set benchmark time of 29:18.",
+    "winner": "TEUNISSEN Mike",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos starting first as defending champions lost psychological advantage, allowing rivals to chase known target time throughout parcours.",
+      "Quick-Step/Deceuninck lost stage by 0.75 seconds, showing fourth-man discipline at line determines TTT outcomes more than raw speed.",
+      "Tony Martin visibly struggling to hold wheels in final km suggests Jumbo's roster depth exceeded individual star power approach."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "neutral: Ineos designated him to cross line first for potential yellow jersey, revealing GC hierarchy over Bernal already established",
+      "TEUNISSEN Mike": "positive: unexpectedly took hard pull with 2km remaining while in yellow, risking jersey loss but demonstrating team-first mentality",
+      "MARTIN Tony": "negative: sprinting to rejoin wheels in closing kilometer exposes declining TTT form despite reputation as time trial specialist"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:59:01.204967+00:00"
+}

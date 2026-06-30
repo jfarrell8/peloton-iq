@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-25",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GEOGHEGAN HART won Giro on final ITT by 39 seconds over HINDLEY after starting final stage level on time.",
+    "winner": "GEOGHEGAN HART Tao",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GEOGHEGAN HART pulled 30 seconds on HINDLEY by 10km checkpoint, revealing superior ITT pacing execution under pressure.",
+      "GANNA beat teammate DENNIS by 32 seconds despite DENNIS peaking for GC support, showing specialization hierarchy matters.",
+      "KELDERMAN moved onto podium via ITT from outside top-3, exposing softer competition when GC leaders neutralize each other."
+    ],
+    "rider_signals": {
+      "GEOGHEGAN HART Tao": "positive: Extracted 39-second margin in 15.7km ITT after starting dead-even, elite clutch TT performance under maximum pressure",
+      "HINDLEY Jai": "negative: Lost 30 seconds by 10km checkpoint in must-win ITT, suggesting pacing collapse or insufficient TT-specific preparation",
+      "GANNA Filippo": "positive: Beat CAMPENAERTS by 32 seconds for fourth stage win, but DENNIS finishing second shows domestique role limited peak form",
+      "DENNIS Rohan": "positive: Second on stage after mountain domestique duties suggests maintained ITT form despite GC support workload",
+      "KELDERMAN Wilco": "positive: Moved onto final podium via ITT while GC leaders battled suggests underrated time trialist when fresh",
+      "ALMEIDA João": "positive: Moved from fifth to fourth on final ITT, recovered form after mid-race decline"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:26:17.188125+00:00"
+}

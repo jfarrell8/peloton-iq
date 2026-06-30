@@ -1,0 +1,25 @@
+{
+  "label": "2018 Ronde Van Vlaanderen",
+  "race_name": "Ronde Van Vlaanderen",
+  "race_date": "2018-04-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "TERPSTRA Niki attacked solo approximately 22-23km from finish after Quick-Step controlled positioning through critical bergs, held off disorganized chase.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step neutralized team number disadvantage by controlling positioning through penultimate climbs before Terpstra's solo move.",
+      "LAMPAERT drove pace 25-30km out to string peloton, preventing organized chase group formation when Terpstra attacked.",
+      "Favorites' recon knowledge failed them; knowing parcours didn't translate to countering Quick-Step's positioning control."
+    ],
+    "rider_signals": {
+      "TERPSTRA Niki": "positive: 22-year-old showed unexpected diesel engine to hold solo from ~22km, suggesting underrated time-trial strength",
+      "VAN AVERMAET Greg": "negative: pre-race favorite failed to position or respond when Terpstra moved, BMC early crash impacted race execution",
+      "GILBERT Philippe": "positive: fourth place without visible attacks suggests strong positioning discipline, threat even when not animating",
+      "VANMARCKE Sep": "positive: fifth confirms consistency in Flemish monuments, but never animated suggesting conservative team tactics",
+      "SAGAN Peter": "negative: sixth after multiple placings reveals inability to win when Quick-Step controls tempo through bergs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:26:23.390522+00:00"
+}

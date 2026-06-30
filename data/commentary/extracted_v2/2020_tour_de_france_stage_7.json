@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-04",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won Stage 7 after BORA demolished sprint field on brutal opening climbs, while PORTE/LANDA/POGAČAR lost 1:20-2:53 in final 40km positioning failure.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BORA placed SAGAN fifth wheel on opening Cat-3 to crack sprinters when he couldn't match pure speed.",
+      "INEOS joined front-pacing early on hilly sprint stage, signaling willingness to fragment field before Pyrenees.",
+      "GC contenders PORTE/LANDA/POGAČAR lost 1:20+ in final 40km despite only 13s gaps pre-stage, catastrophic positioning.",
+      "Tailwind made opening climbs harder for sprinters to survive, contrary to conventional climbing expectations."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Recognized sprint form deficit pre-race, orchestrated team to eliminate sprint competition via attrition instead of contesting finale.",
+      "BENNETT Sam": "negative: Lost green jersey after being dropped on opening climbs despite BORA targeting him specifically.",
+      "PORTE Richie": "negative: Lost 2:53 despite starting only 13s behind yellow, catastrophic positioning day before Pyrenees.",
+      "POGAČAR Tadej": "negative: Lost 1:20 in final 40km on moderate stage, concerning positioning error pre-mountains.",
+      "LANDA Mikel": "negative: Lost 1:21 same group as Pogačar, poor team support visible.",
+      "VAN AERT Wout": "positive: Third stage win already, Jumbo-Visma controlling race tempo across all terrain types."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:26:18.538992+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 18",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-21",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINGEGAARD attacked on Hautacam with van Aert's early breakaway sacrificing green jersey energy to soften Jumbo's workload before final climb",
+    "winner": "VINGEGAARD Jonas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "van Aert attacked from gun in green jersey forcing peloton chase, burning rivals before Hautacam to aid Vingegaard",
+      "Bardet used DSM teammate complete early breakaway work then dropped back, replicating previous stage's pacing pattern successfully",
+      "POGACAR isolated without teammates on final climb while Jumbo-Visma controlled multiple breakaway phases reducing his tactical options"
+    ],
+    "rider_signals": {
+      "van Aert Wout": "negative: attacked immediately from start in green jersey but dropped on second-to-last climb, suggesting declining mountain form",
+      "POGACAR Tadej": "negative: finished 42 seconds down and showed visible pain within final kilometer, first time distress visible on face",
+      "THOMAS Geraint": "neutral: moved into podium position but gained time through others' losses rather than attacking strength",
+      "BARDET Romain": "positive: DSM teammate did early breakaway work then Bardet paced himself perfectly, replicating Stage 17 conservation tactics",
+      "GAUDU David": "positive: attacked near finish for time gains showing recovery ability after earlier struggles in Pyrenees"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:22:48.210139+00:00"
+}

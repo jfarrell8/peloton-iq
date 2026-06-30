@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-18",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won stage 8 into Pesaro by waiting until ACKERMANN Pascal's early final-corner launch faded, then countering with 200m remaining.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CICCONE Giulio aggressively hunted KOM points at every opportunity, suggesting King of Mountains jersey defense takes priority over energy conservation.",
+      "EWAN's team isolated him early but his sprint acceleration reserves compensated, showing lead-out collapse doesn't eliminate top sprinters on technical finishes.",
+      "ACKERMANN Pascal launched from final corner 250m out despite full team support still available, revealing overeagerness after multi-day winless streak.",
+      "GC teams repositioned leaders on descent 25km from finish despite flat finale, indicating concern about crashes overrides energy conservation logic."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: converted isolation into victory by timing launch perfectly after ACKERMANN faded, demonstrating elite acceleration compensates for lead-out absence",
+      "ACKERMANN Pascal": "negative: initiated sprint from final corner with full team still present, wasted advantage by going 250m out when rivals were conserving",
+      "VIVIANI Elia": "neutral: refused to follow own lead-out train repeatedly, positioning behind EWAN instead suggests doubt in CONSONNI/SÉNÉCHAL pace judgment",
+      "CICCONE Giulio": "positive: attacked for KOM points multiple times despite peloton chase, showing jersey defense aggression outweighs breakaway cooperation norms",
+      "ROGLIČ Primož": "neutral: positioned on second wheel with 25km remaining on flat roads, indicating extreme crash caution despite no GC threat materializing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:59:13.094104+00:00"
+}

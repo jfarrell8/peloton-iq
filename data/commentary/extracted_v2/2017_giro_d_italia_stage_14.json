@@ -1,0 +1,28 @@
+{
+  "label": "2017 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-20",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN Tom attacked with 1km to go on Oropa climb, dropped QUINTANA with sustained power to take stage and extend GC lead by 24 seconds via bonuses",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MOVISTAR burned ROJAS early to set pace for QUINTANA but rode too hard, self-destructing before key climb sections.",
+      "ZAKARIN attacked 6.2km out forcing multiple accelerations that isolated GC contenders before final kilometer selection.",
+      "DUMOULIN sitting on wheels until 1km mark reveals time trialists can win GC mountain stages by conserving rather than responding early.",
+      "YATES Adam dropped by DUMOULIN despite sitting on wheel shows pure TT power breaks traditional climbers even with drafting advantage."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Won mountain stage despite being primarily a time trialist, suggesting he's the complete GC package not just chrono specialist",
+      "QUINTANA Nairo": "negative: Lost 24 seconds despite teammates setting brutal early pace, unable to respond when DUMOULIN attacked in final kilometer",
+      "ZAKARIN Ilnur": "neutral: Strong enough to attack at 6.2km and animate race but lacked finishing power to hold off DUMOULIN's late acceleration",
+      "ROJAS JJ": "negative: MOVISTAR domestique rode so hard on approach he opened gap to own team, tactical miscalculation of pacing",
+      "BALMER Thibault": "negative: FDJ rider went backwards after team introduced climb, suggesting team burned too hot too early",
+      "POZZOVIVO Domenico": "negative: Showed heart attacking mid-climb but completely finished before summit, poor energy management for stage profile"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:55:50.469112+00:00"
+}

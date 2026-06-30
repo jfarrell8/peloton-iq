@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 1",
+  "race_name": "Tour de France",
+  "race_date": "2020-08-29",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won Stage 1 in a surprise sprint finish ahead of PEDERSEN Mads, BENNETT Sam, and SAGAN Peter after wet, technical descents fragmented the peloton.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GREIPEL André lost 2 minutes solo on descent before regrouping, exposing veteran weakness in technical wet conditions early.",
+      "Multiple crashes within 3km banner nullified time gaps, rewarding late positioning over sustained pace-making through technical sections.",
+      "BENNETT Sam's crash mid-stage forced costly effort to rejoin on hard terrain, undermining sprint legs despite top-4 finish.",
+      "KRISTOFF Alexander wasn't originally selected for team Tour roster; late pandemic substitutions altered sprint hierarchy and expectations."
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: opportunistic winner despite low pre-race profile, first yellow at age 33 in eighth Tour",
+      "BENNETT Sam": "negative: crashed early, regrouped but visibly fatigued in sprint after hard chase effort",
+      "PEDERSEN Mads": "positive: second place from Trek leadout suggests genuine sprint speed, not just domestique role",
+      "SAGAN Peter": "neutral: fifth but consistent, clearly targeting green jersey accumulation over stage hunting",
+      "GREIPEL André": "negative: dropped 2 minutes on wet descent, technical handling deterioration signals career decline",
+      "DE BUYST Jasper": "negative: crashed on finish line circuit, compromising EWAN's leadout for finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:33:36.004429+00:00"
+}

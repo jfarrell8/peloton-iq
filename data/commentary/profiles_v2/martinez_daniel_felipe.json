@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who relies on surviving climbs in reduced groups rather than explosive attacks. Thrives in slow-speed sprint finishes from small groups after sustained climbing efforts.",
+  "team_tactics": "Heavy reliance on dedicated domestique support for climb pacing (Camna in 2020). Team sets tempo to control selection rather than launching aggressive moves, positioning Martinez for finale opportunism.",
+  "terrain_preference": "Medium-length climbs that create attrition without requiring explosive accelerations. Best suited to breakaway scenarios where sustained climbing reduces group size for his sprint finish.",
+  "vulnerability": "Struggles on final rises when expected to perform as GC contender rather than stage hunter. Exposed when forced into defensive racing or when climbs require repeated accelerations over pure endurance.",
+  "key_patterns": [
+    "Succeeds from breakaways with domestique pacing support, not solo aggressive moves (2020 Tour evidence)",
+    "Performs better as opportunist stage hunter than designated GC contender role (2020 vs 2022)",
+    "Tactical maturity in small-group finales; can win slow-speed sprints after hard climbing (2020 Tour)"
+  ],
+  "form_trajectory": "negative: 2022 showed inability to meet GC expectations after 2020 stage success, suggesting role confusion or declining climbing form",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MARTINEZ Daniel Felipe",
+  "built_from": [
+    "2020 Tour de France Stage 13",
+    "2020 Tour de France Stage 13",
+    "2022 Tour de Suisse Stage 1"
+  ]
+}

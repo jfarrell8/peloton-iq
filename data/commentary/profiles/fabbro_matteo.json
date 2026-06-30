@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Long-range solo efforts initiated after extended periods of attacking, capable of sustaining breakaways for 30+ kilometers. Prefers extended attrition over explosive accelerations.",
+  "team_tactics": "Deployed in aggressive domestique role for leadouts on challenging terrain. Willing to sacrifice own chances through repeated attacks to soften competition before protected riders move.",
+  "terrain_preference": "Hot conditions and endurance-testing stages where sustained power over 1.5+ hours of racing advantages him. Long-distance breakaways where tactical confusion among GC teams can be exploited.",
+  "vulnerability": "Lacks finishing punch to convert solo efforts or deliver successful leadouts. Depends on disorganized chase dynamics; vulnerable when strong teams commit to organized pursuit.",
+  "key_patterns": [
+    "Engages in prolonged attacking sequences lasting over an hour before committing to solo moves.",
+    "Nearly successful breakaways rely on GC team hesitation rather than outright strength dominance.",
+    "Functions as aggressive domestique attempting aggressive leadouts to drop sprinters on challenging finales."
+  ],
+  "form_trajectory": "neutral: showed exceptional endurance reserves in Tirreno but failed to deliver tactical objectives at Giro, suggesting strong engine without conversion ability",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "FABBRO Matteo",
+  "built_from": [
+    "2020 Giro d'Italia Stage 6",
+    "2020 Tirreno Adriatico Stage 7",
+    "2020 Tirreno Adriatico Stage 7"
+  ]
+}

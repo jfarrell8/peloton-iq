@@ -1,0 +1,26 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-07",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GODDU David threw his bike to steal the uphill finish from celebrating WOUT van Aert who sat up 5 meters early",
+    "winner": "GODDU David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "B&B Hotels deployed four riders to breakaway then attacked on Côte de Salvert despite missing KOM points, revealing team GC ambition.",
+      "TotalEnergies burned domestiques faster than planned protecting VUILLERMOZ's jersey, with GOUGEARD dropped early from break chase.",
+      "Van Aert celebrated prematurely before actual finish line on steep ramp, losing all momentum on gradient when sitting up."
+    ],
+    "rider_signals": {
+      "VUILLERMOZ Alexis": "negative: Jumbo-Visma accidentally lost yellow jersey to him day prior, then lost it back within 24 hours",
+      "VAN AERT Wout": "negative: Celebrated victory 5 meters early on steep ramp, sat up losing momentum and stage to late bike throw",
+      "GODDU David": "positive: Timed bike throw perfectly on steep finish after van Aert error, gains 6-second GC advantage before TT weakness",
+      "VERMAERKE Kevin": "neutral: Disappointed with missed opportunity previous day but salvaged white jersey as consolation",
+      "JORGENSEN Matteo": "positive: Movistar climber moved into white jersey with top-5 finish, emerged as unexpected GC card"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:04:41.974788+00:00"
+}

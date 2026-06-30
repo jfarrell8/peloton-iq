@@ -1,0 +1,25 @@
+{
+  "label": "2019 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-04",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ITURRIA Mikel attacked with 25km remaining on home roads, held off desperate chase by 6 seconds for maiden professional victory.",
+    "winner": "ITURRIA Mikel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo Visma allowed 15+ minute gap to 14-rider break since best placed O'Connor started 37min down GC.",
+      "ITURRIA's 25km solo attack succeeded where multiple late break reshuffles failed due to counter-attacking fatigue.",
+      "CAVAGNA's TT efforts from previous day caused late-stage collapse despite initially bridging gaps post-puncture."
+    ],
+    "rider_signals": {
+      "ITURRIA Mikel": "positive: Pro Continental rider sustained 25km solo effort on local roads, suggesting home advantage motivates beyond normal limits",
+      "O'CONNOR Ben": "negative: Dropped on Col d'Isbeguy despite being strongest GC-placed rider in break, questionable climbing form",
+      "CAVAGNA Remi": "negative: Legs exploded 8km from finish after bridging post-puncture, confirming TT specialists can't recover within 24hrs",
+      "ROGLIC Primoz": "neutral: Jumbo Visma's willingness to concede 18.5 minutes reveals confidence threshold sits around 2-minute GC buffer"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:18:24.267627+00:00"
+}

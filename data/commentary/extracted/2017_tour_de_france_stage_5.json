@@ -3,24 +3,27 @@
   "race_name": "Tour de France",
   "race_date": "2017-07-05",
   "stage": 5,
-  "channel": "NBC Sports",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "ARU Fabio attacked in massive gear 1.5 miles from finish on Planche des Belles Filles, soloed to 16-second stage win while FROOME took yellow.",
+    "one_line_summary": "ARU Fabio attacked alone at 1.5km to go on Planche des Belles Filles, dropped everyone in an oversized gear for first Tour stage win, FROOME Chris took yellow.",
     "winner": "ARU Fabio",
-    "commentary_quality": "moderate",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "Team Sky controlled entire climb with six riders but Froome couldn't follow Aru's oversized gear attack, questioning stage race sharpness.",
-      "Yates Simon attacked aggressively showing climbing form superior to other white jersey contenders, gap only 24 seconds not usual hours.",
-      "Martin Dan overtook Port Richie in final kilometer suggesting BMC leader already cracking on short steep finishes under 6km."
+      "ARU Fabio's massive gear attack at 1.5km negates power disadvantage, locks legs briefly mid-effort but recovers cadence to finish.",
+      "Team Sky controlled entire Planche des Belles Filles base with six riders yet FROOME Chris couldn't match ARU's acceleration.",
+      "MARTIN Dan's counterattack after FROOME's move exploited PORTE Richie's momentary hesitation, taking bonus seconds.",
+      "YATES Simon attacked pre-finish showing white jersey contenders race aggressively even without GC threat on short HC climbs."
     ],
     "rider_signals": {
-      "ARU Fabio": "positive: attacked in oversized gear then recovered cadence to finish, form building with two wins in two weeks entering Tour",
-      "FROOME Chris": "neutral: controlled race into yellow but couldn't respond to Aru's acceleration, less emphatic than expected for peak form",
-      "PORT Richie": "negative: locked up when Martin attacked late, already conceding time bonuses to Froome on short 5.9km climb",
-      "YATES Simon": "positive: looked strongest of white jersey contenders attacking late, targets jersey not just top-10",
-      "QUINTANA Nairo": "neutral: lost time as expected on steep short climb, needs longer ascents to compete"
+      "ARU Fabio": "positive: won in building form (two wins prior two weeks), excels on steep gradients looking light, now genuine GC threat",
+      "FROOME Chris": "negative: uncharacteristically couldn't follow ARU's acceleration despite perfect cadence and team dominance, less sharp than expected",
+      "PORTE Richie": "negative: locked up when MARTIN Dan counterattacked, lost time again to FROOME via bonus seconds, marginal on first mountain test",
+      "YATES Simon": "positive: attacked aggressively near finish, best-looking white jersey contender, climbed strongest of U25 cohort",
+      "QUINTANA Nairo": "neutral: lost expected time on short steep climb, needs longer ascents to compete effectively",
+      "MARTIN Dan": "positive: timed counterattack perfectly after FROOME moved, overtook PORTE for bonus seconds showing tactical sharpness",
+      "KWIATKOWSKI Michał": "positive: pulled massive tempo at base for Sky, will be solid domestique rest of tour"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:11:16.762241+00:00"
+  "extracted_at": "2026-06-28T21:10:42.810865+00:00"
 }

@@ -1,0 +1,24 @@
+{
+  "label": "2017 Tour de Pologne Stage 6",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-03",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARICHKA Yaakov won stage 6 sprint with Bianchi-Triestina leadout, taking his fourth stage victory while maintaining orange jersey by 19 seconds over Marini.",
+    "winner": "MARICHKA Yaakov",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Bianchi-Triestina leadout positioned Marichka only 5th-7th wheel at 600m but trusted late sprint timing over early positioning.",
+      "UnitedHealthcare disrupted leadout but lacked final punch, revealing team sprint organization insufficient against single powerful finisher."
+    ],
+    "rider_signals": {
+      "MARICHKA Yaakov": "positive: fourth stage win demonstrates dominance on flat Chinese stages, confident holding back in leadout until final 300m",
+      "MARINI Nicolas": "neutral: second at 19 seconds GC, consistently placing but lacks stage-winning speed against Marichka",
+      "CARTIER": "negative: crashed during stage despite earlier breakaway dominance, reliability issue under pressure",
+      "MUSICIAN Anton": "positive: Basque Mints rider showing unexpected sprint capabilities in Asian race, moving into points contention"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:09:32.969582+00:00"
+}

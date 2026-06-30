@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Launches disruptive attacks on final climb approaches and from breakaways, targeting moments that force GC teams to react. Demonstrates strong climbing ability to sustain efforts against higher-ranked opposition.",
+  "team_tactics": "Used in dual-threat breakaway role: either as leadout support for teammates in intermediate sprints or as protected attacker when breakaway survival is viable. Team grants freedom for opportunistic moves.",
+  "terrain_preference": "Climbing stages where breakaways have survival potential. Effective on approaches to final climbs where attacks can create tactical disruption. Strong enough to resist GC team pressure in breakaways.",
+  "vulnerability": "Limited data on head-to-head GC competition. Role appears constrained to breakaway hunting rather than sustained stage racing—no evidence of multi-day defensive riding or GC ambitions.",
+  "key_patterns": [
+    "Attacks on final climb approaches to force reactions, evidenced in 2 races",
+    "Breakaway specialist capable of finishing podium against GC team pressure",
+    "Versatile tactical usage: both support role and protected attacker in breakaways",
+    "Strong climbing credentials demonstrated across Dauphiné and Tour stages"
+  ],
+  "form_trajectory": "positive: Stepped up from reconnaissance/support role early Tour to breakaway podium finish, showing development within Grand Tour",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "SHAW James",
+  "built_from": [
+    "2023 Criterium du Dauphine Stage 5",
+    "2023 Tour de France Stage 13",
+    "2023 Tour de France Stage 6"
+  ]
+}

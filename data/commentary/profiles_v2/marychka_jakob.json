@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not rely on pure climbing attacks; instead survives difficult terrain then capitalizes with sprint finish when terrain eases or on flatter conclusions.",
+  "team_tactics": "Heavy reliance on teammates for pacing back after being distanced on climbs; team shields weaknesses rather than launches attacks, then positions for final sprint",
+  "terrain_preference": "Stage profiles with climbs followed by recovery sections or sprint finishes; struggles on sustained gradients but excels when can use sprint after climbing",
+  "vulnerability": "Sustained climbing exposes this rider - gets dropped on prolonged ascents and depends entirely on teammates to limit losses and facilitate recovery",
+  "key_patterns": [
+    "Dropped on climbs but recovers with team pacing support (observed Tour de Pologne)",
+    "Strong finishing speed after surviving difficult terrain enables stage wins (Tour de Pologne victory)",
+    "Relies on domestique work to compensate climbing vulnerability, not self-sufficient on mountains"
+  ],
+  "form_trajectory": "positive: despite climbing struggles, showed ability to win both stage and overall with tactical intelligence and finishing power",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MARYCHKA Jakob",
+  "built_from": [
+    "2017 Tour de Pologne Stage 7",
+    "2017 Tour de Pologne Stage 7"
+  ]
+}

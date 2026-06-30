@@ -1,0 +1,25 @@
+{
+  "label": "2020 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-06",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb sprinted from Bennett's slipstream on uphill finish with 1.4km crash splitting field, taking stage and race lead on bonus seconds.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EWAN positioned in BENNETT's slipstream then emerged late rather than leading out, exploiting uphill drag finish dynamics.",
+      "MITCHELTON-SCOTT burned HAMILTON and MEYER for IMPEY but left him exposed right-side too early on gradient.",
+      "DECEUNINCK controlled peloton for BENNETT but 1.4km crash nullified their positioning work with three-kilometer rule protection."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: used Bennett as final leadout on uphill finish rather than positioning independently, shows tactical sophistication",
+      "BENNETT Sam": "negative: shook head and abandoned sprint despite having Ewan's wheel, suggests gradient exceeded his capability",
+      "IMPEY Daryl": "negative: went long from right boards with full leadout train but faded badly, poor gradient selection",
+      "ROHAN Dennis": "neutral: punctured but got back via GEOGHEGAN LOPEZ wheel, mechanical luck issue only"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:27:14.171947+00:00"
+}

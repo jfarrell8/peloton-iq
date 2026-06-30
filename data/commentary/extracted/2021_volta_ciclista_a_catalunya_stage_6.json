@@ -1,0 +1,28 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-27",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won the bunch sprint after CAVAGNA Rémi's late attack was shut down by sprinter teams unwilling to give him any leeway with 7km remaining.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CAVAGNA Rémi immediately marked by sprinter teams despite only 7-second gap, showing reputation now prevents breakaway tolerance pre-sprint finishes.",
+      "SAGAN Peter positioned top-five wheels at 300m, refused following leadout attempts, relied on positioning over power conservation through roundabouts.",
+      "MOLANO Juan Sebastián chose SOTO's wheel sixth position while SAGAN took IMPEY fourth wheel, demonstrating positioning beats pure speed advantage.",
+      "Quick-Step attempted roundabout attacks at 700m and 500m markers but isolated their own leadout, revealing coordination failure pattern."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: First bunch sprint win in nearly two years despite fatigue from Tirreno-Sanremo and no planned attendance here.",
+      "CAVAGNA Rémi": "positive: Strong condition attacking final climb but sprinter teams now categorically refuse any gap tolerance regardless of terrain.",
+      "MOLANO Juan Sebastián": "negative: Picked wrong wheel sixth position while SAGAN positioned fourth, suggesting tactical positioning deficit cost potential victory.",
+      "KELDERMAN Wilco": "positive: Exceeded GC expectations post-crash, with Bora-Hansgrohe controlling for sprint while maintaining GC position.",
+      "IMPEY Daryl": "positive: Positioned third wheel with only one leadout man, kicked early 180m uphill, only beaten by SAGAN's superior positioning.",
+      "DENNIS Rohan": "neutral: Pulled off leadout early in final 3km, leaving Quick-Step isolated but keeping YATES Adam safe from crashes."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:16:35.441137+00:00"
+}

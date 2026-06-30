@@ -1,21 +1,31 @@
 {
-  "attacking_style": "Launches long-range solo attacks exploiting breakaway group dysfunction or after altitude training blocks, targeting moments 50+ km from finish on undulating terrain with climbing components before key circuits or decisive climbs.",
-  "team_tactics": "Operates with autonomy in breakaways; attacks are individually initiated rather than team-orchestrated, capitalizing on tactical situations where rival teams must respond and expend resources.",
-  "terrain_preference": "Undulating parcours with sustained climbing efforts that allow attrition through tempo rather than explosive gradients. Thrives on courses where climbing ability forces work from stronger teams before finale.",
-  "vulnerability": "Limited observations suggest reliance on solo efforts may expose him when peloton has strong numerical chase motivation; success depends on forcing rivals to commit domestiques early.",
+  "attacking_style": "Initiates long-range solo attacks (40-60km out) before main climbs begin, exploiting transitional terrain and tactical chaos in chase groups. Shows preference for attacking early on circuits or when approaching key climbing sections.",
+  "team_tactics": "Deployed as tempo-control domestique on flat sections in Grand Tours, then given freedom for breakaway opportunities. Team avoids placing GC pressure on him while using his engine for extended pulls.",
+  "terrain_preference": "Excels on mixed terrain combining extended flat/rolling sections into medium climbs. Strong on uphill finishes when launched from breakaways. Time trial strength provides backup tactical option.",
+  "vulnerability": "Caught in final 2-8km when specialist climbers or organized chase groups hunt him down. Long solo efforts leave him exposed to fresh legs on final steep pitches.",
   "key_patterns": [
-    "Executes long-range solo attacks from breakaways, forcing peloton's hand at critical race moments (2 instances)",
-    "Targets pre-finale climbing sections to exhaust rivals' domestique support before decisive terrain (2 instances)",
-    "Benefits from altitude training camps with immediate race application in stamina-demanding efforts (1 confirmed, tactical fit)",
-    "Identifies dysfunctional group dynamics as attack trigger rather than waiting for terrain catalysts (2 instances)"
+    "Attacks 40-60km from finish on transitional terrain, before specialists engage (3 instances)",
+    "Demonstrates exceptional pacing intelligence: manages energy to survive long solos and counter late (3 instances)",
+    "Initiates moves when chase groups become disorganized, exploiting tactical confusion (2 instances)",
+    "Functions as breakaway domestique in GC team support, controlling tempo before climbs (2 instances)",
+    "Strong uphill finish capacity from breaks, holding position against pure climbers (2 instances)"
   ],
-  "form_trajectory": "positive: altitude training investment in 2023 showed immediate tactical dividends with increased capacity for sustained solo efforts at Monument level",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2022-23 shows tactical intelligence intact but shifted to team domestique role versus 2020-21 breakaway stage-hunting success",
+  "races_analysed": 8,
+  "confidence": "high",
   "rider_name": "TRATNIK Jan",
   "built_from": [
+    "2020 Giro d'Italia Stage 16",
+    "2020 Giro d'Italia Stage 16",
+    "2020 Giro d'Italia Stage 16",
+    "2020 Paris - Nice Stage 5",
+    "2021 Giro d'Italia Stage 14",
+    "2021 Giro d'Italia Stage 14",
+    "2021 Giro d'Italia Stage 4",
+    "2021 Vuelta a Espana Stage 1",
     "2022 Bretagne Classic - Ouest-France",
-    "2023 Liege-Bastogne-Liege",
-    "2023 Liege-Bastogne-Liege"
+    "2022 Bretagne Classic - Ouest-France",
+    "2023 Vuelta a Espana Stage 11",
+    "2023 Vuelta a Espana Stage 6"
   ]
 }

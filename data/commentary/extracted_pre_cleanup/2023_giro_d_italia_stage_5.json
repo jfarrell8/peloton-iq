@@ -1,0 +1,28 @@
+{
+  "label": "2023 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won a chaos-marred sprint after crashes at 7km and inside final 300m eliminated key rivals on rain-soaked roads.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PINOT Thibaut targeted KOM points early from break then soft-pedaled back, revealing points jersey farming tactic over stage commitment.",
+      "ZOCCARATO Samuele solo attack from breakaway within 25km shows late aggression ineffective when peloton controls at sub-40kph average speed.",
+      "Alpecin, Trek-Segafredo, DSM all committed leadout trains despite treacherous conditions, none willing to cede organizational advantage despite crash risk.",
+      "Crashes at 7km forced ROGLIC Primoz and GC riders to chase hard, exposing vulnerability window before 3km safety rule applies."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: crashed twice (dog-related incident mid-race, again inside 3km), showed fragility in chaotic conditions despite escaping time loss",
+      "CAVENDISH Mark": "negative: back wheel slipped on white line in final sprint, crashed at finish line suggesting bike handling issues in wet",
+      "GROVES Kaden": "positive: navigated two major crash points (7km, final 300m) to win maiden Giro stage, shows superior wet-weather positioning skill",
+      "MILAN Jonathan": "positive: second place plus intermediate sprint points while defending maglia ciclamino demonstrates consistency in treacherous sprint finishes",
+      "ROGLIC Primoz": "positive: caught in 7km crash but successfully chased back, showing recovery capacity under pressure",
+      "LEKNESSUND Andreas": "positive: retained maglia rosa through crash chaos at 7km, DSM team control effective despite conditions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:04:12.286061+00:00"
+}

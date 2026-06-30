@@ -1,0 +1,29 @@
+{
+  "label": "2021 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-28",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked with 6.5km to go on Alpe Motta's 10% gradient, extended advantage late while BERNAL was dropped by ALMEIDA inside final 500m but limited losses to 30 seconds.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange controlled break gap to maximum 4.5 minutes from 70km out, enabling team leader stage hunting without GC threat.",
+      "BERNAL dropped by domestique ALMEIDA final 500m signals vulnerability even when saving podium, concerning for remaining mountain stages.",
+      "Split on descent with 70km remaining caused INEOS to burn GANNA domestique early, depleting support before decisive final climb.",
+      "YATES attacked with 6.5km on 10% gradient rather than waiting for steeper sections, exploiting sustained gradient over explosive finish."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: dropped by own domestique Almeida in final 500m suggests deeper weakness than GC defense narrative implies",
+      "ALMEIDA Joao": "positive: stronger than maglia rosa in finale while working as domestique, repositioning as potential podium threat",
+      "MCCARTHY Jay": "negative: dropped from chase group on 10% gradient, confirming altitude/steep gradient limitation for top-10 ambitions",
+      "VLASSOV Aleksandr": "neutral: had to chase back to group after difficulty, maintaining 4th at 7:10 but showing no offensive capacity",
+      "YATES Simon": "positive: cut 30+ seconds from Bernal with sustained 6.5km effort rather than explosive attack, potentially more dangerous over multi-climb stage",
+      "CARUSO Damiano": "positive: followed initial Yates attack and limited losses to 20 seconds, maintaining podium proximity at 2:29",
+      "MARTINEZ Daniel": "positive: proved most valuable INEOS domestique by recovering from split and pacing Bernal on final climb after others failed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:38:40.499708+00:00"
+}

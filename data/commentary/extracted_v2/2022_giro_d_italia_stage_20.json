@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-28",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai attacked inside final 5km on Marmolada with Kemner pacing, dropped CARAPAZ who cracked catastrophically to lose 1:25 and the Maglia Rosa.",
+    "winner": "COVI Alessandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Kemner planted in early 15-rider break as satellite rider, crucial when Hindley bridged with 3km remaining for pacing support.",
+      "Carapaz defended 3-second lead passively until Hindley attacked, revealing he was already broken rather than tactical choice.",
+      "Bahrain placed both Novak and Kemner in break, dual satellite strategy paid off with Novak chasing stage, Kemner supporting GC."
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "positive: launched first offensive inside 5km showing superior form recognition, bridged to planted teammate Kemner for crucial pacing",
+      "CARAPAZ Richard": "negative: catastrophic collapse losing 1:25 on final climb despite only needing to limit losses to 17 seconds before TT",
+      "KEMNER Leonard": "positive: executed satellite breakaway role perfectly, paced Hindley after being caught with 3km remaining on Marmolada",
+      "LANDA Mikel": "positive: passed imploding Carapaz to move within striking distance of podium at 1:51 despite being 1:05 down pre-stage",
+      "NIBALI Vincenzo": "negative: distanced early in final 5km climb, unable to defend position in final Giro despite fresh legs assumption"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:09:37.096415+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden timed his sprint perfectly on the uphill finish, coming around MILANO in the final 25 meters after extensive Alpecin-Deceuninck pacing.",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin-Deceuninck controlled tempo entire stage without needing GROVES visible, conserving him completely for uphill finish at 350m left turn.",
+      "MILANO went from 100+ meters out on steep uphill, forced early by lack of leadout, nearly held off GROVES.",
+      "Sharp left turn at 350m to go became selection point; EF rider crashed, decreasing radius punished early positioning errors.",
+      "Break caught late enough that peloton sprint teams had minimal recovery time between catch and uphill finish drag."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "positive: demonstrated superior timing discipline and uphill sprint power, second Vuelta stage win confirms status as dominant sprinter here",
+      "MILANO": "positive: showed unexpected form holding off GROVES until final 25m from 100m launch with no leadout support",
+      "POGACAR": "neutral: visibly conserving energy by skipping intermediate sprints unlike Tour de France behavior, signaling GC focus shift",
+      "VINGEGAARD Jonas": "neutral: sitting at 31 seconds after TTT, no positioning effort shown in sprint stage",
+      "ROGLIČ Primož": "neutral: 37 seconds down at 10th overall, passive in sprint stage as expected"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:34:14.314912+00:00"
+}

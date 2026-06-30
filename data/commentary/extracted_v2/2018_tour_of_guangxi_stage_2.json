@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour of Guangxi Stage 2",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-17",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won the bunch sprint by narrowest margin over JAKOBSEN Fabio after Lotto-Jumbo controlled breakaway on short leash throughout wet stage",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Lotto-Jumbo controlled entire stage for GROENEWEGEN despite wet conditions, revealing team commitment even when sprint uncertain",
+      "KAVANAUGH Rémi collected bonus seconds at two intermediate sprints from breakaway, signaling GC ambition before stage 4 mountains",
+      "Bora-Hansgrohe delivered textbook leadout despite letting Lotto control pace, suggesting confidence in ACKERMANN's pure speed over positioning"
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "negative: vanquished in sprint despite team controlling all day, losing to ACKERMANN's superior pure speed",
+      "ACKERMANN Pascal": "positive: won against quality sprint field despite Lotto-Jumbo controlling tempo, fourth WorldTour win of 2018 confirms emerging top-tier status",
+      "KAVANAUGH Rémi": "positive: aggressively collected bonus seconds at both intermediate sprints, tactical preparation for GC attempt on mountain stage 4",
+      "GRIVKO Andriy": "neutral: second consecutive day in breakaway suggests form present but Astana lacks sprint option to capitalize"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:36:44.987601+00:00"
+}

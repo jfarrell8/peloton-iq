@@ -1,0 +1,28 @@
+{
+  "label": "2017 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-21",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KÄMNA Lennard won a reduced sprint after Quintana crashed on the penultimate climb requiring bike change, Dumoulin waited then controlled finish.",
+    "winner": "KÄMNA Lennard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Dumoulin refused to exploit Quintana's mechanical/crash on climb, waited demonstrating tactical confidence in GC control through neutralization over attacking.",
+      "Jungels repeatedly attacked late solo despite Luxembourger numbers disadvantage, forcing disorganized chase that favored opportunistic late sprinters like Kämna.",
+      "Pozzovivo and Visconti attempted Italian alliance off front but failed to commit cooperatively, allowing stronger finishers to bridge and outsprint.",
+      "Quick-Step sixth stage win reveals team depth exploitation: different riders winning different stage profiles throughout three-week race."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: demonstrated psychological dominance by refusing to attack crashed rival, confident enough in GC gap to wait rather than exploit mechanicals",
+      "QUINTANA Nairo": "negative: crash and bike change on penultimate climb cost momentum but still salvaged second and six-second bonus, showing resilience despite deficit",
+      "JUNGELS Bob": "positive: repeatedly attacked solo late despite isolation, forcing stronger GC riders to chase, punching above climbing weight class",
+      "MOLLEMA Bauke": "negative: attacked post-GC disaster from previous day but lacked sprint speed to finish, revealing desperation rather than form recovery",
+      "KÄMNA Lennard": "positive: sat on attacks then outsprinted climbers including Quintana and Yates, unexpected finishing speed for reduced group finish",
+      "POZZOVIVO Domenico": "neutral: strong enough to make late selection but couldn't commit to cooperation or outsprint, tactically indecisive at critical moment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:56:06.032610+00:00"
+}

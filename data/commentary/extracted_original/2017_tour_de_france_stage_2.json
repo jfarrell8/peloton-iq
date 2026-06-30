@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-02",
+  "stage": 2,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won Stage 2 sprint in Germany after Quick Step's leadout plan failed, jumping wheel-to-wheel through gaps in final 500m",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick Step riders racing on expiring contracts showed extra motivation, Kittel delivering under team-wide pressure to prove renewal worth.",
+      "Crash at 30km from corner entry, team doing chase work (Katusha) pushed too hard unnecessarily, exposing positioned-correctly Froome.",
+      "Kittel's willingness to abandon leadout plan and improvise wheel-jumping through gaps demonstratessprinter maturity rarely seen early-Tour.",
+      "Finney's 200km breakaway for KOM jersey swap reveals tactical willingness to suffer for secondary classification this early."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Showed rare tactical patience and improvisation ability when planned Quick Step leadout failed in final 500m",
+      "FROOME Chris": "neutral: Positioned correctly 8 riders back behind working teams but caught in crash, no tactical error evident",
+      "FINNEY Taylor": "positive: Aggressive early Tour tactics, leading 99% of stage for KOM points suggests non-traditional GC support role",
+      "CAVENDISH Mark": "positive: Reached fifth place after crashing at 50km/h shows exceptional recovery ability under duress",
+      "KUENG Stefan": "positive: White jersey suggests BMC prioritizing his results over pure domestique role for Porte early-Tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:10:42.492594+00:00"
+}

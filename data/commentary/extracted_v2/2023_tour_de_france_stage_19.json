@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-21",
+  "stage": 19,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won stage 19 in a photo finish against ASGREEN Kasper after early break established at 12 seconds, holding through cat-3 climb 28km from finish.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PEDERSEN repeatedly attacked early to filter Breakaway strength before settling into nine-rider group that stuck.",
+      "UAE placed TRENTIN in break despite defending yellow, signaling confidence in Vingegaard's control but hedging GC options.",
+      "Break established at only 12 seconds initially, suggesting peloton willing to gamble on low gap holding on lumpy profile."
+    ],
+    "rider_signals": {
+      "POLITT Nils": "negative: snapped chain from power output in break, then received wrong pedal setup from team car, catastrophic mechanical management",
+      "PEDERSEN Mads": "positive: won third Tour stage by controlling sprint from 500m out despite VAN DER POEL leadout for ASGREEN",
+      "VAN DER POEL Mathieu": "neutral: led out ASGREEN in sprint despite green jersey implications, prioritizing teammate over personal points classification",
+      "VINGEGAARD Jonas": "neutral: stayed in peloton on lumpy stage 28km cat-3, confirms no GC attacks expected until final mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:57:47.014738+00:00"
+}

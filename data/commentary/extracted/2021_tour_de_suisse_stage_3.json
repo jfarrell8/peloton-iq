@@ -1,0 +1,21 @@
+{
+  "label": "2021 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2021-06-08",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won Stage 3 with an intermediate sprint-style finish, making the final climb hard but unable to reduce the group below 30-40 riders.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "VAN DER POEL Mathieu attempted selection on final climb but 30-40 riders remained, revealing insufficient gradient for pure climbers' advantage.",
+      "Sprint contested one lap before finish rather than traditional finale, suggesting technical circuit finish rewarded positioning over pure speed."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: back-to-back stage wins with team doing 'really big effort' suggests Alpecin-Fenix controlling race despite numerical disadvantage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:13:21.103412+00:00"
+}

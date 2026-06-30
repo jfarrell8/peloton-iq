@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 30,
+    "raw_chars": 1097,
+    "clean_chars": 1089,
+    "duration_mins": 1.1,
+    "clean_text": "the 83rd edition of Tour de Suisse got underway with a 9.5 kilometer trail in Lang now in Emmental central Switzerland bahrain Marita's Rowan Dennis started favorite the world time trial champion chasing a first victory in rainbow stripes fellow Aussie Michael Matthews of team Sun Webb was another chasing the early time of Bora hands crows Matti Bodnar and he would end the day third just over a second behind most of the stage favourites in general classification contender started early to avoid forecast rain in the final World Tour stage race ahead of next month's Tour de France Peter Sagan produced at I'm good enough for seventh as he chases another points jersey but there was no denying Dennis who eclipsed Bodnar's time by just 14 hundredths of a second to take a third tour de suisse career stage success Karen Thomas was the best of the GC favourites 17 seconds behind Denis in 13th the major placings already decided before the rains fell on the final riders Denis takes the first yellow jersey of the nine-day event ahead of Sunday's 160 kilometres a second stage road race",
+    "preview_start": "the 83rd edition of Tour de Suisse got underway with a 9.5 kilometer trail in Lang now in Emmental central Switzerland bahrain Marita's Rowan Dennis started favorite the world time trial champion chasing a first victory in rainbow stripes fellow Aussie Michael Matthews of team Sun Webb was another chasing the early time of Bora hands crows Matti Bodnar and he would end the day third just over a second behind most of the stage favourites in general classification contender started early to avoid ",
+    "preview_end": "er Sagan produced at I'm good enough for seventh as he chases another points jersey but there was no denying Dennis who eclipsed Bodnar's time by just 14 hundredths of a second to take a third tour de suisse career stage success Karen Thomas was the best of the GC favourites 17 seconds behind Denis in 13th the major placings already decided before the rains fell on the final riders Denis takes the first yellow jersey of the nine-day event ahead of Sunday's 160 kilometres a second stage road race"
+  },
+  "status": "transcript_saved"
 }

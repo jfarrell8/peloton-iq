@@ -1,0 +1,26 @@
+{
+  "label": "2017 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2017-01-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET won from a 5-man sprint after the decisive 3-rider break formed at 15km (Carrefour de l'Arbre), absorbing two chasers before the velodrome.",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Record fast pace (143km in 3h) eliminated pure diesel riders before cobbles selections, favoring puncheurs over endurance specialists.",
+      "Decisive move at Carrefour de l'Arbre (15km out) not earlier cobbles; STEBAR's team driving neutralized attacks before critical juncture.",
+      "Two chasers (MOSCON, STUYVEN) bridged to lead trio entering velodrome, proving late positioning trumps early break energy expenditure."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: won from reduced sprint after earlier crash at Wallers, showing superior recovery capacity under race-record pace",
+      "STEBAR Zdenek": "negative: led out the velodrome sprint but lacked finishing power, tactical error surrendering wheel before line",
+      "BOONEN Tom": "negative: unable to follow decisive move at 15km despite being with leaders at 40km, age-related decline in final hour",
+      "SAGAN Peter": "neutral: present in lead group at Mons-en-Pévèle (84km out) but disappeared before Carrefour selection, endurance limit exposed",
+      "MOSCON Gianni": "positive: bridged from chase group to leaders in final kilometers, demonstrating superior late-race speed reserve"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:01:26.884214+00:00"
+}

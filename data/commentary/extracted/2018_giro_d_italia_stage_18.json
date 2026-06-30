@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-24",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SCHACHMANN won from breakaway while YATES cracked for first time, losing 25-30 seconds to DUMOULIN, FROOME, and POZZOVIVO on final climb",
+    "winner": "SCHACHMANN Maximilian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SCHACHMANN repeatedly attacked PFINGSTEN in breakaway finish, wearing down mental state before final acceleration broke him.",
+      "DUMOULIN initiated GC attack on final climb that exposed YATES, forcing rivals FROOME and POZZOVIVO to follow.",
+      "YATES lost contact when podium rivals attacked together, suggesting collaborative anti-leader tactics emerged late race."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: first crisis of race, lost 25-30s on final climb after appearing unbreakable earlier",
+      "SCHACHMANN Maximilian": "positive: at 24, showed tactical maturity by repeatedly attacking to break opponent mentally before final sprint",
+      "DUMOULIN Tom": "positive: initiated crucial GC attack that cracked race leader, gaining time back with three days remaining",
+      "FROOME Chris": "positive: recovered from being dropped to counter-attack and gain time on pink jersey",
+      "POZZOVIVO Domenico": "positive: followed key attacks to gain time on race leader despite not initiating",
+      "PFINGSTEN Christoph": "negative: repeatedly clawed back to breakaway but mental state destroyed by repeated accelerations before final sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:24:59.931810+00:00"
+}

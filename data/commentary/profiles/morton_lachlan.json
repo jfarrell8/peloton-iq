@@ -1,19 +1,18 @@
 {
-  "attacking_style": "Launches big-gear, power-based attacks mid-climb but lacks the explosive acceleration to create decisive gaps. Relies on sustained strength rather than sharp changes of pace.",
-  "team_tactics": "Insufficient data to establish clear team tactical patterns from single race observation.",
-  "terrain_preference": "Medium-gradient climbs where sustained power is advantageous; struggles on steep pitches requiring rapid acceleration or explosive changes of rhythm.",
-  "vulnerability": "Organized chase groups can neutralize attacks due to lack of finishing acceleration. Ultra-endurance background doesn't translate to sharp race-winning moves.",
+  "attacking_style": "Deployed in early, field-softening attacks on climbs before protected riders make their move. Classic domestique sacrifice pattern rather than personal victory attempts.",
+  "team_tactics": "Used as expendable attacking domestique to elevate pace and deplete rivals before team leader's decisive move. Executes pre-planned softening attacks on key climbs.",
+  "terrain_preference": "Climbs where sustained attacking effort can wear down the peloton, such as Green Mountain. Strength appears suited to prolonged tempo-raising rather than explosive finishes.",
+  "vulnerability": "Single race data insufficient to identify clear weaknesses. Role as domestique suggests not trusted for final winning moves or flat sprint scenarios.",
   "key_patterns": [
-    "Mid-climb attacks using big gears and steady power rather than explosive acceleration.",
-    "Attacks immediately draw chase responses, suggesting predictable timing or lack of surprise element.",
-    "Strong base fitness from ultra-endurance background but lacks racing-specific explosive qualities."
+    "Sacrificial early attacks on climbs to soften field for protected riders (Tour of Oman)",
+    "Classic domestique role rather than protected status or personal ambitions (Tour of Oman)"
   ],
-  "form_trajectory": "unknown: single observation from early 2020 insufficient to determine trajectory or current form",
+  "form_trajectory": "unknown: Only one race observation from 2017; insufficient data to assess trajectory or current form",
   "races_analysed": 1,
   "confidence": "low",
   "rider_name": "MORTON Lachlan",
   "built_from": [
-    "2020 UAE Tour Stage 2",
-    "2020 UAE Tour Stage 2"
+    "2017 Tour of Oman Stage 5",
+    "2017 Tour of Oman Stage 5"
   ]
 }

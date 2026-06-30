@@ -4,85 +4,21 @@
   "race_date": "2018-02-13",
   "stage": 1,
   "video": {
-    "video_id": "P8qo3ac743A",
-    "title": "Dubai Tour 2018 | Stage 1 Race Report",
-    "published": "2018-02-06 20:00:01+00:00",
-    "channel": "GCN",
-    "url": "https://youtube.com/watch?v=P8qo3ac743A",
-    "match_score": 77.5,
-    "all_candidates": [
-      {
-        "video_id": "P8qo3ac743A",
-        "title": "Dubai Tour 2018 | Stage 1 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-06 20:00:01+00:00",
-        "match_score": 77.5
-      },
-      {
-        "video_id": "W5X-R50EcY0",
-        "title": "Tour Down Under 2018 | Stage 1 Race Report",
-        "channel": "GCN",
-        "published": "2018-01-16 10:33:53+00:00",
-        "match_score": 66.67
-      },
-      {
-        "video_id": "78XnO8iXYwU",
-        "title": "Abu Dhabi Tour 2018 | Stage 1 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-21 19:32:09+00:00",
-        "match_score": 62.5
-      },
-      {
-        "video_id": "-KTuqGMzJ14",
-        "title": "Dubai Tour 2018 | Stage 5 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-10 15:39:21+00:00",
-        "match_score": 57.5
-      },
-      {
-        "video_id": "ZR17rMByUI0",
-        "title": "Dubai Tour 2018 | Stage 2 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-07 14:36:33+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "KcHxquyN7hQ",
-        "title": "Dubai Tour 2018 | Stage 3 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-08 15:02:12+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "oCdreJx2pM8",
-        "title": "Dubai Tour 2018 | Stage 4 Race Report",
-        "channel": "GCN",
-        "published": "2018-02-09 14:02:58+00:00",
-        "match_score": 37.5
-      },
-      {
-        "video_id": "lxab7eXHM1c",
-        "title": "Tour Down Under 2018 | Stage 6 Report",
-        "channel": "GCN",
-        "published": "2018-01-21 10:56:11+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "Wy8QYQbdENY",
-        "title": "Who Is Geraint Thomas? Tour de France Winner 2018 | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-29 17:40:05+00:00",
-        "match_score": 26.67
-      },
-      {
-        "video_id": "33P8lVAtw2Q",
-        "title": "5 Key Climbs Of The 2018 Tour de France | Tour de France 2018",
-        "channel": "GCN",
-        "published": "2018-07-12 16:09:27+00:00",
-        "match_score": 26.67
-      }
-    ]
+    "video_id": "HO6UGTqVJqc",
+    "title": "Summary - Stage 1 - Tour of Oman 2018",
+    "url": "https://youtube.com/watch?v=HO6UGTqVJqc",
+    "channel": "playlist_import",
+    "published": "2018-02-14T13:10:04Z",
+    "match_score": 999
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 38,
+    "raw_chars": 1305,
+    "clean_chars": 1289,
+    "duration_mins": 2.1,
+    "clean_text": "day 1 of the 2018 Tour of Oman a stage 2 sultan qaboos university 162 and a half kilometers and the first stage presenting a big opportunity for the sprinters the peloton rolling out of the race start and immediately a big attack forming with three riders going clear and then for combining at the front the peloton relaxed in the sunshine and our four intrepid escapees built a big advantage Connaughton avakov blue sport Maxine Farah zone of sport bladder and bowel was pierre-luc perish on of 40 no sammich and Brian van Gogh team of the room port Ned Lanza lottery with the temperatures notching 30 degrees centigrade the advantage continued to grow inspiring the local fans at the side of the roads para Shawn dropped away United Arab Emirates on the front of the peloton driving things on with Sun web combining time now for the peloton to get interested and bring the breakaway back ten kilometers to go and the race set up for a sprint quick step first going to the front to try and lead out their sprinter but through the final turn vital concept looking for their first big victory of the season it was Missoula first but then co card who hit the line Kaka the Frenchman taking stage number one and the first red jersey of this year's race has advantaged for seconds on Cavendish",
+    "preview_start": "day 1 of the 2018 Tour of Oman a stage 2 sultan qaboos university 162 and a half kilometers and the first stage presenting a big opportunity for the sprinters the peloton rolling out of the race start and immediately a big attack forming with three riders going clear and then for combining at the front the peloton relaxed in the sunshine and our four intrepid escapees built a big advantage Connaughton avakov blue sport Maxine Farah zone of sport bladder and bowel was pierre-luc perish on of 40 n",
+    "preview_end": "gs on with Sun web combining time now for the peloton to get interested and bring the breakaway back ten kilometers to go and the race set up for a sprint quick step first going to the front to try and lead out their sprinter but through the final turn vital concept looking for their first big victory of the season it was Missoula first but then co card who hit the line Kaka the Frenchman taking stage number one and the first red jersey of this year's race has advantaged for seconds on Cavendish"
+  },
+  "status": "transcript_saved"
 }

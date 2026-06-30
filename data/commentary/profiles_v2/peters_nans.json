@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not initiate attacks; wins from large early breakaways (13+ riders) that are granted substantial time gaps (7+ minutes) by the peloton. Opportunistic rather than aggressive.",
+  "team_tactics": "Minimal visible team support in breakaway scenarios. Demonstrated vulnerability when mechanical support needed, suggesting limited dedicated domestique coverage in breaks.",
+  "terrain_preference": "Benefits from stages where peloton grants freedom to large breaks. Not a climber who distances others on final ascents; relies on breakaway survival rather than selective terrain.",
+  "vulnerability": "Mechanical issues expose him critically due to poor team car coordination and gap management. Appears dependent on peloton complacency rather than individual power to create winning opportunities.",
+  "key_patterns": [
+    "Won from identical 13-rider early breakaways given 7+ minute gaps (2 instances)",
+    "Does not attack within breakaway; survives to finish rather than distancing companions",
+    "Team support infrastructure weak: puncture with no car support, poor gap management"
+  ],
+  "form_trajectory": "negative: 2022 showed tactical incompetence with puncture/support failure after making break, no wins since 2020 double",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "PETERS Nans",
+  "built_from": [
+    "2020 Paris - Nice Stage 8",
+    "2020 Tour de France Stage 8",
+    "2022 Volta Ciclista a Catalunya Stage 1"
+  ]
+}

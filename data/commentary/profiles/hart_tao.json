@@ -1,18 +1,20 @@
 {
-  "attacking_style": "Insufficient data to establish attacking patterns. TT performance suggests potential for time gains against clock rather than explosive climbing attacks.",
-  "team_tactics": "Part of dual-leadership strategy with Ineos, positioned as co-leader following strong TT performance that kept him within GC contention.",
-  "terrain_preference": "Strong time trial capability demonstrated (career-best 3rd, -4sec). Mountain stage capability referenced but not directly observed in available data.",
-  "vulnerability": "Unknown from available data - no observations of weaknesses under pressure or specific terrain struggles.",
+  "attacking_style": "Insufficient data to establish clear attacking pattern. Observations focus on time trial capability rather than racing attacks.",
+  "team_tactics": "INEOS deploys Hart as part of multi-leader strategy with depth across TT and climbing profiles, reducing reliance on single captain.",
+  "terrain_preference": "Unexpectedly strong on flat time trials for a climber profile; demonstrates diesel engine capability beyond typical pure climber limitations.",
+  "vulnerability": "Unknown from available data - no observations showing weaknesses in specific race scenarios or conditions.",
   "key_patterns": [
-    "Career-best time trial performance positioning within 1min GC suggests improving TT discipline.",
-    "Activated as dual GC option for Ineos based on TT result rather than climbing demonstration."
+    "Career-best TT performances despite climber classification, beating specialists like Kung",
+    "Operates within INEOS multi-leader depth structure alongside Thomas with similar capabilities",
+    "Evolved profile showing diesel/TT strength beyond traditional pure climbing specialist"
   ],
-  "form_trajectory": "positive: career-best TT performance in 2023 Giro elevated status to viable two-card GC strategy",
+  "form_trajectory": "positive: 2023 Giro showed career-best TT with podium finish, indicating development beyond pure climbing specialization",
   "races_analysed": 1,
   "confidence": "low",
   "rider_name": "HART Tao",
   "built_from": [
-    "2023 Giro dItalia Stage 9",
-    "2023 Giro dItalia Stage 9"
+    "2023 Giro d'Italia Stage 9",
+    "2023 Giro d'Italia Stage 9",
+    "2023 Giro d'Italia Stage 9"
   ]
 }

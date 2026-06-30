@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-09",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT won the uphill finish in Lausanne with a late sprint, outgunning MATTHEWS after POGACAR's UAE team controlled the final climb without needing to attack.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE led POGACAR out for time bonus at 1km despite no GC threat, McNulty peeling off perfectly timed on 12% gradient.",
+      "Matthews positioned second wheel behind leadout but van Aert's raw power overcame textbook positioning on 12% finale ramp.",
+      "Breakaway caught because peloton crashes distracted chasers, then bunch immediately regrouped showing COVID depleted teams still controlled pace."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "neutral: Crashed twice early but UAE still strong enough to lead him out for bonus seconds, showing team depth concerns minimal",
+      "VAN AERT Wout": "positive: Third consecutive Tour with multiple stage wins, now winning punchy uphill sprints on 12% gradients not just flat power finishes",
+      "MATTHEWS Michael": "negative: Second runner-up finish this Tour despite perfect positioning, lacking final 50m acceleration on steep gradients",
+      "PIDCOCK Tom": "positive: Third place for time bonus at 10-12% finish suggests GC ambitions, unusual for first-year Tour rider",
+      "O'CONNOR Ben": "negative: Lost 9+ minutes on moderate climb day, major GC collapse compared to other contenders who only lost 4 seconds"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:24:50.616180+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de Pologne Stage 6",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-09",
+  "stage": 6,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "PREIDLER Georg attacked inside final kilometer on slight uphill finish, held off YATES Simon and BUCHMANN Emanuel after BENNETT George's early move was absorbed.",
+    "winner": "PREIDLER Georg",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BENNETT George attacked Bokovina summit 1.5km out but lacked finish punch when caught, revealing time-to-line misjudgment on short descents.",
+      "TEUNS Dylan appeared dropped on final climb then surged to close BENNETT's gap, exposing false weakness as tactical positioning.",
+      "PREIDLER Georg launched inside 600m on uphill finish kick while favorites marked each other, exploiting domestique invisibility after summit.",
+      "YATES Simon responded to PREIDLER but couldn't close final 400m, suggesting insufficient late-race acceleration despite climbing strength."
+    ],
+    "rider_signals": {
+      "BENNETT George": "negative: attacked too early at 1.5km on summit, swamped before finish when downhill negated his climbing advantage",
+      "TEUNS Dylan": "positive: feigned weakness on final climb then closed gap rapidly, demonstrating tactical deception and climbing reserves",
+      "PREIDLER Georg": "positive: timed attack perfectly inside 600m when favorites hesitated, showing superior finish timing awareness",
+      "YATES Simon": "neutral: strong enough to respond but lacked final acceleration to close domestique's gap on uphill drag",
+      "BUCHMANN Emanuel": "positive: marked YATES Simon effectively and finished strongly, demonstrating stage race form preservation",
+      "PINOT Thibaut": "neutral: attacked on descent but faded before finish, suggesting descending aggression without finishing power"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:39:38.684110+00:00"
+}

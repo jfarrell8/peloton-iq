@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Guangxi Stage 6",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-21",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the final sprint after teammate GILBERT executed a perfect 1.5km leadout, holding off ACKERMANN Pascal to secure his second stage victory and the points classification.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QuickStep controlled final despite ACKERMANN holding points jersey, prioritizing stage win over defending green for rival team.",
+      "Early break attempts with GC threats like KAVANAGH (17s back) immediately shut down by Sky domestiques protecting MOSCON's lead.",
+      "Belgian VANLANDSCHOOT showing unexpected aggression across both categorized climbs from Bahrain-Merida despite team lacking sprint option.",
+      "GILBERT's 1.5km leadout positioned JAKOBSEN in ACKERMANN's wheel—QuickStep using rival's positioning as tactical launchpad rather than creating own train."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Second stage win shows sustained form across full stage race week, rare for neo-pro sprinter",
+      "ACKERMANN Pascal": "negative: Had points jersey and SAGAT domestique available but couldn't prevent JAKOBSEN wheelsucking to stage and jersey double",
+      "VANLANDSCHOOT Tosh": "positive: Attacking both categorized climbs suggests leadership ambitions beyond domestique role at Bahrain-Merida",
+      "MOSCON Gianni": "neutral: Sky controlled without incident but MOSCON himself invisible—team strength masked individual contribution"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:37:33.241489+00:00"
+}

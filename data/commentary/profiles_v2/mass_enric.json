@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Attacks on final climbs with explosive accelerations, holding efforts to the line. Shows selective aggression on uphill finishes, particularly when descent vulnerabilities are not exposed (2018 Basque, 2021 Vuelta, 2023 Tirreno).",
+  "team_tactics": "Receives full domestique support through final kilometers even when not nominal GC leader. Team willing to pull through closing 4km and prioritize stage wins over overall classification when form is present.",
+  "terrain_preference": "Explosive uphill finishes and wall-type climbs suit best (matched Roglic to 500m). Exposed by technical descents and windy conditions where positioning becomes critical—struggles when cannot shelter.",
+  "vulnerability": "Documented descent struggles, particularly in crosswind conditions. Positioning weaknesses in technical downhill sections force conservative tactics earlier in stages (Tirreno 2023).",
+  "key_patterns": [
+    "Attacks final climb exclusively across all observed races; no early-stage aggression documented.",
+    "Strong form comes in blocks enabling team stage prioritization (Quick-Step 2018, Movistar 2021).",
+    "Can match top GC riders (Roglic) until final 500m on steep gradients.",
+    "Descent technical limitations force selective aggression only when uphill finishes guaranteed."
+  ],
+  "form_trajectory": "unknown: observations span 5-year period with significant gaps; 2023 shows ongoing selective aggression but insufficient recent data for trajectory",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MASS Enric",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 6",
+    "2018 Itzulia Basque Country Stage 6",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2023 Tirreno-Adriatico Stage 5",
+    "2023 Tirreno-Adriatico Stage 5"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-07",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GODEAU David won the uphill sprint finish at Castries-Ansi after Jumbo-Visma burned matches leading out VAN AERT but lost positioning in final curves.",
+    "winner": "GODEAU David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma used both ROGLIC and VINGEGAARD as lead-out on Cat-2 uphill finish, revealing GC riders sacrificing for sprinter.",
+      "Breakaway absorbed on final climb rather than earlier, allowing ROLAND to collect KOM points before bunch sprint setup.",
+      "GODEAU weaved through pack in final curves to steal win, exploiting VAN AERT's premature positioning celebration."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: Lost uphill sprint despite perfect Jumbo lead-out from GC riders, suggesting overconfidence or poor final 200m positioning",
+      "GODEAU David": "positive: Timed uphill sprint perfectly and navigated traffic better than favorite, significant form signal pre-Tour",
+      "VUILLERMOZ Alexis": "negative: Lost yellow jersey by 30+ seconds on Category 2 finish, weaker than expected on moderate climbing",
+      "GUERREIRO Ruben": "positive: Nearly podiumed uphill sprint finish, versatility signal for non-specialist climber",
+      "ROGLIC Primoz": "neutral: Worked as domestique for VAN AERT on uphill finish, tactical choice suggests Dauphine not primary objective"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:35:06.307366+00:00"
+}

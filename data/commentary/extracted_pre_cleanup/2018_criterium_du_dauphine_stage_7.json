@@ -1,0 +1,26 @@
+{
+  "label": "2018 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-06-10",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "YATES Adam caught NAVARRO Daniel in final meters after late attack, with THOMAS Geraint conceding less than 20 seconds to seal overall victory.",
+    "winner": "YATES Adam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Adam deliberately waited after initiating earlier on previous stages, suggesting learned patience pays on final summit finishes.",
+      "Sky protected BARDET Romain podium early, then abandoned THOMAS Geraint briefly on descent showing confidence in individual time gap.",
+      "BARDET Romain attacked on Col d'Amel with THOMAS and YATES responding, revealing podium contenders' hierarchy before final climb."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: Learned to suppress early attacking instinct, held fire until final meters showing tactical maturation for Tour de France",
+      "THOMAS Geraint": "positive: Absorbed attacks and limited losses under 20 seconds despite cracking late, confirming GC resilience under sustained pressure",
+      "NAVARRO Daniel": "neutral: Front-running from early break nearly succeeded until final meters, demonstrating long-range breakaway viability even on hard mountain stages",
+      "BARDET Romain": "negative: Attacking on penultimate climb failed to distance THOMAS or YATES, suggesting insufficient punch against in-form Sky riders",
+      "GAUDU David": "positive: Young rider showed strength reaching final climb first from early break despite facing multiple Cat 1 climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:22:39.586407+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour of Oman Stage 6",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-18",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the bunch sprint on final Matrah Corniche lap after CAVAGNA Rémi's solo breakaway was caught on the final climb.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVAGNA Rémi went solo from five-man break on Matrah Corniche climb, forcing peloton to see him both sides on laps.",
+      "HAAS Nathan and Katusha attacked final climb to exploit peloton's breakaway-chasing fatigue rather than wait for leadout.",
+      "Trek-Segafredo controlled final lap for NIZZOLO Giacomo despite 32-second deficit, revealing sprint team trumps GC protection on ceremonial stage."
+    ],
+    "rider_signals": {
+      "CAVAGNA Rémi": "positive: Attacked solo from breakaway on climb with technical risk-taking, forcing extended peloton chase despite inevitable catch.",
+      "KRISTOFF Alexander": "positive: Won sprint on Matrah Corniche after week-long drought, suggesting form peaked late rather than faded early.",
+      "HAAS Nathan": "neutral: Attacked final climb with Katusha despite not being in sprint contention, suggesting opportunistic GC time bonus hunt.",
+      "LUTSENKO Alexey": "positive: Won GC by 11 seconds over LÓPEZ, defending slim margin on technical circuit stage.",
+      "NIZZOLO Giacomo": "negative: Trek-Segafredo committed full leadout but failed to deliver stage win despite controlling final lap.",
+      "CORT Magnus": "neutral: Challenged KRISTOFF in sprint finish, confirming readiness for reduced bunch gallop over pure field sprint."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:44:55.173694+00:00"
+}

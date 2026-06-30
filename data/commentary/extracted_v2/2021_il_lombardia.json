@@ -1,0 +1,28 @@
+{
+  "label": "2021 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2021-10-09",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked solo on the Passo de Ganda final climb, dropped MASNADA on the descent despite the local's fearless chase, won by 30 seconds in Bergamo",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked solo on final climb Passo de Ganda similar to Tour de France tactics, distancing all chasers including NIBALI.",
+      "MASNADA local knowledge on 19-hairpin Selvino descent enabled chase-back after being dropped, but insufficient for sprint finish.",
+      "UAE Emirates rode without team support allowing POGACAR solo attack; no classic monument leadout train needed for strongest rider.",
+      "ROGLIC and VLASOV both showed poor form on climbs, DNF or dropped early contradicting pre-race GC rider expectations."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: Descended aggressively on technical 19-hairpin Selvino after solo climb attack, maintaining gap despite local chaser",
+      "MASNADA Fausto": "positive: Local Bergamo rider bridged back to POGACAR after being dropped 30 seconds on climb through superior descent",
+      "NIBALI Vincenzo": "neutral: Briefly animated with attack bridging to leaders but lacked finishing power, first win in years just days prior",
+      "ROGLIC Primoz": "negative: Not competitive for podium despite Monument pedigree, finished fourth unable to respond to POGACAR attack",
+      "VLASOV Aleksandr": "negative: Showed poor form and dropped early on climbs, pre-race GC contender failed to materialize",
+      "YATES Adam": "positive: Outsprinted ROGLIC for third podium position, unexpected top-three result in Monument without team support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:40:54.185396+00:00"
+}

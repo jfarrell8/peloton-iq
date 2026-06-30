@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who targets stage wins from early moves rather than late attacks. Excels on extremely steep gradients (24%+) where pure climbing power matters more than explosive acceleration.",
+  "team_tactics": "Operates with minimal team support, relying on personal initiative to infiltrate breaks on stages where peloton control is relaxed or non-existent. Not set up for GC protection.",
+  "terrain_preference": "Brutally steep mountain finishes where sustained power trumps punchy acceleration. Vulnerable on non-mountain stages where positioning errors prove costly.",
+  "vulnerability": "Peloton positioning and crash avoidance in compressed situations. Early time losses in Grand Tours on moderately difficult stages where GC teams control pace but gradients don't suit his strengths.",
+  "key_patterns": [
+    "Gains GC positions via breakaway infiltration on relaxed stages (2022 Tour, 2022 Vuelta wins).",
+    "Thrives on exceptionally steep gradients 20%+ where sustained climbing power decides outcome.",
+    "Positioning errors in bunch situations cost GC ambitions (2021 Vuelta crash, 2018 time loss).",
+    "Career resurgence after plateau: first GT stage win at age 30 (2022 Vuelta).",
+    "White jersey contender capabilities shown in 2017 Tour, strong young climber profile established early."
+  ],
+  "form_trajectory": "positive: first Grand Tour stage win at age 30 on extreme gradients suggests tactical maturity, shifted from GC vulnerability to breakaway success model",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "MEINTJES Louis",
+  "built_from": [
+    "2017 Tour de France Stage 12",
+    "2017 Tour de France Stage 17",
+    "2018 Tirreno-Adriatico Stage 1",
+    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2022 Tour de France Stage 14",
+    "2022 Tour de France Stage 14"
+  ]
+}

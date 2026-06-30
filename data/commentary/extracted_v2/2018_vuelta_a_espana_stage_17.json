@@ -1,0 +1,28 @@
+{
+  "label": "2018 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-12",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WOODS Michael attacked with 800m to go on the final Basque climb, barely held off TEUNS Dylan in a sprint after YATES Simon's mid-stage move gained only 4-5 seconds on GC contenders.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES Simon attacked when ARU crashed, forcing VALVERDE to chase sacrificially despite being 2:58 back on GC.",
+      "VALVERDE continued pedaling past the summit to gain time-cut margin, showing 2:41 gap management over passive GC group.",
+      "QUINTANA dropped when VALVERDE chased YATES move, revealing weakness when pace lifted unexpectedly mid-stage.",
+      "WOODS launched sprint with 800m remaining on uphill finish, earlier than typical for summit finishes in Basque Country."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: exploited ARU crash to attack, showing opportunistic race reading though gained only marginal 4-5 seconds",
+      "ARU Fabio": "negative: crashed on descent/technical section with STEINER, stayed down indicating significant impact",
+      "QUINTANA Nairo": "negative: immediately dropped when VALVERDE accelerated to chase YATES, concerning weakness on non-summit acceleration",
+      "VALVERDE Alejandro": "positive: chased despite being 2:58 down, then tactically rode through summit to maximize time-cut buffer",
+      "LOPEZ Miguel Angel": "negative: went deep early in breakaway then faded badly, poor pacing discipline on mountain stage",
+      "TEUNS Dylan": "positive: nearly stole stage from WOODS despite latter's tactical positioning, strong uphill sprint speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:41:14.497368+00:00"
+}

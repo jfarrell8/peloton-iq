@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Insufficient data to establish attacking pattern. Single observation shows tempo-setting role rather than personal offensive action.",
+  "team_tactics": "Deployed as tempo control instrument for Mitchelton-Scott, tasked with managing gap psychology rather than traditional chase or leadout duties in sprint scenarios.",
+  "terrain_preference": "Insufficient data across multiple terrain types. Single flat stage observation provides no clear terrain signature.",
+  "vulnerability": "Unknown. Single race observation insufficient to identify weaknesses or exploitable scenarios.",
+  "key_patterns": [
+    "Used in early tempo-setting role 30km from finish, controlling race rhythm (1 observation)"
+  ],
+  "form_trajectory": "unknown: single observation from early 2020 insufficient to assess trajectory or current form",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BOUWMAN Sam",
+  "built_from": [
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 1"
+  ]
+}

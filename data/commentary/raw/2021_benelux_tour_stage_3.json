@@ -47,10 +47,17 @@
         "match_score": 72.5
       },
       {
-        "video_id": "3QqAuMRAcWw",
-        "title": "Tour de France 2021: Stage 3 On-Bike Highlights",
+        "video_id": "QNp3wIzRqM8",
+        "title": "Tour de Suisse 2021: Stage 3 On-bike highlights",
         "channel": "Velon",
-        "published": "2021-06-28 18:06:38+00:00",
+        "published": "2021-06-08 20:33:16+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "NCdgsayAGB4",
+        "title": "Tour de Romandie 2021 | Stage 3 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-05-01 14:30:27+00:00",
         "match_score": 72.5
       },
       {
@@ -61,28 +68,29 @@
         "match_score": 72.5
       },
       {
+        "video_id": "3QqAuMRAcWw",
+        "title": "Tour de France 2021: Stage 3 On-Bike Highlights",
+        "channel": "Velon",
+        "published": "2021-06-28 18:06:38+00:00",
+        "match_score": 72.5
+      },
+      {
         "video_id": "Zo8rYTZnNxI",
         "title": "Tour de Suisse 2021: Stage 3 highlights",
         "channel": "Velon",
         "published": "2021-06-08 19:48:29+00:00",
         "match_score": 72.5
-      },
-      {
-        "video_id": "Gqgn5Y1izfk",
-        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 3 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2021-04-13 14:21:08+00:00",
-        "match_score": 72.5
-      },
-      {
-        "video_id": "SHo5UDwIeeI",
-        "title": "Tour of Norway 2021: Stage 3 Highlights",
-        "channel": "Velon",
-        "published": "2021-08-21 17:29:25+00:00",
-        "match_score": 72.5
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 81,
+    "raw_chars": 2888,
+    "clean_chars": 2888,
+    "duration_mins": 3.7,
+    "clean_text": "this is stage three of the baluaza belgium tour from hotel 174 and a half kilometers not a lot of obstacles on the course today it's a stage made for the sprinters one little 700 meter long climb on the local lap in scarab hopeful and of course the golden kilometer to gain some extra seconds towards the gc but on paper this is a stage for the fast man straight from the gun a breakaway of five riders with bones with spake hummum maestri and the man with the most aerodynamic bars in cycling john wilhelm from skip they never really got a big lead because there's so many sprinters in the peloton that those teams get the breakaway under a tight control sprinting for the combativity award the super eight classification is jan he also was in the breakaway on day one and picked up 21 points on that day and he added some more today which means that he wears the white jersey on saturday the sprinter teams are uniting towards the bunch sprint as there is a crash with josper phillips and his teammate christian sparraglia phillips seems to be in a lot of pain he does manage to finish the stage but the doctor will have to look at that knee last little dig from the breakaway with maestri and burlins but look at the sprinter teams look at lotto sudall having everything under control as we leave the dongle strat and on to the finished trade in scherpenhoefel serem last attack there by pyotr havoc of the beat cycling team controlled by eve lompat but on the right side of the road it's the black and red of lotto sudall with caleb ewen fighting for the wheel of caleb you and anastar buany nicola bonifacio and also pascal akamon and on the other side of the road with the yellow floor helmet it's denny from purple from poppa with an early sprint but matched quite easily there by caleb yuen look at the speed of the australian winning this third stage ahead of ackermann and michelle morkov this is an important moment for the team who got a lot of criticism after caleb left the giro d'italia early as was planned and this gives a lot of confidence also ahead of the tour de france where the australian wants to win more stages this year fantastic win by the entire lotto sudah team and caleb you and akamon morkov on the podium from popo moschetti dupont koi kokar nice and akov in the top 10 of today's stage them go even pool was not in any trouble today he still keeps that blue leaders jersey ahead of the queen stage on saturday with a very comfortable margin on his teammate of 45 seconds and 53 on johnny martial his breakaway companion on day one and the rest of the field is down over a minute on remco ave nepal we should feel right at home on the little climbs in the ardennes we face on saturday and uh well it's going to be very hard for the rest of the peloton to get remco even pool out of that blue jersey but they're going to try in the ardennes on saturday you",
+    "preview_start": "this is stage three of the baluaza belgium tour from hotel 174 and a half kilometers not a lot of obstacles on the course today it's a stage made for the sprinters one little 700 meter long climb on the local lap in scarab hopeful and of course the golden kilometer to gain some extra seconds towards the gc but on paper this is a stage for the fast man straight from the gun a breakaway of five riders with bones with spake hummum maestri and the man with the most aerodynamic bars in cycling john w",
+    "preview_end": "lue leaders jersey ahead of the queen stage on saturday with a very comfortable margin on his teammate of 45 seconds and 53 on johnny martial his breakaway companion on day one and the rest of the field is down over a minute on remco ave nepal we should feel right at home on the little climbs in the ardennes we face on saturday and uh well it's going to be very hard for the rest of the peloton to get remco even pool out of that blue jersey but they're going to try in the ardennes on saturday you"
+  },
+  "status": "transcript_saved"
 }

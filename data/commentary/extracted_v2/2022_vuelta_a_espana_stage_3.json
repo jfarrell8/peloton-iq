@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won Stage 3 via Danny Van Poppel's leadout with 200m to go, capitalizing on patience after a hard right corner 800m from finish.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van Poppel's leadout power to 200m proved decisive; Bennett waited through final corner while others panicked early.",
+      "Merlier's Soudal team controlled pace but had zero leadout at critical moment, shaking heads post-race.",
+      "Ackermann's long-distance sprint from far out failed; corner with 800m neutralized pure power sprinters without positioning."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Back-to-back wins confirm return to form, demonstrated tactical patience through technical finish.",
+      "MERLIER Tim": "negative: Missing from final sprint two consecutive days despite team controlling race; leadout disintegration issue.",
+      "PETTERSON Mads": "positive: Second place two consecutive days shows consistency but lacks final 50m acceleration against Bennett.",
+      "VAN POPPEL Danny": "positive: Elite leadout man holding pace to 200m separates top sprinters from rest.",
+      "AFFINI Edoardo": "neutral: Track specialist's TTT power earned red jersey but acknowledged mountains will cost him quickly."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:33:17.419656+00:00"
+}

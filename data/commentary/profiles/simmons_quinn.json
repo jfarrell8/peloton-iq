@@ -1,21 +1,30 @@
 {
-  "attacking_style": "Forced into early, long-range attacks (2+ km out) due to recognized sprint limitations. Lacks the power reserve to sustain solo efforts against organized finishers with leadouts.",
-  "team_tactics": "Operates with significant personal autonomy; demonstrated willingness to prioritize individual ambitions (KOM hunting) even when conflicting with team objectives (teammate holding jersey).",
-  "terrain_preference": "Shows exceptional recovery capacity on undulating terrain where bridging efforts are rewarded. KOM-classified climbs suit opportunistic breakaway tactics, though lacks explosive power for steep sustained gradients.",
-  "vulnerability": "Predictably absorbed in final kilometers when attempting solo efforts. Cannot compete in organized sprint finishes. Power-to-weight appears insufficient to hold off chasers with superior peak wattage.",
+  "attacking_style": "Opportunistic breakaway rider who selectively targets KOM points through calculated mid-race efforts, often breaking from established breaks to contest intermediate sprints. Shows willingness to spend energy chasing classification jerseys rather than stage wins.",
+  "team_tactics": "Deployed in dual roles: early-race KOM hunting in stage races and domestique work in sprint train positioning for team leaders. Team priorities override personal classification ambitions when conflicts arise, as seen when waiting for protected climbers.",
+  "terrain_preference": "Excels in rolling terrain requiring repeated bridging efforts and tactical positioning for intermediate points. Emerging capability on selective strato/hard one-day classics. Less effective on pure summit finishes where extended climbing follows KOM efforts.",
+  "vulnerability": "Energy management when chasing KOM points leaves him vulnerable in final kilometers, repeatedly caught within 3km after burning matches on intermediate sprints. Personal ambitions subordinated to team needs at critical moments.",
   "key_patterns": [
-    "Attacks prematurely from 2+ km out due to sprint weakness, consistently caught (2 observations)",
-    "Exceptional bridging/recovery ability: closed 11km gap after being dropped at Tour de Suisse",
-    "Prioritizes personal objectives over team strategy when opportunity arises (KOM hunting over support)"
+    "Breaks from established breakaways to contest KOM points rather than stay cooperative (3 observations)",
+    "Demonstrates exceptional recovery ability, pacing back from significant time deficits to contest intermediate targets",
+    "Secured mountains classification through aggressive early positioning, wrapping up jersey before final stages",
+    "Transitions between leadership roles (KOM hunter) and domestique duties (sprint train) across different races",
+    "Shows sprint capacity on flatter finishes when fresh, able to contest bunch kicks"
   ],
-  "form_trajectory": "neutral: Shows strong recovery capacity (2022 Tour de Suisse bridging) but continues struggling with same tactical vulnerabilities seen in 2021 (premature attacks, insufficient finishing power)",
-  "races_analysed": 3,
+  "form_trajectory": "neutral: transitioned from classification contender (2022 Tour de Suisse KOM winner) to domestique role supporting sprint train in 2023 Tour, suggesting team tactical repositioning rather than form decline",
+  "races_analysed": 10,
   "confidence": "medium",
   "rider_name": "SIMMONS Quinn",
   "built_from": [
+    "2020 Bretagne Classic - Ouest France",
     "2021 La Vuelta ciclista a Espana Stage 19",
-    "2021 La Vuelta ciclista a Espana Stage 19",
+    "2021 Vuelta a Espana Stage 19",
+    "2022 Strade Bianche",
     "2022 Tirreno-Adriatico Stage 4",
-    "2022 Tour de Suisse Stage 6"
+    "2022 Tirreno-Adriatico Stage 6",
+    "2022 Tour de Suisse Stage 1",
+    "2022 Tour de Suisse Stage 6",
+    "2022 Tour de Suisse Stage 6",
+    "2022 Tour de Suisse Stage 8",
+    "2023 Tour de France Stage 3"
   ]
 }

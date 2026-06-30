@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-17",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob attacked solo from early breakaway and held off chasing YATES Adam, who distanced ROGLIČ Primož by 16 seconds in final kilometers.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FUGLSANG Jakob attacked from early breakaway, not from GC group, maintaining 38-53 second gap through technical descent showing pre-race breakaway positioning key.",
+      "YATES Adam attacked ROGLIČ Primož late when closing gap to FUGLSANG proved impossible, forcing ROGLIČ to let wheel slip rather than chase.",
+      "Astana deployed multiple riders into early breakaway providing FUGLSANG Jakob launch platform, repeating successful tactic from previous stage showing team pattern."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: attacked from breakaway on steep circuit climbs, held 38-53 seconds through technical descent showing exceptional solo time trialing strength",
+      "YATES Adam": "positive: timed late attack perfectly when ROGLIČ committed to chasing FUGLSANG, gained 16 seconds plus bonuses totaling 25 second GC advantage",
+      "ROGLIČ Primož": "negative: let YATES wheel slip on final climb unable to respond, lost 16 seconds revealing vulnerability when forced to chase distant breakaway",
+      "PEDERSEN Mads": "neutral: made early breakaway with GABBURO Davide before FUGLSANG attack, showing willingness to commit resources early in hilly stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:04:16.901493+00:00"
+}

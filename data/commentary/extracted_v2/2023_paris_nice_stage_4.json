@@ -1,0 +1,27 @@
+{
+  "label": "2023 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-08",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 2.5km to go on 7km/7.1% Los de Gaud climb, bridged to GODDU's earlier move, dropped him in final kilometer for stage and yellow jersey",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD attacked first on Los de Gaud climb but POGAČAR marked easily, neutralizing move and forcing GC rivals to chase.",
+      "GODDU attacked 3.5km out forcing POGAČAR to bridge alone while VINGEGAARD failed to follow, revealing gulf in current form.",
+      "UAE Emirates chased breakaway all day despite no intermediate sprint threat, signaling aggressive stage-hunting intent rather than conservative GC racing.",
+      "INEOS led into final climb base then GALL took over briefly before attacks, showing team hierarchy confusion without clear protected rider."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: bridged 1km+ gap to GODDU solo then dropped him in final kilometer, showing superior form to July 2022 Vingegaard",
+      "VINGEGAARD Jonas": "negative: initiated first attack but couldn't bridge when POGAČAR went to GODDU, losing 44 seconds suggests incomplete form preparation",
+      "GODDU David": "positive: only rider besides POGAČAR to distance field with 3.5km attack, demanding Tour leadership with aggressive racing not words",
+      "GALL Felix": "neutral: Austrian champion pulled for UAE on climb despite no team GC contender, suggests domestique role despite past stage race results",
+      "VLASOV Aleksandr": "negative: dropped when GODDU attacked 3.5km out, Bahrain's Gino MÄDER outperformed him significantly despite VLASOV's higher GC pedigree"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:52:11.372073+00:00"
+}

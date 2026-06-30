@@ -1,0 +1,21 @@
+{
+  "label": "2021 UAE Tour Stage 2",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-22",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "WOODS Mike won stage 2 of Tour des Alpes Maritimes et du Var with a devastating uphill sprint producing 522W for 2:35 at 62kg, but lost overall GC by 5 seconds to BRAMBILA on final stage.",
+    "winner": "WOODS Mike",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "WOODS Mike's 590W peak one-minute power in uphill sprint reveals threshold required to beat Grand Tour contenders at early-season stage races.",
+      "Three-rider GROUPAMA-FDJ break strategy on final stage neutralized strongest GC rider's individual superiority, protecting 2-minute advantage despite WOODS' dominance."
+    ],
+    "rider_signals": {
+      "WOODS Mike": "positive: demonstrated superior strength with 522W/2:35 uphill sprint victory but tactical isolation cost overall by 5 seconds to breakaway rider"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T23:14:08.234998+00:00"
+}

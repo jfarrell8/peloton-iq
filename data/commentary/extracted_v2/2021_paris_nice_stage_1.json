@@ -1,0 +1,27 @@
+{
+  "label": "2021 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-07",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 1 bunch sprint after being boxed behind Laporte, escaped left then centered for huge winning margin",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Gilbert attacked with teammate already up road showing Quick-Step predetermined two-rider breakaway strategy before peloton organized.",
+      "Lawless couldn't hold Gilbert's attack despite making early break, revealing sprinters vulnerable even moderate climbs with 75km remaining.",
+      "Late crash 1km out held Lutsenko but Demar/Bennett navigated safely, suggesting positioning behind sprint trains safer than front.",
+      "Bennett sprinted on handlebar tops like Tour 2021, claims power advantage over traditional position in final 200m."
+    ],
+    "rider_signals": {
+      "LAWLESS Chris": "negative: totally dropped on modest climb 75km out despite making early break, lacks transitional terrain resistance",
+      "GILBERT Philippe": "positive: at 38 years 246 days (oldest in race) initiated coordinated attack showing Quick-Step still trusts his tactical execution",
+      "BENNETT Sam": "positive: navigated boxed position behind Laporte then won with huge margin using unorthodox tops position sprint",
+      "DEMAR Arnaud": "positive: safely through late crash and second place suggests superior late-race positioning instincts",
+      "MATTHEWS Michael": "negative: not in top-10 sprint finish despite bunch arrival, likely crash-affected or poor positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:46:24.502931+00:00"
+}

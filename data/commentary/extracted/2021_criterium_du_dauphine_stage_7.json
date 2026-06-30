@@ -1,0 +1,30 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-05",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PADUN Mark soloed to stage win on La Plagne, PORTE Richie took yellow by finishing second and gaining time bonuses over LUTSENKO Alexey.",
+    "winner": "PADUN Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VALGREN Michael attacked solo from breakaway at base of La Plagne, demonstrating superior pacing judgment over companion escapees.",
+      "PORTE Richie launched acceleration in final kilometer specifically targeting time bonuses, not stage win, gaining yellow mathematically.",
+      "CRADDOCK Lawson bridged from peloton to early break rather than staying in first group, tactical choice for KOM points.",
+      "LUTSENKO Alexey unable to respond to PORTE's acceleration despite sitting on wheel, suggesting inadequate high-altitude finishing power."
+    ],
+    "rider_signals": {
+      "PADUN Mark": "positive: 24-year-old outclimbed KUSS Sepp on steep summit finish, revealing top-tier high-altitude capacity beyond expected level",
+      "PORTE Richie": "positive: deliberately targeted time bonuses over stage win with final kilometer acceleration, precise tactical execution for GC",
+      "LUTSENKO Alexey": "negative: dropped 17 seconds to PORTE despite drafting position, confirming insufficient form for sustained beyond-category finish",
+      "FROOME Chris": "negative: dropped on descent after Roseline climb despite climbing adequately, positioning deficit proved terminal",
+      "KRUIJSWIJK Steven": "negative: lost significant time on final climb from ninth GC position, unexpectedly weak on terrain suited to profile",
+      "LÓPEZ Miguel Ángel": "negative: described as 'in trouble' in final kilometer, collapsed from contending position on decisive gradient",
+      "KUSS Sepp": "neutral: held top-10 but outclimbed by PADUN, suggesting domestique pacing rather than personal result focus",
+      "CRADDOCK Lawson": "positive: bridged to breakaway mid-race and captured KOM jersey through aggressive intermediate targeting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:49:20.724140+00:00"
+}

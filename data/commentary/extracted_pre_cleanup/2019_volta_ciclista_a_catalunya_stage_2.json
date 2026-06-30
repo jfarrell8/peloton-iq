@@ -1,0 +1,28 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-26",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "MATTHEWS Michael won the field sprint on Stage 2 after DE GENDT Thomas took early breakaway victory and race lead before GC riders contested mountain finish.",
+    "winner": "MATTHEWS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE GENDT Thomas exploited hard parcours for 4+ hour solo, understanding Catalunya rewards sustained aggressive riding over sprint positioning.",
+      "MATTHEWS Michael positioned late in sprint, forcing VALVERDE Alejandro to chase rather than initiate, neutralizing experienced finisher's tactical advantage.",
+      "FROOME Chris crashed 13+ minutes behind finish, suggesting Sky's recce or positioning strategy failed on technical approach to Stage 2 finale.",
+      "YATES Adam and MARTIN Dan contested mountain KOM sprint at near-standstill tempo, revealing mutual tactical stalemate despite strength advantage over peloton."
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: Sustained 4h14min solo breakaway for stage win and jersey, confirming Catalunya's hard profile suits his attrition-based aggression pattern.",
+      "MATTHEWS Michael": "positive: Field sprint victory from disadvantaged position signals returning form after subdued early season, outfinishing VALVERDE in technical finish.",
+      "FROOME Chris": "negative: Crashed Stage 2, finished 13+ minutes down with road rash after struggling previous day, indicating mechanical vulnerability or positioning errors.",
+      "VALVERDE Alejandro": "neutral: Second in sprint despite positioning advantage over MATTHEWS, suggesting hesitation or miscalculation in technical finale allowed escape.",
+      "YATES Adam": "positive: Won mountain KOM sprint over MARTIN after tactical standoff, demonstrating strength but also revealing conservative approach to early-race opportunities.",
+      "MCCARTHY Jay": "negative: Crashed into kerb approaching finish, showing positioning risk in technical finales when GC riders contest minor time bonuses."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:15:20.083175+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour de Suisse Stage 6",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-14",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the final stage sprint with perfect leadout from GILBERT Philippe after LAMPAERT Yves controlled the finale, securing his second stage win and points classification.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LAMPAERT Yves controlled for Quick-Step despite having no sprint interest, revealing team depth for jersey math manipulation.",
+      "GILBERT Philippe delivered 1.5km leadout for JAKOBSEN Fabio, unusually long pull from veteran Classics specialist in Asian sprint stage.",
+      "Quick-Step prioritized stage hunting over GC defense despite CAVAGNA Rémi sitting 17 seconds back, suggesting stage wins trump minor GC placings."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Second stage win from same tactical template shows rookie can replicate sprint success within single race week",
+      "ACKERMANN Pascal": "neutral: Led out sprint properly but couldn't match JAKOBSEN's final acceleration despite blue jersey form",
+      "SCHACHMANN Maximilian": "negative: Required teammate assistance on categorized climbs despite being on GC, indicating fatigue vulnerability in multi-stage Asian races"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:41:48.593128+00:00"
+}

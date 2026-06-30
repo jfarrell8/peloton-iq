@@ -1,0 +1,30 @@
+{
+  "label": "2018 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-04",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN won by one thousandth of a second over DENNIS in a 9.7km Jerusalem ITT, both clocking 12:04.",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS set benchmark tempo of 48.1 km/h at halfway, revealing pacing strategy elite TTers must match to contend.",
+      "GONÇALVES exceeded expectations finishing 9 seconds down in 2nd place, suggesting Katusha scouting undervalued TT form indicators.",
+      "FROOME lost 35 seconds despite pre-race crash reconnaissance, exposing course familiarization risks when prioritizing marginal aerodynamic gains.",
+      "CAMPENAERTS matched DENNIS's 12:04 exactly, indicating identical power-to-weight output at equivalent aero positions on this flat course."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Won by 0.001 seconds over DENNIS, demonstrating superior pacing discipline to sustain 48+ km/h through finale.",
+      "DENNIS Rohan": "positive: Set early benchmark at 48.1 km/h through halfway split, forcing all chasers into unsustainable early efforts.",
+      "GONÇALVES José": "positive: Finished 2nd briefly at 9 seconds down as unexpected contender, revealing hidden Katusha TT depth.",
+      "FROOME Chris": "negative: Lost 35 seconds after course-familiarization crash, suggesting high-risk recon strategy backfired on technical parcours.",
+      "CAMPENAERTS Victor": "positive: Matched DENNIS at 12:04 exactly, confirming emerging elite TT status beyond hour-record specialist reputation.",
+      "CAVAGNA Rémi": "neutral: Set early reference time 33 seconds slower than DENNIS, establishing baseline for non-specialist strong TTers.",
+      "ARU Fabio": "negative: Lost 48 seconds to DUMOULIN, exposing TT weakness that eliminates him from overall contention in balanced GTs.",
+      "MARTIN Tony": "negative: Finished 25 seconds down, signaling decline from prime TT form that handicappers must adjust for."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:22:55.631179+00:00"
+}

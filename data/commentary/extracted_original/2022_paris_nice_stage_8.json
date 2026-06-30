@@ -1,0 +1,28 @@
+{
+  "label": "2022 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-13",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked with 19km to go on Col d'Èze, gained 29 seconds maximum, won stage but fell 9 seconds short of GC as WOUT van Aert paced ROGLIC perfectly on descent",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MARTINEZ Danny's EF attack at 50km neutralized by Jumbo depth, then punctured on descent showing high-risk Colombian timing.",
+      "YATES attacked with 19km when already carrying 10 bonus seconds, forcing 2v1 disadvantage against VAN AERT/ROGLIC on descent.",
+      "WOUT van Aert as sole domestique stabilized 20-second gap on Col d'Èze descent, proving one elite pacer beats numbers.",
+      "ROGLIC isolated early after KUSS/DENNIS dropped on penultimate climb but survived with only VAN AERT through final 46km."
+    ],
+    "rider_signals": {
+      "MARTINEZ Danny": "negative: punctured back wheel on descent after bonus sprint, lost podium from attacking position at 46km out",
+      "YATES Simon": "positive: first win since May 2021 Giro, showed he can finish stage races with aggressive finale despite GC loss",
+      "VAN AERT Wout": "positive: sole remaining domestique for final 46km, descended well enough to prevent Yates from taking 29-second gap",
+      "ROGLIC Primoz": "positive: overcame psychological barrier of French stage race final-day collapses, held form after losing KUSS and DENNIS early",
+      "KUSS Steven": "negative: dropped on penultimate climb with DENNIS, leaving Roglic exposed with 46km remaining",
+      "QUINTANA Nairo": "neutral: first to attack Col d'Èze but caught, never in GC contention despite stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:47:45.374245+00:00"
+}

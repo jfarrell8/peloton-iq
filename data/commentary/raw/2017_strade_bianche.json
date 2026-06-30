@@ -1,16 +1,15 @@
 {
   "label": "2017 Strade Bianche",
-  "race_name": "",
-  "race_date": "",
+  "race_name": "Strade Bianche",
+  "race_date": "2017-03-04",
   "stage": null,
   "video": {
     "video_id": "pCTdlonFsxs",
-    "title": "manually provided",
+    "title": "Manual add: pCTdlonFsxs",
     "url": "https://youtube.com/watch?v=pCTdlonFsxs",
     "channel": "manual",
     "published": "",
-    "match_score": 999,
-    "all_candidates": []
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 66,

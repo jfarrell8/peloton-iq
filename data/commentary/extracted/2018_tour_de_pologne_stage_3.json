@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Pologne Stage 3",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-06",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HODEG won stage 3 after MØRKØV executed a surprise early leadout that caught ACKERMANN out of position on the inside.",
+    "winner": "HODEG Álvaro José",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MØRKØV's deliberately early leadout from behind caught ACKERMANN committed to wrong wheels, revealing surprise timing beats pure speed.",
+      "ACKERMANN's pattern of diving inside through traffic backfired when trapped without exit, exposing predictable positioning weakness.",
+      "Quick-Step isolated ACKERMANN by attacking before Lotto-Jumbo's train formed, showing sprinter separation requires disrupting opponent's setup phase."
+    ],
+    "rider_signals": {
+      "HODEG Álvaro José": "positive: first win after MØRKØV perfected early surprise launch, proving Quick-Step finally calibrated timing to neutralize ACKERMANN",
+      "ACKERMANN Pascal": "negative: third stage attempt failed when predictable inside moves left him boxed without positioning options at 300m",
+      "MØRKØV Michael": "positive: Danish champion's tactical early acceleration from behind created surprise element that dominant sprinters couldn't counter",
+      "SABATINI Fabio": "positive: initiated Quick-Step's winning sequence with well-timed early move that set up MØRKØV's surprise launch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:39:14.310584+00:00"
+}

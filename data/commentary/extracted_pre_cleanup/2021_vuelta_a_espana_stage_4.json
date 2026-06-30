@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JACOBSEN Fabio won stage 4 sprint after ALPECIN Fenix forced early acceleration uphill, allowing DECEUNINCK Quick-Step to wait and counter.",
+    "winner": "JACOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALPECIN Fenix initiated sprint early on 6% finishing ramp forcing rivals to commit before JACOBSEN could time perfect counter.",
+      "DEMAR Arnaud sprinted best on wide-open boulevards without positioning battles, signals route profile matters more than raw power.",
+      "PARAME Rein crashed after 3km barrier when JUMBO rider crossed wheels, positioning shield required even for GC leaders.",
+      "Intermediate sprint avoided by PHILIPSEN may have preserved energy for stage finish compared to competitors who contested it."
+    ],
+    "rider_signals": {
+      "JACOBSEN Fabio": "positive: demonstrated elite sprint timing and mental resilience after near-fatal Poland crash, waited longest before launching",
+      "DEMAR Arnaud": "positive: strong sprint on wide finishing straight suggests tactical advantage when course avoids tight technical finishes",
+      "PHILIPSEN Jasper": "neutral: skipped intermediate sprint points unlike JACOBSEN and MATTHEWS, energy conservation strategy unclear if beneficial",
+      "PARAME Rein": "negative: crashed through no fault after 3km mark when shielded inadequately, team protection deficit exposed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:20:00.876940+00:00"
+}

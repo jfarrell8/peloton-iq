@@ -1,0 +1,29 @@
+{
+  "label": "2023 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp won from 6-minute breakaway on Alto de Javalambre after MARTINEZ Lenny's Groupama-FDJ teammates paced him into virtual GC lead.",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SOLÉR Marc took 6-second intermediate sprint bonus in breakaway to secure virtual lead, revealing Movistar's bonus-hunting calculus.",
+      "Groupama-FDJ planted MARTINEZ with two strong domestiques (Mas, Store) in 40km breakaway, executing perfect GC ambush via break.",
+      "Jumbo-Visma allowed 6+ minute gap with SOLER/LANDA/MARTINEZ present, prioritizing EVENEPOEL jersey loss over stage control.",
+      "KUSS dropped BUCHMANN 2 miles from finish, exposing Bora's twin-leader strategy failure when both candidates cracked early."
+    ],
+    "rider_signals": {
+      "VINES Jay": "negative: crashed out of race in high-speed early pile-up, massive UAE GC support loss",
+      "BAJOL Rémi": "negative: crashed out, removing Evenepoel's critical mountain lieutenant before hardest stages arrive",
+      "EVENEPOEL Remco": "neutral: recovered 10 seconds in final 2km after going 40 seconds down, rode within limits unlike competitors",
+      "MARTINEZ Lenny": "positive: 20-year-old took red jersey via breakaway, team committed two strong climbers to escort him",
+      "BUCHMANN Emanuel": "negative: dropped 2 miles from summit finish despite being Bora's co-leader, far too early to crack",
+      "KUSS Sepp": "positive: won at 2000m altitude finish after Tour domestique duties, high-altitude specialist thrives when given freedom",
+      "ROGLIC Primoz": "positive: gained significant time on Evenepoel without working, moved up GC while Jumbo avoided jersey responsibility"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:08:03.677890+00:00"
+}

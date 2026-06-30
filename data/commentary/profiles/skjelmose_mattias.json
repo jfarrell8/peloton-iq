@@ -1,21 +1,31 @@
 {
-  "attacking_style": "Relies on tactical positioning and bonus second sprints rather than explosive long-range attacks. Targets intermediate bonifications and stage finishes with calculated efforts, showing patience over aggression.",
-  "team_tactics": "Limited evidence of dedicated team setup; appears to operate with relative independence, using positioning and technical skills (descending) to gain time rather than domestique-led trains.",
-  "terrain_preference": "Technical descents are a key weapon for gaining time. Handles stage race climbs with mature pacing that improves through efforts rather than fading. Suited to medium-mountain stages where technical skills and positioning matter.",
-  "vulnerability": "Limited observations of response to sustained high-intensity attacks or explosive summit finishes. Bonus-second dependency suggests potential weakness in pure climbing power against elite Grand Tour climbers.",
+  "attacking_style": "Late-race opportunist who attacks in final 500m-2km, whether on climbs, flat finishes, or closing circuits. Shows tactical patience to let others animate before striking with residual power.",
+  "team_tactics": "Limited domestique support evident (Bahrain TTT weakness at Paris-Nice). Relies on individual positioning and bonus second hunting rather than sustained team tempo control.",
+  "terrain_preference": "Excels on punchy Ardennes-style climbs (near-win at Fleche Wallonne) and time trials with strong pacing discipline. Can survive chaotic one-day racing and sprint from reduced groups.",
+  "vulnerability": "Insufficient team support in stage races when needing collective defense. Early time checks in TTs show slower starts despite strong finishing pacing.",
   "key_patterns": [
-    "Actively hunts bonus seconds at intermediates and finishes to gain GC time (3 observations)",
-    "Superior technical descending used as tactical weapon to chase/gain time (2 observations)",
-    "Exponential pacing strategy: strengthens through climbs rather than fading, showing maturity (2 observations)",
-    "Tactical awareness beyond typical neo-pro: calculates time gaps and opportunities strategically (3 observations)"
+    "Hunts bonus seconds aggressively for GC positioning rather than waiting for stages (Tour de Suisse, Paris-Nice)",
+    "Attacks in final 500m-2km window across multiple race types: climbs, flats, circuits (4 instances)",
+    "Strong TT finishing power but slow starter; improves exponentially through time trial efforts (Tour de Suisse ITT)",
+    "Positions in chase groups rather than initiating, then outsprints survivors (Bretagne Classic, Tour de Suisse)",
+    "Tactical maturity beyond age: calculates when to let others work while preserving podium position"
   ],
-  "form_trajectory": "positive: demonstrated progressive maturity throughout Tour de Suisse 2023, with smart tactical racing, technical prowess, and pacing discipline suggesting upward development curve",
-  "races_analysed": 3,
-  "confidence": "medium",
+  "form_trajectory": "positive: Won Tour de Suisse in June, then took chaotic Bretagne Classic in September showing sustained form and versatility across 2023 season",
+  "races_analysed": 8,
+  "confidence": "high",
   "rider_name": "SKJELMOSE Mattias",
   "built_from": [
+    "2023 Bretagne Classic - Ouest-France",
+    "2023 Bretagne Classic - Ouest-France",
+    "2023 La Fleche Wallonne",
+    "2023 La Fleche Wallonne",
+    "2023 Paris-Nice Stage 3",
+    "2023 Tour de France Stage 2",
+    "2023 Tour de Suisse Stage 3",
+    "2023 Tour de Suisse Stage 3",
     "2023 Tour de Suisse Stage 4",
     "2023 Tour de Suisse Stage 5",
+    "2023 Tour de Suisse Stage 8",
     "2023 Tour de Suisse Stage 8"
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Does not attack personally. Career has transitioned to pure domestique role, focused on tempo control and setting up teammates rather than personal results.",
+  "team_tactics": "Jumbo-Visma deploys Gesink as high-tempo pacesetter on climbs to neutralize early attacks and control GC threats. Functions as trusted lieutenant allowing GC leaders to conserve energy.",
+  "terrain_preference": "Long, steady climbs where sustained tempo riding at 40kph+ can discourage aggressive racing. Not exposed on any specific terrain as domestique role is defensive.",
+  "vulnerability": "At 36+ years old, lacks personal attacking punch. Entirely dependent on team context for any individual recognition. Cannot respond to explosive accelerations.",
+  "key_patterns": [
+    "Deployed as high-tempo pacesetter to neutralize attacks, maintaining 40kph averages (2 instances)",
+    "Team deliberately grants ceremonial honors (TTT line crossing) despite GC domestique status (2 instances)",
+    "Consistent GC support role controlling specific threats like Valverde (2 instances)"
+  ],
+  "form_trajectory": "neutral: Still trusted for critical tempo management at 36, suggesting maintained fitness, but purely in domestique capacity with no personal ambitions",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "GESINK Robert",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 17",
+    "2020 Vuelta a Espana Stage 8",
+    "2022 Vuelta a Espana Stage 1",
+    "2022 Vuelta a Espana Stage 1",
+    "2022 Vuelta a Espana Stage 1"
+  ]
+}

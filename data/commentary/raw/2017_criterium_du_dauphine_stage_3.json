@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-06",
   "stage": 3,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "39iu6Q0-yrg",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=39iu6Q0-yrg",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 81,
+    "raw_chars": 2631,
+    "clean_chars": 2607,
+    "duration_mins": 3.8,
+    "clean_text": "170 participants are still present for stage three a stage tailored for the sprinters it seems there are four difficulties on the menu but the final one the coton is located 40 km before arrival this doesn't stop six audacious men to try and break away after only 2 kilometers K bman second in the mountain ranking but wearing the poka do Jersey as the also owns the yellow Jersey seems inspired today just as his teammate Alex veran or contemp 85th in the overall ranking and best placed of the escapes buman passes all the Summits in the lead and collects more points for the mountain classification while his fellow escapes can only hope for the stage win but with a lead of only 2 minutes 30 km before arrival the stage wind seems less than secure especially since behind arod dear's FD and Naser bohan's teammates from kofidis start working together yet the escapes resist with an average speed of 46 km an hour and the wind driving them on on the slightly ascending final they keep the Sprinter teams now joined by Kristoph katusa at a distance and lose less than 10 seconds per kilometer 6 km from tulan 1 minute is left and the stage win becomes a possibility this is when K bman not the fastest but the most audacious takes off 300 M before the finish line and none of his Rivals will be able to resist the Dutchman takes the stage followed by a strong CIS visus he is 48 years younger than Eddie MKS but on the third stage today he was a proper little cannibal already present at the front yesterday at Aron boomman honored the mountain Jersey by passing all the Summits in the lead today and in spite of all his efforts and supported by his teammate verelan he had enough energy left to resist the pack and ride to his greatest career win so far I came here with a goal to uh to go on a break um yeah I'm not a rider that can do uh go with the best climbers or go with the best sprinters so uh yeah today uh we had a really strong Breakaway with six guys uh everybody was pulling very hard uh yeah then in the end at 20K we uh we believe we could make it and I said to my teammate Alexi that I felt really strong and he did uh he pushed really hard in the front and then uh yeah in the end I make it so yeah again I'm really happy behind the six escapes Frenchman arod deara could find some Solace by winning the pelaton Sprint and securing the green jersey Thomas Duren holds on to the yellow Jersey for a third day in a row tomorrow Wednesday is going to be a crucial moment for the 69 edition of the doin the 23 km time trial should definitely provide some clarification in the overall ranking",
+    "preview_start": "170 participants are still present for stage three a stage tailored for the sprinters it seems there are four difficulties on the menu but the final one the coton is located 40 km before arrival this doesn't stop six audacious men to try and break away after only 2 kilometers K bman second in the mountain ranking but wearing the poka do Jersey as the also owns the yellow Jersey seems inspired today just as his teammate Alex veran or contemp 85th in the overall ranking and best placed of the esca",
+    "preview_end": "lt really strong and he did uh he pushed really hard in the front and then uh yeah in the end I make it so yeah again I'm really happy behind the six escapes Frenchman arod deara could find some Solace by winning the pelaton Sprint and securing the green jersey Thomas Duren holds on to the yellow Jersey for a third day in a row tomorrow Wednesday is going to be a crucial moment for the 69 edition of the doin the 23 km time trial should definitely provide some clarification in the overall ranking"
+  },
+  "status": "transcript_saved"
 }

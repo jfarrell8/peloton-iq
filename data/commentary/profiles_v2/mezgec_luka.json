@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure sprinter who does not initiate attacks; relies entirely on positioning in final kilometers to contest bunch sprints when gradients permit.",
+  "team_tactics": "Team commits resources to lead-out trains in sprint opportunities, with Mitchelton-Scott historically organizing full sprint trains for him. Positioning work evident but execution often falls short.",
+  "terrain_preference": "Flat bunch sprint finishes where positioning matters more than raw power. Exposed on any gradient or technical finale requiring explosive acceleration.",
+  "vulnerability": "Finishing speed significantly below top-tier sprinters even when perfectly positioned. Crash-prone in hectic sprint positioning phases, losing team investment.",
+  "key_patterns": [
+    "Achieves strong positioning in sprint setups but lacks final 200m speed to convert (2 instances)",
+    "Team invests lead-out resources but results fail to match organizational effort (2 instances)",
+    "Capable of making front splits in harder races but cannot finish competitively (2 instances)"
+  ],
+  "form_trajectory": "negative: 2020 showed improved positioning reaching front splits, but finishing speed deficit widened significantly in sprints",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MEZGEC Luka",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 14",
+    "2020 Bretagne Classic - Ouest France"
+  ]
+}

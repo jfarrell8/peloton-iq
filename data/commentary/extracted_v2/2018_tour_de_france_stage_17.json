@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-25",
+  "stage": 17,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo attacked one-third up the final climb Col du Portet, dropped everyone including MARTIN who chased solo, while THOMAS increased GC lead taking 3rd.",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "QUINTANA attacked bottom of final climb after 45min all-out bridging effort, proving early mechanical didn't compromise high-altitude performance.",
+      "VALVERDE positioned in early break specifically to service QUINTANA after bridge, revealing Movistar pre-planned long-range attack despite mechanical.",
+      "THOMAS took 3rd place time bonus while FROOME cracked 1:35 back, confirming Sky fully committed to Thomas GC over defending champion.",
+      "MARTIN attacked immediately off yellow jersey group at base, went group-by-group never to reconnect, unconventional solo chase tactic."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: Dominated steep 14-15% gradients above 7000ft after 45min bridging effort post-mechanical, confirming altitude/steepness > sustained power for him",
+      "THOMAS Geraint": "positive: Controlled final climb for 3rd plus bonus while co-leader Froome cracked, psychological shift complete as Sky fully backs him over Froome",
+      "FROOME Chris": "negative: Lost 1:35 on final climb struggling visibly, now 2:31 down and likely to be passed by Roglic/Quintana before Paris",
+      "MARTIN Dan": "positive: Solo chased Quintana after attacking yellow group at climb base, bridged multiple groups but couldn't match Quintana's altitude performance",
+      "VALVERDE Alejandro": "positive: At 38 years positioned in early break for domestique work when Quintana bridged, tactical maturity enabling teammate's long-range move",
+      "BERNAL Egan": "positive: At 21 rode strong in mountains supporting Thomas, commentary suggests Sky identifying him as future GC leader succession plan"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:29:57.035683+00:00"
+}

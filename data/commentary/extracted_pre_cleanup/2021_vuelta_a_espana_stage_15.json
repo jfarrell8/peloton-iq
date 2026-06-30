@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MICA Rafal soloed to victory after establishing dominance on the Puerto de Mejadas, holding off a multi-rider chase group including KRUIJSWIJK Steven by 1:27.",
+    "winner": "MICA Rafal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MICA Rafal attacked solo on the Puerto de Mejadas (20km at 5.4%) and sustained power gap despite organized chase.",
+      "YATES Adam attacked final kilometers to gain symbolic 15 seconds on GC group, targeting teammate BERNAL Egan's position.",
+      "Jumbo-Visma controlled peloton despite no GC threat, maintaining unnecessary tempo that exposed unclear Ineos leadership between YATES and BERNAL.",
+      "ARU Fabio showed resurrection form in early breakaway, first meaningful Grand Tour aggression in years before retirement announcement."
+    ],
+    "rider_signals": {
+      "MICA Rafal": "positive: Sustained solo effort over 20km category one climb demonstrates recovered form after early Vuelta struggles",
+      "ARU Fabio": "positive: First breakaway appearance in years at Grand Tour suggests reconsideration of retirement timeline warranted",
+      "YATES Adam": "negative: Expended energy for symbolic 15-second gain reveals desperation regarding team hierarchy with BERNAL",
+      "BERNAL Egan": "positive: Looking strong without attacking suggests confident waiting game while YATES wastes matches",
+      "KRUIJSWIJK Steven": "positive: Led chase effort from second-tier group, showing form recovery despite failing to close 1:27 gap"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:18:15.146079+00:00"
+}

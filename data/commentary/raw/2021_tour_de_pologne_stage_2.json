@@ -4,85 +4,103 @@
   "race_date": "2021-08-10",
   "stage": 2,
   "video": {
-    "video_id": "3PeuXUd6yHE",
-    "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
-    "published": "2021-07-18 18:57:54+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=3PeuXUd6yHE",
-    "match_score": 77.39,
+    "video_id": "A9_yk_PtkkU",
+    "title": "Tour de Luxembourg 2021 - Stage 2 | Highlights | Cycling | Eurosport",
+    "published": "2021-09-15 16:10:39+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=A9_yk_PtkkU",
+    "match_score": 78.75,
     "all_candidates": [
       {
-        "video_id": "3PeuXUd6yHE",
-        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
-        "channel": "GCN Racing",
-        "published": "2021-07-18 18:57:54+00:00",
+        "video_id": "A9_yk_PtkkU",
+        "title": "Tour de Luxembourg 2021 - Stage 2 | Highlights | Cycling | Eurosport",
+        "published": "2021-09-15 16:10:39+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 78.75
+      },
+      {
+        "video_id": "BehS-z5RV88",
+        "title": "Tour de Romandie 2021 | Stage 2 Highlights | inCycle",
+        "published": "2021-04-30 17:00:10+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 78.0
+      },
+      {
+        "video_id": "jsvoD0e2XuQ",
+        "title": "Tour de Romandie 2021 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2021-04-29 17:19:55+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 78.0
+      },
+      {
+        "video_id": "kFoMQ0JxJIg",
+        "title": "Tour de Suisse 2021: Stage 2 Highlights",
+        "published": "2021-06-07 19:36:48+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 77.39
       },
       {
-        "video_id": "JDqt96CevYc",
-        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
-        "channel": "GCN Racing",
-        "published": "2021-07-17 17:03:43+00:00",
+        "video_id": "XFQmtDDUZbg",
+        "title": "Tour de Suisse 2021: Stage 2 On-Bike Highlights",
+        "published": "2021-06-07 20:31:46+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
         "match_score": 77.39
       },
       {
-        "video_id": "DR__YdMtm-k",
-        "title": "Tour de France 2021 Stage 2 Highlights | Mathieu Van Der Poel Takes Yellow!",
-        "channel": "GCN Racing",
-        "published": "2021-06-27 16:47:58+00:00",
-        "match_score": 77.39
+        "video_id": "sIo7s4wqjIc",
+        "title": "2021 Tour de Suisse - Stage 2 | Highlights | Cycling | Eurosport",
+        "published": "2021-06-07 19:14:40+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 75.0
       },
       {
-        "video_id": "70WNLec0zG4",
-        "title": "Who Will Win La Vuelta a España? | GCN's 2021 Tour Of Spain Preview Show",
-        "channel": "GCN Racing",
-        "published": "2021-08-10 14:36:46+00:00",
-        "match_score": 58.33
+        "video_id": "xzwwB7yzuas",
+        "title": "Tour of Norway 2021: Stage 2 On-Bike Highlights",
+        "published": "2021-08-20 20:24:25+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
       },
       {
-        "video_id": "_NIaEwGWhWU",
-        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-        "channel": "GCN Racing",
-        "published": "2021-07-14 16:30:32+00:00",
-        "match_score": 37.39
+        "video_id": "NaHLNDOsLX8",
+        "title": "Tour of Norway 2021: Stage 2 Highlights",
+        "published": "2021-08-20 17:15:07+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
       },
       {
-        "video_id": "Lou_5_FxJOQ",
-        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
-        "channel": "GCN Racing",
-        "published": "2021-07-15 16:33:10+00:00",
-        "match_score": 37.39
+        "video_id": "d--QaUXvJOQ",
+        "title": "2021 Baloise Belgium Tour - Stage 2 | Highlights | Cycling | Eurosport",
+        "published": "2021-06-10 17:05:13+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 73.33
       },
       {
-        "video_id": "JZk6a1Z7Csk",
-        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
-        "channel": "GCN Racing",
-        "published": "2021-07-13 16:41:29+00:00",
-        "match_score": 37.39
-      },
-      {
-        "video_id": "g_A-6CM_N4g",
-        "title": "Tour de France 2021 Stage 13 Highlights | Can Mark Cavendish Equal Eddy Merckx's Stage Wins Record?",
-        "channel": "GCN Racing",
-        "published": "2021-07-09 16:41:45+00:00",
-        "match_score": 37.39
-      },
-      {
-        "video_id": "UFeZ8wwgJpc",
-        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
-        "channel": "GCN Racing",
-        "published": "2021-07-11 16:54:14+00:00",
-        "match_score": 37.39
-      },
-      {
-        "video_id": "khNB4kSu1bk",
-        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
-        "channel": "GCN Racing",
-        "published": "2021-07-16 16:26:55+00:00",
-        "match_score": 37.39
+        "video_id": "Cl9Y78uiNdk",
+        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2021-04-12 17:38:53+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 71.67
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 109,
+    "raw_chars": 3704,
+    "clean_chars": 3696,
+    "duration_mins": 4.5,
+    "clean_text": "the skoda tour of luxembourg the second stage and the weather just turning against the race but it did not make it any less enthralling plenty of climbs along the way and a good distance as well of 186 kilometers the rain did not dampen the enthusiasm of a breakaway and it had to include those battling for the king of the mountains jersey kenny molly and indeed sebastian schoenberger they were both up front of course the threat on the day was the final test the code echedorf with ramps of around 12 and 13 it was going to be a nightmare schoenberger and molly did duke it out for the king of the mountains points throughout the day molly taking a hat full of them 19 points in fact added to the 10 he got on the opening day the chase was being engaged by francis cesar de koenig did their share as well as uae and indeed team archaea but really that gap of four minutes was never going to last and so it was with just around 36 kilometers to go but the breakaway was all bar extinguished last man standing from it camel dradek the pole former polish time trial champion he going the same way as adam devos molly and sean berger how would it pan out then there was always going to be somebody that would go for a long ranger and that's precisely what we had well anthony turgis decided to strike out hopefully i think the team were designing pierre roger le tour to go for it at the very last well turgius himself is no bad rider and in fact he was going quicker than the camera bike asking it to get out of there 10.5 kilometers from home he had an advantage of around about 30 seconds but would that be enough with those pesky inclines still to be dealt with ue offering up some assistance to the pace in fact it was a user that came through to help out mark hershey he wearing the young riders jersey and turgis was about to be tagged looking behind as you possibly just noticed hershey was keeping an eye on those who were around him and one of those was nero quintana well ramps like we have to face here and had to do so on three occasions never used to be a problem for nero quintana but what about this day in the end we had four riders that pushed off it was uh three suddenly formula looking like he was rolling just a little bit on behalf of mark hershey who looked very very sprightly and hershey went on the attack the front wheel of quintana had started to weave just a little bit it was the perfect opportunity as you look back to see where the yellow jersey of pedro almeida was well he was struggling just like everybody else it seemed amaida had used up all of his teammates and had no option other than to set off in pursuit tebow pinot was also amongst the chase hershey though had he timed it to perfection just coming up to the flam rouge meaning that the road flattened out ever so slightly for the swiss and he turned the young riders jersey into yellow striking goals on a day of rainbows with the sun and the rain playing its part pushing home for the line and finishing second on the day almeida factoring in some bonus seconds it meant that the lead of hershey who takes control of the race is a modest four seconds ahead of almeida nonetheless job well done for hershey after the opening stage where he nearly got clattered into the barriers he came good today and with victory takes the lead of the race hershey are made a god of formula and de la cruz your top five as they came in today lots of big gaps because of those inclines and there'll be a few more gaps tomorrow you can be absolutely sure they say it's for the quick man but hershey's no slouch he leads this race by four seconds and you never know he could get a very good finish tomorrow as well you",
+    "preview_start": "the skoda tour of luxembourg the second stage and the weather just turning against the race but it did not make it any less enthralling plenty of climbs along the way and a good distance as well of 186 kilometers the rain did not dampen the enthusiasm of a breakaway and it had to include those battling for the king of the mountains jersey kenny molly and indeed sebastian schoenberger they were both up front of course the threat on the day was the final test the code echedorf with ramps of around",
+    "preview_end": "ershey after the opening stage where he nearly got clattered into the barriers he came good today and with victory takes the lead of the race hershey are made a god of formula and de la cruz your top five as they came in today lots of big gaps because of those inclines and there'll be a few more gaps tomorrow you can be absolutely sure they say it's for the quick man but hershey's no slouch he leads this race by four seconds and you never know he could get a very good finish tomorrow as well you"
+  },
+  "status": "transcript_saved"
 }

@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-02",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MAHORICH Matej won from a 29-rider breakaway featuring van der Poel and van Aert, with UAE allowing 4+ minutes gap despite Wout's GC threat.",
+    "winner": "MAHORICH Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE let van Aert gain 4+ minutes despite him being dangerous GC climber, possibly overestimating mountain gap needed.",
+      "Cavendish infiltrated 29-rider break on hilly stage to steal 20 green jersey points when sprinter rivals scored zero.",
+      "Jumbo-Visma reportedly abandoning Kruijswijk GC support before first mountain stage, signaling early leadership pivot to Vingegaard.",
+      "Van der Poel defended yellow by entering breakaway himself rather than chasing, unconventional but preserved 30-second gap to van Aert."
+    ],
+    "rider_signals": {
+      "MAHORICH Matej": "positive: First Tour stage win but commentary emphasizes he excels specifically in hard stages without massive climbs, limiting GC scope.",
+      "VAN AERT Wout": "positive: Gained significant GC time (4+ minutes allowed) and positioned second overall, confirming his underrated climbing threat from 2020 Tour.",
+      "CAVENDISH Mark": "positive: Unexpectedly joined 29-rider break on hilly 249km stage to steal green jersey points, showing tactical awareness beyond pure sprinting.",
+      "VINGEGAARD Jonas": "positive: Jumbo-Visma reportedly shifting GC leadership to him before Stage 8 mountains, suggesting Kruijswijk already showing weakness.",
+      "KRUIJSWIJK Steven": "negative: Team abandoning GC support for him before first mountain stage indicates early form collapse.",
+      "NIBALI Vincenzo": "neutral: Attempted GC move by joining break but commentary notes he's already 5+ minutes down, limiting realistic podium chances."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:53:53.202218+00:00"
+}

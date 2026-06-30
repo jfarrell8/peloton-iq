@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-22",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CICCONE Giulio attacked on the steep early ramps of the 22km final climb, splitting and dropping the break to solo victory.",
+    "winner": "CICCONE Giulio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Break formation delayed 100km by crashes/attacks; INEOS allowed weak GC threat break knowing energy expenditure would limit stage threat.",
+      "CICCONE exploited steep bottom section of 22km climb rather than attacking near summit, gaining decisive advantage before shallower gradients.",
+      "MARTIN Guillaume gained GC time from breakaway despite being outside top-5, demonstrating GC teams' focus fatigue on multi-climb stages.",
+      "CARTHY Hugh showed resilience fighting back after being dropped, suggesting endurance over explosive power on long final climbs."
+    ],
+    "rider_signals": {
+      "CICCONE Giulio": "positive: First win since pre-pandemic after lean years suggests form peak timing; dominated on steep early gradients of long climb.",
+      "BALMAN Kun": "negative: Took KOM jersey by winning first climb but dropped immediately on harder Verania, revealing one-dimensional climber profile.",
+      "CARTHY Hugh": "neutral: Dropped then clawed back to front group twice but ultimately distanced; durable but lacks punch for steep pitches.",
+      "MARTIN Guillaume": "positive: Opportunistically gained 2+ minutes on GC group from break despite lower initial position, showing teams missed secondary threats.",
+      "CARAPAZ Richard": "negative: INEOS controlling but Carapaz involved in early crash; team burning energy defending pink rather than attacking."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:08:06.812809+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "label": "2021 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-10",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked on the final ascent to Chiroubles with 400m remaining, soloing to victory 14 seconds ahead of SCHACHMANN Maximilian.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ attacked inside final 400m when rivals hesitated after VLASOV counterattack, exploiting coordination failure among chasers.",
+      "BERNARD Julian attacked breakaway on first Mont Brouilly ascent, forcing NAESEN Oliver to chase while King of Mountains DOUBEY Fabien cracked spectacularly.",
+      "BENNETT George set tempo over Mont Brouilly for Jumbo-Visma, keeping race controlled before ROGLIČ's late acceleration."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: launched devastating late attack when rivals looked at each other, cruise control form identical to Vuelta peak",
+      "DOUBEY Fabien": "negative: came to standstill on first Mont Brouilly ascent wearing KOM jersey, accumulated fatigue from early-race work visible",
+      "BERNARD Julian": "positive: attacked breakaway companions on first Mont Brouilly climb with Trek-Segafredo continuing early-season momentum",
+      "SCHACHMANN Maximilian": "neutral: chased hard but limited losses to 14 seconds, defending champion showing form but not Roglič's explosive power",
+      "VLASOV Aleksandr": "neutral: launched counterattack that temporarily disrupted chase group coordination before Roglič's winning move",
+      "BENOOT Tiesj": "positive: immediate reaction to VLASOV counterattack, finished in chase group limiting losses on summit finish",
+      "MATTHEWS Michael": "positive: climbed with elite company hunting bonus seconds, unusual strength on categorized climbs for sprint-oriented rider",
+      "JORGENSON Matteo": "positive: took young rider lead after Ventoux form carried into Paris-Nice, rode with main group on decisive climb",
+      "MCNULTY Brandon": "positive: retained young rider jersey with 4-second advantage over VLASOV after trying to follow late attacks",
+      "POWLESS Neilson": "negative: explicitly described as not having good climb on Mont Brouilly, lost contact with leaders",
+      "BENNETT George": "positive: led peloton over Mont Brouilly for Jumbo-Visma, controlling pace before teammate's decisive move",
+      "NAESEN Oliver": "neutral: followed BERNARD's breakaway attack closely, second wheel positioning on Mont Brouilly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:03:09.301295+00:00"
+}

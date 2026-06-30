@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-15",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NARVAEZ Jonathan won from 14-rider breakaway after PADUN suffered broken front wheel 15km out, GC group finished 8+ minutes back with no attacks.",
+    "winner": "NARVAEZ Jonathan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "NTT deployed SUNDERLAND domestique inside 50km to control 13.5-minute gap for POZZOVIVO, revealing GC team still had stage ambitions.",
+      "POZZOVIVO's attack came only in final few hundred meters of last climb, too late to distance isolated GC rivals.",
+      "Breakaway with 13.5-minute gap fragmented on final climbs without peloton pressure, showing weak cohesion despite massive advantage."
+    ],
+    "rider_signals": {
+      "NARVAEZ Jonathan": "positive: At 23, held 9-second gap over chasing PADUN final 15km despite mechanical advantage, showing mental toughness under pressure.",
+      "PADUN Mark": "negative: Broken front wheel 15km out cost certain stage win, but inability to close 9-second gap suggests equipment issues compounded by fatigue.",
+      "POZZOVIVO Domenico": "negative: Despite NTT team support and rivals being isolated, attacked far too late on final climb to create separation.",
+      "ALMEIDA Joao": "positive: Team wrapped him completely for 200km+ stage, demonstrating Deceuninck's confidence in protecting 34-second lead passively.",
+      "KELDERMAN Wilco": "neutral: Looked assured while isolated in GC group, suggesting SUNWEB comfortable conceding breakaway time to preserve leader."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:13:16.612544+00:00"
+}

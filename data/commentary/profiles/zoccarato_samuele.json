@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches late-race solo attacks from established breakaways at approximately 25km to go, targeting intermediate sprints or final acceleration points. Prefers attacking from already-formed breaks rather than initiating from peloton.",
+  "team_tactics": "Insufficient data to establish clear team support patterns. Appears to operate with autonomy once in breakaway situations.",
+  "terrain_preference": "Insufficient data to determine specific terrain preferences, though breakaway participation suggests suitability for transitional or reduced-bunch sprint stages.",
+  "vulnerability": "Attacks lack sufficient power differential when peloton maintains controlled tempo (sub-40kph). Solo efforts from breaks fail to generate sustainable gaps beyond 1 minute against organized chase.",
+  "key_patterns": [
+    "Attacks from breakaway at exactly 25km to go in multiple races (2 observations).",
+    "Solo accelerations from established breaks rather than peloton-initiated moves (2 observations).",
+    "Unable to create winning margins against controlled peloton speeds, gaps limited to 1 minute (2 observations)."
+  ],
+  "form_trajectory": "neutral: Consistent tactical approach but ineffective execution, suggesting stable but insufficient form to convert breakaway attacks into results",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ZOCCARATO Samuele",
+  "built_from": [
+    "2023 Giro d'Italia Stage 5",
+    "2023 Giro dItalia Stage 5"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 20",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-27",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked from start in Stage 20 Monte Lussari mountain TT, overcame 26-second deficit to win Giro by 14 seconds over THOMAS who cracked on final climb.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS's bike change included helmet swap costing critical seconds at bottom; gear optimization matters even in brief transitions.",
+      "ROGLIČ gained 32 seconds in middle climb section not at steepest ramps, suggesting pacing strategy targeted sustained power zones.",
+      "POZZOVIVO suffered mechanical while leading, exposing risk of pushing equipment limits on 22% gradient ramps in mountain TTs."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: 42-second margin over THOMAS in 19km TT shows superior climbing TT form compared to 2020 Planche des Belles Filles collapse",
+      "THOMAS Geraint": "negative: lost 40+ seconds on final climb section after looking competitive at base, suggests inability to sustain threshold at altitude after three-week effort",
+      "McNULTY Brandon": "positive: set early reference time as domestique, confirming UAE's depth in high-altitude climbing TTs",
+      "ALMEIDA João": "neutral: held third at 59 seconds deficit, consistent but lacked explosive power to challenge top two in decisive format",
+      "POZZOVIVO Domenico": "negative: mechanical failure while leading reveals equipment pushed beyond reliability limits on extreme gradients"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:44:23.346848+00:00"
+}

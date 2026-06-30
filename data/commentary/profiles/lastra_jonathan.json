@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Initiates early attacks on final climbs to force selection and disrupt sprinter teams. Attacks from distance rather than waiting for final kilometers, creating small elite groups.",
+  "team_tactics": "Functions as an aggressor to animate the race and break up organized chase efforts, forcing peloton fragmentation rather than controlling tempo himself.",
+  "terrain_preference": "Medium-mountain stages with challenging final climbs where sustained efforts can create selections without requiring explosive climbing power of pure GC contenders.",
+  "vulnerability": "Lacks finishing speed to convert breakaway efforts into wins when contested by stronger finishers in reduced groups.",
+  "key_patterns": [
+    "Attacks first on final climbs to create small elite groups (2 observations)",
+    "Maintains position in final selections throughout entire stage, not just late attacks (2 observations)",
+    "Role centers on animating racing and forcing peloton splits rather than team tempo control (2 observations)"
+  ],
+  "form_trajectory": "unknown: insufficient recent data with 5-year gap between observations",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LASTRA Jonathan",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 12"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-11",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "QUINTANA attacked repeatedly on final climb, dropped THOMAS and YATES, caught lone leader ŠPILAK to win solo and secure GC.",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QUINTANA deployed multiple accelerations on final climb, wearing down THOMAS before definitive attack caught ŠPILAK.",
+      "THOMAS rode in team/tempo mode when YATES and URÁN were present, only responding to QUINTANA directly.",
+      "ŠPILAK attacked three times earlier on climb achieving solo break before being caught by GC riders."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: Multiple accelerations on climb showed exceptional early-season form, effortless out-of-saddle style destroying rivals",
+      "THOMAS Geraint": "positive: Developing real GC capability, repeatedly gapped YATES and URÁN but couldn't match QUINTANA's final surge",
+      "YATES Adam": "negative: Repeatedly put into difficulty by THOMAS accelerations, unable to stay with front group on steep gradients",
+      "URÁN Rigoberto": "neutral: Sat on THOMAS wheel but resurgent, lacked punch to follow QUINTANA attacks",
+      "ŠPILAK Simon": "neutral: Three early accelerations gained solo lead but died when caught by fresh QUINTANA from chasing group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:05:38.321978+00:00"
+}

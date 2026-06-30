@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 18",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-14",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won solo from breakaway, stamped away when CRON attacked with ~60km to go, extending margin on final climb.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL responded to CRON's attack not defensively but by accelerating harder, treating challenge as disrespectful provocation worth dominating.",
+      "KUSS super-domestiques VINGEGAARD/ROGLIC both served him final meters, team hierarchy message delivered publicly after prior day's controversy.",
+      "AYUSO vs LANDO Spanish classification battle allowed minor GC splits; AYUSO gained seconds with ROGLIC/MAS at finish over LANDO.",
+      "VLASOV attached to DENZ wheel specifically hunting top-10 position on descents, not waiting for final climb."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: metronomic mountain point collection from breakaway suggests total domination in selective mountain stages when given freedom",
+      "KUSS Sepp": "positive: publicly supported by VINGEGAARD/ROGLIC in closing meters after team tension questions, 17-second lead appears secure",
+      "AYUSO Juan": "neutral: gained seconds over LANDO for Spanish classification with MAS/ROGLIC but required support, not independent strength",
+      "ALMEIDA Joao": "negative: struggling while supposedly supporting AYUSO, domestique role breakdown evident",
+      "CRON Antonie": "negative: attacking EVENEPOEL with 60km remaining backfired badly, treated as disrespectful and punished decisively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:06:30.094607+00:00"
+}

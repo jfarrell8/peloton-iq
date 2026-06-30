@@ -1,0 +1,26 @@
+{
+  "label": "2022 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-10",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MCNULTY Brandon soloed from a 10-rider breakaway on the final classified climb 45km out, gaining 1:58 while Roglic took yellow as Vennot cracked.",
+    "winner": "MCNULTY Brandon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled for Roglic despite 18 DNS from illness, suggesting depleted peloton created breakaway opportunities they accepted.",
+      "McNulty attacked final classified climb from breakaway not descent, gaining 30 seconds before unclassified 6km rise at 12km-to-go.",
+      "Ineos attempted late isolation of Roglic on unclassified climb but Martinez given no room by peloton marking."
+    ],
+    "rider_signals": {
+      "MCNULTY Brandon": "positive: First WorldTour win converting early season form into stage-hunting ability, can TT away from quality breakaway companions",
+      "VENNOT Clement": "negative: Yellow jersey dropped on non-summit climb before final classified ascent, revealing fragility under Soudal control",
+      "ROGLIC Primoz": "neutral: Lost all teammates early but defended without counterattacking when Yates/Vlasov probed unclassified climb",
+      "JORGENSEN Matteo": "positive: Took significant GC time (likely 3+ minutes) by making chase group from breakaway on difficult technical descent",
+      "LATOUR Pierre": "positive: Tried forcing gap in reduced peloton sprint at 5:43 down, showing ambition despite GC loss"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:17:30.917436+00:00"
+}

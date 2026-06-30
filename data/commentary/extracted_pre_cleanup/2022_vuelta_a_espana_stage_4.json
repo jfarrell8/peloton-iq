@@ -1,0 +1,28 @@
+{
+  "label": "2022 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won the uphill finish at La Guardia, taking 13 seconds in bonuses to claim red jersey from teammate AFFINI Edoardo.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LUTSENKO Alexey in break only 46s down created virtual race lead forcing Jumbo-Visma to chase, dangerous GC breakaway threat.",
+      "ROGLIC Primoz beat pure sprinter PEDERSEN Mads on uphill finish, showing returning form after vertebrae fracture concerns from Tour crash.",
+      "Jumbo-Visma controlled final climb with KUSS Sepp, then ROGLIC took 13s bonuses to steal jersey from teammate AFFINI.",
+      "YATES Simon lost time to main GC group on finish, gap opened suggesting weakness on punchy uphill sprints."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: Won uphill sprint over pure sprinter PEDERSEN, answered form questions after vertebrae fracture injuries.",
+      "LUTSENKO Alexey": "positive: Only 46s down pre-stage, got in break forcing GC teams to chase, tactically astute positioning.",
+      "YATES Simon": "negative: Lost time to main GC group at finish, gap opened showing vulnerability on punchy uphill arrivals.",
+      "PEDERSEN Mads": "neutral: Second place on uphill finish, likely takes green jersey but couldn't match ROGLIC's climbing speed.",
+      "MAS Enrique": "positive: Third place with time bonus, stayed close to ROGLIC on uphill finish showing Movistar competitiveness.",
+      "HAYTER Ethan": "positive: Best young rider stayed with main GC group on uphill finish, showing stage race legs."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:56:27.560367+00:00"
+}

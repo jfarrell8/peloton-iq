@@ -1,0 +1,27 @@
+{
+  "label": "2019 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2019-04-14",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe won from 2-man breakaway sprint against Politt in Roubaix velodrome, finishing seconds ahead of closing Lampaert at 40 seconds.",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT Wout crashed twice after chasing back from mechanicals then entered breakaway fully spent, showing futile energy expenditure.",
+      "SAGAN Peter's teammate OSS Daniel crashed early, forcing defending champion into 25-second chase that neutralized his defense hopes.",
+      "GILBERT drove early breakaway pace deliberately to drop teammate KÜNG before Sagan's arrival, preventing numerical disadvantage in finale.",
+      "LAMPAERT Yves closed 40-second gap to 18 seconds during velodrome sprint, proving late chasers nearly catch tactical hesitation."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: Double crashes after mechanicals consumed energy bridging to winning break, left him unable to contest finale despite reaching it",
+      "SAGAN Peter": "negative: Loss of key domestique OSS to crash forced him into costly 25-second chase, ending back-to-back defense attempt",
+      "GILBERT Philippe": "positive: Tactically ejected teammate KÜNG from break before Sagan arrived, then held sprint positioning discipline against bigger Politt",
+      "POLITT Nils": "neutral: Physical size disadvantage ('big rider, puffing') in velodrome banking prevented him from going over Gilbert on track",
+      "LAMPAERT Yves": "positive: Solo chase reduced 40-second deficit to 18 seconds during front duo's velodrome hesitation, nearly caught them"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:54:35.768066+00:00"
+}

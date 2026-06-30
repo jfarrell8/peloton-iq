@@ -1,0 +1,27 @@
+{
+  "label": "2022 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard won from a 32-rider breakaway after attacking on the final 20km climb to Peñas Blancas, beating SOLER by 9 seconds.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "32-rider breakaway established early on 119km stage with single finish climb, GC teams allowed complete gap.",
+      "Quick-Step isolated Evenepoel with zero teammates in break while UAE planted three riders including Soler.",
+      "Kelderman gained 14+ GC places by infiltrating massive break as highest-placed GC rider at stage start.",
+      "Rodriguez collapsed in final 300m with visible hip hematoma from earlier crash, losing GC ground unexpectedly."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: First Vuelta stage win after disappointing Giro shows he's stage-hunting not GC, confidence restored",
+      "SOLER Marc": "positive: Third place finish and UAE's three-rider break representation confirms team prioritizing stage hunting over GC",
+      "KELDERMAN Wilco": "positive: Tactical masterstroke entering break as highest GC rider, jumped to 6th overall from outside top-20",
+      "RODRIGUEZ Carlos": "negative: Hip hematoma from crash caused collapse in final 300m, serious inflammation threatening weekend mountain stages",
+      "EVENEPOEL Remco": "negative: Quick-Step's zero representation in 32-rider break shows team isolation after losing Vine domestique"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:32:25.867545+00:00"
+}

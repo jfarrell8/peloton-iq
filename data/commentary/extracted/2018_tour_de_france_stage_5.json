@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-11",
+  "stage": 5,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won after VAN AVERMAET Greg launched 300m too early on a gradient that eased, allowing Sagan to time his sprint perfectly from fifth wheel.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky drove tempo final 10km specifically to drop GAVIRIA Fernando, effectively handing SAGAN the sprint by eliminating his fastest pure sprinter rival.",
+      "VAN AVERMAET Greg's attack mistimed for gradient profile: launched when steep but finish eased final 500m, allowing chasers to carry speed.",
+      "GILBERT Philippe bridged to intermediate bonus sprint after breakaway caught 100m prior, revealing form inconsistent with pre-race GC dismissal.",
+      "SKUJIŅŠ Toms dominated breakaway work but polka dot tie goes to him via last climb precedence rule over CHAVANEL Sylvain."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: Director called this his best form of the tour through five stages, showing progressive improvement trajectory rather than peak-and-fade.",
+      "GAVIRIA Fernando": "negative: Dropped on Sky's 10km tempo effort before final climb, exposing climbing limitation that makes him exploitable on rolling sprint stages.",
+      "VAN AVERMAET Greg": "positive: Took 2-second bonus at intermediate sprint and animated finale, positioning aggressively for yellow jersey time gaps despite non-GC rider status.",
+      "GILBERT Philippe": "positive: Contested both intermediate bonus sprint and finale after bridging from caught breakaway, showing unexpected late-race punch for GC ambitions.",
+      "COLBRELLI Sonny": "neutral: Named as sprint threat to watch but invisible in finale, suggesting form or positioning issues on technical punchy finishes.",
+      "MATTHEWS Michael": "negative: Abandoned sick before stage start, eliminating green jersey defending threat and opening competition for SAGAN exploitation.",
+      "SKUJIŅŠ Toms": "positive: Strongest breakaway rider, frustrated by CHAVANEL tactical sitting but still secured polka dots, signaling climbing domestique utility or breakaway threat."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:37:33.253477+00:00"
+}

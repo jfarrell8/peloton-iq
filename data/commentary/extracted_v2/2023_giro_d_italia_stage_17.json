@@ -1,0 +1,22 @@
+{
+  "label": "2023 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DANESE Alberto won a photo finish sprint after a 192km breakaway was caught at 5km to go, edging MILAN Jonathan by a tire width.",
+    "winner": "DANESE Alberto",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MILAN Jonathan blocked from intermediate sprint breakaway by MATTHEWS who considered him too dangerous for points competition.",
+      "LARSSON Senne solo attack at 22km lasted until 5km, suggesting sprinter teams waited too long to chase down numeric advantage."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: launching from distance mixed successfully with pure sprinters, suggesting underrated top-end speed or tactical surprise value",
+      "MILAN Jonathan": "negative: missed breakaway opportunity for points despite nearly 100-point maglia ciclamino lead, showing teams actively gatekeeping his advancement"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:38:54.346836+00:00"
+}

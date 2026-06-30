@@ -1,23 +1,26 @@
 {
-  "attacking_style": "Launches decisive attacks on penultimate or final climbs, often holding solo efforts into headwinds until the finale. Shows restraint to conserve energy, then delivers strong sprint finishes from breakaways when tactical patience is required.",
-  "team_tactics": "Movistar prioritizes stage hunting over breakaway solidarity—willing to attack past own teammates. Team allows Rubio freedom to position aggressively in breaks when GC is not threatened.",
-  "terrain_preference": "Multiple-climb stages where penultimate ascents allow solo attacks. Strong enough to hold advantages in adverse conditions (headwinds). Sprint finish from reduced groups suits him better than pure climbing duels.",
-  "vulnerability": "Cannot contest pure KOM sprints against specialized climbers despite being dangerous GC-level rider. May lack absolute climbing punch when repeatedly attacked by pure climbers on sustained gradients.",
+  "attacking_style": "Opportunistic breakaway specialist who sits on others' attacks then uses superior sprint to win from small groups. Prefers to conserve energy and finish over initiating sustained efforts.",
+  "team_tactics": "Minimal team support visible; operates as solo operator in breakaways, relying on intelligent positioning rather than domestique-led setups.",
+  "terrain_preference": "Single-climb stages and breakaway scenarios where he can mark attacks then out-sprint weakened climbers. Strong enough to sustain solo efforts when needed but prefers tactical group finishes.",
+  "vulnerability": "GC teams allow him excessive freedom when 11+ minutes down, suggesting he's not rated as dangerous on multi-climb or sustained GC efforts. Tendency to sit on wheels may limit options when forced to lead.",
   "key_patterns": [
-    "Attacks on penultimate climbs, not final summit, holding solo to sprint finish. (2 instances)",
-    "Demonstrates tactical maturity: sits on rivals' attacks then counters with sprint. (2 instances)",
-    "Movistar sacrifices team positioning for his stage opportunities, attacking past teammates. (2 instances)",
-    "Effective in breakaways when GC standings allow freedom (11min down). (2 instances)"
+    "Consistently sits on attacks then wins sprint: evidenced 3 times vs PINOT and THOMAS",
+    "Allowed in breaks at 11+ minutes GC gap, teams don't consider serious threat",
+    "Tactical maturity shown in conserving energy over animating race in breakaways",
+    "Capable of solo efforts when required but prefers reactive tactical racing"
   ],
-  "form_trajectory": "positive: Showed evolution from aggressive solo efforts (2022) to more nuanced tactical patience and sprint delivery (2023 Giro), suggesting maturation as complete stage hunter",
-  "races_analysed": 3,
+  "form_trajectory": "positive: Multiple 2023 wins showing improved tactical execution and ability to convert breakaway opportunities into victories",
+  "races_analysed": 5,
   "confidence": "medium",
   "rider_name": "RUBIO Einer",
   "built_from": [
+    "2020 Giro d'Italia Stage 5",
     "2022 Tour de Romandie Stage 4",
-    "2022 Tour de Romandie Stage 4",
+    "2023 Giro d'Italia Stage 13",
+    "2023 Giro d'Italia Stage 13",
     "2023 Giro dItalia Stage 13",
     "2023 Giro dItalia Stage 13",
+    "2023 Giro dItalia Stage 15",
     "2023 Giro dItalia Stage 15"
   ]
 }

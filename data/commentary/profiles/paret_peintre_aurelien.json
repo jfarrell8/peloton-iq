@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Operates from long-range breakaways (80km+) and demonstrates resilience by recovering from temporary distancing. Finishes with climbing-sprinter combination to win from reduced groups.",
+  "team_tactics": "Limited data on team setup, but showed independent capability to survive in breakaways and self-manage efforts without apparent domestique support in final.",
+  "terrain_preference": "Suits stages where combination of climbing endurance and sprint finish are required. Thrives in reduced sprint scenarios from breakaways rather than bunch kicks.",
+  "vulnerability": "Can be temporarily distanced on climbs within breakaways, suggesting threshold limitations when pace intensifies, though shows recovery capacity.",
+  "key_patterns": [
+    "Targets long-range breakaway opportunities established early in stage (80km+ to go).",
+    "Demonstrates recovery ability after being dropped, regaining contact in final kilometers.",
+    "Excels in small-group sprint finishes combining climbing fatigue resistance with speed."
+  ],
+  "form_trajectory": "positive: Successfully converted breakaway opportunity into Grand Tour stage win with strong finish",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PARET-PEINTRE Aurelien",
+  "built_from": [
+    "2023 Giro d'Italia Stage 4",
+    "2023 Giro d'Italia Stage 4"
+  ]
+}

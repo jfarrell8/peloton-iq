@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-27",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "TEUNS Dylan stole victory from DENNIS Rowan on steep finish climb to Romont after DENNIS went from 2km out using TT power",
+    "winner": "TEUNS Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS deployed DEPLUS for extended pacemaking on stage one despite having prologue leader, revealing domestique depth over GC protection.",
+      "DENNIS launched solo attack 2km from steep finish using time trial power rather than waiting for sprint group.",
+      "Break dissolution at 30km triggered CAVANIA solo counter at 5km, suggesting Quick-Step testing without full commitment.",
+      "HAYTER crash at 14km forced INEOS to abandon pace control, opening tactical opportunities for GC rivals."
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: time trial engines can successfully attack steep uphill finishes from distance, not just flat rouleur terrain",
+      "DEPLUS Laurens": "positive: showed exceptional form doing sustained pacemaking work, signaling strong early-season condition for INEOS",
+      "TEUNS Dylan": "positive: demonstrated ability to close significant gap and outsprint stronger time trialist on steep gradient",
+      "MCNULTY Brandon": "neutral: initiated final climb attack but lacked punch to hold off stronger closers",
+      "HAYTER Ethan": "negative: lost race lead to crash at 14km, suggesting positioning vulnerability in hilly parcours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:54:13.807747+00:00"
+}

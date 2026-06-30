@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Not a first-attack rider; excels in reactive counter-attacks and positioning for reduced sprints from GC groups after penultimate climbs. Seizes bonus seconds opportunistically when form is good.",
+  "team_tactics": "Flexible role player: works as domestique when team prioritizes another leader, but given freedom when co-leading. Team often lacks numbers to control finales, limiting setup options.",
+  "terrain_preference": "Stage races with multiple categorized climbs where durability and recovery between efforts matter. Strong in reduced sprints after selection. Time trials provide GC gain opportunities.",
+  "vulnerability": "Exposed when racing defensively without numerical support. Mechanicals at critical moments have cost time. Can appear dropped on earlier climbs before recovering, suggesting pacing management issues.",
+  "key_patterns": [
+    "Counter-attacks when others hesitate rather than initiating moves (2020 Tirreno, 2020 Lombardia pattern)",
+    "Recovers after appearing dropped on climbs to finish with GC group (2023 Vuelta durability)",
+    "Actively hunts bonus seconds when competitive for top-10 GC (2023 Vuelta, positioning behavior)",
+    "Willing domestique despite podium capability when team strategy requires it (2020 Lombardia sacrifice)",
+    "Peaks well for stage race blocks: Romandie-Suisse 2022 trajectory toward Grand Tours",
+    "Wins reduced sprints after penultimate climb selections, not final climb attacks (Suisse 2022)"
+  ],
+  "form_trajectory": "neutral: Limited 2023 data shows competitiveness but supporting role. 2022 peaked well (Romandie/Suisse wins). Mixed signals between leadership and domestique duties.",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "VLASOV Alexander",
+  "built_from": [
+    "2020 Il Lombardia",
+    "2020 Il Lombardia",
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 4",
+    "2021 Giro d'Italia Stage 14",
+    "2021 Paris-Nice Stage 6",
+    "2022 Tour de Romandie Stage 4",
+    "2022 Tour de Suisse Stage 5",
+    "2022 Tour de Suisse Stage 5",
+    "2023 La Vuelta Ciclista a Espana Stage 9",
+    "2023 Tirreno-Adriatico Stage 4",
+    "2023 Vuelta a Espana Stage 8"
+  ]
+}

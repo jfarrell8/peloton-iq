@@ -1,0 +1,25 @@
+{
+  "label": "2017 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2017-04-19",
+  "stage": null,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "VALVERDE won his 5th Flèche Wallonne attacking 200m from finish on final Mur de Huy ascent, dropping Martin and Teuns after Movistar controlled the race.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar controlled through all three Mur passages despite Valverde being solo favorite, revealing willingness to defend repeat winners.",
+      "JUNGELS attacked De Marchi 25km out, went solo at 11km, caught at 500m—premature moves futile before final Mur.",
+      "GOUGEARD attacked 200m from line but couldn't sustain, proving penultimate attacks fail on Mur's 10% gradient finish."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: 10th win of season at age 36, fifth Flèche title shows Mur de Huy specialists peak later than other classics riders",
+      "JUNGELS Bob": "negative: burned energy on 11km solo that was always doomed on Mur finish course profile",
+      "MARTIN Dan": "neutral: third podium in four years signals consistency but not breakthrough capacity on Mur's steepest sections",
+      "TEUNS Dylan": "positive: first major classics podium suggests emerging capacity for explosive short climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:59:28.359799+00:00"
+}

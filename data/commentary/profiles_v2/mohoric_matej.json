@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Long-range opportunist who attacks 30-50km from finish on varied terrain, including unfamiliar climbs and flat breakaway stages. Capable of solo efforts requiring sustained power output rather than explosive accelerations.",
+  "team_tactics": "Operates with minimal team support in finale positioning; relies on personal initiative rather than organized lead-outs. Team coordination issues evident in technical finales where positioning critical.",
+  "terrain_preference": "Excels on descents and flat-to-rolling breakaway stages requiring diesel engine efforts. Shows surprising climbing competence on medium-length ascents (Signal de Uchon-type climbs), but not pure mountain stages.",
+  "vulnerability": "Poor positioning in technical sprint finales; tactical passivity when aggressive descending could break races open. Appears to undercook natural advantages waiting for teammates rather than imposing tempo.",
+  "key_patterns": [
+    "Wins from long breakaways (30-50km) requiring sustained solo efforts, not late accelerations (2 instances)",
+    "Demonstrates tactical hesitancy on descents despite superior skills, waits passively rather than attacking (2 instances)",
+    "Shows versatility beyond classics role: climbing improvement, stage hunting across terrain types (3 instances)",
+    "Positioning errors in technical finales undermine sprint opportunities, team miscommunication evident (2 instances)",
+    "Morale-driven performances: attacks with confidence after team setbacks to restore momentum (2 instances)"
+  ],
+  "form_trajectory": "neutral: 2021 showed winning capability but tactical restraint limited potential; descending advantage underutilized suggesting mental approach issue rather than physical decline",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "MOHORIC Matej",
+  "built_from": [
+    "2018 Criterium du Dauphine Stage 1",
+    "2018 Giro d'Italia Stage 12",
+    "2021 La Vuelta ciclista a Espana Stage 16",
+    "2021 Tour de France Stage 19",
+    "2021 UAE Tour Stage 7",
+    "2021 UAE Tour Stage 7",
+    "2021 Volta Ciclista a Catalunya Stage 7"
+  ]
+}

@@ -83,6 +83,14 @@
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 32,
+    "raw_chars": 1125,
+    "clean_chars": 1117,
+    "duration_mins": 1.1,
+    "clean_text": "being Cancellara fired the riders into stage two of tour de suisse with stage one winner Owen Dennis of Bahrain Merida defending an overall lead of just fractions of a second guillaume van Kerr spook and Gavin Mannion joined a forum an early break with Claudio Imhoff of team Switzerland staying at front longest having gone solo in the first 30 kilometers of the 160 kilometers stage Parrish tagging added points and scooped bonus seconds from Michael Matthews with just seconds separating the leading riders at the top of general classification Inhofe's time at front would net him a useful early lead in the king of the mountains while the peloton behind made plans for the last two of six climbs coming in the final 35 kilometers a mechanical for track specialist in off only hastened the inevitable as a stand of forced the pace in the main Bunch for a series of attacks Louis lay on Sanchez pounced with 12 kilometers remaining and the Spanish veteran hung on to take a first win at Tour de Suisse with Kasparov screen of de Coyne and Quick Step taking over the overall race lead by the narrowest of margins you",
+    "preview_start": "being Cancellara fired the riders into stage two of tour de suisse with stage one winner Owen Dennis of Bahrain Merida defending an overall lead of just fractions of a second guillaume van Kerr spook and Gavin Mannion joined a forum an early break with Claudio Imhoff of team Switzerland staying at front longest having gone solo in the first 30 kilometers of the 160 kilometers stage Parrish tagging added points and scooped bonus seconds from Michael Matthews with just seconds separating the leadi",
+    "preview_end": "f the mountains while the peloton behind made plans for the last two of six climbs coming in the final 35 kilometers a mechanical for track specialist in off only hastened the inevitable as a stand of forced the pace in the main Bunch for a series of attacks Louis lay on Sanchez pounced with 12 kilometers remaining and the Spanish veteran hung on to take a first win at Tour de Suisse with Kasparov screen of de Coyne and Quick Step taking over the overall race lead by the narrowest of margins you"
+  },
+  "status": "transcript_saved"
 }

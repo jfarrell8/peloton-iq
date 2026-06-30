@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Shows willingness to attack early in breakaways but has learned tactical restraint, transitioning from aggressive self-interest to calculated team play in final kilometers.",
+  "team_tactics": "In AG2R setup, executes deliberate pacing in breaks to position teammates for final kilometer launches, sacrificing personal placement for team success.",
+  "terrain_preference": "Capable in breakaways on climbing stages, though specific terrain advantage unclear from limited data; can handle sustained efforts in escapes.",
+  "vulnerability": "Historically exposed when attacking too early in breakaways, depleting reserves before decisive moments on subsequent climbs.",
+  "key_patterns": [
+    "Participates in long-range breakaways across Grand Tours, 2 observed instances.",
+    "Tactical evolution from premature attacks (2019) to disciplined team sacrifice (2023).",
+    "Final kilometer positioning important; either depleted or deliberately pacing for teammates."
+  ],
+  "form_trajectory": "positive: Evolution from tactically naive early attacks to sophisticated team player executing planned sacrificial roles for AG2R",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CONNOR Ben",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 11",
+    "2023 Tour de France Stage 17"
+  ]
+}

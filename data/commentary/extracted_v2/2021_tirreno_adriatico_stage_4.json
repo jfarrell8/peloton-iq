@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-13",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked on final climb to Prati di Tivo, dropped all rivals solo to take stage by 6 seconds over YATES who caught on late.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS attacked early on final climb forcing POGAČAR to chase, revealing UAE strategy allows rivals to test him first.",
+      "YATES launched late counterattack after being distanced, gaining more time than those who followed POGAČAR's initial acceleration.",
+      "ALMEIDA and LANDA chased separately rather than cooperating, allowing POGAČAR's gap to grow through disorganized pursuit."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: admitted struggling to finish alone, suggesting margin over rivals narrower than final 6-second gap implies",
+      "THOMAS Geraint": "positive: probed POGAČAR first on final climb despite being outside GC contention, showing form recovery",
+      "YATES Simon": "neutral: late attack limited losses to 6 seconds after being dropped, better pacing than midpack chasers",
+      "VAN AERT Wout": "negative: finished in top ten over 40 seconds back, showing climber's stage beyond all-rounder capabilities",
+      "ALMEIDA João": "negative: chased individually rather than organizing group, tactical naivety cost 30+ seconds to YATES"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:49:25.734751+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Final kilometer aggression on decisive stages, willing to attack late but lacks finishing power to convert. Responds reactively to GC rival accelerations rather than initiating sustained long-range moves.",
+  "team_tactics": "MovieStar provides TTT support but shows positioning discipline issues under pressure. Limited evidence of systematic climb domestique support; rider appears to operate independently in finale moments.",
+  "terrain_preference": "Grand Tour stage racing with ability to respond on climbs to GC accelerations. Shows resilience across three-week efforts with capacity to recover from setbacks (crash recovery). No sprint specialization evident.",
+  "vulnerability": "Lacks winning power in final moments despite strong positioning and form. TTT discipline and precision timing cost marginal gains. Cannot sustain or initiate decisive accelerations against top GC rivals.",
+  "key_patterns": [
+    "Final kilometer attacks without conversion power: 2 documented late-race efforts unsuccessful",
+    "Strong recovery capacity: bounced back from Tour crash to sprint first at Vuelta",
+    "Reactive GC racing: matched ROGLIC accelerations but deficit grew to 2:00 overall",
+    "Consistent podium-adjacent results: strong form without top-step finishing ability across years"
+  ],
+  "form_trajectory": "neutral: 2021-2023 shows consistent strong form and recovery ability, but no breakthrough in converting positioning to victories. Maintains GC relevance without progression to winning tier.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MOSS Enrique",
+  "built_from": [
+    "2021 Vuelta a Espana Stage 20",
+    "2021 Vuelta a Espana Stage 9",
+    "2023 Vuelta a Espana Stage 1",
+    "2023 Vuelta a Espana Stage 1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2017 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-12",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HENAO held off CONTADOR by 2 seconds after Contador attacked on the penultimate Cat 1 climb and held virtual lead until final 100 meters",
+    "winner": "HENAO Sergio",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "CONTADOR attacked two climbs from finish on Cat-1 terrain, too early to sustain virtual lead through final kilometers.",
+      "SKY's HENAO survived via HENAO and LOPEZ pacing after initial detonation, showing depth beats solo aggression on multi-climb finales.",
+      "CONTADOR collected time bonuses at intermediate sprint before final climbs, revealing GC calculation integrating bonuses into deficit math."
+    ],
+    "rider_signals": {
+      "CONTADOR Alberto": "positive: attacking 31 seconds down with two Cat-1s remaining nearly succeeded, signals peak form ahead of Tour",
+      "HENAO Sergio": "positive: survived aggressive isolation tactics with only two domestiques functional in finale",
+      "HENAO Sebastian": "positive: critical domestique work preventing CONTADOR's virtual lead from becoming insurmountable",
+      "LOPEZ David": "positive: key Sky domestique alongside HENAO keeping CONTADOR within reach after initial group split"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:01:13.492244+00:00"
+}

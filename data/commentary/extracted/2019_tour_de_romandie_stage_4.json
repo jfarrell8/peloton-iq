@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-04",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ won the uphill sprint after stage was shortened 70km due to weather, neutralizing the GC contenders on a single climb before attacking downhill finale",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Emergency course shortening eliminates multiple climbs, favoring sprinting GC leaders over pure climbers in reshuffled tactical hierarchy",
+      "MARTÍNEZ Daniel Felipe positioned as key breakaway rider for Jumbo-Visma before course change, showing team's multi-scenario preparation",
+      "ROGLIČ attacked with 300m on downhill finish section, exploiting wet conditions where handling skill outweighs pure sprint power",
+      "Team Jumbo-Visma won positioning battle at base of remaining climb over Bora and Katusha, converting organizational strength into placement advantage"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: won second sprint finish in four days, demonstrating unexpected repeatability in uphill power finishes beyond TT specialty",
+      "THOMAS Geraint": "positive: third place suggests strong Tour preparation despite poor season start, positioning well for reduced-climbing scenario",
+      "WOODS Michael": "neutral: present in finale but unable to convert climbing stage into win when multiple mountains removed",
+      "CARTHY Hugh": "negative: mentioned as contender but faded in finale, suggesting vulnerability when stage profile becomes less selective",
+      "GROßSCHARTNER Felix": "neutral: animated in closing kilometers but positioning didn't convert to result despite aggressive intent",
+      "MARTÍNEZ Daniel Felipe": "neutral: deployed in early break before course change, caught when stage became sprint-weighted rather than attrition-based"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:11:05.582240+00:00"
+}

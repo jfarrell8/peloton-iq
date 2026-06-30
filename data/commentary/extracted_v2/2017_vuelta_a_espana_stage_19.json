@@ -1,0 +1,25 @@
+{
+  "label": "2017 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-08",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEWULF Thomas won from 9-rider breakaway sprint after catching Garcia Cortina's 35km-to-go solo attack on local climb near Gijón",
+    "winner": "DEWULF Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Garcia Cortina attacked 35km out on local climb but time-trial effort failed when chasers organized as group of four.",
+      "Contador attacked 10km from finish attempting to bridge to teammate Pozzovivo in break, revealing Tinkoff's willingness to sacrifice GC positioning.",
+      "Nine-rider breakaway regrouped on final climb despite Garcia Cortina's sustained solo effort, showing value of conservation over early aggression."
+    ],
+    "rider_signals": {
+      "DEWULF Thomas": "positive: Won sprint from regrouped break despite not being strongest on climbs, showing positioning discipline trumps raw power",
+      "GARCIA CORTINA Ivan": "negative: Solo attack 35km out in home region failed as time-trial effort unsustainable against organized chase",
+      "CONTADOR Alberto": "neutral: Attacked 10km from finish to reach teammate Pozzovivo, indicating team tactics prioritized stage hunt over GC defense",
+      "ROCHE Nicolas": "positive: Moved into top-15 overall from breakaway effort, showing late-race GC opportunities from non-threatening break positions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:14:19.685965+00:00"
+}

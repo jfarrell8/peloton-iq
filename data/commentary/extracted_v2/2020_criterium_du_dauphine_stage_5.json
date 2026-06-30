@@ -1,0 +1,28 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-16",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COUS Sep attacked with 2km remaining on the final climb to Megève-Altiport, taking stage while MARTINEZ Danny stole GC via bonus seconds.",
+    "winner": "COUS Sep",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma used DUMOULIN domestique attacks after losing Roglič to demoralize rivals defending Pinot's lead, nearly worked.",
+      "MARTINEZ won Dauphiné by 29 seconds primarily through bonus second hunting, not raw climbing superiority over Pinot.",
+      "POGAČAR attacked early on Côte de Domancy seeking stage wins not GC, revealing team prioritization patterns pre-Tour.",
+      "SIVAKOV pedal-strike crash while descending steadily with teammate shows Ineos coordination failures under pressure."
+    ],
+    "rider_signals": {
+      "COUS Sep": "positive: Solo win after being released for stage hunting following Roglič withdrawal, rewarding team loyalty opportunity",
+      "MARTINEZ Danny": "positive: Stole GC through tactical bonus hunting despite being weaker climber, calculated racing over raw power",
+      "PINOT Thibaut": "negative: Lost 29-second GC lead in final stage despite teammates, failed to respond to bonus second tactics",
+      "DUMOULIN Tom": "positive: Executed aggressive domestique attacks for no personal gain after leader withdrew, pure team disruption tactics",
+      "SIVAKOV Pavel": "negative: Unforced pedal-strike descent crash while riding conservatively with teammate, concentration lapse under fatigue",
+      "POGACAR Tadej": "neutral: Long-range attacking on Domancy for stage hunting not GC, testing form two weeks before Tour"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:12:31.483889+00:00"
+}

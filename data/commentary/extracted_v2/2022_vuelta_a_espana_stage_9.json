@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POL Remco soloed to victory on Las Ubiñas, putting 52 seconds into ROGLIC and extending GC lead through pure seated power on 13% grades.",
+    "winner": "VAN DER POL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van der Pol's seated climbing on 13% gradients revealed superior core strength differentiator over traditional explosive climbers like Roglic.",
+      "Early breakaway attempts instantly shut down despite categorized start suggests teams protecting GC energy rather than stage hunting.",
+      "Rodriguez outperformed Mas as Ineos GC option despite younger rider jersey being on loan, signaling leadership shift."
+    ],
+    "rider_signals": {
+      "VAN DER POL Remco": "positive: Only rider matching his strength in seated position on steep gradients, suggesting sustainable power advantage on extreme pitches.",
+      "ROGLIC Primoz": "negative: Lost 52 seconds despite starting day 1:01 down, struggling mid-climb more than finish indicates deeper form issues.",
+      "RODRIGUEZ Carlos": "positive: Beat Mas head-to-head on steep finish, emerging as real Ineos GC leader despite being young rider.",
+      "MAS Enric": "negative: Caught and passed by Ayuso on steepest sections, losing ground to younger Spanish GC rivals.",
+      "SIVAKOV Pavel": "negative: Already 5:40 down after first week signals complete elimination from podium contention unusually early."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:34:37.082408+00:00"
+}

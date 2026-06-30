@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic aggressor who attempts bridging moves and late breakaways rather than solo accelerations. Attacks occur in ambiguous tactical situations where race dynamics are fluid, often exploring reconnaissance rather than committing to sustained efforts.",
+  "team_tactics": "Lotto deploys him in dual-scenario tactics, allowing him to probe breaks while maintaining team options. Functions as a flexible asset testing race situations rather than protected leader with dedicated train.",
+  "terrain_preference": "Mountain finishes suit his climbing form best, showing strength on sustained gradients. One-day parcours with mixed terrain expose limitations, unable to convert late aggression into results when caught before technical finales.",
+  "vulnerability": "Struggles to sustain breakaway efforts to the line when peloton organizes chase. Lacks explosive acceleration needed for technical finales or bunch kicks after being caught from moves.",
+  "key_patterns": [
+    "Bridge attempts from peloton to existing breaks rather than initiating moves (2 observations)",
+    "Late-race aggression consistently caught before finish, unable to hold off organized chases (2 observations)",
+    "Deployed in exploratory roles testing race scenarios without full team commitment (2 observations)",
+    "Stronger performances on pure climbing terrain versus mixed/technical parcours (2 observations)"
+  ],
+  "form_trajectory": "positive: Mountain performance improving through 2021 Paris-Nice with noted climbing strength, suggesting developing Grand Tour domestique capability despite limited result conversion",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "VANHOUCKE Harm",
+  "built_from": [
+    "2020 Bretagne Classic - Ouest France",
+    "2021 La Vuelta ciclista a Espana Stage 16",
+    "2021 Paris-Nice Stage 7"
+  ]
+}

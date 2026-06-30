@@ -1,0 +1,30 @@
+{
+  "label": "2022 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-01-01",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon won the technical Budapest time trial by 3 seconds over VAN DER POEL Mathieu, executing the uphill finish climb better than the pink jersey.",
+    "winner": "YATES Simon",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Simon gained decisive margin on final 1.3km climb despite being marginally slower than VAN DER POEL at climb base.",
+      "DUMOULIN Tom's time trial form resurged after long absence, beating climbing specialists by 5 seconds before final climb negated advantage.",
+      "KÄMNA Lennard showed unexpected TT prowess on technical parcours, beating established specialist AFFINI Edoardo despite minimal professional TT pedigree.",
+      "SOBRERO Matteo's Italian championship form held against world-class field until pure power specialists arrived, suggesting technical courses suit him."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: career-best time trial on technical urban course with uphill finish suggests new dimension beyond climbing specialty",
+      "VAN DER POEL Mathieu": "positive: retained 11-second GC lead despite losing stage, demonstrating TT competence limits vulnerability in future short efforts",
+      "DUMOULIN Tom": "positive: third place only 5 seconds down signals genuine return to form after extended absence and injury struggles",
+      "KÄMNA Lennard": "positive: beat established TT specialists without professional pedigree suggests punchy technical parcours unlock hidden strength",
+      "NIBALI Vincenzo": "positive: third fastest among GC group despite age and declining TT reputation, tactical implications for mountain stage timegaps",
+      "CARAPAZ Richard": "neutral: 30 seconds down represents solid damage limitation but reveals TT remains exploitable weakness against pure specialists",
+      "KELDERMAN Wilco": "positive: 16 seconds down places him among elite TT group, stronger showing than climbing reputation suggests",
+      "TULETT Ben": "positive: grand tour time trial debut performance mentioned alongside elite results suggests breakthrough talent identification moment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:27:56.203289+00:00"
+}

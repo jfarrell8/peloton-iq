@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de Suisse Stage 9",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-23",
+  "stage": 9,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CARTHI Luke rode solo over three HC climbs from the gun, taking KOM jersey and maiden WT win while BERNAL defended GC against DENNIS' summit attack.",
+    "winner": "CARTHI Luke",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARTHI stretched on climb one, extended on climb two, stayed clear on climb three—INEOS never chased solo breakaway rider.",
+      "DENNIS attacked only near Furka Pass summit, too late to crack BERNAL with 22-second deficit requiring distance not late jabs.",
+      "CATUSHA SERRY abandoned GC defense to attack mid-race from 7th overall, wilted in heat suggesting pacing misjudgment on triple-HC day."
+    ],
+    "rider_signals": {
+      "CARTHI Luke": "positive: maintained solo effort across three HC climbs from km 0, indicating exceptional pacing discipline and climbing endurance",
+      "DENNIS Rohan": "negative: attacked only near final summit despite needing 22 seconds, revealing tactical hesitation or insufficient strength to distance Bernal earlier",
+      "BERNAL Egan": "positive: marked Dennis' late attack comfortably while other GC riders drifted back, showing superior heat tolerance",
+      "SERRY Pieter": "negative: abandoned defensive 7th place to attack mid-race, then wilted in heat, exposing poor tactical judgment on extreme stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:03:27.335203+00:00"
+}

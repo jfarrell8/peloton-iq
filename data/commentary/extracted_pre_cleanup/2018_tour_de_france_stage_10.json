@@ -1,0 +1,30 @@
+{
+  "label": "2018 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-17",
+  "stage": 10,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked on the climbs of Stage 10 and won by over a minute, while VAN AVERMAET shockingly defended yellow by infiltrating the breakaway and finishing fourth despite not being a climber.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN AVERMAET conserved energy at stage start, bridged to breakaway at optimal moment after others spent themselves establishing it.",
+      "ALAPHILIPPE's margin of victory exceeded one minute despite being with elite climbers, suggesting he significantly underrode his capabilities earlier.",
+      "Team Sky controlled peloton with THOMAS as protected rider, yet VAN AVERMAET's five-minute breakaway buffer neutralized their tempo work entirely.",
+      "FUGLSANG explicitly stated Sky teams agreed not to take yellow yet, revealing GC contenders prefer Van Avermaet working than assuming defensive obligations."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: Finished fourth atop Colombière despite not being a climber, doubled lead over THOMAS to 2+ minutes through offensive yellow defense",
+      "ALAPHILIPPE Julian": "positive: Strengthened throughout stage and won by over a minute, demonstrating superior mountain capacity to reputation and polka dot competitors",
+      "FROOME Chris": "neutral: Solid ride to 3:21 back, Team Sky controlled tempo but gained no time on leaders who escaped in break",
+      "THOMAS Geraint": "negative: Lost over two minutes to VAN AVERMAET despite Sky's tempo control, relegated to chasing rather than gaining yellow",
+      "URÁN Rigoberto": "negative: Serious struggle on Colombière suggests unrecovered residual damage from cobblestone stage crash, exposed by first mountain day",
+      "FUGLSANG Jakob": "neutral: Post-race comments reveal GC teams strategically avoiding yellow jersey work burden, Sky strongest team but Movistar three-captain approach stretched thin",
+      "NIBALI Vincenzo": "neutral: Top 10 finish but no notable offensive action, mentioned as expected contender without delivering decisive move",
+      "LANDA Mikel": "neutral: Present in contenders group but shown struggling compared to Sky's strength demonstration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:33:23.890753+00:00"
+}

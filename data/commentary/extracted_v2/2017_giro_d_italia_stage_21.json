@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-28",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN Tom won 2017 Giro d'Italia by 31 seconds over NAIRO Quintana, defending 53-second lead in Stage 21 ITT despite losing 22 seconds.",
+    "winner": "VAN EMDEN Jos",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DUMOULIN paced conservatively through intermediate checkpoint (19 seconds down on VAN EMDEN) while protecting overall lead rather than stage hunting.",
+      "PINOT cracked unexpectedly in final ITT losing 33+ seconds to DUMOULIN, revealing weaker time trial form than pre-race handicapping suggested.",
+      "ZAKARIN took white jersey on final stage, indicating young rider classification was still contested despite DUMOULIN's overall focus."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: defended 53-second GC lead by losing only 22 seconds to Quintana, showing elite TT pacing discipline under extreme pressure",
+      "NAIRO Quintana": "neutral: closed 22 seconds on Dumoulin in final ITT but insufficient from 53-second deficit, confirming time trial deficit",
+      "PINOT Thibaut": "negative: lost 33 seconds to Dumoulin when needing to defend 43-second GC gap, indicating poor final ITT form",
+      "VAN EMDEN Jos": "positive: first Grand Tour stage win with fastest time, showing late-race TT peak form",
+      "ZAKARIN Ilnur": "positive: seized white jersey on final stage suggesting persistent GC aggression through final days"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:57:45.401543+00:00"
+}

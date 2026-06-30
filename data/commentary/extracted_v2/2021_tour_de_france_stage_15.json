@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-11",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp won from the breakaway after JUMBO-VISMA successfully placed multiple riders forward while UAE failed to control despite POGACAR holding yellow comfortably",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "MATTHEWS Michael made the 25-rider break despite being sprinter, targeting intermediate sprint points while 24min down overall.",
+      "JUMBO-VISMA placed KUSS and VAN AERT in 25-rider break, converting domestique depth into stage wins when GC not threatened.",
+      "POGACAR absorbed repeated attacks on final climb by sitting on wheels then leading over summit to control descent."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: Won stage after showing Tour of Utah 2018 form pattern, third stage 15 Grand Tour win suggests targeted peaking",
+      "VAN AERT Wout": "positive: Switched from worker to leader role mid-stage to set up KUSS, demonstrates tactical flexibility beyond pure domestique",
+      "POGACAR Tadej": "neutral: Controlled attacks without difficulty but showed conservative descent tactics, prioritizing yellow retention over attacking",
+      "WOODS Mike": "negative: Lost polka dots and visibly frustrated at finish, seventh KOM jersey change indicates vulnerability in early-stage positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:51:22.650878+00:00"
+}

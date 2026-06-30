@@ -1,0 +1,26 @@
+{
+  "label": "2022 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2022-03-22",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Caden won sprint after Matthews (teammate, race leader) led out, exploiting Bauhaus wheel while crosswind chaos dropped Yates 30+ seconds.",
+    "winner": "GROVES Caden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BikeExchange deployed race leader Matthews as leadout for sprinter Groves, prioritizing stage over GC protection in crosswinds.",
+      "INEOS drove tempo with multiple GC cards protecting overall options while others lost riders to crashes and positioning.",
+      "Crosswind anxiety caused extreme peloton compression creating crash sequence, not actual echelon splits, before final 10km."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: caught behind in final crosswind section, lost 30+ seconds despite BikeExchange teammates dropping back",
+      "PORT Richie": "negative: abandoned/withdrew after illness, instructed teammates not to wait and focus on other objectives",
+      "MATTHEWS Michael": "positive: sacrificed GC position in leader's jersey to leadout teammate Groves, team-first tactical flexibility",
+      "GROVES Caden": "positive: tactically savvy to follow Bauhaus wheel rather than Matthews leadout, timed final acceleration perfectly",
+      "KRIET Koski": "neutral: potential fast finisher option but dropped back for team duties in crosswind stress"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:30:34.078608+00:00"
+}

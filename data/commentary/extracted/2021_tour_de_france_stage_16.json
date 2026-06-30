@@ -3,23 +3,26 @@
   "race_name": "Tour de France",
   "race_date": "2021-07-13",
   "stage": 16,
-  "channel": "GCN Racing",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "CONRAD Patrick soloed to victory from a 14-rider break after attacking alone on Col de Portet, holding 1+ minute to the finish despite late chasing.",
-    "winner": "CONRAD Patrick",
+    "one_line_summary": "KONRAD Patrick soloed to victory after attacking 37km out, holding off chase group by over 1 minute while GC group finished 14 minutes back.",
+    "winner": "KONRAD Patrick",
     "commentary_quality": "moderate",
     "tactical_patterns": [
-      "CONRAD attacked final serious climb (Col de Portet) from 14-rider break that never organized properly despite strong sprinters.",
-      "JUMBO-VISMA inexplicably put pressure late-stage before mountain-top finish with all GC riders present, wasting energy before critical stages.",
-      "Break chasers GORDU/COLBRELLI lost minute despite numbers because fractured groups couldn't coordinate against solo attacker on technical descent."
+      "KONRAD attacked alone with 37km remaining, avoiding Saturday's error of letting MOLLEMA escape; high-risk solo succeeds when committing early.",
+      "VAN AERT drove pace in chase group but inexplicably sat up final kilometer, wasting domestique effort for no tactical gain.",
+      "POGAČAR sprinted against CARAPAZ at finish 14min down, psychological gamesmanship signaling strength despite stage being decided.",
+      "MATTHEWS and COBRELLI sprinted from 120-rider gruppetto for green jersey points, showing intermediate sprint tactics even in mountain stages matter."
     ],
     "rider_signals": {
-      "CONRAD Patrick": "positive: Austrian champion showed willingness to attack alone from functioning break, suggesting confidence on technical descents with tragic history",
-      "VINGEGAARD Jonas": "neutral: JUMBO's late pressure with all GC riders present suggests either bluffing or questionable pacing strategy before consecutive mountain finishes",
-      "MATTHEWS Michael": "negative: Third place from break with COLBRELLI suggests sprint legs not sharp enough to organize chase despite numerical advantage",
-      "CAVENDISH Mark": "neutral: Riding safely in gruppetto, conserving for final week sprint opportunities while MATTHEWS/COLBRELLI chase green jersey points"
+      "KONRAD Patrick": "positive: executed 37km solo attack decisively after learning from previous breakaway failure, showing improved tactical maturity",
+      "VAN AERT Wout": "neutral: drove chase pace effectively but sat up in final kilometer, unclear team directive or energy preservation",
+      "COLBRELLI Sonny": "positive: caught PÉRICHON on line from distance in gruppetto sprint, exceptional finishing speed despite mountain stage fatigue",
+      "POGAČAR Tadej": "positive: sprinted playfully at finish 14min down, psychological dominance display suggesting complete GC control",
+      "CARAPAZ Richard": "neutral: matched POGAČAR sprint at finish, engaging in symbolic battle despite irrelevant time gaps",
+      "MATTHEWS Michael": "positive: contested gruppetto sprint aggressively for green jersey points, calculated intermediate classification focus"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:31:17.852305+00:00"
+  "extracted_at": "2026-06-28T23:08:24.813026+00:00"
 }

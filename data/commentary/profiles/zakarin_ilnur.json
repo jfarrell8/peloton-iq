@@ -1,0 +1,42 @@
+{
+  "attacking_style": "Launches repeated accelerations in final 3-6km of steep climbs, typically from breakaways or reduced GC groups. Demonstrates willingness to attack from non-podium positions when trailing by 2+ minutes, prioritizing stage wins over GC conservation.",
+  "team_tactics": "Operates with minimal team support structure; attacks independently without coordinated domestique setup. Team shows poor response capability in crisis moments (crashes, mechanicals) compared to rivals.",
+  "terrain_preference": "Steep gradient summit finishes where sustained climbing power and repeated accelerations work best. Out-of-category mountain stages suit his endurance profile. Severely exposed on technical descents, requiring team assistance.",
+  "vulnerability": "Chronic descending weakness requiring team stops. Poor positioning judgment causes time losses in finales unrelated to form. Lacks team support structure to recover from crashes or mechanical issues. Fades in final week of Grand Tours.",
+  "key_patterns": [
+    "Attacks 3-6km from finish on steep climbs with repeated accelerations to fracture groups (4 instances)",
+    "Chronic descending weakness requiring team assistance; exploitable in mountain stages with technical descents (2 confirmed)",
+    "Operates independently without domestique support; vulnerable when needing team help in crashes (3 instances)",
+    "Positioning errors cost time unrelated to physical condition; tactical awareness lapses in key moments (2 instances)",
+    "Third-week fade pattern: lost podium/top-10 positions in final stages of Grand Tours (3 instances)",
+    "Opportunistic breakaway specialist with superior judgment on steep gradients for stage wins (2 wins documented)"
+  ],
+  "form_trajectory": "negative: Abandoned 2020 Tour, lost significant time and GC position at 2020 Giro after stronger 2017-2019 performances",
+  "races_analysed": 18,
+  "confidence": "high",
+  "rider_name": "ZAKARIN Ilnur",
+  "built_from": [
+    "2017 Giro d'Italia Stage 14",
+    "2017 Giro d'Italia Stage 16",
+    "2017 Giro d'Italia Stage 18",
+    "2017 Giro d'Italia Stage 19",
+    "2017 Giro d'Italia Stage 19",
+    "2017 Giro d'Italia Stage 2",
+    "2017 Giro d'Italia Stage 20",
+    "2017 Giro d'Italia Stage 4",
+    "2017 Paris-Nice Stage 1",
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 15",
+    "2017 Vuelta a Espana Stage 16",
+    "2017 Vuelta a Espana Stage 16",
+    "2017 Vuelta a Espana Stage 20",
+    "2017 Vuelta a Espana Stage 20",
+    "2018 Tour de France Stage 4",
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 13",
+    "2019 Giro d'Italia Stage 13",
+    "2019 Paris-Nice Stage 8",
+    "2020 Giro d'Italia Stage 12",
+    "2020 Tour de France Stage 8"
+  ]
+}

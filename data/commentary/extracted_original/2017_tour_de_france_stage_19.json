@@ -1,0 +1,24 @@
+{
+  "label": "2017 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-21",
+  "stage": 19,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "BOASSON HAGEN Edvald attacked alone at 2km out of a breakaway, exploiting a right-side roundabout line that required no braking to gap faster sprinters.",
+    "winner": "BOASSON HAGEN Edvald",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Boasson Hagen used roundabout geometry 3km out taking right line requiring zero braking while chasers decelerated left, gaining decisive 50m gap.",
+      "Breakaway companions attacked Boasson Hagen repeatedly before finale knowing he was fastest sprinter, but he closed every gap solo without teammates.",
+      "Sky positioned Froome safely 4min behind breakaway stage despite 23sec GC lead, prioritizing crash avoidance over stage control before decisive ITT."
+    ],
+    "rider_signals": {
+      "BOASSON HAGEN Edvald": "positive: Showed surplus power closing repeated attacks solo then accelerating again at 2km, demonstrating sprint+endurance hybrid rare in breakaways",
+      "ARNDT Nicholas": "negative: Couldn't hold Boasson Hagen's wheel despite being on it exiting roundabout, revealing power deficit against punch-sprinters in finale",
+      "FROOME Chris": "neutral: Team Sky calculated 23sec cushion sufficient for ITT defense, projecting 45sec-1min advantage over Bardet/Uran in individual effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:10:28.749805+00:00"
+}

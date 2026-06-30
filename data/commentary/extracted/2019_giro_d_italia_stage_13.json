@@ -1,0 +1,30 @@
+{
+  "label": "2019 Giro d'Italia Stage 13",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-24",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ZAKARIN attacked from the breakaway with 5km to go on the final climb, winning solo while ROGLIČ rode away from NIBALI's group in the GC battle",
+    "winner": "ZAKARIN Ilnur",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LANDA accelerated 15km from finish to test GC group, forcing immediate splits before riders regrouped on easier gradients",
+      "ZAKARIN launched winning move with 5km remaining knowing steepest terrain still ahead, exploiting diminishing breakaway cooperation timing",
+      "ROGLIČ attacked NIBALI's group on steep sections but was marked immediately, revealing both are relatively matched on sustained climbing",
+      "LÓPEZ mechanical at critical moment required full effort to rejoin GC group, potentially burning reserves needed for final kilometers"
+    ],
+    "rider_signals": {
+      "ZAKARIN Ilnur": "positive: Won from breakaway with superior positioning judgment on steep gradients; Katusha finally secured first 2019 World Tour victory",
+      "LANDA Mikel": "positive: Early acceleration 15km out immediately gapped GC riders including FORMOLO, showing ability to create splits on demand",
+      "ROGLIČ Primož": "positive: Attacked NIBALI's group and finished 2:57 down with NIBALI, confirming competitive GC position despite testing pace",
+      "NIBALI Vincenzo": "neutral: Marked ROGLIČ attacks without difficulty, finished same time but didn't attempt to distance Slovenian when tested",
+      "YATES Simon": "negative: Lost five minutes to stage winner, suffered badly when pace lifted early, appears out of GC contention",
+      "CARAPAZ Richard": "positive: Finished third behind LANDA in breakaway selection, demonstrating climbing strength within leading group composition",
+      "LÓPEZ Miguel Ángel": "negative: Mechanical on climb forced desperate chase back to GC group, expending significant energy before critical finale",
+      "POLANC Jan": "neutral: Pink jersey holder finished 3:17 down but ahead of rivals, maintaining sufficient margin in leader's jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:55:34.102750+00:00"
+}

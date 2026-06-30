@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-19",
+  "stage": 12,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint won Stage 12 atop Alpe d'Huez with a devastating acceleration out of the final corner, dropping DUMOULIN and BARDET in the last 200m while wearing yellow.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS accelerated out of final corner at 25-30mph on 6-7% gradient, proving track background translates to corner exit power.",
+      "BERNAL Egan at 21 controlled Sky train solo on Alpe d'Huez, shutting down NIBALI/QUINTANA attacks before veterans cracked.",
+      "KRUIJSWIJK Stefan's 6+ minute breakaway lead evaporated on Alpe d'Huez, revealing limits of solo long-range attacks on iconic climbs.",
+      "Sky maintained dual leadership with FROOME despite THOMAS winning twice in yellow, suggesting team genuinely uncertain about hierarchy."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: Expressing surprise at own victory suggests genuine form breakthrough beyond pre-race expectations, not controlled performance",
+      "BERNAL Egan": "positive: 21-year-old controlled race solo for Sky on Alpe d'Huez, showing Grand Tour maturity years ahead of schedule",
+      "NIBALI Vincenzo": "negative: Had winning position but mechanical/crash cost stage, suggesting bad luck not form deficit",
+      "FROOME Chris": "neutral: Lost time to teammate again but still treated as co-leader, indicating Sky sees three-week durability concerns with Thomas",
+      "LATOUR Pierre": "negative: Attacking Colombiere nearly cost white jersey, showing poor race management for GC placement",
+      "KRUIJSWIJK Steven": "negative: Six-minute solo advantage collapsed completely on Alpe d'Huez, revealing he lacks diesel to sustain long breakaways"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:28:51.514844+00:00"
+}

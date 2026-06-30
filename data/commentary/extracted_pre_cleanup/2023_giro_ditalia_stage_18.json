@@ -1,0 +1,29 @@
+{
+  "label": "2023 Giro dItalia Stage 18",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-25",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BOZZANA Filippo won from breakaway on veneto roads while ROGLIČ Primož attacked final climb to move second overall past ALMEIDA João",
+    "winner": "BOZZANA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ attacked final climb while THOMAS remained metronomic, exploiting VINE's descent mistake to gain crucial seconds for second overall.",
+      "INEOS pulled valley before climbs allowing breakaway six minutes, then abandoned THOMAS completely on penultimate climb revealing weak domestique depth.",
+      "HEALY attacked flat veneto roads early attempting KOM defense, went backwards immediately showing mountain jersey holders can't burn matches pre-climbs.",
+      "BOZZANA and ZANA split Israel Premier Tech forcing FRIGO chase, demonstrating breakaway teammates creating tactical dilemmas even within escaped groups."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: attacked final climb after lingering suspiciously at back earlier, moving second overall demonstrates tactical sandbagging worked",
+      "THOMAS Geraint": "neutral: remained isolated but unfazed when teammates disappeared, birthday consistency suggests unflappable but no offensive capacity remains",
+      "ALMEIDA João": "negative: dropped to third by conserving energy while ROGLIČ attacked, defensive tactics backfired losing 11 seconds and second place",
+      "DUNBAR Eddie": "positive: stayed with leaders longer than expected, moved up GC despite losing time showing unexpected climbing resilience",
+      "VINE Jay": "negative: descent mistake cost THOMAS crucial domestique support at worst moment, technical errors matter more than engine late-race",
+      "HEALY Ben": "negative: early attack on flat roads before climbs backfired completely, lost blue jersey to PINOT showing poor energy management",
+      "PINOT Thibaut": "positive: took KOM jersey despite second place finish, breakaway sprint consistency reveals renewed form late career"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:07:30.036570+00:00"
+}

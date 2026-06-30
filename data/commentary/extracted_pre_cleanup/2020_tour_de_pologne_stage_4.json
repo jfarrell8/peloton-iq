@@ -1,0 +1,30 @@
+{
+  "label": "2020 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-08",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BALLERINI Davide won the Krakow sprint from position behind ACKERMANN Pascal's early launch, coming through late despite no prior WorldTour victories.",
+    "winner": "BALLERINI Davide",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ACKERMANN Pascal launched sprint first from Stuyven leadout but lacked finishing speed despite strong early jump position.",
+      "BALLERINI Davide deliberately sat behind ACKERMANN's early acceleration rather than contesting initial sprint positions, timing finish surge better.",
+      "Trek-Segafredo worked hardest to control break despite not having designated sprinter, revealing STUYVEN's ability to sprint from leadout role.",
+      "CAVENDISH Mark positioned well under 1km but mechanical pedal unclip eliminated him, showing equipment failure risk in final positioning chaos."
+    ],
+    "rider_signals": {
+      "BALLERINI Davide": "positive: First WorldTour win reveals he finishes stronger when drafting early launchers rather than leading sprint himself.",
+      "ACKERMANN Pascal": "negative: Opened sprint too early and faded despite Giro points jersey form, suggesting leadout timing issues cost him.",
+      "STUYVEN Jasper": "neutral: Led out sprint despite being classics rider not pure sprinter, Trek's lack of designated fast finisher exposed.",
+      "BAUHAUS Phil": "neutral: Designated Bahrain-McLaren sprinter but couldn't match top-end speed of ACKERMANN or BALLERINI in finale.",
+      "DAINESE Alberto": "positive: Third place suggests emerging sprint talent when positioned correctly behind main contenders.",
+      "CAVENDISH Mark": "negative: Well-positioned under 1km but pedal mechanical proves even experienced positioning negated by equipment failure.",
+      "EVENEPOEL Remco": "positive: Won GC by 1:52 over FUGLSANG with 50km Stage 4 attack, fourth straight stage race win.",
+      "VAN EMDEN Jos": "neutral: Joined late breakaway that held 22 seconds at 12km remaining, showing Azure willingness to commit multiple riders."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:39:55.961995+00:00"
+}

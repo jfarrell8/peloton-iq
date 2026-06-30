@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-08",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint on Stage 10 with perfect MØRKØV leadout timing at 100m, overtaking SAGAN Peter in green jersey by 21 points.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MØRKØV Michael delivered leadout perfectly timed for exactly 100m to go, revealing Deceuninck's precision sprint metric targeting.",
+      "Peloton locked breakaway under 2 minutes immediately showing sprinter teams learned not to allow surprise escapes on flat stages.",
+      "Teams fought for front position before kilometer 87 right turn onto narrow roads, indicating pre-identified pinch point recon."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: First Tour stage win combines with green jersey takeover suggests confidence momentum shift versus SAGAN",
+      "SAGAN Peter": "negative: 21-point deficit to BENNETT at this late stage unprecedented for seven-time winner, indicates vulnerability pattern",
+      "MØRKØV Michael": "positive: 100-meter leadout precision demonstrates elite tactical execution under high-speed sprint chaos",
+      "EWAN Caleb": "neutral: Second place finish without team leadout visible shows raw speed competitive but tactical setup inferior",
+      "GREIPEL André": "positive: Sixth place represents pleasing return to form suggesting resurgent condition late in career"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:33:48.128334+00:00"
+}

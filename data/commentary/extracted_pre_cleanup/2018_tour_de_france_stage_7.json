@@ -1,0 +1,34 @@
+{
+  "label": "2018 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-13",
+  "stage": 7,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan outsmarted GAVIRIA Fernando by following the Quickstep train then launching from mid-pack with 200m remaining.",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "GAVIRIA positioned mid-peloton rather than front, suggesting confidence in late acceleration—but misjudged distance and got beaten.",
+      "Dimension Data led out excessively early for CAVENDISH, burning team resources 5.5km out while Lotto held positioning discipline.",
+      "Quickstep controlled final chicane at 1km despite sprinting for rival, revealing GAVIRIA's tactical parasitism on former team's infrastructure.",
+      "KRISTOFF in European champion jersey positioned perfectly at flamme rouge but lacked explosive acceleration, indicating one-day power doesn't translate to Tour sprints."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: read Quickstep's lead-out despite them working for GAVIRIA, then launched from farther back than rivals expected",
+      "GAVIRIA Fernando": "negative: positioned mid-pack expecting to use pure speed but misjudged timing, suggesting overconfidence after early stage wins",
+      "SAGAN Peter": "neutral: locked wheel-to-wheel with GAVIRIA at 1km but unable to come around, indicating sprint form adequate but not dominant",
+      "CAVENDISH Mark": "positive: recovered to tenth after team led out 5.5km from finish, showing improved sprint form despite tactical waste",
+      "KITTEL Marcel": "negative: not in top 30 positioning, commentary noted possible confidence loss after switching from Quickstep's perfect lead-out infrastructure",
+      "KRISTOFF Alexander": "negative: European champion jersey visible throughout finale, perfect position at 1km but lacked finishing kick for podium",
+      "DÉMARE Arnaud": "neutral: fourth place after being shouldered by Quickstep rider in final 500m, suggesting strong position compromised tactically",
+      "LAPORTE Christophe": "neutral: Cofidis worked for him through chicanes but only managed fifth, indicating team effort without individual firepower",
+      "DEGENKOLB John": "positive: sixth place marked as unexpected by commentary, showing resurgent form without dedicated lead-out",
+      "COLBRELLI Sonny": "neutral: commentary pre-identified him with only HAUSSLER for support, suggesting Bahrain lacking sprint infrastructure despite his form",
+      "RENSHAW Mark": "neutral: visible searching for position mid-stage but Dimension Data's early pace-making wasted his lead-out value",
+      "LE GAC Olivier": "negative: crashed before finale when peloton went wide on narrow approach, indicating positioning error under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:38:09.459338+00:00"
+}

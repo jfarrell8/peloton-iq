@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Launches attacks on steep gradients (12%+) immediately after regaining contact or when peloton regroups, exploiting moments of transition rather than sustained efforts. Prefers late accelerations after tactical hiding in breakaways.",
+  "team_tactics": "Limited team support evident across multiple years - UAE required BORA assistance for chase control in 2019, suggesting thin domestique depth. When serving as domestique (2017), forced multiple accelerations to bleed break energy for team leaders.",
+  "terrain_preference": "Excels on 12%+ steep gradients where explosive acceleration matters. Vulnerable on technical descents where crashes have cost stage wins and exposed GC weakness. Comfortable using descents tactically to hide in breaks.",
+  "vulnerability": "Technical descending is a documented weakness (2017 crash while in winning break). Teams with insufficient chase depth expose him when defending GC positions. Energy depletion when performing extensive domestique work.",
+  "key_patterns": [
+    "Attacks on 12%+ gradients immediately after regrouping or regaining contact (2 observations, 2019 Vuelta/Giro)",
+    "Uses tactical hiding in breaks, appearing to lose contact then regaining on descents (2019 Giro)",
+    "Crashes/struggles on technical descents, documented GC vulnerability in these conditions (2017 Giro)",
+    "Sacrifices stage wins for GC time when in maglia rosa position, prioritizes classification (2019 Giro)",
+    "Team lacks chase depth requiring external assistance to defend leader positions (2019 Giro)",
+    "Targets secondary classifications when GC neutralized, unusually prioritizes intermediate sprints (2017 Giro)"
+  ],
+  "form_trajectory": "positive: 2019 Vuelta showed tactical maturity with ruthlessly timed accelerations on steep terrain, advancing beyond earlier domestique role",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "CONTI Valerio",
+  "built_from": [
+    "2017 Giro d'Italia Stage 17",
+    "2017 Giro d'Italia Stage 17",
+    "2017 Giro d'Italia Stage 8",
+    "2017 Giro d'Italia Stage 8",
+    "2019 Giro d'Italia Stage 11",
+    "2019 Giro d'Italia Stage 17",
+    "2019 Giro d'Italia Stage 6",
+    "2019 Giro d'Italia Stage 7",
+    "2019 Giro d'Italia Stage 9",
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 12"
+  ]
+}

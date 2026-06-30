@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches tactical attacks on penultimate climbs or entering finishing circuits, typically from already-established breakaway groups. Uses climbing power to initiate moves, then transitions to sustained solo efforts in final 5-10km.",
+  "team_tactics": "Operates primarily as breakaway specialist with minimal visible team support. Self-reliant positioning, reads group dynamics to time attacks when chase coordination breaks down.",
+  "terrain_preference": "Undulating finishes with late climbs (penultimate climb ideal) followed by solo run-ins. Excels on courses requiring 6+ hour breakaway endurance combined with late climbing power. Struggles on explosive summit finishes with short, steep gradients.",
+  "vulnerability": "Cannot respond to sharp late-race accelerations inside final 2km after committing to initial attack. Vulnerable when opponents counter on steep gradients rather than match tempo.",
+  "key_patterns": [
+    "Attacks from breakaways rather than peloton, leveraging pre-established advantage (3 observations)",
+    "Initiates move on penultimate or circuit climbs, not final ascent (2 observations)",
+    "Excels at reading tactical deadlock in chase groups to time attacks (2 observations)",
+    "Strong at managing 30-60 second solo efforts after multi-hour breakaway exertion (2 observations)",
+    "Weakness: cannot sustain when countered with explosive accelerations inside 2km (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2022 win showed maintained tactical acumen and climbing power, but no recent observations to confirm current trajectory beyond that season",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "TRATNIK Jan",
+  "built_from": [
+    "2020 Giro d'Italia Stage 16",
+    "2020 Giro d'Italia Stage 16",
+    "2021 Giro d'Italia Stage 14",
+    "2022 Bretagne Classic - Ouest-France"
+  ]
+}

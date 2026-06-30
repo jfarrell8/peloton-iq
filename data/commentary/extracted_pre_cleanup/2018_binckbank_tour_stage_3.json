@@ -1,0 +1,24 @@
+{
+  "label": "2018 BinckBank Tour Stage 3",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-15",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "VAN DER HOORN Taco won stage 3 by attacking solo with 500m to go while breakaway companions marked MOHORIČ Matej for bonus seconds",
+    "winner": "VAN DER HOORN Taco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER HOORN exploited marking fixation on MOHORIČ's leader jersey, attacking opposite side with 500m remaining when rivals hesitated.",
+      "Breakaway structured cooperation with 2-minute turns early, then accelerated at 70km to go before individual turns in final 30km.",
+      "DE BIE positioned on MOHORIČ's wheel but failed to respond when VAN DER HOORN switched roadside, revealing positional tunnel vision cost."
+    ],
+    "rider_signals": {
+      "VAN DER HOORN Taco": "positive: showed superior tactical opportunism and finishing speed against WorldTour opposition in breakaway sprint finish",
+      "MOHORIČ Matej": "neutral: marked for bonus seconds due to jersey position, limiting his breakaway sprint commitment despite being fastest rider",
+      "DE BIE Sean": "negative: overcommitted to MOHORIČ's wheel and failed to track decisive move despite being positioned for sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:20:34.946595+00:00"
+}

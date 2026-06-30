@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Opportunistic attacker who exploits tactical vacuums and chaotic situations rather than pure climbing power. Strikes in final kilometers or on final climbs when GC teams neutralize or organizational disruptions create openings.",
+  "team_tactics": "Team performs early work to string out peloton (DE GENDT example), setting up KRON for breakaway opportunities. Relies on teammates creating selection rather than sustained train support.",
+  "terrain_preference": "Lumpy one-week stage race terrain where climbing punch suffices without sustained climbing required. Excels on technical finales, roundabouts, and reduced bunch sprints after selective climbs. Exposed on sustained mountain stages against pure climbers.",
+  "vulnerability": "Tactically naive against riders with clear hierarchical objectives (KOM competitions). Desperation attacks against superior climbers backfire. Limited sprint speed means needs selective finishes, not pure flat sprints.",
+  "key_patterns": [
+    "Exploits tactical neutralizations and organizational chaos: won twice when peloton/GC racing disrupted (3 instances)",
+    "Targets time bonuses aggressively for GC positioning in one-week races, not just stages (2 instances)",
+    "Wins from late small-group moves, using superior positioning over pure speed (3 sprint wins)",
+    "Shows strong stage race resilience: performs after illness/crashes/consecutive hard days (3 instances)",
+    "Attacks when GC contenders won't chase due to time cuts or neutralization agreements (2 instances)"
+  ],
+  "form_trajectory": "positive: Won stage and reached final selections at 2023 Vuelta despite one failed KOM attack. Demonstrated consistent opportunism and strong form across multiple stages, building on 2022 Tour de Suisse GC ambitions.",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "KRON Andreas",
+  "built_from": [
+    "2021 Tour de Suisse Stage 6",
+    "2021 Tour de Suisse Stage 6",
+    "2021 Volta Ciclista a Catalunya Stage 1",
+    "2021 Volta Ciclista a Catalunya Stage 1",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Suisse Stage 1",
+    "2022 Tour de Suisse Stage 3",
+    "2022 Tour de Suisse Stage 4",
+    "2022 Tour de Suisse Stage 4",
+    "2023 Amstel Gold Race",
+    "2023 La Vuelta Ciclista a Espana Stage 18",
+    "2023 La Vuelta Ciclista a Espana Stage 18",
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 Vuelta a Espana Stage 14",
+    "2023 Vuelta a Espana Stage 2",
+    "2023 Vuelta a Espana Stage 2",
+    "2023 Vuelta a Espana Stage 2"
+  ]
+}

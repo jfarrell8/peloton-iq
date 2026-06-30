@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-28",
+  "stage": 20,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "DUMOULIN Tom won the stage 20 ITT by 1 second over FROOME Chris, while THOMAS Geraint secured overall victory by minimizing losses.",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DUMOULIN rode without power meter or splits, relying purely on perceived exertion to beat FROOME by 1 second.",
+      "Top 3 GC riders were also top 3 TT performers, revealing pre-ITT podium positions accurately reflected time trialing ability.",
+      "FROOME's aggressive ITT displaced ROGLIC from podium, showing time bonuses alone don't protect weak time trialists."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Won TT without telemetry or splits, showing exceptional instinct-based pacing discipline under pressure",
+      "FROOME Chris": "positive: Second by 1 second despite no GC pressure, demonstrating sustained peak form late in grand tour",
+      "THOMAS Geraint": "positive: Third-fastest TT secured GC without team support in top 20, showing complete rider rather than team-dependent leader",
+      "ROGLIC Primoz": "negative: Lost podium to FROOME's superior ITT, exposed as vulnerable when GC margins enter time trialing range"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:30:51.647142+00:00"
+}

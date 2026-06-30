@@ -1,22 +1,23 @@
 {
-  "attacking_style": "Pure sprinter who finishes in fast, technical finales. Not an attacker — wins from positioning in final kilometer through lead-out trains.",
-  "team_tactics": "UAE deploys high-speed lead-outs with dedicated pilots like OLIVEIRA. Tactical positioning against traffic flow (middle-right) to maximize straight-line speed. Can adapt when plan breaks down.",
-  "terrain_preference": "Technical flat finales requiring precise positioning and high-speed navigation. Excels in controlled bunch sprints with organized lead-out trains available.",
-  "vulnerability": "Versatility — appears exclusively suited to flat sprint stages. Limited observations suggest no climbing, breakaway, or reduced-bunch capabilities demonstrated.",
+  "attacking_style": "Pure sprinter who relies on positioning and lead-out trains rather than initiating attacks. Competes in flat/reduced bunch finishes, not an attacker in traditional sense.",
+  "team_tactics": "UAE repeatedly subordinates his sprint ambitions to GC objectives. Team shows uncertainty in sprint leadership, sometimes bringing him as support rather than protected finisher. Lead-out execution inconsistent.",
+  "terrain_preference": "Flat finishes and reduced bunch sprints. Exposed on any technical finales where positioning trumps raw speed. Not deployed for mountain stages except as domestique support.",
+  "vulnerability": "Technical corners in sprint finales where experienced riders outposition him. Team hierarchy consistently relegates him when GC needs arise. Loses pure sprint leadership battles even within own team.",
   "key_patterns": [
-    "UAE provides exceptional high-speed lead-outs through technical finales (2 observations across 2023, 2022).",
-    "Wins from middle-right positioning against traffic flow, exploiting strategic placement (2023 Vuelta Stage win).",
-    "Shows adaptability when lead-out fails, continuing to sprint when forced into early acceleration (2022 Madrid).",
-    "Consistently competitive in Vuelta sprint stages, head-to-head wins against quality sprinters like GROVES (2 observations)."
+    "Sacrificed for GC riders multiple times; team hierarchy clearly favors stage racing over sprint opportunities (2019, 2022).",
+    "Positioning deficiencies in technical finishes; experienced riders take better wheels through corners (2021 Giro, Catalunya).",
+    "UAE sprint leadership ambiguity; brought as uncertain option or support rather than clear number one (2022, 2021).",
+    "Tactical role expanding beyond pure sprint/mountain support, contesting varied terrain by 2023 (Vuelta)."
   ],
-  "form_trajectory": "positive: Won stages in both 2022 and 2023 Vuelta editions, demonstrating consistent sprint capability and well-functioning UAE lead-out train",
-  "races_analysed": 2,
-  "confidence": "low",
-  "rider_name": "MOLANO Juan Sebastian",
+  "form_trajectory": "neutral: expanded tactical role in 2023 suggests development, but no evidence of results improvement or clear leadership status",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "MOLANO Juan Sebastián",
   "built_from": [
-    "2022 La Vuelta ciclista a Espana Stage 21",
-    "2022 La Vuelta ciclista a Espana Stage 21",
-    "2023 La Vuelta Ciclista a Espana Stage 12",
-    "2023 La Vuelta Ciclista a Espana Stage 12"
+    "2019 Vuelta a Espana Stage 17",
+    "2021 Giro d'Italia Stage 10",
+    "2021 Volta Ciclista a Catalunya Stage 6",
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 4"
   ]
 }

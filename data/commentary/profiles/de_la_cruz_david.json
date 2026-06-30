@@ -1,0 +1,41 @@
+{
+  "attacking_style": "Deploys extreme-range breakaway infiltrations (70km+ solo efforts) targeting GC positions from distance rather than summit finishes. Prefers counter-attacks on second/penultimate climbs but lacks explosive acceleration to sustain sharp GC attacks.",
+  "team_tactics": "Functions as hybrid GC support/opportunist—UAE/Astana teams use him for late-race isolation attacks on favorites when protected rider status unclear. Teams willing to sacrifice his GC position for workload relief or stage hunting.",
+  "terrain_preference": "Excels on short technical mountain stages and circuit finishes requiring positioning over pure watts. Strong time trialist (top-5 finishes) but vulnerable on sustained steep gradients and explosive second-category climbs where pure accelerations occur.",
+  "vulnerability": "Poor wet-weather bike handling (crashed twice in decisive GC moments, 2017/2023). Cannot follow explosive accelerations from top-tier climbers. Energy management failures near finish lines. Teams provide inadequate support depth in critical moments.",
+  "key_patterns": [
+    "Infiltrates breakaways for GC positioning rather than stage wins, rising 7th-2nd overall via opportunism (3 instances)",
+    "Crashes in wet/technical conditions at crucial GC moments, losing podium-level positions twice (2017 Vuelta, 2023 TdF)",
+    "Attacked/absorbed quickly on penultimate climbs when attempting GC moves, lacks sustained explosive power (3 observations)",
+    "Strong time trial capacity (top-5 finishes) elevates him beyond pure mountain domestique role",
+    "Specialized in Paris-Nice technical finales with consecutive stage wins, circuit/positioning expertise confirmed",
+    "Teams immediately neutralize his attacks when threatening favorites, indicating respected GC nuisance status"
+  ],
+  "form_trajectory": "negative: 2023 crash with poor team support suggests declining protected status; last competitive GC signal was 2021 Vuelta extreme-range moves",
+  "races_analysed": 18,
+  "confidence": "high",
+  "rider_name": "DE LA CRUZ David",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 18",
+    "2017 Vuelta a Espana Stage 20",
+    "2017 Vuelta a Espana Stage 20",
+    "2017 Vuelta a Espana Stage 3",
+    "2017 Vuelta a Espana Stage 6",
+    "2017 Vuelta a Espana Stage 9",
+    "2017 Vuelta a Espana Stage 9",
+    "2018 Paris-Nice Stage 4",
+    "2018 Paris-Nice Stage 8",
+    "2018 Paris-Nice Stage 8",
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 8",
+    "2020 Criterium du Dauphine Stage 4",
+    "2020 Tour de France Stage 16",
+    "2020 Vuelta a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 Tour de Pologne Stage 4",
+    "2023 Tour de France Stage 12",
+    "2023 Volta Ciclista a Catalunya Stage 7"
+  ]
+}

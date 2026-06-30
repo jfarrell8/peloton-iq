@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-16",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LOPEZ Miguel Angel won after ROGLIC Primoz and POGACAR Tadej neutralized each other, with URAN Rigoberto cracking unexpectedly at the crucial moment losing 1:20.",
+    "winner": "LOPEZ Miguel Angel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain destroyed peloton 5 miles from Madeleine summit, unexpectedly reducing breakaway's advantage before main climb started.",
+      "ROGLIC neutralized POGACAR's early acceleration with arm-flick gesture, revealing defensive team dynamic favoring yellow jersey conservation.",
+      "CARAPAS Richard attacked solo in mile 20, showing INEOS finally attempting aggressive racing after passive earlier stages.",
+      "URAN Rigoberto's motor tuned for steady grades, cracked on steep-kick-then-flat rhythm of Col de la Loze finish."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: extended GC lead from 40s to 57s by marking POGACAR rather than racing for stage win",
+      "POGACAR Tadej": "neutral: took polka dots jersey but settled for neutralizing ROGLIC rather than attacking decisively",
+      "LOPEZ Miguel Angel": "positive: first Tour stage win came by outclimbing two superior GC riders when they watched each other",
+      "URAN Rigoberto": "negative: lost 1:20 and podium position, unable to handle irregular gradients with steep kicks versus steady tempo",
+      "CARAPAS Richard": "positive: first aggressive INEOS move of race with 20km solo attack, showing form despite team struggles",
+      "BENNETT Sam": "positive: extended green jersey lead by 2 points over SAGAN at intermediate sprint despite team leadout disadvantage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:24:01.006317+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Breakaway specialist who commits early on mountain stages, capable of sustaining efforts to summit finishes even as peloton reduces behind.",
+  "team_tactics": "Insufficient data to establish team tactics pattern - appears to operate with autonomy in breakaways rather than supported attacks.",
+  "terrain_preference": "Summit finishes on Grand Tour mountain stages where sustained climbing power can be leveraged over 8+ km final climbs. Excels when GC favorites implode.",
+  "vulnerability": "Unknown - limited observations prevent identifying weakness patterns. Single data point suggests opportunistic rather than consistently dominant.",
+  "key_patterns": [
+    "Targets stage wins via early breakaways on mountain stages rather than GC ambitions",
+    "Capable of holding off reduced peloton on long summit finishes (8km+ climbs)",
+    "Historically underestimated climber who performs above expectations at Grand Tour level"
+  ],
+  "form_trajectory": "unknown: single observation from 2020 provides insufficient recent data to assess current trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KAISER Jonathan",
+  "built_from": [
+    "2020 Giro d'Italia Stage 3",
+    "2020 Giro d'Italia Stage 3"
+  ]
+}

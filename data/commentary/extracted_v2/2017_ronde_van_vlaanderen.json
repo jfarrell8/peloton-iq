@@ -1,0 +1,26 @@
+{
+  "label": "2017 Ronde Van Vlaanderen",
+  "race_name": "Ronde Van Vlaanderen",
+  "race_date": "2017-04-02",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe attacked with TRENTIN and BOONEN on approach to Taaienberg, teammates covered move, then SAGAN crashed attacking Paterberg with 10km remaining, GILBERT soloed to victory",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BOONEN mechanical before Taaienberg forced Quick-Step to convert three-rider presence into GILBERT solo rather than numerical advantage",
+      "SAGAN delayed decisive move until final Paterberg, too late as GILBERT already clear from earlier selection",
+      "Quick-Step planted three riders (GILBERT, TRENTIN, BOONEN) in dangerous move before key climb, overwhelming coverage tactics"
+    ],
+    "rider_signals": {
+      "GILBERT Philippe": "positive: First Belgian winner since 2012, first from his region in 30 years, converted teammate numerical advantage into solo after BOONEN mechanical",
+      "BOONEN Tom": "negative: Chain jam mechanical before Taaienberg destroyed Quick-Step's three-rider numerical advantage at decisive moment on his final Ronde",
+      "SAGAN Peter": "negative: Waited until final Paterberg (last climb) to attack from chase position, crashed taking VANMARCKE and ending own race",
+      "KRISTOFF Alexander": "neutral: Present in BOONEN acceleration but couldn't follow when Quick-Step intensified on key climb",
+      "VANMARCKE Sep": "negative: Caught in SAGAN crash on Paterberg while in chase position with podium possible"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:01:39.126946+00:00"
+}

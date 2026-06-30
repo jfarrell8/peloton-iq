@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won sprint stage 2 in Netherlands after POPPEL Danny delivered superior lead-out in final 200m, beating PEDERSEN Mads and EEKHOFF Nils",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POPPEL Danny's 200m lead-out for BENNETT proved superior to Trek's train for PEDERSEN despite less team depth.",
+      "Jumbo-Visma let EEKHOFF take race lead via stage position rather than defending GESINK's jersey, revealing GC priorities elsewhere.",
+      "Early KOM breakaway with VANPOPPEL/LOPEZ showed sprinters' teams willing to concede mountains jersey completely on flat Vuelta stages."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: First win overcoming confidence crisis after missing Tour; now stage winner in four consecutive Grand Tours since 2018",
+      "POPPEL Danny": "positive: Elite lead-out execution in final 200m suggests BENNETT has better sprint support than his recent results indicated",
+      "PEDERSEN Mads": "neutral: Second place despite Trek lead-out train indicates he needs perfect positioning to beat top sprinters with stronger pilots",
+      "EEKHOFF Nils": "neutral: Fourth on stage gains red jersey as Jumbo-Visma's expendable GC placeholder, team prioritizing later mountain stages",
+      "GROVES Kaden": "negative: Only 10th suggests Alpecin sprint train malfunctioned or positioning failed badly on straightforward flat finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:33:05.561652+00:00"
+}

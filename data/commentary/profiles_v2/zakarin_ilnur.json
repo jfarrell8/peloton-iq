@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Launches solo attacks at 3-6km to go on steep, high-altitude summit finishes, exploiting moments when GC rivals neutralize each other. Prefers steep gradients in final kilometers rather than long-range moves.",
+  "team_tactics": "Receives full team support for technical liabilities (descent rescue operations), but attacks are primarily solo efforts capitalizing on opportunistic moments rather than orchestrated team setups.",
+  "terrain_preference": "High-altitude summit finishes with steep gradients in final 5km are optimal. Severely exposed on technical descents and crosswinds; medium mountain stages reveal poor positioning instincts.",
+  "vulnerability": "Technical descents require team rescue. Poor positioning awareness in bunch dynamics leads to crashes and time losses in critical moments. Wet conditions amplify crash risk. Lacks finishing power against pure sprinters in reduced groups.",
+  "key_patterns": [
+    "Attacks at 3-6km on steep finishes, proven across multiple Giro stages (2017, 2019)",
+    "Crashes frequently in positioning battles and technical sections, documented in 4+ instances",
+    "Exploits GC leader stalemates rather than raw power, gains time through tactical timing",
+    "High-altitude finishing power repeatable (referenced 2017-2019 wins at altitude)",
+    "Poor positioning in bunch splits costs 19-30 seconds on medium mountain stages",
+    "Seeks time bonuses and intermediate opportunities, not just climbing dominance"
+  ],
+  "form_trajectory": "negative: 2021 crash showed continued positioning errors; no wins since 2019; tactical mistakes worsening under pressure in deteriorating conditions",
+  "races_analysed": 15,
+  "confidence": "high",
+  "rider_name": "ZAKARIN Ilnur",
+  "built_from": [
+    "2017 Giro d'Italia Stage 14",
+    "2017 Giro d'Italia Stage 16",
+    "2017 Giro d'Italia Stage 18",
+    "2017 Giro d'Italia Stage 19",
+    "2017 Giro d'Italia Stage 2",
+    "2017 Giro d'Italia Stage 20",
+    "2017 Giro d'Italia Stage 21",
+    "2017 Giro d'Italia Stage 4",
+    "2017 Paris-Nice Stage 1",
+    "2017 Vuelta a Espana Stage 15",
+    "2017 Vuelta a Espana Stage 20",
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 13",
+    "2019 Giro d'Italia Stage 13",
+    "2019 Tour de Suisse Stage 5",
+    "2021 Giro d'Italia Stage 16"
+  ]
+}

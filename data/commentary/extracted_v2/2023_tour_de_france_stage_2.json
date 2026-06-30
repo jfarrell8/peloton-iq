@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-02",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "LAFAY Victor attacked at 1km out on the right side, held off VAN AERT's closing sprint by timing it when Jumbo-Visma hesitated after closing previous moves.",
+    "winner": "LAFAY Victor",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma hesitated after repeatedly closing attacks, creating window that LAFAY exploited at precisely 1km with right-side acceleration.",
+      "UAE controlled with POGACAR himself coming to front to neutralize moves final 2km, revealing proactive defense of YATES yellow.",
+      "Intermediate sprint saw WELLSFORD beat PHILIPSEN and PEDERSEN in contested finish, indicating sprinter hierarchy and willingness to spend matches mid-stage."
+    ],
+    "rider_signals": {
+      "LAFAY Victor": "positive: Second career win ever, attacked when not obvious choice, showed sustained power over 450m against closing field",
+      "VAN AERT Wout": "negative: Jumped too late after his team closed multiple moves, indecision costly despite having legs",
+      "POGACHAR Tadej": "positive: Personally led chase work in final 2km to protect teammate YATES's yellow, unusual domestique role signals UAE team commitment",
+      "PEDERSEN Mads": "neutral: Third wheel positioning at intermediate sprint but couldn't convert, contested points aggressively",
+      "CAVENDISH Mark": "negative: Completely shut out at intermediate sprint positioning, chasing green jersey ineffectively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:58:00.985181+00:00"
+}

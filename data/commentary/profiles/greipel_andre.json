@@ -1,23 +1,21 @@
 {
-  "attacking_style": "Pure power sprinter who relies on positioning in final kilometers rather than attacking. When on form, launches from second wheel position in final 200m with sustained acceleration.",
-  "team_tactics": "Traditionally depends on full team leadout train with Lotto working entire stages for positioning. However, demonstrated ability to self-position without support when form is strong, using tactical awareness to survive late obstacles.",
-  "terrain_preference": "Flat sprint stages with minimal climbing exposure. Can survive moderate final climbs when in peak condition (Paris-Nice 2017) but prefers pure power finishes without selective terrain beforehand.",
-  "vulnerability": "Sprint power collapse visible even with perfect positioning - faded from second wheel when sprint opened despite full team commitment. Late-career form inconsistency made him unreliable even with ideal leadout.",
+  "attacking_style": "Not an attacker. Pure sprinter relying on final 300m speed, often forced into reactive freelance sprints when leadout fractures.",
+  "team_tactics": "Insufficient team support evident across observations; poor positioning into finals (5km out) and absent/fractured leadout trains forcing solo efforts.",
+  "terrain_preference": "Flat, technical-free sprint finishes. Severely exposed on descents (especially wet) and roads requiring precise positioning skills.",
+  "vulnerability": "Technical descents in wet conditions cause significant time loss. Poor positioning into sprint finals. Struggles when leadouts fracture, forcing reactive freelance sprints.",
   "key_patterns": [
-    "Form volatility: won without support then DNF'd sprint from ideal position within days (2017)",
-    "Team dependence paradox: full Lotto train commitment yielded 12th place when legs failed",
-    "Career-end timing: retired immediately after completing final Tour stage, suggesting planned exit",
-    "Positioning instincts remained sharp: consistently found second wheel even when power declined"
+    "Consistently poor positioning entering finals, multiple observations show far back placement with 5km remaining.",
+    "Leadout trains fractured or absent across observations, forced into reactive sprint tactics behind rivals.",
+    "Technical weakness on descents: lost 2+ minutes solo in wet conditions, age-related handling concerns.",
+    "Veteran decline pattern: team support deficit suggests reduced status, struggles in pure speed contests."
   ],
-  "form_trajectory": "negative: 2017 showed severe power decline despite positioning skills; 2021 Tour marked immediate retirement, indicating awareness of declining competitiveness",
-  "races_analysed": 4,
+  "form_trajectory": "negative: 2020 showed technical vulnerabilities (descent struggles), ongoing positioning deficits, and diminished team investment in leadout support",
+  "races_analysed": 3,
   "confidence": "medium",
-  "rider_name": "GREIPEL Andre",
+  "rider_name": "GREIPEL André",
   "built_from": [
-    "2017 Paris-Nice Stage 5",
-    "2017 Paris-Nice Stage 5",
-    "2017 Tour de France Stage 10",
-    "2017 Tour de France Stage 4",
-    "2021 Tour de France Stage 21"
+    "2018 Tour de France Stage 8",
+    "2019 Tour de France Stage 11",
+    "2020 Tour de France Stage 1"
   ]
 }

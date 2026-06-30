@@ -1,0 +1,23 @@
+{
+  "label": "2022 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-12",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnaud won on bike throw after chaotic final km sprint where FONDRY nearly crashed and GAVIRIA was taken out",
+    "winner": "DEMAR Arnaud",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Groupama-FDJ controlled with minimal effort for solo breakaway, revealing peloton accepts extreme tempo control on transition stages.",
+      "KEMNA contested intermediate sprint at 28km despite 38s GC deficit, signaling bonus seconds prioritized over sprint positioning."
+    ],
+    "rider_signals": {
+      "DEMAR Arnaud": "positive: survived chaos after FONDRY/GAVIRIA incidents to launch late, suggesting superior bike handling under messy conditions",
+      "CAVENDISH Mark": "neutral: launched early possibly due to VANLIEBER crash positioning, indicating leadout timing compromised by safety",
+      "ROSA Diego": "neutral: allowed 4min solo break for intermediate points, confirming breakaway currency devalued on pure sprint stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:10:42.960848+00:00"
+}

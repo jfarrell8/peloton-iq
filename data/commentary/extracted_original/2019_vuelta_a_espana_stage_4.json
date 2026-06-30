@@ -1,0 +1,25 @@
+{
+  "label": "2019 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-27",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won a photo-finish sprint by narrowest margin over Bennett after Cavagna's accidental solo attack from 5km forced other sprint teams to chase.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Cavagna accidentally gapped peloton exiting corner at 5km, team green-lit opportunistic stage attempt pressuring rival sprint leadouts.",
+      "Movistar descended aggressively enough post-climb to split peloton, forcing Quick-Step to abandon leadout duties for chase work.",
+      "Richeze leadout for Walscheid trumped Quick-Step's train despite starting from deeper; world-class pilot overcomes positioning disadvantage."
+    ],
+    "rider_signals": {
+      "URAN Rigoberto": "negative: crashed 57km out requiring medical attention and chase, compromised before first summit finish next day",
+      "JAKOBSEN Fabio": "positive: first Grand Tour stage win at 22, beat Bennett in photo after positioning deficit shows elite closing speed",
+      "CAVAGNA Remi": "neutral: strong enough to hold 5km solo attempt when accidentally gapped, team trusted fitness to commit",
+      "RICHEZE Maximiliano": "positive: leadout from second-tier position still delivered podium result, pure pilot quality overcomes tactical disadvantage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:21:22.715479+00:00"
+}

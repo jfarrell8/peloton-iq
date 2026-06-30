@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-12",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "KITTEL Marcel won the sprint while CARUSO Damiano stole back one second on KWIATKOWSKI Michał in the intermediate sprint bonus.",
+    "winner": "KITTEL Marcel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARUSO Damiano tactically countered Sky's intermediate sprint dominance, stealing one second bonus to cut GC deficit mid-stage.",
+      "THOMAS Geraint suffered second mechanical/incident of race, revealing Sky's vulnerability when leader needs team support elsewhere.",
+      "GAVIRIA Fernando launched long-range sprint attack with EF education support, forcing early response before KITTEL counterattacked late."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "positive: Demonstrated late-sprint acceleration advantage, able to come from behind and hold off closers on consecutive days",
+      "CARUSO Damiano": "positive: Showed tactical awareness to exploit Sky's positional lapse at intermediate sprint for GC time gain",
+      "GAVIRIA Fernando": "neutral: Attempted long-range sprint but faded, suggesting preference for longer finishing straights over tactical positioning battles",
+      "THOMAS Geraint": "negative: Third incident in penultimate stage indicates either positioning issues or persistent mechanical bad luck affecting GC reliability",
+      "SAGAN Peter": "positive: Demonstrated exceptional bike handling to bunny-hop crash debris and maintain position despite team disruption"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:32:54.315068+00:00"
+}

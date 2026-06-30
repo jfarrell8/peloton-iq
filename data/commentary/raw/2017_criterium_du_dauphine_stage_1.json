@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2017-06-04",
   "stage": 1,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "QrfmDk_OU1E",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=QrfmDk_OU1E",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 76,
+    "raw_chars": 2565,
+    "clean_chars": 2519,
+    "duration_mins": 3.3,
+    "clean_text": "Chris FR is back in business the triple winner of the doin gets back on the settle for the 69th Edition a minute of silence is held before the start of the stage to honor the victims of yesterday's attacks in London the first stage leads around sanen for 170 km eight difficulties are on the menu with 30 ascending kilometers altogether audacity May well be rewarded today and the participants know that seven Riders try to break away right from the start amongst them the Frenchman Axel deor and Roman sikar and a specialist of Long Haul breakaways the Belgian thas Dent the Belgian proves this good shape by passing the six first ascents in the lead and taking the poad Jersey when it gets to the final run around sanen the escapes have a lead of 4 minutes behind them Dimension dat leading the hunt with hopes to bring their leader boas anag in position the pace is too much for Pure sprinters like kokar bhani or dear but it won't be enough to reel in the escapes especially since the attacks on the Second Ascent of the K and takes Axel with him the duo doesn't last as the Belgian from Lotto suda leaves the Frenchman behind on the next passage of the same Ascent the road is open for the's first stage Victory on the doin and he serenely takes the win at the center of Congress the O Alp region seems to inspire him winner at the prestigious monu on the tour to France last year Thomas durent was again flamboyant on the opening stage of the Criterium the doin part of an early Breakaway the Belgian got rid of his fellow escapes to be rewarded not only with the stage win but also with the yellow Jersey the green jersey and the mountain Jersey I had a good feeling all day and also the the start was uh was really hard so I knew if I go in the climb then I have a good chance to be in the break and we were with seven good guys I believed in my chances I was going for the mountain Jersey but I cannot wear it tomorrow unforunately I had a really good feeling and this is a stage that really suits me team AER placed two men in the top five on today's opening stage Axel domor who couldn't follow the impressive thas dur on the last few kilometers and Pier lur who left the pack behind on the final descent to Santa Chen to take fourth place tomorrow tomorrow on Monday the PE will ride towards the P 171 km and a stage quite similar to the opening stage with four assents amongst them the second category climb of the cier forest the scenery stays green fitting for the home of the mythical football club as s",
+    "preview_start": "Chris FR is back in business the triple winner of the doin gets back on the settle for the 69th Edition a minute of silence is held before the start of the stage to honor the victims of yesterday's attacks in London the first stage leads around sanen for 170 km eight difficulties are on the menu with 30 ascending kilometers altogether audacity May well be rewarded today and the participants know that seven Riders try to break away right from the start amongst them the Frenchman Axel deor and Rom",
+    "preview_end": "placed two men in the top five on today's opening stage Axel domor who couldn't follow the impressive thas dur on the last few kilometers and Pier lur who left the pack behind on the final descent to Santa Chen to take fourth place tomorrow tomorrow on Monday the PE will ride towards the P 171 km and a stage quite similar to the opening stage with four assents amongst them the second category climb of the cier forest the scenery stays green fitting for the home of the mythical football club as s"
+  },
+  "status": "transcript_saved"
 }

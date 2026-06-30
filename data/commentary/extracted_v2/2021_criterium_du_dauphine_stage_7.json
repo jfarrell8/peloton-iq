@@ -1,0 +1,27 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-05",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PADUN Mark soloed to victory on La Plagne after PORT Richie attacked in final 1km for time bonuses, taking yellow from LUTSENKO by 17 seconds.",
+    "winner": "PADUN Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Port attacked specifically inside final km targeting time bonuses rather than stage win, calculated yellow jersey math over glory.",
+      "Movistar paced descent after Col de Pré aggressively enough to drop Froome despite climbing well through three climbs.",
+      "Bahrain's Padun at 24 showed superior climbing to veteran Kuss on beyond-category terrain, unexpected strength hierarchy reversal."
+    ],
+    "rider_signals": {
+      "PORT Richie": "positive: Prioritized tactical time bonus finish over stage win to capture yellow, showing strong race intelligence at 36",
+      "FROOME Chris": "negative: Climbed well through three ascents but dropped on descent by Movistar pace, descending now a weakness",
+      "PADUN Mark": "positive: 24-year-old outclimbed Kuss on HC finish, first WT win reveals Bahrain developing unexpected GC depth",
+      "LUTSENKO Alexi": "negative: Lost yellow despite defense, historical medium-mountain pedigree confirmed as ceiling on HC summit finishes",
+      "KRUIJSWIJK Steven": "negative: Dropped far from finish despite starting 39 seconds back, major form concern for Jumbo-Visma",
+      "CRADDOCK Lawson": "neutral: Rode aggressively into KOM lead from second-wave breakaway chase group rather than original move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:35:40.013414+00:00"
+}

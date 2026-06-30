@@ -1,0 +1,30 @@
+{
+  "label": "2020 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-05",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERS Nans won from the 13-rider early break after KOZNERFALL secured KOM points and POWLESS placed fifth from the same move.",
+    "winner": "PETERS Nans",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POWLESS took polka dot wearer COSNEFROY into 13-rider break mile 2, gambling on breakaway success over GC defense.",
+      "BENNETT sprinted intermediate against SAGAN despite mountain stage, protecting green jersey by two points in opportunistic micro-battle.",
+      "BARDET attacked final climb after earlier crash, needing exactly 13 seconds for GC jump, showing crash recovery tactics work.",
+      "AG2R paced BARDET back after crash using VUILLERMOZ, preserving GC position before late attack rather than abandoning stage ambitions."
+    ],
+    "rider_signals": {
+      "PETERS Nans": "positive: unknown rider delivered stage win from massive early break, emerged as clutch finisher",
+      "POWLESS Neilson": "positive: fifth place from break despite being best-placed GC rider in move, aggressive time recovery after previous losses",
+      "BARDET Romain": "positive: crashed mid-stage then attacked final climb to gain exactly needed 13 seconds, moved to 4th overall",
+      "BENNETT Sam": "positive: contested intermediate sprint on mountain stage solely to protect green jersey, micro-managing two-point gap",
+      "COSNEFROY Benoît": "neutral: polka dot jersey holder joined break but lost KOM competition ground despite tactical placement",
+      "ZAKARIN Ilnur": "negative: abandoned race during breakaway, could not continue despite being in favorable position",
+      "YATES Adam": "neutral: defended yellow jersey but required chase effort when BARDET attacked, showing defensive vulnerability",
+      "POGAČAR Tadej": "positive: recovered time lost to mechanical previous day, moved back into top ten GC"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:38:47.616533+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-18",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SKJELMOSE Mattias held yellow by improving exponentially through time checks, surviving AYUSO's 8-second stage win with rhythm acceleration in final 15km",
+    "winner": "AYUSO Juan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SKJELMOSE showed exponential improvement between time checks rather than even pacing, catching rider 2min ahead by checkpoint 2",
+      "AYUSO took 8sec from EVENEPOEL in final 5km descent, suggesting elite descending skills differentiate young GC contenders",
+      "GALL Felix collapsed in time trial despite 8sec GC gap, confirming climber types vulnerable in mixed TT courses"
+    ],
+    "rider_signals": {
+      "SKJELMOSE Mattias": "positive: exponential pacing strategy (improving between checks vs fading) reveals maturity beyond typical breakthrough season pattern",
+      "AYUSO Juan": "positive: 8sec gain on EVENEPOEL in final descent signals world-class TT descending, rare for 20-year-old in second race",
+      "EVENEPOEL Remco": "neutral: set fastest time but AYUSO's descent gains suggest vulnerability when terrain turns technical at end",
+      "GALL Felix": "negative: lost 46sec from 4th GC despite only 8sec deficit, exposing climber-only limitation in short mixed TTs",
+      "BISSEGGER Stefan": "negative: 23.9sec down at first check despite being time trial specialist, suggesting early-season form issues"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:24:32.629596+00:00"
+}

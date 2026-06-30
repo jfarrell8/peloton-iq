@@ -14,75 +14,85 @@
       {
         "video_id": "knGb9v4dfy8",
         "title": "Tour of Turkey 2018 | Stage 2 Highlights: Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-10 15:19:28+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 134.29
       },
       {
         "video_id": "Lw8apg9oXes",
         "title": "Tour of Turkey 2018 | Stage 1 Highlights: Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-10 15:19:29+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 94.29
       },
       {
         "video_id": "uVtGaxGKdi0",
         "title": "Tour of Turkey 2018 | Stage 3 Highlights: Final Kilometre | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-11 16:55:20+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 84.29
       },
       {
         "video_id": "VlXNNdrn0vM",
         "title": "Tre Valli Varesine 2018 Final Kilometres | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-10-09 17:32:28+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 78.33
       },
       {
         "video_id": "xTtjn7ZHzeg",
         "title": "BinckBank Tour 2018 | Stage 2 Winner's Time Trial Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-14 16:02:08+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.14
       },
       {
         "video_id": "VW8JtnpPjFc",
         "title": "Tour of Utah 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-09 08:45:52+00:00",
-        "match_score": 72.1
-      },
-      {
-        "video_id": "rEXZ4HEkqA8",
-        "title": "Colorado Classic 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
-        "published": "2018-08-20 08:46:37+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "-LU-b5cd14Q",
         "title": "Arctic Race of Norway 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-17 17:10:06+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.1
+      },
+      {
+        "video_id": "rEXZ4HEkqA8",
+        "title": "Colorado Classic 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
+        "published": "2018-08-20 08:46:37+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
         "video_id": "fYyx-ftQwJI",
         "title": "Tour de Pologne 2018 | Stage 2 Finish Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
         "published": "2018-08-07 10:46:34+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       },
       {
-        "video_id": "g__ZEufyN2Y",
-        "title": "Tour du Pays Basque 2018 | Stage 2 Highlights | Cycling | Eurosport",
+        "video_id": "riEEm6Jkpuw",
+        "title": "Tour of the Alps 2018 | Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2018-04-17 14:59:48+00:00",
         "channel": "TNT Sports",
-        "published": "2018-04-04 14:16:03+00:00",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 72.1
       }
     ]
   },
   "transcript": null,
-  "status": "video_found"
+  "status": "transcript_error:video_unplayable_geo_restricted"
 }

@@ -1,0 +1,30 @@
+{
+  "label": "2018 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-12",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard soloed to victory in final 3.8km after BOUWMAN Koen's breakaway attack failed, while PINOT Thibaut opportunistically gained time on FROOME Chris and DUMOULIN Tom.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MOVISTAR sat in bunch despite breakaway representation, allowing CARAPAZ opportunistic freedom to attack late without team pressure.",
+      "FROOME Chris crashed on Monteverdi climb, requiring ELISSONDE Kenny and POELS Wout pacing—exposing team isolation vulnerability mid-stage.",
+      "PINOT Thibaut exploited final kilometer chaos for bonus seconds while GC favorites FROOME/DUMOULIN absent, revealing positioning discipline gaps.",
+      "BOUWMAN Koen attacked at 3.8km from breakaway but repeatedly checked behind, telegraphing doubt that killed momentum before catch."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: First Ecuadorian GT stage winner, rode away from breakaway remnants final 1.5km, emerging as MOVISTAR GC leader over BETANCUR Carlos.",
+      "FROOME Chris": "negative: Loose handling on Monteverdi climb required teammates to pace back, then missed PINOT's final kick, losing bonus seconds.",
+      "DUMOULIN Tom": "negative: Absent from PINOT's late acceleration, suggesting positioning lapse or fatigue on summit finish.",
+      "BOUWMAN Koen": "neutral: Initiated 3.8km attack from break but excessive backward glancing revealed psychological hesitation that doomed effort.",
+      "PINOT Thibaut": "positive: Opportunistic attack for bonus seconds in final kilometer when GC rivals mispositioned, demonstrating tactical awareness.",
+      "BETANCUR Carlos": "negative: Entered Giro as MOVISTAR leader but CARAPAZ's stage win signals internal hierarchy shift.",
+      "WELLENS Tim": "negative: Stage 4 winner crashed early, losing breakaway opportunity on day favoring escapees.",
+      "YATES Simon": "neutral: Retained pink jersey but reacted to PINOT rather than initiating, suggesting defensive rather than dominant positioning."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:27:19.399261+00:00"
+}

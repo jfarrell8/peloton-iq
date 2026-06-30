@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2018-06-07",
   "stage": 4,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "pOVFpPa99Xw",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=pOVFpPa99Xw",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 91,
+    "raw_chars": 3128,
+    "clean_chars": 3055,
+    "duration_mins": 4.1,
+    "clean_text": "things are ramping up for the 181 kilometer stage on Thursday between chaises your aunt and Lavagirl the riders will be crossing this editions first HC pass about 40 kilometres from the line Col du Manoir on the defini route for the very first time one rider stood out in the dais breakaway group as the road started to climb Italian Dario Cataldo escaped on his own top the pass and further widen the gap on the way down before the final upward stretch for the line at this point he was one minute 30 ahead of a group of six pursuers including edvald Boasson Hagen and Frenchman briefs Fei Yue current holder of the Polka Dot Jersey behind the yellow and blue jersey group led by Team Sky took no risks in the pouring rain leaving the front rider three minutes ahead twenty kilometers from the finishing line the weather cleared up somewhat for the last few kilometers the peloton easily swallowed up the breakaway group and made a dash for the last escapee at little over two minutes ahead of the yellow and blue jersey Cataldo was a threat to the overall classification the result Team Sky an ag2r La Monte I'll pick up speed in a less than one minute behind two kilometers from the vine in the final climb terrible for Cataldo who escaped at kilometer 73 past col du monde while alone and was overtaken 300 metres from the line roman body and junior ala philippe followed an Martin and Geraint Thomas in the last few hundred meters leading to the final victory on the line strong and Juliana Philippe raises his hands while the yellow and blue jersey switches wearers but not teams passing from michelle Kwiatkowski to italian Jani Muskaan he played it smart Juliano lefty deep stayed off the radar all day but the one-day classic specialist had a plan join the fight and snag a victory a perfect finish reflecting the French rider skills and a great year so far for him and for the team today's win is also the 38 this season for the quickstep outfit most recipients I'm really happy though food a is a is a great grace all the best guys are on top form a few weeks away from the Tour de France there were an easy win here but I felt great and when we broke away I gave it all I had last few meters it was really intense said I've already aqua on the finishing line at Las Navas car Junior ala Philippe in the lead behind him Dan Martin Karen Thomas and Roman Bob a nice group shot for the French with four riders in the top 10 including PL a tool and Gil mata change of leader in the overall distance of the stained end Michelle kept coughs key only kept his leader's jersey for a day with teammate Johnny Muskaan taking over the British teams riders continue to top the bill note that Juliana a la Philippe and Harman ballet have made their entry in the top ten another one for the climbers this Friday on the winding roads of the is air and savoir a hundred and thirty kilometers from Grenoble to Val Morell with a finishing line at the top of an HC pass the very place of an epic confrontation between Chris Froome and Alberto Contador in 2013 Oh",
+    "preview_start": "things are ramping up for the 181 kilometer stage on Thursday between chaises your aunt and Lavagirl the riders will be crossing this editions first HC pass about 40 kilometres from the line Col du Manoir on the defini route for the very first time one rider stood out in the dais breakaway group as the road started to climb Italian Dario Cataldo escaped on his own top the pass and further widen the gap on the way down before the final upward stretch for the line at this point he was one minute 3",
+    "preview_end": " kept his leader's jersey for a day with teammate Johnny Muskaan taking over the British teams riders continue to top the bill note that Juliana a la Philippe and Harman ballet have made their entry in the top ten another one for the climbers this Friday on the winding roads of the is air and savoir a hundred and thirty kilometers from Grenoble to Val Morell with a finishing line at the top of an HC pass the very place of an epic confrontation between Chris Froome and Alberto Contador in 2013 Oh"
+  },
+  "status": "transcript_saved"
 }

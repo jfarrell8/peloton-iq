@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-13",
+  "stage": 1,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "YATES Adam won TTT via Mitchelton-Scott defeating Jumbo-Visma by 7 seconds with De Klecher Quick-Step surprisingly 37 seconds down despite leading at checkpoints",
+    "winner": "YATES Adam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck Quick-Step fastest at intermediate checkpoint but faded 37 seconds by finish, revealing pacing misjudgment",
+      "Mitchelton-Scott starting last gained tactical advantage seeing all rival times before execution",
+      "Sunweb relegated Jumbo-Visma to third despite being non-GC favorites, showing depth underestimation",
+      "Jumbo-Visma kept Roglic within 7 seconds but protecting leaders cost podium position"
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: 37-second gap over Alaphilippe from TTT creates defensible GC position against superior stage racer",
+      "ALAPHILIPPE Julian": "negative: 37-second deficit likely insurmountable against climber like Yates in week-long stage race",
+      "DUMOULIN Tom": "neutral: Sunweb only 15 seconds behind Jumbo-Visma suggests form rehabilitation underway",
+      "ROGLIC Primoz": "positive: Jumbo-Visma prioritized protecting him over podium finish showing clear GC commitment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:55:10.829529+00:00"
+}

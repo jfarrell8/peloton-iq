@@ -1,0 +1,26 @@
+{
+  "label": "2021 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2021-03-06",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL attacked on the final climb with 2km to go, dropped ALAPHILIPPE and BERNAL, won solo by 5 seconds.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POEL launched multiple accelerations before final decisive move, testing ALAPHILIPPE and BERNAL's reserves before terminal attack.",
+      "Short 800m gravel sector splintered field decisively, proving brief intense sectors matter more than total gravel kilometers.",
+      "Three-up group cooperated into finale despite knowing VAN DER POEL's power advantage, allowing him to recover between surges."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: maintained power edge after repeated accelerations, demonstrating superior repeatability over one-off climbers in finale.",
+      "ALAPHILIPPE Julian": "neutral: closed gaps to VAN DER POEL multiple times but lacked final punch when decisive acceleration came.",
+      "BERNAL Egan": "negative: dropped before ALAPHILIPPE despite following wheels, suggesting gravel handling deficit compounds climbing on unstable surfaces.",
+      "POGAČAR Tadej": "positive: finished sixth in group behind podium, marking strong debut adaptation to gravel despite no prior experience.",
+      "CLARKE Simon": "positive: finished eighth leading chase group, rare top-10 for pure domestique suggesting gravel rewards diesel engines."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:05:04.039994+00:00"
+}

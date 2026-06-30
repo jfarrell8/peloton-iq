@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who uses climbs as launchpads, bridging solo from early breaks on ascents and dropping companions on climbs to force prolonged chases before finales.",
+  "team_tactics": "Team provides dual-purpose support: domestiques work within breakaways to enable classification point collection while Van Hecke pushes tempo or attacks on climbs to maximize group survival time.",
+  "terrain_preference": "Medium-difficulty climbs where he can separate from breakaway companions and force peloton work; struggles on penultimate/final climbs when fresh peloton applies sustained power.",
+  "vulnerability": "Breakaway efforts collapse when peloton applies organized chase on harder climbs (penultimate climb onwards), suggesting limits against sustained high-tempo climbing from fresher rivals.",
+  "key_patterns": [
+    "Targets breakaways with dual classification objectives: intermediate sprints and KOM points (2 races)",
+    "Uses climbs aggressively within breakaways to drop companions and extend solo efforts (2 observations)",
+    "Breakaway collapses typically occur on penultimate/final climbs under peloton pressure (2 instances)",
+    "Team commits domestiques to breakaways to support his classification hunting efforts (2 races)"
+  ],
+  "form_trajectory": "positive: 2019 shows evolution from pure breakaway survival to strategic classification hunting with coordinated team support",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VAN HECKE Preben",
+  "built_from": [
+    "2017 Tour of Oman Stage 2",
+    "2019 Tour of Oman Stage 2",
+    "2019 Tour of Oman Stage 2",
+    "2019 Tour of Oman Stage 3",
+    "2019 Tour of Oman Stage 3"
+  ]
+}

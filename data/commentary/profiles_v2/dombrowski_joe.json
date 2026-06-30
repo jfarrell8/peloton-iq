@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks from established breakaways on final climbs, using superior climbing form to drop companions in closing kilometers rather than launching long-range solo moves.",
+  "team_tactics": "Infiltrates large breakaways early, then relies on individual climbing strength rather than team support in finale—domestiques not evident in winning effort.",
+  "terrain_preference": "Mountain stages with final climbs where breakaways survive; excels when able to convert pure climbing form against break companions rather than GC contenders.",
+  "vulnerability": "Limited data suggests reliance on breakaway scenarios rather than direct confrontation with top GC climbers; years of attempting Grand Tour stage wins before breakthrough indicates inconsistency.",
+  "key_patterns": [
+    "Operates from breakaways rather than peloton, requiring early infiltration for stage success.",
+    "Deploys climbing acceleration in final kilometers rather than sustained long-range attacks.",
+    "Multi-year conversion pattern: baby Giro winner took years to translate to Grand Tour stage victory."
+  ],
+  "form_trajectory": "positive: Converted years of climbing potential into breakthrough Grand Tour stage win, suggesting maturation of racing approach",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DOMBROWSKI Joe",
+  "built_from": [
+    "2021 Giro d'Italia Stage 4",
+    "2021 Giro d'Italia Stage 4"
+  ]
+}

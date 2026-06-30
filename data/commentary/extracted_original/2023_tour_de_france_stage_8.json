@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 8",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-08",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won uphill sprint finish in Limoges after Lidl-Trek controlled final 8km following aggressive JUMBO-VISMA pace-setting neutralized breakaway.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUMBO-VISMA revealed sprint leadout capabilities for VAN AERT despite being GC-focused team, suggesting dual priorities.",
+      "LIDL-TREK perfectly timed final 8km takeover after JUMBO-VISMA burned matches chasing, exploiting rivals' earlier commitment.",
+      "VAN AERT got boxed in final 700m uphill despite strong leadout, indicating positioning vulnerability on technical uphill sprints."
+    ],
+    "rider_signals": {
+      "PEDERSEN Mads": "positive: Beat PHILIPSEN on uphill finish after sustained pace, revealing superior punch on gradient-finish sprints.",
+      "PHILIPSEN Jasper": "negative: First defeat of Tour on uphill finish despite green jersey dominance, exposed weakness on gradient sprints.",
+      "VAN AERT Wout": "negative: Boxed in crucial moment despite team control, tactical positioning error cost stage in uphill sprint.",
+      "YATES Simon": "negative: Lost 47 seconds and dropped to 6th in crash with <6km to go, revealing fragile GC position.",
+      "CAVENDISH Mark": "negative: Abandoned Tour after crash, ending final Tour campaign.",
+      "KUSS Sepp": "neutral: JUMBO-VISMA's prolonged pace-setting with 37km remaining suggests confidence in KUSS's climbing reserves for mountain stages."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:23:02.471241+00:00"
+}

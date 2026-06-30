@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 2",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-15",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PHILIPSEN Jasper won sprint in Burgos by choosing left barrier while Jakobsen went right after both lost leadout trains in compressed finale.",
+    "winner": "PHILIPSEN Jasper",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana overcooked intermediate sprint for Roglic green jersey, allowing Jakobsen opportunistic points take despite not contesting.",
+      "Peloton rode unusually wide formation on zigzag roads, creating leadout chaos where Matthews/Trentin navigated best until final 200m.",
+      "Late-race crash outside 3km zone eliminated Bora's entire sprint train, revealing vulnerability of single leadout structure."
+    ],
+    "rider_signals": {
+      "PHILIPSEN Jasper": "positive: Navigated leadout chaos independently, choosing barrier line opposite Jakobsen showing spatial awareness without team support",
+      "JAKOBSEN Fabio": "positive: Opportunistically took intermediate sprint points without effort when Astana mistimed Roglic's leadout",
+      "MATTHEWS Michael": "positive: Third place without visible leadout suggests diesel engine works better in disorganized compressed sprints",
+      "TRENTIN Mattia": "positive: UAE's Milano leadout with Trentin navigated zigzag course best until overtaken, showing Trentin's classics skill translates",
+      "ROGLIC Primoz": "neutral: Astana burned energy chasing green jersey intermediate but went too early, questionable GC team resource allocation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:43:43.243363+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour de Suisse Stage 6",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-14",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won sprint from Ackerman's wheel after Senechal leadout, his second stage win taking points jersey",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep controlled closing despite Ackerman holding points jersey, aggressive positioning over passive defending reveals Bora's sprint confidence deficit.",
+      "Senechal leadout placed Jakobsen in Ackerman's wheel from 1.5km, Quickstep prioritizing rival's slipstream over traditional train finish.",
+      "Early breakaway attempts featuring GC riders like Cavagna (17s back) immediately shut down by Sky, no tolerance for time threats."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Second stage win from rival's wheel confirms ability to beat Ackerman head-to-head even without perfect leadout position.",
+      "ACKERMANN Pascal": "negative: Led sprint wearing points jersey but beaten by wheel-sitter, suggests vulnerable when forced to lead rather than counterattack.",
+      "CAVAGNA Remi": "neutral: Attempted early move despite sitting 17s down GC, team allowing aggressive racing rather than defensive tactics."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:35:52.367659+00:00"
+}

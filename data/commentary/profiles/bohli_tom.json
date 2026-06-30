@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic late-race solo attacks in finales, attempting to capitalize on tactical confusion or gaps in peloton discipline when domestique duties are complete.",
+  "team_tactics": "Functions primarily as domestique but given freedom for opportunistic moves late in race when team leadership objectives are secured or unlikely.",
+  "terrain_preference": "Insufficient data to determine specific terrain preferences, though showed ability to attack in hilly stage race finales.",
+  "vulnerability": "Solo attacks easily controlled by organized teams with sprint interests (e.g., Bora-hansgrohe); lacks sustained power or support to make opportunistic moves stick against disciplined pelotons.",
+  "key_patterns": [
+    "Launches solo attacks late in races despite domestique role, showing tactical awareness.",
+    "Attacks can create initial panic but get shut down by disciplined team tempo control.",
+    "Displays sufficient strength reserves after domestique work to attempt finale opportunism."
+  ],
+  "form_trajectory": "unknown: single race observation from 2018 insufficient to determine trajectory or current form",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BOHLI Tom",
+  "built_from": [
+    "2018 Tour de Romandie Stage 5",
+    "2018 Tour de Romandie Stage 5"
+  ]
+}

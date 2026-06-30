@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-05",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout attacked solo from yellow jersey on final categorized climb Côte du Cap Blanc-Nez, held ~10 seconds to finish in TT mode",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN AERT attacked as race leader on final cat-4 climb, exploiting marking confusion when yellow jersey initiates rather than responds",
+      "LAPORTE Christophe led out peloton sprint despite teammate solo ahead, suggesting Jumbo-Visma hedged against VAN AERT being caught",
+      "GC riders POGACAR/VINGEGAARD both lost 18 seconds to yellow jersey on stage presumed controlled, revealing lack of positioning discipline"
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: attacked from yellow on categorized climb then sustained solo TT effort, showing willingness to spend matches early in race",
+      "POGACAR Tadej": "negative: lost 18 seconds on presumed easy flat stage, now 32 seconds down due to positioning failure not physiological weakness",
+      "VINGEGAARD Jonas": "negative: lost 18 seconds same as POGACAR despite Jumbo-Visma teammate winning, indicating team prioritized stage over GC protection",
+      "LAPORTE Christophe": "positive: led peloton sprint while teammate soloed ahead, demonstrating team's depth and tactical flexibility for dual outcomes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:23:57.858964+00:00"
+}

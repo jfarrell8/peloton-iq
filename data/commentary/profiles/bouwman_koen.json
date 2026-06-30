@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Prefers early breakaways (often 30km+ to go) targeting mountain points and KOM jersey rather than pure stage wins. When going for victory, attacks close (300m-3.8km) with short, decisive moves, particularly on steep gradients (13% finishes).",
+  "team_tactics": "Minimal team support visible in Grand Tour breakaways where he operates independently, though received four-man leadout protection in 2017 sprint scenarios. Primarily self-sufficient in long-range escapes, relying on personal positioning rather than domestique setup.",
+  "terrain_preference": "Excels on repeated climbing days with 4000m+ elevation and steep finishing gradients (13%). Exceptional descending ability allows recovery after being dropped. Medium mountain stages with multiple KOM opportunities suit classification hunting perfectly.",
+  "vulnerability": "Psychological hesitation in breakaway finales when attacking early (telegraphed doubt through excessive backward glancing in 2018). Relies heavily on breakaway success - no evidence of contesting from reduced peloton or performing in pure sprints.",
+  "key_patterns": [
+    "KOM jersey prioritization: routinely abandons breakaways or sits up after securing mountain points (4 observations)",
+    "Multiple breakaway efforts within same race showing exceptional recovery capacity and classification focus (5 observations)",
+    "Attacks companions inside final kilometer on climbing finishes when contesting stage victory (3 observations)",
+    "Strategic secondary competition engagement: sprint points denial and KOM defense through tactical positioning (3 observations)",
+    "Exceptional descending recovery after being dropped on climbs enables stage contention (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 shows tactical engagement for secondary competitions but no stage wins or KOM contention, down from dominant 2022 Giro performance with two wins and KOM title. Competing but not at previous peak level.",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "BOUWMAN Koen",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 3",
+    "2017 Criterium du Dauphine Stage 3",
+    "2017 Criterium du Dauphine Stage 5",
+    "2017 Criterium du Dauphine Stage 5",
+    "2017 Criterium du Dauphine Stage 7",
+    "2017 Criterium du Dauphine Stage 7",
+    "2017 Tour de Pologne Stage 5",
+    "2018 Giro d'Italia Stage 8",
+    "2018 Giro d'Italia Stage 8",
+    "2021 Volta Ciclista a Catalunya Stage 7",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 17",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Giro d'Italia Stage 7",
+    "2022 Giro d'Italia Stage 7",
+    "2023 Giro dItalia Stage 21"
+  ]
+}

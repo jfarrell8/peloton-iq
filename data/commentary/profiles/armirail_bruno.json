@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who capitalizes on GC team miscalculations, taking low-threat escapes with significant time deficits (18+ minutes down) that allow extended freedom before mountain stages recalibrate.",
+  "team_tactics": "Functions as tactical domestique willing to sacrifice personal stage ambitions to escort and position teammates; team accepts controlled time losses when he's in break to preserve energy for domestique duties in key mountain blocks.",
+  "terrain_preference": "Transitional flat-to-mountain stages where GC teams underestimate break threats; exposed on decisive mountain stages where large time deficits and domestique role eliminate GC viability.",
+  "vulnerability": "Lacks climbing strength to defend temporary GC gains once serious mountains arrive; teams readily concede 30+ seconds knowing mountains will resolve any artificial GC position gained from breaks.",
+  "key_patterns": [
+    "Takes pink/leader jerseys from massive time deficits (18+ min), recognized as temporary symbolic victories (2 instances)",
+    "GC teams deliberately allow him freedom, calculating deficit makes him non-threatening (3 instances)",
+    "Prioritizes team tactics over personal results, dropping from breaks to escort teammates (2 instances)",
+    "Time losses accepted/controlled before decisive mountain stages where domestique role resumes (2 instances)"
+  ],
+  "form_trajectory": "neutral: Recent 2023 Giro pattern shows him functioning consistently in assigned domestique role with temporary GC anomalies, no performance progression evident",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "ARMIRAIL Bruno",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 8",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 14",
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 15"
+  ]
+}

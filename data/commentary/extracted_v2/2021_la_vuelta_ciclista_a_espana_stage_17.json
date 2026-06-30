@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 17",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-01",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked 60km out on penultimate climb with Bernal, dropped everyone including his former companion, won by massive margin with Sepcuss taking second.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bernal initiated 60km attack forcing Roglic's hand; only two-rider alliance shows GC field lacked depth or conviction to counter.",
+      "Jumbo-Visma positioning Sepcuss for second denied bonus seconds to rivals despite Roglic winning comfortably, revealing meticulous margin management.",
+      "Bahrain Victorious chased hard for Caruso/breakaway despite having no GC threat, suggesting stage-hunting priority over supporting potential podium moves.",
+      "Lopez and Mas engaged chase but couldn't distance each other, exposing mutual weakness rather than GC threat to Roglic."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: initiated 60km solo attack and held separation until final climb, indicating return to elite climbing form for Bahrain",
+      "ROGLIC Primoz": "positive: followed Bernal's 60km attack then dropped him decisively, winning by multiple minutes with teammate second shows total dominance",
+      "EIKING Odd Christian": "negative: crashed in rain and lost 9+ minutes after struggling before descent, completely overextended in GC position",
+      "SEPCUSS Wout": "positive: delivered perfect domestique performance taking second place to deny bonus seconds to Lopez/Mas/Yates on mountain stage",
+      "LOPEZ Miguel Angel": "negative: couldn't drop Mas or Yates despite fresh Movistar support on ideal high-mountain finish",
+      "MAS Enric": "negative: failed to attack despite being 2:22 down with only one mountain stage remaining after this one",
+      "YATES Adam": "positive: finished with Lopez/Mas group ahead of Bernal despite being considered inferior pure climber"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:42:55.067018+00:00"
+}

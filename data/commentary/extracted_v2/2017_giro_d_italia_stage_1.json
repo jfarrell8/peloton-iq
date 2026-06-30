@@ -1,0 +1,24 @@
+{
+  "label": "2017 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-05",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PÖLLBURGGER Lukas attacked from the early break inside final 1km, denying sprinters through late positioning compression that caused peloton backup.",
+    "winner": "PÖLLBURGGER Lukas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Peloton compression/backup in final kilometers allowed breakaway riders to stay clear despite late catch attempts.",
+      "Benedetti prioritized KOM jersey points over stage win, revealing GC teams letting break gather jersey bonuses.",
+      "Multiple riders unclipped during peloton backup showing positioning chaos neutralized sprint train organization completely."
+    ],
+    "rider_signals": {
+      "PÖLLBURGGER Lukas": "positive: Austrian showed unexpected TTT-level endurance staying clear from early break despite multiple KOM contests draining breakaway",
+      "BENEDETTI Cesare": "neutral: Tactical KOM point collection suggests pre-stage team directive to secure jersey over stage result",
+      "HÄMOT Tea": "positive: Strong late-break sprinting suggests misplaced in breakaway role, could contest reduced bunch sprints"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:54:44.667339+00:00"
+}

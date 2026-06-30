@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-13",
+  "stage": 1,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "HEPBURN Michael led MITCHELTON-SCOTT to TTT victory in 22:25, putting YATES Adam in GC lead 37 seconds ahead of ALAPHILIPPE Julian",
+    "winner": "HEPBURN Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MITCHELTON-SCOTT starting 16th position allowed them to calibrate pacing against JUMBO-VISMA's split times via race radio",
+      "YATES Adam gained 37 seconds on ALAPHILIPPE Julian, likely insurmountable deficit for puncheur against climber on this terrain",
+      "DECEUNINCK-QUICK STEP finished 37 seconds down despite checkpoint speed, suggesting poor pacing strategy or late-race collapse"
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: fourth across line in TTT but gained crucial 37-second buffer over main GC rival ALAPHILIPPE",
+      "HEPBURN Michael": "positive: led team across line first, showcasing track-to-road TTT capability exceeding career expectations",
+      "ALAPHILIPPE Julian": "negative: 37-second deficit from fourth-place team finish puts him in severe tactical disadvantage for GC",
+      "DUMOULIN Tom": "neutral: SUNWEB third at 22 seconds, splitting JUMBO-VISMA and DECEUNINCK times suggests reasonable form",
+      "DURBRIDGE Luke": "positive: delivered team to line in third individual position, demonstrating domestique TTT excellence",
+      "BOOKWALTER Brent": "positive: second across line for winning team, veteran contribution to precision pacing strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:03:20.342796+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2019 Paris-Nice Stage 1",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-10",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won from a disrupted sprint after crosswinds split the field throughout the stage, taking yellow with 10 bonus seconds.",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky used ROWE Luke to deliver KWIATKOWSKI Michał into late intermediate sprint for bonus seconds, not stage win tactics.",
+      "KWIATKOWSKI collected 6 total bonus seconds via intermediate sprints, revealing Sky prioritized GC placement over sprint stage control.",
+      "GILBERT Philippe attacked inside 3km from flattish finish, signaling desperation after missing earlier echelon splits.",
+      "Jumbo-Visma leadout placed GROENEWEGEN perfectly on right side while COLBRELLI Sonny launched too early from left."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: third win of early season shows exceptional February-March form, already sharper than Tour de France rivals",
+      "MATTHEWS Michael": "negative: crashed out in Stage 1, second consecutive season derailed by early injury in first race back",
+      "SOLER Marc": "negative: defending champion dropped by front group in crosswinds, lost 60 seconds revealing poor early season condition",
+      "EWAN Caleb": "positive: second place despite surviving echelons suggests superior bike handling to pure sprinters who got eliminated",
+      "KWIATKOWSKI Michał": "neutral: Sky deployed him for bonus second hunting not sprint assist, confirming GC ambitions not domestique role",
+      "COLBRELLI Sonny": "negative: jumped first but faded, poor sprint timing cost certain top-3 after surviving selection",
+      "GILBERT Philippe": "neutral: late solo attack from echelon survivor group shows good legs but poor tactical awareness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:00:47.134430+00:00"
+}

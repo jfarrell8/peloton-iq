@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Specializes in winning from large breakaways on steep uphill finishes (14-16% gradients). Attacks in final 500m with powerful finishing kick, timing move after earlier attacks have shattered the group.",
+  "team_tactics": "Operates as opportunist in large breaks rather than leading team support. Conserves energy while others (GANNA, CAICEDO, etc.) do the destructive work, then counters in final meters.",
+  "terrain_preference": "Excels on brutally steep finishes (14-16%) from breakaways. Struggles on sustained 15%+ gradients when forced to follow wheels rather than finish from reduced group.",
+  "vulnerability": "Gets dropped on long steep sections (15%+) when unable to dictate pace. Requires others to shatter group first—lacks sustained climbing to create selection alone.",
+  "key_patterns": [
+    "Three Vuelta stage wins from large breakaways, establishing this as primary winning tactic.",
+    "Consistently attacks in final 200-500m on steep finishes, not earlier on climbs.",
+    "Wins after high-pace shattering by others (GANNA's infernal pace, CAICEDO's flamme rouge attack).",
+    "Strong on 14-16% pitches but loses contact on similar gradients when tactics don't favor.",
+    "Breakaway specialist targeting stages GC riders will concede, avoiding GC confrontation."
+  ],
+  "form_trajectory": "positive: 2023 Vuelta win with strong finishing kick shows maintained breakaway prowess into current seasons",
+  "races_analysed": 4,
+  "confidence": "high",
+  "rider_name": "HERRADA Jesus",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 14",
+    "2019 Vuelta a Espana Stage 6",
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 La Vuelta Ciclista a Espana Stage 11",
+    "2023 Vuelta a Espana Stage 11"
+  ]
+}

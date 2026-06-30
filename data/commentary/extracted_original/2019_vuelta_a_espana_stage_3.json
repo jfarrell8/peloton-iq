@@ -1,0 +1,26 @@
+{
+  "label": "2019 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-26",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a straightforward sprint after UAE's pace-making for Gaviria backfired, dropping their own sprinter with 25km remaining.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma's 70kph drilling for Groenewegen at 25km out paradoxically distanced rival sprinter Gaviria, weaponizing leadout work.",
+      "Teams now delaying leadout trains until sub-5km to preserve final pilot riders, fundamentally changing sprint positioning dynamics.",
+      "De Gendt counter-moved during GC team bridging attempt at 44km, exploiting predictable peloton response to inject breakaway aggression."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "negative: Dropped at 25km on pace increase meant for control, revealing poor form or positioning—UAE's leadout work counterproductive.",
+      "BENNETT Sam": "positive: Positioned perfectly seventh with 1km remaining, then jumped simultaneously with Groenewegen to win easily, showing tactical maturity.",
+      "HIGUITA Sergio": "neutral: Taking intermediate sprint bonuses as climber signals GC ambitions beyond just mountain stages.",
+      "DE GENDT Thomas": "neutral: Initiated counter-attack during peloton's bridge attempt at 44km, standard opportunistic aggression yielding no stage result.",
+      "ROCHE Nicolas": "positive: Retained red jersey by two seconds, bonus seconds strategy from Stage 2 breakaway proving decisive."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:21:11.019840+00:00"
+}

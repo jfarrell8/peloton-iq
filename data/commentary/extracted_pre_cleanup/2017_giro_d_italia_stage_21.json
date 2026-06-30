@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-28",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN Tom won Giro d'Italia by 31 seconds over NIBALI Vincenzo after dominating Stage 21 ITT, overturning 53-second deficit to QUINTANA Nairo.",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DUMOULIN overcame 53s deficit to QUINTANA in final ITT, revealing Colombian's chronic time trial vulnerability in Grand Tour calculus.",
+      "VAN EMDEN Jos placed second on stage, demonstrating Sunweb depth in ITT discipline for future three-week race support.",
+      "QUINTANA lost 53+ seconds in sub-30km ITT despite holding pink, confirming need for 90+ second cushions before flat TTs.",
+      "PINOT Thibaut faded badly in final ITT, suggesting mental fragility under pressure when podium positions still contested."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Crushed final ITT by half-minute margins over specialists, proving Grand Tour ITT dominance under maximum pressure.",
+      "NIBALI Vincenzo": "neutral: Held second overall but lost 25+ seconds to DUMOULIN in ITT, confirming his time trialing ceiling against specialists.",
+      "QUINTANA Nairo": "negative: Collapsed from pink jersey to third, losing 53+ seconds in short ITT exposes fatal flaw in stage race armor.",
+      "PINOT Thibaut": "negative: Poor ITT performance under podium pressure suggests psychological weakness in high-stakes final time trials.",
+      "VAN EMDEN Jos": "positive: Stage victory demonstrates he's genuine ITT threat capable of Grand Tour stage wins when released from domestique duties."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:00:31.728099+00:00"
+}

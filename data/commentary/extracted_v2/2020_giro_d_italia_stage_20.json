@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-24",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HART Tao won the stage atop Sestriere with 10-second bonus, drawing level on GC with race leader HINDLEY Jai before final ITT",
+    "winner": "HART Tao",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DENNIS Rowan's pacemaking on climb forced KELDERMAN out, demonstrating domestique work can fracture podium GC without team leader attacking.",
+      "HINDLEY attacked repeatedly despite holding virtual lead, revealing awareness his ITT weakness required time buffer rather than defending on road.",
+      "ALMEIDA João bridged from behind group targeting bonus seconds for podium, showing climbers prioritizing sprint points over pure climbing pace."
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: Called MVP of race for repeated pacemaking destroying rivals, third place finish shows strength beyond pure domestique role",
+      "KELDERMAN Wilco": "negative: Dropped by teammate and rivals 1.5 laps from finish despite Sunweb having numerical advantage in front group",
+      "HINDLEY Jai": "neutral: Won bonus sprint and attacked multiple times while in virtual lead, unusual aggression suggests panic about ITT vulnerability",
+      "HART Tao": "positive: Second stage win on mountaintop finish, controlled responses to attacks suggest confidence in closing ITT despite zero time gap",
+      "FULLSANG Jakob": "negative: Dropped early when INEOS set tempo, shows vulnerability when pace controlled rather than explosive attacks"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:15:09.162948+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 4",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-29",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won sprint finish after MILANO Sebastian went too early, timing kick perfectly from draft position",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Roundabouts outside 3km caused late crash eliminating Bahrain sprinter EXACT and threatening GC riders showing positioning critical earlier than usual.",
+      "VANDERBERG Marin jumped intermediate sprint for points jersey points revealing EF targeting green jersey campaign not just stage hunting.",
+      "MILANO Sebastian launched too early in drag finish, demonstrating even powered sprinters miscalculate timing on stepped-up gradient finishes."
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "positive: appeared tiring mid-sprint but found second kick showing deceptive acceleration reserve on uphill drags",
+      "MILANO Sebastian": "positive: UE Emirates now committing to sprint leadouts across terrain types suggesting broader ambitions than expected",
+      "EXACT": "negative: caught in crash outside 3km marker losing stage opportunity showing Bahrain sprint train fragility",
+      "BUTRAGO Santiago": "negative: involved in late crash threatening GC standing revealing positioning weakness in Bahrain GC team",
+      "VANDERBERG Marin": "neutral: targeting intermediate points against VENDRAME suggests points jersey still competitive despite gap"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:50:02.716070+00:00"
+}

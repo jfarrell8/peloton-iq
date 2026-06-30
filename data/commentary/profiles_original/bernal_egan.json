@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Launches long-range, sustained attacks (60km documented) rather than explosive accelerations. Most effective in final 2-3km of HC climbs when rivals are already depleted. Post-2021, lost ability to accelerate decisively.",
+  "team_tactics": "INEOS sets controlled tempo through multiple domestiques before his moves. Pre-injury willing to attack even with teammates ahead to test GC rivals. Post-injury receives full team support but cannot capitalize on positioning.",
+  "terrain_preference": "High-altitude, sustained HC climbs where gradual pace favors his diesel engine. Vulnerable on punchy accelerations and explosive gradients. Descends aggressively when in form (2021 Vuelta 60km move).",
+  "vulnerability": "Completely exposed on sustained climbing efforts post-2023 injury. Cannot follow even gradual threshold pace. Loses significant time on climbs that previously suited him (Marie Blanc, Catalunya). Short explosive accelerations problematic even in peak form.",
+  "key_patterns": [
+    "Long-range attacks 60km+ out when in form, not final-kilometer explosions (2021 Vuelta evidence).",
+    "Post-2023 injury shows persistent climbing weakness regardless of gradient or pace (Catalunya, TDF examples).",
+    "Will attack yellow jersey group even with teammates ahead to probe weaknesses (2019 TDF pattern).",
+    "Unable to respond to rival accelerations in final kilometers across multiple years (PINOT 2019, Roglic 2021).",
+    "Team provides maximum support but individual acceleration capacity missing even when positioned (2021 Vuelta pattern)."
+  ],
+  "form_trajectory": "negative: 2023 observations show continued severe climbing deficits post-injury with no recovery timeline evident. Lost on gradual and explosive efforts alike.",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "BERNAL Egan",
+  "built_from": [
+    "2019 Il Lombardia",
+    "2019 Tour de France Stage 15",
+    "2019 Tour de France Stage 18",
+    "2019 Tour de France Stage 18",
+    "2019 Tour de France Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 17",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 6",
+    "2021 La Vuelta ciclista a Espana Stage 9",
+    "2023 Tour de France Stage 5",
+    "2023 Volta Ciclista a Catalunya Stage 3"
+  ]
+}

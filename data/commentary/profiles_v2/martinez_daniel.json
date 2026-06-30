@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Attacks on final climbs from advantageous positions (breakaways or reduced groups), capable of both sustained climbing accelerations that drop GC riders and tactical late moves in the final 5-10km.",
+  "team_tactics": "Primarily deployed as high-altitude domestique setting tempo on climbs for INEOS leaders (Bernal, Thomas), but given freedom to attack when team GC ambitions are compromised or from breakaways.",
+  "terrain_preference": "Long, sustained final climbs where he can leverage pacing power to drop rivals (dropped Yates/Almeida on Giro climbs). Struggles on explosive, steep pitches where pure accelerations are required.",
+  "vulnerability": "Exposed on climbs requiring repeated sharp accelerations rather than steady tempo (distanced on same climb as Pinot in Poland 2022). Less effective when forced to respond to attacks rather than control pace.",
+  "key_patterns": [
+    "Functions as INEOS high-mountain domestique, setting tempo before leader attacks (Pologne, Giro 2021)",
+    "Drops established GC riders when setting sustained climbing pace (Yates, Almeida dropped consecutively)",
+    "Switches to personal ambitions when team GC fails or from breakaways (Tour 2020, Paris-Nice 2019)",
+    "Struggles on explosive climbs requiring response to attacks rather than tempo control (Pologne 2022)",
+    "Most effective in final climb scenarios from reduced groups or breakaways"
+  ],
+  "form_trajectory": "negative: 2022 showed concerning weakness being distanced on climbs, contrasts sharply with 2021 Giro dominance where he dropped top GC riders",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "MARTINEZ Daniel",
+  "built_from": [
+    "2019 Paris-Nice Stage 7",
+    "2019 Tour de Romandie Stage 4",
+    "2020 Tour de France Stage 9",
+    "2021 Giro d'Italia Stage 19",
+    "2021 Giro d'Italia Stage 20",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Pologne Stage 7"
+  ]
+}

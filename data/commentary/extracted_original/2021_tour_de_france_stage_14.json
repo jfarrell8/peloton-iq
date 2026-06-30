@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-10",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MOLEMAN Bauke attacked on descent after final categorized climb, soloed to victory by 1+ minute over chasers while Guillaume MARTIN's GC group time loss elevated him to 2nd overall.",
+    "winner": "MOLEMAN Bauke",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education Nippo controlled break tempo to protect Guillaume MARTIN's 5-minute cushion for GC podium advancement.",
+      "MOLEMAN attacked immediately after final KOM summit on descent, exploiting gap psychology when chase believed stage was decided.",
+      "Breakaway required 100+ kilometers to establish due to polkadot jersey battle between QUINTANA and WOODS complicating early dynamics."
+    ],
+    "rider_signals": {
+      "MARTIN Guillaume": "positive: rode breakaway tempo control to leapfrog URAN into 2nd GC, showing EF willing to sacrifice stage win for podium positioning",
+      "WOODS Michael": "positive: crashed mid-stage chasing back yet still contested KOM points aggressively enough to take polkadot jersey lead",
+      "MOLEMAN Bauke": "positive: recognized psychological moment when chasers relaxed post-climb, attacked descent rather than waiting for finale sprint",
+      "URAN Rigoberto": "negative: lost GC podium spot to MARTIN without appearing in break or mounting defense, passive race management"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:30:51.723555+00:00"
+}

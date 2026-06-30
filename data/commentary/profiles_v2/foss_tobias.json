@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not a primary attacker; functions as a support rider who can occasionally step into leadership roles when team leaders falter or on transitional stages where his diesel engine suits steady efforts.",
+  "team_tactics": "Deployed as a protective domestique for GC leaders in high mountains, tasked with pacing and shielding until final climbs. Team relies on him for tempo control rather than explosive attacks.",
+  "terrain_preference": "Steady-gradient climbs and time trials where his non-explosive but consistent power profile can be utilized. Struggles on steep, punchy finales requiring acceleration.",
+  "vulnerability": "Explosive, steep finales in final kilometers of mountain stages where pure climbers attack. Gets dropped on critical GC stages when gradients spike (evidenced by 6km-to-go drop at Paris-Nice).",
+  "key_patterns": [
+    "Functions primarily as mountain domestique for Jumbo-Visma GC leaders, not protected rider himself.",
+    "Can perform above classification in steady-state efforts like TTing despite not being specialist.",
+    "Dropped on steepest sections when elite GC riders accelerate in final kilometers."
+  ],
+  "form_trajectory": "negative: progression from leading GT stages (2021 Giro) to being dropped early on critical climbs (2023 Paris-Nice) suggests declining competitive level",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "FOSS Tobias",
+  "built_from": [
+    "2021 Giro d'Italia Stage 1",
+    "2023 Paris-Nice Stage 7"
+  ]
+}

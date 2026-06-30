@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Primarily a time trial specialist who occasionally exploits TT power with late solo attacks (1km to go on flat stages), using diesel engine to sustain breakaway efforts rather than explosive accelerations.",
+  "team_tactics": "Dual-role domestique executing both chase neutralization and technical leadout duties through dangerous finales. Paces breakaways on flat sections before climbs to build substantial gaps (8+ minutes) for team strategy.",
+  "terrain_preference": "Flat to rolling time trial parcours and technical sprint finales where positional control and sustained power matter. Severely compromised on mountain stages due to 190lb frame carrying excess weight for climbing.",
+  "vulnerability": "Mountain stages expose heavy track specialist physique. Technical TT parcours shows vulnerability to lighter riders with TT skills (beaten by Kämna). Weight-to-power ratio limits GC time trial competitiveness against pure specialists.",
+  "key_patterns": [
+    "Strong ITT performances across multiple Grand Tours, consistently placing 2nd (3 observations)",
+    "Transitioned from pure domestique to breakaway finisher capable of contesting stage wins (2022-2023)",
+    "Elite final kilometer power reserves, nearly holding off sprinters from 1km out (2 observations)",
+    "Track pursuit background provides team TTT success but limits climbing ability (190lb frame)",
+    "Jumbo-Visma move unlocked performance gains not shown at previous team (2021 improvement pattern)",
+    "Executes high-value chaos control: neutralizes attacks then delivers leadouts through technical finales"
+  ],
+  "form_trajectory": "positive: Evolution from ITT domestique (2021-2022) to dual-threat executing breakaway finishes and complex leadout duties under pressure (2023), demonstrating tactical versatility expansion",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "AFFINI Edoardo",
+  "built_from": [
+    "2021 Giro d'Italia Stage 1",
+    "2021 Giro d'Italia Stage 1",
+    "2021 Giro d'Italia Stage 13",
+    "2021 Giro d'Italia Stage 13",
+    "2021 Giro d'Italia Stage 21",
+    "2022 Giro d'Italia Stage 18",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Giro d'Italia Stage 2",
+    "2022 Giro d'Italia Stage 21",
+    "2022 Vuelta a Espana Stage 3",
+    "2023 Paris-Nice Stage 5",
+    "2023 Paris-Nice Stage 5"
+  ]
+}

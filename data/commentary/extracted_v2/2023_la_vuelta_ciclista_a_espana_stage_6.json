@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 6",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-08-31",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KUSS Sepp won from 40-rider breakaway on Alto de Javalambre, MARTINEZ Lenny became youngest GT leader since 1904, EVENEPOEL lost 4+ minutes",
+    "winner": "KUSS Sepp",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma planted three riders (Kuss, Van Baal, Wiebes) in 40-rider break, overwhelming numerical advantage for stage control.",
+      "ROGLIC and VINGEGAARD bridged together from chasing peloton to limit losses, UAE isolation exposed EVENEPOEL on final climb.",
+      "MARTINEZ friction with BARDET despite DSM teamwork suggests young riders prioritize GC over domestique role even mid-breakaway."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: won stage with 26-second margin and gained bonus seconds despite celebrating early, pure climber form exceptional",
+      "MARTINEZ Lenny": "positive: grabbed red jersey at age 20 against team orders, willing to conflict with BARDET shows GC ambition",
+      "EVENEPOEL Remco": "negative: lost 4+ minutes and dropped from 2nd to 9th, couldn't follow ROGLIC/VINGEGAARD bridge despite defending leader jersey",
+      "VINE Jay": "negative: crashed out while battling for breakaway position, illness already compromising his Vuelta before exit",
+      "ROGLIC Primoz": "positive: bridged from peloton with VINGEGAARD despite domestiques already forward, showing diesel climbing strength",
+      "VINGEGAARD Jonas": "positive: aided ROGLIC bridge from chasing group, confirmed climbing form despite Tour de France just six weeks prior"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:50:27.920069+00:00"
+}

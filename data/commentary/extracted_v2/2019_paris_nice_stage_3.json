@@ -1,0 +1,25 @@
+{
+  "label": "2019 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-12",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint on Stage 3 after an easy 34.5km/h first two hours following yesterday's brutal 51km/h average pace.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky exploited intermediate sprint at 39km for bonus seconds with Kwiatkovski/Bernal despite no GC threat imminent.",
+      "Sprint teams neutralized break with 39km remaining despite 5.5min gap, revealing headwind risk calculation threshold.",
+      "Narrow bridge crash at ~35km exposed positioning vulnerability even on flat sprint stages when GC riders caught."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Third career Paris-Nice stage 3 win suggests specific affinity for mid-week positioning after hard opening stages",
+      "GROENEWEGEN Dylan": "negative: Failed to win third consecutive stage despite being favorite, finished only 9th suggesting recovery deficit from 51km/h Stage 2",
+      "ARU Fabio": "negative: Abandoned with nausea and weakness while 17+ minutes down, concerning form collapse for UAE Emirates",
+      "CAVENDISH Mark": "negative: Caught behind narrow bridge crash in closing kilometers indicating persistent positioning problems in modern bunch"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:53:20.151011+00:00"
+}

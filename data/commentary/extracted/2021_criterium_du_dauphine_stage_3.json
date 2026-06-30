@@ -1,0 +1,27 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 3",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COLBRELLI won stage 3 sprint after STUYVEN closed down ARANBURU's late move, while MCNULTY's third-place surge protected PÖSTLBERGER's yellow jersey by shutting down time gaps.",
+    "winner": "COLBRELLI Sonny",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ARANBURU launched Astana sprint too early from left side, allowing COLBRELLI to close and counter-attack successfully.",
+      "MCNULTY sacrificed pure sprint positioning to close time gaps protecting PÖSTLBERGER's 2-second GC lead before TT.",
+      "STUYVEN worked late to shut down breakaway gap despite not being designated PEDERSEN lead-out, fragmenting Trek sprint."
+    ],
+    "rider_signals": {
+      "COLBRELLI Sonny": "positive: fastest sprinter in field across three stages, finally converted superiority when team delivered proper positioning",
+      "MCNULTY Brandon": "positive: outsprinted STUYVEN and KRISTOFF on uphill finish while tactically closing gaps, signals strong TT form",
+      "ARANBURU Alex": "negative: misjudged sprint timing by going too early from left side, caught before line despite initial gap",
+      "PÖSTLBERGER Lukas": "neutral: retained yellow by 2 seconds only because MCNULTY closed gaps, vulnerable in upcoming TT",
+      "KRISTOFF Alexander": "negative: pedaling squares late in sprint with teammate still present, disorganized positioning cost result",
+      "STUYVEN Jasper": "positive: worked to close breakaway despite not being PEDERSEN's leadout, then still finished strong uphill"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:48:13.591185+00:00"
+}

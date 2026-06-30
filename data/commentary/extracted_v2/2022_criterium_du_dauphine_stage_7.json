@@ -1,0 +1,27 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-11",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VERONA Carlos soloed to first-ever WorldTour win from long breakaway while ROGLIČ Primož attacked with 2km remaining at Vaujany to take yellow, catching Verona with 400m left but finishing 2nd.",
+    "winner": "VERONA Carlos",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Trek-Segafredo sacrificed ELISSONDE Kenny with mid-climb acceleration to thin breakaway before summit, revealing aggressive WorldTour breakaway disruption tactics.",
+      "ROGLIČ Primož delayed final attack until 2km/1.5km mark on Vaujany rather than earlier gradients, demonstrating calculated late-acceleration strategy on summit finishes.",
+      "Movistar's VERONA took WorldTour breakthrough at age 29 after career domestique role, showing breakaway specialists often undervalued when liberated from leader support."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: answered knee injury concerns emphatically with furious 2km solo chase, closing 37-second gap to nearly catch Verona at finish",
+      "VINGEGAARD Jonas": "neutral: finished 3rd in GC group but allowed ROGLIČ's late attack without response, suggesting either tactical acceptance or insufficient form",
+      "HAGEN Edvald Boasson": "negative: dropped early despite Trek's aggression setting him up for stage win, indicating disappointing climbing form compared to team expectations",
+      "ELISSONDE Kenny": "positive: launched breakaway-disrupting attack mid-climb for Trek despite appearing dropped, showing tactical sophistication in expendable breakaway sabotage role",
+      "O'CONNOR Ben": "positive: sprinted hard to follow ROGLIČ's acceleration and finished 4th, demonstrating improved response to explosive GC attacks compared to previous races",
+      "HART Tao GEOGHEGAN": "negative: lost 48 seconds to winner in GC group, grimacing throughout final climb, signaling concerning form fade on decisive mountain stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:05:36.608069+00:00"
+}

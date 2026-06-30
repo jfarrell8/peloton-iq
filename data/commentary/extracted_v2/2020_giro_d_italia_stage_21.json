@@ -1,0 +1,25 @@
+{
+  "label": "2020 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-25",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HART Tao Gagan won the 2020 Giro d'Italia by 39 seconds over HINDLEY Jai after overturning a time tie on the final day 15.7km Milan ITT",
+    "winner": "HART Tao Gagan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA Filippo's fourth stage win reveals Ineos used him strategically throughout race, not just as ITT specialist finisher.",
+      "DENNIS Rowan's mountain work paid dividends supporting HART's ITT advantage, showing domestique selection matters for GC ITT finishes.",
+      "Mid-race time check at 10km showing HART up 30 seconds allowed tactical confidence adjustment in final 5.7km."
+    ],
+    "rider_signals": {
+      "HART Tao Gagan": "positive: Started race as domestique, previous best GC was 20th place, yet won—suggests late-race form progression went undetected by rivals",
+      "HINDLEY Jai": "negative: Lost 39 seconds in 15.7km ITT despite being tied on GC shows critical weakness in specialist discipline against polyvalent climbers",
+      "GANNA Filippo": "positive: Four stage wins including both ITTs demonstrates complete domination when Ineos deploys him for stage hunting rather than tempo",
+      "ALMEIDA João": "positive: Moved from fifth to fourth on final stage ITT, revealing stronger chrono ability than GC positioning suggested"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:15:20.866676+00:00"
+}

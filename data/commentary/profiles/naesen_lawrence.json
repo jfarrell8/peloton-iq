@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early aggressor in breakaways on flatter/non-climber stages, willing to commit to long-range moves that ultimately get absorbed before technical or climbing finishes.",
+  "team_tactics": "AG2R uses him opportunistically as first attacker despite not being primary selection, suggesting flexible domestique/breakaway role rather than protected status.",
+  "terrain_preference": "Non-climbing breakaway stages where his classics-style engine can be deployed; exposed on technical finishes and any significant climbing where breakaways get absorbed.",
+  "vulnerability": "Technical finishes and climbing stages where his non-climber profile means breakaway efforts are neutralized in final 20km by GC or specialist teams.",
+  "key_patterns": [
+    "Deployed as early breakaway instigator on non-climbing stages (2 observations)",
+    "Breakaway efforts absorbed with 20km remaining on technical/climbing finishes (2 observations)",
+    "Used as tactical flexibility option rather than protected rider status (2 observations)"
+  ],
+  "form_trajectory": "neutral: Shows willingness to work for team in breakaways but no results indicating breakthrough or decline",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "NAESEN Lawrence",
+  "built_from": [
+    "2022 Giro d'Italia Stage 1",
+    "2022 Giro d'Italia Stage 10"
+  ]
+}

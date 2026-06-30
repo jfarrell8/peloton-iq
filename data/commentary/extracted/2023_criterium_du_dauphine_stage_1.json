@@ -1,0 +1,26 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-04",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe won after VINGEGAARD Jonas led him out in final kilometer to catch solo escapee HAYTER Ethan meters from the line.",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VINGEGAARD Jonas sacrificed GC positioning by leading out LAPORTE Christophe in final kilometer, reversing traditional team hierarchy.",
+      "HAYTER Ethan caught 200m from line despite extended solo effort; hilly sprints require breakaway attacks before 1km-to-go.",
+      "JORGENSON Matteo finished second as pure sprinter despite 9000ft climbing, revealing climbing tolerance matters more than pure power."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: Willing to expend GC energy for team stage wins, showing extraordinary tactical flexibility and team cohesion.",
+      "LAPORTE Christophe": "positive: Absorbed 9000ft climbing in rain then delivered finishing speed, confirming ability to win hard semi-sprint stages.",
+      "HAYTER Ethan": "neutral: Strong enough to survive solo but looked back repeatedly final kilometer, revealing psychological uncertainty under pressure.",
+      "JORGENSON Matteo": "positive: Second place on 9000ft stage signals exceptional climbing ability for sprinter-type, changes Tour stage selection calculus.",
+      "GAUDU David": "neutral: Third at Paris-Nice but unremarkable here; prior form may not translate when VINGEGAARD peaks specifically for objectives."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:58:32.615552+00:00"
+}

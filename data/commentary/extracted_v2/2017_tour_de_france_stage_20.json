@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2017-01-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BODAR Maciej won Stage 20 ITT by 1 second over Kwiatkowski, while FROOME Chris extended GC lead from 23 to 54 seconds to clinch the Tour.",
+    "winner": "BODAR Maciej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FROOME started 2min behind BARDET, used real-time visual gap confirmation to manage effort rather than pure time checks.",
+      "BARDET took excessive cornering risks on early chicanes knowing his TT weakness required offsetting danger with speed.",
+      "LANDA finished 15th in ITT despite domestique duties, positioning 1sec behind BARDET for podium via potential breakaway bonus sprints.",
+      "Team Sky deliberately paced FROOME conservatively on climb section to preserve descending speed rather than maximize climbing watts."
+    ],
+    "rider_signals": {
+      "BARDET Romain": "negative: pedaling through corners and unraveling on climb reveals GC contender cannot defend podium position in decisive ITTs",
+      "LANDA Mikel": "positive: 15th place ITT while riding as domestique shows he conceded podium to team strategy not ability",
+      "FROOME Chris": "positive: rode 'not as hard as he could' on climb per commentary, suggesting Tour winner had significant power reserves",
+      "MATTHEWS Michael": "positive: closed 100-point green jersey deficit in final week, indicating late-Tour form peak pattern"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:06:31.427185+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2021 Giro d'Italia Stage 15",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-23",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KAMPENAERTS Victor won from two-rider sprint after repeated attacks with Riesebeek in final kilometers, dropped chase group after break fragmented on final circuit climb.",
+    "winner": "KAMPENAERTS Victor",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step Alpecin placed three riders in 15-man break, enabling Kampenaerts to attack repeatedly knowing Valter/Visenovsky could sit on.",
+      "Kampenaerts/Riesebeek repeatedly attacked each other solo in final 3km rather than collaborate, suggesting neither trusted sprint ability.",
+      "Peloton conceded 15-man break despite only 147km race and circuit format, revealing GC teams conserving for Stage 16 queen stage."
+    ],
+    "rider_signals": {
+      "BUCHMANN Emanuel": "negative: crashed out from 6th GC on supposedly straightforward stage, exposing Bora's queen stage vulnerability before critical mountain test.",
+      "MOLLEMA Bauke": "negative: placed in 15-man break but couldn't match pace of weaker climbers on short 4th category circuit, chased 7 seconds down.",
+      "KAMPENAERTS Victor": "positive: sustained repeated accelerations in final 3km while Riesebeek faded, showing superior punch despite time trial specialist profile.",
+      "BALLERINI Davide": "neutral: Quick-Step placed him in break despite flat finale approaching, suggesting team prioritized numbers over specialist selection."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:37:47.352234+00:00"
+}

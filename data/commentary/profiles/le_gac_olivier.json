@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Launches late, tactical attacks with positional awareness (right-hand side positioning to maximize survival chances). Timing focused on forcing disorganized chases rather than pure power.",
+  "team_tactics": "Insufficient data to establish clear team pattern. Appears to operate independently in breakaway scenarios based on available observations.",
+  "terrain_preference": "Demonstrates breakaway craft on varied terrain. Vulnerable on narrow technical approaches where positioning errors lead to crashes.",
+  "vulnerability": "Positioning errors under pressure in technical finales with narrow roads. Lost composure when peloton compressed on narrow approach (2018 Tour crash).",
+  "key_patterns": [
+    "Uses late attacks with tactical positioning to survive rather than win outright (2 instances)",
+    "Positioning errors on technical narrow sections under high-speed peloton pressure (crash 2018)",
+    "Prioritizes breakaway survival over stage victory; accepts secondary results with smart timing"
+  ],
+  "form_trajectory": "unknown: 4-year gap between observations makes trajectory assessment unreliable, but 2022 shows tactical maturity",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LE GAC Olivier",
+  "built_from": [
+    "2018 Tour de France Stage 7",
+    "2022 Criterium du Dauphine Stage 2",
+    "2022 Criterium du Dauphine Stage 2"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2018 Giro d'Italia Stage 21",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-27",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the Rome sprint after following VIVIANI's wheel perfectly, capitalizing on Quick-Step's positioning chaos in final 150 meters.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step deployed three leadout men for VIVIANI but spacing errors allowed BENNETT to infiltrate wheel position at 600m mark.",
+      "BENNETT deliberately sat two-off until final 150m instead of traditional leadout sprint, exploiting his superior top-end speed burst.",
+      "FROOME's GC win required reactive rather than front-running tactics throughout, suggesting Sky adapted strategy when leader lacks peak form."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: consistently arrived too late from too far back on other sprint stages, showing positioning skills developed during race",
+      "VIVIANI Elia": "neutral: won points jersey but leadout execution failures in Rome finale exposed vulnerability when Quick-Step spacing collapses",
+      "FROOME Chris": "positive: first British Giro winner rode defensively from behind rather than typical Sky domination, indicating tactical flexibility when underprepared"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:21:25.366134+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MILESI Lorenzo and DSM won the Barcelona TTT starting second of 22 teams, beating MovieStar by 0.5 seconds to fifth rider despite racing in darkness.",
+    "winner": "MILESI Lorenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM started second of 22 teams, 26 seconds faster at 9.6km check, suggesting early tire choice advantage in wet darkness.",
+      "MovieStar lost by 0.5 seconds to fifth rider after MOSS Enrique sprinted first, revealing TTT positioning discipline issues under pressure.",
+      "EVENEPOEL Remco lost 36 seconds to DSM, dramatically more than to ROGLIC/VINGEGAARD, exposing Soudal's wet TTT weakness relative to GC rivals.",
+      "Multiple teams crashed in final two corners before finish, indicating recce quality mattered more than raw power in 17-minute effort."
+    ],
+    "rider_signals": {
+      "MILESI Lorenzo": "positive: took red jersey after DSM's dominant TTT performance, gaining time on all GC contenders in treacherous conditions",
+      "EVENEPOEL Remco": "negative: visibly furious at finish, pointing at darkness, suggesting psychological fragility when conditions deviate from controlled preparation",
+      "MOSS Enrique": "positive: sprinted first across line for MovieStar after Tour de France stage 1 crash recovery, showing strong form return",
+      "BARTA Roman": "neutral: DSM leadership presence noted but no individual tactical signal in TTT format"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:31:03.596538+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2020 Il Lombardia",
+  "race_name": "Il Lombardia",
+  "race_date": "2020-08-15",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob counterattacked BENNETT George near the top of Madonna del Ghisallo with 1km to summit, gapped him on descent to solo 31-second victory.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BENNETT George attacked twice Madonna del Ghisallo final kilometer but checking computer after FUGLSANG counterattack signaled defeat before summit.",
+      "Astana deployed VLASOV Alexander domestique role despite podium form to isolate sole Jumbo-Visma BENNETT before final climb attack.",
+      "FUGLSANG waited for BENNETT's repeated accelerations to fatigue him before single decisive counter 1km from Ghisallo summit created winning gap."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: Acknowledged faster sprint than BENNETT prerace, chose to counter rather than mark, suggesting high confidence in selective climbing power.",
+      "BENNETT George": "negative: Looking down at computer mid-attack before summit revealed psychological collapse; strong enough to attack twice but lacked finishing punch.",
+      "VLASOV Alexander": "positive: Strong enough for 3rd at 51 seconds yet sacrificed result protecting FUGLSANG from chase, signals team player despite individual capability."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:16:51.419424+00:00"
+}

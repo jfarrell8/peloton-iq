@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-20",
+  "stage": 13,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter waited until 350m from the finish to launch past GILBERT Philippe, beating KRISTOFF Alexander at the line with a bike throw for his third stage win.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT Philippe attacked solo when Quick-Step lost sprinter GAVIRIA Fernando, revealing they prioritize stage hunting over leadout discipline.",
+      "SAGAN Peter positioned on KRISTOFF Alexander's wheel with 400m remaining, using rivals' leadouts rather than his own team's work.",
+      "SAGAN Peter launched simultaneously with KRISTOFF Alexander at 300m, suggesting he matches rival sprint timing rather than initiating attacks.",
+      "FDJ provided full leadout for DÉMARE Arnaud despite mountain fatigue, indicating French teams overcommit domestiques even on recovery stages."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: won with deliberate 300m launch after three mountain stages, indicating superior recovery physiology compared to pure sprinters",
+      "KRISTOFF Alexander": "neutral: matched SAGAN Peter's acceleration but lost on bike throw, revealing technical finishing weakness exploitable in future sprints",
+      "GILBERT Philippe": "negative: caught with 350m remaining after solo move, suggesting insufficient power reserve when attacking from outside sprint trains",
+      "DÉMARE Arnaud": "negative: received full FDJ leadout but failed to contest podium, indicating mountain stages degraded sprint speed more than rivals",
+      "THOMAS Geraint": "positive: maintained 1:39 gap over FROOME Chris without effort on transition stage, confirming yellow jersey security heading to Pyrenees"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:34:07.858257+00:00"
+}

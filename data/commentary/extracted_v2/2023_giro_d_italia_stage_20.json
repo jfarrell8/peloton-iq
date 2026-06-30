@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked the 18.6km Monte Lussari mountain TT, overcame mid-climb mechanical, won by 40 seconds to overturn 26-second GC deficit and beat THOMAS by 14 seconds overall",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ started faster than THOMAS on flatter opening section before climb, banking time pre-ascent rather than waiting for steeps",
+      "THOMAS stopped longer at bike exchange changing both bike AND helmet, losing crucial seconds in transition execution",
+      "SEPP KUSS's +2 second intermediate time for teammate ROGLIČ provided critical intel on what advantage was needed at checkpoint"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: recovered 40+ seconds after mid-climb mechanical disaster, showing exceptional mental resilience after 2020 mountain TT GC loss trauma",
+      "THOMAS Geraint": "negative: faded on steep gradients in final kilometers after strong flat/transition sections, suggesting insufficient high-gradient TT specificity preparation",
+      "McNULTY Brandon": "positive: posted strong early benchmark time as stage winner candidate, confirming UAE's mountain TT depth beyond POGACAR",
+      "PINOGIL Thymen": "negative: took virtual lead then suffered mechanical while in hot seat, losing podium contention at worst possible moment",
+      "ALMEIDA João": "neutral: held third at 59 seconds but couldn't threaten top two, securing first Portuguese GT podium since 1970s"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:39:51.352765+00:00"
+}

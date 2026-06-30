@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Does not attack for stage wins; enters breakaways specifically to contest intermediate sprints for bonus seconds. Tactical, opportunistic moves rather than competitive attacks.",
+  "team_tactics": "Sky/Team deploys him as experienced domestique in breakaways with clear bonus-hunting mandate. Sacrifices stage ambitions to harvest marginal GC time gains for team leaders through intermediate sprints.",
+  "terrain_preference": "Suited to flat-to-rolling stages where breakaways can survive to intermediate sprints but will likely be caught. Not a climber or stage hunter; diesel engine for tempo work.",
+  "vulnerability": "Not competitive in actual stage finishes or selective terrain. Value limited to bonus second collection and break representation rather than winning capability.",
+  "key_patterns": [
+    "Consistently targets intermediate sprint bonuses from breakaways across multiple races (3 observations).",
+    "Used as tactical domestique for marginal GC gains, not stage hunting (3 observations).",
+    "Team willing to spend his energy on creative bonus-second strategies (2 observations)."
+  ],
+  "form_trajectory": "neutral: Consistently executing same tactical role across season; performance stable but role unchanged from June to October 2018",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "DOULL Owain",
+  "built_from": [
+    "2018 Tour de Suisse Stage 3",
+    "2018 Tour of Guangxi Stage 3",
+    "2018 Tour of Guangxi Stage 3"
+  ]
+}

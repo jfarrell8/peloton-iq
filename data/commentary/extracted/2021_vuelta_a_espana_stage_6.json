@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from a breakaway that he drove himself, holding off a surging ROGLIC Primoz by meters after 2km climb finish.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIC Primoz targeted time bonuses at 2km steep finish, taking second for GC advantage rather than committing early attack.",
+      "BikeExchange set tempo after missing break despite no GC interest, signaling changed team dynamics without traditional sprint leadout focus.",
+      "Crosswinds on bridge approach shattered ELLISSONDE Kenny's defense before climb even started, exposing lightweight climber vulnerability on flat coastal roads.",
+      "MOVISTAR placed VALVERDE Alejandro for podium finish without chasing own breakaway rider, showing calculated stage-vs-GC resource allocation."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: drove breakaway all day then held off charging ROGLIC on steep 2km finish, exceptional diesel-then-punch combination",
+      "ROGLIČ Primož": "positive: reclaimed red jersey with calculated sprint for second place and time bonuses, avoided premature jersey defense",
+      "ELISSONDE Kenny": "negative: lost red jersey before climb started due to crosswind energy hemorrhage at 114lbs, weight liability on exposed flat coastal roads",
+      "VALVERDE Alejandro": "neutral: close second to ROGLIC on finish climb but MOVISTAR showed they'll prioritize his placement over chasing stages",
+      "MATTHEWS Michael": "negative: BikeExchange setting tempo suggests desperation tactics, MATTHEWS couldn't close final 500m gap after team's flat chase work"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:20:28.234500+00:00"
+}

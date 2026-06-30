@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-17",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won sprint after fighting for ASGREEN Kasper's wheel in final 2km, then punching clear on 12% cobbled ramp finish.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SAGAN physically battled DEHGENCOL for ASGREEN's leadout wheel in final 2km, showing aggression typically avoided by pure sprinters.",
+      "Trek-Segafredo controlled final 2km despite SAGAN's team, suggesting Bora accepted parasitic tactics when leadout matched their needs.",
+      "12% cobbled ramp finale in final 200m punished pure sprinters, rewarding SAGAN's puncheur characteristics over flatland speed."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: two bike changes inside 20km yet still won, indicating mechanical resilience didn't compromise positioning or confidence",
+      "BODNAR Maciej": "positive: paced SAGAN back after second bike change late in stage, demonstrating Bora's domestique depth in flat stages",
+      "VIVIANI Elia": "negative: finished third after SAGAN punched clear on steep ramp, confirming inability to match power-sprinters on gradient finishes",
+      "ASGREEN Kasper": "neutral: provided leadout that both SAGAN and DEHGENCOL fought to follow, validating Trek's leadout train quality"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:02:43.046719+00:00"
+}

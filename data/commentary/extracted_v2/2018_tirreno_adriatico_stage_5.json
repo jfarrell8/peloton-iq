@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-11",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michał won stage 5 after Team Sky controlled multiple climbs, taking race lead from teammate Thomas through bonus seconds at finish",
+    "winner": "KWIATKOWSKI Michał",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Cataldo swept three consecutive KOM climbs while solo, suggesting breakaway riders prioritized points over stage win probability.",
+      "Sky positioned Thomas on wheel of attacks then Kwiatkowski finished, revealing hierarchical sprint leadout even on punchy stages.",
+      "Late Scarponi attack from Astana forced Sky to deploy both GC assets, exposing vulnerability when team has multiple contenders."
+    ],
+    "rider_signals": {
+      "CATALDO Dario": "positive: Won three consecutive KOM sprints solo from break, showing climbing form superseded stage ambitions",
+      "THOMAS Geraint": "neutral: Controlled attacks for teammate but lost race lead via bonus seconds, suggesting Sky prioritized stage over GC",
+      "KWIATKOWSKI Michał": "positive: Finished behind Thomas in team hierarchy but superior sprint took race lead, tactical flexibility rewarded",
+      "SCARPONI Michele": "positive: Late attack forced Sky into defensive riding despite numerical advantage, disrupted their sprint preparation",
+      "BASSO Fabiano": "negative: Three mechanical stops with rear wheel suggests equipment issues or poor team support disrupted rhythm"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:27:44.636558+00:00"
+}

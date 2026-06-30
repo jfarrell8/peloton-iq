@@ -1,0 +1,30 @@
+{
+  "label": "2019 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-12",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HIGUITA Sergio soloed to victory after escaping on the final climb descent while Lopez attacked twice but only Kuss's tempo-setting prevented significant time loss for Roglic",
+    "winner": "HIGUITA Sergio",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana's Fuglsang delivered monster pull before Lopez attack on penultimate climb, revealing coordinated team attack sequence timing.",
+      "Kuss immediately countered Lopez's first attack with tempo control, preventing gap from exceeding 11 seconds despite aggressive Astana tactics.",
+      "Lopez remained only worker in final chase group while Valverde/Roglic/Majka sat on, revealing GC calculation prioritized over stage.",
+      "Higuita exploited descent prowess after breakaway regrouping, attacking exactly when Lopez's second move fractured chase coordination behind."
+    ],
+    "rider_signals": {
+      "KUSS Sepp": "positive: immediately responded to Lopez attack with tempo-setting that capped gap at 11 seconds, showing reliable domestique positioning instinct",
+      "LOPEZ Miguel Angel": "negative: attacked twice aggressively but gained only white jersey position, unable to convert Astana's teamwork into podium threat",
+      "POGACAR Tadej": "negative: dropped on final climb when Lopez attacked second time, lost almost minute suggesting vulnerable state late in three-week race",
+      "HIGUITA Sergio": "positive: demonstrated complete skillset with descent attack after breakaway reformation, exploiting fractured chase dynamics behind",
+      "MAJKA Rafal": "negative: sat in Lopez chase group refusing to work despite being in position to help, revealing selective effort allocation",
+      "QUINTANA Nairo": "negative: dropped with Pogacar group on final climb, lost minute to Roglic/Valverde/Lopez group after gaining time previous day",
+      "HAGEN Carl Frederic": "positive: repeatedly mentioned as revelation finishing with dropped GC group, suggesting Lotto domestique exceeded expectations throughout race",
+      "PERNSTEINER Hermann": "negative: lost 23 minutes previous stage falling from 10th to 17th GC, bridged to break suggesting recovery ride focus"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:20:06.040471+00:00"
+}

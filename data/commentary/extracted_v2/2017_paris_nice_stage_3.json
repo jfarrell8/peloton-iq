@@ -1,0 +1,26 @@
+{
+  "label": "2017 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-07",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 3 sprint after Quickstep's Sabatini pulled off too early, leaving Kittel exposed for 500m",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quickstep's Sabatini leadout pulled off 500m too early, killing Kittel's sprint from wind exposure.",
+      "Bora successfully shielded Bennett through chaotic finale after Katusha appeared to control at 1.5km.",
+      "Pre-race GC favorites heavily fractured by Stage 3: Bardet DQ'd, Porte -15min before decisive mountain stages."
+    ],
+    "rider_signals": {
+      "KITTEL Marcel": "negative: left exposed in wind for 500m after Sabatini's early pull-off, faded badly before line",
+      "ALAPHILIPPE Julian": "positive: best opening days of any GC contender, enters Stage 4 ITT in strong position despite being only decent TTer",
+      "HENAO Sergio": "positive: solid through opening chaos at only -23sec, flagged as new overall favorite despite Sky's typical conservative approach",
+      "PORTE Richie": "negative: already -15min eliminates pre-race favorite before GC stages even begin",
+      "BARDET Romain": "negative: disqualified Stage 1, defending KOM jersey instead of GC contention"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:00:20.405264+00:00"
+}

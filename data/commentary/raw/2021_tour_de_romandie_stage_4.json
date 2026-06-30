@@ -4,85 +4,103 @@
   "race_date": "2021-05-01",
   "stage": 4,
   "video": {
-    "video_id": "8xnF0CW7EaQ",
-    "title": "Tour de France 2021 Stage 4 Highlights | Mark Cavendish Is Back!",
-    "published": "2021-06-29 16:01:24+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=8xnF0CW7EaQ",
-    "match_score": 80.0,
+    "video_id": "pkabx-B_HAQ",
+    "title": "Tour de Romandie 2021 | Stage 4 Highlights | inCycle",
+    "published": "2021-05-02 13:43:01+00:00",
+    "channel": "inCycle",
+    "url": "https://youtube.com/watch?v=pkabx-B_HAQ",
+    "match_score": 135.0,
     "all_candidates": [
       {
-        "video_id": "8xnF0CW7EaQ",
-        "title": "Tour de France 2021 Stage 4 Highlights | Mark Cavendish Is Back!",
-        "channel": "GCN Racing",
-        "published": "2021-06-29 16:01:24+00:00",
+        "video_id": "pkabx-B_HAQ",
+        "title": "Tour de Romandie 2021 | Stage 4 Highlights | inCycle",
+        "published": "2021-05-02 13:43:01+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 135.0
+      },
+      {
+        "video_id": "ZQdUCJ--84o",
+        "title": "Tour de Romandie 2021 - Stage 4 Highlights | Cycling | Eurosport",
+        "published": "2021-05-04 10:00:15+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 120.0
+      },
+      {
+        "video_id": "NCdgsayAGB4",
+        "title": "Tour de Romandie 2021 | Stage 3 Highlights | inCycle",
+        "published": "2021-05-01 14:30:27+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 105.0
+      },
+      {
+        "video_id": "BehS-z5RV88",
+        "title": "Tour de Romandie 2021 | Stage 2 Highlights | inCycle",
+        "published": "2021-04-30 17:00:10+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 95.0
+      },
+      {
+        "video_id": "jsvoD0e2XuQ",
+        "title": "Tour de Romandie 2021 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2021-04-29 17:19:55+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
         "match_score": 80.0
       },
       {
-        "video_id": "3PeuXUd6yHE",
-        "title": "Tour de France 2021 Stage 21 Highlights | Can Cavendish Take The Record On The Champs-Élysées?",
-        "channel": "GCN Racing",
-        "published": "2021-07-18 18:57:54+00:00",
-        "match_score": 40.0
+        "video_id": "AXqnkihrr_k",
+        "title": "Tour de Romandie 2021 | Stage 1 Highlights | inCycle",
+        "published": "2021-04-29 17:00:06+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 80.0
       },
       {
-        "video_id": "_NIaEwGWhWU",
-        "title": "Tour de France 2021 Stage 17 Highlights | GC Battle For The Podium Lights Up On Bastille Day",
-        "channel": "GCN Racing",
-        "published": "2021-07-14 16:30:32+00:00",
-        "match_score": 40.0
+        "video_id": "TbxGdyG5Eic",
+        "title": "Tour de Romandie 2021 | Prologue Highlights | inCycle",
+        "published": "2021-04-28 17:00:10+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 80.0
       },
       {
-        "video_id": "JZk6a1Z7Csk",
-        "title": "Tour de France 2021 Stage 16 Highlights | Rain Soaked Pyrenean Test",
-        "channel": "GCN Racing",
-        "published": "2021-07-13 16:41:29+00:00",
-        "match_score": 40.0
+        "video_id": "LdDR2NSHcAI",
+        "title": "Tour de Romandie 2021 | Stage 5 Highlights | inCycle",
+        "published": "2021-05-03 14:42:27+00:00",
+        "channel": "inCycle",
+        "channel_id": "UCXgba6tOLghtJuXaD8LBHWg",
+        "match_score": 80.0
       },
       {
-        "video_id": "Lou_5_FxJOQ",
-        "title": "Tour de France 2021 Stage 18 Highlights | The Final Mountain Stage Of This Year's Tour!",
-        "channel": "GCN Racing",
-        "published": "2021-07-15 16:33:10+00:00",
-        "match_score": 40.0
+        "video_id": "uB6Ca040_kg",
+        "title": "Tour de Romandie 2021 - Stage 1 Highlights | Cycling | Eurosport",
+        "published": "2021-04-28 17:19:17+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 80.0
       },
       {
-        "video_id": "khNB4kSu1bk",
-        "title": "Tour de France 2021 Stage 19 Highlights | The Breakaway VS Cavendish!",
-        "channel": "GCN Racing",
-        "published": "2021-07-16 16:26:55+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "zUu7ZGf4MpI",
-        "title": "Tour de France 2021 Stage 14 Highlights | Breakaways Aplenty As Potential Podium Spots Up For Grabs",
-        "channel": "GCN Racing",
-        "published": "2021-07-10 16:08:51+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "g_A-6CM_N4g",
-        "title": "Tour de France 2021 Stage 13 Highlights | Can Mark Cavendish Equal Eddy Merckx's Stage Wins Record?",
-        "channel": "GCN Racing",
-        "published": "2021-07-09 16:41:45+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "UFeZ8wwgJpc",
-        "title": "Tour de France 2021 Stage 15 Highlights | Climbers Do Battle In The Pyrenees",
-        "channel": "GCN Racing",
-        "published": "2021-07-11 16:54:14+00:00",
-        "match_score": 40.0
-      },
-      {
-        "video_id": "JDqt96CevYc",
-        "title": "Tour de France 2021 Stage 20 Highlights | Last Chance For A GC Shake Up In Individual Time-Trial",
-        "channel": "GCN Racing",
-        "published": "2021-07-17 17:03:43+00:00",
-        "match_score": 40.0
+        "video_id": "kZ1e81akMBI",
+        "title": "Tour de Romandie 2021 - Stage 3 Highlights | Cycling | Eurosport",
+        "published": "2021-05-04 09:22:57+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 80.0
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 152,
+    "raw_chars": 4768,
+    "clean_chars": 4768,
+    "duration_mins": 5.4,
+    "clean_text": "welcome to a gray and damp day welcome indeed on such conditions as we head towards tian 2000 the 2000 there gives you a secret as to where we're going to be finish in terms of altitude today this is us playing in the valleys leaving shion then heading out on a loop first to the anzai and lance we've already taken those climbs with our breakaway and then a change if you like of lupage and then our finale and it's just about these two climbs that we're going to be dealing with right now and if you look at the way the scribble reveals itself as far as this graphic is concerned you realize you've got plenty of switchbacks so we've just passed the first green dot there about 110 kilometers in here we go last couple of 150 meters and uh there we are it is going to be a 1-2 and he's coming through here he's going to take the king of the mountains jersey oh so it's just a pair up front now with magnus court and the favorite from the breakaway simoni patili in the pink he has a look back tries to look into the eyes of the italian he's just keeping riding to the numbers he's got his power meter on his uh bar here but there's a gap opened up and uh patilli thought about coming out the saddle there to close it and then thought better of it he's still standing and he comes by woods patilli then has got his chance and the intermartial wanted gobert have their chance to take a stage in the world tour for the first time this is absolutely fantastic as a world tour team i should say and he's gone here comes michael woods drifting over and there'll be a few more from the peloton as well and poor old patilla is going to get shredded here oh what a shame coming to join the fun this is absolutely fantastic what a finale we've got i think shelmos may well have an interest as well and this man michael woods is pushing on for glory but who's going to finish in his wake so much has changed in the space of very few kilometers and here comes garand thomas he's got some real paces he comes out of the corner here's your final hairpin 150 meters then you can see the hoarded section still woods on his wheel woods i think he's going to mug him at the end but garrett thomas is looking for time on solaire and all the other rivals woods i think he believes he's got the beating off when it comes to the time trial 300 meters to go so we're not quite where we thought that was the 500 hairpin apologies for that but still another one to be taken rather unkindly for them so they still can't see the finish line they can hear the announcer there's the 200 meter marker it's a uh a nasty left hander kind of a double phase left-hander there it is you can see where the hoardings just disappeared to the left-hand side of the road and here goes woods he's going to step out of the saddle now has he gone too early let's see what garand thomas's response is he doesn't panic settles in stays with him he'll go to the inside and upset the rhythm of the man again he does so and aguero thomas kicks on and try woods comes up alongside him oh and he's down get right thomas at the very last needs to pick himself up and walk it in if he possibly can he might even run this one home oh my goodness just shows you that's how close to the limit they are garand thomas gets on here he can't clip in it's uh he's in the wrong gear essentially connor comes through uh garen thomas will come across the line here and he will get four bonus seconds how dramatic was that oh now the clock starts to count as well g takes a tumble at the very last michael woods then finishes ahead of ben o'connor and garrett thomas is 21 seconds i didn't think it was as wide as that go on thomas um so we will wait to see what the overall classification is for you in just a moment but uh michael woods i think he's in the yellow jersey i thought the gap was narrower to garrett thomas but it's not that's confirmation overall michael woods leads to garrett thomas uh by 11 seconds ben o'connor finished second today's third overall at 21 seconds mark solaire leader before today is 33 seconds in a raise richie porter 36 then comes to mount masdale johannes aguirre and lucas hamilton i think uh the only time i really realized i think i was going to win was about with 100 years to go i felt really confident when i attacked uh six k to go but uh once uh thomas uh bridged across uh that's when i started feeling like i could i could win just because i told him you're gonna beat me in the time trial so that's why i didn't take any pulls in the on the last bit and then 100 years ago he came by me but i knew i had the likes to finish it off and unfortunately it wasn't the way i wanted to take the jersey um having him crash beside me but i'm really really happy to uh to have one today you",
+    "preview_start": "welcome to a gray and damp day welcome indeed on such conditions as we head towards tian 2000 the 2000 there gives you a secret as to where we're going to be finish in terms of altitude today this is us playing in the valleys leaving shion then heading out on a loop first to the anzai and lance we've already taken those climbs with our breakaway and then a change if you like of lupage and then our finale and it's just about these two climbs that we're going to be dealing with right now and if yo",
+    "preview_end": "really confident when i attacked uh six k to go but uh once uh thomas uh bridged across uh that's when i started feeling like i could i could win just because i told him you're gonna beat me in the time trial so that's why i didn't take any pulls in the on the last bit and then 100 years ago he came by me but i knew i had the likes to finish it off and unfortunately it wasn't the way i wanted to take the jersey um having him crash beside me but i'm really really happy to uh to have one today you"
+  },
+  "status": "transcript_saved"
 }

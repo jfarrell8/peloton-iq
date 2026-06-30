@@ -1,0 +1,32 @@
+{
+  "label": "2020 Paris - Nice Stage 6",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-03-13",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENOOT Tiesj attacked with 3km to go after KRAGH ANDERSEN and ARNDT set tempo, winning by 28 seconds while SCHACHMANN crashed in final kilometer but retained yellow.",
+    "winner": "BENOOT Tiesj",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BENOOT used KRAGH ANDERSEN and ARNDT as domestiques in breakaway to launch stage-winning move at 3km remaining.",
+      "Sunweb planted ARNDT in break specifically to wait for KRAGH ANDERSEN, creating numerical advantage for GC ambush.",
+      "EDET collected KOM points methodically to move within 4 points of leader, ignoring intermediate sprint entirely.",
+      "MATTHEWS sprinted for second place to maximize bonus seconds and team placement after BENOOT went clear."
+    ],
+    "rider_signals": {
+      "BENOOT Tiesj": "positive: attacked with 3km remaining and sustained 28-second advantage, exceptional time trial effort in hilly finale",
+      "KRAGH ANDERSEN Søren": "positive: bridged to break specifically to support BENOOT, sacrificed stage win for team GC gain of 50 seconds",
+      "ARNDT Nikias": "positive: infiltrated break early then waited for KRAGH ANDERSEN, perfect domestique execution in breakaway tactics",
+      "SCHACHMANN Maximilian": "negative: crashed in final kilometer due to overcooking corner, lost 40 seconds but retained yellow by 18 seconds",
+      "MATTHEWS Michael": "positive: sprinted for second to secure bonus seconds and moved to fifth overall, strong debut performance with Sunweb",
+      "BARDET Romain": "negative: dropped when KRAGH ANDERSEN arrived in break, unable to hold wheel when tempo increased",
+      "EDET Nicolas": "positive: targeted KOM points exclusively, moved to second in classification just 4 points behind with strategic breakaway placement",
+      "HIGUITA Sergio": "neutral: attacked for intermediate sprint bonuses, moved to 1:05 deficit but tactical aggression yielded minimal gains",
+      "PEDERSEN Mads": "negative: dropped from break on climb despite world champion status, unable to sustain pace with leaders",
+      "KUNG Stefan": "negative: distanced early from strong breakaway, surprising weakness for time trial specialist on rolling terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:30:25.925244+00:00"
+}

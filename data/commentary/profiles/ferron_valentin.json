@@ -1,14 +1,13 @@
 {
-  "attacking_style": "Attacks opportunistically from small breaks by exploiting tactical dynamics rather than pure power. Prefers early moves that capitalize on rivals' marking behavior and hesitation.",
+  "attacking_style": "Opportunistic finisher who capitalizes on hesitation from marked rivals. Attacks in final kilometer from small breakaways when favorites are neutralizing each other.",
   "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
-  "terrain_preference": "Demonstrated success on finishing circuits where tactical positioning and timing trump pure climbing power. Gap finish suggests comfort on rolling/uphill finishes from reduced groups.",
-  "vulnerability": "Likely vulnerable in pure sprint scenarios or against pure climbers on sustained steep gradients, given reliance on tactical opportunism over physiological dominance.",
+  "terrain_preference": "Operates effectively in breakaways where tactical awareness can outweigh raw power. Benefits from scenarios with multiple marked riders.",
+  "vulnerability": "Unknown - single observation shows only strength. Likely vulnerable when isolated without tactical confusion among rivals.",
   "key_patterns": [
-    "Exploits presence of marked riders (sprinters/favorites) to launch counter-moves while rivals hesitate.",
-    "Attacks early from small breaks rather than waiting for traditional sprint scenarios.",
-    "Demonstrates strong race-reading ability to identify tactical paralysis moments among competitors."
+    "Exploits psychological hesitation among more experienced/higher-profile riders in decisive moments",
+    "Precise final kilometer timing when breakaway companions mark each other rather than him"
   ],
-  "form_trajectory": "positive: Won from intelligent tactical play at WorldTour level, suggesting confidence and sharp race intuition in June 2022",
+  "form_trajectory": "unknown: single observation shows intelligent tactical execution but insufficient data for trajectory assessment",
   "races_analysed": 1,
   "confidence": "low",
   "rider_name": "FERRON Valentin",

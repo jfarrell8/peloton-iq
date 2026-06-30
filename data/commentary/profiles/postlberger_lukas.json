@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who attacks from early/surviving breaks in final 5-25km, typically on flat-to-rolling stages rather than mountain summits. Excels at solo efforts with diesel engine pacing, holding off organized chases by narrow margins (11-30 seconds).",
+  "team_tactics": "Minimal team support in attacks — succeeds through individual efforts from breaks. When defending GC positions, relies on teammates (McNulty noted) to close gaps and control pace, but team resources clearly limited for extended defense.",
+  "terrain_preference": "Flat to rolling terrain with technical or lumpy finales. Shows unexpected time trial resilience. Visibly suffers on sustained climbs but can survive short punchy ascents through determination. Exposed on multi-climb mountain stages.",
+  "vulnerability": "Cannot sustain GC defense beyond 4-5 days when facing repeated mountain stages. Fades badly on final climbs of hard stages. Breakaway wins depend on narrow margins suggesting limited power reserve against organized chases.",
+  "key_patterns": [
+    "Wins from early breaks via late-stage solo attacks (5-25km out), not bunch sprints. (3 instances)",
+    "Exceptional determination allows survival over climbs despite visible suffering, extending opportunities. (3 instances)",
+    "Successfully defended yellow jersey for 4 days through minimal margins (1-2 seconds), exceeding expectations. (4 instances)",
+    "Shows strong tactical awareness: timing attacks during peloton chaos, attacking for KOM while in pink. (2 instances)",
+    "Unsustainable intensity: early efforts lead to collapse on subsequent mountain stages. (2 instances)"
+  ],
+  "form_trajectory": "negative: 2021 Dauphiné showed he can exceed expectations briefly (4 days in yellow) but faded badly once accumulated fatigue hit on mountain stages, revealing ceiling for stage race ambitions",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "POSTLBERGER Lukas",
+  "built_from": [
+    "2017 Giro d'Italia Stage 1",
+    "2017 Giro d'Italia Stage 1",
+    "2017 Giro d'Italia Stage 2",
+    "2018 Vuelta a Espana Stage 3",
+    "2019 Tour de France Stage 9",
+    "2021 Criterium du Dauphine Stage 2",
+    "2021 Criterium du Dauphine Stage 2",
+    "2021 Criterium du Dauphine Stage 3",
+    "2021 Criterium du Dauphine Stage 4",
+    "2021 Criterium du Dauphine Stage 5",
+    "2021 Criterium du Dauphine Stage 6"
+  ]
+}

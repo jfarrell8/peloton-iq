@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz caught breakaway leader Magnus Cort in final 75-100 meters on steep uphill finish, gaining 21 seconds on GC rivals through time bonuses and gaps.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar using Erviti to position on Cat 2 climb reveals they're managing Lopez/Mas aggressively unlike previous passive tactics.",
+      "Roglic waited until final 50 meters to go to front, converting minimal energy expenditure into 21-second GC gain.",
+      "Magnus Cort nearly held off peloton despite solo work entire climb, showing steep finishes neutralize chase advantages.",
+      "Mas second on stage but lost 3 seconds to Roglic in final 50m, exposing kick differential on short steep ramps."
+    ],
+    "rider_signals": {
+      "MAS Enrique": "positive: only rider within shouting distance of Roglic on steep finish, clearly second-best GC option for Movistar",
+      "LOPEZ Miguel Angel": "positive: third on stage, Movistar has two viable GC cards with different finish profiles",
+      "ROGLIC Primoz": "positive: gained 21 seconds including bonuses in final 200m after minimal front work, showing superior sprint on steep gradients",
+      "CORT Magnus": "neutral: caught with 75-100m remaining after solo effort, nearly held but lacks kick on steepest gradients",
+      "EIKING Odd Christian": "neutral: retains red jersey at 2+ minutes over Roglic despite offering no resistance on finish climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:00:04.945362+00:00"
+}

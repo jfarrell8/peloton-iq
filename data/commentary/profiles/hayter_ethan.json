@@ -1,27 +1,40 @@
 {
-  "attacking_style": "Launches very early in sprint finishes (400m+) after selective, hilly racing has reduced the bunch. Relies on sustained power rather than explosive acceleration in final 200m.",
-  "team_tactics": "Ineos sets infernal tempo on late climbs/drags to shed pure sprinters, positioning Hayter for reduced bunch sprints. Team commits full resources for 4+ kilometers into finales.",
-  "terrain_preference": "Rolling and lumpy stages with late drags that eliminate pure sprinters but don't require pure climbing ability. Struggles on flat, technical circuits where positioning is critical.",
-  "vulnerability": "Positioning errors in technical finals and crashes on hilly parcours. Cannot respond to late accelerations inside final 400m despite being well-positioned. Disappears when leadout fails.",
+  "attacking_style": "Does not typically initiate attacks; wins from reduced sprints after selective climbing or hard team pace. Rare breakaway attempts occur early and are caught before finale.",
+  "team_tactics": "INEOS delivers him via sustained tempo riding (not leadout trains) to drop pure sprinters while preserving his kick. Kwiatkowski and Sheffield provide final positioning support when available.",
+  "terrain_preference": "Hilly sprints and summit finishes after moderate climbing suit best. Exposed on longest flat stages and steep sustained climbs where 'pedaling squares' observed.",
+  "vulnerability": "Psychological fragility in solo situations (looks back repeatedly under pressure). Stage race fatigue accumulates visibly. Crashes frequently at critical race moments (3 documented incidents).",
   "key_patterns": [
-    "Survives selective hilly finales better than typical sprinters; podiums on lumpy stages (3 observations)",
-    "Launches sprint very early (400m+), vulnerable to late accelerations from fresher legs (2 observations)",
-    "Heavily dependent on Ineos tempo demolition; ineffective without team setup (3 observations)",
-    "Positioning errors costly: crash lost race lead, disappeared when well-positioned for sprint (3 observations)",
-    "Broader stage range than pure sprinter but narrower than true classics rider (4 observations)"
+    "Thrives in reduced sprints after climbs eliminate pure sprinters; multiple podiums in this scenario.",
+    "Team dedicates full resources but execution falters in flat sprint stages versus specialists.",
+    "Crashes or mechanicals at decisive moments repeatedly compromise results (4 separate incidents documented).",
+    "Stage race fatigue manifests visibly: 'pedaling squares' and time losses after sustained racing efforts.",
+    "Psychological uncertainty when isolated: looked back repeatedly despite being solo and strong enough.",
+    "White jersey defense successful but GC threat unclear; maintains position without testing rivals upward."
   ],
-  "form_trajectory": "negative: 2023 Catalunya showed diminished effectiveness — team committed resources but Hayter absent from sprint despite suitable terrain that previously suited him in 2022",
-  "races_analysed": 7,
+  "form_trajectory": "negative: 2023 observations show DNF mechanicals, crashes, team execution failures, and caught-from-breakaway pattern suggesting reduced competitive edge versus 2022 hilly sprint wins",
+  "races_analysed": 16,
   "confidence": "high",
   "rider_name": "HAYTER Ethan",
   "built_from": [
     "2022 Criterium du Dauphine Stage 1",
+    "2022 Criterium du Dauphine Stage 4",
     "2022 Criterium du Dauphine Stage 5",
+    "2022 Criterium du Dauphine Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 4",
+    "2022 Paris-Nice Stage 6",
+    "2022 Tour de Romandie Stage 1",
     "2022 Tour de Romandie Stage 1",
     "2022 Tour de Romandie Stage 2",
     "2022 Tour de Romandie Stage 2",
     "2022 Tour de Romandie Stage 3",
-    "2023 Volta Ciclista a Catalunya Stage 1",
-    "2023 Volta Ciclista a Catalunya Stage 4"
+    "2022 Vuelta a Espana Stage 4",
+    "2022 Vuelta a Espana Stage 5",
+    "2023 Criterium du Dauphine Stage 1",
+    "2023 Criterium du Dauphine Stage 1",
+    "2023 Tour de Romandie Stage 1",
+    "2023 Tour de Romandie Stage 5",
+    "2023 Tour de Romandie Stage 5",
+    "2023 Volta Ciclista a Catalunya Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 7"
   ]
 }

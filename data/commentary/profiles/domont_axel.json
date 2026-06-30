@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Participates in early breakaways on lumpy stage openers, capable of sustaining effort through final climbs to contest reduced sprint finishes.",
+  "team_tactics": "AG2R uses him as breakaway insurance on unpredictable stages while keeping additional options (Latour) for late counterattacks on descents.",
+  "terrain_preference": "Lumpy, rolling stages with multiple climbs that suit strong all-rounders; has the endurance for long breakaway efforts and climbing legs for final ascents.",
+  "vulnerability": "Insufficient data to identify specific weaknesses; single observation shows strength in break finishing but lacks evidence of pure climbing or sprinting limits.",
+  "key_patterns": [
+    "Deployed in early breakaways on stages with unclear outcomes or lumpy profiles",
+    "Strong early-race form allowing sustained efforts through multiple climbs to finale",
+    "AG2R tactical insurance rider when team has multiple cards to play"
+  ],
+  "form_trajectory": "positive: demonstrated strong early-race legs and climbing durability to finish second from break at Dauphiné",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DOMONT Axel",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
+    "2017 Criterium du Dauphine Stage 1"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Launches early, aggressive moves that force immediate peloton reactions, particularly on technical or unpredictable terrain where solo breaks carry genuine threat.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns across different team contexts.",
+  "terrain_preference": "Thrives on courses where breakaways hold intrinsic value (technical parcours, gravel sectors). Less effective on pure sprint stages where break currency is devalued.",
+  "vulnerability": "On straightforward sprint stages, his attacks are neutralized by peloton's willingness to concede large time gaps, indicating limited threat when outcome is predetermined.",
+  "key_patterns": [
+    "Early aggression strategy: initiates moves well before finale (2 observations)",
+    "Break threat credibility varies by course profile: dangerous on technical terrain, neutralized on sprint stages (2 observations)"
+  ],
+  "form_trajectory": "unknown: observations span 3-year gap (2019-2022) with insufficient recent data to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ROSA Diego",
+  "built_from": [
+    "2019 Strade Bianche",
+    "2022 Giro d'Italia Stage 6"
+  ]
+}

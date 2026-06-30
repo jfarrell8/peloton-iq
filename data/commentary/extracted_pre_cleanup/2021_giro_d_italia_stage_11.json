@@ -1,0 +1,32 @@
+{
+  "label": "2021 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-19",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SCHMID Mauro won from early break while BERNAL Egan attacked GC group on final gravel sector, gaining crucial seconds on all rivals except BUCHMANN Emanuel",
+    "winner": "SCHMID Mauro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BERNAL attacked immediately after learning EVENEPOEL isolated, exploiting team weakness not terrain difficulty to create psychological pressure",
+      "INEOS gave early break 15 minutes deliberately on gravel stage, prioritizing GC separation over stage control",
+      "BUCHMANN bridged solo to catch BERNAL group, revealing superior gravel handling among lightweight climbers",
+      "EVENEPOEL's anger at ALMEIDA not dropping back exposed Deceuninck's unclear hierarchy when Plan A fails"
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: attacked immediately upon hearing rival isolated, showing opportunistic race intelligence beyond just physical strength",
+      "EVENEPOEL Remco": "negative: lost 2:08 when isolated, pulled earpiece in frustration at team, lacks self-sufficiency on technical terrain",
+      "BUCHMANN Emanuel": "positive: bridged to BERNAL solo then limited losses to 3 seconds, exceptional gravel performance for pure climber",
+      "VLASOV Aleksandr": "negative: conceded 23 seconds to BERNAL despite staying in main group, cannot match Colombian's acceleration",
+      "CARTHY Hugh": "negative: lost 32 seconds to BERNAL while in same group, faded badly on final gravel climb",
+      "GANNA Filippo": "neutral: overcooked corner while pacing BERNAL on first sector, domestique role limits but positioning suggests trust",
+      "FORMOLO Davide": "negative: dropped before second gravel sector, Italian experience on home roads didn't translate to survival",
+      "MARTIN Dan": "negative: dropped before second gravel sector alongside FORMOLO, suggests team protected wrong rider",
+      "NIBALI Vincenzo": "negative: dropped by BUCHMANN's acceleration with 5km remaining, age showing on technical finishes",
+      "CICCONE Giulio": "negative: lost contact with main GC group before finish, cannot sustain pace on extended gravel"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:50:40.024194+00:00"
+}

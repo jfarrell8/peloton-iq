@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-06",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GENIEZ Alexandre won the intermediate sprint ahead of VAN BAARLE Dylan in a breakaway reshuffle during crosswinds on Stage 12.",
+    "winner": "GENIEZ Alexandre",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "HERRADA Jesús strategically soft-pedaled at front being only 5:45 GC down, forcing others to chase while conserving energy.",
+      "Breakaway reformation in crosswinds favored heavier riders like VAN BAARLE Dylan who bridged aggressively before sprint finish.",
+      "YATES Simon personally pulled at GC group front when no teammates worked, revealing Mitchelton leadership burden despite red jersey."
+    ],
+    "rider_signals": {
+      "YATES Simon": "neutral: forced to pull personally at front of GC group when no other teams controlled gap",
+      "HERRADA Jesús": "positive: tactically savvy to ride front softly being nearest GC threat from break at 5:45 deficit",
+      "GENIEZ Alexandre": "positive: timed sprint perfectly to hold off stronger sprinter VAN BAARLE after breakaway reformation",
+      "VAN BAARLE Dylan": "positive: bridged aggressively to breakaway in crosswinds but mistimed final sprint despite superior speed",
+      "VALVERDE Alejandro": "neutral: actively hunting intermediate sprint points in green jersey despite stage not suiting him"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T21:46:47.400471+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2017 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-26",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE won from 21-rider breakaway at Xorret de Catí, patiently wearing down MAJKA before sprinting; FROOME attacked mid-climb gaining 15s on rivals except CONTADOR.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA positioned MAJKA in 21-rider break for steep finish (20% sectors) but failed when outmaneuvered tactically by ALAPHILIPPE.",
+      "FROOME attacked mid-climb on Xorret de Catí, gaining time on all GC rivals except CONTADOR who clawed back on descent.",
+      "OLIVEIRA secured virtual red jersey by infiltrating break at km 67 when 5min clear, showing Movistar's preventative tactics.",
+      "CONTADOR's descent attack in final 2km recovered FROOME's mid-climb gap, exploiting technical skills over climbing deficit."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: Patiently countered MAJKA's repeated attacks before outsprinting him, showing tactical maturity beyond pure punching power on 20% slopes.",
+      "FROOME Chris": "positive: Mid-climb attack isolated all GC rivals except CONTADOR, extending overall lead to 28 seconds despite late concession.",
+      "CONTADOR Alberto": "positive: Only GC contender to match FROOME, using descending prowess to nullify climbing gap in final 2km after difficult early Vuelta.",
+      "MAJKA Rafał": "negative: Despite BORA's teamwork to deliver him on steep finish, tactically outmaneuvered by ALAPHILIPPE who neutralized repeated attacks.",
+      "OLIVEIRA Nelson": "positive: Infiltrated 21-rider break to virtually take red jersey, demonstrating Movistar's strategic jersey hunting beyond GC focus."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:19:48.700707+00:00"
+}

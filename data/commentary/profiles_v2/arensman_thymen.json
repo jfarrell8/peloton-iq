@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic from breakaways rather than direct GC attacks. Shows willingness to contest stage wins from reduced groups when freed from team duties, but lacks punch to sustain multi-day GC bids.",
+  "team_tactics": "Deployed primarily as high-altitude domestique for INEOS leaders (Thomas), pacing on climbs before being released. Team utilizes his climbing strength in support role rather than as protected GC option.",
+  "terrain_preference": "High-mountain stages where sustained tempo work is required. Benefits from reduced gruppo when allowed to follow wheels rather than set pace. Struggles with repeated explosive accelerations over multiple days.",
+  "vulnerability": "Cannot recover between consecutive mountain stages—drops significantly from GC contention after expending energy on stage wins. Lacks durability for three-week GC campaigns despite individual climbing quality.",
+  "key_patterns": [
+    "Consistently used as mountain domestique for INEOS leaders before personal result (3 observations)",
+    "Moves into top-10 GC via support work, not attacks—surplus strength pattern (2 observations)",
+    "Severe performance drop after peak efforts; 5-minute loss post stage win (2 observations)",
+    "Grand Tour participation disrupted by crashes/abandons, limiting sustained progress (2 observations)"
+  ],
+  "form_trajectory": "neutral: Strong climbing engine evident in 2023 Giro support role, but Vuelta crash prevents assessment of improvement in multi-day resilience issues seen in 2022",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "ARENSMAN Thymen",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 17",
+    "2023 Giro d'Italia Stage 19",
+    "2023 Giro dItalia Stage 19",
+    "2023 La Vuelta Ciclista a Espana Stage 7"
+  ]
+}

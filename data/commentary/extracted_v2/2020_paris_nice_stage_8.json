@@ -1,0 +1,27 @@
+{
+  "label": "2020 Paris - Nice Stage 8",
+  "race_name": "Paris - Nice",
+  "race_date": "2020-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERS Nans won from 13-rider early breakaway given 7+ minutes, while BARDET Roman attacked final climb to claw back 13 seconds lost from earlier crash.",
+    "winner": "PETERS Nans",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MORKOV attacking intermediate sprint despite upcoming mountains positioned him ahead of potential breakaway splits—preemptive gap-bridging before splits materialize.",
+      "BARDET Roman's crash-recovery then final climb attack suggests AG2R prioritized regaining GC time over stage win despite teammate PETERS leading breakaway.",
+      "Breakaway gained 7:25 in first 2 miles with KOM leader COSNEFROY and GC-positioned DEIGNAN included—peloton conceded stage unusually early.",
+      "YATES Adam forced to chase BARDET personally on final climb rather than rely on teammates, revealing Mitchelton weakness in mountain domestique support."
+    ],
+    "rider_signals": {
+      "BARDET Roman": "positive: crashed with elbow injury on penultimate climb, then attacked final climb recovering all 13 seconds lost—exceptional recovery resilience under adversity.",
+      "POWLESS Neilson": "positive: 5th place finish extends strong breakaway positioning after yesterday's time loss, demonstrating intentional aggressive recovery tactics rather than defensive GC riding.",
+      "DEIGNAN Philip": "neutral: included in 13-man breakaway as best-placed GC rider but finished 4th, suggesting breakaway was tactical positioning not genuine stage hunt.",
+      "YATES Adam": "negative: required personal chase of BARDET rather than team control on final climb, exposing thin mountain support despite holding yellow jersey.",
+      "COSNEFROY Benoit": "positive: KOM leader positioned in stage-winning breakaway targeting 40 available points—proactive jersey defense rather than reactive marking."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:19:34.007805+00:00"
+}

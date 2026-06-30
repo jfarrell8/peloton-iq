@@ -1,0 +1,31 @@
+{
+  "attacking_style": "Breakaway specialist who attacks from early moves, particularly on final climbs to drop sprinters or secure KOM points. Lacks explosive punch for late accelerations but compensates with solo endurance.",
+  "team_tactics": "Functions both as opportunist in breakaways and as domestique policing moves for team defense. Transfer to Astana (2018) appeared to grant greater tactical freedom for personal results.",
+  "terrain_preference": "Medium mountain stages with final climbs that allow attrition over explosive power. Excels in breakaways on terrain too hard for sprinters but not steep enough for pure climbers. Exposed on punchy accelerations.",
+  "vulnerability": "Insufficient explosive punch when caught by late accelerations (dropped by second attacks). Poor breakaway negotiation skills shown in Basque Country argument. Underlying form fragility evidenced by mid-race abandonment despite prior success.",
+  "key_patterns": [
+    "Prioritizes KOM jersey defense over stage wins when in breakaways (2 observations)",
+    "Attacks on final climbs from breakaways rather than waiting for sprint (3 observations)",
+    "Dropped by second or explosive accelerations, lacks repeated punch (2 observations)",
+    "Form fragility: abandoned Vuelta mid-stage despite winning two mountain classifications prior",
+    "Tactical awareness varies: strong jersey management but poor breakaway negotiation with companions"
+  ],
+  "form_trajectory": "neutral: Last observation (2021) shows domestique role policing breaks rather than personal ambitions, suggesting career shift from 2017-2018 when winning from breaks",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "FRAILE Omar",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 12",
+    "2017 Giro d'Italia Stage 12",
+    "2017 Vuelta a Espana Stage 12",
+    "2017 Vuelta a Espana Stage 13",
+    "2017 Vuelta a Espana Stage 13",
+    "2018 Itzulia Basque Country Stage 5",
+    "2018 Itzulia Basque Country Stage 5",
+    "2018 Tour de France Stage 14",
+    "2018 Tour de France Stage 14",
+    "2021 La Fleche Wallonne"
+  ]
+}

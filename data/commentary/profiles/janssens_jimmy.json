@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Shows early ambition by attacking first from breakaways, but lacks finishing power to convert. More effective as control rider than stage hunter.",
+  "team_tactics": "Deployed as flat-stage control rider for Alpecin, tasked with break neutralization rather than personal results. Reliable domestique work over extended distances.",
+  "terrain_preference": "Flat and rolling stages where tempo control matters. Exposed on extended climbs where coalition management and finishing power become critical.",
+  "vulnerability": "Finishing power deficit in sprint situations and inability to sustain efforts on prolonged climbs. Coalition management issues when forced to negotiate with break companions.",
+  "key_patterns": [
+    "Multiple break neutralization efforts across Vuelta, establishing flat-stage control specialist role",
+    "Attacks early from breaks showing ambition but cannot finish the effort",
+    "Work rate disputes in breakaways on climbs suggest struggles with extended climbing efforts"
+  ],
+  "form_trajectory": "neutral: Transitioned from break participation role in 2022 to more defined team control function in 2023, but no finishing improvement shown",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "JANSSENS Jimmy",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 9",
+    "2023 Vuelta a Espana Stage 12"
+  ]
+}

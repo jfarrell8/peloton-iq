@@ -1,0 +1,22 @@
+{
+  "label": "2021 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-12",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João won the 25.4km time trial to take race lead, but CATANIO (not in roster) set best intermediate split before fading on final section.",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "ALMEIDA João closed 8.6-second deficit from intermediate split to finish, revealing superior pacing strategy on second half of course.",
+      "Non-time trial specialists like HERSHEY Mark lost disproportionately more time in second half, suggesting technical course favored diesel engines over pure power."
+    ],
+    "rider_signals": {
+      "ALMEIDA João": "positive: Erased intermediate time deficit on technical second half, demonstrating superior pacing discipline over pure chronomen",
+      "DE LA CRUZ David": "positive: Fourth overall with top-5 TT finish reveals GC threat beyond mountain support role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:12:19.830662+00:00"
+}

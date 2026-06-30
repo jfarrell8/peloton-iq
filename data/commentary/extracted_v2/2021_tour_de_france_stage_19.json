@@ -1,0 +1,23 @@
+{
+  "label": "2021 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-16",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MOHORIČ won solo after successful breakaway on flat stage, while CAVENDISH finished second failing to break MERCKX's stage win record before Paris.",
+    "winner": "MOHORIČ Matej",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "POGAČAR acted as race patron, neutralizing KWIATKOWSKI's attack while teammates caught back after early crash showing dominance.",
+      "MOHORIČ won solo twice in same Tour from breakaways, rare for non-specialists to succeed individually on road stages."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "negative: second place finish despite favoring sprint stage suggests declining top-end speed or positioning issues",
+      "POGAČAR Tadej": "positive: controlled peloton neutralizations after crashes reveals commanding tactical authority beyond just climbing strength",
+      "KWIATKOWSKI Michał": "negative: opportunistic attack during crash-caused gap rejected by peloton under POGAČAR's direction"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:52:10.016138+00:00"
+}

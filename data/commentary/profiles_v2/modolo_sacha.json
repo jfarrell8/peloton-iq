@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter who does not attack but excels in disorganized, chaotic finales where traditional leadout trains break down. Finds gaps in messy situations within final kilometer.",
+  "team_tactics": "Team commits domestiques to protect positioning, but lacks elite leadout power to deliver in organized sprints. Relies on rider's individual ability to navigate chaos rather than structured train.",
+  "terrain_preference": "Reduced bunch sprints and courses with technical finales (roundabouts, tight corners) that fragment leadout organization. Struggles when pure sprint teams control cleanly.",
+  "vulnerability": "Clean, organized sprints where teams with powerful leadout trains can execute. Lacks the final punch to compete when elite sprint teams control the finale perfectly.",
+  "key_patterns": [
+    "Won both Tour de Pologne stages from chaotic/reduced sprints, 2017 and 2021",
+    "Succeeds after long victory droughts when expectations low, peaking unexpectedly as veteran",
+    "Exploits disorganized finales: roundabouts destroying leadouts, half-hearted team cooperation in chase",
+    "Team protection present but leadout firepower consistently insufficient for clean sprint execution"
+  ],
+  "form_trajectory": "positive: 2021 win after long drought suggests ability to peak unexpectedly as veteran, though opportunities remain selective",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MODOLO Sacha",
+  "built_from": [
+    "2017 Tour de Pologne Stage 2",
+    "2017 Tour de Pologne Stage 2",
+    "2018 Giro d'Italia Stage 13",
+    "2021 Tour de Pologne Stage 3",
+    "2021 Tour de Pologne Stage 3"
+  ]
+}

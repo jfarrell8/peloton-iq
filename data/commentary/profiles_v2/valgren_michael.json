@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Capable of extremely long-range solo attacks (48km) with sustained power, but also patient finisher from reduced groups, striking in final 300m when positioned correctly.",
+  "team_tactics": "Astana leverages numerical advantage to control small elite groups through passive presence rather than aggressive pacing, forcing rival hesitation while Valgren conserves energy.",
+  "terrain_preference": "Cobbled classics with multiple climbs suit his rare endurance/power combination best; less dependent on traditional puncheur finishes like Cauberg, thrives on varied/unpredictable parcours.",
+  "vulnerability": "Limited observations suggest reliance on either breakaway situations or team numerical advantage; unclear how he performs when isolated in pure sprint scenarios from larger groups.",
+  "key_patterns": [
+    "Won from both extreme long-range solo (48km) and late tactical strike (300m), showing dual threat capability.",
+    "Team numerical superiority creates tactical paralysis among rivals, enabling calculated patience rather than forced aggression.",
+    "Breakthrough classics results (Omloop, Amstel wins) demonstrate sustained elite form across cobbles and hilly one-day races.",
+    "Strong support role in stage races (Tour top-5 while working) indicates versatility beyond pure classics specialization."
+  ],
+  "form_trajectory": "positive: Two major classics wins (Omloop, Amstel) early 2018 followed by strong Tour support role suggests breakthrough season with sustained form across race types",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "VALGREN Michael",
+  "built_from": [
+    "2018 Amstel Gold Race",
+    "2018 Amstel Gold Race",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Omloop Het Nieuwsblad",
+    "2018 Tour de France Stage 15"
+  ]
+}

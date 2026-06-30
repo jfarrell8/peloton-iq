@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2018-08-07",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michal timed his effort perfectly in final 300m after CARAPAZ Richard burned out from 700m attack on steep finish",
+    "winner": "KWIATKOWSKI Michal",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Carapaz attacked from 700m out on steep finish but gradient cashed him out before 300m, showing premature timing.",
+      "Kwiatkowski conserved energy while Quick-Step Plus controlled behind Carapaz, launching only at 300m to exploit early attacker's fade.",
+      "Sky positioned Kwiatkowski on wheels of other contenders rather than leadout, relying on uphill sprint power over train.",
+      "BMC De Marchi and Teuns defended but never countered Carapaz despite being marked threats, purely reactive approach failed."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "negative: Giro stage winner mistimed steep finish badly, going 700m too early and getting swallowed before final 300m",
+      "KWIATKOWSKI Michal": "positive: Showed elite positioning discipline and uphill sprint power, waiting until 300m on very steep gradient",
+      "TEUNS Dylan": "negative: Defending champion sat on Carapaz wheel passively, made no counter-effort despite favorable position",
+      "DE PLUS Laurens": "neutral: Quick-Step controlled chase effectively but De Plus couldn't finish despite being well-positioned"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:33:37.229220+00:00"
+}

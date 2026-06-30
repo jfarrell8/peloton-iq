@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2018-06-06",
   "stage": 3,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "Kp7ZFNSHxKM",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=Kp7ZFNSHxKM",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 79,
+    "raw_chars": 2766,
+    "clean_chars": 2734,
+    "duration_mins": 3.6,
+    "clean_text": "team time trial day for the kid am doo doo Feeny the first since 2015 35 kilometres between Bonneville and Lou Walsh a terminal on mostly pan flat terrain here's the program for stage 3 the Sun webs teams the first to hit the road for this time trial but the Germans aren't the pace setters today the first reference timed will come from lotto jumbo the Dutch are in the lead after the first two intermediate points it's ag2r La Monte Al's turn now this stage is key for Roman body but the team only has six riders after Villar moles dropped out a bit of a disadvantage from the start in the meantime lotto jumbo wrapped it up in 38 minutes five seconds the best provisional time Bahrain Morita are the next to finish not so good for Italian Nibali who'll end up losing two minutes in this stage things are looking good for ag2r the French team takes the lead at the second intermediate points line at the same moment firm favorite sky or on the start ramp all the big teams are now on the road the great battle is underway quick step then BMC take the lead at point one but sky soon smashes their time nine seconds ahead of the yellow jerseys mitchelton Scott team ag2r scored the best time but before the top contenders ran and bodies teammates were left behind again sky stole a show the Brits are true suspense killers 22 seconds head of BMC at point two then 37 at the finish line what a demonstration from Team Sky the Team Sky Armada strikes again the Brits had placed three of their riders in the prologue top nine so unsurprisingly this time trial was a breeze a stage win and sweet revenge for Michelle Viet cough ski stripped of his yellow jersey on Wednesday the Polish rider is now back in the overall lead technically we just wrote a tactically perfect race we use all the guys throughout you know entire entire course and this 35 kilometers were really demanding all the time changing breeds men the speed and I'm so happy you know prologue showed us showed that you know we beyond the paper probably the strongest but it's a different thing to be out there and perform well so I'm so happy we could we could do it completing the stage in under 37 minutes sky one with a comfortable margin three others are less than a minute behind BMC motto su Dow and mitchelton Scott an ag2r didn't do so badly seventh place at 1:29 in the overall team sky of course grab the top spots cough ski leads Muskaan castro via KO and team leader geraint thomas remember a folds to 152 behind nebari to 228 Thursday's stage moves up to the mountains with riders finishing in Las Navas car more than 1400 meters up after passing the Col du Manoir this editions first HC climb a very different landscape after stage threes flat burgundy Road",
+    "preview_start": "team time trial day for the kid am doo doo Feeny the first since 2015 35 kilometres between Bonneville and Lou Walsh a terminal on mostly pan flat terrain here's the program for stage 3 the Sun webs teams the first to hit the road for this time trial but the Germans aren't the pace setters today the first reference timed will come from lotto jumbo the Dutch are in the lead after the first two intermediate points it's ag2r La Monte Al's turn now this stage is key for Roman body but the team only ",
+    "preview_end": "minute behind BMC motto su Dow and mitchelton Scott an ag2r didn't do so badly seventh place at 1:29 in the overall team sky of course grab the top spots cough ski leads Muskaan castro via KO and team leader geraint thomas remember a folds to 152 behind nebari to 228 Thursday's stage moves up to the mountains with riders finishing in Las Navas car more than 1400 meters up after passing the Col du Manoir this editions first HC climb a very different landscape after stage threes flat burgundy Road"
+  },
+  "status": "transcript_saved"
 }

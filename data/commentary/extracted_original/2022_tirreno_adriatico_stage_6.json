@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-12",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked on Monte Carpegna climb lap 2, dropped everyone, won solo by nearly 4 minutes despite sketchy descent moments",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR isolated early when teammates exhausted before final climb, still attacked solo with overwhelming superiority showing depth mismatch.",
+      "VINGEGAARD chastised LANDER for breaking attacks earlier, revealing UAE's rivals lacked cohesion to coordinate sustained pressure on leader.",
+      "SIMMONS in green waited to pace CICCONE showing breakaway riders prioritizing team objectives over individual KOM consolidation opportunities."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: attacked isolated without teammates on final Carpegna ascent and extended 4-minute gap despite descent handling issues",
+      "EVENEPOEL Remco": "negative: lost 3:35 on final climb wearing maglia ciclamino, brutalized on mountains revealing early-season climbing deficit",
+      "LANDA Mikel": "positive: stronger than recent form, led descent aggressively and sprinted for second though 4 minutes down",
+      "VINGEGAARD Jonas": "neutral: criticized LANDA mid-race for attack disruption but lacked firepower to exploit Pogacar's isolation",
+      "PORT Richie": "negative: lost vital seconds hanging leg on descent, dropped to 4th overall by 11 seconds with limited TT opportunity remaining"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:49:19.893817+00:00"
+}

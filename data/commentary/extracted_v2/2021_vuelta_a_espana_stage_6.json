@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT Nielsen soloed from breakaway up final 2km climb at Cuyera, held off charging ROGLIC by meters despite driving break all day.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bike Exchange paced peloton after missing break—rare tactical shift suggesting Matthews targeted stage win not GC defense.",
+      "Movistar putting eight riders front after crosswinds signals renewed stage-hunting aggression unlike passive 2020 Vuelta approach.",
+      "VAN BAARLE drove crosswinds on bridge approach pre-climb, isolating lightweight ELLISON before climb even started at 114lbs."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: drove breakaway entire day then still had power reserve to beat ROGLIC's sprint on 2km climb",
+      "ROGLIC Primoz": "positive: took back red jersey with second place, clearly superior to GC rivals on short steep finish",
+      "ELLISON Kenny": "negative: lost red jersey before climb started, destroyed by flat crosswinds at 114lbs despite climbing strength",
+      "MATTHEWS Michael": "neutral: chased hard for stage but BikeExchange's unusual pace-setting strategy backfired when he couldn't close gap",
+      "VAN BAARLE Dylan": "positive: tactically savvy crosswind attack on bridge isolated ELLISON, showing residual Sky/Ineos tactics knowledge"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:02:53.592846+00:00"
+}

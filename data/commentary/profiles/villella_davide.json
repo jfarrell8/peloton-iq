@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Lacks the explosive power for decisive late-race attacks; tends to lead into finales but fades in the final steep gradient kicks or sustained high-intensity efforts.",
+  "team_tactics": "Teams have deployed him in frontline pacing roles, but poor calibration of effort distribution leaves him depleted for critical final phases of climbs or breakaways.",
+  "terrain_preference": "Struggles on variable gradient punchy climbs and sustained breakaway scenarios requiring repeated high-intensity efforts; no clear terrain strength evident from observations.",
+  "vulnerability": "Exposed when racing requires sustained horsepower in breakaways or explosive finishing power on steep gradient kicks in final 100-200m.",
+  "key_patterns": [
+    "Fades badly in final phases after leading/pacing earlier, indicating poor power reserve management (2 instances)",
+    "Dropped from breakaways before critical climbs despite team support, lacking sustained racing power (2 instances)",
+    "Teams misjudge his pacing capabilities on variable/steep gradients leading to premature depletion (2 instances)"
+  ],
+  "form_trajectory": "negative: Consistent pattern of lacking horsepower across 2019-2022 observations, unable to sustain breakaway or finale efforts",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VILLELLA Davide",
+  "built_from": [
+    "2019 Tour de Romandie Stage 3",
+    "2019 Tour de Romandie Stage 3",
+    "2022 Giro d'Italia Stage 7"
+  ]
+}

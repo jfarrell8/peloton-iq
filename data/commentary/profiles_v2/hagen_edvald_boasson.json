@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic sprinter/finisher who targets stage wins from breakaways or reduced bunch finishes, engaging in final kilometers rather than long-range attacks.",
+  "team_tactics": "Teams commit multiple domestiques to aggressive daily stage hunting, positioning him for late-race opportunities with significant resource investment and high tempo setting.",
+  "terrain_preference": "Best suited to flatter finishes or controlled stages where late positioning matters; exposed on mountainous terrain where climbing limitations become apparent early in stages.",
+  "vulnerability": "Poor climbing form causes early drops on mountain stages despite team setup; struggles to convert when in winning position inside final meters, showing finishing weaknesses.",
+  "key_patterns": [
+    "Teams deploy aggressive stage-hunting tactics with him as designated finisher (2 observations)",
+    "Fails to convert winning opportunities despite favorable positioning and team support (2 observations)",
+    "Dropped early on climbs when form insufficient, exposing climbing limitations (2 observations)",
+    "Requires significant team investment but shows inconsistent results delivery across stage types (2 observations)"
+  ],
+  "form_trajectory": "negative: most recent 2022 observation shows disappointing climbing form with early drops despite team expectations and setup",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HAGEN Edvald Boasson",
+  "built_from": [
+    "2019 Tour de France Stage 21",
+    "2022 Criterium du Dauphine Stage 7"
+  ]
+}

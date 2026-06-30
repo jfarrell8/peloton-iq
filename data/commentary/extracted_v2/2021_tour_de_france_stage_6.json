@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-01",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won sprint at Chateauroux, under psychological pressure to execute perfectly in every remaining sprint stage to reach Merckx's record.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AVERMAET burned in early breakaway day before ideal terrain suggests team pressure overriding rider judgment on conservation",
+      "MATTHEWS Michael positioned as green jersey threat by surviving intermediate climbs where Cavendish drops, not pure sprint speed",
+      "AG2R running seven-crash deficit forces opportunistic rather than selective breakaway participation, revealing first-week crash cascades"
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "negative: Commentary emphasizes crash risk from over-pushing, suggesting visible tension in positioning that could cause self-sabotage",
+      "POGACAR Tadej": "positive: Eight seconds back allows UAE to avoid yellow jersey defensive work while staying within striking range",
+      "VAN AVERMAET Greg": "negative: Burned legs in breakaway 90 miles despite Stage 7 suiting him better, indicating poor team coordination",
+      "MATTHEWS Michael": "positive: Identified as primary green jersey threat via late-race climbing ability to steal points when Cavendish eliminated",
+      "SHELLING Ide": "positive: Continues KOM hunting without team pressure from Sagan leadership duties, sustainable breakaway strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:53:38.071954+00:00"
+}

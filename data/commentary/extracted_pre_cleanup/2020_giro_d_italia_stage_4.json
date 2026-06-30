@@ -1,0 +1,27 @@
+{
+  "label": "2020 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-06",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DÉMARE Arnaud won after KEISSE Iljo executed Tour de France-style leadout for Deceuninck-Quick-Step with 1km positioning advantage over rivals",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KEISSE Iljo replicated Tour de France leadout positioning for DÉMARE with 1km organization while rivals messy.",
+      "ULISSI Diego aggressively defended first intermediate sprint against SAGAN Peter, yielding only one point at 70km.",
+      "GAVIRIA Fernando, VIVIANI Elia, HODEG Álvaro José all dropped pre-summit 6-7km before climb top, exposing positioning weakness."
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: Won from superior team organization rather than pure speed, benefiting from KEISSE's Tour-proven positioning",
+      "KEISSE Iljo": "positive: Executed high-value leadout work at 1km mark that neutralized SAGAN's early launch",
+      "SAGAN Peter": "negative: Launched first in final kilometer but poor positioning meant effort wasted against organized train",
+      "ULISSI Diego": "positive: Actively defended Maglia Ciclamino at intermediate sprint 70km out, showing willingness to contest small margins",
+      "GAVIRIA Fernando": "negative: Dropped 6-7km before summit on moderate climb, revealing insufficient positioning or climbing for mixed stages",
+      "VIVIANI Elia": "negative: Dropped on climb but regained contact on descent, indicating tactical positioning failure rather than form issue"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:26:41.560393+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "attacking_style": "Launches attacks in final 1-2km on small rises or final kilometer of climbs, but repeatedly cracks when countered or lacks finishing punch to sustain efforts through the line.",
+  "team_tactics": "Primary role is tempo-setting domestique for team leaders (Roglič), deployed to control climbs early and police breakaway threats rather than personal ambitions. Team relies on his pacing but doesn't protect his positioning late.",
+  "terrain_preference": "Short punchy climbs where he can set tempo or launch late attacks (Madonna del Ghisallo, Mont Brouilly). Struggles on technical descents at speed and when altitude/sustained power is required.",
+  "vulnerability": "Exposed on high-speed technical descents (crashed twice at Tour 2019, Vuelta crash). Psychological fragility when countered—checks computer mid-effort, immediately cracks when attacked. Poor late-race positioning despite domestique work.",
+  "key_patterns": [
+    "Attacks final 1-2km but cracks when countered; lacked finishing power in 4+ instances",
+    "Crashes on technical descents at speed; multiple high-speed incidents in Grand Tours",
+    "Deployed as tempo-setter for Jumbo-Visma leaders, not protected for personal results",
+    "Shows psychological collapse signals: checking computer mid-attack, sitting up after counters",
+    "Poor positioning despite tempo work; finishes far behind after domestique duties",
+    "Occasional sprint speed surprise but inconsistent finishing ability for own chances"
+  ],
+  "form_trajectory": "negative: Recent observations show decline from 2018 stage wins to pure domestique role with crashes, poor positioning, and psychological fragility under pressure by 2020-2021",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "BENNETT George",
+  "built_from": [
+    "2018 Giro d'Italia Stage 4",
+    "2018 Giro d'Italia Stage 5",
+    "2018 Tirreno-Adriatico Stage 4",
+    "2018 Tirreno-Adriatico Stage 4",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Tour de Pologne Stage 7",
+    "2018 Vuelta a Espana Stage 6",
+    "2019 Tour de France Stage 18",
+    "2019 Tour de France Stage 18",
+    "2019 Vuelta a Espana Stage 15",
+    "2019 Vuelta a Espana Stage 19",
+    "2020 Il Lombardia",
+    "2020 Il Lombardia",
+    "2020 Vuelta a Espana Stage 11",
+    "2021 Paris-Nice Stage 4"
+  ]
+}

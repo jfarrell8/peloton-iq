@@ -1,0 +1,30 @@
+{
+  "label": "2022 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-13",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "LEKNESSUND Andreas attacked with 18km to go from the break, taking 38-second stage win and yellow jersey by time-trialing solo through final climb while GC teams failed coordination.",
+    "winner": "LEKNESSUND Andreas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LEKNESSUND attacked with 18km remaining when gap was 90 seconds, gaining 10 seconds on climb while peloton expected catch.",
+      "Ineos, Bora, Quick-Step coordination reduced 6-minute gap to 90 seconds but abandoned chase when GC threat neutralized by time.",
+      "DECLERCQ, PALZER, VAN BAARLE combination cut gap most effectively before multiple teams diluted chase effort approaching sprint finale.",
+      "Break TT specialists (LEKNESSUND, former national champion) survive better than climbers when pace lifts before final categorized ascent."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: solo time-trial strength at 18km mark surprised peloton, gained time on final climb when GC teams expected reverse",
+      "BETTIOL Alberto": "positive: exceptional sprint form mistaking breakaway win for stage victory suggests Tour de France readiness",
+      "WILLIAMS Stephen": "neutral: defended yellow successfully by following wheels but contributed nothing to chase despite team responsibility",
+      "SAGAN Peter": "negative: dropped on final climb, unable to contest sprint finish on moderate difficulty finale",
+      "KRISTOFF Alexander": "negative: eliminated on final climb despite sprint finish expected by peloton",
+      "DECLERCQ Tim": "positive: bridged from patron role to effective gap-cutting alongside climbing domestiques on rolling terrain",
+      "SCHÄR Michael": "positive: survived break selection when stronger climbers dropped, suggesting improved climbing form",
+      "MATTHEWS Michael": "positive: third place after full day of racing and climbing indicates strong Tour preparation form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:49:40.956069+00:00"
+}

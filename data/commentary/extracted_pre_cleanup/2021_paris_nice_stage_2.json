@@ -1,0 +1,29 @@
+{
+  "label": "2021 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-08",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BOL Cees won stage 2 sprint after DSM delivered perfect late leadout around final right-hand corner, while MATTHEWS Michael accumulated enough intermediate sprint bonuses to take overall lead",
+    "winner": "BOL Cees",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Trek-Segafredo forced echelons before first intermediate sprint despite light wind, isolating KRUIJSWIJK Steven in second group opportunistically",
+      "MATTHEWS Michael hunted bonus seconds at both intermediate sprints specifically to steal race lead without winning stage",
+      "DSM's BENOOT Tiesj held leadout through final right-hand corner at 200m, letting BOL Cees delay launch until straightaway advantage",
+      "PEDERSEN Mads possibly overgeared when acceleration started after corner, losing sprint despite good leadout position"
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: systematically collected intermediate sprint bonuses to gain yellow jersey without stage win, revealing GC ambition early",
+      "BOL Cees": "positive: first win since February 2020 Algarve shows DSM's corner-entry leadout unlocked sprint capability",
+      "BENNETT George": "negative: crashed heavily into roadside pole at first intermediate sprint, major injury risk signal",
+      "KRUIJSWIJK Steven": "negative: caught out in second echelon during Trek's light-wind forcing before intermediate sprint, positioning vulnerability exposed",
+      "GREIPEL André": "positive: won first intermediate sprint outright, surprising form contradicts declining sprinter narrative",
+      "PEDERSEN Mads": "negative: good position into finale but possibly overgeared on corner acceleration, tactical execution flaw",
+      "ACKERMANN Pascal": "neutral: mentioned among similar sprint finishers without specific placement detail"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:02:38.601814+00:00"
+}

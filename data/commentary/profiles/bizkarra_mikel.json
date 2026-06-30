@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attacks near climb crests and false summits, timing moves to exploit terrain changes before descents. Prefers late-race aggression but struggles to sustain prolonged efforts.",
+  "team_tactics": "Insufficient data across observations to establish clear team setup patterns.",
+  "terrain_preference": "Technical climbing with false summits and transitions to descents where positioning advantages matter. Exposed on sustained steep gradients requiring extended power output.",
+  "vulnerability": "Lacks sustained punch to maintain solo attacks on final climbs when repeatedly attempting moves. Cannot finish off attacks that require prolonged power above threshold.",
+  "key_patterns": [
+    "Attacks near climb crests exploiting terrain features like false summits (2 observations)",
+    "Multiple attack attempts on final climbs without ability to make decisive move stick (2 observations)",
+    "Timing attacks at terrain transitions rather than raw power-based accelerations (2 observations)"
+  ],
+  "form_trajectory": "neutral: showed tactical intelligence in Catalunya podium but Vuelta efforts lacked finishing power months later",
+  "confidence": "low",
+  "races_analysed": 2,
+  "rider_name": "BIZKARRA Mikel",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 Volta Ciclista a Catalunya Stage 5"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2021 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-09",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BISSEGGER Stefan won the 17.4km time trial by 0.83 seconds over CAVAGNA Rémi, taking the yellow jersey from MATTHEWS Michael who lost 23 seconds.",
+    "winner": "BISSEGGER Stefan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BISSEGGER's track background gives decisive advantage on short punchy technical TTs over pure power specialists like DENNIS Rohan.",
+      "KRAGH ANDERSEN Søren beat DENNIS at intermediate split but faded on uphill finish, revealing weakness on climbing finales.",
+      "ROGLIČ Primož losing 8 seconds in 17km TT suggests Jumbo-Visma deliberately managing effort before mountain stages.",
+      "MCNULTY Brandon's fourth place reveals UAE's strong TT depth for future stage race support roles."
+    ],
+    "rider_signals": {
+      "BISSEGGER Stefan": "positive: beat Roglič by 8s in technical uphill TT, track skills translate to short punchy efforts",
+      "CAVAGNA Rémi": "positive: only 0.83s behind winner despite French champion status suggesting stage race form peaking",
+      "DENNIS Rohan": "neutral: set early benchmark but pure power insufficient on technical uphill finish compared to punchier riders",
+      "KRAGH ANDERSEN Søren": "neutral: fastest at intermediate split but lost 7s on final climb, revealing technical strength but climbing weakness",
+      "ROGLIČ Primož": "neutral: third place 8s down suggests controlled ride rather than maximum effort before mountain stages",
+      "MCNULTY Brandon": "positive: 9s down in fourth shows emerging TT strength for 22-year-old American",
+      "MATTHEWS Michael": "negative: lost 23s and yellow jersey, confirmed as sprinter struggling on uphill TT finales",
+      "SCHACHMANN Maximilian": "positive: sixth fastest as defending champion shows consistent TT ability at 9s down"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:02:53.680955+00:00"
+}

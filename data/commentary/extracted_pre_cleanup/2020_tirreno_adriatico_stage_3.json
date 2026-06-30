@@ -1,0 +1,30 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 3",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-09",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WOODS attacked MAJKA inside final kilometer after cooperating breakaway, taking both stage win and GC lead on Poggio Morello summit finish",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WOODS attacked at 5.8km when chasers at 13s, forcing EF domestique tempo that prevented regain",
+      "KELDERMAN led chase group sprint at 20s, revealing Sunweb prioritized GC over Pantani bonus seconds",
+      "MAJKA cooperated with WOODS despite Bora sprinter deficit, exposing team confusion about stage objectives",
+      "THOMAS showing recovery form riding near front on Poggio Morella, contradicting post-UAE weakness narrative"
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: won by ambushing cooperative partner MAJKA on final kilometer, showing superior acceleration at altitude",
+      "MAJKA Rafał": "negative: failed to anticipate WOODS attack despite watching him entire climb, tactical naivety cost stage",
+      "KELDERMAN Wilco": "positive: led chase group sprint at 20s, Sunweb protecting GC position over bonus seconds",
+      "THOMAS Geraint": "positive: positioned near front on steepest Poggio Morella sections, suggesting recovery from recent struggles",
+      "DUNBAR Eddie": "negative: explicitly described as suffering on Poggio Morella climb despite EF team support",
+      "FUGLSANG Jakob": "neutral: finished chase group at 30s, maintaining GC contention without forcing issue",
+      "NIBALI Vincenzo": "negative: conceded 43s on home soil climb, significant deficit for short stage race",
+      "CONRAD Patrick": "positive: contested chase sprint with KELDERMAN at 20s, Bora protecting multiple GC options"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:32:11.802540+00:00"
+}

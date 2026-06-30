@@ -1,0 +1,29 @@
+{
+  "label": "2022 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC attacked with 6km remaining on Col de Turini, absorbed breakaway remnants, then accelerated in final 200m to win and extend GC lead.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Adam Yates initiated GC fireworks at 7km triggering counterattacks, but initiators rarely survive summit finish wars of attrition.",
+      "Roglic attacked at 6km not final kilometer, suggesting he assessed rivals cracked earlier than traditional 1-2km launch zones.",
+      "INEOS split resources between Dennis pacing and Yates attacking, diluting firepower compared to Jumbo's singular Roglic focus.",
+      "Quintana repeatedly dropped then recovered shows tactical stalemate exploitation works when no team controls tempo in finale."
+    ],
+    "rider_signals": {
+      "YATES Adam": "negative: attacked 7km out to animate race but caught immediately, brother Simon far stronger on same climb",
+      "MARTINEZ Danny": "positive: matched every Roglic acceleration and took second, marking work flawless despite no stage win threat",
+      "YATES Simon": "positive: bridged to leaders after brother dropped, best GC result despite starting chase from behind",
+      "JORGENSEN Mateo": "negative: lost white jersey by cracking early on climb, couldn't match GC pace despite previous time trial strength",
+      "ALMEIDA Joao": "positive: recovered from poor week start to bridge late and take fifth, climbing form arriving mid-stage race",
+      "DENNIS Rowan": "neutral: paced Roglic deep into climb showing domestique reliability, unusual role for former time trial world champion",
+      "QUINTANA Nairo": "neutral: repeatedly gapped but clawed back suggests tactical nous exceeds pure climbing power at this career stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:47:29.941498+00:00"
+}

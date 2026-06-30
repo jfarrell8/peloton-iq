@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-24",
+  "stage": 16,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian bridged to breakaway YATES Adam on final climb descent, caught him after crash with technical descending at 50mph",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE deliberately conserved energy on final climb knowing 30-second deficit could be erased with superior descending skills",
+      "YATES Adam prioritized breakaway infiltration on GC rest day, gambling stage win against non-climbers rather than defending position",
+      "Quick-Step's 50+ wins midseason suggests roster depth allows leaders like ALAPHILIPPE to hunt stages without sprint train obligations"
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: targeting descent-finish stages while wearing polka dots reveals willingness to burn matches for jersey collection over GC",
+      "YATES Adam": "negative: front wheel crash on descent suggests technical limits prevent converting superior climbing into stage wins on mountain finishes",
+      "BARGUIL Warren": "negative: defending KOM winner trails by 49 points, indicating prior-year mountain performance doesn't reliably predict form repetition",
+      "BERNAL Egan": "neutral: 13:50 white jersey deficit to LATOUR shows Sky uses young talent for domestique work rather than jersey hunting",
+      "THOMAS Geraint": "neutral: fifth consecutive stage finishing with identical top-3 podium suggests Pyrenees stalemate before decisive stage looms",
+      "LANDA Mikel": "positive: late-stage burst while teammates FROOME and THOMAS control suggests freedom to probe weaknesses within team hierarchy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:34:52.694950+00:00"
+}

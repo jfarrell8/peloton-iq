@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 13",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-27",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SENECHAL Florian won from unexpected lead position after JACOBSEN flatted/missed position and KRIEGER led out without MØLLER following.",
+    "winner": "SENECHAL Florian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Intermediate sprint at 11km created positioning chaos before technical finale at 3.2km, disrupting normal leadout trains.",
+      "Deceuninck-QuickStep's leadout train dissolved in turns near 3km marker, forcing improvised Senechal-Trentin duel instead of Jacobsen sprint.",
+      "GC teams actively fighting for position in sprint stage technical zones suggests 3km rule paranoia trumping energy conservation."
+    ],
+    "rider_signals": {
+      "JACOBSEN Fabio": "negative: lost position in turns near 3km mark, possible puncture, couldn't contest sprint despite Deceuninck controlling race",
+      "SENECHAL Florian": "positive: opportunistically took victory from leadout role when Jacobsen disappeared, shows finishing speed beyond domestique duties",
+      "KRIEGER Alexander": "neutral: led out strongly but MØLLER didn't follow wheel, revealing UAE sprint coordination breakdown",
+      "MØLLER Sasha": "negative: failed to follow Krieger's leadout wheel in final, suggesting positioning error or lack of legs",
+      "BERNAL Egan": "negative: shaking head crossing line mixed with sprint pack, possibly indicating positioning struggle or general form concerns"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:42:01.692352+00:00"
+}

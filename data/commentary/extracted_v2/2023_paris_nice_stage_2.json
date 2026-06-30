@@ -1,0 +1,25 @@
+{
+  "label": "2023 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-06",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won a chaotic flat sprint after UAE Emirates aggressively hunted intermediate sprint bonuses, with POGACAR taking 6 seconds at the sprint.",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates sent POGACAR to contest flat intermediate sprint for bonuses 12.5km out, briefly taking virtual GC lead.",
+      "Bora-Hansgrohe attempted echelon split at 70.5km despite modest wind, showing proactive aggression ahead of crucial TTT stage.",
+      "Multiple sprinter leadouts fractured in final 500m due to traffic islands, exposing equipment choices favoring GC protection over sprint trains."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: contested flat intermediate sprint against pure sprinters MATTHEWS and HOOYDONCK, taking 6 bonus seconds to briefly claim virtual lead",
+      "PEDERSEN Mads": "positive: won through center after multiple sprint trains disintegrated, first Danish Paris-Nice leader in 53 years before critical TTT",
+      "LAPORTE Pierre": "negative: crashed in town section before wind picked up, required teammates to pace back, potentially compromising TTT form",
+      "BENNETT Sam": "negative: lost POPPEL's wheel inside final 500m at traffic islands, suggesting positioning or bike handling vulnerability",
+      "MERLIER Tim": "negative: caught out before final 500m despite flat finish suiting pure sprinters, indicating team positioning failure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:51:42.969560+00:00"
+}

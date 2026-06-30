@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 7",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-13",
+  "stage": 7,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won sprint from mid-pack at 200m, outmaneuvering GAVIRIA who misjudged positioning after Quick-Step controlled final 2km",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quick-Step controlled final 2km for GAVIRIA but mid-pack positioning forced sprinter to waste energy bridging instead of launching",
+      "GROENEWEGEN positioned behind Belgian champion RICKAERT at 1km banner, using third wheel to avoid wind before late move center",
+      "Dimension Data lost CAVENDISH before 3km despite controlling front, revealing lead-out train collapsed too early on downhill section",
+      "SAGAN boxed behind GAVIRIA inside 1km after following Quick-Step's acceleration, tactical error riding reactive instead of positioning independently"
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: read GAVIRIA's mid-pack trap correctly and attacked center lane at 200m for 10th win of season",
+      "GAVIRIA Fernando": "negative: Quick-Step's front control forced him 15 positions back at 2km, misjudged energy required to bridge uphill",
+      "CAVENDISH Mark": "neutral: lost Dimension Data train before 3km but 10th place shows improving form after recent drought",
+      "SAGAN Peter": "negative: followed GAVIRIA's wheel reactively instead of independent positioning, boxed at crucial 500m acceleration point",
+      "KITTEL Marcel": "negative: not even top-30 after switching from Quick-Step, confidence visibly declining without dedicated lead-out infrastructure",
+      "COLBRELLI Sonny": "neutral: Bahrain-Merida brought only HAUSSLER as support, revealing team not committed to bunch sprint investment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:32:22.603653+00:00"
+}

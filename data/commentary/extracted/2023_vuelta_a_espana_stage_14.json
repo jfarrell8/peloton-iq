@@ -1,0 +1,26 @@
+{
+  "label": "2023 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won stage 14 solo after dominating all KOM points, rebounding completely from disastrous performance previous day.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EVENEPOEL prioritized KOM jersey recovery over energy conservation, working 70-80% on front in early break despite GC ambitions.",
+      "DE GENDT Thomas attacked early not for himself but to string out peloton for teammate KRON Andreas's breakaway chances.",
+      "BARDET Romain avoided sprinting EVENEPOEL for KOM points but contested intermediate sprints, revealing selective energy management in breakaway.",
+      "GC group allowed 5+ minute gap to EVENEPOEL at only 21 minutes down, suggesting teams miscalculated his rebound potential post-bad day."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: swept all KOM points day after terrible performance, indicates exceptional recovery capacity rarely seen in multi-week racing",
+      "KELDERMAN Wilco": "neutral: appeared in trailing group greeting EVENEPOEL, suggesting QuickStep depth allows protected riders to finish conservatively",
+      "VINGEGAARD Jonas": "positive: looked very good in GC group despite deep efforts previous day, fourth on stage shows superior recovery",
+      "ROGLIČ Primož": "neutral: finished third at 1:37, maintaining GC position without exceptional effort on double-Especial stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:32:18.086062+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range, aggressive attacks from distance (40+ km out) designed to fracture existing breakaways rather than solo efforts from the peloton. Lacks sustained power to maintain efforts through to the finish.",
+  "team_tactics": "Limited data on team support. Appears to operate independently within breakaway scenarios, relying on personal timing rather than coordinated team setup.",
+  "terrain_preference": "Selective terrain that allows powerful accelerations to split groups but doesn't require sustained climbing or time trialing efforts. Avoids pure sprinter-friendly flat finishes.",
+  "vulnerability": "Cannot sustain long-range attacks inside final 10km. Gets caught by organized chases when pace becomes consistently high. Lacks finishing speed against pure sprinters.",
+  "key_patterns": [
+    "Attacks from within established breakaways rather than bridging from peloton (46km selection move)",
+    "Creates selections through acceleration but lacks engine to maintain advantage to finish line",
+    "Effective at distancing sprinter types temporarily but vulnerable to organized pursuit groups"
+  ],
+  "form_trajectory": "unknown: single observation shows aggressive racing but inability to convert efforts into results",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FONDA POOL Mathieu",
+  "built_from": [
+    "2022 Giro d'Italia Stage 8",
+    "2022 Giro d'Italia Stage 8"
+  ]
+}

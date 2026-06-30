@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 7",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-20",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "STORER Michael attacked solo from 29-rider breakaway on final categorized climb, won by 40+ seconds after DSM placed three riders in early move.",
+    "winner": "STORER Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DSM flooded early break with three riders including Bardet, allowing Storer to skip pulls while teammate remained in group.",
+      "Movistar attacked mid-stage despite Roglic having five-minute gap to break, forcing Jumbo-Visma domestique work.",
+      "GC riders allowed 29-man break five minutes despite Polance being virtual leader, suggesting minimal concern about his threat."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "negative: crashed out on technical descent during Movistar's move, shoulder injury ended race and likely Worlds campaign",
+      "STORER Michael": "positive: skipped breakaway turns exploiting Bardet's presence, then soloed final climb with 14-16% ramps to win convincingly",
+      "POLANCE Jan": "neutral: held virtual red jersey most of day from break but faded on final climb, finished eight seconds shy",
+      "YATES Adam": "positive: led GC favorites group home, looked strongest of podium contenders aside from Roglic on brutal stage",
+      "LANDER Harald": "negative: dropped from favorites group on stage with 17 climbs, suggests vulnerability on extreme cumulative elevation days",
+      "MARTIN Guillaume": "negative: distanced from GC group on category one finale despite being protected classification contender"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:29:01.519489+00:00"
+}

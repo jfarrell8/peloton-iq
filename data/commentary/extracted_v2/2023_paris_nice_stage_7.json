@@ -1,0 +1,28 @@
+{
+  "label": "2023 Paris-Nice Stage 7",
+  "race_name": "Paris-Nice",
+  "race_date": "2023-03-11",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked with 2.5km to go on Col de Turini, dropped VINGEGAARD and GULDØ in final 500m, won by clear margin after group hesitation.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE isolated POGAČAR early; FOSS as last Visma domestique dropped 6km out reveals team depth disparity on long climbs.",
+      "Breakaway given only 3-minute max gap on hardest stage suggests teams prioritized GC attacks over conserving energy for finale.",
+      "VINGEGAARD briefly closed POGAČAR's first acceleration then led chase himself, tactical error burning matches before decisive 2.5km move.",
+      "Top-10 looking around after VINGEGAARD rejoined allowed YATES/POULSEN to limit losses to 12s, hesitation cost POGAČAR bigger time gaps."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: won 6 of 12 racing days entering stage, launched winning move 2.5km out after failed earlier acceleration showed patience progression",
+      "VINGEGAARD Jonas": "positive: closed initial POGAČAR attack and limited losses to manageable seconds, vastly superior to Stage 4 Faron collapse",
+      "FOSS Tobias": "negative: only remaining Visma domestique dropped 6km from finish on critical GC stage exposes team selection weakness",
+      "JORGENSEN Mattias": "negative: dropped before final 4km when lead group whittled to three, clear tier below top GC contenders",
+      "SIVAKOV Pavel": "positive: finished 7th at 35s despite INEOS working early for breakaway control, strong form as domestique-turned-GC threat",
+      "SKJELMOSE Mattias": "negative: crashed with 15km to go losing contact with leaders, poor positioning cost potential top-5 finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:52:40.464294+00:00"
+}

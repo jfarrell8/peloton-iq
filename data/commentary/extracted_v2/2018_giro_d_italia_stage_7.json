@@ -1,0 +1,25 @@
+{
+  "label": "2018 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-11",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam kicked from deep position after Quick-Step's train was disrupted by late corner positioning battle, timing sprint before traditional launch point",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Martin attacked 13.6km out forcing Quick-Step engine to chase, disrupting their sprint train formation before finale.",
+      "Lotto-Jumbo positioned three riders through final corner but Bennett launched before traditional 200m point exploiting hesitation.",
+      "Quick-Step controlled intermediate sprint points hunting suggesting multi-jersey strategy beyond stage wins with Viviani."
+    ],
+    "rider_signals": {
+      "MARTIN Tony": "positive: forced Quick-Step to spend energy chasing 13.6km attack, successfully disrupting Viviani's leadout before sprint",
+      "VIVIANI Elia": "negative: team controlled race but got knocked off leadout wheel in final 700m, failed to convert superior positioning",
+      "BENNETT Sam": "positive: recognized Quick-Step train disruption and launched earlier than conventional sprint timing to exploit hesitation",
+      "VAN POPPEL Danny": "neutral: Lotto-Jumbo had three riders through final corner but couldn't convert numerical advantage to Bennett win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:22:29.001748+00:00"
+}

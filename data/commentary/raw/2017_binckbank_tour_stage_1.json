@@ -5,7 +5,7 @@
   "stage": 1,
   "video": {
     "video_id": "ZsMuldJrz08",
-    "title": "Finish at the top of the col d'Izoard - 360\u00b0 - Tour de France 2017",
+    "title": "Finish at the top of the col d'Izoard - 360° - Tour de France 2017",
     "published": "2017-08-13 13:00:05+00:00",
     "channel": "Tour de France",
     "url": "https://youtube.com/watch?v=ZsMuldJrz08",
@@ -13,7 +13,7 @@
     "all_candidates": [
       {
         "video_id": "ZsMuldJrz08",
-        "title": "Finish at the top of the col d'Izoard - 360\u00b0 - Tour de France 2017",
+        "title": "Finish at the top of the col d'Izoard - 360° - Tour de France 2017",
         "channel": "Tour de France",
         "published": "2017-08-13 13:00:05+00:00",
         "match_score": 80.0
@@ -84,5 +84,5 @@
     ]
   },
   "transcript": null,
-  "status": "transcript_error:ip_blocked"
+  "status": "transcript_error:no_transcript"
 }

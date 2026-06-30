@@ -1,0 +1,23 @@
+{
+  "label": "2022 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-08-02",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl won from a reduced bunch sprint after BERWICK Sebastian's late attack failed on the final climb.",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education kept breakaway under 90 seconds entire stage to engineer reduced bunch sprint for their climber-sprinter.",
+      "BERWICK Sebastian attacked immediately after final climb crest when pure sprinters were distanced, exploiting transition moment.",
+      "WILLIAMS Stephen deliberately conserved energy on climb then timed chase effort to rejoin as attacks neutralized."
+    ],
+    "rider_signals": {
+      "BERWICK Sebastian": "positive: strong enough to attack solo after final climb when faster sprinters dropped",
+      "WILLIAMS Stephen": "positive: tactical maturity to pace distancing on climb and time bridging effort perfectly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:47:26.196358+00:00"
+}

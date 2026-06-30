@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Bridges to leading selections with powerful, high-gear efforts rather than initiating attacks. Opportunistic when wind splits create gaps.",
+  "team_tactics": "Rides as domestique but capitalizes on racing opportunities when positioned well in wind-split scenarios.",
+  "terrain_preference": "Windy, flat classics where echelon formation and power output matter more than pure climbing or sprinting ability.",
+  "vulnerability": "Insufficient data to identify specific weaknesses, though domestique role suggests limited autonomy in team-protected scenarios.",
+  "key_patterns": [
+    "Bridges to leading groups using exceptional power/gear pushing ability in crosswinds",
+    "Converts domestique positioning into personal results when race fragments in wind",
+    "Performs above domestique role expectations in classics featuring echelon splits"
+  ],
+  "form_trajectory": "unknown: single observation shows strong wind-riding capability but insufficient recent data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "FRISON Frederik",
+  "built_from": [
+    "2023 Classic Brugge-De Panne",
+    "2023 Classic Brugge-De Panne"
+  ]
+}

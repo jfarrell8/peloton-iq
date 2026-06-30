@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-26",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LANDA Mikel soloed to victory after Movistar attacked Dumoulin on the descent ~130km out, forcing teammates to chase and cracking him on final climb Pian Cavallo.",
+    "winner": "LANDA Mikel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar attacked Dumoulin on descent not climb at 130km out, forcing Sunweb domestiques to pace-make before finale",
+      "Zakarin attacked with 2.4km remaining, dropped Quintana temporarily, forcing Aru/Nibali to bring Movistar leader back gratis",
+      "Multiple GC riders attacked dying kilometers despite Quintana already virtual pink, suggesting podium spots still fluid enough to race"
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: isolated after long chase following descent attack, cracked on Pian Cavallo, lost pink jersey after domestiques exhausted early",
+      "QUINTANA Nairo": "negative: dropped by Zakarin's 2.4km attack, required Aru/Nibali to bring him back, showed vulnerability despite taking pink",
+      "ZAKARIN Ilnur": "positive: attacked inside 3km on steep finish, immediately gapped Quintana/podium group, hunting podium not just stage placing",
+      "LANDA Mikel": "positive: soloed to victory after securing mountains jersey, converted Sky's long-range tactics into dominant stage win",
+      "GESCHKE Simon": "positive: sacrificed entire final climb for Dumoulin after extended pace-making from descent, exemplary domestique work",
+      "NIBALI Vincenzo": "positive: followed Zakarin's late acceleration while Quintana couldn't, then contributed to bridging despite no team obligation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:57:08.917875+00:00"
+}

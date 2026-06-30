@@ -1,0 +1,32 @@
+{
+  "label": "2021 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-26",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTIN Dan soloed to victory from the break with 10km remaining on the Sega di Ala final climb while BERNAL Egan cracked for the first time, losing 1:23 to YATES Simon.",
+    "winner": "MARTIN Dan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MARTIN Dan attacked breakaway companions with 10km left on final climb, timing move after stage shortening crash descent.",
+      "YATES Simon exploited BERNAL's first weakness on final climb, gaining 53 seconds on GC despite 3+ minute deficit entering stage.",
+      "ALMEIDA João closed 13 seconds on MARTIN despite starting climb from peloton, revealing stronger position than stage result suggests.",
+      "MARTÍNEZ Daniel Felipe domestique work failed to rescue cracking BERNAL on final climb, rare Ineos mountain stage vulnerability exposed."
+    ],
+    "rider_signals": {
+      "MARTIN Dan": "positive: Won from 19-rider break by dropping final companions 10km out, stage racing timing superior to pure climbers.",
+      "BERNAL Egan": "negative: First GC crack lost 1:23 to YATES, bad back mentioned, MARTÍNEZ unable to pace him back on final climb.",
+      "YATES Simon": "positive: Gained 53 seconds on BERNAL while finishing 30 seconds down on stage, reopened GC battle from 3:23 deficit.",
+      "ALMEIDA João": "positive: Finished second only 13 seconds behind solo winner despite starting final climb in peloton, climbed back into top 10 overall.",
+      "CARTHY Hugh": "negative: Dropped badly on final climb, fell two GC places to sixth at 6:09, losing contact before main GC action.",
+      "VLASOV Aleksandr": "negative: Distanced on final climb, dropped from GC contention to 6:03 back in fourth position.",
+      "BARDET Romain": "negative: Very bad day mentioned specifically, lost significant time though exact gap not detailed in commentary.",
+      "CARUSO Damiano": "positive: Stayed with BERNAL during crisis, maintained second overall at 2:21, demonstrated superior climbing form to leader.",
+      "BOUCHARD Geoffrey": "positive: Survived both major climbs in front group, present in final six riders before MARTIN's decisive move.",
+      "PEDRERO Antonio": "positive: One of four survivors over Paso San Valentino, maintained front group position until late-stage selection."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:52:18.568552+00:00"
+}

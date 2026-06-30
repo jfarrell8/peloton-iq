@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who capitalizes on early moves and holds power for explosive accelerations in final 300-500m. Willing to commit to long-range efforts.",
+  "team_tactics": "Limited data on team support patterns. Appears willing to animate races through early aggression, potentially as protected rider or super-domestique depending on race context.",
+  "terrain_preference": "Insufficient data to determine specific terrain preference. Success recorded on stage race finale, suggesting stage racing acumen and ability to survive multi-day efforts.",
+  "vulnerability": "Early-race positioning appears problematic—crashed while attempting breakaway at Tour de France. Risk-taking in opening stages may expose him to incidents before key moments.",
+  "key_patterns": [
+    "Actively seeks breakaway opportunities early in stages, willing to expend energy from start (2 instances)",
+    "Possesses finishing speed to convert late-race positions, effective under 500m to go (1 win)",
+    "Operates as Colombian champion with pressure/expectations in Grand Tour environments"
+  ],
+  "form_trajectory": "unknown: Limited recent data with 2-year gap between observations. Most recent result was stage win in 2022, but insufficient subsequent data to assess current trajectory.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "IGUITA Sergio",
+  "built_from": [
+    "2020 Tour de France Stage 15",
+    "2022 Tour de Romandie Stage 4"
+  ]
+}

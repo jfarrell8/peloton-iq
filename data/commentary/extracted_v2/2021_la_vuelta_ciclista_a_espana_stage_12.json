@@ -1,0 +1,26 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 12",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-26",
+  "stage": 12,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CORT NIELSEN Magnus won a reduced bunch sprint after surviving two late climbs, beating Bagioli and Matthews in photo finish.",
+    "winner": "CORT NIELSEN Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education-Nippo delivered Cort perfectly through final 5km after late climbs eliminated pure sprinters, creating puncheur sprint opportunity.",
+      "Four-rider late break (Ciccone, Vine, Henao, Bardet) at 18km served as selection mechanism rather than legitimate win attempt.",
+      "Peloton allowed 7-rider break only 1:40 gap despite 60km fast start, indicating GC teams controlled for reduced sprint finish."
+    ],
+    "rider_signals": {
+      "CORT NIELSEN Magnus": "positive: Won reduced sprint one day after getting caught 500m out, showing elite positioning recovery and sprint versatility",
+      "JAKOBSEN Fabio": "negative: Completely absent from reduced sprint finish despite holding green jersey, climbs eliminated him as predicted",
+      "CARAPAZ Richard": "negative: Dropped on intermediate climb Alto de San Jerónimo alongside crash victims, concerning form signal for GC contender",
+      "BARDET Romain": "positive: Led quartet over final climb summit taking 5 KOM points, now only 4 points behind Caruso in classification",
+      "BAGIOLI Andrea": "positive: Finished second launching lone Quick-Step sprint without leadout on difficult finish, strong versatility signal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:41:50.255505+00:00"
+}

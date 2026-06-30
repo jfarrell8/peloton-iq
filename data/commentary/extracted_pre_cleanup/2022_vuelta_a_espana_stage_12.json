@@ -1,0 +1,27 @@
+{
+  "label": "2022 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard attacked in the final kilometers of the 20km climb to Peñas Blancas, dropped SOLER Marc and HAGEN Carl Fredrik for his first Vuelta stage win.",
+    "winner": "CARAPAZ Richard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "32-rider breakaway established early on flat coastal roads when all teams recognized GC wouldn't contest 120-mile stage with summit finish.",
+      "KELDERMAN Wilco and POELS Wout leapt from outside top-20 to 6th and 9th overall, exploiting GC riders' reluctance to chase massive break.",
+      "UAE placed three riders in break including SOLER Marc, showing tactical shift to stage hunting over GC defense after losing main domestique.",
+      "RODRIGUEZ Carlos cracked final 300 meters despite attacking intent, hip hematoma from earlier crash likely limiting power output on 20km ascent."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "positive: won stage after disappointing Giro, proving climbing form intact despite questioning himself after poor GC performance earlier in Vuelta",
+      "SOLER Marc": "positive: third place finish signals strong form, podium at Tour de France preceded by Tour de Suisse win shows pattern of peaking mid-Grand Tour",
+      "KELDERMAN Wilco": "positive: gained 14+ GC positions to 6th overall by infiltrating breakaway, demonstrates ability to exploit tactical complacency of favorites",
+      "RODRIGUEZ Carlos": "negative: visible deterioration final 300m with hip hematoma suggests crash damage will compromise performance in upcoming weekend mountain stages",
+      "EVENEPOEL Remco": "neutral: defended red jersey conservatively after losing VINE Jay domestique, took no risks on only descent showing defensive posture"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:55:19.573425+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets intermediate sprints and selective KOM points rather than aggressive climbing attacks. Chooses strategic moments to contest points rather than fighting for every opportunity.",
+  "team_tactics": "Operates with significant autonomy in breakaways. Team allows him freedom to infiltrate early moves and manage his own KOM/sprint campaigns without heavy domestique support.",
+  "terrain_preference": "Intermediate sprint finishes and breakaway scenarios suit him best. Strong enough to survive in mixed breaks but avoids committing energy on serious mountain stages when defending classifications.",
+  "vulnerability": "Exposed in pure sprint finishes against experienced fast finishers. Strategic point management leaves him vulnerable to rivals who contest every climbing opportunity, as evidenced by polka dot jersey margin erosion.",
+  "key_patterns": [
+    "Consistently infiltrates breakaways across multiple stages, showing strong break selection instincts (3 observations)",
+    "Prioritizes long-term classification defense over individual stage battles, banking energy strategically (2 observations)",
+    "Capable of contesting sprint finishes from reduced groups but loses to specialist sprinters (2 observations)"
+  ],
+  "form_trajectory": "positive: Demonstrated Tour-level maturity as debutant, competitive in finishes while managing KOM campaign intelligently",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ABRAHAMSEN Jonas",
+  "built_from": [
+    "2023 Tour de France Stage 12",
+    "2023 Tour de France Stage 18",
+    "2023 Tour de France Stage 9"
+  ]
+}

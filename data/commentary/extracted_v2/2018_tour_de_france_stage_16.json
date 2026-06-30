@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de France Stage 16",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-24",
+  "stage": 16,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian attacked from breakaway on final climb with 30-second deficit, caught YATES Adam on descent hitting 50mph to win Stage 16 Pyrenees opener.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Alaphilippe deliberately conserved energy on final climb knowing 30-second deficit manageable given his superior descending ability versus breakaway companions.",
+      "Quick-Step's stage-hunting strategy produces 50+ wins by mid-season while maintaining both sprint support (Gaviria) and breakaway opportunism.",
+      "Yates attacked for stage redemption after poor GC Alps performance, showing GC failures make aggressive breakaway riding more acceptable tactically."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: descended at 50mph maintaining complete control, demonstrating calculated risk management by accepting 30s deficit on climb for descent advantage",
+      "YATES Adam": "neutral: crashed on descent left-hander at speed, remounted quickly but fear factor visibly elevated preventing effective chase",
+      "BARGUIL Warren": "negative: defending KOM champion not riding same stratosphere as 2017, already 49 points behind Alaphilippe with limited recovery opportunities",
+      "BERNAL Egan": "positive: earning Team Sky respect at young age but domestique duties preventing white jersey competition despite talent",
+      "THOMAS Geraint": "neutral: facial expression suggested already projecting to tomorrow's steep stage rather than enjoying yellow jersey security"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:29:41.197295+00:00"
+}

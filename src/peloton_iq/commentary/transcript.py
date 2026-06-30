@@ -38,6 +38,7 @@ from youtube_transcript_api import (
     NoTranscriptFound,
     TranscriptsDisabled,
     VideoUnavailable,
+    VideoUnplayable,
     YouTubeTranscriptApi,
 )
 
@@ -62,6 +63,14 @@ SKIP_KEYWORDS = [
     "team time trial preparation", "kitchen", "mechanic",
     "neutral service", "french phrases", "injuries",
     "dutch corner", "how to watch",
+    # Route-map / elevation-profile graphics — static images, no spoken
+    # content, so they never have captions (always trip TranscriptsDisabled).
+    # Found via the misclassified-"ip_blocked" investigation: "Planimetria"
+    # (course map) and "Altimetria" (elevation profile) videos were winning
+    # the match score over real highlights videos and burning through the
+    # transcript-fetch batch on guaranteed-empty results.
+    "planimetria", "altimetria", "route map", "course map",
+    "profil", "profile reveal", "percorso",
 ]
 WOMEN_KEYWORDS = ["femmes", "feminine", "women", "ladies"]
 
@@ -278,6 +287,30 @@ class TranscriptFetcher:
             max_transcripts:  Max transcripts to fetch in this run
             delay_seconds:    Base delay between requests
             skip_existing:    Skip races already in raw_dir
+
+        Error classification (FIXED — see note below):
+            Known per-video failures (no_transcript / transcripts_disabled /
+            video_unavailable) are matched by EXACT string equality first,
+            since these come from the typed except branches in
+            _fetch_transcript_raw and are normal, expected outcomes (the
+            video just has no captions) — never an IP block, and the batch
+            should continue past them, not halt.
+
+            Only the residual "anything else" case (genuinely unclassified
+            exception text from the bare `except Exception as e` branch)
+            gets keyword-matched for real IP/rate-limit signals, and that
+            match uses \\b word-boundary regex rather than bare substring
+            containment.
+
+            ROOT CAUSE OF THE ORIGINAL BUG: the previous version checked
+            `"ip" in err.lower()` against ANY error string, including
+            "no_transcript" — and "ip" is a substring of "transcript"
+            itself ("no_transcr-IP-t"). Every single NoTranscriptFound
+            result was therefore misclassified as an IP block, which
+            halted the batch after the very first such video — explaining
+            the "exactly 1 success then immediate IP block" pattern even
+            after waiting 24-48h, since there was never a real block to
+            wait out.
         """
         # Find pending — video_found status
         pending = []
@@ -291,6 +324,18 @@ class TranscriptFetcher:
         log.info("Videos pending transcript: %d (fetching up to %d)", len(pending), total)
 
         success = errors = ip_blocked = 0
+
+        # Known, expected per-video failures — NOT IP blocks. Matched by
+        # exact equality, before any keyword/substring search runs.
+        # video_unplayable_geo_restricted added after discovering several
+        # videos blocked by region restriction ("not available in your
+        # country") — a permanent, non-retriable condition distinct from
+        # rate-limit ip_blocked, so it's named separately rather than
+        # lumped in with either category.
+        KNOWN_NON_BLOCK_ERRORS = {
+            "no_transcript", "transcripts_disabled", "video_unavailable",
+            "video_unplayable_geo_restricted",
+        }
 
         for path, data in pending[:max_transcripts]:
             label    = data["label"]
@@ -312,25 +357,43 @@ class TranscriptFetcher:
                     json.dump(data, f, indent=2, ensure_ascii=False)
                 log.info("  ✓ %d chars | %.1f min", transcript["clean_chars"], transcript["duration_mins"])
                 success += 1
+
             else:
-                err         = transcript["error"]
-                is_ip_block = any(
-                    kw in err.lower()
-                    for kw in ["blocked", "ip", "429", "too many"]
-                )
-                if is_ip_block:
-                    data["status"] = "transcript_error:ip_blocked"
-                    with open(path, "w", encoding="utf-8") as f:
-                        json.dump(data, f, indent=2)
-                    ip_blocked += 1
-                    log.warning("IP blocking detected — stopping after %d saved.", success)
-                    break
-                else:
-                    data["status"] = f"transcript_error:{err[:80]}"
+                err = transcript["error"]
+
+                if err in KNOWN_NON_BLOCK_ERRORS:
+                    # Expected, normal outcome (this video just has no
+                    # captions, or is unavailable) — log and CONTINUE.
+                    # Do NOT halt the batch for these.
+                    data["status"] = f"transcript_error:{err}"
                     with open(path, "w", encoding="utf-8") as f:
                         json.dump(data, f, indent=2)
                     errors += 1
-                    log.warning("  ✗ %s", err[:80])
+                    log.info("  – skipped (%s)", err)
+
+                else:
+                    # Genuinely unclassified exception text (from the bare
+                    # `except Exception as e` branch in _fetch_transcript_raw)
+                    # — THIS is where real network/HTTP/rate-limit errors
+                    # land. Word-boundary matched so "ip" can't match inside
+                    # "transcript", "description", "multiple", etc.
+                    is_ip_block = re.search(
+                        r"\b(ip|blocked|429|too many requests)\b", err.lower()
+                    ) is not None
+
+                    if is_ip_block:
+                        data["status"] = "transcript_error:ip_blocked"
+                        with open(path, "w", encoding="utf-8") as f:
+                            json.dump(data, f, indent=2)
+                        ip_blocked += 1
+                        log.warning("IP blocking detected — stopping after %d saved.", success)
+                        break
+                    else:
+                        data["status"] = f"transcript_error:{err[:80]}"
+                        with open(path, "w", encoding="utf-8") as f:
+                            json.dump(data, f, indent=2)
+                        errors += 1
+                        log.warning("  ✗ %s", err[:80])
 
             actual_delay = max(20.0, delay_seconds + random.uniform(-5, 10))
             log.info("  Waiting %.0fs...", actual_delay)
@@ -584,7 +647,10 @@ class TranscriptFetcher:
         if _is_gcn_priority(race_name) and channel in ("GCN Racing", "TNT Sports Cycling", "Eurosport"):
             score += 15
 
-        # Skip penalties
+        # Skip penalties — includes route-map/profile-graphic keywords
+        # (planimetria/altimetria/etc.) added after discovering these
+        # static, non-narrated videos were winning match scores and
+        # guaranteed to have no transcript (TranscriptsDisabled every time).
         if any(k in title for k in SKIP_KEYWORDS):  score -= 30
         if any(k in title for k in WOMEN_KEYWORDS): score -= 30
 
@@ -704,20 +770,43 @@ class TranscriptFetcher:
             return {"success": False, "video_id": video_id, "error": "transcripts_disabled"}
         except VideoUnavailable:
             return {"success": False, "video_id": video_id, "error": "video_unavailable"}
+        except VideoUnplayable:
+            # Distinct from rate-limiting "ip_blocked" — this is a permanent
+            # geo-restriction on THIS video ("not available in your country"),
+            # not YouTube throttling request volume. Re-fetching the same
+            # video_id later will NOT help; it needs a different, non-
+            # region-locked source video for this race/stage.
+            return {"success": False, "video_id": video_id, "error": "video_unplayable_geo_restricted"}
         except Exception as e:
             return {"success": False, "video_id": video_id, "error": str(e)}
 
     @staticmethod
     def _classify_error(error_msg: str) -> TranscriptStatus:
+        """
+        Classify an error message into a TranscriptStatus.
+
+        Known cases (no_transcript / transcripts_disabled / video_unavailable)
+        are matched by EXACT equality first, since _fetch_transcript_raw
+        already produces these exact strings from its typed except branches.
+        Only a residual/unclassified message falls through to the keyword
+        search, which uses \\b word-boundary regex so "ip" cannot match
+        inside "transcript", "description", etc. — mirrors the same fix
+        applied to run_batch's classification logic.
+        """
         msg = error_msg.lower()
-        if any(k in msg for k in ["blocked", "ip", "429", "too many"]):
-            return TranscriptStatus.IP_BLOCKED
-        if "no_transcript" in msg:
+
+        if msg == "no_transcript":
             return TranscriptStatus.NO_TRANSCRIPT
-        if "transcripts_disabled" in msg:
+        if msg == "transcripts_disabled":
             return TranscriptStatus.TRANSCRIPTS_DISABLED
-        if "video_unavailable" in msg:
+        if msg == "video_unavailable":
             return TranscriptStatus.VIDEO_UNAVAILABLE
+        if msg == "video_unplayable_geo_restricted":
+            return TranscriptStatus.ERROR  # non-retriable, but not an IP block
+
+        if re.search(r"\b(ip|blocked|429|too many requests)\b", msg):
+            return TranscriptStatus.IP_BLOCKED
+
         return TranscriptStatus.ERROR
 
     # ------------------------------------------------------------------

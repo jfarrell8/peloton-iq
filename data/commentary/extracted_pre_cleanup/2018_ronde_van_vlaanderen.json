@@ -1,0 +1,31 @@
+{
+  "label": "2018 Ronde Van Vlaanderen",
+  "race_name": "Ronde Van Vlaanderen",
+  "race_date": "2018-04-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "TERPSTRA Niki attacked solo on the final cobbled climb with 15km to go, held off PEDERSEN Mads and GILBERT Philippe to give Quick-Step their 21st win of the early season.",
+    "winner": "TERPSTRA Niki",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "TERPSTRA Niki attacked directly after Quick-Step teammates exhausted chasers, exploiting positioned fatigue rather than raw power differential.",
+      "PEDERSEN Mads emerged as surprise runner-up despite no lead-out, signaling new Classics contender status at 22 years old.",
+      "VANMARCKE Sep crashed early race, BMC's pre-race favorite immediately compromised before selective climbs began.",
+      "Quick-Step controlled entire race despite world's teams combining against them, 21 wins proving numbers trump coalition tactics."
+    ],
+    "rider_signals": {
+      "TERPSTRA Niki": "positive: Perfectly timed solo attack after teammates absorbed chasing duties, first Dutch winner in 32 years demonstrates tactical patience.",
+      "PEDERSEN Mads": "positive: Second place from nowhere at 22 suggests breakthrough Classics capability, moved to contender status without team support.",
+      "VANMARCKE Sep": "negative: Pre-race favorite crashed early, BMC's protected rider compromised before race selection began.",
+      "GILBERT Philippe": "positive: Third place podium finish shows enduring Classics strength despite Quick-Step team dominance.",
+      "VAN AVERMAET Greg": "neutral: Fourth place finish respectable but unable to counter Quick-Step numerical advantage.",
+      "BENOOT Tiesj": "neutral: Top-10 finish for young rider suggests developing Classics engine.",
+      "SAGAN Peter": "neutral: Placed in group but never in winning position, Quick-Step tactics neutralized individual strength.",
+      "STUYVEN Jasper": "neutral: Finished in main group, unable to follow decisive Terpstra move despite positioning.",
+      "NAESEN Oliver": "neutral: Mentioned in early crash involving multiple riders, race compromised from start."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:31:29.648913+00:00"
+}

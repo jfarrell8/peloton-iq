@@ -1,0 +1,31 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-16",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "LUTSENKO Alex survived two crashes in final 20km, attacked early on closing climb, held off FUGLSANG and YATES by seconds",
+    "winner": "LUTSENKO Alexey",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ attacked on Capo Giugno climb when teammate FUGLSANG sat in chase, maximizing Jumbo numerical advantage despite mechanical chaos.",
+      "LUTSENKO counterattacked when break splintered on early climb slopes, gambling nobody would organize chase with GC riders watching each other.",
+      "YATES sat on wheels refusing to chase DUMOULIN despite Sunweb threat, prioritizing seconds over teammate CLARKE's stage chances.",
+      "Crashes at 20km and 2km decimated field, suggesting finale's technical descent/corners matter more than pure climbing for GC positioning."
+    ],
+    "rider_signals": {
+      "LUTSENKO Alexey": "positive: won from early move despite two crashes, signals exceptional resilience and opportunism on hard finales",
+      "FUGLSANG Jakob": "positive: second place after team numerics forced rivals' hands, confirms form building toward Classics",
+      "YATES Adam": "neutral: third but lost 2 seconds to ROGLIČ through tactical passivity despite stronger team position",
+      "ROGLIČ Primož": "positive: gained 2 seconds on YATES through aggressive climbing despite mechanical chaos, strongest GC card played",
+      "DUMOULIN Tom": "negative: lost 23 seconds in late crash, effectively ending GC, suggests cornering vulnerability remains chronic issue",
+      "ALAPHILIPPE Julian": "negative: lost 23 seconds in same crash as DUMOULIN, rare positioning error in finale chaos",
+      "FORMOLO Davide": "neutral: finished alone 9 seconds down, isolated after break split but held decent GC position",
+      "DENNIS Rohan": "negative: abandoned after crash, major loss for Bahrain's Classics campaign",
+      "THOMAS Geraint": "neutral: in 10-man break suggesting either recovery ride or GC already conceded after poor start"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:04:01.878667+00:00"
+}

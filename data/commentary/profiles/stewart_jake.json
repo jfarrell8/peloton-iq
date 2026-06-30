@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Participates in long-range breakaways exceeding 187km, willing to commit to extended efforts in tailwind conditions though execution suggests pacing challenges.",
+  "team_tactics": "Deployed as domestique in breakaway duties, accepting high-risk, long-distance efforts to animate race and potentially deplete peloton resources.",
+  "terrain_preference": "Tailwind stages where sustained tempo over extreme distances is required; flat to rolling terrain enabling multi-hour breakaway attempts.",
+  "vulnerability": "Late-race cramp in extended efforts suggests fueling protocol weaknesses or inability to pace properly over 180km+ breakaway distances.",
+  "key_patterns": [
+    "Single observed cramping incident in 187km breakaway suggests potential nutrition or pacing issues.",
+    "Willing to commit to ultra-long breakaway efforts as domestique role.",
+    "Physical limitations exposed in final stages of extended tailwind breakaways."
+  ],
+  "form_trajectory": "unknown: Single cramping observation insufficient to determine trend; incident suggests execution issues rather than fitness decline",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "STEWART Jake",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 5",
+    "2022 La Vuelta ciclista a Espana Stage 5"
+  ]
+}

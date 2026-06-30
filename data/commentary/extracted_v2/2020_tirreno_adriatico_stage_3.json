@@ -1,0 +1,27 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 3",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-09",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WOODS Michael attacked Poggio Morello summit with 5.8km remaining, dropped MICKA on final kick after 2-rider breakaway cooperation",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Woods delayed final acceleration until inside 6km despite holding gap, forcing Micka into false cooperation expecting group return.",
+      "Kelderman led chase group sprint at 20sec suggesting EF calculated bonus seconds plus time gap worth more than unity.",
+      "Chase group hesitation with 13sec gap at 5.8km reveals GC contenders prioritize avoiding losses over preventing Woods escape."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: recognized stage profile pre-race as personal opportunity, then executed solo tactical plan without team needing to control",
+      "MICKA Rafal": "negative: ambushed by Woods acceleration despite being in 2-man move, suggesting inferior finish speed to climbing peers",
+      "KELDERMAN Wilco": "positive: led chase sprint rather than bridging gap, indicating Sunweb comfort with small time losses on wavy stages",
+      "THOMAS Geraint": "neutral: described as 'reborn' on Poggio Morello climb but finished 30sec down, suggesting form improving but incomplete",
+      "DUNBAR Eddie": "negative: explicitly noted as suffering on steepest hill while teammates animated, reveals current condition deficit",
+      "NIBALI Vincenzo": "negative: 43sec deficit requires work to recover, unexpected weakness on Tuscan terrain he historically dominates"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:20:44.038354+00:00"
+}

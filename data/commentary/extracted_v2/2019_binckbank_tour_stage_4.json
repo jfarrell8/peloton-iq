@@ -1,0 +1,27 @@
+{
+  "label": "2019 BinckBank Tour Stage 4",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-15",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HERSHEY Marc won stage 4 sprint from elite breakaway after repeatedly splitting peloton on climbs, defeating WELLENS Tim by inches.",
+    "winner": "HERSHEY Marc",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DEPLUS Laurens (Jumbo-Visma) repeatedly attacked on climbs forcing selection, but teammates in chase neutralized advantage showing conflicting team interests.",
+      "20-year-old HERSHEY refused to work final kilometers despite being weakest sprinter, stared down DEPLUS demanding he pace—youth boldness won.",
+      "GARCIA Ivan bridged to leaders but was deliberately dropped on final climb as trio recognized sprint danger, textbook pre-finish elimination.",
+      "WELLENS Tim went early knowing uphill drag finish favored sitting in, but HERSHEY's tactical rest in slipstream gave winning acceleration."
+    ],
+    "rider_signals": {
+      "HERSHEY Marc": "positive: 20-year-old U23 champion showed tactical maturity refusing to work despite being outnumbered, won uphill sprint against experienced pros",
+      "DEPLUS Laurens": "negative: attacked multiple times to split race but couldn't shake companions when it mattered, forced to work despite being strongest climber",
+      "WELLENS Tim": "neutral: experienced enough to lead out early on uphill finish but lost by inches, knows course from previous win yet miscalculated final effort",
+      "GARCIA Ivan": "negative: bridged heroically to leaders but was isolated and deliberately dropped on final climb, marking him as dangerous sprinter to eliminate",
+      "BENNETT Sam": "negative: reached for rain cape early signaling acceptance he'd finish behind winners, psychological concession on tough course"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:44:35.116498+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 17",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-24",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DANESE Alberto won a photo finish sprint by a tire width over Milan after Sennaert's 192km breakaway was caught at 5km to go.",
+    "winner": "DANESE Alberto",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Milan prevented Matthews joining breakaway citing sprint threat, then Matthews still nearly beat Milan from way-out launch.",
+      "GC teams including Ineos held position until exactly 3km mark, suggesting pre-race agreement on safety protocol timing.",
+      "Jayco-AlUla successfully led out Matthews against bigger pure sprinters through technical finale positioning him competitively."
+    ],
+    "rider_signals": {
+      "MATTHEWS Michael": "positive: competitive with pure sprinters Milan/Danese despite being puncheur type, launched from distance in technical finish",
+      "MILAN Jonathan": "negative: secured maglia ciclamino mathematically but lost two photo finishes showing positioning weakness in chaotic sprints",
+      "SENNAERT Lasse": "neutral: solo 192km effort caught 5km out confirms breakaway futility on flat sprint stages"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-17T22:01:29.041240+00:00"
+}

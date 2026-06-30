@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Late-race punchy attacks in final 2-3km on short climbs. Multiple repeated accelerations rather than single decisive move.",
+  "team_tactics": "Limited team support evident in critical moments; positioned to launch solo efforts rather than rely on leadout or pace-setting domestiques.",
+  "terrain_preference": "Hilly one-day classics with short, steep climbs in finale. Struggles when faced with superior pure sprinters on flatter finishes.",
+  "vulnerability": "Cannot sustain attacks when stronger riders (particularly fast finishers with climbing ability) mark and close gaps. Lacks decisive finishing speed after multiple efforts.",
+  "key_patterns": [
+    "Launches multiple attacks rather than single move, showing endurance over explosive power (2 races)",
+    "Strong late-race climbing reserves maintained even after missing positioning (2 races)",
+    "Attacks inside final 2-3km on climbs, not long-range moves (2 races)"
+  ],
+  "form_trajectory": "neutral: Podium finish at Amstel but attacks easily neutralized at Tour, suggesting inconsistent results against top opposition",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ALBASINI Michael",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2017 Tour de France Stage 19"
+  ]
+}

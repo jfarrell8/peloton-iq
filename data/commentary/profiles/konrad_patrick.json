@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Long-range solo attacks from 30-50km out, particularly effective when launched after group has been whittled down. Prefers calculated late-race moves rather than early opportunistic breaks.",
+  "team_tactics": "Deployed as dual-purpose rider: strong diesel domestique for GC leaders on climbs, or insurance policy in early breaks when team has GC ambitions. Capable of solo chase work matching WorldTour team outputs.",
+  "terrain_preference": "Mountain stages with extended final climbs where attrition plays out. Shows superior thermoregulation in hot conditions. Struggles on punchy final climbs when pace is explosive rather than steady.",
+  "vulnerability": "Gets distanced on sharp, explosive final climbs when protecting GC position. Less effective in one-day Monument scenarios where positioning requires constant high intensity rather than steady diesel work.",
+  "key_patterns": [
+    "Executes long solo attacks 37-50km from finish, learning from failures to refine timing (2021 TdF evidence)",
+    "Functions as GC insurance in early breaks, positioned 4-5 minutes back as tactical safety net",
+    "Performs extended solo chase work matching team outputs, diesel engine strength for summit finishes",
+    "Superior performance in heat/attrition scenarios; podiumed via thermoregulation advantage Tour de Suisse 2019",
+    "Top-10 placements in Monument support role; consistent positioning but not explosive enough for wins",
+    "Gets dropped on punchy final climbs when pace turns explosive rather than tempo-controlled"
+  ],
+  "form_trajectory": "neutral: Recent 2023 deployment in breakaway insurance roles suggests shift from stage-hunting to pure domestique duties, though 2022 top-10 finishes showed climbing strength remains intact.",
+  "races_analysed": 11,
+  "confidence": "high",
+  "rider_name": "KONRAD Patrick",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 2",
+    "2019 Tour de Suisse Stage 7",
+    "2019 Tour de Suisse Stage 9",
+    "2020 Giro d'Italia Stage 15",
+    "2020 Tirreno Adriatico Stage 3",
+    "2021 Tour de France Stage 16",
+    "2021 Tour de France Stage 16",
+    "2021 UAE Tour Stage 7",
+    "2022 Criterium du Dauphine Stage 3",
+    "2022 UAE Tour Stage 7",
+    "2023 Giro dItalia Stage 16",
+    "2023 Liege-Bastogne-Liege"
+  ]
+}

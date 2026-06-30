@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-16",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "SÁNCHEZ Luis León attacked solo with 12km remaining on the penultimate climb to win, ASGREEN Kasper took GC lead on minimal time gaps.",
+    "winner": "SÁNCHEZ Luis León",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "SÁNCHEZ Luis León timed his attack for 12km to go, exploiting the penultimate of six climbs when early break was absorbed.",
+      "ASGREEN Kasper gained GC lead through bonus second accumulation rather than time gaps, revealing stage control mattered more than pure climbing.",
+      "Teams allowed four-man early break including IMHOF Claudio who banked KOM points unopposed before controlled catch in final 35km."
+    ],
+    "rider_signals": {
+      "SÁNCHEZ Luis León": "positive: showed veteran timing by attacking exactly when early break caught with enough climbing left to hold off peloton",
+      "ASGREEN Kasper": "positive: took GC lead despite not winning, indicating Quick-Step positioned him perfectly for bonus seconds throughout stage",
+      "IMHOF Claudio": "neutral: banked KOM points from breakaway but mechanical with 12km left coincided with peloton's planned catch timing",
+      "DENNIS Rohan": "negative: lost GC lead by fractions despite starting as defending stage winner, suggesting Bahrain lacked control in finale",
+      "MATTHEWS Michael": "neutral: contested intermediate sprint for bonus seconds but couldn't follow late attack, showing GC focus over stage win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:11:38.650838+00:00"
+}

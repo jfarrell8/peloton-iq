@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-30",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "MODOLO Sacha won stage 2 Tour de Pologne by finding gaps in chaotic final kilometer sprint after final roundabout destroyed team leadouts",
+    "winner": "MODOLO Sacha",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Sky committed four riders to Poppel leadout but final roundabout at 1km destroyed organization, leaving messy sprint",
+      "Seven-rider team format explicitly noted as creating leadout chaos compared to standard eight-man squads for sprint control",
+      "Modolo won by freelancing left through gaps from 500m, while structured leadouts collapsed in narrow technical approach"
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "negative: boxed on left side at 500m, attempted right-hand gap that didn't exist, finished only 8th despite jersey",
+      "EWAN Caleb": "negative: mental fragility noted when leadout fails early, needs high-speed launch specifically or loses confidence and quits",
+      "POPPEL Danny": "positive: took race lead with second place despite Sky's four-man leadout collapsing, shows form improvement",
+      "MODOLO Sacha": "positive: first WorldTour win in two years exploiting messy sprints, historically excels when organization breaks down",
+      "HAN Nathan": "neutral: third consecutive stage near front in finale but no result, persistent positioning suggests form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:08:41.978340+00:00"
+}

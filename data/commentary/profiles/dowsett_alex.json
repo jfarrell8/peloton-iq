@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic solo moves exploiting hesitation, often attacking same climb multiple times to test opposition. Capable of long-range efforts, winning from final climb with full lap remaining.",
+  "team_tactics": "Operates with autonomy in breakaways rather than team-supported efforts. Positions himself in early moves on flat stages and climbs alike, adapting role beyond pure TT specialist.",
+  "terrain_preference": "Time trials (sub-16min ITT performance) and selective climbs where he can distance pursuers on descent/flat sections. Flat stages for breakaway positioning, not pure sprint leadout.",
+  "vulnerability": "Can be dropped on climbs initially but compensates with tactical re-attacks. Early starters in time trials gain minimal advantage, suggesting course/weather conditions matter significantly.",
+  "key_patterns": [
+    "Multiple attacks on same climb to exhaust opposition, evidenced twice in Giro stage win",
+    "Consecutive days in breakaways shows opportunistic animation across multi-day races (Guangxi, Romandie)",
+    "Holds time trial hot seat positions for extended periods through exceptional pacing ability",
+    "Wins solo by exploiting peloton hesitation after sustained efforts, not pure power surges"
+  ],
+  "form_trajectory": "positive: 2022 TT performance (5th overall, sub-16min) and 2020 stage win demonstrate sustained ability to compete at WorldTour level beyond pure TT specialist role",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "DOWSETT Alex",
+  "built_from": [
+    "2018 Tour de Romandie Stage 2",
+    "2018 Tour of Guangxi Stage 2",
+    "2020 Giro d'Italia Stage 8",
+    "2020 Giro d'Italia Stage 8",
+    "2022 Tirreno-Adriatico Stage 1",
+    "2022 Tirreno-Adriatico Stage 1"
+  ]
+}

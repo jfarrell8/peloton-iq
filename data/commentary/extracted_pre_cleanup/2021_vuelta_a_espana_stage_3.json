@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TARAMAE Rein took stage and red jersey from 8-rider breakaway on Picon Blanco; MOSS Enric attacked in final 50m of peloton for GC seconds.",
+    "winner": "TARAMAE Rein",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deliberately ceded red jersey to breakaway rider TARAMAE, avoiding early-race domestique burden while ROGLIC remains nearby GC.",
+      "MOSS Enric attacked final 50 meters with only YATES Adam responding; ROGLIC shadowing LOPEZ's wheel neutralized sprint bonus threat.",
+      "Movistar preserved climbers until final climb rather than chasing all day, contrasting with their historically aggressive early expenditure.",
+      "CARAPAZ Richard lost over 60 seconds on Picon Blanco mountaintop finish despite Olympic form, signaling immediate GC crisis."
+    ],
+    "rider_signals": {
+      "TARAMAE Rein": "positive: won stage and took GC lead from breakaway; InterMarche now controls race for multiple days.",
+      "ROGLIC Primoz": "neutral: marked LOPEZ perfectly to neutralize time bonuses; isolated but controlled situation on final climb.",
+      "MOSS Enric": "positive: strongest GC climber in final 50m, only YATES could follow; gained crucial seconds on favorites.",
+      "CARAPAZ Richard": "negative: lost over 60 seconds on first summit finish despite recent Olympic gold; immediate GC hopes compromised.",
+      "CARTHY Hugh": "negative: lost significant time on Picon Blanco after previous day's losses; doubts about stage-race form.",
+      "VALVERDE Alejandro": "positive: paced entire final climb for Movistar at high tempo; unusual worker role suggests LOPEZ/MOSS prioritization."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:19:48.867785+00:00"
+}

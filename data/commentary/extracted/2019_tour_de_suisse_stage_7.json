@@ -1,0 +1,29 @@
+{
+  "label": "2019 Tour de Suisse Stage 7",
+  "race_name": "Tour de Suisse",
+  "race_date": "2019-06-21",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked inside 3km to go on Gstaad summit finish, distancing DENNIS Rohan by 23 seconds before crucial TT.",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BERNAL attacked with only 3km remaining on summit finish, late enough to prevent organized chase from Dennis support.",
+      "Bahrain-Merida used POZZOVIVO as decoy attacker then had him drop back to pace DENNIS, two-rider defensive tactic.",
+      "Movistar set tempo through SWIFT Ben before final kilometers, allowing BERNAL to attack fresh off team pace.",
+      "MAS Enric bridged ahead briefly before BERNAL's decisive move, testing GC group before team leader's attack."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: Attacked late (3km) on summit finish to gain crucial time buffer before weak TT discipline against specialist.",
+      "DENNIS Rohan": "negative: Lost 23 seconds despite teammate POZZOVIVO pacing, concerning defensive position before his strongest TT stage.",
+      "POZZOVIVO Domenico": "neutral: Deployed as initial attacker then domestique for DENNIS, tactical flexibility at veteran age.",
+      "FRANK Mathias": "positive: Caught breakaway inside 10km on home climb, local knowledge enabling late-race strength.",
+      "KONRAD Patrick": "neutral: Fourth place at 23 seconds, finishing with main GC group behind podium.",
+      "HIRT Jan": "neutral: Fifth place in GC group, maintaining position without notable move.",
+      "MAS Enric": "positive: Briefly ahead before final 3km, aggressive positioning suggests form despite no result."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:12:32.025887+00:00"
+}

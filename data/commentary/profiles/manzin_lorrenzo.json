@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Sprinter who contests field sprints rather than initiating attacks. Lacks the typical launch pattern of pure sprinters, suggesting positioning or timing vulnerabilities in finale.",
+  "team_tactics": "Teams have experimented with his leadout hierarchy, sometimes protecting him (Trek sacrificing Venturini) and sometimes using him as a secondary option, indicating unclear sprint leadership status.",
+  "terrain_preference": "Flat sprint stages where he can survive to the finale. Struggles identified during mountainous Grand Tour stages based on difficult Vuelta campaign reference.",
+  "vulnerability": "Inconsistent sprint results despite team support suggests issues with positioning, timing, or power in final 200m. Multi-week Grand Tours appear to diminish his competitiveness.",
+  "key_patterns": [
+    "Used as variable sprint option rather than clear protected leader across different teams (2 instances)",
+    "Shows capability for podium finishes but lacks consistent winning conversion rate (2 instances)",
+    "Grand Tour participation yields difficult campaigns with isolated good results rather than sustained performance"
+  ],
+  "form_trajectory": "unknown: limited recent data with 2019 showing experimental team role and 2017 showing isolated success amid struggles",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MANZIN Lorrenzo",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 21",
+    "2019 Criterium du Dauphine Stage 3"
+  ]
+}

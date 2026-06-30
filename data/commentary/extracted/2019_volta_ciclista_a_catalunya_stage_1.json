@@ -1,0 +1,27 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-25",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DE GENDT Thomas won Stage 1 from a breakaway by over 3 minutes, taking race lead, while MATTHEWS Michael won bunch sprint for second place.",
+    "winner": "DE GENDT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE GENDT Thomas sustained 4h14m solo breakaway with 3+ minute advantage, signaling peloton's GC conservatism on opening stage.",
+      "MATTHEWS Michael contested sprint despite 13+ minute deficit to breakaway, revealing teams prioritized positioning over chase organization.",
+      "FROOME Chris crash with still 900m remaining left him outside time cut considerations, illustrating danger of early-stage positioning errors."
+    ],
+    "rider_signals": {
+      "DE GENDT Thomas": "positive: fourth Catalunya stage win confirms his ability to exploit tactical disinterest on hard stages",
+      "MATTHEWS Michael": "positive: won bunch sprint comfortably, showing early-season form despite conceding stage to breakaway",
+      "VALVERDE Alejandro": "neutral: contested sprint but clearly waiting for selective stages rather than committing early",
+      "FROOME Chris": "negative: crashed with 900m to go and finished 13+ minutes down, already compromised before mountain stages",
+      "MCCARTHY Jay": "negative: involved in same late crash as Froome, hitting kerb at critical positioning moment",
+      "SCHILLINGER Andreas": "negative: caught in late crash, losing time and damaging GC prospects on flat stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:15:00.817752+00:00"
+}

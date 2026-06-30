@@ -1,0 +1,26 @@
+{
+  "label": "2018 Giro d'Italia Stage 1",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-04",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DUMOULIN Tom won the 9.7km Jerusalem ITT by one-thousandth of a second over Dennis, averaging over 48kph in extreme heat.",
+    "winner": "DUMOULIN Tom",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Dennis and Froome both adopted extremely high tribars position for aerodynamics on exposed Jerusalem course, revealing equipment tactics.",
+      "GONZALEZ Jose finished 9s down unexpectedly from Katusha, suggesting Portuguese climbers may hide TT form better than traditionally expected.",
+      "Froome crashed on course recon yet lost only 35s, indicating he paced conservatively rather than risking further incident."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: Won by thousandth-second margin sustaining 48kph as big rider in heat, confirming exceptional power-to-drag profile.",
+      "DENNIS Rowan": "positive: Led for extended period at 48.1kph average, nearly beat world champion despite losing by milliseconds.",
+      "FROOME Chris": "neutral: Lost 35s after crash on recon but rode cautiously to 19th, clearly prioritizing later mountain stages.",
+      "GONZALEZ Jose": "positive: Finished 2nd provisionally at 9s down from Katusha, major overperformance from non-TT specialist.",
+      "MARTIN Tony": "negative: Former world champion lost 25s to Dumoulin, signaling decline from peak time-trialing dominance."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:18:42.306153+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2021 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-17",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won shortened Stage 10 sprint after BORA-HANSGROHE shredded field from 43km out, eliminating NIZZOLO and MERLIER before final kilometer GC crash.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-HANSGROHE pulled hard from 43km on short stage to eliminate sprinters before traditional leadout range began.",
+      "INEOS tactically grabbed intermediate sprint bonuses via EVENEPOEL-NARVAEZ reaction when Deceuninck attempted leadout, BERNAL took 1 second.",
+      "SAGAN positioned behind MORLUINI then switched corners rather than following own leadout, indicating planned chaos sprint strategy."
+    ],
+    "rider_signals": {
+      "NIZZOLO Giacomo": "negative: dropped on pace-making 40km+ from finish despite Ganna assistance, sprint form nowhere near 2016 Foligno runner-up level",
+      "MERLIER Tim": "negative: eliminated by sustained pace before final 20km, indicating poor climbing capacity for lumpy sprint stages",
+      "EVENEPOEL Remco": "positive: cut BERNAL's GC lead from unknown to 14 seconds via aggressive intermediate sprint positioning",
+      "CAVIA Elia": "negative: chose not to follow own MORLUINI leadout, suggesting team tactics breakdown or rider-pilot miscommunication",
+      "VIVIANI Elia": "negative: barely top 10 finish signals continued decline from peak sprint form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:36:34.864245+00:00"
+}

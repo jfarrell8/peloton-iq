@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Not a primary attacker; excels in reduced bunch sprints with perfectly timed late kicks inside final 500m. Thrives when late breakaways are absorbed, positioning for sprint finishes.",
+  "team_tactics": "Limited data on team setup, but appears to operate with autonomy in reduced sprints. No clear evidence of dedicated lead-out train; relies on individual positioning and timing.",
+  "terrain_preference": "Reduced bunch scenarios after selective racing suit him best. Struggles on steep gradients (10%+) and altitude. Technical sprint finishes expose poor road furniture awareness.",
+  "vulnerability": "Steep climbs and altitude drop him from contention. Technical finishes with road furniture pose crash risk. Cannot match pure climbers on 10%+ gradients for GC ambitions.",
+  "key_patterns": [
+    "Punches above pure sprinter weight in reduced groups after selective racing (2 observations)",
+    "Perfectly timed late kicks inside final 500m deliver wins from non-favorite positions (2 observations)",
+    "Dropped on steep gradients 10%+ and altitude, limiting stage race GC ambitions (2 observations)",
+    "Technical finishing circuits reveal poor awareness of road furniture, crash risk (1 major incident)"
+  ],
+  "form_trajectory": "negative: 2021 Giro showed fundamental limitation on steep/altitude climbs that undermines Grand Tour ambitions beyond stage hunting",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "MCCARTHY Jay",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 3",
+    "2018 Itzulia Basque Country Stage 3",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2019 Volta Ciclista a Catalunya Stage 2",
+    "2021 Giro d'Italia Stage 19"
+  ]
+}

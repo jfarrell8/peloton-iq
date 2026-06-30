@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Opportunistic long-range breakaway specialist (190km+) who aggressively targets intermediate classification points (KOM climbs, bonus seconds) rather than stage wins. Executes strategic raids to lock up jerseys before final stages.",
+  "team_tactics": "Given freedom to pursue alternative classifications from early breaks. Operates independently in long-range moves, targeting point accumulation over stage hunting. Team allows solo classification-focused missions.",
+  "terrain_preference": "Sustained power terrain: long breakaways in extreme heat, repeated intermediate climbs for KOM points, and cobbled power sections (matched Sagan's tempo at 20km in Roubaix). Track background provides sprint reserve after 200km+ efforts.",
+  "vulnerability": "Early-race crashes eliminate him despite pre-race favorites status (Roubaix 2023). Velodrome sprint finishes neutralize his road power advantage despite track pedigree. Appears less effective when forced into pure sprinter role.",
+  "key_patterns": [
+    "Swept all KOM climbs from breakaways in two separate stage races to secure classification early (Guangxi, Suisse 2018)",
+    "Systematically hunted intermediate sprint bonus seconds for GC positioning, finishing 2nd overall via time bonuses (Romandie 2018)",
+    "Converted ultra-long breakaways (190km+) into wins using superior late-stage reserves despite inferior sprint credentials",
+    "Demonstrated exceptional sustained power in extreme conditions: 50km break in 36°C heat, matching Sagan on cobbles 20km out",
+    "Track background provides finishing sprint after endurance efforts but disadvantage in pure velodrome finishes"
+  ],
+  "form_trajectory": "negative: 2023 Roubaix crash suggests fragility or positioning issues. Peak tactical pattern (2018 KOM/bonus hunting) not replicated in recent years. Limited recent positive signals beyond 2022 survival effort.",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "DILLIER Silvan",
+  "built_from": [
+    "2017 Giro d'Italia Stage 6",
+    "2017 Giro d'Italia Stage 6",
+    "2018 Paris-Roubaix",
+    "2018 Paris-Roubaix",
+    "2018 Tour de Romandie Stage 1",
+    "2018 Tour de Romandie Stage 1",
+    "2018 Tour de Suisse Stage 5",
+    "2018 Tour de Suisse Stage 5",
+    "2018 Tour of Guangxi Stage 1",
+    "2018 Tour of Guangxi Stage 1",
+    "2018 Tour of Guangxi Stage 5",
+    "2018 Tour of Guangxi Stage 5",
+    "2022 Tour de Suisse Stage 5",
+    "2023 Paris-Roubaix"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-11",
+  "stage": 3,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won Tour of Guangxi Stage 3 in a sprint finish after breakaway was controlled, taking race lead on bonus seconds.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Quick-Step relied entirely on JAKOBSEN to deliver record-breaking win rather than deploying veteran sprinters, revealing confidence in young talent.",
+      "Intermediate sprint bonus seconds contested aggressively by breakaway riders DOULL and VAN HOOIDONK rather than gift-wrapped, suggesting tight GC calculations.",
+      "GROENEWEGEN's lotto team controlled pace for GC defense but failed to deliver him sprint positioning, exposing team resource allocation weakness."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Seventh win of rookie season beating established German sprint school riders, now leads overall via bonus seconds",
+      "GROENEWEGEN Dylan": "negative: Failed to contest podium despite team pacing all day, lost race lead despite starting stage in red",
+      "DOULL Owain": "neutral: Aggressively hunted intermediate sprint bonuses from breakaway, showing Sky willing to invest diesel domestique energy for marginal GC gains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:41:12.137695+00:00"
+}

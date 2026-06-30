@@ -1,0 +1,25 @@
+{
+  "label": "2022 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC's Jumbo-Visma won the 23km TTT by 13 seconds over Ineos, with GESINK crossing first to claim the leader's jersey on home roads in Netherlands.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Groupama-FDJ sacrificed riders early to maximize Yates' time advantage, losing teammates but posting surprisingly fast time for climber squad.",
+      "QuickStep's inexperience cost them victory despite strong ride; young squad couldn't manage pacing to keep all riders together efficiently.",
+      "Jumbo-Visma brought flat specialists Eekhoff, Teunissen, Dennis alongside Roglic showing TTT-specific roster construction rather than pure climbing support."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: BikeExchange/Groupama squad posted unexpectedly competitive TTT times despite being climber-focused rosters, suggesting strong form heading into mountains",
+      "EVENEPOEL Remco": "neutral: QuickStep went too hard early with Evenepoel pulling strongly, revealing possible overconfidence in short TTT pacing discipline",
+      "ROGLIC Primoz": "positive: 13-second margin over Ineos shows Jumbo brought TTT-optimized roster depth, not just GC protection squad",
+      "GESINK Robert": "positive: Team chose him to cross first for sentimental leader's jersey at age 36, revealing team morale prioritization over pure performance optics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:31:51.917898+00:00"
+}

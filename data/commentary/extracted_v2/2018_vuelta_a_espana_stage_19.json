@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-14",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon bridged to early break on final climb, then attacked solo in final kilometers to gain time on GC rivals including dropped VALVERDE.",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES bridged to QUINTANA break after Movistar set pace, exploiting domestique work for own GC benefit.",
+      "VALVERDE punctured after raising arm for assistance, Movistar's pace-setting backfired when leader mechanicaled under pressure.",
+      "Sky's FROOME unable to follow YATES bridge despite team control, weakness exposed on final mountain stage.",
+      "PINOT used YATES bridge group as screen before attacking for stage win in final kilometers."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: bridged to break despite being marked GC threat, then held time gaps proving peak form",
+      "VALVERDE Alejandro": "negative: punctured after signaling mechanical issues, couldn't respond when rivals attacked despite team setting pace",
+      "QUINTANA Nairo": "neutral: appeared spent force but may have waited for VALVERDE, ambiguous strength on climb",
+      "FROOME Chris": "negative: under pressure and couldn't follow YATES bridge despite Sky's resources",
+      "PINOT Thibaut": "positive: took second stage win after using break as tactical screen, legs returned post-Covadonga"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:41:37.459628+00:00"
+}

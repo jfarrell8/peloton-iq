@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour of Oman Stage 1",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-14",
+  "stage": 1,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won a headwind bunch sprint after experience from 2016 victory positioned him perfectly when BOONEN crashed at finish.",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "KRISTOFF's course knowledge from prior year victory proving decisive in headwind positioning suggests stage winners return with edge.",
+      "Breakaway averaging 49km/h but maintaining only 2-3min gap indicates teams controlling tempo without committing sprinter domestiques early."
+    ],
+    "rider_signals": {
+      "BOONEN Tom": "negative: crashed in sprint finish, suggesting positioning error or fatigue in headwind conditions",
+      "KRISTOFF Alexander": "positive: translating prior venue experience into tactical positioning advantage in technical headwind sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:10:35.480084+00:00"
+}

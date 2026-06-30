@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2021-08-10",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "HERSHEY Marc attacked 1km out on final Code Echedorf ramps, exploited Quintana's visible weakness and isolated race leader Almeida to steal yellow by 4 seconds.",
+    "winner": "HERSHEY Marc",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Turgis went 10.5km out but failed; successful move came inside 1km when peloton hit steepest ramps after attrition.",
+      "UAE burned Almeida's entire team on chase, leaving him isolated for critical final kilometer where he couldn't respond.",
+      "Formolo appeared to pace-make for Hershey before attack, suggesting pre-planned UAE internal hierarchy favored young rider over Almeida."
+    ],
+    "rider_signals": {
+      "HERSHEY Marc": "positive: attacked precisely when Quintana showed visible front-wheel weaving on steep ramps, demonstrating opportunistic race-reading ability beyond typical young rider",
+      "QUINTANA Nairo": "negative: front wheel weaved visibly on 12-13% ramps that previously suited him, clear signal of diminished climbing power on steep gradients",
+      "ALMEIDA Pedro": "negative: team completely exhausted before final kilometer despite holding yellow, poor resource management left him defenseless when attacks came",
+      "TURGIS Anthony": "neutral: 10.5km attack gained 30 seconds but caught; confirms these short climbs require sub-1km moves to succeed",
+      "FORMOLO Davide": "neutral: appeared to pace for Hershey despite Almeida in yellow, revealing UAE prioritized young rider jersey over protecting existing lead"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:54:42.755247+00:00"
+}

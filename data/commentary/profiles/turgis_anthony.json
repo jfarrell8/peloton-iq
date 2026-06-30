@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches long-range kamikaze attacks (10+ km from finish), often solo moves from breakaway or chase groups. Willing to gamble on sustained efforts that force opponents to respond before key climbs or finale.",
+  "team_tactics": "Given freedom to pursue opportunistic moves even when team already controls classifications. Minimal visible domestique support; operates as autonomous aggressor forcing rivals to commit resources.",
+  "terrain_preference": "Cobbled Classics suit him best (Top-4 Monument finish, bridged to favorites at Flanders twice). Can handle short punchy climbs but lacks sustained climbing power on steeper gradients.",
+  "vulnerability": "Cannot sustain long solo efforts when gradients steepen toward finish. Power fades on prolonged climbs after committing to early attacks, allowing chasers to neutralize.",
+  "key_patterns": [
+    "Bridges to elite groups solo in Classics, showing unexpected resilience (2x Flanders evidence)",
+    "Launches premature solo attacks 10km+ out that force rival teams to chase",
+    "Opportunistic KOM/breakaway hunting even when tactically unnecessary for team",
+    "Finishes top-5 in Monument-level bunch sprints, exceeding puncheur expectations"
+  ],
+  "form_trajectory": "neutral: showed Monument podium potential in 2020 Flanders but 2021 Poland attack demonstrated persistent weakness sustaining power on climbs",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "TURGIS Anthony",
+  "built_from": [
+    "2020 Paris - Nice Stage 5",
+    "2020 Ronde van Vlaanderen",
+    "2021 Ronde van Vlaanderen - Tour des Flandres",
+    "2021 Tour de Pologne Stage 2",
+    "2021 Tour de Pologne Stage 2"
+  ]
+}

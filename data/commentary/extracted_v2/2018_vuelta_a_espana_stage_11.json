@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-05",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DE MARCHI Alessandro attacked solo before final climb summit, refusing to let strong sprinter RESTREPO catch him, winning by gap on descent despite admitting poor legs",
+    "winner": "DE MARCHI Alessandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DE MARCHI forced early summit attack knowing RESTREPO would out-sprint him, prioritizing descent gap over energy conservation.",
+      "Education First muscled the front in rough weather conditions, suggesting team targets deteriorating conditions for aggressive racing.",
+      "Lotto-Jumbo paced defensively to prevent GC group splitting from PINOT's breakaway, neutralizing 19-second potential virtual lead shift.",
+      "PINOT's breakaway attempt with 2:33 deficit failed when main GC teams unified, showing top teams won't allow dangerous climbers breaks."
+    ],
+    "rider_signals": {
+      "DE MARCHI Alessandro": "positive: Won despite self-admitting poor legs by superior tactical positioning, first win in 3 years signals rediscovered race-reading ability",
+      "PINOT Thibaut": "negative: Failed to gain time from breakaway despite 2:33 deficit and strong climbing credentials, GC groups now mark him aggressively",
+      "YATES Simon": "neutral: Red jersey team allowed Lotto-Jumbo to control chase, suggesting confidence or unwillingness to burn own team",
+      "RESTREPO": "negative: Strong enough to bridge to DE MARCHI but got out-maneuvered tactically, failed to force cooperation before finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:40:01.424940+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Veteran opportunist who attacks solo with ~12km remaining on penultimate climbs, exploiting transitions when early breaks are caught. Prefers medium-length efforts over sustained grinding.",
+  "team_tactics": "Operates independently without significant team support; takes yellow jerseys via breakaway collaboration rather than domestique-led setups. Minimal reliance on teammates for positioning or tempo.",
+  "terrain_preference": "Excels on technical uphill finishes and medium mountain stages with multiple shorter climbs. Exposed on sustained steep gradients (6%+ average) and time trials where age-related decline is evident.",
+  "vulnerability": "Time trials consistently cause GC losses (1:15+ gaps). Sustained steep climbing leads to cracking; dropped on Turini and 4-minute losses on longer climbs. Extended early efforts result in poor finishes.",
+  "key_patterns": [
+    "Attacks with exactly 12km remaining on penultimate climbs when early breaks caught (2+ wins)",
+    "Time trial weakness costs 1:15-4:00 repeatedly, undermining GC ambitions despite strong road racing",
+    "Breakaway collaboration over team support: takes GC positions opportunistically without domestiques (3+ instances)",
+    "Age-related cracking on sustained steep gradients; dropped on Turini, 4-minute losses on extended climbs",
+    "Technical positioning skills remain sharp: contests reduced sprint groups, defends yellow through positioning"
+  ],
+  "form_trajectory": "negative: 2022 Tour shows significant decline—cracked badly after breakaway attempt, finished only 12th. Age (40+) increasingly limiting sustained efforts.",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "SANCHEZ Luis Leon",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 7",
+    "2018 Giro d'Italia Stage 4",
+    "2018 Paris-Nice Stage 3",
+    "2018 Paris-Nice Stage 4",
+    "2018 Paris-Nice Stage 5",
+    "2018 Paris-Nice Stage 6",
+    "2018 Paris-Nice Stage 7",
+    "2019 Paris-Nice Stage 5",
+    "2019 Paris-Nice Stage 7",
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 5",
+    "2019 Tour de Suisse Stage 5",
+    "2019 Vuelta a Espana Stage 8",
+    "2022 Tour de France Stage 14"
+  ]
+}

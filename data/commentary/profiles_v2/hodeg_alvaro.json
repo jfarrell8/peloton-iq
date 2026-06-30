@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter relying on lead-out delivery rather than independent attacking. Requires organized launch at 800m-250m from the line on flat finishes.",
+  "team_tactics": "Quick-Step lead-out train deployment from 3km out, with Mørkov as final pilot delivering at 800m. Depends entirely on domestique positioning and cannot recover from tactical errors.",
+  "terrain_preference": "Flat sprint finishes only. Exposed and dropped on even shallow climbs (4.8% average), eliminating him from contention in stage races with any vertical gain.",
+  "vulnerability": "Concentration lapses at critical high-speed moments (roundabouts, positioning switches). Cannot sustain form across multiple consecutive days. Vulnerable to blocking tactics in final 250m.",
+  "key_patterns": [
+    "Loses wheels or position at technical high-speed moments despite good initial placement (2 instances)",
+    "Fades in final 250m when lead-out disrupted, cannot finish independently (2 instances)",
+    "Dropped immediately on any sustained climbing, even shallow gradients eliminate him (evidence: 4.8% climb)",
+    "Shows form transfer ability across race types when fresh (Handzame to Catalunya stage 1)"
+  ],
+  "form_trajectory": "negative: positioned well but fading in sprints (5th at BinckBank), plus critical errors under pressure suggest declining sharpness",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HODEG Alvaro",
+  "built_from": [
+    "2018 Tour de Pologne Stage 2",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Volta Ciclista a Catalunya Stage 2",
+    "2019 BinckBank Tour Stage 2"
+  ]
+}

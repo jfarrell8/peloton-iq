@@ -1,0 +1,28 @@
+{
+  "label": "2022 Ronde van Vlaanderen - Tour des Flandres",
+  "race_name": "Ronde van Vlaanderen - Tour des Flandres",
+  "race_date": "2022-04-03",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL won after POGACAR attacked with 24km to go building decisive gap, but refused to work with VAN DER POEL in final kilometer allowing VAN BAAL and MADOUAS to nearly catch them",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR attacked at 24km creating select group of five, then solo accelerated but fatally refused cooperation in final kilometer",
+      "VAN HOYDONK and KOCH animated early climbs despite teammates ahead, revealing Quick-Step's willingness to burn domestiques for positioning advantage",
+      "MADOUAS and VAN DER POEL bridged significant gaps after being out of position, showing diesel-engine capacity matters more than perfect positioning",
+      "VAN BAAL's second place from chase group proves staying wheels 10-15 seconds back superior to leading out sprint against VAN DER POEL"
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "negative: tactical naivety in monument debut - refused pulls in finale from winning position, finished fourth after controlling at 24km",
+      "VAN DER POEL Mathieu": "positive: bridged from out of position before Paterberg then survived POGACAR's accelerations showing monument-specific resilience absent in 2022 spring",
+      "MADOUAS Valentin": "positive: made podium from chase group after bridging efforts on Coppenberg, signals genuine classics engine beyond French championship fluke",
+      "VAN BAAL Dylan": "positive: second place from chase demonstrates superior monument race-craft, recognized POGACAR's non-cooperation as tactical opportunity",
+      "TRENTIN Mattia": "neutral: animated at 54km with ASGREEN on wheel but faded, suggests one-attack capacity in monuments now",
+      "LAPORTE Christophe": "negative: crashed despite elevated team status replacing VAN AERT, finished top-10 but invisible tactically"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:18:42.269958+00:00"
+}

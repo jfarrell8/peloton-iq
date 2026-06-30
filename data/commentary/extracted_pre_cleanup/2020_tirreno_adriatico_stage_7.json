@@ -1,0 +1,29 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 7",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-13",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu bridged a 30km solo by FABBRO Matteo in the final 500m of the Loreto wall, beating GUERREIRO Ruben by 4 seconds.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN DER POEL Mathieu held back while GUERREIRO Ruben chased, then launched final 500m when gradient steepest—conservation trumped early pursuit",
+      "FABBRO Matteo's 30km solo nearly succeeded because GC teams deferred to VAN DER POEL rather than organizing chase themselves",
+      "KELDERMAN Wilco finished 4th despite no lead-out, suggesting Sunweb prioritized GC positioning over sprint collaboration on this finish",
+      "YATES Simon's 16-second margin over MAJKA Rafał entering TT reveals defensive riding—he admitted wanting more buffer, signaling vulnerability"
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: Won two consecutive stages with different tactical approaches, showing versatility and repeatedly timed final accelerations perfectly on steep gradients",
+      "FABBRO Matteo": "positive: Nearly held 30km solo on hot day after 'one and a half hour' of attacks, indicating exceptional endurance reserves",
+      "GUERREIRO Ruben": "positive: Distanced the chasers before VAN DER POEL's final surge, confirming climbing superiority over most classics riders",
+      "YATES Simon": "negative: Admitted 16-second GC lead feels insufficient before TT, suggesting mental weakness or awareness of poor time trialing form",
+      "KELDERMAN Wilco": "positive: Fourth place without team support on punchy finish indicates improving condition late in stage race",
+      "THOMAS Geraint": "neutral: Finished in main GC group 39 seconds down, relies entirely on TT to salvage podium",
+      "MAJKA Rafał": "neutral: Only 16 seconds behind YATES entering TT, but commentary implies time trial disadvantage remains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:33:09.012386+00:00"
+}

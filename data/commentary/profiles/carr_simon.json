@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Attacks early from breakaways on climbs, but lacks finishing power to sustain efforts to the line. Classic opportunistic climber moves without elite punch.",
+  "team_tactics": "EF Education willing to invest high-quality domestiques (Bettiol) into breakaway setups for low-probability outcomes. Team prioritizes positioning over preservation.",
+  "terrain_preference": "Hilly one-day races with multiple climbs where breakaway survival matters more than explosive finishing. Exposed on punchy finales requiring sustained high-end power.",
+  "vulnerability": "Lacks elite-level finishing legs after hard efforts. Gets caught after initiating attacks, suggesting power duration limitations on critical climbs.",
+  "key_patterns": [
+    "Attacks first from established breakaways but gets reabsorbed, pattern across GT and Monument (2 races)",
+    "Survives deep into hilly races from breaks, showing endurance over explosive power (2 observations)",
+    "Team deploys quality domestiques for his breakaway gambles despite low win probability (2 instances)"
+  ],
+  "form_trajectory": "neutral: Consistent breakaway role across 2021-2022 without progression in finishing capability or attack success rate",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CARR Simon",
+  "built_from": [
+    "2021 Giro d'Italia Stage 9",
+    "2022 La Fleche Wallonne",
+    "2022 La Fleche Wallonne"
+  ]
+}

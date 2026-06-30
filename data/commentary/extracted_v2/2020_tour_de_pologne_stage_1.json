@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-05",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 1 Tour Down Under after Deceuninck-QuickStep delivered him at 200m, holding off PHILIPSEN's superior acceleration with sustained power.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LAWLESS Chris positioned EF for sprint suggesting HOWSON not pure GC focus despite hilly profile tomorrow.",
+      "Deceuninck-QuickStep with MØRKØV delivered BENNETT at 200m, unusually early for modern leadouts, exploiting BENNETT's sustained power advantage.",
+      "GC riders like PORTE stayed forward through final lap indicating positioning critical even on non-selective sprint stages."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: power-based sprint style holds acceleration better than PHILIPSEN late, suits earlier leadout deployment",
+      "PHILIPSEN Jasper": "negative: superior acceleration faded final 100m, suggests immature power endurance for extended sprints",
+      "IMPEY Daryl": "positive: contesting intermediate sprint at km15 signals GC aggression unusual for secondary TDU favorite",
+      "ROSSKOPF Joey": "neutral: polka dot hunting suggests CCC lacking sprint or GC options stage 1",
+      "VAN BAARLE Dylan": "negative: Ineos sprinting with BASKAK indicates VIVIANI already compromised or team confusion"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:27:03.397160+00:00"
+}

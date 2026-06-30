@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-12",
+  "stage": 6,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "MARTIN Dan attacked early on final climb into headwind, held off chasers including Thomas and Porte who couldn't bridge despite GC teams pulling.",
+    "winner": "MARTIN Dan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Martin's solo attack succeeded into headwind specifically because first part of climb was raced so hard teammates were eliminated.",
+      "Richie Porte worked for Van Avermaet's yellow jersey defense rather than own GC, revealing BMC priority hierarchy early.",
+      "Quick-Step's early stage aggression forced BMC to conserve energy, allowing Van Avermaet to retain yellow despite expectations.",
+      "Thomas couldn't bridge to Martin despite superior GC strength, showing headwind negates normal power advantages on this finish type."
+    ],
+    "rider_signals": {
+      "MARTIN Dan": "positive: Attacked early into headwind and held off stronger GC riders, suggesting peak form after struggling entire season including being dropped at Flèche Wallonne",
+      "PORTE Richie": "neutral: Rode for Van Avermaet's yellow defense instead of own position, indicating BMC hasn't committed to his GC yet",
+      "THOMAS Geraint": "positive: Showed clear strength attempting to bridge to Martin but couldn't close gap into headwind",
+      "VAN AVERMAET Greg": "positive: Retained yellow despite expectations of losing it, benefiting from Quick-Step forcing others to work early",
+      "LATOUR Pierre": "positive: Second place finish at three seconds shows climbing legs present for future mountain stages",
+      "ANDERSON Soren Kragh": "negative: Lost time with 5km to go, caught behind traffic and team cars"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:32:09.201606+00:00"
+}

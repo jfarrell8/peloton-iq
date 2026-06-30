@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who exploits GC team battles rather than solo attacks from contender groups. Launches from peloton to bridge gaps when bigger teams are focused on each other.",
+  "team_tactics": "Team strategically places him in breakaways to offload GC workload or uses domestiques as bridges before his attack. Willing to sacrifice jerseys to gain tactical freedom for his stage hunting.",
+  "terrain_preference": "Thrives on stages where GC riders neutralize each other, particularly in stage races where he can gain time through breakaway inclusion. Nice/technical finishes show repeat success pattern.",
+  "vulnerability": "Lacks explosive acceleration to escape marking from Sky/top teams when identified as threat. Poor descending skills and positioning issues—crashed on technical descent, struggles with corner positioning.",
+  "key_patterns": [
+    "Repeated stage wins at same venue (Nice 2017-2018) by exploiting GC battles",
+    "Uses breakaway inclusion for GC time gaps rather than sustained climbing dominance",
+    "Team strategically offloads race lead workload by placing him in breaks (Vuelta 2019)",
+    "Attacks from peloton to bridge when domestique or teammate creates launchpad",
+    "Technical descents and positioning errors expose weaknesses under pressure"
+  ],
+  "form_trajectory": "negative: 2023 crash on technical descent suggests declining bike handling, no recent positive results show tactical evolution",
+  "races_analysed": 9,
+  "confidence": "high",
+  "rider_name": "DE LA CRUZ David",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 11",
+    "2017 Vuelta a Espana Stage 14",
+    "2017 Vuelta a Espana Stage 3",
+    "2017 Vuelta a Espana Stage 9",
+    "2018 Paris-Nice Stage 8",
+    "2018 Paris-Nice Stage 8",
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 6",
+    "2019 Vuelta a Espana Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2023 Tour de France Stage 12"
+  ]
+}

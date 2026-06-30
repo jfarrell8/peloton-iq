@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-19",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz won Stage 9 ITT, gaining 3+ minutes on Yates who collapsed after initial strength, while Nibali excelled mid-course.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Nibali gained 20 seconds on Yates specifically on middle flat section between time checks, defying ITT specialist expectations.",
+      "Roglic paced for wet finale perfectly while Campenaerts' early dry conditions yielded 20-30 second advantage despite mechanical.",
+      "Yates started fastest at 11.7km mark but imploded on climb, losing 3+ minutes despite being 17s behind Roglic early."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: won despite starting in rain while early starters had dry roads, showing superior pacing/climbing TT power",
+      "YATES Simon": "negative: catastrophic collapse after strong 11.7km split, losing 3+ minutes and falling from GC contention on climb",
+      "NIBALI Vincenzo": "positive: unexpectedly strong middle section gained 20s on Yates between time checks, best among GC riders there",
+      "CAMPENAERTS Victor": "neutral: mechanical cost 20-30s and likely stage win, but dry early conditions gave significant advantage over late starters",
+      "CONTI Valerio": "positive: took Maglia Rosa from breakaway credit, mature performance holding position despite not being GC threat",
+      "JUNGELS Bob": "positive: only 11s behind Roglic at first time check, showing TT strength but couldn't sustain on climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:52:03.337059+00:00"
+}

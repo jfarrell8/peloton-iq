@@ -1,0 +1,29 @@
+{
+  "label": "2019 BinckBank Tour Stage 4",
+  "race_name": "BinckBank Tour",
+  "race_date": "2019-08-15",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim won a three-up sprint at Hulst by exploiting a tactical rest in HIRSCHI's slipstream before throwing on the uphill finish.",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DE PLUS Laurens repeatedly attacked on climbs to fragment the group, showing Jumbo-Visma's willingness to use him aggressively.",
+      "GARCÍA CORTINA Iván bridged to leaders but was deliberately dropped by the trio before the finish to eliminate sprint threat.",
+      "WELLENS used sprinting experience to tuck into slipstream on drag before final acceleration, beating younger HIRSCHI on throw.",
+      "No team controlled the race despite weather and terrain favoring breakaways, creating chaotic multi-attack selection race."
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "positive: Initiated multiple successful splits on climbs showing climbing punch superior to teammates' expectations for him",
+      "WELLENS Tim": "positive: Won from break and takes race lead, demonstrated tactical maturity exploiting uphill finish drag positioning",
+      "HIRSCHI Marc": "positive: At 20 years old matched DE PLUS and WELLENS on repeated climbs, only lost sprint by centimeters",
+      "GARCÍA CORTINA Iván": "neutral: Strong enough to bridge gap alone but deliberately isolated and dropped as sprint threat before finale",
+      "VAN AVERMAET Greg": "negative: Expected to be strong in these conditions but was dropped when DE PLUS split the race",
+      "BENNETT Sam": "negative: Reached for rain cape early suggesting he knew course was too hard, abandoned fight for stage",
+      "GANNA Filippo": "negative: Crashed in poor conditions, suggesting discomfort on technical wet parcours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:51:26.072743+00:00"
+}

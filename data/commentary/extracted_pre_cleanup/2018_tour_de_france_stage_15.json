@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tour de France Stage 15",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-22",
+  "stage": 15,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "CORT Magnus won from an 8-rider breakaway sprint in Carcassonne, controlling from the front with teammate VALGREN taking fourth to secure the stage.",
+    "winner": "CORT Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CORT Magnus demonstrated breakaway sprint control by leading from first position throughout final kilometer, exploiting superior confidence over IZAGIRRE Ion.",
+      "Team Astana deployed dual-rider breakaway tactic with VALGREN Michael providing blocking/positioning support while CORT Magnus conserved energy for sprint finish.",
+      "CALMEJANE Lilian as local rider failed to capitalize on home advantage despite reaching final breakaway group, finishing only seventh."
+    ],
+    "rider_signals": {
+      "CORT Magnus": "positive: Won leading out own sprint from first position for final kilometer, showing exceptional tactical confidence and power endurance combination.",
+      "VALGREN Michael": "positive: Sacrificed own sprint finish to secure teammate victory, jumped away from chasers for fourth demonstrating strong breakaway form.",
+      "IZAGIRRE Ion": "negative: Possessed second-best sprint in 8-rider group but hesitated to initiate final sprint, allowing CORT Magnus to control from front.",
+      "CALMEJANE Lilian": "negative: Failed to convert local rider advantage into stage win despite making final breakaway selection, finished only seventh.",
+      "THOMAS Geraint": "neutral: Retained yellow jersey on rest day eve with zero time changes in top five, riding defensively with FROOME Chris support.",
+      "MARTIN Dan": "negative: Dropped to 10th overall at 6:54 behind, significant GC position loss before Pyrenees without recovering time in transition stages."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:34:38.368912+00:00"
+}

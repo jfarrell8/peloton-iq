@@ -1,0 +1,27 @@
+{
+  "label": "2017 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2017-06-07",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "PORT Richie won the 23.5km ITT by 12 seconds over Martin and 37 over Froome, taking second overall behind surprise yellow jersey DUMOULIN Thomas.",
+    "winner": "PORT Richie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Port beat Froome by 37 seconds in 23.5km ITT despite Froome's recent dominance, suggesting form hierarchy shift.",
+      "Dumoulin held yellow by finishing top-10 in ITT as climbing specialist, signaling improved time trial capacity.",
+      "Valverde limited losses to 1 second/km against specialist Port, revealing unusually strong TT form for stage racer."
+    ],
+    "rider_signals": {
+      "PORT Richie": "positive: Beat Martin by 12s and Froome by 37s in 23.5km, confirming Tour de Romandy TT dominance translates to Dauphine form peak",
+      "FROOME Chris": "negative: Lost 37 seconds to Port in 23.5km despite characteristic effort, already 10s down at mid-race checkpoint",
+      "BARDET Romain": "negative: Lost 2 minutes to Martin as second-place GC rider, exposing major ITT weakness before mountain stages",
+      "DUMOULIN Thomas": "positive: Finished top-10 in ITT to retain yellow despite climbing specialist profile, defying expectations from Tour de France stage-2 collapse",
+      "VALVERDE Alejandro": "positive: Third place losing only 1s/km to Port reveals exceptional TT form for typically inconsistent time trialist",
+      "MARTIN Tony": "neutral: World champion set 28:19 benchmark but beaten by Port, suggesting peaked form timing off"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:53:42.457278+00:00"
+}

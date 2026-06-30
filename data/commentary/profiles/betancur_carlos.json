@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Launches multiple attacks on climbs but lacks finishing punch to deliver knockout blow. Capable of sustained solo bridging efforts but typically absorbed or outsprinted in final kilometers.",
+  "team_tactics": "Initially positioned as protected leader but vulnerable to internal team hierarchy challenges. Limited evidence of systematic team setup; appears to operate independently in key moments.",
+  "terrain_preference": "Mountain stages with circuit finales or sustained climbs where endurance matters. Struggles to convert attacking position into stage wins on any terrain when matched by stronger finishers.",
+  "vulnerability": "Cannot shake elite climbers (Roglič, Thomas) despite repeated attacks. Lacks killer instinct in final 700m, consistently settling for minor placings when within winning position.",
+  "key_patterns": [
+    "Attacks climbs repeatedly but fails to drop top GC riders (2 instances against Roglič/Thomas)",
+    "Strong enough to reach winning positions but absorbed in final kilometers (2 instances)",
+    "Settles for wheel-sitting when matched rather than countering or continuing pressure (Romandie 2019)",
+    "Team leadership status unstable, vulnerable to being superseded by teammates (Carapaz at Giro 2018)"
+  ],
+  "form_trajectory": "negative: Demonstrating consistent pattern of near-misses and leadership uncertainty. Cannot convert opportunities despite reaching podium positions.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "BETANCUR Carlos",
+  "built_from": [
+    "2018 Giro d'Italia Stage 12",
+    "2018 Giro d'Italia Stage 8",
+    "2018 Tour de Romandie Stage 4",
+    "2019 Tour de Romandie Stage 1"
+  ]
+}

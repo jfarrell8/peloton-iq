@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Shows willingness to enter early breakaways but lacks sustained climbing power to maintain position when terrain becomes selective, even on modest gradients.",
+  "team_tactics": "Functions as a domestique performing positioning work for sprinters and protected riders; takes on road captain duties organizing team tactics rather than pursuing personal results.",
+  "terrain_preference": "Flat to rolling terrain where positioning and sprint lead-outs are valued; exposed and dropped quickly when gradients increase, even on transitional climbs.",
+  "vulnerability": "Cannot sustain efforts on any meaningful climbing terrain; gets dropped on modest climbs 75km+ from finish, indicating poor climbing economy and power-to-weight limitations.",
+  "key_patterns": [
+    "Performs team positioning duties for sprinters and GC riders rather than personal ambitions (2 observations)",
+    "Dropped early when racing reaches selective climbing terrain despite being in favorable position (2 observations)",
+    "Takes tactical/organizational role within team rather than pursuing individual results (2 observations)"
+  ],
+  "form_trajectory": "neutral: Limited data but consistent role as domestique; 2021 shows same climbing weakness as previous seasons without deterioration or improvement",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "LAWLESS Chris",
+  "built_from": [
+    "2020 Tour de Pologne Stage 1",
+    "2021 Paris-Nice Stage 1"
+  ]
+}

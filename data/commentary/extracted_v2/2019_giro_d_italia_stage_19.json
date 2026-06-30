@@ -1,0 +1,27 @@
+{
+  "label": "2019 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-31",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHAVEZ Esteban won Stage 19 with repeated attacks in final 8km, finally breaking clear at 2.5km after multiple accelerations cracked his companions.",
+    "winner": "CHAVEZ Esteban",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CHAVEZ attacked repeatedly without creating gap until competitors cracked psychologically, not physiologically—persistence over single explosive move won.",
+      "CARAPAZ shadowed ROGLIC's late finishing attacks immediately, showing GC leader defending by wheel-following rather than maintaining tempo.",
+      "LOPEZ attacked 7.9km out despite being down in GC, recouping significant time by going early when favorites still controlling.",
+      "LANDA mechanical at critical moment reveals Trek-Segafredo's vulnerability to equipment failure on decisive climbs with no teammates for bike changes."
+    ],
+    "rider_signals": {
+      "CHAVEZ Esteban": "positive: multiple failed attacks didn't deter continued aggression—mental resilience indicator for future breakaway selections",
+      "ROGLIC Primoz": "neutral: attempted late finishing attacks for time splits but CARAPAZ immediately marked every move, showing neither weakness nor dominance",
+      "LOPEZ Miguel Angel": "positive: attacked 7.9km out while lower in GC and still gained nearly 1 minute, suggesting willingness to gamble early pays dividends",
+      "LANDA Mikel": "negative: mechanical at worst moment with no team support nearby exposes Trek-Segafredo's poor positioning in critical finale",
+      "CARAPAZ Richard": "positive: defended pink jersey by immediate reaction to ROGLIC rather than setting tempo, showing tactical flexibility under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:49:52.864090+00:00"
+}

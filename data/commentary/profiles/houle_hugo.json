@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who commits to all-day escapes rather than late attacks. Prefers technical finales where positioning and sprinting from small groups decide the outcome.",
+  "team_tactics": "Benefits from team morale and support (attacked day after teammate's win), but appears to operate independently in breakaways with limited dedicated domestique support in finale situations.",
+  "terrain_preference": "Technical finales with corners in final kilometers that favor positioning over pure power. Comfortable in long breakaways on rolling terrain but not a pure climber or sprinter.",
+  "vulnerability": "Exposed when forced into leadout or tactical racing roles against savvier opponents. Conservative decision-making when race-winning moves occur (failed to counter Skelmose). Lacks experience in stage-winning tactics.",
+  "key_patterns": [
+    "Commits to all-day breakaways rather than late-race attacks (Tour stage 13, 14)",
+    "Shows reluctance in tactical leadout situations, exploited by more experienced riders (Tour x2)",
+    "Conservative racing when in podium position, prioritizes safe result over attacking for win",
+    "Strong technical bike handling through corner sequences, uses for sprint positioning advantage"
+  ],
+  "form_trajectory": "neutral: 2023 podium showed consistent ability to reach selections but revealed tactical conservatism compared to aggressive 2022 Tour breakthrough",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HOULE Hugo",
+  "built_from": [
+    "2022 Tour de France Stage 13",
+    "2022 Tour de France Stage 13",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 17",
+    "2023 Bretagne Classic - Ouest-France"
+  ]
+}

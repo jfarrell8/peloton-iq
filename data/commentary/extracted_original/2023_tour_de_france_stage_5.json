@@ -1,0 +1,30 @@
+{
+  "label": "2023 Tour de France Stage 5",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-05",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai soloed from early break on Col de Marie Blanc to take stage and yellow, VINGEGAARD dropped POGAČAR by 1:04 when attacking on same climb",
+    "winner": "HINDLEY Jai",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma attacked Marie Blanc when yellow jersey dropped, not waiting for Pogačar cooperation, maximizing gap tactically",
+      "HINDLEY exploited early break with 22-second GC deficit to leapfrog into yellow, not just stage hunting",
+      "UAE Emirates cracked defending yellow on first HC climb at stage 5, exposing depth issues earlier than expected",
+      "POGAČAR found willing domestique in YATES during chase, suggesting cross-team alliances forming against Vingegaard's dominance"
+    ],
+    "rider_signals": {
+      "HINDLEY Jai": "positive: Tour debut GC threat at 22s proved legitimate, attacked from break on Marie Blanc to take stage and yellow by 47s",
+      "VINGEGAARD Jonas": "positive: Attacked and dropped Pogačar by 1:04 on Marie Blanc, gaining time while rival defended yellow jersey duties",
+      "POGAČAR Tadej": "negative: Dropped when Vingegaard attacked Marie Blanc, required Yates assistance in chase, lost yellow and 1:04 to rival",
+      "YATES Adam": "negative: Lost yellow jersey on first HC climb, dropped to fifth at 1:40, UAE depth concerns confirmed",
+      "RODRIGUEZ Carlos": "negative: Last of elite group dropped on Marie Blanc, suggests unable to follow when racing intensifies",
+      "GAL Felix": "positive: Took KOM jersey by attacking for points on Sourde and Marie Blanc from break",
+      "BERNAL Egan": "negative: Lost significant time on Marie Blanc, indicating continued struggles post-injury",
+      "LANDA Mikel": "negative: Dropped badly on Marie Blanc, raising questions about GC viability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:22:27.418798+00:00"
+}

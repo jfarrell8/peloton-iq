@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-28",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked solo on final climb, held gap to finish line, extending GC lead over BETANCUR and PORTE",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ neutralized BETANCUR's repeated attacks by staying seated to conserve power before launching solo counter on uphill section.",
+      "BETANCUR's aggressive multi-attack strategy on climb failed when unable to sustain gap after ROGLIČ's single decisive counter-move.",
+      "FUGLSANG positioned for time bonuses at intermediate sprints despite being 2:08 down, suggesting team targeting stage podium not GC."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: controlled repeated attacks while seated then accelerated once to create winning gap, showing superior power management",
+      "BETANCUR Carlos": "negative: multiple attacks on climb failed to crack ROGLIČ, moved into second GC but couldn't win stage",
+      "PORTE Richie": "neutral: limited to third overall at 35 seconds, no visible attack attempt on queen stage climb",
+      "FUGLSANG Jakob": "neutral: moved to fourth overall at 1:16 but focused on intermediate sprint rather than following decisive climb moves"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:40:41.238011+00:00"
+}

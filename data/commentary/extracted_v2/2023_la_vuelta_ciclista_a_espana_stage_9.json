@@ -1,0 +1,27 @@
+{
+  "label": "2023 La Vuelta Ciclista a Espana Stage 9",
+  "race_name": "La Vuelta Ciclista a Espana",
+  "race_date": "2023-09-03",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "KÄMNA Lennard attacked with 4.8km remaining on the final wall, soloed to complete his Grand Tour stage win set after GC neutralization at 2km removed pressure.",
+    "winner": "KÄMNA Lennard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Organizers neutralized GC at 2km out due to mud, eliminating bonus seconds and reducing peloton incentive to chase breakaway.",
+      "Jumbo-Visma accidentally infiltrated early break with six riders, forcing peloton restructure before proper breakaway established.",
+      "Crosswind splits caught GC contenders Martinez and Dier; Bora prioritized Vlasov's GC position over chasing teammate Kämna in break.",
+      "Vlasov actively hunted bonus seconds at GC finish while Evans/Roglic exchanged small attacks, revealing tight top-10 standings importance."
+    ],
+    "rider_signals": {
+      "KÄMNA Lennard": "positive: Attacked 4.8km out on 20-23% gradients, confirms breakaway specialization across all three Grand Tours",
+      "VLASOV Alexander": "positive: Aggressively seeking bonus seconds despite GC neutralization suggests he's competitive for top-10, not just defending",
+      "MARTINEZ Lenny": "negative: Former race leader caught out in crosswind splits, exposing weakness in positioning/team support",
+      "HAMILTON Chris": "neutral: DSM rider first to respond on final climb but lacked reserves, typical domestique effort",
+      "EVENEPOEL Remco": "neutral: Tested Roglic on climb despite GC neutralization, maintaining aggressive posture before rest day time trial"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:51:03.937177+00:00"
+}

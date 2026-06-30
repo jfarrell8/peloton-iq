@@ -1,0 +1,27 @@
+{
+  "label": "2023 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BUITRAGO Santiago attacked final 1.5km on Tre Cime di Lavaredo; ROGLIC Primoz took 3 seconds from THOMAS Geraint in final 200m using equipment gambit.",
+    "winner": "BUITRAGO Santiago",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC Primoz changed to mountain bike gearing (44t rear) before final climb, enabled final 200m acceleration for bonus seconds.",
+      "THOMAS Geraint attempted own late attack inside 300m but ROGLIC held wheel through COURT Magnus for bonus protection.",
+      "Breakaway allowed extended freedom with 50kph opening hour suggesting GC teams wanted controlled final climb without early attrition.",
+      "ALMEIDA Joao lost nearly minute on final slopes despite sitting on THOMAS wheel, revealing weakness at extreme gradients near 20%."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: proactive equipment change and tactical aggression in final 200m shows confidence before crucial mountain TT",
+      "THOMAS Geraint": "neutral: defended pink but attempted desperate late counter reveals concern about 26-second margin before Monte Lussari TT",
+      "ALMEIDA Joao": "negative: losing minute on final slopes after sitting protected position exposes vulnerability at extreme gradients",
+      "HEALY Ben": "neutral: marked PINO Thibaut in KOM competition but caught by breakaway rider reveals aggressive tactics exhausted reserves",
+      "BUITRAGO Santiago": "positive: caught GEE Derek with 1.5km remaining and distanced immediately, altitude native advantage decisive on 2300m finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:02:55.317731+00:00"
+}

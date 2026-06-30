@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 19",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DAINESE Alberto won chaotic sprint after late crash at sub-500m eliminated GROVES and exposed absence of dominant leadout train.",
+    "winner": "DAINESE Alberto",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Without cohesive leadout trains, sprint chaos at 200m caused multi-team collision when riders leaned into wind shelter.",
+      "ROGLIC admitted post-Stage 17 team orders constrain him from attacking KUSS despite clear dissatisfaction with helper role.",
+      "SEVCIK team protected KUSS on climbs for first time all Vuelta, contrasting earlier every-man-for-himself approach on Tourmalet.",
+      "EF rider shoulder-checking while drifting caused pile-up, revealing fatigue-induced positional errors on Stage 19 of GT."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: publicly stated 'I have my own thoughts' about team orders, signaling internal tension despite committing not to attack KUSS",
+      "KUSS Sepp": "positive: received organized climbing support from SEVCIK for first time, marking tactical shift after Stage 17 summit",
+      "GROVES Kaden": "negative: touched wheels at second position sub-500m despite strong form, exposing positioning vulnerability in chaotic sprints",
+      "POGACAR Filip": "negative: launched sprint too early without leadout, nearly won but faded in final 50m against DAINESE",
+      "OLIVEIRA Nelson": "negative: crashed earlier in stage on previously injured elbow, eliminating MILANO's primary leadout option"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:06:56.837282+00:00"
+}

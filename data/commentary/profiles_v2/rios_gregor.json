@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Bold, long-range solo efforts in final kilometers (7km out). Willing to gamble on sustained efforts rather than short punchy accelerations, showing aggressive racing beyond experience level.",
+  "team_tactics": "Insufficient data to establish team patterns. Appears to operate with autonomy for opportunistic moves rather than protected setups.",
+  "terrain_preference": "Unknown - single observation shows capability on finishing circuits allowing sustained tempo efforts, but terrain type unclear from available data.",
+  "vulnerability": "Cannot sustain long solo efforts to the line - caught with 1.6km remaining after burning matches on 5+ kilometer solo breakaway. May lack top-end sprint finish after hard efforts.",
+  "key_patterns": [
+    "Attacks solo at 7km to go, committing fully to long-range efforts",
+    "Gains significant time gaps quickly (45 seconds) suggesting strong initial acceleration and tempo",
+    "Fades in final 2km after extended solo efforts, caught before finish"
+  ],
+  "form_trajectory": "unknown: Single race observation shows promise with dangerous attacking at just 19 years old, but insufficient data to establish trajectory",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "RIOS Gregor",
+  "built_from": [
+    "2017 Tour de Pologne Stage 7",
+    "2017 Tour de Pologne Stage 7"
+  ]
+}

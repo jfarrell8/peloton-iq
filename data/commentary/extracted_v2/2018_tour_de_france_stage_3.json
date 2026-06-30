@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-09",
+  "stage": 3,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET takes yellow as BMC wins 35km TTT by 4 seconds over Sky, capitalizing on winter-long R&D investment and four course reconnaissances.",
+    "winner": "BMC Racing Team",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC's December R&D commitment and four course previews (including three in one day) proved decisive over Sky's raw horsepower.",
+      "Sky deliberately ceded 3 seconds to avoid yellow jersey media/protocol burden until rest day after stage nine.",
+      "VANGARDEN took massive final 200m pull with only five riders remaining, revealing BMC's depth management strategy through attrition."
+    ],
+    "rider_signals": {
+      "VANGARDEN TJ": "positive: Led BMC's winning effort with massive closing pull, confirmed world-class ITT form from California tour",
+      "PORTE Richie": "positive: Strong TTT performance suggests GC form despite previous doubts about team support quality",
+      "CRADDOCK Lawson": "positive: Heroic TTT contribution with broken shoulder blade exceeded warmup-based expectations, took actual pulls for URAN",
+      "FROOME Chris": "negative: Already 50+ seconds down on GC before mountains, Sky tactically satisfied despite time loss",
+      "SMITH Dion": "positive: Looked strongest on his team during TTT despite holding polka dots, suggesting genuine climbing form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:31:25.904842+00:00"
+}

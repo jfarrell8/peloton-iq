@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Opportunistic attacks targeting alternative objectives (KOM points, positioning) rather than pure stage wins. Attacks deployed across multiple laps/climbs when outright victory appears unlikely.",
+  "team_tactics": "Flexible resource allocation based on race situation: commits full domestique depth (including GC riders) for protected rider positioning, prioritizes GC support over sprint opportunities when hierarchy demands.",
+  "terrain_preference": "Circuit races with multiple climbing opportunities for repeated attacks; final climbs where deep domestique support can deliver tactical advantage for positioning or sprint leadouts.",
+  "vulnerability": "Appears to lack outright firepower for stage wins on difficult terrain, forcing pivot to secondary objectives. Mechanical incidents trigger resource-intensive recovery operations that expose team priorities.",
+  "key_patterns": [
+    "Multiple riders attack for KOM points when stage win unlikely (2 observations)",
+    "Uses GC-caliber domestiques for leadout/positioning work, not reserved for pure GC support (2 observations)",
+    "Commits disproportionate resources to recover/protect designated leaders from setbacks (2 observations)",
+    "Tactical flexibility: shifts objectives mid-race based onwin probability assessment (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2023 data shows continued opportunistic approach without clear performance progression from 2022 patterns",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "EF Education",
+  "built_from": [
+    "2022 Tour de France Stage 2",
+    "2022 Tour de Suisse Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 7"
+  ]
+}

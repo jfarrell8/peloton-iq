@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Enters early breakaways but prioritizes team objectives over personal result. Willing to expend energy pacing on final climbs rather than pursuing stage victory.",
+  "team_tactics": "Functions as a domestique within breakaway situations, using advanced position to pace GC leaders when they bridge across. AG2R deploys him in early moves with dual purpose.",
+  "terrain_preference": "Climbs where he can set tempo from breakaways. Suited to mountain stages where early break tactics can assist protected riders.",
+  "vulnerability": "Limited personal ambition in breakaways when team has GC interests. Unlikely to contend for wins when fulfilling domestique role.",
+  "key_patterns": [
+    "Sacrifices personal result from breakaway to support GC teammates (Tour de Suisse 2023)",
+    "Paces protected riders on final climbs after establishing breakaway position early",
+    "AG2R uses him tactically in breaks to bridge gap for GC contenders"
+  ],
+  "form_trajectory": "unknown: single race observation shows tactical discipline but insufficient data for form assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DEWULF Stan",
+  "built_from": [
+    "2023 Tour de Suisse Stage 4",
+    "2023 Tour de Suisse Stage 4"
+  ]
+}

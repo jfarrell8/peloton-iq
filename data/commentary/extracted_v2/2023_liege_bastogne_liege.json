@@ -1,0 +1,26 @@
+{
+  "label": "2023 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2023-04-23",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco successfully defended his Liege-Bastogne-Liege title with a solo attack on Côte de la Redoute at 30km to go, winning by 1:06 over PIDCOCK.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL repeated his exact 2022 winning move from Côte de la Redoute at 30km, yet field still couldn't respond.",
+      "Soudal Quick-Step pre-damaged field before EVENEPOEL's attack, indicating Belgian squad learned from solo World Championship effort.",
+      "HEALY Ben attacked for podium in final kilometer knowing his inferior sprint, demonstrating tactical awareness over passive sitting."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Won despite internal team tension and negative press from management, suggesting mental resilience under pressure improved since 2022.",
+      "PIDCOCK Tom": "positive: Second place at 1:06 shows climbing range extended beyond typical one-day profile after Flanders success.",
+      "POGACAR Tadej": "negative: Crashed out at 55 miles, eliminating anticipated head-to-head after dominating spring (Sanremo, Flanders, Amstel).",
+      "LANDA Mikel": "neutral: Third at Fleche but team decimated by positive COVID tests pre-race, reducing EF tactical options.",
+      "BUITRAGO Santiago": "positive: Third place sprint suggests Colombian climbers can finish Monument podiums when pure puncheurs like VAN AERT absent."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:51:18.179913+00:00"
+}

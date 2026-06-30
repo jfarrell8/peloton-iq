@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-27",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the sprint after Quick-Step controlled a 3000m altitude stage alone, beating NIZZOLO Giacomo in the final straight.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step controlled entire stage in single file without peloton cooperation, burning SERRY and ASGREEN on climbs preemptively.",
+      "PÖSTLBERGER attempted solo acceleration at 72km/h before 2km to go, demonstrating aggressive leadout disruption tactics.",
+      "Sky worked only until summit of climbs then withdrew, revealing unwillingness to aid sprint teams in altitude stages.",
+      "CONSONNI and VIVIANI exchanged looks suggesting Italian coalition despite different teams, indicating informal nationalism before sprint."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: First Grand Tour stage win on 3000m altitude course demonstrates evolved climbing capacity for pure sprinter",
+      "NIZZOLO Giacomo": "negative: Lost head-to-head sprint against compatriot despite Quick-Step committing all resources to control",
+      "SAGAN Peter": "neutral: Positioned perfectly with WALSCHEID leadout but did not contest final 200m, suggesting selective sprint targeting",
+      "ASGREEN Kasper": "positive: Young rider pulled all day on altitude stage for Quick-Step, showing unexpected domestique endurance capacity",
+      "PÖSTLBERGER Lukas": "positive: Solo attack late in stage at extreme speed shows residual form from national championship campaign"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:49:03.495458+00:00"
+}

@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Operates from breakaways rather than bunch sprints. Tactically manages energy expenditure to survive climbs while preserving sprint capacity for final kilometers.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns. Appears to operate independently within breakaway contexts.",
+  "terrain_preference": "Hilly stages with selective climbs that thin breakaways but don't eliminate his sprint advantage. Vulnerable on sustained steep gradients but capable of bridging short gaps in closing kilometers.",
+  "vulnerability": "Gets dropped on final climbs when pace is sustained, relying on tactical hesitation from stronger climbers to bridge back. Pure mountain stages would expose climbing limitations.",
+  "key_patterns": [
+    "Accepts being dropped on climbs, then bridges when rivals hesitate (2019 Giro evidence)",
+    "Prioritizes energy conservation over breakaway cooperation to maintain sprint advantage (both Giro appearances)",
+    "Targets intermediate points and secondary objectives from breaks (2017 KOM collection, 2019 sprint win)",
+    "Exploits tactical indecision among stronger climbers in final kilometers to salvage position"
+  ],
+  "form_trajectory": "unknown: only 2019 data available, showing smart tactical execution but insufficient recent observations",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "BENEDETTI Cesare",
+  "built_from": [
+    "2017 Giro d'Italia Stage 1",
+    "2019 Giro d'Italia Stage 12",
+    "2019 Giro d'Italia Stage 12"
+  ]
+}

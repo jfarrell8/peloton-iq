@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-22",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR attacked 45 seconds behind with 31km to go, bridged with Vingegaard, then won stage from elite five-man finale.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pogačar attacked from deficit position at 31km out requiring Vingegaard to chase, flipping usual Tour dynamic where yellow jersey defends.",
+      "Adam Yates executed leadout for Pogačar final kilometer, abandoning own stage ambitions to secure UAE teammate's morale win.",
+      "Simon Yates attacked from chase group during final climb, gaining GC position over Carlos Rodriguez through speculative late move."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: still attacking from 7+ minutes down, suggesting psychological need for stage win outweighs energy conservation for future years",
+      "VINGEGAARD Jonas": "neutral: marked Pogačar's attack but showed no interest in contesting stage, prioritizing GC security over marginal gains",
+      "YATES Adam": "positive: sacrificed stage opportunity to lead out Pogačar, indicating UAE's team cohesion remains intact despite GC defeat",
+      "YATES Simon": "positive: attacked independently from chase group while brother worked for Pogačar, moving to fourth GC through late-race opportunism",
+      "GALL Felix": "negative: despite being close in KOM standings, couldn't follow final elite group suggesting single-climb specialist vulnerability",
+      "GAUDU David": "negative: crashed out of top-10 contention on penultimate stage, revealing fragility for podium ambitions in future Grand Tours"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:21:39.508794+00:00"
+}

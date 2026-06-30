@@ -1,0 +1,24 @@
+{
+  "label": "2022 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-23",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT won Stage 20 ITT (his third stage of the race), while VINGEGAARD sealed overall victory by extending his lead over POGAČAR by 8 seconds.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "VAN AERT repeated his Stage 20 ITT victory from 2021, suggesting Jumbo-Visma has systematic late-Tour ITT preparation advantage.",
+      "VINGEGAARD visibly eased near finish after confirming safety margin, prioritizing GC security over stage hunting once gaps confirmed."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: Third stage win of 2022 Tour matching 2021 total, won both Stage 20 ITTs consecutive years.",
+      "VINGEGAARD Jonas": "positive: Extended GC lead by 8s in final ITT despite appearing to soft-pedal finish, complete control.",
+      "THOMAS Geraint": "positive: Second-best time shows 2018 winner maintains elite ITT form, likely reporting course intel to team.",
+      "GANNA Filippo": "neutral: Referenced as course scout for THOMAS, revealing Team Ineos uses early starters for recon intelligence."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:23:24.207425+00:00"
+}

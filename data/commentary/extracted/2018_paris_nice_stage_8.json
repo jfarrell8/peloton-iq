@@ -1,0 +1,27 @@
+{
+  "label": "2018 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-11",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SOLER Marc attacked over 40km from finish on final climb, gained 38 seconds to win Paris-Nice by 4 seconds over YATES Simon",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SOLER exploited 6th overall position 37 seconds down by attacking ultra-early, banking on leaders marking each other not chasing.",
+      "IZAGIRRE brothers plus WELLENS coalition specifically targeted YATES yellow jersey on final climb, revealing GC collaboration against race leader.",
+      "GORKA Gorka crashed dragging brother ION down, showing dual-brother team tactics create correlated risk in decisive moments.",
+      "DE LA CRUZ David won stage from break but SOLER took GC via time bonuses, revealing split objectives even within same breakaway."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "positive: won GC from 6th at 37 seconds down via 40km solo effort, suggests exceptional TT strength on short climbing stages",
+      "YATES Simon": "negative: lost yellow by 4 seconds despite having it, failed to respond when IZAGIRRE/WELLENS coalition attacked him specifically",
+      "DE LA CRUZ David": "positive: second consecutive Paris-Nice final stage win suggests specialization in short technical mountain stages",
+      "WELLENS Tim": "positive: led coalition to dislodge yellow jersey despite not contending GC himself, indicates super-domestique role",
+      "IZAGIRRE Gorka": "negative: crashed on final climb taking brother down, weak descending or positioning under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:31:00.441248+00:00"
+}

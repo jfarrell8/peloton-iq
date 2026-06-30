@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Suisse Stage 6",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-17",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DENZ Nico won a photo finish from the breakaway on Moosalp after 18km climb neutralized all late attacks with no GC changes.",
+    "winner": "DENZ Nico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israel Premier Tech refused to chase despite Fulsang's 1-second GC lead, preserving team resources over defending yellow.",
+      "Ineos burned Martinez domestique work despite Pidcock COVID withdrawal, suggesting thin climbing depth for Thomas's GC defense.",
+      "Thomas forced late sprint with 400m remaining attempting GC split, revealing desperation for bonus seconds on summit finish.",
+      "Simmons bridged 11.2km deficit on 18km climb, showing recovery ability after being dropped suggests pacing error not form."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: only 1-second deficit but needed domestique support and failed sprint gambit shows no superiority over Fulsang",
+      "FULSANG Jakob": "neutral: Chased down Schachmann personally rather than relying on teammates, concerning workload management for race leader",
+      "PIDCOCK Tom": "negative: COVID withdrawal cost Ineos crucial mountain support when Thomas needed resources on 18km climb",
+      "SIMMONS Quinn": "positive: Bridged 11km gap after being dropped suggests either pacing intelligence or exceptional recovery capacity",
+      "DENZ Nico": "positive: First WT win on HC climb breakaway shows emerging climbing capability beyond domestique expectations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:55:47.106009+00:00"
+}

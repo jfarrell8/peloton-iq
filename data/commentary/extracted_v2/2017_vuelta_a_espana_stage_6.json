@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-24",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARTIN SKI Tomasz won from breakaway while CONTADOR attacked Puerto del Garbiella 40km out, splitting favorites but gaining no time as chase groups reunited on descent",
+    "winner": "MARTIN SKI Tomasz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CONTADOR attacked Puerto del Garbiella 40km out forcing selection, but favorites' mutual marking on descent nullified the move completely.",
+      "Breakaway never exceeded 3 minutes despite 20 riders, suggesting peloton controlled tempo expecting late-race selection on Puerto del Garbiella.",
+      "VAN GARDEREN crashed in final kilometers yet lost only 17 seconds, indicating favorites' group fractured but didn't press advantages.",
+      "CHAVEZ and URÁN regained Contador group on descent after being dropped on climb, showing descending skills crucial for limiting losses."
+    ],
+    "rider_signals": {
+      "CONTADOR Alberto": "positive: animated Puerto del Garbiella climb with Tinkoff support, showing recovery from Andorra struggles but still 3+ minutes down overall",
+      "VAN GARDEREN Tejay": "negative: dropped on Puerto del Garbiella climb then crashed in finale while holding 2nd GC, revealing fragility under pressure",
+      "FROOME Chris": "neutral: followed Contador's attack successfully but conservative tactics suggest prioritizing time defense over aggressive racing",
+      "CHAVEZ Esteban": "positive: dropped on climb but regained contact on descent, demonstrating technical descending can compensate for climbing weaknesses"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:15:32.222388+00:00"
+}

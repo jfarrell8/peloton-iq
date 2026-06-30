@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Launches long-range attacks 10km+ from finish on climbs, relying on diesel engine capacity to sustain efforts. Prone to overextending when attacking too early, particularly beyond 10km threshold.",
+  "team_tactics": "Often operates in breakaways with minimal team support, showing willingness to work cooperatively with rivals. National/Italian coordination sometimes supersedes team orders in tactical decisions.",
+  "terrain_preference": "Medium-mountain stages with sustained climbs allowing diesel-paced efforts. Exceptional descending skills enable him to bridge back after being dropped on climbs (30+ second gaps closed).",
+  "vulnerability": "Lacks explosive acceleration needed for final sprint finishes after hard efforts. Struggles to match late-race attacks from altitude-trained rivals. Timing errors lead to premature cracking when attacking beyond optimal range.",
+  "key_patterns": [
+    "Initiates solo or small-group attacks 10km from finish on climbs (2019 Giro win, 2018 attempts)",
+    "Superior descending ability compensates for climbing deficits, bridges 30s+ gaps (2021 Lombardia)",
+    "Strong breakaway commitment but lacks final sprint punch after sustained efforts (2020 Tirreno twice)",
+    "Tactical timing errors: cracks when attacking too early beyond 10km threshold (2018 Giro, 2.8km from finish)",
+    "Local course knowledge advantage in Bergamo region enhances tactical execution (2021 Lombardia)"
+  ],
+  "form_trajectory": "neutral: Recent evidence shows strong positioning and descending but lacks stage-winning punch seen in 2019 Giro breakthrough",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "MASNADA Fausto",
+  "built_from": [
+    "2018 Giro d'Italia Stage 11",
+    "2018 Giro d'Italia Stage 9",
+    "2018 Giro d'Italia Stage 9",
+    "2019 Giro d'Italia Stage 6",
+    "2019 Giro d'Italia Stage 6",
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 4",
+    "2020 Tirreno Adriatico Stage 5",
+    "2021 Il Lombardia"
+  ]
+}

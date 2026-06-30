@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Aggressive descending tactics deployed in mid-race (around 85km), using technical skills and challenging conditions to force splits rather than traditional climbing attacks.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from single race observation.",
+  "terrain_preference": "Technical descents, especially in damp/challenging conditions where bike handling skills can fracture the peloton. Exposed on final climbs where splits get reabsorbed.",
+  "vulnerability": "Attacks absorbed on subsequent climbing stages; lacks ability to sustain splits created on descents when faced with sustained uphill finishes.",
+  "key_patterns": [
+    "Exploits technical descents to initiate race-splitting moves in mid-race phases.",
+    "Utilizes adverse weather conditions (damp roads) to maximize advantage on descents.",
+    "Creates separation through aggressive cornering rather than pure power output."
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to determine trajectory or consistency of form",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SMIT Willie",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 12",
+    "2019 Vuelta a Espana Stage 12"
+  ]
+}

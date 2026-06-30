@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker - operates as a leadout specialist and domestique, working in final kilometers to position sprinters rather than pursuing personal results.",
+  "team_tactics": "Deployed in high-tempo chase work and sprint trains, sacrificing personal energy to set up teammates like Sagan. Used as expendable workhorse in doomed efforts.",
+  "terrain_preference": "Flat sprint stages where leadout skills are valued. Exposed on technical finales with street furniture and urban hazards that require bike handling precision.",
+  "vulnerability": "Crashes in technical zones with street furniture; poor timing judgment on when chase efforts are viable; exhausts himself in futile team efforts.",
+  "key_patterns": [
+    "Functions as leadout specialist for sprinters, particularly Sagan (2 observations)",
+    "Vulnerable to crashes in technical urban finales with street furniture (2 observations)",
+    "Poor tactical judgment, committing to doomed chase efforts prematurely (2 observations)"
+  ],
+  "form_trajectory": "negative: Both observations show race-ending incidents - crash removing him from finale, and mistimed exhausting chase work",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "FELLINE Fabio",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 18",
+    "2018 Vuelta a Espana Stage 6"
+  ]
+}

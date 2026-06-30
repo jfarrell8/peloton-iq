@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HEALY Ben soloed from 50km out after attacking the 13-rider breakaway on the first ascent of Salita dei Cappuccini, winning by 1:49.",
+    "winner": "HEALY Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC attacked GC group on final climb, gaining 14 seconds on EVENEPOEL while THOMAS/GEOGHEGAN HART paced aggressively for INEOS.",
+      "Breakaway took 80km to establish despite only 3-star difficulty rating, suggesting unusually aggressive peloton or headwind conditions early.",
+      "DSM allowed 13-rider break despite MILAN's minimal points jersey lead, revealing confidence in controlling deficit over flat run-in."
+    ],
+    "rider_signals": {
+      "HEALY Ben": "positive: Second youngest Irish Grand Tour stage winner ever, attacking 50km out from 13-rider break shows exceptional confidence progression.",
+      "EVENEPOEL Remco": "negative: First visible weakness showing in race, losing 14 seconds to ROGLIC on final climb despite controlling overall race.",
+      "ROGLIC Primoz": "positive: Opportunistically attacked when EVENEPOEL faded, clawing back time (30s deficit) before crucial TT where he's expected to lose heavily.",
+      "THOMAS Geraint": "positive: INEOS deployed dual GC threat with GEOGHEGAN HART pacing on final climb, tactical aggression suggests belief EVENEPOEL vulnerable.",
+      "GANNA Filippo": "neutral: Involved in apparent conflict/mechanical with BAIS, unusual discord for Giro TT favorite day before his specialty stage."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:41:16.627900+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches early sprint attacks from 200m out, positioned on the left side. Capitalizes on tactical misjudgments when favorites overmark pure sprinters.",
+  "team_tactics": "Sunweb commits to extended tempo control from distance (90km out), setting up sprint finish rather than preserving domestiques for late positioning.",
+  "terrain_preference": "Flat sprint finishes where tactical positioning and timing trump pure power; benefits when field overestimates pure sprinter threat.",
+  "vulnerability": "Single race sample insufficient to identify clear weaknesses. Youth (22) suggests potential vulnerability in multi-week stage race recovery.",
+  "key_patterns": [
+    "Early sprint launch at 200m rather than waiting for traditional final 150m kick.",
+    "Exploits tactical confusion when field focuses on marquee sprinter names like Kristoff.",
+    "Shows strong recovery capacity immediately post-Grand Tour with superior sprint legs."
+  ],
+  "form_trajectory": "positive: demonstrated exceptional post-Giro form with sprint victory, suggesting strong recovery and peak timing",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BAUHAUS Philipp",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 5",
+    "2017 Criterium du Dauphine Stage 5"
+  ]
+}

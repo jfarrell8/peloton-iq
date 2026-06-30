@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-10",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won the sprint by narrowest margin over JAKOBSEN, with BORA-hansgrohe delivering textbook leadout in treacherous wet conditions.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "LOTTO NL-Jumbo controlled break on short leash showing Groenewegen sprint train preparation, keeping gap manageable entire stage.",
+      "Five-rider break with two TT specialists (Dowsett, Grivko) still caught, suggesting teams prioritized sprint over time gaps despite conditions."
+    ],
+    "rider_signals": {
+      "GRIVKO Andriy": "positive: second consecutive day in breakaway showing aggressive racing form despite veteran status",
+      "CAVAGNA Remi": "positive: contested both intermediate sprints successfully from break, hunting bonus seconds suggesting GC ambitions for later mountain stage",
+      "GROENEWEGEN Dylan": "negative: vanquished by Ackermann despite holding red jersey, suggesting sprint form inferior to German champion",
+      "PORTE Richie": "negative: DNF on stage 2 ending BMC career prematurely, significant retirement signal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:35:06.281488+00:00"
+}

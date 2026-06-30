@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Long-range attacks from breakaways on extended climbs (17km observed), exploiting separation from main GC group rather than late-stage accelerations. Most effective when already positioned in front group.",
+  "team_tactics": "Limited evidence of dedicated team setup; appears to operate more opportunistically from breakaways or when already isolated. No clear pattern of domestique-led tempo control.",
+  "terrain_preference": "Hard Monument-style finale climbs and technical/cobbled stages where classics skills apply. Thrives on lumpy terrain requiring all-around strength rather than pure climbing.",
+  "vulnerability": "Mechanical issues at critical moments compromise GC campaigns. Appears to underperform at Tour de France compared to other Grand Tours (Tour disappointment mentioned, Vuelta success followed).",
+  "key_patterns": [
+    "Monument threat on hard finale climbs: 4th Lombardia, consistent presence on selective terrain",
+    "Breakaway exploitation over GC group tactics: attacks from front groups, not peloton punches",
+    "Unusual classics skills for GC rider: strongest on cobbles, technical stages marked advantage",
+    "Tour de France underperformance pattern: explicit 2019 disappointment, breakthrough came at Vuelta instead"
+  ],
+  "form_trajectory": "neutral: 2022 Poland cameo showed residual animation but no decisive impact; peak 2019 form not replicated",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "FULGSANG Jakob",
+  "built_from": [
+    "2018 Tour de France Stage 9",
+    "2019 Il Lombardia",
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 16",
+    "2020 Giro d'Italia Stage 10",
+    "2022 Tour de Pologne Stage 1"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 11",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-31",
+  "stage": 11,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GODEAU David won from the breakaway with a late attack inside final 200m, after SOLAIRE Marc bridged solo from peloton on penultimate climb.",
+    "winner": "GODEAU David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Solaire bridged solo from peloton to breakaway on penultimate climb, rare successful tactic revealing exceptional climbing form.",
+      "Jumbo-Visma deliberately allowed Vlasov (15th GC, 6:52 down) to attack, showing 6-7 minute gap threshold for GC threats.",
+      "Martin attacked GC group with 200m remaining on summit finish, exploiting final kick after rivals marked each other.",
+      "Breakaway hesitated until final kilometer despite 16.5km climb, suggesting overconfidence in gap management cost time margin."
+    ],
+    "rider_signals": {
+      "SOLAIRE Marc": "positive: bridged from peloton solo to join breakaway on category 1 climb, exceptional climbing form mid-Grand Tour",
+      "GODEAU David": "positive: waited until 125m to attack on cat 1 summit, superior sprint/accelerative power on steep gradients",
+      "MARTIN Dan": "positive: attacked GC group with 200m to go on summit finish, contrarian tactic showing confidence in short power",
+      "VLASOV Aleksandr": "positive: Jumbo-Visma allowed him freedom despite being 6:52 down, improved form as race progressed suggests future threat",
+      "BENNETT George": "negative: 19th on stage despite doing tempo work, poor positioning compared to protected leader Roglic"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:29:28.890435+00:00"
+}

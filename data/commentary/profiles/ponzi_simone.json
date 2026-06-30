@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Participates in breakaways with specific, limited objectives rather than stage victory ambitions. Abandons efforts once tactical goal (intermediate points) is achieved.",
+  "team_tactics": "Coordinates with teammates (DECLERCQ) for targeted breakaway missions focused on intermediate sprint points rather than sustained efforts for stage wins.",
+  "terrain_preference": "Insufficient data to determine terrain preference; single observation shows flat sprint-point focused racing.",
+  "vulnerability": "Lacks commitment to see breakaways through to finish once secondary objectives are secured; may be unsuited for sustained breakaway efforts requiring full-stage commitment.",
+  "key_patterns": [
+    "Abandons breakaways after achieving intermediate sprint objectives rather than continuing (1 race observed)",
+    "Coordinates with teammates for points-focused breakaway missions with predetermined exit strategy (1 race observed)"
+  ],
+  "form_trajectory": "unknown: single observation insufficient to determine trajectory; tactical role appears specialized rather than form-dependent",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PONZI Simone",
+  "built_from": [
+    "2017 Tour of Oman Stage 1",
+    "2017 Tour of Oman Stage 1"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2017-06-12",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MYLETSKOV Jakob took his 12th career Tour of Hainan stage win in a sprint finish, holding off MARINI and PADALKA.",
+    "winner": "MYLETSKOV Jakob",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Stage 1 breakaway with Hill, Vanhove, King-Lok, Pasher, Vitiligo failed despite wet conditions reducing peloton chase capacity.",
+      "Maricka with 10 prior stage wins lost leadout discipline, allowing teammate Marini to steal Stage 1 victory.",
+      "WINNER and Unitedhealthcare attempted attacks on Stage 3 to split group but terrain too flat for separation."
+    ],
+    "rider_signals": {
+      "MARINI Nicolas": "positive: Won Stage 1 despite riding for contract under pressure, outsprinted established Maricka in final meters",
+      "HILL Ben": "positive: Consistently infiltrated early breakaways across multiple stages including Stage 1, collecting bonus seconds strategically",
+      "MARICKA": "negative: Lost Stage 1 despite 10 prior wins and full leadout train when compatriot Marini came past",
+      "VANHOVE": "negative: Wore leader's jersey on Stage 1 but faded in sprint despite moving up with 5km to go",
+      "MYLETSKOV Jakob": "positive: Dominated tour history with 7 wins in early editions, now 12 total including Stage 3 sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:10:18.054907+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro dItalia Stage 11",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-17",
+  "stage": 11,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won a reduced bunch sprint after breakaway caught at 5km, surviving late crash chaos that eliminated Gaviria and others.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Caja Rural attempted to thin peloton for their sprinter on rolling terrain 30km out, sprinters briefly distanced but rejoined.",
+      "Milan extended Ciclamino lead by contesting intermediate sprint against Pedersen despite being in breakaway, tactical points hoarding.",
+      "Ackermann won with minimal team support (only Gibbons helping), reveals UAE sprinter can execute without full leadout train."
+    ],
+    "rider_signals": {
+      "MILAN Jonathan": "positive: contested intermediate sprint from breakaway AND nearly won bunch sprint, exceptional dual effort over 219km",
+      "ACKERMANN Pascal": "positive: first Giro stage win since 2019 with virtually no team, form resurging after lean years",
+      "GROVES Kaden": "negative: suffering with illness again, unable to contest sprint on flat stage suited to him",
+      "GEOGHEGAN HART Tao": "negative: crash exit ends GC bid, Ineos now relying solely on Thomas without climber support",
+      "CAVENDISH Mark": "positive: third place finish shows competitive sprint form despite age, regularly reaching podium positions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:42:08.605553+00:00"
+}

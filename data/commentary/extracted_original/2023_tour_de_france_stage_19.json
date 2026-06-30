@@ -1,0 +1,29 @@
+{
+  "label": "2023 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-21",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MAHARIC Matej won a photo finish against ASGREEN Kasper at 49.1 km/h after O'CONNOR Ben's 400m move failed, ending the fifth-fastest Tour stage in history.",
+    "winner": "MAHARIC Matej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway refused to form until 117km remained despite 40km of attacking, revealing peloton uncertainty about GC threat assessment.",
+      "Nine-rider break with 117km gap shattered when POLLET's mechanical created chaos, showing fragility of small elite breaks.",
+      "Israel Premier-Tech placed four riders in 38-rider chase group but mechanical/crash attrition nullified numerical advantage completely.",
+      "O'CONNOR attacked at 400m despite not being fastest sprinter, forcing ASGREEN and MAHARIC to close rather than positioning."
+    ],
+    "rider_signals": {
+      "MAHARIC Matej": "positive: third stage win this Tour fighting for late Gino Mäder reveals exceptional form sustainability into week three",
+      "ASGREEN Kasper": "positive: second consecutive day in winning position at ultra-high speeds confirms diesel engine strength in long breakaways",
+      "O'CONNOR Ben": "neutral: tactical awareness strong attacking at 400m but lacks pure speed to hold off faster finishers",
+      "POLLET Neils": "negative: chain snap mechanical at critical breakaway formation moment eliminated from contention entirely",
+      "CLARK Simon": "negative: cramp with 32.5km remaining after attacking shows inability to sustain efforts in fastest Tour stages",
+      "STRONG Corbin": "negative: Israel's four-rider advantage disappeared when Strong crashed, exposing team's vulnerability to single-rider losses",
+      "YATES Adam": "neutral: caught in early GC split but towed back without incident, revealing team cohesion but early positioning error"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:21:11.417067+00:00"
+}

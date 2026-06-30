@@ -1,0 +1,33 @@
+{
+  "attacking_style": "Rarely initiates explosive attacks; prefers measured, sustainable efforts. When attacking, does so late in stages for tactical positioning rather than distant moves (e.g., late attack at 2020 Dauphiné, opportunistic break for KOM points).",
+  "team_tactics": "Frequently isolated on key climbs when team support is critical. BMC/Trek domestique support has repeatedly failed to deliver positioning, forcing solo chases and defensive riding without numerical advantage.",
+  "terrain_preference": "Strong time trialist (beat Froome by 37s, Martin by 12s in 2017). Can match elite climbers' accelerations until final 200m but lacks explosive finishing kick. Struggles in poor weather conditions.",
+  "vulnerability": "Prone to illness-related abandonments (2022 Giro gastroenteritis, 2022 Catalunya illness). Hesitates when counterattacked, losing time through indecision rather than physical weakness. Poor weather adaptation evident.",
+  "key_patterns": [
+    "Illness forces race abandonments: documented withdrawals in 2022 Giro and Catalunya with gastroenteritis/illness.",
+    "Team isolation on critical climbs: left without support at 2017 Dauphiné penultimate climb, chronic positioning issues.",
+    "Strong TT performances translate to GC form peaks: 2017 Dauphiné 23.5km ITT dominance, confirmed pattern.",
+    "Matches elite accelerations but fades final 200m: 2020 Tour matched Pogačar/Roglič until finale kick.",
+    "Evolved tactical maturity with age: 2021 prioritized time bonuses over stage wins, showed restraint at 36.",
+    "Hesitates under pressure: 2017 Tour locked up when Martin counterattacked, chronic seconds-losing pattern."
+  ],
+  "form_trajectory": "negative: Two illness-related abandonments in 2022 followed by no subsequent race observations suggest persistent health/form issues that prevented grand tour completion",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "PORT Richie",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 4",
+    "2017 Criterium du Dauphine Stage 4",
+    "2017 Criterium du Dauphine Stage 8",
+    "2017 Paris-Nice Stage 1",
+    "2017 Tour de France Stage 5",
+    "2018 Vuelta a Espana Stage 6",
+    "2020 Criterium du Dauphine Stage 2",
+    "2020 Tour de France Stage 15",
+    "2020 Tour de France Stage 20",
+    "2021 Criterium du Dauphine Stage 7",
+    "2021 Criterium du Dauphine Stage 8",
+    "2022 Giro d'Italia Stage 19",
+    "2022 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

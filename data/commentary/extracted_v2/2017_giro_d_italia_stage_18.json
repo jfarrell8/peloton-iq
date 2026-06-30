@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-25",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN GARDEREN Tejay won from a select group after DUMOULIN Tom survived repeated QUINTANA attacks through sheer time-trial power bridging gaps.",
+    "winner": "VAN GARDEREN Tejay",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Dumoulin repeatedly bridged using TT power after groups splintered rather than matching explosive accelerations, preserving energy while nullifying attacks.",
+      "Quintana attacked multiple times but lacked final punch to distance Dumoulin, revealing weakness in sustained climbing power versus anaerobic bursts.",
+      "GC group stalemate allowed escapees Van Garderen/Woods to gain time, punishing defensive racing by Nibali/Zakarin who refused to chase.",
+      "Zakarin attacked late gaining 42 seconds on stalled leaders, showing opportunistic tactics work when favorites mark each other."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "positive: defended pink jersey without teammates by tactically bridging gaps using TT strength rather than matching accelerations, showing race-winning patience",
+      "QUINTANA Nairo": "negative: multiple attacks failed to drop Dumoulin despite isolation, suggesting insufficient sustained power to capitalize on numerical disadvantage",
+      "VAN GARDEREN Tejay": "positive: outsprinted Woods after both gained time on deadlocked GC group, showing opportunistic racing beats conservative group-watching",
+      "ZAKARIN Ilnur": "positive: late solo attack gained 42 seconds moving to 1:58 down, exploiting GC leaders' mutual neutralization",
+      "NIBALI Vincenzo": "negative: refused to work in final despite being down on GC, allowing riders behind to close gap through inaction"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:56:54.821329+00:00"
+}

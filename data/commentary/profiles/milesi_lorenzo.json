@@ -1,20 +1,23 @@
 {
-  "attacking_style": "Not primarily an attacker; opportunities come from team time trial positioning and tactical team decisions rather than individual offensive moves.",
-  "team_tactics": "DSM prioritizes him unexpectedly over bigger names (given red jersey over Ganna), suggesting flexible hierarchy based on race situation rather than predetermined leadership.",
-  "terrain_preference": "Benefits from team time trial formats where collective strength can position him favorably. Appears vulnerable in adverse weather conditions.",
-  "vulnerability": "Extreme weakness in wet conditions—abandoned race while wearing red jersey at 18km to go, indicating inability to handle rain/standing water.",
+  "attacking_style": "Not an attacker. Gains time through team time trial performances rather than individual offensive moves. Benefits from early race opportunities and team strength.",
+  "team_tactics": "DSM designates him as ceremonial leader to inherit race lead from TTT victories. Team deploys him as red jersey bearer for sprint stages rather than GC protection.",
+  "terrain_preference": "Team time trials in technical conditions where DSM's collective strength delivers results. Vulnerable on any individual climbing or sustained racing efforts.",
+  "vulnerability": "Cannot defend race leads beyond opening stages. Abandoned Vuelta despite holding red jersey, suggesting inability to handle stage race demands or physical fragility under pressure.",
   "key_patterns": [
-    "Gains race lead through team time trial performance rather than individual prowess (2 observations)",
-    "Cannot sustain performance in wet/rainy conditions, abandoning even when holding leadership (2 observations)",
-    "Team shows willingness to elevate him over established stars like Ganna when situation suits (2 observations)"
+    "Inherits race lead from DSM TTT wins rather than individual performance (2 instances)",
+    "Designated team leader for ceremonial purposes, not genuine GC contention (2 instances)",
+    "Abandoned Grand Tour despite holding red jersey, indicating preparation or durability issues",
+    "Benefits from favorable TTT conditions: early start slots, wet technical courses (2 instances)"
   ],
-  "form_trajectory": "negative: abandoned next day while in red jersey, suggesting he either lacks durability or cannot handle adverse conditions after strong TTT",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "negative: Abandoned Vuelta 2023 immediately after inheriting red jersey, suggesting serious physical or health issues despite strong TTT platform",
+  "races_analysed": 3,
+  "confidence": "medium",
   "rider_name": "MILESI Lorenzo",
   "built_from": [
     "2023 La Vuelta Ciclista a Espana Stage 1",
     "2023 La Vuelta Ciclista a Espana Stage 1",
-    "2023 La Vuelta Ciclista a Espana Stage 2"
+    "2023 La Vuelta Ciclista a Espana Stage 2",
+    "2023 Vuelta a Espana Stage 1",
+    "2023 Vuelta a Espana Stage 1"
   ]
 }

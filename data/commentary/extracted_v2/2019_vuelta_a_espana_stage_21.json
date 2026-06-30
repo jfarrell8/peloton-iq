@@ -1,0 +1,25 @@
+{
+  "label": "2019 Vuelta a Espana Stage 21",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-15",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won the Madrid street circuit sprint after Deceuninck-Quick-Step controlled pace at 69+ km/h through penultimate corner",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck positioned 4 riders at front to string out peloton at 69-71 km/h before hairpin corner, eliminating positioning battles",
+      "CAVAGNA Rémy executed pace-killing turn into hairpin precisely where instructed, swinging off immediately after to deploy fresh domestiques",
+      "MAJKA Rafael repeatedly led out at front for UAE despite being climber, suggesting team lacked sprint train depth"
+    ],
+    "rider_signals": {
+      "MAJKA Rafael": "neutral: Polish climber twice leading peloton on flat circuit reveals UAE's weak sprint support infrastructure",
+      "JAKOBSEN Fabio": "positive: won second stage via photo finish against BENNETT, claims this most important career victory at age 22",
+      "BENNETT Sam": "negative: boxed in final 500m despite Quick-Step's obvious positioning strategy, second consecutive photo loss to Jakobsen",
+      "CAVAGNA Rémy": "positive: sustained 71 km/h leadout into hairpin while visibly suffering, executed tactical instruction perfectly before swinging off"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:09:09.359991+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2023 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-23",
+  "stage": 21,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "MEEUS Jordy won the Champs-Élysées sprint after BORA-hansgrohe sacrificed SAM BENNETT's entire Tour selection to give their young sprinter the full leadout squad",
+    "winner": "MEEUS Jordy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-hansgrohe left Bennett home entirely to resource Meeus with full leadout, revealing team willingness to sacrifice proven winners for development.",
+      "UAE sandwiched podium with Pogačar second and Yates third, demonstrating team selection strategy prioritizing depth over single leader protection.",
+      "VINGEGAARD's team lost van Aert mid-race to paternity leave yet maintained 7.5min lead, suggesting leadout strength matters less than mountain domestiques."
+    ],
+    "rider_signals": {
+      "MEEUS Jordy": "positive: delivered first career win on biggest stage after getting resources previously denied, validates BORA's controversial Bennett exclusion gamble",
+      "POGAČAR Tadej": "negative: flanked winner with two UAE riders but lost by 7:29, reveals team depth couldn't compensate for individual deficit",
+      "YATES Adam": "positive: rode selflessly while taking third overall and stage win, shows veteran willingness to sacrifice GC ceiling for team tactics",
+      "CICCONE Giulio": "positive: secured polka dots despite VINGEGAARD threatening takeover on Colle Loze, held 105 points suggesting early breakaway commitments matter more than late-race aggression"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:58:23.121265+00:00"
+}

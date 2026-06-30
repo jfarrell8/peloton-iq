@@ -1,0 +1,24 @@
+{
+  "label": "2022 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2022-03-11",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GODOT Bjorg won from a breakaway that survived by 18 seconds inside final 3km after peloton miscalculated the chase.",
+    "winner": "GODOT Bjorg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo chased all day despite no GC threat in break, potentially exhausting domestiques before final mountain stage.",
+      "Breakaway survival with 18-second gap at 3km collapsing to zero at line indicates sprinter teams misjudged final terrain resistance.",
+      "LAPORTE led chase despite being Jumbo's sprint option, suggesting team prioritized controlling gaps over optimizing leadout positioning."
+    ],
+    "rider_signals": {
+      "GODOT Bjorg": "positive: First pro win at 23 suggests emerging breakaway specialist, especially on reduced-bunch stages with late categorized climbs.",
+      "LAPORTE Christophe": "neutral: Doing chase work instead of conserving for sprint reveals Jumbo's internal sprint hierarchy ambiguity.",
+      "MADIOT Valentin": "positive: Dominated KOM points throughout stage, indicating aggressive breakaway selection strategy targeting secondary competitions."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:47:14.865152+00:00"
+}

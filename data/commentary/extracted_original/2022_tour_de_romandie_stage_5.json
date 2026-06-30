@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Romandie Stage 5",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-05-01",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VLASOV Aleksandr overcame 18-second deficit to DENNIS Rohan with dominant 11.3km climbing TT, winning by over 30 seconds.",
+    "winner": "VLASOV Aleksandr",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS Rohan faded catastrophically in final kilometers despite being TT specialist, losing over 2 minutes to VLASOV.",
+      "VLASOV destroyed GESCHKE's time by 30+ seconds despite GESCHKE already beating CARUSO and KRUIJSWIJK comprehensively.",
+      "Bike changes at climb base were standard protocol, suggesting flat TT bikes gave negligible advantage on opening kilometers."
+    ],
+    "rider_signals": {
+      "VLASOV Aleksandr": "positive: First World Tour win came via uphill TT demolition, revealing pure climbing power exceeds perceived capabilities",
+      "DENNIS Rohan": "negative: Race leader collapsed on steep gradients despite bike change strategy, exposing climbing TT weakness",
+      "GESCHKE Simon": "positive: Jumped from 9th to podium with surprise uphill TT performance 33 seconds faster than CARUSO",
+      "MÄDER Gino": "positive: Only 4 seconds behind GESCHKE despite being 19, signaling elite climbing TT talent",
+      "KRUIJSWIJK Steven": "neutral: Beat PINOT but finished 30+ seconds behind surprise performers GESCHKE and MÄDER",
+      "AYUSO Juan": "negative: Lost podium spot in final TT despite being best young rider, revealing uphill TT deficiency"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:55:01.536273+00:00"
+}

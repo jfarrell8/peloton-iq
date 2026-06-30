@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-23",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ČERNÝ Josef soloed to victory from a 14-rider breakaway after attacking with 22.5km remaining, gaining 41 seconds maximum advantage over disorganized chasers.",
+    "winner": "ČERNÝ Josef",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ČERNÝ attacked multiple times from breakaway 50-22.5km out, systematically eliminating CLARKE, MOSCA, CAMPENAERTS before chasers organized pursuit.",
+      "Peloton abandoned stage 50km out despite SAGAN needing points—team calculus prioritized energy conservation over sprint classification battle.",
+      "GEOGHEGAN HART attempted late GC attack inside final kilometer when group cohesion weakest, testing KELDERMAN/HINDLEY attention despite flat finish."
+    ],
+    "rider_signals": {
+      "ČERNÝ Josef": "positive: Multiple accelerations from breakaway show superior endurance positioning, forcing 41-second gap before organized chase began",
+      "CAMPENAERTS Victor": "positive: Only rider to launch counterattack inside 6km, showing tactical awareness when ČERNÝ's gap stabilized at 20 seconds",
+      "SAGAN Peter": "negative: Team abandoned sprint chase 50km out despite needing points for ciclamino—signals either resignation or prioritized future stages",
+      "KELDERMAN Wilco": "neutral: Successfully neutralized GEOGHEGAN HART late attack on flat finish, but proximity (12s) suggests vulnerable positioning heading to mountains",
+      "GEOGHEGAN HART Tao": "positive: Probing 15-second deficit with opportunistic late acceleration on flat terrain reveals aggressive tactical mindset before final mountain stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:25:37.926152+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure bunch sprinter who finishes the lead-out train rather than initiating attacks. Operates in mass sprint finales, not a rider who creates opportunities through positioning or late accelerations.",
+  "team_tactics": "Relies on structured team lead-outs with Israel committing resources to deliver him into final 200m. Team investment suggests designated sprinter role, though conversion rate appears inconsistent.",
+  "terrain_preference": "Flat, controlled bunch sprints where tactical errors by others create opportunities. Struggles when lead-out execution becomes critical to positioning against organized rival trains.",
+  "vulnerability": "Converting team support into podium results - showed inability to finish when Israel executed their lead-out. Performance appears dependent on external factors like peloton tactical mistakes rather than overcoming organized opposition.",
+  "key_patterns": [
+    "Inconsistent conversion of team lead-out support into top results (2 observations)",
+    "Performs better when race dynamics favor opportunism over pure speed (2 observations)",
+    "Requires structured team support but cannot always capitalize on investment (2 observations)"
+  ],
+  "form_trajectory": "neutral: Mixed results with second place in 2021 Giro stage but sixth despite team support in 2020, suggesting plateaued performance level",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CIMOLAI Davide",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 2",
+    "2021 Giro d'Italia Stage 3"
+  ]
+}

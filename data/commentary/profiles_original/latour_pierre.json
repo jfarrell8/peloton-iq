@@ -1,0 +1,22 @@
+{
+  "attacking_style": "High-risk, long-range attacks from distance (75km breakaway attempts documented). Targets breakaway points rather than sustained climbing power, willing to expend significant energy for classification goals rather than stage wins.",
+  "team_tactics": "Limited team support visible; operates as individualist hunting opportunities. Sent on long solo missions (Total Direct Energie/current team), suggesting tactical freedom for opportunistic moves rather than protected GC role.",
+  "terrain_preference": "Moderate gradients and rolling terrain for breakaways. Exposed on steep gradients (20%+ documented weakness) and lacks explosive acceleration on punchy climbs when pace intensifies.",
+  "vulnerability": "Steep gradient climbing (20%+) where caught with 1.5km to go. Cannot match accelerations from fresh GC riders or explosive puncheurs like Alaphilippe on steep ramps. Sustained power inadequate against high-intensity attacks late in climbs.",
+  "key_patterns": [
+    "Long-range breakaway specialist: documented attacking 75km from finish, prioritizing exposure over efficiency.",
+    "Repeatedly caught/dropped on steepest sections when GC riders or fresh climbers attack late.",
+    "Points classification hunter: willing to burn matches for intermediate points rather than conserving for finish.",
+    "Lacks finishing acceleration: cannot close gaps or respond when gradients exceed 15-20% against quality."
+  ],
+  "form_trajectory": "neutral: 2023 shows tactical ambition (75km effort) but unchanged limitations on steep climbs, consistent with historical weaknesses from 2019-2021",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "LATOUR Pierre",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 13",
+    "2021 Tour de France Stage 1",
+    "2023 Tour de France Stage 7",
+    "2023 Tour de France Stage 7"
+  ]
+}

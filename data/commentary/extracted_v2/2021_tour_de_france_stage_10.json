@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-06",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won the sprint in Valance after Deceuninck-QuickStep shut down Colbrelli's aggressive pre-intermediate sprint attack, taking stage win #33.",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Colbrelli pre-intermediate sprint attack tested Deceuninck's commitment before green jersey points; UAE countered showing dual sprint interest.",
+      "Deceuninck rode full gas entire stage for Cavendish despite category 4 climb rather than conserving for breakaway neutralization.",
+      "Pogacar isolated with only 1-2 teammates in crosswind sections but personally strong enough to self-position without full support."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: Confident enough to commit team to full pursuit despite category 4 climb concern, now 59pts clear in green",
+      "COLBRELLI Sonny": "positive: Probing Deceuninck's sprint commitment with aggressive pre-intermediate sprint move rather than conserving energy",
+      "POGACAR Tadej": "positive: Tactically secure in crosswinds despite thin teammate support, able to self-position on flat dangerous sections",
+      "VAN DER SANDE Tosh": "neutral: First Tour breakaway after 9 years pro, no tactical significance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:50:21.786413+00:00"
+}

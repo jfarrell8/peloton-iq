@@ -1,0 +1,39 @@
+{
+  "label": "2022 Tour de Suisse Stage 1",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-12",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "WILLIAMS Stephen won uphill sprint after 7-rider break caught inside final km, dropping pure sprinters KRISTOFF and SAGAN on circuit climbs",
+    "winner": "WILLIAMS Stephen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SIMMONS Quinn and PELLAUD Simon bridged break then battled KOM points, wasting energy before caught final 3km",
+      "OLIVEIRA Nelson and FUGLSANG Jakob attacked together approaching finish before group recaught, revealing coordination testing peloton",
+      "VAN WILDER Ilan led out sprint despite teammates away earlier, suggesting Soudal committed to stage not break strategy"
+    ],
+    "rider_signals": {
+      "WILLIAMS Stephen": "positive: First WorldTour win outsprinting GC contenders on punchy finish suggests punch-climbing form exceeds expectation",
+      "SCHACHMANN Maximilian": "positive: Second place to climbing-specialist shows punchy form despite Tour de France GC focus",
+      "KRON Andreas": "positive: Third place and best young rider suggests unexpected stage race form for typically classics-focused rider",
+      "HIRSCHI Marc": "neutral: Fourth as home favorite shows solid but not dominant form before Tour de France",
+      "LUTSENKO Alexey": "positive: Fifth place in reduced sprint indicates climbing legs sharper than past stage race arrivals",
+      "PINOT Thibaut": "negative: Dropped on final circuit climbs in opening stage signals concerning form deficit before Tour preparation concludes",
+      "MARTÍNEZ Daniel Felipe": "negative: Going backwards on finale suggests either illness or fitness deficit unexpected for GC contender",
+      "KRISTOFF Alexander": "neutral: Dropped on circuit climbs confirms pure sprinter categorization, no residual climbing from classics season",
+      "SAGAN Peter": "neutral: Eliminated on circuit confirms reduced climbing tolerance post-prime years",
+      "VLASOV Aleksandr": "positive: Active in finale attacks with EVENEPOEL suggests aggressive GC racing approach beyond expected conservative tempo",
+      "EVENEPOEL Remco": "positive: Animating finale with VLASOV despite Stage 1 reveals willingness to test legs early rather than conserve",
+      "THOMAS Geraint": "positive: Paced group back to attackers showing diesel strength and team leadership despite not contesting sprint",
+      "YATES Adam": "neutral: Present in front group but not contesting sprint suggests controlled recon ride before Tour",
+      "HIGUITA Sergio": "positive: Top-10 finish signals climbing sharpness maintained after Giro d'Italia effort",
+      "POZZOVIVO Domenico": "positive: Top-10 at age 39 on punchy finish suggests maintained specific power despite Grand Tour proximity",
+      "VINE Jay": "negative: Dropped from quality break on penultimate climb reveals climbing endurance gap versus one-day punch",
+      "ASKEY Lewis": "negative: First dropped from break on circuit climbs confirms development rider status among WorldTour quality",
+      "HAGA Chad": "neutral: Survived longer in quality break showing residual strength but ultimately caught shows ceiling"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:49:27.292643+00:00"
+}

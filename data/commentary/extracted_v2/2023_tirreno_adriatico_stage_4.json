@@ -1,0 +1,29 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-09",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož won with a 300m attack on the finishing circuit, rounding YATES after second acceleration following initial move.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma executed successful Plan B with ROGLIČ attacking after original strategy failed, showing tactical depth in multi-leader setup.",
+      "ALAPHILIPPE attacked pre-emptively on penultimate circuit lap with YATES following, forcing rivals to respond early and drain reserves.",
+      "UAE's POGAČAR notably absent from attacks despite stage suiting him, suggesting strategic conservation before Sasotetto mountain stage.",
+      "LAFAY positioned perfectly on ROGLIČ wheel at 300m, revealing UAE's awareness that late 17.1km circuit attacks favor timing over distance."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: double-acceleration tactic within final 300m demonstrates recovered explosive power after injury layoff",
+      "ALAPHILIPPE Julian": "positive: early solo attack on circuit shows returning form pre-classics, creating tactical blueprint for similar punchy finishes",
+      "YATES Adam": "neutral: present in finale and podium but unable to counter ROGLIČ late acceleration, lacks top-end sprint after positioning",
+      "PIDCOCK Tom": "negative: crashed and struggled before incident, suggesting form issues pre-race despite favorite status",
+      "VLASOV Alexander": "neutral: animated in finale pulling for BORA leader but team lacked numbers to control finishing circuit",
+      "GEOGHEGAN HART Tao": "neutral: brought to finale by CARTHY but couldn't respond to ROGLIČ move, indicating good positioning but missing decisive punch",
+      "CARTHY Hugh": "positive: attacking and dragging GEOGHEGAN HART into contention shows improved form and willingness to animate race"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:54:27.779293+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Initiates attacks from GC groups on climbs, but lacks sustained power to capitalize. Also opportunistic from early breakaways, finishing strongly in final kilometers when others fade.",
+  "team_tactics": "Limited team support visible in observations; appears to operate independently, either as breakaway opportunist or testing GC group without visible leadout.",
+  "terrain_preference": "Performs better in early breakaways on moderate climbs; struggles specifically with high-altitude Swiss-style climbs where sustained climbing power is required.",
+  "vulnerability": "High-altitude climbs expose weakness in sustained power despite ability to initiate attacks. Gets dropped easily by stronger climbers after making initial moves.",
+  "key_patterns": [
+    "Attacks first from GC groups but lacks power to sustain, dropped by counterattacks (2 instances)",
+    "Strong finishing ability when in breakaways, can win from early moves (1 win from break)",
+    "Altitude-specific weakness on sustained climbs despite attacking positioning"
+  ],
+  "form_trajectory": "negative: 2023 showed clear regression, unable to sustain own attacks and dropped easily despite initiating moves",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "FORTUNATO Lorenzo",
+  "built_from": [
+    "2021 Giro d'Italia Stage 14",
+    "2023 Giro d'Italia Stage 13",
+    "2023 Giro dItalia Stage 13"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de Suisse Stage 3",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-13",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "SKALMOLD Matias attacked solo inside 1km on final climb to Villars after EVENEPOEL's move at 6.5km fractured field, taking stage and yellow",
+    "winner": "SKALMOLD Matias",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL attacked at 6.5km on Villars climb immediately after Knox pacing ended, forcing race leader Küng to crack.",
+      "GALL Felix countered Evenepoel but was caught by Ayuso group, revealing Movistar's lack of teammate support uphill.",
+      "SKALMOLD launched final attack inside 1km when Gall was caught by chasers, exploiting hesitation in Ayuso's group."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: took yellow by attacking when team pacing ended at 6.5km, though caught before summit",
+      "KÜNG Stefan": "negative: lost yellow jersey when Evenepoel attacked, unable to follow initial acceleration despite starting as race leader",
+      "SKALMOLD Matias": "positive: followed Evenepoel's 6.5km move then soloed to victory inside 1km, gaining 12 seconds on Ayuso",
+      "GALL Felix": "neutral: strong enough to initially follow Evenepoel but isolated when caught by chasers, still seeking first pro win",
+      "AYUSO Juan": "positive: bridged to Evenepoel group after initial gap opened, best of the chasers at 12 seconds",
+      "VLASOV Aleksandr": "negative: dropped early when Knox paced for Evenepoel on 10km climb, unexpected weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:23:46.772989+00:00"
+}

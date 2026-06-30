@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Specialist in late, explosive attacks inside the final 2km on summit finishes, launching from either breakaways or select GC groups when larger names are present and watching each other.",
+  "team_tactics": "Operates with significant autonomy, capitalizing on breakaway freedom or situations where his team role is minimal and he can exploit tactical standoffs among favorites.",
+  "terrain_preference": "Summit finishes with steep gradients in the final 1-2km where explosive accelerations can create immediate gaps; thrives when GC contenders are present to neutralize each other.",
+  "vulnerability": "Exposed when GC teams set sustained tempo that eliminates breakaways early; requires either breakaway freedom or tactical confusion among favorites to execute winning moves.",
+  "key_patterns": [
+    "Attacks inside final 2km on summit finishes (both observations show <2km to go)",
+    "Exploits presence of GC favorites who mark each other rather than chase outsiders (both wins)",
+    "Wins from different race situations: breakaway and select GC group (tactical versatility demonstrated)"
+  ],
+  "form_trajectory": "unknown: only 2021 data available, insufficient recent observations to assess current trajectory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CHAMPOUSSIN Clement",
+  "built_from": [
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 Vuelta a Espana Stage 20"
+  ]
+}

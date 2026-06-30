@@ -1,0 +1,25 @@
+{
+  "label": "2023 Giro dItalia Stage 15",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-21",
+  "stage": 15,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MCNULTY Brandon won from a three-man break after HEALY Ben attacked 35km out but got caught on the descent",
+    "winner": "MCNULTY Brandon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Healy repeated 50km solo attack pattern from earlier stage win but proved replicable formula failed second time with pursuit.",
+      "UAE positioned McNulty in break despite holding Almeida on GC, revealing dual-track strategy prioritizing stage wins over conservative defense.",
+      "KOM battle between Healy and Rubio throughout climbs telegraphed who had best form before final decisive selection at 35km."
+    ],
+    "rider_signals": {
+      "HEALY Ben": "positive: strongest on climbs but caught on descent after 35km solo move, showing climbing superiority but time trial weakness",
+      "MCNULTY Brandon": "positive: first Grand Tour stage win after five attempts demonstrates maturation, held Healy's wheel intelligently rather than chasing alone",
+      "ALMIRAIL Bruno": "negative: lost 30+ seconds in GC group despite only defending 1:08 lead, suggesting vulnerability before mountain stages ahead",
+      "FRIGO Marco": "positive: rejoined leaders after being dropped, then contested sprint showing resilience beyond initial climbing limit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:43:01.140462+00:00"
+}

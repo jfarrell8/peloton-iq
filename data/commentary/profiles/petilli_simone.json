@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic early breakaway rider who seeks stage results from long-range moves rather than finale attacks. Positioning in breaks suggests improving race craft over career.",
+  "team_tactics": "Appears to operate with freedom in breakaways rather than strict domestique duties. Team likely grants autonomy for stage hunting when GC is not in play.",
+  "terrain_preference": "Breakaway-friendly stages where early moves stick. Vulnerable in high-speed peloton scenarios where positioning becomes critical and crash risk increases.",
+  "vulnerability": "Peloton positioning remains a liability - crash abandonment suggests difficulty maintaining safe position in nervous bunch racing. Lacks finishing speed if breakaway is caught.",
+  "key_patterns": [
+    "Seeks early breakaways for stage results rather than working as pure domestique (2 races)",
+    "Crash risk elevated in peloton situations; abandoned Vuelta 2018 after being hit (2 races)",
+    "Career trajectory shows improvement: podium finish 2023 despite zero prior wins (2 races)"
+  ],
+  "form_trajectory": "positive: 2023 Giro podium from break represents clear progression from 2018 domestique role, showing enhanced breakaway management",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PETILLI Simone",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 10",
+    "2023 Giro dItalia Stage 7"
+  ]
+}

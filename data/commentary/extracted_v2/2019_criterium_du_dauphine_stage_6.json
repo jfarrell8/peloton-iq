@@ -1,0 +1,27 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-14",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julien won stage 6 in photo finish against MUEHLBERGER after early 13-minute break, outsprinting Muehlberger after nearly crashing on final descent.",
+    "winner": "ALAPHILIPPE Julien",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE attacked breakaway companions 3km from climb summit but couldn't drop MUEHLBERGER, revealing limits against bigger riders on steep gradients.",
+      "DE MARCHI accelerated on steepest 11%+ section to neutralize attacks, correctly anticipating descent would favor patient positioning over summit attacks.",
+      "MUEHLBERGER refused to lead out sprint despite tactical position, allowing ALAPHILIPPE back into contention after near-crash on descent grass verge.",
+      "JUMBO-VISMA peloton control allowed 13+ minute gap, showing team prioritizes preserving leader over stage hunting when GC secure."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julien": "positive: Nearly crashed on descent grass but still won sprint, showing exceptional bike handling recovery under pressure",
+      "MUEHLBERGER Gregor": "negative: Failed to capitalize on leading sprint position, indecisive tactics cost him stage win against more experienced finisher",
+      "DE MARCHI Alessandro": "positive: Strongest on steepest 11%+ gradients, attacking there dropped companions temporarily before being re-caught on easier gradient",
+      "YATES Adam": "neutral: Team allowed massive gap showing confidence in GC position, rode defensively within peloton throughout stage",
+      "VAN AERT Wout": "negative: Dropped from top-5 GC, losing time suggests poor form or mechanical issues earlier in stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:46:44.900570+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2022 UAE Tour Stage 3",
+  "race_name": "UAE Tour",
+  "race_date": "2022-02-22",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BISSIGER Stefan dominated the 9km Ajman ITT by 7 seconds over GANNA, with POGAČAR winning 11 seconds on YATES to control GC before the mountain stage.",
+    "winner": "BISSIGER Stefan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BISSIGER's 9:43 at 9km suggests specialized short-ITT riders outperform pure power TTers when technical corners dominate course profile.",
+      "POGAČAR gained 11 seconds on YATES in under 10 minutes, revealing meaningful GC separation possible even in ultra-short prologue formats.",
+      "DUMOULIN's return from layoff yielded third at +14s, indicating form building but still 7s off winner in specialist distance."
+    ],
+    "rider_signals": {
+      "BISSIGER Stefan": "positive: Held hot seat for over an hour against world champion, suggesting EF tactics should prioritize him in future short ITTs over climbers",
+      "GANNA Filippo": "neutral: World champion beaten by 7s on 9km technical course indicates corners/turns erode his pure wattage advantage versus lighter specialists",
+      "POGAČAR Tadej": "positive: Sub-10-minute ride with 11s margin on YATES preempts mountain stage, showing ITT discipline even in trivial distances",
+      "ALMEIDA João": "positive: Second at intermediate split and sub-10:05 finish reveals unexpected short-TT strength for climber category",
+      "DUMOULIN Tom": "positive: Third place post-layoff confirms rebuilding trajectory faster than expected for multi-month absence comeback",
+      "YATES Adam": "negative: Lost 11s to POGAČAR in 9km suggests vulnerable in any race with even token ITT mileage against complete riders",
+      "PHILIPSEN Jasper": "neutral: Sprinter holding leader's jersey until ITT indicates early bunch finishes, relinquishing to BISSIGER confirms expected GC reset"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:29:20.809994+00:00"
+}

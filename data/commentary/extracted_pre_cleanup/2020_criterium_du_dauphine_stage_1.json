@@ -1,0 +1,30 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-12",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AERT Wout won the uphill sprint finish after URÁN Rigoberto's attack at 2.9km failed to stick, demonstrating sprinter-climber hybrids dominate hilly finishes.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CAVAGNA Rémi and KRAGH ANDERSEN Søren attacked mid-race to control for ALAPHILIPPE, revealing Deceuninck's willingness to burn domestiques early.",
+      "URÁN Rigoberto's 2.9km attack drew ROGLIČ, QUINTANA Nairo, BARDET, but none committed to chase, neutralizing the move.",
+      "IMPEY Daryl positioned second wheel to VAN AERT but sprinted from too far back; needs 50m more runway.",
+      "FROOME Chris sat up after talking to CASTROVIEJO, suggesting illness management rather than form, critical distinction for future stages."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: won uphill finish after 218km, demonstrating exceptional diesel engine and sprint power on climbing finishes",
+      "IMPEY Daryl": "positive: nearly caught VAN AERT from distance, his closing speed suggests strong form for similar uphill sprints",
+      "BERNAL Egan": "positive: third place after positioning well in final 2km shows race sharpness despite not attacking",
+      "URÁN Rigoberto": "neutral: initiated key attack at 2.9km but couldn't sustain when no one bridged, testing rather than decisive",
+      "FROOME Chris": "negative: abandoned effort after mid-race communication with CASTROVIEJO, indicating ongoing recovery limitations from illness",
+      "LA TOUR Pierre": "neutral: attacked at 2km after altitude training in Val d'Isère but lacked finishing power",
+      "VAN GARDEREN Tejay": "negative: dropped on penultimate climb at 34km to go, concerning weakness on category climbs",
+      "ALAPHILIPPE Julian": "negative: finished 13th when team burned CAVAGNA and KRAGH ANDERSEN for him, disappointing return"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:21:49.428881+00:00"
+}

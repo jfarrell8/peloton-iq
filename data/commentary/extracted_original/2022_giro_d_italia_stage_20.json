@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-28",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HINDLEY Jai attacked inside final 5km on Marmolada using teammate KÄMNA as pace satellite, cracking CARAPAZ to gain 1:25 before final TT",
+    "winner": "COVVI Alessandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KÄMNA placed in 15-rider breakaway as deliberate satellite, perfectly positioned inside 5km for HINDLEY's pink jersey attack.",
+      "BAHRAIN positioned both NOVAK and DORFMAN in break, dual-purpose for stage hunting and potential LANDA support on Marmolada.",
+      "INEOS only initiated pace with 5km remaining on final climb, allowing break 6-minute gap but concentrating firepower.",
+      "HINDLEY's attack timed to use KÄMNA as pacemaker before dropping him, exploiting teammate energy rather than solo effort."
+    ],
+    "rider_signals": {
+      "CARAPAZ Richard": "negative: catastrophic collapse inside final 3km despite only 3-second deficit, suggesting overtrain or illness not just bad legs",
+      "KÄMNA Leonard": "positive: breakaway placement reveals BORA tactical sophistication, willing to sacrifice GC domestique early for final-climb advantage",
+      "LANDA Mikel": "positive: passed imploding CARAPAZ to move within podium range at 1:51, proving stage 19 recovery superior to INEOS leader",
+      "BUCHMANN Emanuel": "negative: dropped immediately when pace lifted at 5km, confirmed as spent force after earlier GC efforts",
+      "NOVAK Domen": "positive: cut 90-second gap to COVVI down to 30 seconds solo, showing BAHRAIN has stage-hunting depth beyond LANDA"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:39:34.107360+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-24",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SHACHMANN Maximilian won from breakaway after repeated accelerations shelled POZZOVIVO, while YATES Simon cracked on final climb losing 25-30 seconds when FROOME attacked.",
+    "winner": "SHACHMANN Maximilian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway repeatedly accelerated each time POZZOVIVO bridged back, systematically destroying his mental state before final split.",
+      "FROOME attacked immediately after catching struggling group on final climb, exploiting YATES showing first weakness.",
+      "DUMOULIN followed POZZOVIVO wheel when pink jersey cracked rather than initiating attacks himself, revealing podium defense mode."
+    ],
+    "rider_signals": {
+      "SHACHMANN Maximilian": "positive: 24-year-old showed Grand Tour maturity by reading repeated acceleration pattern, timed final move perfectly at 3-up sprint",
+      "YATES Simon": "negative: first visible crisis of Giro, lost wheel to podium group on final climb after looking infallible in previous stages",
+      "POZZOVIVO Domenico": "negative: bridged to break four times but each acceleration killed mental state, playing dangerous game",
+      "FROOME Christopher": "positive: attacked when group caught stragglers rather than waiting, understood moment to exploit first YATES weakness",
+      "DUMOULIN Tom": "neutral: following wheels in podium group suggests defending position not attacking for stage win",
+      "LOPEZ Miguel": "neutral: moved down in group positioning before final climb, conservative placement"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:20:35.951384+00:00"
+}

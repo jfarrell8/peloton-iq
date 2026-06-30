@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Targets early breakaways with methodical climb-by-climb point accumulation, securing position before main race broadcast begins. Prefers long-distance moves that survive through peloton disorganization rather than late explosive attacks.",
+  "team_tactics": "Shows limited team coordination - breakaway autonomy emphasized over integrated squad support. Evidence of communication breakdowns with teammates attacking separately from peloton rather than supporting established breakaway positions.",
+  "terrain_preference": "Rolling stages with multiple categorized climbs suited for KOM point accumulation. Benefits from technical finales where peloton chase cohesion breaks down (crashes, narrow roads). Not a pure climber or sprinter.",
+  "vulnerability": "Relies on peloton disinterest or tactical errors to survive breakaways. When teams organize coordinated chases without incident, success rate appears compromised. Weak team backing limits ability to control races independently.",
+  "key_patterns": [
+    "Early breakaway specialist, establishes moves before television coverage begins (2 observations)",
+    "Targets KOM points systematically across all categorized climbs in stage (2 observations)",
+    "Success dependent on peloton disruption: crashes, gaps, or chase coordination failures (2 observations)",
+    "Operates independently from team structure, limited domestique support evident (2 observations)"
+  ],
+  "form_trajectory": "neutral: 2018 showed proactive winning form with KOM success, but 2020 reduced to defensive gap management with team coordination issues",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "COUSIN Jerome",
+  "built_from": [
+    "2018 Paris-Nice Stage 5",
+    "2018 Paris-Nice Stage 5",
+    "2020 Tour de France Stage 3"
+  ]
+}

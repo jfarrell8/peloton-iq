@@ -1,0 +1,30 @@
+{
+  "label": "2018 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-21",
+  "stage": 14,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "FRAILE Omar won from the early break after ALAPHILIPPE Julian's summit attack came 600m too late to close 12 seconds on the descent.",
+    "winner": "FRAILE Omar",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE Julian's summit attack timing failed because 600m remaining was insufficient distance to close 12s before descent recovery window.",
+      "STUYVEN Jasper faded then recovered on shallow gradient approaching summit, showing experienced riders exploit micro-terrain changes within final kilometer.",
+      "MARTIN Dan's mechanical 5km from finish on GC stage reveals teams lack deep domestique support when defending top-10 on breakaway stages.",
+      "Top three GC riders THOMAS, FROOME, DUMOULIN collaborated through finale despite competing for yellow, confirming alliance against QUINTANA threat supersedes inter-team rivalry."
+    ],
+    "rider_signals": {
+      "FRAILE Omar": "positive: Changed teams to Astana and immediately delivered Tour stage win, suggesting transfer unlocked form or tactical freedom",
+      "ALAPHILIPPE Julian": "neutral: Demonstrated explosive climbing to bridge gap but poor tactical calculation of required distance left attack 600m too late",
+      "STUYVEN Jasper": "positive: Showed recovery capacity and tactical awareness on shallow gradients after initial crack, holding podium position despite being caught",
+      "MARTIN Dan": "negative: Mechanical 5km from finish cost 1:43 and dropped him from 6th to 7th overall, exposing isolation without team support",
+      "QUINTANA Nairo": "negative: Lost time to top three again and commentary explicitly noted he's not having a good race at all",
+      "ROGLIČ Primož": "positive: Gained 5-7 seconds on top three despite being fourth overall, showing aggressive time-hunting mentality even without stage ambitions",
+      "JUNGELS Bob": "negative: Lost 43 seconds in white jersey, indicating declining form or insufficient recovery from earlier Tour efforts",
+      "LATOUR Pierre": "negative: Lost 48 seconds in white jersey defense, suggesting climbers without GC team support hemorrhage time on aggressive transition stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:34:25.341457+00:00"
+}

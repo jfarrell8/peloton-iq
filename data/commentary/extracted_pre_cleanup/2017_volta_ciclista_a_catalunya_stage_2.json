@@ -1,0 +1,24 @@
+{
+  "label": "2017 Volta Ciclista a Catalunya Stage 2",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2017-03-21",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROJAS José Joaquín took leader's jersey after Movistar won the Stage 2 team time trial, though later penalized in Stage 3 for teammate pushing infraction.",
+    "winner": "ROJAS José Joaquín",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Movistar unexpectedly fastest in TTT despite not being known for discipline, revealing depth for stage race control.",
+      "BMC lost TTT despite specialization, suggesting TJ/Porte GC ambitions compromised early versus Valverde's stronger position.",
+      "Sky 46 seconds down in third indicates Froome/Thomas not prioritizing early time gains, banking on mountain superiority."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: Movistar built entire TTT around him with fastest time, positioned to control race unlike Quintana's absence suggests",
+      "CONTADOR Alberto": "negative: Trek 1:15 down in TTT reveals weak support crew for GC defense compared to BMC/Movistar depth",
+      "BOUHANNI Nacer": "negative: Sprint Stage 1 positioning failure left him mid-pack when Cofidis train collapsed, beaten by lead-out wheel surfer"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:14:58.959721+00:00"
+}

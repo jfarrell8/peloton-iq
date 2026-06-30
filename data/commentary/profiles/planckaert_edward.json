@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Prioritizes early breakaway positioning to control intermediate sprint points rather than stage victories. Demonstrates classification-focused attacking with energy conservation tactics.",
+  "team_tactics": "Operates with autonomy in breakaways, focusing on strategic sprint point collection rather than requiring heavy team support for stage wins.",
+  "terrain_preference": "Stages with accessible breakaways and multiple intermediate sprints where classification points can be harvested efficiently without excessive climbing or pace.",
+  "vulnerability": "Single race sample limits assessment; likely struggles when breakaways are heavily controlled or when pure climbing power or flat sprint speed is required for points.",
+  "key_patterns": [
+    "Targets classification jerseys through systematic intermediate sprint point collection in breakaways",
+    "Demonstrates tactical efficiency by conserving energy after securing sprint points rather than chasing stage win",
+    "Shows race intelligence in identifying uncontested opportunities within breakaway dynamics"
+  ],
+  "form_trajectory": "unknown: single observation from February 2023 insufficient to determine trajectory; tactics were effective but sample too limited",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "PLANCKAERT Edward",
+  "built_from": [
+    "2023 UAE Tour Stage 6",
+    "2023 UAE Tour Stage 6"
+  ]
+}

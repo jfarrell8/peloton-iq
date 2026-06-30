@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Mountaintop finish specialist who reserves energy for final climb, responding controlled to attacks rather than initiating long-range moves. Relies on superior finishing power in final kilometers.",
+  "team_tactics": "Insufficient data to establish clear team patterns across multiple races, though positioned well for stage finishes.",
+  "terrain_preference": "High mountain finishes where sustained power and controlled accelerations matter. ITT strength provides safety net on GC battles.",
+  "vulnerability": "Unknown across multiple race scenarios - single race data insufficient to identify repeated weaknesses.",
+  "key_patterns": [
+    "Controlled race management: responds to attacks rather than initiating, saves energy for finish",
+    "Time trial confidence: willing to race defensively knowing ITT can decide GC",
+    "Bonus seconds awareness: tactical finish positioning to maximize 10-second opportunities"
+  ],
+  "form_trajectory": "positive: won multiple mountain stages and reached final ITT level on GC with race leader, showing consistent climbing form",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HART Tao",
+  "built_from": [
+    "2020 Giro d'Italia Stage 20",
+    "2020 Giro d'Italia Stage 20"
+  ]
+}

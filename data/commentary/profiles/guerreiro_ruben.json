@@ -1,19 +1,29 @@
 {
-  "attacking_style": "Demonstrates versatility with ability to contest uphill sprint finishes rather than pure long-range attacks. Shows climbing competence but lacks explosive power for sustained final climb efforts.",
-  "team_tactics": "Insufficient data to establish clear team tactical patterns across observations.",
-  "terrain_preference": "Favors shorter, punchier uphill finishes where versatility matters over sustained steep gradients. Struggles on extended final climbs that require pure climbing power.",
-  "vulnerability": "Loses contact on prolonged final climbs in stage races, particularly when pace is high and sustained. Stage race GC ambitions appear limited by climbing ceiling.",
+  "attacking_style": "Attacks on final climbs but excels at tactical positioning rather than pure power—sits on stronger riders' wheels (Castroviejo example) and times final acceleration in last 500m when gradient steepest.",
+  "team_tactics": "EF employs him in opportunistic breakaways with numerical advantage rather than GC protection; willing to gamble from distance (flamme rouge attacks) when team has numbers in selections.",
+  "terrain_preference": "Steep gradient finishes on medium-length climbs where he can demonstrate superiority over classics riders but avoid sustained efforts against pure GC climbers. Final climb selections ideal.",
+  "vulnerability": "Lacks sustained power to lead on long climbs—needs wheel to follow. Absorbed when attacking from distance (flamme rouge). Non-contender on pure GC when facing top-tier stage race climbers.",
   "key_patterns": [
-    "Performs better on uphill sprint finishes than extended mountain stages (2 observations)",
-    "Struggles to maintain position on final climbs when racing for GC (2 observations)",
-    "Shows non-specialist climber profile: versatile but lacks pure climbing power (2 observations)"
+    "Wins by sitting on wheels until final meters, not leading—Giro stage victory exemplifies this",
+    "Performs best in breakaways with numerical/positioning advantage—Catalunya second, multiple references to EF numbers",
+    "Attacks on final climbs create selections but struggles leading sustained efforts alone",
+    "Form improves through stage races—Vuelta 2019 climbing strength noted as improving through race",
+    "Deployed in long breakaways when not GC contender, 25+ minutes down confirmed non-threat status"
   ],
-  "form_trajectory": "negative: Lost contention on final climb days after strong uphill finish, suggesting limited climbing endurance for stage racing",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "positive: 2022 Dauphiné fourth/sixth overall shows elevation to unexpected GC climbing depth beyond traditional breakaway role",
+  "races_analysed": 8,
+  "confidence": "high",
   "rider_name": "GUERREIRO Ruben",
   "built_from": [
+    "2018 Itzulia Basque Country Stage 2",
+    "2019 Criterium du Dauphine Stage 3",
+    "2019 Vuelta a Espana Stage 15",
+    "2020 Giro d'Italia Stage 9",
+    "2020 Giro d'Italia Stage 9",
+    "2020 Tirreno Adriatico Stage 7",
+    "2020 Tirreno Adriatico Stage 7",
+    "2021 Volta Ciclista a Catalunya Stage 5",
     "2022 Criterium du Dauphine Stage 3",
-    "2022 Criterium du Dauphine Stage 8"
+    "2022 UAE Tour Stage 4"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches long-range breakaway efforts designed to build substantial time gaps before final climbs, but lacks explosive finishing power to hold off late pursuers in the final kilometer.",
+  "team_tactics": "Appears to operate with limited team support in breakaway scenarios, relying on solo endurance efforts rather than coordinated team setups.",
+  "terrain_preference": "Mountain stages with opportunities for early breakaways where time gaps can be established before final climbs; struggles on technical descents and urban circuits requiring sharp handling skills.",
+  "vulnerability": "Cannot defend large advantages when caught on steep gradients in final kilometer; technical descents and tight urban circuits expose bike handling deficiencies, including crash risk under pressure.",
+  "key_patterns": [
+    "Builds massive time advantages (7+ minutes) but lacks explosive power to finish climbs alone.",
+    "Technical handling issues evident: crashes on tight bends and struggles with urban circuits.",
+    "Breakaway specialist who fades when pure climbing power required in final kilometer of ascents."
+  ],
+  "form_trajectory": "negative: Both 2017 Grand Tour appearances showed critical weaknesses—crash vulnerability and inability to convert major breakaway advantage",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ATAPUMA Darwin",
+  "built_from": [
+    "2017 Tour de France Stage 18",
+    "2017 Vuelta a Espana Stage 1"
+  ]
+}

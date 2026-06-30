@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-11",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnold won from the front after Groupama-FDJ paced the 20km climb at 4% to drop pure sprinters Cavendish and Ewan permanently.",
+    "winner": "DEMAR Arnold",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Machiavelli sent entire team to pace 20km/4% climb specifically targeting Cavendish/Ewan, successfully eliminating pure sprinters with 10km remaining.",
+      "SWIFT Ben strategically took 3-second intermediate sprint bonus to deny GC rider ALMEIDA, revealing intermediate sprint points as blocking tactic.",
+      "Groupama-FDJ's SCOTSON won corner positioning race with 1km to go on critical technical turn, enabling clean leadout despite headwind."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "negative: first sprinter dropped on gentle 4% climb, lost over minute with 10km remaining, never regained contact",
+      "EWAN Caleb": "negative: isolated with single teammate on 4% climb while rivals dropped him, finished 2+ minutes down",
+      "DEMAR Arnold": "positive: rejoined peloton after being dropped on climb then immediately sent team to front, showing tactical control",
+      "SWIFT Ben": "neutral: tactically sophisticated to steal intermediate sprint bonuses from GC riders rather than letting them accumulate",
+      "SCOTSON Miles": "positive: won critical corner positioning battle 1km out enabling clean leadout despite technical finale and headwind"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:40:13.690998+00:00"
+}

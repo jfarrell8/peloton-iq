@@ -1,0 +1,26 @@
+{
+  "label": "2021 Benelux Tour Stage 6",
+  "race_name": "Benelux Tour",
+  "race_date": "2021-09-04",
+  "stage": 6,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won the sprint led out by MØRKØV Michael inside 200m, taking his second stage after crosswinds earlier split the peloton.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Crosswind splits reduced breakaway gap from 3:45 to chase time, forcing sprinter teams to burn matches mid-stage.",
+      "MØRKØV Michael dropped BENNETT Sam at 200m mark, perfectly timed to prevent early launch and counter-jumping.",
+      "UAE Team Emirates paced entire stage despite no sprint interest, protecting 45-second GC margin through positioning not tempo."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: two from two in sprint stages shows form peaked for designated opportunities, not random luck",
+      "ACKERMANN Pascal": "negative: delayed by crosswinds and still fighting position late, suggests team protection gaps or poor positioning radar",
+      "MØRKØV Michael": "positive: lead-out accuracy at 200m demonstrates deliberate late release prevents premature sprints",
+      "DEKKER David": "neutral: green jersey via consistency not wins, positioning discipline over raw speed",
+      "VIVIANI Elia": "neutral: second place shows legs present but lacks final acceleration or positioning to challenge BENNETT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:47:08.318090+00:00"
+}

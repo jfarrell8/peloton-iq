@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-18",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ALA PHILIPPE Julian won a technical bunch sprint at 3km after Ballerini's breakaway collapsed, despite being positioned as leadout for Viviani.",
+    "winner": "ALA PHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck-Quick Step prioritized GC bonus seconds over pure sprint victory, letting Ala Philippe freelance from leadout duties.",
+      "Ballerini breakaway survived until 3km despite peloton closing to 37 seconds earlier, suggesting tactical hesitation among sprint teams.",
+      "Sprint trains completely disintegrated on tired legs after long stages, allowing non-sprinter to win via positioning alone."
+    ],
+    "rider_signals": {
+      "ALA PHILIPPE Julian": "positive: converted leadout role to stage win opportunistically, gains 10 bonus seconds for GC despite not being designated sprinter",
+      "VIVIANI Elia": "negative: caught Bonnamour's wheel instead of Quick Step leadout train, showing fatigue-induced positional errors",
+      "BALLERINI Davide": "neutral: Astana rider's breakaway timing miscalculated by surviving to 3km when peloton already at 37 seconds earlier"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:56:03.364304+00:00"
+}

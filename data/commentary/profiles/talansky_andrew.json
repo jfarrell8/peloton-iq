@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Attempts ambitious solo moves on climbs but lacks sustained power to maintain separation, requiring bridge-backs when efforts fail.",
+  "team_tactics": "Cannondale deploys designated domestiques (Clarke) to front for tempo setting and GC protection, showing traditional stage race support structure.",
+  "terrain_preference": "Mountain stages where tactical ambition can be displayed, though power-to-weight may limit effectiveness on steepest gradients.",
+  "vulnerability": "Insufficient power output to sustain solo attacks once launched; efforts are neutralized requiring return to main group.",
+  "key_patterns": [
+    "Launches ambitious attacks without power to finish them solo, necessitating bridge-backs.",
+    "Team commits domestique resources to front-running for GC protection and positioning.",
+    "Shows tactical aggression but physical execution falls short of breaking elite climbers."
+  ],
+  "form_trajectory": "neutral: Single race shows willingness to attack but inability to convert efforts into results",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "TALANSKY Andrew",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 7",
+    "2017 Criterium du Dauphine Stage 7"
+  ]
+}

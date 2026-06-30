@@ -1,20 +1,28 @@
 {
-  "attacking_style": "Not a natural attacker; operates opportunistically in breakaways with calculated tactical awareness, particularly regarding bonus seconds and stage negotiations rather than explosive climbing attacks.",
-  "team_tactics": "Appears to ride independently without heavy team support; personally marks dangerous moves rather than relying on domestiques to control threats.",
-  "terrain_preference": "Shows unexpected climbing durability on medium-mountain stages, able to limit losses on hard climbs (12km+ remaining) better than profile suggests. Not suited for explosive summit finishes.",
-  "vulnerability": "Loses contact on steep sustained climbs when pace intensifies with 10-15km remaining; lacks pure climbing firepower to stay with elite GC contenders on high-mountain finishes.",
+  "attacking_style": "Opportunistic rather than explosive; gains GC positions through breakaway placements and steady climbing rather than late-race accelerations. Rarely initiates proactive attacks when in defensive positions.",
+  "team_tactics": "Trek demonstrates conservative resource management, avoiding aggressive chasing early in stage races. Limited domestique support forces Lopez to mark threats personally, even when holding leader's jersey.",
+  "terrain_preference": "Sustained, high-altitude climbing (4000m+ days) where steady tempo suits him. Exposed on nervous flat stages and technical finales requiring positional awareness and split reactions.",
+  "vulnerability": "Fades over multi-week duration; loses form in third week of Grand Tours. Vulnerable in chaotic flat racing where positioning and quick reactions to splits are critical, not pure climbing power.",
   "key_patterns": [
-    "Demonstrates tactical maturity beyond GC debut status, negotiating breakaway outcomes strategically (2 instances)",
-    "Shows personal responsibility for race positioning, marking attacks individually without team support (2 instances)",
-    "Exceeds expectations as non-climber on mountainous terrain, limiting time losses effectively (2 instances)"
+    "Loses GC position through flat-stage splits and positioning errors, not mountain weakness (2 instances).",
+    "Shows unexpected resilience defending lead initially but cannot sustain through week three (4 observations).",
+    "Relies on personal marking rather than team protection even in leader's jersey (2 instances).",
+    "Passive on final climbs when not defending; hangs but doesn't attack proactively (2 observations).",
+    "Exceeded pre-race GC expectations initially but form trajectory consistently negative over three weeks."
   ],
-  "form_trajectory": "positive: consistently exceeded expectations for GC debut rider across multiple mountain stages, showing both climbing durability and tactical sophistication",
-  "races_analysed": 3,
-  "confidence": "low",
+  "form_trajectory": "negative: 2022 Giro showed initial resilience holding pink for 10 days but faded to 9th. 2023 Vuelta appearance shows continued passive climbing with no proactive threat signals.",
+  "races_analysed": 9,
+  "confidence": "high",
   "rider_name": "LOPEZ Juan Pedro",
   "built_from": [
+    "2022 Giro d'Italia Stage 10",
+    "2022 Giro d'Italia Stage 14",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 18",
     "2022 Giro d'Italia Stage 4",
+    "2022 Giro d'Italia Stage 7",
     "2022 Giro d'Italia Stage 8",
-    "2022 Giro d'Italia Stage 9"
+    "2022 Giro d'Italia Stage 9",
+    "2023 Vuelta a Espana Stage 3"
   ]
 }

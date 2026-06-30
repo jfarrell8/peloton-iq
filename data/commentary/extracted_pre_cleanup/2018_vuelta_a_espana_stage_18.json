@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-13",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ABERASTURI outsprinted BYSTRØM from a late breakaway that held off the peloton by seconds in the final 1.5km",
+    "winner": "ABERASTURI Jon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ABERASTURI deliberately sat on BYSTRØM's wheel knowing the Norwegian was stronger sprinter, attacking only at 200m on uphill finish",
+      "VALVERDE forced YATES Simon to chase personally in final 2.5km, preventing GC leader from conserving energy before summit stages",
+      "Breakaway alliance collapsed under 1.5km when riders looked at each other, nearly gifting sprinters the catch despite 23-second gap"
+    ],
+    "rider_signals": {
+      "ABERASTURI Jon": "positive: tactically mature, deliberately parasited stronger sprinter BYSTRØM then timed 200m attack on uphill gradient perfectly",
+      "BYSTRØM Sven Erik": "negative: stronger sprinter but opened sprint too early, unable to hold off ABERASTURI's late acceleration on gradient",
+      "YATES Simon": "negative: forced to personally mark VALVERDE in closing kilometers of sprint stage, revealing GC anxiety about gaps",
+      "VALVERDE Alejandro": "positive: created positioning pressure forcing race leader YATES to chase personally rather than relying on team",
+      "FELLINE Fabio": "negative: exhausted himself leading out sprinters in doomed chase, mistimed team effort",
+      "SAGAN Peter": "neutral: fully committed to sprint despite late breakaway, shows willingness to gamble on marginal catches"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:48:16.774618+00:00"
+}

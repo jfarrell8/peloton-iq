@@ -1,0 +1,27 @@
+{
+  "label": "2020 UAE Tour Stage 3",
+  "race_name": "UAE Tour",
+  "race_date": "2020-02-25",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GROVES Kaden won bunch sprint after RICE Michael freeloaded in breakaway and Sun-Web controlled tempo on Tawonga Gap to eliminate climber threats",
+    "winner": "GROVES Kaden",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sun-Webb controlled entire race despite no sprint protected, suggesting team protecting GC rather than stage hunting opportunity",
+      "RICE Michael refused all breakaway turns but still placed fifth, exposing weak coordination among break companions lacking discipline",
+      "Mitchelton-Scott delayed sprint train until final kilometer, allowing domestique TINETTI to rejoin rather than risk early isolation",
+      "POWER Rob sacrificed GC position finishing 8:27 down to work for HINDLEY, revealing team prioritizing single GC card"
+    ],
+    "rider_signals": {
+      "GROVES Kaden": "positive: first win in new Mitchelton-Scott colors shows immediate adaptation, looking away from sprint suggests confidence bordering on complacency",
+      "RICE Michael": "neutral: tactical freeloading in break enabled fifth place, questionable ethics but effective result-oriented positioning",
+      "DAINESE Alberto": "negative: stage one winner couldn't match GROVES on flatter sprint finish, suggests pure power sprinter rather than versatile finisher",
+      "HILL Ben": "negative: attacked immediately at flag drop but cramped catastrophically before final sprint, revealing overeager pacing judgment",
+      "POWER Rob": "negative: strong climber dropped early on Tawonga then relegated to domestique duties, dramatic GC drop from top-10 shows fragile form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:28:26.394239+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-15",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won stage 3 sprint at Teramo by jumping with 500m to go when peloton hesitated, beating SAGAN Peter and GAVIRIA Fernando",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VIVIANI Elia attacked at 500m when peloton decelerated post-corner, exploiting hesitation rather than waiting for leadout positioning",
+      "Quick-Step lost leadout cohesion in technical finale forcing VIVIANI solo acceleration, suggesting corners negate team sprint trains",
+      "SAGAN Peter positioned himself wheel-hunting without leadout in top-10 at 1km despite physical struggles, veteran positioning skill compensates",
+      "Breakaway absorbed extremely late suggesting bunch feared losing time on technical finish more than contesting intermediate points"
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: executed 500m solo sprint after losing leadout, shows he can win without perfect positioning on long stages",
+      "SAGAN Peter": "negative: finished second despite being visibly underweight and having physical troubles, losing peak sprint power",
+      "GAVIRIA Fernando": "neutral: podium finish but no tactical initiative shown, reactive rather than proactive in chaotic finale",
+      "SCHÖNBERGER Sebastian": "neutral: launched three separate attacks including intermediate sprint contest, aggressive but ultimately ineffective breakaway attempts",
+      "TONELLI Alessandro": "neutral: featured in late breakaway attempts absorbed close to finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:03:44.485340+00:00"
+}

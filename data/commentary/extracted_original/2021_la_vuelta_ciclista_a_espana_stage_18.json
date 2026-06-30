@@ -1,0 +1,29 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 18",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-02",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "LOPEZ Miguel Angel attacked from 32-rider breakaway to win atop Gamoniteiru, while ROGLIC took 2nd and bonus seconds overMAS to extend GC lead.",
+    "winner": "LOPEZ Miguel Angel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain Victorious set pace despite missing 32-rider break, HAIG hunting GC positions through attrition rather than break representation.",
+      "STORER prioritized KOM points over stage win despite being strongest breakaway rider, revealing DSM team competition between him and BARDET.",
+      "ROGLIC refused to chase LOPEZ for stage win but sprinted for 2nd place bonus seconds over MAS, revealing GC calculation priorities.",
+      "DE LA CRUZ asked STORER for cooperation on final climb but was refused, showing breakaway alliances fracture when teammate competition exists."
+    ],
+    "rider_signals": {
+      "STORER Michael": "positive: dominated breakaway KOM sprints to overtake teammate BARDET in classification, signaling internal DSM hierarchy shift",
+      "HAIG Jack": "positive: set brutal pace for Bahrain despite missing break, suggesting GC podium ambition through elimination tactics",
+      "LOPEZ Miguel Angel": "positive: attacked final 2km from select chase group to take stage, narrowing gap to teammate MAS to just 23 seconds",
+      "ROGLIC Primoz": "positive: sprinted for 2nd to take bonus seconds over MAS rather than conserve energy, extending lead to 2:30",
+      "MAS Enric": "negative: unable to follow ROGLIC's sprint for bonus seconds despite both reaching final climb together",
+      "YATES Simon": "neutral: present in select chase group but invisible in finale, suggesting fatigue after Covadonga",
+      "BERNAL Egan": "neutral: moved into top 5 GC but showed no acceleration ability on final climb"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:27:06.756625+00:00"
+}

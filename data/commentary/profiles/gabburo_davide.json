@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic bridge specialist who responds to early selections rather than initiating attacks. Shows ability to survive multiple climb selections but lacks finishing kick to contest final sprint.",
+  "team_tactics": "Limited data on team setup; appears to operate in breakaway scenarios where individual initiative matters more than team support. Lacks dedicated lead-out or positioning assistance in final.",
+  "terrain_preference": "Suited to attritional breakaway scenarios with multiple selection points. Can handle climbing well enough to survive to final group but not explosive enough to create separation or sprint effectively.",
+  "vulnerability": "Final sprint execution is a clear weakness - reached final quartet but couldn't contest podium. Lacks acceleration to bridge initial splits without sustained effort.",
+  "key_patterns": [
+    "Missed initial breakaway formations but successfully bridged gaps through persistent chase efforts (2 observations).",
+    "Survived multi-climb selections to reach reduced final groups but failed to convert position into results (2 observations).",
+    "Operates primarily in breakaway contexts rather than peloton positioning or GC group dynamics (2 observations)."
+  ],
+  "form_trajectory": "neutral: Demonstrated consistent ability to reach advanced positions in breaks but no progression in converting presence to podium results across May 2022 Giro stages",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GABBURO Davide",
+  "built_from": [
+    "2022 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 8"
+  ]
+}

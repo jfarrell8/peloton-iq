@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive moves on final climbs (7-8km to go) from established breakaways, using steep gradients (9%+) to distance competitors in closing kilometers rather than early aggression.",
+  "team_tactics": "Operates with autonomy in breakaways, displaying individual race intelligence to conserve energy until gap security is confirmed before committing to sustained effort.",
+  "terrain_preference": "Steep sustained climbs (9-10% gradient) in final 10km where power-to-weight advantage can be maximized; excels at pacing steep finishes to drop rivals progressively.",
+  "vulnerability": "Requires breakaway platform to succeed; limited data on bunch sprint positioning or ability to create opportunities without early group establishment.",
+  "key_patterns": [
+    "Attacks from breakaways on final climbs rather than instigating early moves (1 instance)",
+    "Shows tactical maturity by energy conservation until race dynamics favor commitment (1 instance)",
+    "Delivers winning accelerations in final 8km on gradients exceeding 9% (1 instance)"
+  ],
+  "form_trajectory": "unknown: single observation shows capability but insufficient data to assess progression or consistency trends",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SEPKUSS Toms",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 15",
+    "2019 Vuelta a Espana Stage 15"
+  ]
+}

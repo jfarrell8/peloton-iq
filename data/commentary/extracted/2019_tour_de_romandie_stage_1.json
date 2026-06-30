@@ -1,0 +1,29 @@
+{
+  "label": "2019 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2019-05-01",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ attacked inside final km on lumpy circuit finish, held off BETANCUR and late-charging FRANK/COSTA to take both stage and yellow.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint burned matches attacking at 900m to go but lacked final sprint speed, losing to fresher finishers.",
+      "BUCHMANN rode aggressively for intermediate sprint points despite starting 15 seconds down, signaling GC bonus ambitions early.",
+      "ROGLIČ positioned in select front group through five second-category climbs, conserving energy while rivals attacked before final km strike.",
+      "BETANCUR stayed on THOMAS wheel rather than countering, tactical passivity costing him stage when ROGLIČ launched final acceleration."
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: won sprint from select group after extended lumpy stage despite claiming rust from long Tirreno layoff",
+      "THOMAS Geraint": "negative: initiated final attack at 900m but faded to fourth, first race since Tour de France win showing lack of racing sharpness",
+      "BETANCUR Carlos": "neutral: matched THOMAS attack but sat on wheel rather than countering, settled for second",
+      "FRANK Mathias": "positive: late sprint surge nearly caught leaders despite not being in initial attacking group",
+      "COSTA Rui": "positive: closed gap in final meters with strong sprint, demonstrated better finishing speed than established GC riders",
+      "BUCHMANN Emanuel": "positive: aggressive early for bonus seconds despite deficit, showing willingness to spend energy for marginal gains",
+      "KRUIJSWIJK Steven": "neutral: mentioned as very strong but no attacking evidence shown, passive approach in select group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:10:25.784173+00:00"
+}

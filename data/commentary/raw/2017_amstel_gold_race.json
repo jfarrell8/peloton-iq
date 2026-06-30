@@ -1,16 +1,15 @@
 {
   "label": "2017 Amstel Gold Race",
-  "race_name": "",
-  "race_date": "",
+  "race_name": "Amstel Gold Race",
+  "race_date": "2017-04-16",
   "stage": null,
   "video": {
     "video_id": "dlfHFC8he18",
-    "title": "manually provided",
+    "title": "Manual add: dlfHFC8he18",
     "url": "https://youtube.com/watch?v=dlfHFC8he18",
     "channel": "manual",
     "published": "",
-    "match_score": 999,
-    "all_candidates": []
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 74,

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Limited offensive capacity observed; appears to ride defensively to maintain GC position rather than initiate attacks, even on summit finishes.",
+  "team_tactics": "Insufficient data to determine clear team tactical patterns from available observations.",
+  "terrain_preference": "Struggles on steep summit finishes; exposed on high-altitude climbs like Paso San Valentino where lighter climbers can distance him.",
+  "vulnerability": "Summit finishes at altitude reveal clear weakness; gets distanced on steep gradients and lacks ability to respond or counter-attack when isolated.",
+  "key_patterns": [
+    "Distanced on steep summit climbs, unable to follow pace of top GC contenders (2 instances)",
+    "Defensive racing focused on damage limitation rather than gaining time offensively (2 instances)",
+    "Shows vulnerability when racing gets selective at high altitude (2 instances)"
+  ],
+  "form_trajectory": "negative: consecutive stages showed declining performance, getting distanced on climbs and requiring chases to limit losses",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VLASSOV Aleksandr",
+  "built_from": [
+    "2021 Giro d'Italia Stage 17",
+    "2021 Giro d'Italia Stage 19"
+  ]
+}

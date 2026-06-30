@@ -1,0 +1,29 @@
+{
+  "label": "2017 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-17",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FREIER Laurens attacked inside final kilometer after infiltrating late Costa-Ron-Keukeleire breakaway, held off faster sprinters to win.",
+    "winner": "FREIER Laurens",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Breakaway rider traded mountain points for company, letting Freier take KOM classification points to maintain cooperative pace dynamic.",
+      "Ron attacked multiple times but refused to commit alone, revealing defensive tactics when riding for stage wins versus GC.",
+      "Costa refused to pull through with Ron despite both hunting stage win, sacrificing breakaway cohesion for sprint advantage.",
+      "Freier pre-committed to long sprint from 400m knowing inferior speed required gap-building versus Costa/Keukeleire/Visconti finishers.",
+      "Dimension Data work rate in breakaway suggests team prioritizes stage hunting over protecting 2:23 leader Dumoulin's margin."
+    ],
+    "rider_signals": {
+      "FREIER Laurens": "positive: recovered from early climb suffering to win from breakaway, showing multi-terrain resilience rarely expected from Dimension Data domestiques",
+      "PINO Wout": "neutral: attacked with 75km remaining but immediately looked for others to share workload, not riding with stage-winning conviction",
+      "RON Pierre": "negative: repeatedly attacked but refused solo commitment despite having time trial form from previous day, tactically indecisive",
+      "COSTA Rui": "negative: refused cooperation with Ron in break despite shared interest, prioritizing sprint over enlarging advantage",
+      "VAN GARDEREN Tejay": "negative: punctured mid-stage, confirmed mechanical vulnerability pattern continuing from earlier Giro stages",
+      "DUMOULIN Tom": "neutral: sitting 2:23 ahead overall but team still committing riders to breaks rather than pure GC defense"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:55:11.658474+00:00"
+}

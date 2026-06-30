@@ -1,0 +1,33 @@
+{
+  "label": "2022 Ronde van Vlaanderen - Tour des Flandres",
+  "race_name": "Ronde van Vlaanderen - Tour des Flandres",
+  "race_date": "2022-04-03",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL won the sprint after POGAČAR attacked with 24km to go on the Koppenberg, they stayed away together, but POGAČAR refused turns in the finale and got boxed.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POGAČAR attacked decisively at 54km on Taaienberg then again on Koppenberg with 24km, but lack of sprint forced cooperation refusal.",
+      "VAN DER POEL recovered from early positioning errors by bridging after Koppenberg through superior power on cobbled sectors.",
+      "MADOUAS worked to bridge the POGAČAR/VAN DER POEL group, enabling VAN BAARLE's tactical sprint positioning from chase.",
+      "VAN HOOYDONCK initiated early aggressive riding for Quick-Step before climbs, setting nervous tempo that caused crashes behind."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: recovered from being out of position pre-Paterberg, bridged solo to POGAČAR group, won sprint after tactical finale",
+      "POGAČAR Tadej": "neutral: dominated with solo power on climbs but refused cooperation in finale when lacking sprint, boxed to fourth on debut",
+      "VAN BAARLE Dylan": "positive: read tactical stalemate perfectly between POGAČAR/VAN DER POEL, timed bridge and sprint positioning for second place",
+      "MADOUAS Valentin": "positive: bridged from chase group to leaders after Koppenberg, secured podium from disadvantaged position",
+      "TRENTIN Matteo": "positive: initiated critical selection at 54km on Taaienberg that set up final group composition",
+      "WRIGHT Fred": "positive: stayed in lead selection over Paterberg and Koppenberg, finished seventh from small elite group",
+      "KÜNG Stefan": "positive: rounded out top five after making final selection, strong classics showing from time trial specialist",
+      "VAN HOOYDONCK Nathan": "positive: executed early aggressive Quick-Step tactics before main climbs despite WVA absence",
+      "BENOOT Tiesj": "negative: elevated to team leader role without WVA but crashed before decisive climbs started",
+      "LAPORTE Christophe": "negative: crashed during critical selection phase before climbs, finished ninth after recovery",
+      "GENIETS Kevin": "negative: involved in crash during group mergers before key selections began"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:39:03.473644+00:00"
+}

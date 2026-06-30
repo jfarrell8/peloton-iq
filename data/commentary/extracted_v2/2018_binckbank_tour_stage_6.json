@@ -1,0 +1,23 @@
+{
+  "label": "2018 BinckBank Tour Stage 6",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-18",
+  "stage": 6,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "MÜLBERGER Gregor attacked from a 4-rider breakaway at 1km to go in flat finale, held off Quick-Step's late numerical advantage for first WorldTour stage win",
+    "winner": "MÜLBERGER Gregor",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Quick-Step got Shachmann and Steebar into late breakaway but failed coordination allowing solo Mülberger attack to succeed with 1km left",
+      "Van Avermaet/Matthews took time gap from main chase group in finale despite being caught behind breakaway decision"
+    ],
+    "rider_signals": {
+      "MÜLBERGER Gregor": "positive: attacked 1km out from breakaway despite having no team support against Quick-Step's 2v1 numerical advantage",
+      "SHACHMANN Max": "negative: bridged to breakaway but couldn't prevent Mülberger's attack despite having Steebar as second Quick-Step rider",
+      "VAN AVERMAET Greg": "neutral: limited losses by taking time gap with Matthews despite missing decisive breakaway move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:16:44.501411+00:00"
+}

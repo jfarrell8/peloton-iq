@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking pattern. No direct attacks observed in available commentary.",
+  "team_tactics": "Proactive defensive positioning in dangerous zones, with emphasis on protecting GC riders through front-of-peloton placement before technical sections and climbs.",
+  "terrain_preference": "Unknown from available data. Team engaged in tempo control on climbs but failed to convert positioning into results.",
+  "vulnerability": "Inability to convert superior positioning and tempo control into podium finishes; gap between tactical execution and final results.",
+  "key_patterns": [
+    "Preemptive front positioning before danger zones (technical sections, climbs) for GC protection.",
+    "Tempo control on climbs but lacking finishing punch to place riders on podium."
+  ],
+  "form_trajectory": "unknown: Only defensive and protective tactics observed; no attacking or result-generating form visible in limited sample",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "EF Education First",
+  "built_from": [
+    "2018 Tour of Guangxi Stage 4",
+    "2018 Vuelta a Espana Stage 6"
+  ]
+}

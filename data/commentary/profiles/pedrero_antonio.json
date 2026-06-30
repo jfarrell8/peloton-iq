@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Attacks on penultimate climbs rather than final ascents, showing aggressive intent but often lacks the explosive power to capitalize fully or contest the stage win.",
+  "team_tactics": "Movistar deploys him flexibly—willing to sacrifice his own opportunities to pull aggressively for designated team leaders, even when both are in breakaways with GC ambitions.",
+  "terrain_preference": "Multi-climb mountain stages with sustained high-altitude efforts (e.g., Paso San Valentino). Struggles when explosive accelerations or final climb firepower are required.",
+  "vulnerability": "Lacks finishing speed after prolonged efforts; can position well through penultimate climbs but fades when catching moves or contesting stage finishes after aggressive riding.",
+  "key_patterns": [
+    "Attacks on penultimate climbs, not final ascents (2023 Dauphiné, positioning pattern)",
+    "Strong domestique instincts override personal ambition; pulls hard for teammates despite own GC potential (2019 Giro)",
+    "Survives brutal high-mountain selections but lacks punch to animate or win late (2021 Giro, 2023 Dauphiné)"
+  ],
+  "form_trajectory": "neutral: Recent 2023 observation shows aggressive intent intact but declining ability to convert efforts into results or bridge gaps",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "PEDRERO Antonio",
+  "built_from": [
+    "2019 Giro d'Italia Stage 7",
+    "2019 Giro d'Italia Stage 7",
+    "2021 Giro d'Italia Stage 17",
+    "2023 Criterium du Dauphine Stage 8"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-07",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 14km opening ITT by 24 seconds over EVENEPOEL, with POGACAR third showing ominous form just days after a 49km solo win at Strade Bianche.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GANNA aggressively hit apexes nearly clipping barriers at mid-course turn, prioritizing speed over safety margin for 24-second margin.",
+      "POGACAR dominated GC rivals but finished 24 seconds behind pure TTers, revealing time trial specialists maintain advantage on short flat courses.",
+      "EVENEPOEL lost 9 seconds in second half after being only 2 seconds down at turn, suggesting power fade on return leg.",
+      "ASGREEN established 2-hour hot seat benchmark before favorites, showing depth in time trial at non-ideal 14km distance versus his 60km sweet spot."
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: Took 24 seconds from Evenepoel on 14km flat course despite ungainly zigzagging around manholes suggesting raw power overcame technical inefficiency",
+      "POGACAR Tadej": "positive: Finished third just days after 49km solo Strade Bianche break showing no residual fatigue from extreme weekend effort",
+      "EVENEPOEL Remco": "neutral: Lost 9 seconds in final 7km after trailing only 2 seconds at turn indicating second-half power sustainability issue",
+      "GEOGHEGAN HART Tao": "neutral: Finished 17 seconds behind Dowsett benchmark revealing unclear INEOS leadership with competitive internal dynamics",
+      "DOWSETT Alex": "positive: Held hot seat for two hours and finished fifth overall as non-GC rider showing exceptional pacing strategy"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:19:08.357410+00:00"
+}

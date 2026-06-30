@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Defensive racer who prioritizes position protection over offensive moves. Vulnerable in explosive final moments (500m) when marked by pure climbers or puncheurs.",
+  "team_tactics": "Conserves domestiques strategically even when holding race lead, preferring personal marking of threats. Team tends to misread tactical situations (echelon positioning, final climb defense).",
+  "terrain_preference": "Struggles in sudden accelerations and echelon-forming conditions. Exposed on explosive short finishes and when race fractures unexpectedly rather than controlled climbing.",
+  "vulnerability": "Final 500m accelerations after controlling tempo; loses jerseys when forced to respond personally. Poor positioning in classics-style splits despite team pedigree.",
+  "key_patterns": [
+    "Lost race lead via last-moment attacks despite controlling race beforehand (2022 Suisse)",
+    "Marks threats personally rather than using team, even when holding jersey (Tour de Suisse)",
+    "Poor echelon positioning/reading despite team's classics expertise requiring chase efforts (Giro 2020)"
+  ],
+  "form_trajectory": "negative: Lost yellow jersey in 2022 when unable to respond to explosive finale, suggesting diminished punch at decisive moments",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "FULSANG Jakob",
+  "built_from": [
+    "2020 Giro d'Italia Stage 7",
+    "2022 Tour de Suisse Stage 6",
+    "2022 Tour de Suisse Stage 7"
+  ]
+}

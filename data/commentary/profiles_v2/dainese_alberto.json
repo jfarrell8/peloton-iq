@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Pure bunch sprinter who thrives in chaotic finales rather than organized trains. Excels in the final 200m with powerful late acceleration, particularly when leadout structures break down.",
+  "team_tactics": "Functions as backup sprinter option, given freedom when primary sprinter unavailable or faltering. DSM allows opportunistic approaches rather than building dedicated trains around him.",
+  "terrain_preference": "Flat to moderately flat sprint finishes. Struggles on pure power/flat drags but excels when positioning and timing matter more than raw wattage. Circuit finales expose positioning weaknesses.",
+  "vulnerability": "Positional awareness in technical circuit finales (50th when favored). Cannot match pure power sprinters like Groves on flat drags. Lacks dedicated leadout support consistently.",
+  "key_patterns": [
+    "Wins as backup option when team structure fails or primary sprinter unavailable (2 instances)",
+    "Superior final 200m reading ability versus established sprinters in disorganized finishes (3 observations)",
+    "Performs better in chaotic sprints than organized leadout trains (3 instances)",
+    "Uses low Cavendish-style position for aerodynamic advantage in final meters (2 observations)",
+    "Positional errors cost results in technical finales despite sprint speed (2 negative signals)"
+  ],
+  "form_trajectory": "positive: evolved from backup to occasional winner 2020-2023, podiuming even on leadout duty by 2023",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "DAINESE Alberto",
+  "built_from": [
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 1",
+    "2020 UAE Tour Stage 3",
+    "2020 UAE Tour Stage 5",
+    "2022 Giro d'Italia Stage 11",
+    "2022 Giro d'Italia Stage 11",
+    "2023 Tirreno-Adriatico Stage 7",
+    "2023 Vuelta a Espana Stage 19"
+  ]
+}

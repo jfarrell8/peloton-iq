@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won a reduced bunch sprint after late crashes eliminated Gaviria, with minimal team support revealing sprint train vulnerability.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Caja Rural attempted to thin peloton for selective sprint in final kilometers, suggesting smaller teams can disrupt leadouts.",
+      "Breakaway survived until 5km remaining despite multiple sprint teams controlling, revealing coordination issues in diminished peloton.",
+      "Milan beats Pedersen at intermediate sprint to extend points lead, showing GC sprinters prioritizing jersey over stage wins."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: won with only Gibbons as leadout support, suggesting previous underperformance was team resource-related not form",
+      "MILAN Jonathan": "positive: nearly won bunch sprint after winning intermediate, demonstrating rare dual-threat capacity for pure sprinter",
+      "GROVES Kaden": "negative: suffering with illness again, establishing pattern of vulnerability in three-week racing",
+      "THOMAS Geraint": "neutral: survived crash on wet descent but lost key lieutenant Geoghegan Hart",
+      "GEOGHEGAN HART Tao": "negative: abandoned from third on GC after crash, exposing risk of wet descents midway through GT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:37:39.876607+00:00"
+}

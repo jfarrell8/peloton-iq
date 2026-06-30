@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-02",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KING Benjamin attacked alone on uncategorized pre-climb section before final ascent, survived brutal 12% gradient zone to win by 48 seconds over solo chaser Moinard.",
+    "winner": "KING Benjamin",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mate initiated early break despite holding polka-dot jersey; De Gendt waved him through, appearing to protest perceived bullying tactics.",
+      "King attacked on uncategorized pre-climb section before official climb started, gaining decisive advantage when gradient hit 9-12% zone.",
+      "GC group passive until final kilometers when Kelderman pushed hardest, not defending leader Yates, revealing Sunweb's dual leadership."
+    ],
+    "rider_signals": {
+      "KING Benjamin": "positive: survived solo through 12% gradient zone after attacking pre-climb, won second stage confirming breakaway specialization wasn't random",
+      "KELDERMAN Bauke": "positive: pushed hardest among GC favorites to line despite not being team leader, suggesting strongest legs in red jersey group",
+      "YATES Simon": "neutral: retained red jersey but teammates pushed harder, indicating potential vulnerability or team strategy confusion",
+      "ZAGHIRI Yoann": "positive: claimed no strength pre-stage but present in final GC selection, suggesting sandbagging or tactical misdirection",
+      "DE GENDT Thomas": "negative: waved Mate through at KOM sprint in apparent protest gesture, prioritizing politics over points collection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:43:29.438756+00:00"
+}

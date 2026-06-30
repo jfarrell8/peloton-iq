@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-13",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked from breakaway inside 3km on Gran Sasso d'Italia summit finish, dropped PINOT and CHAVES in final kilometer",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "YATES first time showing at race front entire stage, timed single acceleration perfectly inside 1km to summit",
+      "BALLERINI David won intermediate sprint from breakaway despite being second-year pro, outsprinted experienced BELKOV",
+      "MASNADA Fausto pushed solo attacks on climb but cracked 2.8km from summit after overextending early",
+      "FROOME Chris already requiring radio communication on medium mountain, suffered 1+ minute loss signaling deeper GC collapse"
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: showed elite summit finish timing by staying hidden until final kilometer, then decisive acceleration",
+      "FROOME Chris": "negative: radio communication mid-climb and 1+ minute loss on medium-difficulty stage signals race-ending form crisis",
+      "BALLERINI David": "positive: outsprinted experienced BELKOV in breakaway intermediate despite being only second-year professional at 22",
+      "MASNADA Fausto": "negative: strong early KOM push but tactical error attacking too far out, cracked 2.8km from finish",
+      "CHAVES Esteban": "positive: only rider seated in final quartet before Yates attack, demonstrating superior efficiency under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:22:52.922503+00:00"
+}

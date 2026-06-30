@@ -1,0 +1,22 @@
+{
+  "label": "2017 Tour of Oman Stage 4",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-17",
+  "stage": 4,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KRAGH ANDERSEN Søren won atop Curyat after catching solo attacker DE PLUS Laurens in the final meters for his first professional victory",
+    "winner": "KRAGH ANDERSEN Søren",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "DE PLUS launched late solo move on Curyat climb but lacked power reserves to hold off stronger finishers at line",
+      "KRAGH ANDERSEN Søren timed his chase perfectly, conserving energy behind DE PLUS before overpowering him at summit"
+    ],
+    "rider_signals": {
+      "DE PLUS Laurens": "neutral: showed aggression with late solo attempt on Curyat but couldn't sustain effort to line against stronger finisher",
+      "KRAGH ANDERSEN Søren": "positive: exploited DE PLUS's premature move, demonstrated superior finish speed and tactical patience for breakthrough win"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:14:14.228631+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2017 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-24",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MARCZYŃSKI Tomasz won from a 20-rider breakaway after CONTADOR Alberto's attack on Alto de la Garbella (40km out) split favorites but no one gained significant time.",
+    "winner": "MARCZYŃSKI Tomasz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CONTADOR Alberto attacking on Alto de la Garbella second-category climb 40km out signals early-stage aggression after recovering from previous weakness.",
+      "Break never exceeded three minutes despite 20 riders suggests peloton controlled tempo precisely to prevent dangerous GC riders gaining time.",
+      "VAN GARDEREN Tejay crashed on descent after being distanced on climb, revealing vulnerability when isolated without teammates on technical descents.",
+      "CHAVES Esteban regaining contact on descent demonstrates critical descending skill compensating for uphill weakness in multi-climb stages."
+    ],
+    "rider_signals": {
+      "MARCZYŃSKI Tomasz": "positive: won stage from breakaway showing opportunistic racing when GC teams neutralize each other",
+      "CONTADOR Alberto": "positive: attacked decisively on Alto de la Garbella after showing weakness in Andorra, rapid recovery suggests peaking pattern",
+      "FROOME Chris": "positive: matched CONTADOR's attack on Alto de la Garbella maintaining GC control without expending excessive energy",
+      "VAN GARDEREN Tejay": "negative: dropped on climb then crashed on descent losing 17 seconds, second overall but showing isolation without team support",
+      "CHAVES Esteban": "neutral: initially distanced on Alto de la Garbella but rejoined on descent, descending strength compensates climbing deficit",
+      "DE LA CRUZ David": "negative: distanced when CONTADOR attacked suggesting inability to follow explosive accelerations on second-category climbs",
+      "YATES Simon": "negative: distanced on Alto de la Garbella alongside VAN GARDEREN indicating vulnerability to sustained tempo increases",
+      "PANTANO Jarlinson": "positive: supported CONTADOR's attack on final climb showing Tinkoff team depth for aggressive racing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:19:22.839795+00:00"
+}

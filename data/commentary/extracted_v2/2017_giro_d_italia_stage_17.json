@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-24",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROLLAND Pierre attacked with 40km to go on flat-to-descent terrain, caught sleeping peloton looking at each other, soloed to 23-second victory.",
+    "winner": "ROLLAND Pierre",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Rolland attacked precisely when breakaway tactics shifted from climbs to rolling/descending terrain, exploiting hesitation in chase group.",
+      "Conti repeatedly attacked to soften group for COSTA Rui, classic domestique pattern that backfired when others stopped responding.",
+      "Chase group fatal error: rolled with early Conti attacks instead of controlling, created tactical confusion enabling Rolland's decisive move."
+    ],
+    "rider_signals": {
+      "ROLLAND Pierre": "positive: transformed from poor descender earlier in stage to winning on downhill-favoring finale, tactical adaptation or recovery",
+      "BRUT Pavel": "negative: looked white as a sheet and dropped despite being in early break, suggests deeper fatigue issues beyond single-day effort",
+      "QUINTANA Nairo": "negative: laboring and getting out of shape day after major effort, recovery capacity questioned with high mountains tomorrow",
+      "MAHORIC Matej": "negative: isolated doing all chase work while team sat on, exhaustion will compromise future stage utility"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:56:38.670186+00:00"
+}

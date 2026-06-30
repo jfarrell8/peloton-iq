@@ -1,0 +1,43 @@
+{
+  "attacking_style": "Rarely initiates attacks; primarily responds to moves by others but struggles to sustain counterattacks in final kilometers. Excels in sustained climbing TT efforts rather than explosive accelerations.",
+  "team_tactics": "Frequently isolated without team support in critical moments; often riding independently or reduced to following wheels without domestique protection, particularly evident in 2023 Vuelta and multiple Grand Tour stages.",
+  "terrain_preference": "Dominant on long, steady-gradient climbing TTs (won Romandie ITT by 30+ seconds). Vulnerable on punchy accelerations and when early aggressive pacing is set on first-category climbs under 15km.",
+  "vulnerability": "Illness susceptibility (abandoned Giro 2023 twice while ill); struggles when pace lifts early on climbs; poor final-kilometer acceleration when positioned well but lacks snap to respond to attacks under 3.5km.",
+  "key_patterns": [
+    "Repeatedly dropped when early aggressive tempo set on climbs, not explosive attacks (4 instances).",
+    "Strong positioning instincts in flat stages/early race but isolated in mountains without support (3 instances).",
+    "Better form trajectory within stage races; improves as race progresses rather than peaking early (3 instances).",
+    "Unable to match final-kilometer accelerations despite being well-positioned in closing kilometers (4 instances).",
+    "Illness/health management issues cost significant GC opportunities, particularly post-rest days (3 instances)."
+  ],
+  "form_trajectory": "negative: Recent 2023 data shows concerning pattern of early-race weakness (dropped Tour de Suisse opener), illness abandonments (Giro twice), and complete team isolation by Vuelta. Decline from 2021-2022 GC competitiveness.",
+  "races_analysed": 23,
+  "confidence": "high",
+  "rider_name": "VLASOV Aleksandr",
+  "built_from": [
+    "2020 Tirreno Adriatico Stage 5",
+    "2020 Vuelta a Espana Stage 11",
+    "2020 Vuelta a Espana Stage 12",
+    "2020 Vuelta a Espana Stage 17",
+    "2021 Giro d'Italia Stage 1",
+    "2021 Giro d'Italia Stage 11",
+    "2021 Giro d'Italia Stage 16",
+    "2021 Giro d'Italia Stage 4",
+    "2021 Giro d'Italia Stage 6",
+    "2021 Giro d'Italia Stage 9",
+    "2021 Il Lombardia",
+    "2021 Paris-Nice Stage 4",
+    "2021 Vuelta a Espana Stage 3",
+    "2022 Paris-Nice Stage 2",
+    "2022 Tour de Pologne Stage 1",
+    "2022 Tour de Romandie Stage 5",
+    "2022 Tour de Romandie Stage 5",
+    "2022 Tour de Suisse Stage 1",
+    "2023 Giro d'Italia Stage 10",
+    "2023 Giro dItalia Stage 10",
+    "2023 Giro dItalia Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 18",
+    "2023 Paris-Nice Stage 4",
+    "2023 Tour de Suisse Stage 3"
+  ]
+}

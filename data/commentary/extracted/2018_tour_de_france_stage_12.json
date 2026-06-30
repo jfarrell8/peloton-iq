@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-19",
+  "stage": 12,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked final corner at Alpe d'Huez in yellow jersey, dropped DUMOULIN Tom with explosive acceleration on 6-7% grade to win.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "THOMAS Geraint carried absurd cornering speed into final bend then accelerated 25-30mph on 6-7% grade, sprinter power trumping climbers.",
+      "KRUIJSWIJK Steven's 6+ minute solo breakaway nearly succeeded; Sky pacing miscalculated time gaps badly due to switchback illusions.",
+      "BERNAL Egan at 21 singlehandedly controlled Sky train, chasing back NIBALI Vincenzo and QUINTANA Nairo attacks before veteran teammates needed to respond.",
+      "LATOUR Pierre survived QUADFAIRE attack to retain white jersey despite looking cooked; GC stamina depth deceived immediate visual assessment."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: second consecutive Alpe stage win reveals peak explosive power while in yellow, not riding domestique for FROOME Chris despite claims.",
+      "BERNAL Egan": "positive: controlled Sky tempo solo at 21 years old, 4:41 behind white jersey suggests massive upside for Pyrenees targeting.",
+      "KRUIJSWIJK Steven": "positive: 6-minute solo advantage deep into Alpe d'Huez shows exceptional diesel engine when given free rein from distance.",
+      "NIBALI Vincenzo": "negative: crash before finale destroyed certain stage win opportunity, timing shows vulnerability when isolated without teammates.",
+      "QUINTANA Nairo": "negative: faded badly to 9th after BERNAL Egan singlehandedly neutralized his attacks, troubling sign for Colombian's form trajectory.",
+      "DUMOULIN Tom": "neutral: chased THOMAS Geraint to line for 2nd but lacked final-corner acceleration despite climbing 15,000 feet strongly."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:33:55.114623+00:00"
+}

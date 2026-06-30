@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Launches solo attacks from breakaway groups (not peloton) on climbing finales with 30-40km remaining. Shows persistence with multiple accelerations to eliminate chasers rather than single explosive moves.",
+  "team_tactics": "Often operates without meaningful team support, forcing self-reliant attacks. When used as domestique (UAE 2023), deployed too early in race, leaving rider exposed when selection occurs.",
+  "terrain_preference": "Excels on punchy climbing finales where all-rounder capabilities allow distancing pure sprinters. Struggles on sustained selective climbs in Ardennes-style races when already fatigued from early work.",
+  "vulnerability": "Tactical mismanagement through excessive early-race workload. Unable to close gaps when chasing solo without team support. Dropped when real selection happens after depleting energy on domestique duties.",
+  "key_patterns": [
+    "Solo attacks from established breakaways, not peloton attacks (Tour 2019 twice documented)",
+    "Multiple repeated accelerations to drop rivals rather than single decisive move (3 attacks, Tour 2019)",
+    "Operates without team support in critical moments, forced into energy-draining solo efforts (Omloop 2020, Tour 2019)",
+    "Misused tactically when serving domestique role, burned too early before decisive phase (UAE Amstel 2023)"
+  ],
+  "form_trajectory": "negative: 2023 observation shows tactical mismanagement and inability to survive selections, suggesting declining status or poor team deployment compared to 2019 success",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "TRENTIN Matteo",
+  "built_from": [
+    "2019 Tour de France Stage 12",
+    "2019 Tour de France Stage 17",
+    "2019 Tour de France Stage 17",
+    "2020 Omloop Het Nieuwsblad",
+    "2023 Amstel Gold Race"
+  ]
+}

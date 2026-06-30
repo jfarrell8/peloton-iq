@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not appear to be a primary attacker; functions in a support role with contributions coming late in efforts after teammates have already initiated moves.",
+  "team_tactics": "Deployed as secondary domestique in coordinated family/team efforts, working after lead domestiques (e.g., ANACONA) have already set tempo for protected rider QUINTANA Nairo.",
+  "terrain_preference": "Limited data, but appears functional on climbs in support capacity; descending skills questionable based on tactical positioning issues.",
+  "vulnerability": "Poor descending positioning and tactical decision-making evident; struggles with chase coordination and may create confusion when given leadership responsibilities.",
+  "key_patterns": [
+    "Functions as secondary support rider behind primary domestiques in team hierarchy (2 observations)",
+    "Deployed in coordinated support with sibling Nairo Quintana across different teams (2 observations)",
+    "Shows tactical uncertainty when positioned beyond pure domestique role (2 observations)"
+  ],
+  "form_trajectory": "unknown: observations span 2018-2020 with no GC ambitions shown; role unchanged as team support rider",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "QUINTANA Dayer",
+  "built_from": [
+    "2018 Paris-Nice Stage 5",
+    "2020 Paris - Nice Stage 7"
+  ]
+}

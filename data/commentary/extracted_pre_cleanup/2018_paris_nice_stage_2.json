@@ -1,0 +1,26 @@
+{
+  "label": "2018 Paris-Nice Stage 2",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-01-01",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN won the sprint after Quick-Step, Lotto, Jumbo, and FDJ controlled the breakaway, finding the right wheel despite not being fastest in pure speed",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Four teams (Lotto, Jumbo, Quick-Step, FDJ) shared chase work equally, suggesting pre-race sprint cooperation agreement against Sky's ELIA",
+      "GROENEWEGEN prioritized positioning over pure speed on rising finish, beating faster VIVIANI through wheel selection not watts",
+      "Breakaway caught with 4km remaining indicates teams allowed minimal safety margin, risking miscalculation for tired sprinters"
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: Fifth win of season shows exceptional early form, tactical wheel-finding ability compensating for inferior pure speed",
+      "VIVIANI Elia": "negative: Fastest in field but lost through positioning errors, still winless at Paris-Nice despite speed advantage",
+      "GREIPEL André": "neutral: Third place confirms resurgent form but lacks explosive positioning needed on technical sprint finishes",
+      "ALAPHILIPPE Julian": "positive: Fourth on GC via bonus seconds from intermediate sprint reveals GC ambitions beyond expected stage-hunting role",
+      "DE GENDT Thomas": "neutral: Attempted breakaway shows willingness to attack early but lacks acceleration to establish winning gaps"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:29:46.599257+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Opportunistic finisher who capitalizes on breakaway dynamics rather than solo long-range attacks. Strikes in final 150-200m when positioned correctly by teammates.",
+  "team_tactics": "Relies on strong domestique delivery (Hamilton-led) to final meters. Exploits tactical disruptions and lack of cooperation among breakaway rivals to gain positional advantage.",
+  "terrain_preference": "Maximum-distance flat to rolling stages where attrition favors tactical positioning over pure climbing or sprinting power. Breakaway scenarios over bunch finishes.",
+  "vulnerability": "Requires teammate support for final positioning; lacks evidence of independent long-range attacking capability or ability to win from organized bunch sprints.",
+  "key_patterns": [
+    "Wins from small front selections after ultra-long stages (212km+), showing endurance resilience.",
+    "Exploits tactical disorganization among breakaway rivals to gain numerical/positional advantage before finale.",
+    "Depends on domestique lead-out even in small groups; finished from Hamilton delivery within 150m."
+  ],
+  "form_trajectory": "unknown: single observation from 2021 insufficient to assess trajectory or current form level",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "VENDRAME Andrea",
+  "built_from": [
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 12"
+  ]
+}

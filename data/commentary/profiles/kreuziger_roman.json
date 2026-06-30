@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Limited evidence of personal attacking; primarily operates as a high-altitude pacer and positioning specialist rather than a primary aggressor in decisive moments.",
+  "team_tactics": "Deploys early on climbs as a high-tempo setter to control pace and position protected riders, then steps aside rather than defending or counter-attacking; calculated confidence in team leaders.",
+  "terrain_preference": "Climbs where sustained pacing is required rather than explosive terrain; Amstel-style punchy finales expose tactical hesitancy and decision-making weaknesses.",
+  "vulnerability": "Late-race tactical decision-making in small groups where proactive attacking required; durability concerns following crashes; fails to capitalize when team numerically superior.",
+  "key_patterns": [
+    "Amstel Gold appearances show passivity in decisive moments, failing to attack from advantageous positions (2018, 2017).",
+    "Functions as expendable climb pacer for team leaders rather than personal GC/result focus (Giro 2018).",
+    "Crash history and limited racing raise durability questions in stage race contexts (2017)."
+  ],
+  "form_trajectory": "neutral: Transitioned to clear domestique role by 2018 Giro after tactical failures and crash setbacks in 2017; stable support function rather than leadership ambitions.",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "KREUZIGER Roman",
+  "built_from": [
+    "2017 Amstel Gold Race",
+    "2018 Amstel Gold Race",
+    "2018 Giro d'Italia Stage 11"
+  ]
+}

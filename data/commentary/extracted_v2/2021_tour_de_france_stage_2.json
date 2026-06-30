@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 2",
+  "race_name": "Tour de France",
+  "race_date": "2021-06-27",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL attacked with 500m to go on second ascent of Mûr-de-Bretagne, took stage win plus 18 seconds from both climb bonuses to claim yellow jersey.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS explicitly targeting stage bonuses to deny ROGLIC time rather than pure GC defense per Cummings pre-race.",
+      "VAN DER POEL attacked final 500m after QUINTANA's premature move at 1km exhausted chasers, perfect counter-timing tactical pattern.",
+      "ALAPHILIPPE trapped mid-pack on final ascent despite yellow jersey, team failed positioning on narrow approach to decisive climb.",
+      "PORTE burned matches pulling too early for INEOS on final climb, left THOMAS isolated when decisive accelerations came."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: hunted both Mûr-de-Bretagne ascents for bonus seconds systematically, showed GC ambition beyond expected one-day role",
+      "THOMAS Geraint": "negative: lost 20+ seconds to podium rivals on Cat 3 finish, significantly weaker explosive power than expected GC form",
+      "QUINTANA Nairo": "neutral: attacked 1km out but mistimed effort, inadvertently set up VAN DER POEL's winning move by stringing out group",
+      "ALAPHILIPPE Julian": "negative: yellow jersey failed to position for final climb defense, surprising tactical breakdown for home roads specialist",
+      "POGACAR Tadej": "positive: marked every dangerous move including VAN DER POEL acceleration, grabbed second place bonus while ROGLIC got nothing",
+      "PORTE Richie": "negative: pulled too long too early for INEOS, tactical error left protected riders exposed when race exploded"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:52:24.680778+00:00"
+}

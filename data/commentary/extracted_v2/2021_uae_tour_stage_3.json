@@ -1,0 +1,16 @@
+{
+  "label": "2021 UAE Tour Stage 3",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-23",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "This transcript is a pre-race route preview for the 2021 Giro d'Italia, not race commentary from UAE Tour Stage 3.",
+    "winner": "N/A",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T17:56:53.499907+00:00"
+}

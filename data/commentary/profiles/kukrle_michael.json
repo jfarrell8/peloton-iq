@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches solo attacks from breakaways in the final 20km, willing to commit fully despite long odds against organized peloton chases.",
+  "team_tactics": "Operates independently in breakaway scenarios; no visible team support structure in long-range break situations.",
+  "terrain_preference": "Unknown - single observation on flat/rolling UAE terrain insufficient to determine clear preference, though showed willingness to attack on open roads.",
+  "vulnerability": "Solo efforts fade against organized peloton chase in final kilometers when WorldTour teams commit to catching breaks.",
+  "key_patterns": [
+    "Solo attacks from established breakaways rather than staying collaborative until finale.",
+    "Capable of sustaining 2+ minute advantages solo for extended periods mid-finale.",
+    "High-risk tactical aggression prioritizing solo glory over breakaway cooperation odds."
+  ],
+  "form_trajectory": "unknown: single observation shows aggressive racing capability but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KUKRLE Michael",
+  "built_from": [
+    "2022 UAE Tour Stage 5",
+    "2022 UAE Tour Stage 5"
+  ]
+}

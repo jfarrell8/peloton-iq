@@ -1,0 +1,27 @@
+{
+  "label": "2023 Volta Ciclista a Catalunya Stage 5",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2023-03-24",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz outsprinted EVENEPOEL Remco in final 50m of summit finish after marking every move, extending GC lead to 10 seconds with bonifications",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC positioned inside of every corner in final kilometer to psychologically pressure EVENEPOEL and control sprint launch timing.",
+      "Soudal-Quick-Step attempted valley flats fatigue strategy pre-climb but UAE took over pacing to protect GC riders from attrition.",
+      "ALMEIDA João attacked with sub-1km remaining forcing EVENEPOEL to instinctively chase, burning matches before ROGLIC's final sprint.",
+      "SOLER Marc waited for teammate ALMEIDA on climb in home region, sacrificing personal result for UAE podium defense."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: launched sprint at 300m but lacked full conviction after being shadowed on every corner by Roglic's positional tactics",
+      "ROGLIC Primoz": "positive: gained 6 seconds in final 50m sprint after summit finish, demonstrating explosive finishing power rarely seen from stage race GC riders",
+      "ALMEIDA João": "positive: bridged solo to lead group then attacked sub-1km, showing podium-caliber legs despite sacrificing for Soler earlier",
+      "CHICONE Antonio": "negative: struggled to hold group on climb, dropped to 8th GC after being prominent early race, revealing form regression",
+      "YATES Adam": "positive: nursed Almeida back to leaders group in critical GC moment, showing domestique commitment over personal ambitions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:03:56.312059+00:00"
+}

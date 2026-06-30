@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 2",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-08-25",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo attacked at 3.1km to go after Lopez's isolation allowed a 6-rider move, taking both stage win and critical GC time",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana's TTT dominance became fatal weakness when Lopez had only Izaguirre to chase 6-rider move with 17km remaining",
+      "Jumbo Visma's Tony Martin pacing on pre-climb intermediate sprint shattered peloton before final ascent, tactical reset after TTT crash",
+      "Mitchelton-Scott's Nieve initiated winning 6-rider selection post-summit when no team had numbers to control fractured descent attacks",
+      "Quintana attacked with 3.1km at group's hesitation moment rather than summit, avoiding chase organization on technical descent"
+    ],
+    "rider_signals": {
+      "KRUIJSWIJK Steven": "negative: dropped 1km from summit while teammate Martin set brutal pace below, questions stage race form after Tour podium",
+      "ROCHE Nico": "positive: tactically mature to anchor winning move for bonus seconds rather than chase Quintana, prioritized jersey over stage",
+      "ARU Fabio": "positive: bridged to elite selection day after TTT crash suggests resurgent form and climbing legs returned",
+      "BENNETT George": "positive: AG2R rider repeatedly animated final climb with Formolo before winning move, showed willingness to spend matches early",
+      "LOPEZ Miguel Angel": "negative: red jersey with single teammate against organized chase reveals Astana's depth problem despite TTT strength"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:20:32.564785+00:00"
+}

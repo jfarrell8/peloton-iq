@@ -1,0 +1,25 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 13",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-02",
+  "stage": 13,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "PEDERSEN Mads won stage 13 after Ackermann went extremely long on the final climb, Pedersen drafting him then coming around late.",
+    "winner": "PEDERSEN Mads",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo deliberately raised tempo mid-stage to fracture sprinter trains despite not having pure speed advantage.",
+      "Ackermann's ultra-long leadout from 500m+ on 7% climb created draft opportunity Pedersen exploited rather than attacking early.",
+      "Headwind inside 10km caused tactical paralysis with compact peloton, negating earlier aggressive positioning by multiple teams."
+    ],
+    "rider_signals": {
+      "PEDERSEN Mads": "positive: won without dedicated leadout on climbing finish, showing strength versatility Trek may exploit on semi-hard stages",
+      "ACKERMANN Pascal": "negative: went far too early on gradient finish, tactical error suggests UAE lacks experience closing on climbing sprints",
+      "WRIGHT Fred": "positive: fourth place without visible team support on climbing finish reveals underrated punch for hilly sprint stages",
+      "EVENEPOEL Remco": "neutral: commentary notes pressure coming on mountain stages this weekend with comfortable GC margin currently"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:12:43.188717+00:00"
+}

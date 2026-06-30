@@ -3,7 +3,22 @@
   "race_name": "Criterium du Dauphine",
   "race_date": "2018-06-08",
   "stage": 5,
-  "video": null,
-  "transcript": null,
-  "status": "no_video_found"
+  "video": {
+    "video_id": "fetCrttnw6g",
+    "title": "manually provided",
+    "url": "https://youtube.com/watch?v=fetCrttnw6g",
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
+  },
+  "transcript": {
+    "snippet_count": 84,
+    "raw_chars": 2982,
+    "clean_chars": 2928,
+    "duration_mins": 4.1,
+    "clean_text": "once again this Friday an upward stage on the Doheny route but we'll have to wait for the last 10 kilometers and the steep climb to Val Morelle to see how things turn out for the overall classification the final slope with its regular 7% average gradient is where Chris Froome and Alberto Contador fought it out in a memorable duel back in 2013 the race panned out as expected an eight-man breakaway group in the valley along the winding roads of the easier and Savoie none of them are a threat for the overall but the peloton driven by Team Sky never let them lead by more than three minutes a few hopefuls for a stage victory a perfect playground for the favorites not the best setup for the breakaways who saw their advance dropped to under one minute as they neared the first slopes leading up to Val Morelle only three remain ahead as the Team Sky train of riders surges on Revathi de plus and Frenchman Nicola a day the last one to be caught up by the leading group four and a half kilometres is all that's left for the final struggle launched by Irishman Dan Martin a sharp attack leaves yellow and blue jersey holder Jani Muskaan behind the other favourites take a look at each other Martin slips by and grabs a 15-second advance enough to go for stage victory on the line at Val Morel a never mind Welshman Geraint Thomas is impressive returned in the last kilometer the sky rider failed a handful of seconds behind the day's winner but the leader's jersey is not a bad consolation prize finally a smile on Dan Martin's face and good news for the Emirates Team low on wins this season an overall third in the dough Feeney in 2016 and 2017 the Irishman is a regular here but heroes his hands in victory at Val Morell in what was his first stage win since 2014 at the tour of Beijing I really been feeling good all year and it just hasn't worked out so it's just fantastic to work out today I mean I knew that if I attacked maybe they'd let me go because I'm a little bit further back on general classification after the time trance yeah how surprised how strong I was at the last the last three kilometres they're four seconds short on the line for Welshman Geraint Thomas just behind the day's winner Adam Yates took third place on the purely english-speaking podium Frenchman remember they struggled towards the end and yielded 16 seconds to the day's winner in the overall another change for the yellow and blue jersey albeit within Team Sky from Jani Muskaan to Geraint Thomas who has a comfortable advance one minute 9 seconds over number 2 Damiano Caruso which might come in handy during the two last stages over the weekend a classic Saturday for the critérium du dauphiné e the mountains take center stage a relatively short stage at just 110 kilometers but with two HC passes along the way the molted of bees an climb and the canoe play with a sky-high finishing line at La Paz yeah more than 1850 meters up you",
+    "preview_start": "once again this Friday an upward stage on the Doheny route but we'll have to wait for the last 10 kilometers and the steep climb to Val Morelle to see how things turn out for the overall classification the final slope with its regular 7% average gradient is where Chris Froome and Alberto Contador fought it out in a memorable duel back in 2013 the race panned out as expected an eight-man breakaway group in the valley along the winding roads of the easier and Savoie none of them are a threat for t",
+    "preview_end": "y albeit within Team Sky from Jani Muskaan to Geraint Thomas who has a comfortable advance one minute 9 seconds over number 2 Damiano Caruso which might come in handy during the two last stages over the weekend a classic Saturday for the critérium du dauphiné e the mountains take center stage a relatively short stage at just 110 kilometers but with two HC passes along the way the molted of bees an climb and the canoe play with a sky-high finishing line at La Paz yeah more than 1850 meters up you"
+  },
+  "status": "transcript_saved"
 }

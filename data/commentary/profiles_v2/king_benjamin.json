@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches solo attacks on uncategorized pre-climb sections before final ascents, demonstrating ability to sustain efforts through severe gradient changes (12%+) to hold off chasers.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from available observations.",
+  "terrain_preference": "Thrives on brutal gradient zones and unconventional attack points (uncategorized climbs). Breakaway specialist who excels when allowed freedom before categorized climbs.",
+  "vulnerability": "Insufficient data to establish specific vulnerabilities, though breakaway specialization suggests potential weakness in mass sprint or pure GC climbing scenarios.",
+  "key_patterns": [
+    "Attacks before categorized climbs on uncategorized sections to gain surprise advantage",
+    "Sustains solo efforts through extreme gradients (12%+) after initial attack",
+    "Multiple stage wins confirm deliberate breakaway specialization strategy, not opportunistic"
+  ],
+  "form_trajectory": "positive: second stage win at 2018 Vuelta confirming repeatable breakaway winning ability",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "KING Benjamin",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 9",
+    "2018 Vuelta a Espana Stage 9"
+  ]
+}

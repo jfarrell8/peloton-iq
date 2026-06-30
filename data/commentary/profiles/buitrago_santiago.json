@@ -1,25 +1,33 @@
 {
-  "attacking_style": "Launches solo attacks on final climbs with 8km to go, excels at high altitude. Capable of late-race accelerations inside 2km when in breakaway situations, particularly effective on summit finishes.",
-  "team_tactics": "Quick-Step development rider with increasing autonomy for breakaway opportunities. Team allows freedom to pursue stage wins from breaks rather than providing dedicated mountain trains.",
-  "terrain_preference": "High-altitude summit finishes (Cima Coppi, Tre Cime) where native altitude advantage materializes. Long-range climbs (8km+) suit better than punchy Monument terrain, though showing Monument podium capacity.",
-  "vulnerability": "Still developing consistency in week-three Grand Tour scenarios. Monument terrain (Liège's punchy climbs) less natural than sustained high-altitude efforts, suggesting explosivity limitations in varied terrain.",
+  "attacking_style": "Attacks in final 1.5-2km on extreme altitude finishes above 2000m, preferring short explosive efforts over sustained long climbs. Operates from breakaways rather than pure GC group dynamics.",
+  "team_tactics": "Often placed in breakaways to serve dual objectives (stage hunting + KOM points). Limited evidence of dedicated domestique support, suggesting independent opportunistic role rather than protected GC leader status.",
+  "terrain_preference": "Excels on high-altitude finishes (2300m+) with steep gradients in final 2km. Struggles on long, gradual sustained climbs and exposed in technical sprint finales where positioning awareness lacks.",
+  "vulnerability": "Cracks on sustained gradual ascents despite explosive climbing strength. Poor positioning awareness in technical sprint finales leads to crash involvement. Cannot follow elite accelerations (Evenepoel-level) on punchy climbs.",
   "key_patterns": [
-    "High-altitude native advantage consistently materializes on Cima Coppi-category climbs (2 instances)",
-    "Breakaway specialist: both Giro stage wins came from long-range breakaway selections (2022, 2023)",
-    "Strong recovery capacity: won after 80km crash, matched accelerations across multiple climbs (2 instances)",
-    "Emerging Monument threat: Quick-Step investing in development, career-best Monument podium achieved",
-    "Long-range climbing attacks: 8km solo effort successful, comfortable matching early accelerations"
+    "High-altitude native advantage decisive above 2000m, multiple wins at 2300m finish elevation",
+    "Attacks final 1.5km specifically on steep gradients, pattern repeated across multiple Giro stages",
+    "Operates from breakaways with split objectives: stage wins prioritized over KOM secondary goals",
+    "Exceptional mental resilience: recovered from 80km crash to win same stage demonstrating psychological strength",
+    "Weakness on sustained gradual climbs despite explosive power on steep short efforts"
   ],
-  "form_trajectory": "positive: progression from 22yo breakaway winner (2022) to Monument podium (2023 LBL) shows Quick-Step development path succeeding, stage win capability maintained",
-  "races_analysed": 4,
+  "form_trajectory": "neutral: Strong 2022-2023 Giro performances with multiple wins, but 2023 Vuelta showed positioning vulnerabilities and lack of GC contention. Role appears stage hunter rather than developing GC threat.",
+  "races_analysed": 9,
   "confidence": "medium",
   "rider_name": "BUITRAGO Santiago",
   "built_from": [
+    "2022 Giro d'Italia Stage 12",
     "2022 Giro d'Italia Stage 15",
     "2022 Giro d'Italia Stage 17",
     "2022 Giro d'Italia Stage 17",
+    "2022 Giro d'Italia Stage 17",
+    "2022 Volta Ciclista a Catalunya Stage 7",
+    "2023 Giro d'Italia Stage 19",
+    "2023 Giro d'Italia Stage 19",
     "2023 Giro dItalia Stage 19",
     "2023 Giro dItalia Stage 19",
-    "2023 Liege-Bastogne-Liege"
+    "2023 La Vuelta Ciclista a Espana Stage 4",
+    "2023 Liege-Bastogne-Liege",
+    "2023 Vuelta a Espana Stage 15",
+    "2023 Vuelta a Espana Stage 15"
   ]
 }

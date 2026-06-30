@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2021-04-28",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won the uphill sprint finish after BORA-hansgrohe controlled the circuit lap finale, taking 10 bonus seconds to move fifth overall.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA-hansgrohe paced entire circuit to neutralize breakaway threats before uphill sprint, sacrificing stage hunters for SAGAN Peter positioning.",
+      "DENNIS Rohan group maintained 9-second advantage despite repeated circuit climbs, suggesting prologue gaps survived selective terrain surprisingly well.",
+      "PASQUALON Andrea attacked inside 1km at roundabout before finish but failed when SAGAN Peter waited, revealing sprint timing advantage."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: won uphill finish after eight circuit climbs, explicitly targeting Giro preparation rather than protecting GC position",
+      "COLBRELLI Sonny": "negative: finished second despite BAHRAIN team control work, frustrated body language suggests uphill gradient too steep for pure speed",
+      "BAUHAUS Phil": "negative: absent from finale group, confirms cannot handle repeated 4x circuit climbs despite sprint capability",
+      "PASQUALON Andrea": "neutral: late attack showed positioning but lacked power to hold off SAGAN Peter on gradient",
+      "DENNIS Rohan": "positive: retained 9-second lead through selective circuit, INEOS depth suggests time trial specialists can survive punchy stages with team support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:12:38.488080+00:00"
+}

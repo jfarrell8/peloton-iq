@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not an attacker; pure sprinter who relies on positioning and timing in final 200m. Excels in reduced bunch sprints but rarely initiates moves.",
+  "team_tactics": "Often operates with minimal leadout support, forcing self-reliance on positioning discipline. When team tempo is set by others, struggles if pace extends too long before finale.",
+  "terrain_preference": "Flat to slightly rolling finishes where peloton naturally fragments. Exposed on stages with sustained high tempo or climbs within 20-30km of finish that thin the bunch before sprint.",
+  "vulnerability": "Extended high-tempo pace-making by strong teams drops him before sprint opportunities materialize. Lacks explosive power recovery after prolonged threshold efforts.",
+  "key_patterns": [
+    "Achieves results through positioning consistency rather than pure top-end speed (Benelux green jersey)",
+    "Performs better in reduced sprints with minimal leadout than full field gallops",
+    "Dropped when pace is elevated well before finale, struggles with extended tempo shifts"
+  ],
+  "form_trajectory": "positive: 2023 Giro second place shows improved sprint form and ability to finish despite leadout deficiencies, suggesting tactical maturation",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DEKKER David",
+  "built_from": [
+    "2021 Benelux Tour Stage 6",
+    "2021 Giro d'Italia Stage 10",
+    "2023 Giro dItalia Stage 2"
+  ]
+}

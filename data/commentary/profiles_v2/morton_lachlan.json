@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Functions as a tactical decoy/climbing domestique rather than a finisher, launching attacks to soften opposition for team leaders. Attacks appear designed to disrupt rather than succeed.",
+  "team_tactics": "Used by BMC/teams as an expendable climbing resource to launch multiple probing attacks that draw out rivals before the leader's decisive move. Sacrificial tactical role.",
+  "terrain_preference": "Can operate on climbs in a domestique capacity but lacks the sustained power for grinding climbs. Ultra-endurance background suggests preference for variable pace over steady-state climbing.",
+  "vulnerability": "Grinding, steady-state climbs expose his power limitations despite strong visual impression. Cannot translate ultra-endurance diesel engine into punchy climbing watts needed at WorldTour level.",
+  "key_patterns": [
+    "Multiple attacks for team leader rather than personal result (2 observations)",
+    "Visual riding style (big gear mashing) more impressive than actual climbing power output (2 observations)",
+    "Tactical domestique role, not protected rider status across teams (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent tactical role from 2017-2020 suggests stable domestique function rather than progression to leadership",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MORTON Lachlan",
+  "built_from": [
+    "2017 Tour of Oman Stage 5",
+    "2020 UAE Tour Stage 2"
+  ]
+}

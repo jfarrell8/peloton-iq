@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2022-04-28",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "HAYTER Ethan won a reduced sprint after INEOS paced hard on late drags, with SHEFFIELD Magnus delivering a massive leadout from distance.",
+    "winner": "HAYTER Ethan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS Grenadiers (DE PLUS) set infernal tempo on uncategorized drags pre-20km, eliminating pure sprinters like VERNON before organized leadouts formed.",
+      "SHEFFIELD Magnus executed abnormally long leadout in reduced field sprint, suggesting INEOS prioritized positioning over saving energy in hilly sprint stages.",
+      "UAE Emirates (POLANC) shared pacemaking despite no sprinter, revealing willingness to control for GC positioning even on non-mountain stages.",
+      "VLASOV Alexandr best-placed GC rider in sprint finish, indicating BORA strategy to gain time bonuses rather than conserve energy."
+    ],
+    "rider_signals": {
+      "HAYTER Ethan": "positive: First WorldTour road win after previous disappointment suggests form building through stage race progression",
+      "VERNON Ethan": "negative: Dropped on long drags with 20km remaining reveals insufficient climbing tolerance for hilly sprint stages",
+      "SHEFFIELD Magnus": "positive: Delivering massive leadouts in reduced sprints demonstrates exceptional power ceiling beyond typical domestique role",
+      "VLASOV Alexandr": "positive: Finishing fourth in chaotic sprint shows sharp positioning skills and willingness to contest bonifications actively",
+      "DENNIS Rohan": "positive: JUMBO controlled all day without exhausting leader, indicating comfort defending jersey on semi-hilly terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:26:28.257794+00:00"
+}

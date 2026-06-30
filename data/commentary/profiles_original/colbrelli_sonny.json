@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Pure power sprinter who excels in chaotic finishes rather than traditional leadouts. Won Paris-Roubaix from three-rider sprint and UAE Tour bunch sprint through superior positioning in final meters, not early acceleration.",
+  "team_tactics": "Bahrain provides full sprint train for intermediate sprints but struggles with final positioning. Team setup appears stronger for stage races than one-day classics where rider relies on individual positioning skills.",
+  "terrain_preference": "Cobbled classics and hard, attritional races where bunch is reduced. Velodrome positioning exceptional. Struggles on even minor uphill finishes (8km climbs) and pure power sprints against top-tier sprinters.",
+  "vulnerability": "Exposed on any uphill gradient in finals, even minor climbs. Respiratory issues (bronchitis 2022) caused catastrophic form loss. Positioning remains inconsistent despite improvements - 4th at intermediate sprints when leading train present.",
+  "key_patterns": [
+    "Wins through superior positioning in reduced sprints, not pure speed (Paris-Roubaix, UAE Tour evidence)",
+    "Vulnerable to respiratory illness causing immediate competitive collapse (Catalunya 2022, Paris-Nice 2022 dropped)",
+    "Performs better as underdog than favorite - lost uphill sprint as European champion favorite",
+    "Intermediate sprint positioning failures despite full team support (Tour 2019, Tour 2021 documented)",
+    "Excels in attritional one-day races over traditional sprint stages (Roubaix win vs sprint train failures)"
+  ],
+  "form_trajectory": "negative: Sharp decline in early 2022 with respiratory issues causing him to be dropped on minor climbs and lose sprints despite European champion status. Medical assistance required post-race Catalunya.",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "COLBRELLI Sonny",
+  "built_from": [
+    "2019 Tour de France Stage 8",
+    "2019 UAE Tour Stage 4",
+    "2019 UAE Tour Stage 4",
+    "2021 Paris-Roubaix",
+    "2021 Paris-Roubaix",
+    "2021 Tour de France Stage 13",
+    "2022 Paris-Nice Stage 1",
+    "2022 Volta Ciclista a Catalunya Stage 1"
+  ]
+}

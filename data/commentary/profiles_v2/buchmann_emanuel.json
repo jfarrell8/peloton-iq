@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Lacks consistent attacking profile; more reactive than proactive. Shows occasional ability to bridge to breakaways on climbs, but rarely initiates decisive moves from favorites groups.",
+  "team_tactics": "Bora positions him as co-leader or protected rider with strong climbing domestique support (Majka noted in 2018). Team depth issues become critical when crashes eliminate roster options mid-race.",
+  "terrain_preference": "Pure climbing suits him best on mountain top finishes when staying with favorites. Unexpectedly competent on gravel terrain. Exposed on technical descents and crash-prone stages where bike handling matters.",
+  "vulnerability": "Crashes repeatedly at critical race junctures (3 documented DNS/abandon instances). Cracks prematurely on summit finishes when form is off, dropping well before expected for GC contender status.",
+  "key_patterns": [
+    "Crashes out of contention repeatedly: three documented mid-race abandonments from top-10 GC positions (2020-2021).",
+    "Premature cracking on climbs when struggling: dropped 2 miles from summit finish in 2023 Vuelta.",
+    "Shows unexpected versatility on non-standard terrain: attacked successfully on gravel at 2021 Giro.",
+    "Demonstrated underrated finishing speed: closed gaps in Tour de Pologne finale despite non-sprinter status.",
+    "Team depth becomes critical weakness when attrition occurs: multiple Bora crises noted post-crashes."
+  ],
+  "form_trajectory": "negative: Most recent 2023 observation shows premature collapse on summit finish as co-leader, suggesting declining GC competitiveness",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "BUCHMANN Emanuel",
+  "built_from": [
+    "2018 Tour de Pologne Stage 6",
+    "2018 Vuelta a Espana Stage 4",
+    "2019 Tour de Romandie Stage 1",
+    "2020 Criterium du Dauphine Stage 4",
+    "2021 Giro d'Italia Stage 11",
+    "2021 Giro d'Italia Stage 15",
+    "2023 Vuelta a Espana Stage 6"
+  ]
+}

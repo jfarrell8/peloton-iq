@@ -4,85 +4,103 @@
   "race_date": "2022-07-31",
   "stage": 2,
   "video": {
-    "video_id": "zOIGJ5EDu4w",
-    "title": "Sprint Showdown On The Champs-Élysées!  | Tour De France 2022 Stage 21 Highlights",
-    "published": "2022-07-24 19:38:01+00:00",
-    "channel": "GCN Racing",
-    "url": "https://youtube.com/watch?v=zOIGJ5EDu4w",
-    "match_score": 91.67,
+    "video_id": "e8uRO7AfKb8",
+    "title": "2022 Tour de Suisse - Stage 2 Highlights | Cycling | Eurosport",
+    "published": "2022-06-14 12:01:58+00:00",
+    "channel": "TNT Sports",
+    "url": "https://youtube.com/watch?v=e8uRO7AfKb8",
+    "match_score": 75.0,
     "all_candidates": [
       {
-        "video_id": "zOIGJ5EDu4w",
-        "title": "Sprint Showdown On The Champs-Élysées!  | Tour De France 2022 Stage 21 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-07-24 19:38:01+00:00",
-        "match_score": 91.67
+        "video_id": "e8uRO7AfKb8",
+        "title": "2022 Tour de Suisse - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2022-06-14 12:01:58+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 75.0
       },
       {
-        "video_id": "lLEhg8nidQU",
-        "title": "Dominant Time Trial Performance! | Tour De France 2022 Stage 20 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-07-23 17:42:08+00:00",
-        "match_score": 76.67
+        "video_id": "eNW-kHnP-Y4",
+        "title": "Inside the breakaway | Tour de Suisse 2022 Stage 2 On-Bike Highlights",
+        "published": "2022-06-13 19:35:38+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 75.0
       },
       {
-        "video_id": "4V-feb_tJLY",
-        "title": "Chaotic Finale Ends In Bunch Sprint | Tour De France 2022 Stage 2 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-07-02 16:52:36+00:00",
-        "match_score": 76.67
+        "video_id": "pVWD4kw4WZs",
+        "title": "Can the breakaway make it? | Tour de Suisse 2022 Stage 2 Highlights",
+        "published": "2022-06-13 18:01:09+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "Qe-MYej6yTw",
+        "title": "Tour of Norway 2022: Stage 2 On-Bike Highlights",
+        "published": "2022-05-25 19:00:48+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 74.58
+      },
+      {
+        "video_id": "J91eDly8BuM",
+        "title": "Tour of Romandie 2022 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2022-04-28 17:47:37+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "g9Ew76QHVJE",
+        "title": "Tour of the Alps 2022 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2022-04-20 15:31:01+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 74.29
+      },
+      {
+        "video_id": "_rQt9f6rx58",
+        "title": "Remco crowned Grand Tour champion | La Vuelta a España 2022 Stage 21 Highlights",
+        "published": "2022-09-12 11:40:24+00:00",
+        "channel": "Velon",
+        "channel_id": "UCcbBlBEtCZ2lX7bodgi02Xg",
+        "match_score": 73.33
+      },
+      {
+        "video_id": "L619jsO9XwE",
+        "title": "The Tour of the Basque Country 2022 - Stage 2 Highlights | Cycling | Eurosport",
+        "published": "2022-04-06 08:56:51+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 72.0
+      },
+      {
+        "video_id": "GlHhCAX3AQE",
+        "title": "Thrilling 5-rider sprint to a stage win! | 2022 Tour of Sicily - Stage 2 Highlights | Eurosport",
+        "published": "2022-04-13 17:15:44+00:00",
+        "channel": "TNT Sports",
+        "channel_id": "UClhp9g6TPiqCTOlcw0ROfNg",
+        "match_score": 71.67
       },
       {
         "video_id": "YQ-zT9tM6wo",
         "title": "Fast Run-In To First Bunch Sprint | Tour De Romandie 2022 Stage 2 Highlights",
-        "channel": "GCN Racing",
         "published": "2022-04-28 16:41:44+00:00",
-        "match_score": 76.67
-      },
-      {
-        "video_id": "qy4zKfToB_E",
-        "title": "Contenders Battle In Punchy Stage! | Tour De La Provence 2022 Stage 2 Highlights",
         "channel": "GCN Racing",
-        "published": "2022-02-12 17:03:20+00:00",
-        "match_score": 76.67
-      },
-      {
-        "video_id": "tqCPiDdyXKs",
-        "title": "Late Attacking On A Punchy Parcours! | Tour De Suisse 2022 Men's Stage 2 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-06-13 16:30:17+00:00",
-        "match_score": 75.0
-      },
-      {
-        "video_id": "8F22qHc_oXw",
-        "title": "Uphill Battle For The Line! | Tour Of Sicily 2022 Stage 2 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-04-13 15:35:27+00:00",
-        "match_score": 73.33
-      },
-      {
-        "video_id": "VKqYn6qqBpo",
-        "title": "Sprinters Keep Powder Dry For Final Dash | UAE Tour 2022 Stage 2 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-02-21 15:23:01+00:00",
-        "match_score": 73.33
-      },
-      {
-        "video_id": "Nm_8dChCXUw",
-        "title": "GC Contenders Battle On Technical Descent! | Tour Of The Alps 2022 Stage 2 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-04-19 16:08:47+00:00",
-        "match_score": 73.33
-      },
-      {
-        "video_id": "KZJn8OOmTAI",
-        "title": "Sprint To Strömstad! | Tour Of Scandinavia 2022 Stage 2 Highlights",
-        "channel": "GCN Racing",
-        "published": "2022-08-10 17:52:11+00:00",
+        "channel_id": "UCu7phdCr-raU7OaJfEpHZww",
         "match_score": 71.67
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 109,
+    "raw_chars": 3679,
+    "clean_chars": 3679,
+    "duration_mins": 4.2,
+    "clean_text": "Day two of the Tour of Switzerland was another long day in the saddle under very, very hot and sunny conditions. Starting in Küssnacht and heading to Esch, 198 km with several classified climbs. The race went around the city of Zurich, went west out into the hills rather than the high mountains. A loop to finish off a big day in the saddle with plenty of climbing. Stevie Williams was in the yellow jersey after having won stage one. Breakthrough win in the career of the 26-year-old Welshman. The glass disappeared after the gun went and inside the final 60 km, a very good group had a very big lead. Almost 6 minutes for a group including Andreas Leknessund, who was just a minute and 1 second down from the overall lead. That meant with a gap of almost 6 minutes, some of the GC teams really had to go to work to limit the damage. At the front of the race, they were pushing their breakaway companions out the back with their strong riding. Joel Suter was the latest to be dropped. The day had begun with 11 riders in the break. They were soon down to six. Ineos Grenadiers, Bora-Hansgrohe, riding behind. Quick-Step Alpha Vinyl contributing as well on occasion. And Leknessund riding strongly out front with Bjerg and Honoré, Holmes, Roch and Schär in tow. Tim Declercq came to the front and really reduced the gap alongside Anton Palzer and Dylan van Baarle. Approaching the final classified climb of the day, the gap was going down to about a minute and a half. And it still looked possible for the peloton to pull things back and perhaps win the stage. Leknessund though took off with 18 km to go. The 23-year-old from Norway, a two-time national champion in the time trial, a highly rated rider as a youngster, now as a professional on his way perhaps to the first ever road win of his career. The yellow jersey was looking good. But it still be touch and go whether he would keep the jersey with Leknessund looking strong out front. Rather than losing time on the final climb of the day, the young Norwegian put about 10 seconds into the peloton. And it looked like only disaster would stop him from winning the stage. Other teams came to the front to try and pull things back. Even Alpecin-Fenix Jimmy Janssens couldn't do anything about the gap though. And tried to set up their sprint options as it looked as though the bunch were going to stay together behind in decent enough numbers. But Peter Sagan wasn't there. Neither was Alexander Kristoff. His compatriot Leknessund was at the front and he knew he was going to win. Time to celebrate. A coming of age victory. A bit of deja vu after the first day had seen Stephen Williams take his first world tour win. And Vegard Leknessund followed suit. And at 23 years of age, the man from the Arctic Circle winning before this comedy moment behind. A superbly strong sprint for Alberto Bettiol showed that the former Tour of Flanders winner was in fine form heading to the tour. But he also thought he'd won the stage. He'd then be told he hadn't. Cue a bit of poking of fun from rivals in the peloton. The day belonging in the end to Andreas Leknessund of Team DSM. He won the stage by 38 seconds. Bettiol with that wonderful sprint to beat Matthews, Pasqualon, and Trentin. Top 10 rounded out by Odd Christian Eiking. Stephen Williams keeps the yellow jersey then. Leknessund goes to 7 seconds. Con remains at 6. Schachmann still second on 4. And the top 10 separated by just 10 seconds. Another sunny day in Switzerland then ending with a victory for another highly talented young rider. Andreas Leknessund taking the glory. Another young talent from Norway making the step up to become a winner on the World Tour.",
+    "preview_start": "Day two of the Tour of Switzerland was another long day in the saddle under very, very hot and sunny conditions. Starting in Küssnacht and heading to Esch, 198 km with several classified climbs. The race went around the city of Zurich, went west out into the hills rather than the high mountains. A loop to finish off a big day in the saddle with plenty of climbing. Stevie Williams was in the yellow jersey after having won stage one. Breakthrough win in the career of the 26-year-old Welshman. The ",
+    "preview_end": "wonderful sprint to beat Matthews, Pasqualon, and Trentin. Top 10 rounded out by Odd Christian Eiking. Stephen Williams keeps the yellow jersey then. Leknessund goes to 7 seconds. Con remains at 6. Schachmann still second on 4. And the top 10 separated by just 10 seconds. Another sunny day in Switzerland then ending with a victory for another highly talented young rider. Andreas Leknessund taking the glory. Another young talent from Norway making the step up to become a winner on the World Tour."
+  },
+  "status": "transcript_saved"
 }

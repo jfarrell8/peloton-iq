@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de Suisse Stage 4",
+  "race_name": "Tour de Suisse",
+  "race_date": "2022-06-15",
+  "stage": 4,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "IMPEY Daryl won a reduced bunch sprint after categorized climbs dropped pure sprinters, beating Matthews and Küng after Bettiol's leadout died early.",
+    "winner": "IMPEY Daryl",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF Education deployed full domestique squad including Uran on final climb to position Bettiol, revealing sprint-climber stage strategy.",
+      "Williams distanced on Cat-2 climb but recovered over summit, showing GC contenders vulnerable before peak rather than at it.",
+      "Krónin attacked for time bonuses within sprint despite holding white jersey, indicating GC ambitions beyond youth classification."
+    ],
+    "rider_signals": {
+      "IMPEY Daryl": "positive: first World Tour win since 2019 TdF Stage 9, showing late-career resurgence on sprint-climber stages at 37",
+      "BETTIOL Alberto": "negative: leadout died early despite full team support on uphill finish, suggesting form issues or poor timing",
+      "WILLIAMS Stephen": "neutral: momentarily distanced on Cat-2 climb but recovered quickly, indicating threshold fitness rather than climbing weakness",
+      "KÜNG Stefan": "positive: third place on uphill sprint finish against puncheurs reveals unexpected climbing speed for time trialist"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:27:48.487221+00:00"
+}

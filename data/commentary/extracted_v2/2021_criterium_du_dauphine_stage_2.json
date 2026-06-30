@@ -1,0 +1,25 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 2",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-05-31",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POSTELBERGER Lucas survived from 5-man breakaway that had 5+ minutes, hung on by 11 seconds over final climbs despite visibly suffering as Astana-led chase nearly caught him.",
+    "winner": "POSTELBERGER Lucas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana led chase but lacked numbers to close final 11 seconds despite flattening road post-Côte Masseter summit with 2km remaining.",
+      "COBRELLI positioned perfectly in select chase group over tough finale climbs, won field sprint second consecutive day but team couldn't control breakaway.",
+      "Five-man break with 5+ minutes fragmented on final climbs; POSTELBERGER survival from front better than teammates' chase control."
+    ],
+    "rider_signals": {
+      "POSTELBERGER Lucas": "positive: Survived alone over final climbs despite visible suffering; unexpected climbing resilience for rider without recent stage win pedigree (last stage win 2017 Giro)",
+      "COBRELLI Sonny": "positive: Won field sprint second straight day AND survived selective finale climbs; rare sprinter who can handle tough uphill finishes",
+      "FROOME Chris": "negative: Mentioned needing to prove Tour de France leadership capability; positioned rear of field suggests lacking form for GC ambitions",
+      "VALVERDE Alejandro": "neutral: Strong sprint at age 41 in select group; still competitive in reduced finales"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:34:32.554250+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 11",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-18",
+  "stage": 11,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked at 5km with Froome watching, exploiting Quintana/Nibali's fixation on Froome to take yellow.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Sky deployed dual-leader decoy: Thomas attacked while rivals watched Froome, then Froome counter-attacked to split pursuers' attention.",
+      "Dumoulin surprised by committing on downhill alone, but lacked support—revealing his willingness to isolate himself early.",
+      "Nibali/Bahrain rode tempo on penultimate climb helping Sky close gaps, bizarre strategic gift to strongest team.",
+      "Movistar's three-card attack (Landa/Quintana/Valverde) came \"flat-footed\" late, suggesting poor coordination when initial surge failed."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: attacked before Froome contrary to expected Sky hierarchy, showed Dauphine form carried through",
+      "FROOME Chris": "positive: counter-attacks splintered group after Thomas went, maintained closeness at 1:25 for tomorrow's battle",
+      "DUMOULIN Tom": "positive: tactical surprise descending alone, rare willingness to isolate on technical terrain",
+      "NIBALI Vincenzo": "negative: set tempo helping Sky then attacked only once, mysterious passivity suggests off-form or confused strategy",
+      "LANDA Mikel": "neutral: highest Movistar finisher at 2:56 after hard crash Sunday, climbed better than Quintana",
+      "QUINTANA Nairo": "negative: fixated on Froome's wheel, couldn't respond when Froome accelerated, wrong climb profile excuse signals vulnerability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:28:38.071626+00:00"
+}

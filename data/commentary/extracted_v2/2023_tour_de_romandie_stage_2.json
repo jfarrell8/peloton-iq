@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de Romandie Stage 2",
+  "race_name": "Tour de Romandie",
+  "race_date": "2023-04-27",
+  "stage": 2,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "DENNIS Rowan bridged solo to the break on the final climb descent, took stage and yellow jersey by 1 second after mechanical teammate HINDLEY cramped.",
+    "winner": "DENNIS Rowan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MATTHEWS chain drop at back triggered immediate attack signals, showing peloton monitors race radio for vulnerability exploitation opportunities.",
+      "DENNIS bridged alone to breakaway group after surviving final climb, revealing ex-TT champions can time trial uphill gaps closed under 8km.",
+      "Intermediate sprint bonus seconds contested hard by GC favorites early stage, indicating overall gaps expected to remain tight throughout race.",
+      "VINE prioritized KOM points over stage despite being in winning move, signaling jersey competition took precedence over victory."
+    ],
+    "rider_signals": {
+      "DENNIS Rowan": "positive: bridged 45-second gap solo on climb/descent within 8km, showing exceptional pursuit power while others sat on in break",
+      "MATTHEWS Michael": "negative: chain drop mechanical at critical corner acceleration moment eliminated GC contention despite strong intermediate sprint showing",
+      "HINDLEY Jai": "negative: cramped badly on final climb despite being in winning move, suggesting insufficient condition recovery or pacing error",
+      "VINE Jay": "neutral: prioritized KOM jersey over stage win by leading climb but not contesting sprint, tactical decision rather than weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:00:17.275746+00:00"
+}

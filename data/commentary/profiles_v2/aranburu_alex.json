@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a traditional attacker but exploits sprint-like accelerations on climbs and technical ITTs. Shows ability to surprise pure climbers with unexpected climbing power combined with sprinter acceleration.",
+  "team_tactics": "Insufficient data for clear team tactics pattern. Appears to operate opportunistically in situations where sprint power translates to climbing.",
+  "terrain_preference": "Hilly ITTs and technical climbing parcours where power-to-weight and explosive acceleration matter more than pure climbing endurance. Struggles with sustained sprint finishes on flat terrain.",
+  "vulnerability": "Cannot sustain early sprint accelerations through to finish line. Timing issues in pure sprint situations where endurance at threshold matters more than explosive power.",
+  "key_patterns": [
+    "Sprinter with unusual climbing ability that can threaten pure climbers on selective terrain.",
+    "Mistimes efforts: accelerates early but lacks sustained power to finish strong.",
+    "Excels on technical/hilly ITT parcours where sprint power translates better than pure endurance."
+  ],
+  "form_trajectory": "neutral: 2nd overall at Vuelta suggests strong climbing form, but Dauphine sprint mistiming indicates inconsistency remains",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ARANBURU Alex",
+  "built_from": [
+    "2021 Criterium du Dauphine Stage 3",
+    "2021 Vuelta a Espana Stage 1",
+    "2021 Vuelta a Espana Stage 1"
+  ]
+}

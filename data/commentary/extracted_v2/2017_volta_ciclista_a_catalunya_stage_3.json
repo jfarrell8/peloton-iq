@@ -1,0 +1,27 @@
+{
+  "label": "2017 Volta Ciclista a Catalunya Stage 3",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2017-03-22",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won after THOMAS Geraint's attack failed 2km out, positioning perfectly in the uphill sprint at La Molina.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky's THOMAS attacked with 2km remaining but immediately looked around and soft-pedaled, surrendering momentum to late punchers.",
+      "Movistar sat passively despite THOMAS's attack, preserving VALVERDE's uphill sprint punch for final 200m rather than chasing.",
+      "CONTADOR's team (Trek) put PANTANO on front at 9km when catching breakaway, exploiting natural regrouping moment for acceleration.",
+      "MARTIN Dan jumped too early in final sprint, allowing VALVERDE to mark him perfectly and use superior sustained power."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "neutral: attacked strongly 2km out but lacked conviction to sustain, suggesting either tactical uncertainty or insufficient form for sustained acceleration",
+      "VALVERDE Alejandro": "positive: demonstrated superior tactical discipline by refusing to chase THOMAS, then perfect wheel choice on MARTIN's premature jump",
+      "FROOME Chris": "negative: unable to respond when THOMAS and KENYATTA accelerated, confirming early-season form deficit as expected",
+      "MARTIN Dan": "negative: initiated sprint far too early several hundred meters out, revealing poor uphill sprint judgment despite good late-race positioning",
+      "VAN GARDEREN Tejay": "negative: lost 22 seconds on relatively modest summit finish, concerning weakness for overall BMC leadership aspirations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:11:59.013054+00:00"
+}

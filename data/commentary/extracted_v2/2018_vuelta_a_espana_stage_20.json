@@ -1,0 +1,27 @@
+{
+  "label": "2018 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-15",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MAS Enrique won the Calar Alto summit by outsmarting LOPEZ Miguel Angel through superior corner positioning in the final 100m sprint.",
+    "winner": "MAS Enrique",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Simon attacked on penultimate climb to isolate GC rivals, forcing VALVERDE to chase at 32 seconds alone without teammates.",
+      "MAS studied 2012 Valverde victory footage repeatedly, pre-positioning before final corner to prevent LOPEZ from using his superior sprint.",
+      "SHAW Jonathan deliberately soft-pedaled to wait for VALVERDE rather than chase breakaway, revealing Sky team orders prioritizing podium defense.",
+      "LOPEZ Miguel Angel slammed tempo shut on corners to break rhythm of chase, demonstrating technical climbing superiority over raw power."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: Delivered knockout punch on penultimate climb after controlling entire race, showing Giro collapse taught restraint until finale",
+      "VALVERDE Alejandro": "negative: Dropped at 32 seconds on final climb without teammates, lacking legs to respond when SHAW refused to help",
+      "MAS Enrique": "positive: Pre-race video study translated to tactical positioning victory over faster finisher LOPEZ, revealing mature race craft",
+      "LOPEZ Miguel Angel": "positive: Used corner accelerations as weapon to disrupt chasers but beaten by superior tactical preparation in final 100m",
+      "SHAW Jonathan": "neutral: Tactical sacrifice for VALVERDE's podium defense exposed team orders, lost personal GC position for team goal"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:42:02.609495+00:00"
+}

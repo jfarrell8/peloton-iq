@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-25",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan won the Stage 1 TTT by 6 seconds over KWIATKOWSKI, building advantage throughout rather than just holding early gains.",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DENNIS extended lead progressively through course rather than defending early split, suggesting pacing strategy favored back-end power.",
+      "KWIATKOWSKI third-week Tour fatigue concerns proved unfounded, nearly matching fresh specialists despite domestique duties at France.",
+      "CAMPENAERTS as European TT champion matched KWIATKOWSKI within split seconds, revealing BMC time trial depth beyond expectations."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "negative: illness significantly compromised performance, finished far below expected GC position for declared team leader",
+      "DENNIS Rohan": "positive: BMC granted GC leadership status, confirmed by winning performance and tactical freedom previously unavailable",
+      "KWIATKOWSKI Michal": "positive: Tour de France domestique work created no residual fatigue, contested podium against fresh specialists",
+      "VAN BAAL Dylan": "positive: only sub-10-minute rider initially, benchmark performance suggests underrated TT capability for GC support",
+      "CAMPENAERTS Victor": "positive: European champion credentials validated by near-podium, BMC time trial roster deeper than pre-race assessment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:39:39.049758+00:00"
+}

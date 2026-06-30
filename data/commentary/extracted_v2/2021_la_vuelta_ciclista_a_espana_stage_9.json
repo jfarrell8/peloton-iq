@@ -1,0 +1,28 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 9",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-08-22",
+  "stage": 9,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARUSO Damiano soloed from breakaway over Alto Collado Venta Luisa to win atop Velefique, while ROGLIC extended GC lead by covering MASS attack.",
+    "winner": "CARUSO Damiano",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "YATES Adam's attack on Velefique forced ROGLIC to burn matches, but MASS capitalized by counterattacking after settling.",
+      "INEOS set relentless pace on Venta Luisa specifically to shake GC contenders, revealing they're targeting podium not stage.",
+      "BOUCHARD Geoffrey bridging from GC group to breakaway on descent shows INEOS overcooked their pace selection.",
+      "ROGLIC chased bonus seconds at finish despite having teammates nearby, signaling comfort managing effort personally over delegating."
+    ],
+    "rider_signals": {
+      "CARUSO Damiano": "positive: Destroyed breakaway on Venta Luisa then held 1:05 gap solo, suggesting he's peaked for grand tour mountain stages",
+      "BERNAL Egan": "negative: Dropped heavily on Velefique losing 2:10, requiring nursemaiding earlier by PAUWELS/PARDOEN shows premature GC ambitions",
+      "YATES Adam": "neutral: Initiated winning move but couldn't follow MASS counter, confirms he's explosive but lacks diesel for sustained efforts",
+      "MASS Primoz": "positive: Only rider matching ROGLIC after YATES attack, counterattack distanced YATES, closed 28s gap suggests genuine GC threat",
+      "LOPEZ Miguel Angel": "positive: Bridged to YATES group then attacked again, showing recovery capacity absent in many GC riders",
+      "BARDET Romain": "negative: Dropped chain chasing CARUSO ruined KOM bid, mechanical but reveals thin margins in his current form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:45:53.599524+00:00"
+}

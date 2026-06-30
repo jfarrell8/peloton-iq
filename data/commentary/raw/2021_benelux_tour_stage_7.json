@@ -19,13 +19,6 @@
         "match_score": 75.0
       },
       {
-        "video_id": "6pWApM4wuXg",
-        "title": "UAE Tour 2021 - Stage 7 Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2021-02-27 18:07:11+00:00",
-        "match_score": 75.0
-      },
-      {
         "video_id": "t1L6LQ34Huc",
         "title": "UAE Tour 2021 | Stage 7 Highlights | inCycle",
         "channel": "inCycle",
@@ -33,10 +26,17 @@
         "match_score": 75.0
       },
       {
-        "video_id": "oSeHZSSCnq8",
-        "title": "Tour de France 2021: Stage 7 On-Bike Highlights",
+        "video_id": "6pWApM4wuXg",
+        "title": "UAE Tour 2021 - Stage 7 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-02-27 18:07:11+00:00",
+        "match_score": 75.0
+      },
+      {
+        "video_id": "hdhEOLjqn_k",
+        "title": "Tour de Suisse 2021: Stage 7 Full Highlights",
         "channel": "Velon",
-        "published": "2021-07-02 17:43:21+00:00",
+        "published": "2021-06-12 18:04:14+00:00",
         "match_score": 72.5
       },
       {
@@ -47,10 +47,10 @@
         "match_score": 72.5
       },
       {
-        "video_id": "hdhEOLjqn_k",
-        "title": "Tour de Suisse 2021: Stage 7 Full Highlights",
+        "video_id": "OTXjeEMv2i8",
+        "title": "Tour de Suisse 2021: Stage 7 On-bike highlights",
         "channel": "Velon",
-        "published": "2021-06-12 18:04:14+00:00",
+        "published": "2021-06-12 18:49:42+00:00",
         "match_score": 72.5
       },
       {
@@ -61,10 +61,17 @@
         "match_score": 72.5
       },
       {
-        "video_id": "OTXjeEMv2i8",
-        "title": "Tour de Suisse 2021: Stage 7 On-bike highlights",
+        "video_id": "oSeHZSSCnq8",
+        "title": "Tour de France 2021: Stage 7 On-Bike Highlights",
         "channel": "Velon",
-        "published": "2021-06-12 18:49:42+00:00",
+        "published": "2021-07-02 17:43:21+00:00",
+        "match_score": 72.5
+      },
+      {
+        "video_id": "2dur3b6EHgY",
+        "title": "Tour de France 2021 Stage 7 Highlights | Breakaway Brilliance!",
+        "channel": "GCN Racing",
+        "published": "2021-07-02 16:16:52+00:00",
         "match_score": 72.5
       },
       {
@@ -73,16 +80,17 @@
         "channel": "TNT Sports",
         "published": "2021-07-02 17:51:21+00:00",
         "match_score": 71.9
-      },
-      {
-        "video_id": "Ef8BFMOHtlg",
-        "title": "2021 Tour de Suisse - Stage 7 | Highlights | Cycling | Eurosport",
-        "channel": "TNT Sports",
-        "published": "2021-06-12 18:58:43+00:00",
-        "match_score": 71.9
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 74,
+    "raw_chars": 2235,
+    "clean_chars": 2235,
+    "duration_mins": 3.1,
+    "clean_text": "the seventh and final stage of the ua tour would take the riders over 147 kilometers from yasmal to abu dhabi break water the abu dhabi state the riders on a fundamentally flat parkour for the final day of action just one more banana skin to be avoided by talib the overall race leader controlling a 35 second margin on general classification three riders up front in the early stages too from the astana squad and one from the group fdj team as it split into echelons in the crosswind in the middle point of this 147 kilometer stage up front caleb made that move so too to tally pagar and indeed adam yates but there wasn't full cooperation between the riders in that uh league group of chasers behind the breakaway and it all came back together again and just inside 41 kilometers to go touch of wheels towards the head of the peloton cut out many of the riders from team ineos grenadiers including adam yates who bloodied but unbowed hit the ground with some force but the young rider from berry and lancashire painful meeting with the tarmac but he was soon back in his bike and uh with after a little bit of assistance from the medical car he was back in the main peloton teddy pagasha having controlled the base to ensure that his nearest rival and general classification was not further inconvenient so it was the large peloton of 127 riders that were still together as they came down into the closing stages when it came down to a sprint finish among the fast man caleb of lotto sudal launching perfectly off the wheel of two-time stage winner sam bennett to take the glory on the day the pocket rocket from australian lotto soudal on the left-hand side getting his hands in the air in his first world tour success of 2021 his fourth stage victory in the middle east's world tour event okay lebanon timing his run to absolute perfection to better sam bennett in the run to the line phil bauhaus getting up for a fine third place get it to your order of completion of the final stage at the conclusion of just over a thousand kilometers of racing we thank his excellency dr nuger alkali 22 year old tour de france winner winning for the home team adam yates hanging on for that second place finish ahead of chihuahua almeida you",
+    "preview_start": "the seventh and final stage of the ua tour would take the riders over 147 kilometers from yasmal to abu dhabi break water the abu dhabi state the riders on a fundamentally flat parkour for the final day of action just one more banana skin to be avoided by talib the overall race leader controlling a 35 second margin on general classification three riders up front in the early stages too from the astana squad and one from the group fdj team as it split into echelons in the crosswind in the middle ",
+    "preview_end": "fourth stage victory in the middle east's world tour event okay lebanon timing his run to absolute perfection to better sam bennett in the run to the line phil bauhaus getting up for a fine third place get it to your order of completion of the final stage at the conclusion of just over a thousand kilometers of racing we thank his excellency dr nuger alkali 22 year old tour de france winner winning for the home team adam yates hanging on for that second place finish ahead of chihuahua almeida you"
+  },
+  "status": "transcript_saved"
 }

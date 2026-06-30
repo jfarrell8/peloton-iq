@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who targets stage wins over GC, capable of surviving category 1 climbs but focuses on getting into early moves rather than late explosive attacks.",
+  "team_tactics": "Minimal team support evident - operates as independent breakaway hunter rather than protected rider, suggesting domestique role or freedom in non-threatening GC situations.",
+  "terrain_preference": "Handles category 1 climbs adequately in breakaways and excels on technical finishing circuits with tight turns and short uphill finishes; avoids pure mountain stages.",
+  "vulnerability": "Multi-day fatigue accumulation causes repeated weak moments, suggesting poor recovery or limited stage race conditioning beyond 2-3 consecutive hard efforts.",
+  "key_patterns": [
+    "Breakaway specialist: both stage win and noted escape attempts from breakaways (2 observations)",
+    "Multi-day fatigue vulnerability: identical weak moments on consecutive days (2 observations)",
+    "Targets races with weaker GC fields for dangerous moves (2 observations)",
+    "Technical finishers suit him: won with 180-degree turn into uphill (1 observation but specific)"
+  ],
+  "form_trajectory": "unknown: large 4-year gap between 2018 negative signals and 2022 breakthrough win makes trajectory impossible to assess reliably",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "HOULE Hugo",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 3",
+    "2018 Paris-Nice Stage 8",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 16"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2022 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-14",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PIDCOCK Thomas won from the breakaway while VINGEGAARD defended yellow against POGACAR's late surge in final meters.",
+    "winner": "PIDCOCK Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POWLESS Nielsen attacked immediately in neutral section attempting early solo move before HC climbs started.",
+      "POGACAR Tadej attacked in final 200m sprint for time bonuses despite VINGEGAARD holding yellow by 2:22.",
+      "FROOME Chris finished top-3 first time since February 2019, signaling unexpected form recovery in third week."
+    ],
+    "rider_signals": {
+      "PIDCOCK Thomas": "positive: First GT stage win at 23, previously only rode one GT (2019 Vuelta 67th), team initially hesitant to select him",
+      "POWLESS Neilson": "positive: Most aggressive rider award, attacked from kilometer zero in neutral section on double-HC day",
+      "VAN AART Wout": "neutral: Skipped intermediate sprint points to conserve energy for domestique duties supporting VINGEGAARD",
+      "FROOME Chris": "positive: First top-3 finish since horrific June 2019 crash, showing late-tour Alpine form",
+      "THOMAS Geraint": "positive: Moved from 3rd to 2nd GC, jumping POGACAR who dropped from 2nd to 4th",
+      "QUINTANA Nairo": "negative: Dropped from 4th to outside top-5, unable to match GC contenders on double-HC Alpine stage",
+      "YATES Adam": "neutral: Lost ground but commentator noted Alpine weakness often rebounds in Pyrenees still to come"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:21:31.622539+00:00"
+}

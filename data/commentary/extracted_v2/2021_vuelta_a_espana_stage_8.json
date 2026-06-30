@@ -1,0 +1,26 @@
+{
+  "label": "2021 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "JAKOBSEN Fabio won a chaotic sprint after Quick-Step sat back following too-early positioning at 5km, then perfectly timed final leadout inside last kilometer.",
+    "winner": "JAKOBSEN Fabio",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step deployed leadout at 5km, got swamped, deliberately sat back, then re-engaged inside 1km proving patience wins chaotic flat finishes.",
+      "UAE controlled inside 1.2km with Molano but wasted leadout too early; TRENTINO never pulled through showing pure wheel-sucking works in disorganized sprints.",
+      "Breakaway absorbed at intermediate sprint when peloton hit 40mph, proving teams use sprint points as calibration for swallowing early moves."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "positive: Second Vuelta win confirms full recovery from Poland crash; team now trusts him enough to abandon early position and re-commit",
+      "MOLANO Juan Sebastian": "negative: UAE controlled at 1.2km with full leadout but he faded to fifth showing their train lacks final punch",
+      "PHILIPSEN Jasper": "neutral: Went for intermediate sprint to pad green jersey but finished second again showing speed without winning edge",
+      "MEEUS Jordi": "positive: Fourth without major leadout suggests he can navigate chaos better than established names like Matthews",
+      "MATTHEWS Michael": "negative: Not even top 20 on pan-flat finish confirms he genuinely needs gradient, not just positioning, to compete"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:03:22.799436+00:00"
+}

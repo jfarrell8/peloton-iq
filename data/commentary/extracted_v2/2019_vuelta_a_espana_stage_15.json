@@ -1,0 +1,28 @@
+{
+  "label": "2019 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-08",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SEPKUSS Toms attacked from 17-rider breakaway on final 7.9km climb (9.7% gradient), distanced GUERREIRO and GEGGENHART in closing kilometers for maiden Grand Tour stage win.",
+    "winner": "SEPKUSS Toms",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma placed BENNETT in break to cover SEILER's KOM hunt, sacrificingbreak numbers to control competitors' jersey ambitions.",
+      "SEPKUSS initially followed wheels conservatively mid-stage expecting GC catch, only committed full effort when gap exceeded critical threshold.",
+      "RODRIGUEZ dropped early on final climb despite teammate SEPKUSS making initial selection, exposing Euskadi-Basque team miscommunication on protected rider.",
+      "ROGLIC-VALVERDE finished together at 2:14, showing Sky/Movistar détente allows mutual GC protection against third-party attacks."
+    ],
+    "rider_signals": {
+      "SEPKUSS Toms": "positive: strategically conserved energy in break until gap security allowed stage commitment, showing mature race intelligence beyond gregario role",
+      "RODRIGUEZ Oscar": "negative: dropped from winning move featuring own teammate SEPKUSS, suggesting internal team hierarchy confusion or declining form",
+      "BENNETT George": "neutral: deployed by Jumbo solely to police SEILER's KOM ambitions rather than stage hunting, reveals team prioritizes jersey defense",
+      "ROGLIC Primoz": "positive: comfortable with VALVERDE at 2:14 gap, shows red jersey control sufficient to allow gregario SEPKUSS stage freedom",
+      "GUERREIRO Ruben": "positive: nearly matched SEPKUSS on brutal final climb despite being former teammates, confirms climbing form renaissance",
+      "GEGGENHART Tom": "positive: third place after bridging from chase groups demonstrates EF's climbing depth beyond HIGUITA"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:07:32.481135+00:00"
+}

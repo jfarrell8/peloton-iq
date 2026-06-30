@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Favors high-risk solo attacks in final 1-2km, often on technical descents or flat finishes. Uses specialized equipment (62-tooth chainring) and extreme efficiency tactics (riding without bottles) to maximize power advantages in short, explosive efforts.",
+  "team_tactics": "Increasingly deployed as tactical asset for teammates rather than own results - sacrifices personal ambitions for lead-out duties. When riding for self, attacks are solo efforts without visible domestique support.",
+  "terrain_preference": "Flat to rolling terrain where time trial power translates to breakaway speed. Technical descents where bike-handling and equipment choices create separation. Struggles when sustained climbing gradient hits - completely neutralized on steep gradients.",
+  "vulnerability": "Three-week Grand Tour fatigue severely compromises TT specialist abilities - loses to pure climbers in time trials deep into stage races. Multiple premature attacks deplete reserves before decisive moments. Pure climbing gradients expose power-to-weight limitations.",
+  "key_patterns": [
+    "Late-race solo attacks (1km-2km to go) dangerous enough to force team responses, 3 observations",
+    "Time trial specialization diminishes significantly during three-week Grand Tours, loses to non-specialists, 2 observations",
+    "Tactical wastage through multiple failed attacks before key moments leaves empty on climbs, 2 observations",
+    "Equipment experimentation and efficiency maximization (62-tooth chainring, no bottles) core to tactical approach, 2 observations",
+    "Transition from protected rider to team servant role progressing 2022-2023, 2 observations"
+  ],
+  "form_trajectory": "neutral: 2023 shows acceptance of domestique role rather than decline - still dangerous in late attacks (2022) but now tactically sacrificed for Asgreen. Role evolution rather than form loss.",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "CAMPENAERTS Victor",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 1",
+    "2019 Giro d'Italia Stage 21",
+    "2019 Giro d'Italia Stage 9",
+    "2019 Tour de Romandie Stage 5",
+    "2021 Giro d'Italia Stage 8",
+    "2022 Criterium du Dauphine Stage 1",
+    "2022 Dwars door Vlaanderen",
+    "2023 Criterium du Dauphine Stage 7",
+    "2023 Tour de France Stage 18"
+  ]
+}

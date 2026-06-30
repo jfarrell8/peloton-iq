@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco won from a 14-rider breakaway after riding strategically early, letting others work before dropping them near the finish.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL forced into breakaway by Belgian press criticism, rode conservatively early to save energy versus typical steamrolling approach.",
+      "VINGEGAARD Jonas worked for KUSS Sepp on climbs, paying back domestique debt from earlier race support despite time gap.",
+      "KUSS used time bonuses to extend lead ensuring VINGEGAARD couldn't take red jersey even with sprint points remaining.",
+      "14-rider break succeeded because EVENEPOEL neutralized Jumbo-Visma's chase motivation by being present himself."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: responded to tactical criticism by racing intelligently rather than burning matches early, showing maturity under pressure",
+      "VINGEGAARD Jonas": "positive: worked as domestique for KUSS despite being stronger GC rider, team cohesion overriding individual ambition",
+      "KUSS Sepp": "neutral: managed time bonuses carefully to maintain 17-second buffer over VINGEGAARD, racing defensively not offensively",
+      "BERNAL Egan": "positive: had power to enter early break despite Ineos struggling previous stages, legs improving in third week",
+      "MOSS Henrik": "negative: attacked near finish but lacked punch to hold off EVENEPOEL despite late effort"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:06:43.174571+00:00"
+}

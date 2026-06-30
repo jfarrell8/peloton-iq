@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early-race aggressor who launches multiple attacks to initiate or join breakaways, often targeting intermediate sprints and willing to make repeated efforts before successful moves establish.",
+  "team_tactics": "Functions as breakaway instigator for B&B Hotels, given freedom to animate races through solo attacks rather than supported by team tempo control.",
+  "terrain_preference": "Suits races where breakaway formation is tactically viable; appears comfortable in rolling terrain allowing repeated acceleration efforts rather than pure climbing or flat stages.",
+  "vulnerability": "Attacks tend to be numerous but ineffective when peloton is unwilling to grant freedom; lacks finishing power to convert breakaway participation into results without selective terrain.",
+  "key_patterns": [
+    "Launches multiple attacks per race (3+ attempts documented) seeking breakaway placement.",
+    "Targets intermediate sprint points as tactical objectives during breakaway efforts.",
+    "Acts as breakaway catalyst/initiator rather than counter-attacker or selective aggressor."
+  ],
+  "form_trajectory": "unknown: 3-year gap between observations prevents meaningful trajectory assessment, though role consistency suggests stable capabilities",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SCHONBERGER Sebastian",
+  "built_from": [
+    "2019 Tirreno-Adriatico Stage 3",
+    "2022 Criterium du Dauphine Stage 3"
+  ]
+}

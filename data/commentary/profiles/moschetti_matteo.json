@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Pure sprinter who targets flat to downhill finishes in bunch sprints. Not an attacker; relies on positioning in final kilometer and explosive speed in last 200-300m.",
+  "team_tactics": "Does not require elaborate leadout train to achieve results, showing adaptability. However, coordination through technical finales remains inconsistent, particularly through tight corners in final kilometer.",
+  "terrain_preference": "Downhill sprint finishes suit him best where positioning matters more than pure power. Technical finales with tight corners expose team coordination weaknesses.",
+  "vulnerability": "Loses position and results when team cohesion breaks down in technical finales, especially through penultimate corners. Needs tighter coordination when organized leadout is attempted.",
+  "key_patterns": [
+    "Can podium without designated leadout train on favorable downhill finishes (2 observations)",
+    "Team coordination breaks down through technical corners in sprint finales (2 observations)",
+    "Adaptable sprinter who delivers results with varied team support structures (2 observations)"
+  ],
+  "form_trajectory": "positive: Third place at 2020 Vuelta shows maturation and ability to perform at Grand Tour level without perfect team support",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MOSCHETTI Matteo",
+  "built_from": [
+    "2019 BinckBank Tour Stage 1",
+    "2020 Vuelta a Espana Stage 4"
+  ]
+}

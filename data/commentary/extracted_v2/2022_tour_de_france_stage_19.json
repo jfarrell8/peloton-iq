@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-22",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe escaped at 3km with breakaway remnants, soloed last 200m after yellow jersey domestique duty all Tour",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma sent green jersey Van Aert to front through final 10km roundabouts, sacrificing sprint leadout for GC safety.",
+      "Laporte bridged solo to front group at 1km, catching three riders easily while knowing sprint teams hesitated behind.",
+      "Wright Fred attacked from breakaway inside 1km, forcing late selection before pure sprinters could organize behind."
+    ],
+    "rider_signals": {
+      "LAPORTE Christophe": "positive: Jumbo domestique showed stage-winning legs after working for yellow all Tour, suggesting team underutilized his sprint capability",
+      "VAN AERT Wout": "neutral: Deployed for GC protection through technical finale rather than sprint leadout, revealing Jumbo's risk hierarchy on windy flat stages",
+      "VINGEGAARD Jonas": "neutral: Team prioritized crash avoidance over Van Aert sprint at 3-2-1 advantage, making Van Aert navigate final 10km of roundabouts",
+      "WRIGHT Fred": "positive: British rider initiated final km attack from breakaway, nearly holding off late-bridging Laporte for best Tour result"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:23:01.521566+00:00"
+}

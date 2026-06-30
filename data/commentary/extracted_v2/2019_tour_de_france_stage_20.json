@@ -1,0 +1,28 @@
+{
+  "label": "2019 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-27",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIBALI Vincenzo soloed to stage victory on the final Val Thorens climb after ALAPHILIPPE cracked 8 miles from summit, losing podium to THOMAS Geraint.",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "NIBALI accelerated in breakaway sub-1min from peloton, betting correctly that GC chaos behind wouldn't organize chase.",
+      "ALAPHILIPPE cracked when still 8 miles from summit, suggesting his yellow jersey legs relied on shorter punchy efforts.",
+      "INEOS ran KRUIJSWIJK through DE PLUS pacing instead of attacking, prioritizing BERNAL's security over stage hunting.",
+      "WOODS' ambiguous role showed team confusion whether to support URAN for GC or chase stage win personally."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "negative: Lost 12+ seconds and podium when gradients sustained past 8 miles, confirming he's vulnerable on longer alpine ascents",
+      "NIBALI Vincenzo": "positive: Attacked breakaway with sub-1min gap when most would consolidate, reading peloton chaos correctly for stage win",
+      "THOMAS Geraint": "neutral: Defended solidly but never attacked despite teammate in yellow, revealing INEOS conservative approach when holding advantage",
+      "BARDET Romain": "negative: Dropped simultaneously with ALAPHILIPPE, confirming KOM jersey came from breakaways not raw climbing strength",
+      "MAS Enric": "positive: Waited for struggling teammate ALAPHILIPPE mid-climb, showing team loyalty overrode personal GC ambitions",
+      "DE PLUS Laurens": "positive: Paced full climb for KRUIJSWIJK/BORAH despite no GC podium chance, demonstrating domestique commitment depth"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:59:17.533801+00:00"
+}

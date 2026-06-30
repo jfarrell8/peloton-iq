@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Launches decisive moves on classified climbs with 35-45km remaining, preferring solo efforts from breakaways rather than late-stage punches. Lacks explosive acceleration to counter stronger closers in final kilometers.",
+  "team_tactics": "Operates in dual role: executes extended domestique shifts for team leaders (30km+ pulls documented) but capitalizes on breakaway freedom when GC ambitions are off the table. UAE relies heavily on him when squad is depleted.",
+  "terrain_preference": "Classified climbs and descents where positioning and patience trump pure power. Excels in long-range solo efforts requiring sustained tempo rather than repeated accelerations. Vulnerable in echelon-prone flat stages and crash-heavy bunch finishes.",
+  "vulnerability": "Poor positioning instincts in nervous stages—caught in echelon splits and crashed outside 3km protection. Mechanical issues and lack of finishing punch against stronger closers consistently undermine GC campaigns.",
+  "key_patterns": [
+    "Wins from breakaways via long-range attacks on climbs (35-45km out), not late accelerations. Two wins documented.",
+    "Positioning errors cost significant GC time: echelon split (-2:05), crash outside 3km protection. Multiple instances.",
+    "Transitions effectively between domestique duties and personal opportunities, recognizing tactical moments to counter-attack from service role.",
+    "Demonstrates patience and tactical calculation over raw power: bridged on descent, sustained solo efforts, calculated chases.",
+    "Exposed when UAE squad is depleted—both as suffering rider and as overextended domestique. Team depth critical."
+  ],
+  "form_trajectory": "neutral: 2023 GT stage win shows tactical maturity, but GC losses from positioning errors persist unchanged from 2021-2022 pattern",
+  "races_analysed": 8,
+  "confidence": "high",
+  "rider_name": "MCNULTY Brandon",
+  "built_from": [
+    "2021 Tour de France Stage 9",
+    "2022 Criterium du Dauphine Stage 4",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Nice Stage 5",
+    "2022 Paris-Nice Stage 5",
+    "2022 Tour de France Stage 17",
+    "2022 Tour de Romandie Stage 1",
+    "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 2"
+  ]
+}

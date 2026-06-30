@@ -1,0 +1,28 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-22",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CRONE Andres won from a 4-rider breakaway on the final climb after Movistar isolated their own leaders by decimating the field but failing to bridge.",
+    "winner": "CRONE Andres",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Movistar used Shelling/Verona/Pedrero to drop Sagan 5km from climb summit, but abandoned pacing with Verona remaining for valley.",
+      "BikeExchange failed to pace when Crone group escaped, waiting for Chaves on final climb when gap reached 35 seconds.",
+      "Lotto-Soudal committed zero resources to chase despite having Smith in peloton, prioritizing Crone's breakaway chance over controlled sprint.",
+      "Jumbo controlled Camna's gap solely to protect GC positions, not attempting to bring back for Roglic sprint opportunity."
+    ],
+    "rider_signals": {
+      "CRONE Andres": "positive: Won first World Tour race with superior positioning, using Rochas draft to beat Leon Sanchez from 250m",
+      "SHELLING Ide": "positive: Paced climbs hard enough to drop Sagan while still finishing 7th in reduced sprint",
+      "SAGAN Peter": "negative: Dropped 5km from climb summit on 6% gradient when Movistar accelerated, confirming poor climbing form",
+      "VALVERDE Alejandro": "neutral: Movistar isolated him in front group but positioned second wheel blocking chase instead of contesting sprint",
+      "SOLER Marc": "negative: Lost wheels on technical descent despite being marked GC option, caught back but showed handling vulnerability",
+      "FROOME Chris": "negative: Yo-yoed on main climb and popped on false flat after descent started, not surviving sustained pace"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:57:39.925067+00:00"
+}

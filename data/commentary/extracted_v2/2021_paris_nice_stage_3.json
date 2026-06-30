@@ -1,0 +1,27 @@
+{
+  "label": "2021 Paris-Nice Stage 3",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-09",
+  "stage": 3,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BISSEGGER Stefan won the 18km time trial by 0.83 seconds over Cavagna, taking yellow after Matthews lost 23 seconds on the uphill finish climb.",
+    "winner": "BISSEGGER Stefan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Dennis set fastest intermediate split at 7.7km but faded on uphill finish, revealing pure power specialists vulnerable on gradient.",
+      "Roglic 1.22s down at intermediate but closed to 3rd overall suggests Jumbo prioritizing positioning over peaking this early.",
+      "McNulty 9s down in 4th signals UAE developing second GC threat beyond Pogacar for stage racing depth."
+    ],
+    "rider_signals": {
+      "BISSEGGER Stefan": "positive: Track background enables superior bike handling on technical corners, won despite only second WorldTour stage race of career",
+      "DENNIS Rowan": "negative: Fastest intermediate at 47km/h but lost 37s by finish reveals climber weakness on gradient finishes despite TT pedigree",
+      "MATTHEWS Michael": "negative: Lost yellow by 23s despite new TT bike suggests sprinter can't defend GC once gradients appear",
+      "ROGLIC Primoz": "neutral: Jumbo downplaying form but 3rd place only 10s down suggests controlled effort rather than weakness",
+      "CAVAGNA Remy": "positive: French TT champion 0.83s from win confirms top-tier short TT ability on punchy courses",
+      "McNULTY Brandon": "positive: 4th at 9s after UAE Tour runner-up confirms emerging TT threat at age 23"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:46:51.772625+00:00"
+}

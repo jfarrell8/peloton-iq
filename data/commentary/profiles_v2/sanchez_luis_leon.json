@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Moves in breakaways and attacking groups on final climbs, capable of staying away but struggles to convert against pure sprinters or on the longest, hardest summit finishes.",
+  "team_tactics": "Team employs dual-track strategy: places Sanchez in breaks while simultaneously protecting primary GC leader, suggesting break specialist role rather than protected captain status.",
+  "terrain_preference": "Suited to medium-mountain stages with final climb attacks where tactical positioning matters more than pure climbing power. Exposed on long, steep summit finishes and individual time trials.",
+  "vulnerability": "Weak time trialist (7th place while defending GC) and gets dropped on hardest climbs (lost 4+ minutes on Colmiane). Cannot sustain GC challenges once ITT or high-mountain stages arrive.",
+  "key_patterns": [
+    "Used in breakaway tactics while team protects different GC leader (2 instances)",
+    "Loses significant time on hardest summit finishes, dropped from contention (2 instances)",
+    "Time trial weakness threatens GC positions, retained jersey by only 5 seconds (2 instances)",
+    "Can take jersey/results via positioning in attacking groups but lacks finishing speed"
+  ],
+  "form_trajectory": "negative: trend shows declining from GC contention to breakaway support role, losing ability to defend positions gained",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "SANCHEZ Luis Leon",
+  "built_from": [
+    "2018 Paris-Nice Stage 3",
+    "2018 Paris-Nice Stage 4",
+    "2018 Paris-Nice Stage 7",
+    "2019 Vuelta a Espana Stage 8"
+  ]
+}

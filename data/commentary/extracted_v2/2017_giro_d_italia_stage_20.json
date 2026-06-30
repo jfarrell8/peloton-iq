@@ -1,0 +1,28 @@
+{
+  "label": "2017 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-27",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PINOT attacked on the final climb to Asiago taking stage and 10-second bonus while DUMOULIN lost 15 seconds critical time to all GC rivals.",
+    "winner": "PINOT Thibaut",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ZAKARIN's early detonation forced MOVISTAR to chase prematurely, softening them before decisive moves on final climb.",
+      "POELS rode for stage rather than team tactics, revealing Sky's dual objectives despite GC pressure on race leader.",
+      "NIBALI repeatedly counterattacked each rival's move rather than setting sustained pace, testing everyone's reserves simultaneously.",
+      "QUINTANA required VALVERDE to pull him back after NIBALI's acceleration, exposing unexpected weakness in third-week climbing form."
+    ],
+    "rider_signals": {
+      "DUMOULIN Tom": "negative: lost 15 seconds to all top-4 rivals on lumpy stage, suggesting pre-ITT fatigue negates time trial advantage",
+      "ZAKARIN Ilnur": "positive: initial attack fractured peloton before final climb, showing superior tactical positioning despite missing stage win",
+      "POELS Wout": "neutral: rode for stage instead of supporting team despite GC pressure, indicating Sky's confidence in Dumoulin's ITT margin",
+      "PINOT Thibaut": "positive: won stage and 10-second bonus despite being weakest time trialist in top-5, aggressive gamble before final ITT",
+      "QUINTANA Nairo": "negative: needed Valverde to chase Nibali back instead of covering himself, concerning third-week legs",
+      "NIBALI Vincenzo": "positive: matched every acceleration from rivals despite attacking multiple times, exceptional recovery between efforts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:57:34.513591+00:00"
+}

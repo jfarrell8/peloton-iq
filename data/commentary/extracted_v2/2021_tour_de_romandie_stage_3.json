@@ -1,0 +1,25 @@
+{
+  "label": "2021 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2021-04-30",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "SOLAIRE Marc attacked solo on the finishing circuit loop with 26 seconds gap, holding off the peloton by 22 seconds",
+    "winner": "SOLAIRE Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KUNG Stefan double-attacked on circuit climb but cracked, showing even strong TT riders can't sustain repeated accelerations on rolling circuits.",
+      "SOLAIRE's winning move came after early breakaway was neutralized, proving post-catch counterattacks exploit peloton's momentary disorganization better than original breaks.",
+      "Movistar deployed SOLAIRE alone without team support on finishing circuits, prioritizing individual opportunism over controlled leadout on technical wet loops."
+    ],
+    "rider_signals": {
+      "SOLAIRE Marc": "positive: executed perfectly timed solo attack on circuit when peloton caught break, suggesting exceptional race-reading ability in messy conditions",
+      "KUNG Stefan": "negative: launched double attack on circuit climb but immediately cracked, showing poor form despite TT pedigree",
+      "HOEYENS Kobe": "neutral: bridged to KUNG initially but couldn't sustain, confirming limited climbing capacity even on moderate gradients",
+      "BISIG Stefan": "negative: dropped from early break on circuit climbs, indicating insufficient form for even moderate selective terrain"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:55:36.119236+00:00"
+}

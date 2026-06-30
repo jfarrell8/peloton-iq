@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Commits to extremely long-range breakaway efforts (190+ km) and willing to launch hopeless solo attacks from disintegrating break remnants inside final 5km when group cohesion fails.",
+  "team_tactics": "Team prioritizes visibility and brand exposure over result optimization, deploying rider in doomed breakaways where stage win probability is effectively zero.",
+  "terrain_preference": "Insufficient data to determine specific terrain preferences; single observation from flat/rolling Giro stage shows endurance capacity for all-day efforts.",
+  "vulnerability": "Tactical positioning in breakaways that lack winning potential; commits full energy to efforts with no realistic outcome, suggesting poor race situation assessment or team directives overriding personal chances.",
+  "key_patterns": [
+    "Willing to execute 190+ km breakaway efforts with minimal win probability for team visibility.",
+    "Launches solo attacks from collapsing breakaway groups inside final 5km despite hopeless gaps.",
+    "Team strategy prioritizes sponsor exposure over optimizing rider's actual result potential."
+  ],
+  "form_trajectory": "unknown: Single observation shows strong endurance capacity but no meaningful results data to assess competitive form trend.",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "LEYSEN Senne",
+  "built_from": [
+    "2023 Giro dItalia Stage 17",
+    "2023 Giro dItalia Stage 17"
+  ]
+}

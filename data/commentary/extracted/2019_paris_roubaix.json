@@ -1,0 +1,28 @@
+{
+  "label": "2019 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2019-04-14",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe won from a two-man breakaway, outsprinting POLITT Nils in the velodrome after LAMPAERT Yves closed to 18 seconds too late.",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT Philippe attacked early with POLITT Nils, shed domestique KREDER Wesley through sustained pressure before SAGAN arrived",
+      "VAN AERT Wout's repeated mechanical/crash setbacks after chasing solo into the winning move destroyed his contention despite courage",
+      "LAMPAERT Yves rode tempo from chasers, closing 40s to 18s once inside velodrome but missed podium timing",
+      "SAGAN Peter forced to chase from 25s deficit after OSS Daniel crash removed key support before GILBERT's move"
+    ],
+    "rider_signals": {
+      "GILBERT Philippe": "positive: won despite pundits deeming Perry-Roubaix unsuited to him, proving sustained power on cobbles trumps sprinting pedigree",
+      "POLITT Nils": "positive: matched GILBERT's pace to velodrome but lacked tactical sprint positioning experience, forced to lead high line",
+      "VAN AERT Wout": "negative: three separate bike incidents while in winning move drained reserves completely despite heroic multi-chase effort",
+      "LAMPAERT Yves": "positive: timed solo pursuit perfectly to reach velodrome 18s down, nearly stole podium from two-man break",
+      "SAGAN Peter": "negative: lost key lieutenant OSS Daniel early, then chased 25s gap solo, fight visibly gone before finale",
+      "VANMARCKE Sep": "neutral: in chase group led by KÜNG Stefan but faded from contention in final sectors"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:02:43.819761+00:00"
+}

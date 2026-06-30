@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de Romandie Stage 4",
+  "race_name": "Tour de Romandie",
+  "race_date": "2021-05-01",
+  "stage": 4,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "WOODS Michael won Stage 4 by refusing to pull THOMAS Geraint after bridging at 6km, then outsprint him at 100m while Thomas crashed post-finish.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Woods deliberately refused pulls after Thomas bridged at 6km, citing time trial disadvantage as justification for wheelsucking.",
+      "Thomas bridged to Woods at 6km despite having time trial advantage, revealing overconfidence or team pressure to gain stage time.",
+      "O'Connor shadowed the Thomas-Woods duel to capture podium seconds without expending energy in their tactical stalemate."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: executed perfect psychological ploy by verbalizing TT weakness to justify not working, then had legs to outsprint anyway",
+      "THOMAS Geraint": "negative: crashed post-finish indicating complete redlining, lost 21 seconds and yellow despite bridging successfully at 6km",
+      "PATILLI Simone": "negative: breakaway companion Cort attacked and Patilli cracked when considered countering, got absorbed by peloton on final climb",
+      "O'CONNOR Ben": "positive: finished second on stage without leading Thomas-Woods group, maximizing GC position at 21 seconds through parasitic tactics",
+      "SOLER Marc": "negative: race leader lost 33 seconds and yellow jersey, completely dropped on final climb without teammate support visible"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:55:50.745637+00:00"
+}

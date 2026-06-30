@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 14",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-04",
+  "stage": 14,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "WELLENS Tim won from a seven-rider breakaway by taking the inside line through the final left-hand corner 100m out, holding off WOODS Michael's superior speed.",
+    "winner": "WELLENS Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WELLENS pre-studied finish reconnaissance from hotel room, prioritizing last-corner positioning over raw speed advantage against faster finishers.",
+      "Breakaway formation required 60km to establish when approaching third week, indicating peloton fatigue enables elite riders to escape.",
+      "MARTIN Dan launched speculative acceleration on punchy finish despite unsuitable terrain for CARTHY Hugh, testing GC gaps opportunistically.",
+      "TERPSTRA Niki crashed in defeat zone after first KOM, confirming peloton middle is most dangerous positioning when pace drops post-climb."
+    ],
+    "rider_signals": {
+      "WELLENS Tim": "positive: demonstrated tactical maturity prioritizing corner positioning over wattage, suggests course study compensates for pure power deficits",
+      "WOODS Michael": "negative: had superior speed but lost due to poor final corner positioning, indicates tactical preparation gap",
+      "CARTHY Hugh": "negative: struggled on steep punchy finish unsuitable to his wheelhouse, confirms limited winning terrain profile",
+      "MARTIN Dan": "neutral: tested GC riders on punchy finish but lacked sufficient gap, shows opportunistic attacking instinct remains",
+      "ROGLIČ Primož": "positive: maintained 39-second gap without effort on lumpy stage, confirms GC control depth heading to final mountain test"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:42:48.972625+00:00"
+}

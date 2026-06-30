@@ -1,0 +1,28 @@
+{
+  "label": "2021 Vuelta a Espana Stage 17",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROGLIC Primoz attacked with BERNAL Egan from distance on Collada Llomena, dropped him by 1:35 on Lagos de Covadonga, teammate KUSS Sepp sprinted to second.",
+    "winner": "ROGLIC Primoz",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BERNAL Egan attacked early on Collada Llomena but lacked firepower to sustain when ROGLIC Primoz matched, revealing comparative weakness.",
+      "KUSS Sepp conserved energy sitting on chasers while leader rode away, then outsprinted GC rivals for stage bonus seconds.",
+      "IKING Odd Christian descended aggressively after being distanced to limit losses, demonstrating jersey defense without climbing legs to match.",
+      "Jumbo-Visma allowed ROGLIC to follow BERNAL's long attack rather than pacing, trusting leader's ability to respond and counter-attack."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: attacked from distance with BERNAL, then distanced him by 90+ seconds on final climb showing overwhelming superiority",
+      "BERNAL Egan": "negative: initiated early attack on Collada Llomena but faded badly on Lagos, losing 1:35 to ROGLIC reveals declining form",
+      "KUSS Sepp": "positive: tactical maturity to sit in while leader attacked, then sprint past GC contenders LOPEZ and YATES for bonus seconds",
+      "LOPEZ Miguel Angel": "neutral: chased well but lost sprint to KUSS and YATES, maintaining position without gaining ground on podium",
+      "YATES Adam": "neutral: fast finishing sprint nearly catching LOPEZ but no answer to ROGLIC's climbing acceleration earlier",
+      "IKING Odd Christian": "positive: crashed early then descended aggressively to chase, fighting to limit GC losses despite losing red jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:18:41.539677+00:00"
+}

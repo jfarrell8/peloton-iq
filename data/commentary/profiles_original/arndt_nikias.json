@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who capitalizes on GC-irrelevant status to gain freedom. Finishes with unconventional sprint tactics adapted to conditions.",
+  "team_tactics": "Insufficient data to establish clear team tactical patterns from single race observation.",
+  "terrain_preference": "Demonstrated ability to survive challenging conditions (wet roads) and execute technical sprints from reduced selections. Terrain profile unclear from limited data.",
+  "vulnerability": "Requires GC-neutral status and race situation allowing large breakaway gaps. Effectiveness in head-to-head against pure sprinters or climbers unknown.",
+  "key_patterns": [
+    "Adapts sprint technique to conditions rather than conventional methods (seated vs jumping in wet)",
+    "Succeeds from reduced breakaway selections requiring both endurance and finishing speed"
+  ],
+  "form_trajectory": "unknown: Single stage win shows capability but insufficient longitudinal data to assess trend",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ARNDT Nikias",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 8",
+    "2019 Vuelta a Espana Stage 8"
+  ]
+}

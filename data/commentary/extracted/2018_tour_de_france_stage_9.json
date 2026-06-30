@@ -1,0 +1,32 @@
+{
+  "label": "2018 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-15",
+  "stage": 9,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "DEGENKOLB John won from a 17km breakaway with VAN AVERMAET Greg and LAMPAERT Yves after attrition split the field across cobbled sectors.",
+    "winner": "DEGENKOLB John",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "STUYVEN Jasper attacked early forcing chase group energy expenditure, enabling DEGENKOLB's decisive 17km counter with VAN AVERMAET/LAMPAERT.",
+      "FROOME Chris attacked after his own crash in closing kilometers when teammates still available, revealing Sky's dual-race aggression philosophy.",
+      "Eight-rider teams proved insufficient for GC protection: BARDET repeatedly isolated after mechanicals despite teammates shuttling back multiple times.",
+      "MOVISTAR defied pre-race cobble weakness expectations with QUINTANA marking FROOME's late attack, suggesting superior equipment/recon preparation than anticipated."
+    ],
+    "rider_signals": {
+      "DEGENKOLB John": "positive: First Tour stage win post-2016 injury by attacking at 17km on cobbles, demonstrating restored top-end power on specialist terrain.",
+      "VAN AVERMAET Greg": "positive: Retained yellow and finished second after slowing for FROOME crash then chasing back, showing unusual combination of sportsmanship and resilience.",
+      "FUGLSANG Jakob": "positive: Strongest GC rider across cobbles per commentary, signals underrated pavé handling for non-Classics specialist.",
+      "URÁN Rigoberto": "negative: Lost 2:48 after crash and slow bike change with teammates unable to close gap, exposed team's cobble weakness.",
+      "BARDET Romain": "negative: Multiple punctures across 10+ cobble sectors with teammates exhausting firepower, yet limited losses suggest individual damage control skill.",
+      "FROOME Chris": "positive: Attacked in closing kilometers immediately after crashing over MOSCON's bike, revealing exceptional recovery speed and tactical opportunism.",
+      "THOMAS Geraint": "positive: Moved to virtual yellow by 55 seconds over FROOME, suggesting superior cobble positioning throughout rather than teammate protection.",
+      "QUINTANA Nairo": "positive: Marked FROOME's late attack and finished in lead group despite pre-race concerns, indicating MOVISTAR's recon work paid off.",
+      "JUNGELS Bob": "neutral: Led chase group with SAGAN but couldn't close 17km gap, confirming cobble strength insufficient without earlier positioning.",
+      "LAMPAERT Yves": "positive: Made winning 17km move despite teammate STUYVEN in earlier break, showing Quick-Step's depth allows redundant attacks."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:38:44.047927+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2023 Giro dItalia Stage 18",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-25",
+  "stage": 18,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BODZANA Filippo won from breakaway sprint in Veneto while ROGLITCH Primoz attacked final climb to take 11 seconds and jump ALMEIDA into second overall",
+    "winner": "BODZANA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "INEOS allowed 6-minute breakaway gap before valley roads then burned matches early on penultimate climb, isolating THOMAS prematurely",
+      "ROGLITCH hung conspicuously at pack rear before final climbs then attacked alone, suggesting deliberate energy conservation tactic",
+      "VINE Jay descent mistake cost ALMEIDA critical seconds in GC defense, revealing vulnerability when isolated from strong descenders",
+      "Israel Premier Tech animated race with BODZANA and GEE but couldn't convert numerical advantage into stage win"
+    ],
+    "rider_signals": {
+      "ROGLITCH Primoz": "positive: back-of-pack positioning before attacking suggests he can mask form until decisive moment, unlike obvious sufferers",
+      "THOMAS Geraint": "positive: isolated from all teammates yet conceded zero meters on final climb, defensive strength undervalued at 39 seconds back",
+      "ALMEIDA Joao": "negative: lost 11 seconds and second place despite having VINE support, suggests inability to follow explosive attacks",
+      "DUNBAR Eddie": "positive: moved up GC despite losing time, indicating others lost more, climbs well without team support",
+      "PINOT Thibaut": "negative: second consecutive breakaway sprint loss from similar position reveals pattern of final 200m weakness",
+      "HEALY Ben": "negative: went out the back immediately when attacked, blue jersey defense completely passive"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:01:43.579947+00:00"
+}

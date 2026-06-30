@@ -1,0 +1,26 @@
+{
+  "label": "2020 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2020-10-05",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CAICEDO Jonathan Klever won from the break on Etna after YATES Simon cracked 8km from the summit, losing significant time.",
+    "winner": "CAICEDO Jonathan Klever",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SCOTSON Miles worked early for YATES Simon before 20km to go, suggesting team miscalculated his form or summit difficulty.",
+      "Experienced climbers NIBALI Vincenzo, FUGLSANG Jakob, MAJKA Rafał formed cohesive chase group finishing 55s back, exposing pure climber weakness.",
+      "GANNA Filippo sacrificed GC by dropping back to pace THOMAS Geraint pre-climb, revealing Ineos prioritized Thomas over their own climbers."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "negative: crashed in neutral zone then dropped before Etna climb even started, catastrophic GC loss on opening summit finish",
+      "YATES Simon": "negative: cracked 8km from summit despite teammate SCOTSON working early, form concerns amplified by losing time to veteran group",
+      "CAICEDO Jonathan Klever": "positive: first win outside Ecuador came on major Giro summit finish from breakaway, suggests underrated climbing capacity",
+      "ALMEIDA João": "positive: took maglia rosa finishing ahead of experienced climber group, significant overperformance for young rider on Etna",
+      "GANNA Filippo": "neutral: dropped back for THOMAS domestique work, sacrificing own GC but confirming time trial specialists can't compete on summit finishes"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:26:29.925070+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Attacks on steep early gradients of long climbs (22km+ ascents), targeting the initial ramps to split groups rather than waiting for summit finishes. Prioritizes early breakaway positioning for both stage wins and KOM jersey accumulation.",
+  "team_tactics": "Operates with tactical flexibility: capable of both protected leadership (breakaway stages, KOM competition) and super-domestique role for team leaders. Trek allows dual objectives when hierarchy permits.",
+  "terrain_preference": "Steep early gradients of extended climbs where explosive power splits groups immediately. Vulnerable on sustained high-pace finals where pure climbers like Bernal/Vingegaard dominate through tempo rather than attacks.",
+  "vulnerability": "Cannot sustain accelerations of pure GC climbers on long finals at threshold pace. KOM jersey defense relies on early breakaway points rather than ability to follow late attacks on summit finishes.",
+  "key_patterns": [
+    "Attacks steep early climb sections (22km climb ramps, 2022/2021 Giro evidence)",
+    "KOM jersey strategy via breakaway accumulation, not summit-finish competition (2023 TDF, 2019 Giro)",
+    "Brief follow of elite accelerations but cannot sustain (Bernal 2021, Vingegaard 2023)",
+    "Form peaks align with Giro d'Italia timing (2019/2021/2022 appearances)",
+    "Demonstrates classics capability on Ardennes-type finishes (5th Fleche Wallonne 2023)"
+  ],
+  "form_trajectory": "positive: 2022 Giro win ended lean spell, 2023 TDF KOM defense and Fleche top-5 show sustained progression across GT and classics",
+  "races_analysed": 6,
+  "confidence": "high",
+  "rider_name": "CICCONE Giulio",
+  "built_from": [
+    "2019 Giro d'Italia Stage 8",
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 9",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 15",
+    "2023 La Fleche Wallonne",
+    "2023 Tour de France Stage 21"
+  ]
+}

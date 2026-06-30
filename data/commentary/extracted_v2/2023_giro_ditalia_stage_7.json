@@ -1,0 +1,22 @@
+{
+  "label": "2023 Giro dItalia Stage 7",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-12",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BAIS Davide won from a four-man breakaway given the stage at Campo Imperatore after the peloton showed zero interest in defending.",
+    "winner": "BAIS Davide",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "DSM completely surrendered mountain points jersey rather than chase, prioritizing maglia rosa defense over secondary classification control.",
+      "Four-man break established inside 10km on 219km mountain stage signals peloton's pre-negotiated truce before serious GC battles begin."
+    ],
+    "rider_signals": {
+      "YENNESON Andreas": "neutral: Held pink for fourth day without testing, marking time before harder summit finishes",
+      "GEOGHEGAN HART Tao": "neutral: Maintained 28-second deficit without probing, suggesting INEOS waiting for higher altitude tests"
+    },
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T18:45:30.287684+00:00"
+}

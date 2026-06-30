@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic breakaway specialist who capitalizes on scenarios where sprint teams are compromised or distracted by classification battles, rather than pure attacking power.",
+  "team_tactics": "Benefits from team tactics designed for other objectives (e.g., green jersey defense creating breakaway opportunities). Teams willing to sacrifice immediate sprint opportunities to enable his stage hunting.",
+  "terrain_preference": "Stage profiles where sprinter teams are conflicted or weakened; strong time trialist capabilities (35km TT runner-up) suggest suitability for hard, sustained efforts rather than explosive climbing.",
+  "vulnerability": "Likely struggles when pure sprinter teams are fully committed to controlling the race; requires specific race situations rather than imposing himself through dominant strength.",
+  "key_patterns": [
+    "Wins from breakaways when sprint teams are disrupted by other classification battles (2020 TdF example).",
+    "Strong time trial capabilities suggest high-wattage endurance over explosive acceleration (2nd in 35km TT).",
+    "Developed as all-rounder profile, capable of both stage wins and TT performance at Grand Tours."
+  ],
+  "form_trajectory": "positive: Progressed from promising 23-year-old TT talent (2018) to Grand Tour stage winner (2020), suggesting successful development trajectory.",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ANDERSON Søren Kragh",
+  "built_from": [
+    "2018 Tour de Suisse Stage 9",
+    "2020 Tour de France Stage 14"
+  ]
+}

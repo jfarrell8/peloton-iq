@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Explosive, ultra-late sprint attacker who launches in the final 50 meters of steep finishes, targeting stage placings and bonus seconds rather than breakaway opportunities.",
+  "team_tactics": "Appears to operate with limited dedicated lead-out support, relying on individual positioning in elite group finishes rather than orchestrated team setup.",
+  "terrain_preference": "Steep uphill finishes where punchy acceleration can create separation; struggles when stronger sprinters or GC riders can remain positioned on his wheel.",
+  "vulnerability": "Susceptible to being neutralized by wheel-sucking tactics from better-positioned or stronger finishers; late attacks can be countered by riders with superior kick.",
+  "key_patterns": [
+    "Launches attacks in final 50 meters on steep gradients (2 observations)",
+    "Targets bonus seconds and stage placings on uphill sprint finishes (2 observations)",
+    "GC contenders and sprinters successfully counter by holding his wheel (2 observations)"
+  ],
+  "form_trajectory": "unknown: both observations from Vuelta finishes show similar tactical approach but insufficient recent data to assess performance trend",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MOSS Enric",
+  "built_from": [
+    "2021 Vuelta a Espana Stage 3",
+    "2023 Vuelta a Espana Stage 18"
+  ]
+}

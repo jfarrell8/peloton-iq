@@ -1,0 +1,27 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 14",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-09-03",
+  "stage": 14,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CARAPAZ Richard bridged to Sanchez on penultimate climb, detonated the break, held off a charging Roglic group by 8 seconds after his downhill-to-flat kickaway proved sufficient.",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Jumbo-Visma set pace entire final climb for Roglic, exposing Evenepoel's weakness when team rode for GC not stage.",
+      "Carapaz bridging to Sanchez on penultimate climb detonated break, creating platform for solo stage win attempt.",
+      "Roglic attacked on final climb ramps when Evenepoel dropped, gaining 35 seconds despite not contesting stage win.",
+      "Lopez bridged to Roglic group for 6 bonus seconds, revealing podium ambitions through selective opportunism."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "negative: cracked when Jumbo-Visma set pace on final climb, required Ayuso support, lost 35 seconds to Roglic revealing vulnerability",
+      "ROGLIC Primoz": "positive: Jumbo-Visma willing to sacrifice stage win for GC time gains, attacked when Evenepoel showed weakness",
+      "CARAPAZ Richard": "positive: read penultimate climb as launch platform, timed bridge to break remnants perfectly for solo finale",
+      "MAS Enric": "positive: bridged past struggling Evenepoel independently, finished with Rodriguez showing unexpected climbing form",
+      "LOPEZ Miguel Angel": "positive: opportunistically bridged for 6 bonus seconds showing selective aggression for podium positioning",
+      "AYUSO Juan": "neutral: required bike change but recovered to support Evenepoel, showing team reliability under pressure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:12:57.781667+00:00"
+}

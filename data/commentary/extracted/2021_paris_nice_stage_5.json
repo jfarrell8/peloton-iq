@@ -1,0 +1,26 @@
+{
+  "label": "2021 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2021-03-11",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won a headwind-controlled sprint stage after GILBERT Philippe triggered a failed echelon split at 66km to go on slight crosswind.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GILBERT Philippe initiated echelon attack 66km out on marginal crosswind that required NARSEN Oliver, STUYVEN Jasper presence to legitimize.",
+      "SCHACHMANN Maximilian hunted intermediate sprint bonus seconds at Vion to claw back time on ROGLIČ Primož yellow jersey.",
+      "MØRKØV Michael leadout allowed BENNETT to jump from unsustainably high pace that left rivals BOUHANNI, ACKERMANN sprinting from standstill."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Won by accelerating from already-maximal leadout pace, demonstrating superior power sustainability in long sprint.",
+      "GILBERT Philippe": "neutral: Read marginal crosswind correctly but lacked team depth to sustain echelon split 66km from finish.",
+      "SCHACHMANN Maximilian": "positive: Actively hunting bonus seconds at intermediate sprints reveals GC ambition despite 31-second deficit.",
+      "BOUHANNI Nacer": "positive: Second place confirms resurgent sprint form despite being gapped by BENNETT's initial acceleration.",
+      "MARTIN Tony": "negative: Crashed out after hitting road furniture, eliminating DECEUNINCK leadout option for remaining stages."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:03:23.420801+00:00"
+}

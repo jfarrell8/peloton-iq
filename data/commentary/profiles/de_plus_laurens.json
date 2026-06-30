@@ -1,20 +1,35 @@
 {
-  "attacking_style": "Not an attacker — pure high-tempo domestique who sets sustained, ferocious pace on climbs and punchy terrain to control race for teammates.",
-  "team_tactics": "Deployed early in critical climbs to set prolonged, peloton-shredding pace that establishes team control before protected riders attack. Extended efforts of 20+ km typical.",
-  "terrain_preference": "Excels on sustained climbs and punchy non-categorized drags where prolonged tempo work fragments the peloton. Mountain domestique role suits best.",
-  "vulnerability": "Empties completely after extended efforts (5-6km before finish), leaving no capacity for late positioning or personal results. Pure sacrifice role.",
+  "attacking_style": "Initiates repeated attacks on climbs to fragment groups rather than solo for stage wins. In 2019 BinckBank Tour, used climb-based fragmentation combined with bonus second hunting to win GC without winning stages.",
+  "team_tactics": "Elite domestique for GC leaders, setting infernal tempo on climbs to thin peloton (Romandie 2022) or control groups (Giro 2023). Trusted with high-pressure pacing when isolating rival leaders.",
+  "terrain_preference": "Rolling terrain with repeated short climbs where sustained tempo-setting sheds weaker riders but keeps GC contenders engaged. Climbing punch exceeds expectations but lacks finishing speed.",
+  "vulnerability": "Crash-prone on technical descents (2017 Lombardia, 2023 Vuelta). Recovery from breakaway efforts in Grand Tours costly—abandoned Giro 2019 day after hard break. Cannot sustain solo efforts when initiating too early on climbs.",
   "key_patterns": [
-    "Sets exceptionally long pace efforts: 28km+ documented, well beyond typical domestique range.",
-    "Deployed on both categorized climbs and punchy uncategorized terrain to shred pelotons.",
-    "Ineos/team depth weapon: used to establish control before protected riders make moves.",
-    "Completely empties tank after extended work, no residual capacity for finale positioning."
+    "Sets tempo on climbs to fragment peloton for team objectives, not personal glory (Romandie 2022, Giro 2023)",
+    "Repeatedly attacks climbs to create splits rather than single decisive move (BinckBank 2019, Oman 2017)",
+    "Uses bonus seconds tactically when lacking stage-winning speed—7 seconds across sprints won BinckBank GC",
+    "Abandonment risk in Grand Tours after hard breakaway efforts, recovery issues documented (Giro 2019)",
+    "Crash vulnerability on technical descents removes him from competition (Lombardia 2017, Vuelta 2023)"
   ],
-  "form_trajectory": "neutral: Both observations show identical high-level domestique role across 3-year span, no evolution apparent",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: Strong domestique work for Ineos in 2022-2023, but Vuelta crash exposure limits assessment. Peak as aggressive GC rider was 2019.",
+  "races_analysed": 11,
+  "confidence": "high",
   "rider_name": "DE PLUS Laurens",
   "built_from": [
-    "2019 Tour de France Stage 20",
-    "2022 Tour de Romandie Stage 2"
+    "2017 Il Lombardia",
+    "2017 Tour of Oman Stage 3",
+    "2017 Tour of Oman Stage 3",
+    "2017 Tour of Oman Stage 4",
+    "2018 Tour de Pologne Stage 4",
+    "2019 BinckBank Tour Stage 4",
+    "2019 BinckBank Tour Stage 4",
+    "2019 BinckBank Tour Stage 7",
+    "2019 BinckBank Tour Stage 7",
+    "2019 Giro d'Italia Stage 7",
+    "2019 Giro d'Italia Stage 7",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 2",
+    "2022 Tour de Romandie Stage 2",
+    "2023 Giro d'Italia Stage 4",
+    "2023 La Vuelta Ciclista a Espana Stage 1"
   ]
 }

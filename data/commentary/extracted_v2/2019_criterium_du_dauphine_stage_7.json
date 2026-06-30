@@ -1,0 +1,30 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 7",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-15",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "WELLENS Wout attacked inside final kilometer from yellow jersey group to win stage while FUGLSANG Jakob took second place and race lead via time bonuses.",
+    "winner": "WELLENS Wout",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LUTSENKO/WOODS long-range raid forced ASTANA to defend with multiple riders, softening FUGLSANG's GC rivals before final climb attack.",
+      "FUGLSANG attacked 10km out on final climb in big gear maintaining tempo rather than explosive acceleration style.",
+      "BUCHMANN attack with 2km remaining caused decisive selection before FUGLSANG's move, MITCHELTON-SCOTT initially unconcerned but lost yellow.",
+      "WELLENS held wheels in GC group final kilometer then attacked inside 370m, taking stage while FUGLSANG secured GC via bonus seconds."
+    ],
+    "rider_signals": {
+      "FUGLSANG Jakob": "positive: rode entire final climb in big gear with grinding power style, gained yellow despite not winning stage",
+      "YATES Adam": "negative: could grind back to attacks but lacked explosive pop, lost jersey by not covering FUGLSANG's initial move at 10km",
+      "LUTSENKO Alexey": "positive: spent entire stage in breakaway groups then continued helping FUGLSANG after being caught, exceptional domestique work",
+      "WOODS Michael": "neutral: committed to long-range raid with LUTSENKO but appeared to have descent problem, rejoined but faded",
+      "WELLENS Wout": "positive: timed final kilometer attack perfectly from GC group while others focused on time gaps, opportunistic stage hunting",
+      "PINOT Thibaut": "negative: attacked but immediately marked by YATES, sitting forward on saddle suggests difficulty on steepest sections",
+      "MARTIN Dan": "negative: tried accelerating at 1km but couldn't distance GC group, positioned at 1'13 down suggests climbing weakness",
+      "ALAPHILIPPE Julian": "negative: in early breakaway for KOM points but legs gone on penultimate climb, abandoned breakaway effort early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:47:03.151371+00:00"
+}

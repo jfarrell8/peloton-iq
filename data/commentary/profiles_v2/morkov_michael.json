@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Not an attacker. Elite leadout specialist who delivers sprinters in final 100-200m with precise timing, regardless of positioning disadvantage earlier in finale.",
+  "team_tactics": "Functions as final pilot in sprint trains across multiple teams (Deceuninck, UAE). Can execute textbook leadouts even without traditional train depth, using veteran positioning to compensate for team strength deficits.",
+  "terrain_preference": "Flat sprint stages where final 500m positioning and timing are decisive. Thrives in technical finales requiring navigation from suboptimal positions to perfect delivery inside 200m.",
+  "vulnerability": "Not a GC or breakaway rider. Limited value on mountain stages or reduced bunch sprints. Effectiveness depends entirely on having a sprinter to deliver.",
+  "key_patterns": [
+    "Delivers sprinters perfectly inside 200m with superior timing across multiple teams (4 observations)",
+    "Compensates for weak sprint train infrastructure through veteran positioning skills (3 observations)",
+    "Executes textbook leadouts from disadvantaged positions deeper in peloton (2 observations)",
+    "Functions effectively as lone leadout when team lacks traditional train depth (2 observations)"
+  ],
+  "form_trajectory": "positive: Consistent elite-level leadout execution from 2018-2021 across teams, with 2021 Benelux showing continued dominance delivering Bennett twice",
+  "races_analysed": 5,
+  "confidence": "high",
+  "rider_name": "MORKOV Michael",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 3",
+    "2020 Tour de France Stage 10",
+    "2020 Vuelta a Espana Stage 15",
+    "2020 Vuelta a Espana Stage 9",
+    "2021 Benelux Tour Stage 6"
+  ]
+}

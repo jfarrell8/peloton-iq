@@ -1,0 +1,37 @@
+{
+  "attacking_style": "Attacks from breakaways on final classified climbs 35-45km out, but finishes races on descents and flat finales rather than summit finishes. Shows patience to track moves rather than initiate early.",
+  "team_tactics": "UAE provides limited domestique support in steep finales, forcing solo efforts. Functions as stage hunter from breaks rather than protected GC leader, though 2023 signals internal hierarchy shift over Yates.",
+  "terrain_preference": "Climbing time trials and lumpy technical courses suit best. Descending is stronger weapon than pure climbing. Exposed on summit finishes requiring sustained steep gradient efforts and vulnerable in echelon/wind splits.",
+  "vulnerability": "Positioning deficiencies in bunch racing lead to losses in crashes and wind splits during transitional stages. Cannot sustain attacks on steep gradients without team support. White jersey/GC pressure increases crash risk.",
+  "key_patterns": [
+    "Time trial specialist among climbers: beat Vingegaard at intermediate, only 6s slower than Ganna (2 observations)",
+    "Descending closes gaps climbing opens: caught Healy descending twice for stage wins (2 observations)",
+    "Positional weakness costs GC: lost time in echelons and crashes on transitional stages (3 observations)",
+    "Breakaway finisher not peloton sprinter: wins from small groups 35-45km out, not bunch kicks (3 observations)",
+    "Matured from GC prospect to stage hunter: abandoned white jersey defense, now targets opportunistic wins (4 observations)"
+  ],
+  "form_trajectory": "positive: progression from crash abandons (2021) to first Grand Tour stage win (2023) shows maturation. UAE hierarchy shift over Yates signals confidence growth and tactical intelligence improvement.",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "MCNULTY Brandon",
+  "built_from": [
+    "2020 Giro d'Italia Stage 10",
+    "2020 Giro d'Italia Stage 14",
+    "2020 Giro d'Italia Stage 14",
+    "2021 Criterium du Dauphine Stage 3",
+    "2021 Criterium du Dauphine Stage 4",
+    "2021 Criterium du Dauphine Stage 4",
+    "2021 Paris-Nice Stage 6",
+    "2022 Paris-Nice Stage 2",
+    "2022 Paris-Nice Stage 5",
+    "2022 Paris-Nice Stage 5",
+    "2022 Tour de Romandie Stage 1",
+    "2022 Tour de Romandie Stage 1",
+    "2023 Giro d'Italia Stage 15",
+    "2023 Giro d'Italia Stage 15",
+    "2023 Giro d'Italia Stage 2",
+    "2023 Giro dItalia Stage 15",
+    "2023 Giro dItalia Stage 15",
+    "2023 Tirreno-Adriatico Stage 1"
+  ]
+}

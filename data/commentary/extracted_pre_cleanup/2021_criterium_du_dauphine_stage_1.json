@@ -1,0 +1,31 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 1",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-05-30",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN MOER escaped from a three-man breakaway inside final 12km after teammates GAMPER and GAUTIER softened pursuit, holding off COLBRELLI's charging peloton by seconds.",
+    "winner": "VAN MOER Brent",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain exhausted chasing mid-distance for COLBRELLI sprint, lacked firepower to close final gap despite clear fastest sprinter",
+      "VAN MOER prioritized KOM points all day, pivoted to stage win only inside 12km when breakaway companions faltered",
+      "UAE rode for KRISTOFF who was dropped on finale climbs, MCNULTY mechanicaled, complete strategic failure for sprint option",
+      "Movistar positioning LÓPEZ with full team despite typical three-leader dysfunction concerns heading into mountain stages"
+    ],
+    "rider_signals": {
+      "VAN MOER Brent": "positive: won from break after dominating all KOM points, tactical pivot inside 12km suggests strong racing instinct",
+      "COLBRELLI Sonny": "neutral: dominated field sprint by margin but Bahrain team calculation error left him battling for second only",
+      "KRISTOFF Alexander": "negative: dropped on category 3/4 finale climbs, UAE's sprint option completely eliminated before real mountains",
+      "JAKOBSEN Fabio": "negative: mentioned in trouble early on minor climbs, sprint form absent or climbing weakness exposed",
+      "PEDERSEN Mads": "negative: cited in trouble early alongside JAKOBSEN, concerning for versatile classics rider on modest gradients",
+      "GAMPER Patrick": "neutral: stayed in break until late but surrendered, VAN MOER's escape suggests GAMPER cracked first",
+      "GAUTIER Cyril": "neutral: abandoned break with GAMPER inside 12km, likely regretting cooperative error that cost stage chance",
+      "MCNULTY Brandon": "negative: mechanical at critical juncture supporting KRISTOFF, UAE sprint plan collapsed completely",
+      "FROOME Chris": "neutral: commentary notes season form deficit, pressure mounting to prove leadership credentials for Tour selection"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:47:46.619040+00:00"
+}

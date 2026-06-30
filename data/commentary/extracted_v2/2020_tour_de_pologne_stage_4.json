@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de Pologne Stage 4",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-08",
+  "stage": 4,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "BALLERINI David won the Krakow sprint from the blue-and-white position after CAVENDISH unclipped with 1km to go, while EVENEPOEL Remco sealed GC with a 50km solo attack on Stage 4",
+    "winner": "BALLERINI David",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL's 50km Stage 4 attack created 1:52 GC gap, revealing willingness to gamble massively early in week-long races.",
+      "Trek-Segafredo worked hardest to close break despite ACKERMANN riding for Bora-Hansgrohe, suggesting internal sprint hierarchy confusion.",
+      "BALLERINI launched from blue-white position after STUYVEN opened sprint as classics rider, exploiting non-pure-sprinter leadout fatigue."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: Four stage race starts yielding four GC wins including first World Tour stage race shows abnormal conversion rate",
+      "CAVENDISH Mark": "negative: Mechanical foot-pedal issue at 1km negates positioning work, suggests equipment reliability concerns ending comeback attempt",
+      "ACKERMANN Pascal": "neutral: Led out to perfection but beaten by BALLERINI despite Giro points jersey form, revealing possible fatigue",
+      "STUYVEN Jasper": "negative: Classics specialist opening sprint for Trek indicates ACKERMANN leadout void and team desperation for stage win",
+      "BALLERINI David": "positive: First World Tour win via late positional patience shows development beyond Deceuninck support role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:27:38.527601+00:00"
+}

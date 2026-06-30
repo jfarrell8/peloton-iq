@@ -1,0 +1,29 @@
+{
+  "label": "2018 Tour de Romandie Stage 3",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-27",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "PORTE Richie won the time trial, but ROGLIČ Primož retained yellow by 6 seconds over BERNAL Egan after THOMAS Geraint sacrificed GC for teammate.",
+    "winner": "PORTE Richie",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "THOMAS Geraint rode domestique duties for BERNAL Egan despite being GC favorite, finishing 25th and surrendering overall contention early",
+      "KRUIJSWIJK Steven lost half-minute struggling bike handling in final 50m, revealing TT weakness on technical finish straight",
+      "PORTE Richie demonstrated post-injury form recovery with stage win but started 27 seconds down, indicating prior conservative positioning"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: held yellow jersey by only 6 seconds after strong TT, showing early-season GC form durability",
+      "BERNAL Egan": "positive: moved to 2nd overall 6 seconds down with THOMAS sacrificing for him, revealing Sky/Ineos succession plan",
+      "PORTE Richie": "positive: won stage by 30+ seconds margin after injury struggles, signaling return to elite TT form",
+      "THOMAS Geraint": "negative: deliberately rode tempo for BERNAL despite being listed GC favorite, dropped to 25th overall",
+      "KRUIJSWIJK Steven": "negative: lost 30+ seconds fighting bike handling in final 50m, exposing technical weakness under pressure",
+      "MARTIN Dan": "positive: strong TT performance after poor season start, indicating form turning corner mid-race week",
+      "ŠPILAK Simon": "positive: set fast early benchmark 15 seconds up on MARTIN, confirming TT strength on home roads",
+      "DENNIS Rohan": "neutral: finished 6th place, lost yellow jersey but remained within striking distance"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:40:30.540101+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Criterium du Dauphine",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2018-01-01",
+  "stage": 0,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michal won the 6.6km Valence prologue by 1.66 seconds over van Emden, exploiting Sky's multi-leader ambiguity while Thomas crashed.",
+    "winner": "KWIATKOWSKI Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Sky entered with Thomas as designated leader but Kwiatkowski's prologue win creates deliberate leadership ambiguity for mountain stages.",
+      "GC favorites Bardet and Nibali lost 50+ seconds in 6.6km prologue, signaling poor preparation one month pre-Tour.",
+      "Van Emden's 7:26 benchmark eliminated major climbers early, proving even short flat prologues expose Tour preparation deficits."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "positive: Won after 40-day racing hiatus, suggesting Sky's delayed race calendar optimizes Tour form over early-season racing.",
+      "THOMAS Geraint": "negative: Crashed midway through 6.6km prologue, losing 21 seconds, indicating either recon failure or physical vulnerability pre-peak.",
+      "BARDET Romain": "negative: Lost 50+ seconds in flat prologue despite two consecutive Tour podiums, revealing time trial weakness persists.",
+      "NIBALI Vincenzo": "negative: Finished ~50th at +50 seconds after three-year Dauphiné absence, suggesting race unfamiliarity compromises even proven champions.",
+      "VAN EMDEN Jos": "positive: Set early benchmark 7:26 that eliminated multiple GC contenders, proving Lotto's TT specialists undervalued in stage race prologues.",
+      "YATES Adam": "neutral: Lost 21 seconds but matched Thomas's deficit, confirming expected TT limitations without collapse."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:17:11.459354+00:00"
+}

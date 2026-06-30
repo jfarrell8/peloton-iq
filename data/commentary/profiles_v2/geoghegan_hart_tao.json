@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Rarely initiates attacks; prefers to follow wheels and respond to moves on mountain stages, showing patience to finish from select groups rather than solo efforts.",
+  "team_tactics": "Relies heavily on domestique positioning and tempo support; exposed when team cannot control positioning or protect through technical sections. Benefits from Ineos train when available but vulnerable without it.",
+  "terrain_preference": "Pure climbing stages with steep gradients (2km+ climbs) where sustained power excels; struggles on rolling terrain requiring repeated accelerations and exposed on technical descents and flat positioning battles.",
+  "vulnerability": "Poor positioning awareness in peloton—dropped positions twice due to crashes/splits (3.7km crash, 4th to 8th GC). Wet descents pose crash risk. Lacks decisive punch to follow explosive attacks.",
+  "key_patterns": [
+    "Superior climbing splits but slower on flats—selective power allocation favoring sustained climbs (3 observations)",
+    "Positioning errors cost GC places: caught behind crashes, lost 4 positions on 'easy' stage (3 observations)",
+    "Follow-wheels tactical approach: waits for others to attack, then responds from group (4 observations)",
+    "Time-bonus hunting awareness when in GC contention shows tactical maturity (2 observations)",
+    "Crash exits from promising GC positions expose fragility in three-week races (2 Grand Tours)"
+  ],
+  "form_trajectory": "negative: 2023 Giro showed strong climbing form (fastest splits) but crash exit and earlier positioning losses suggest declining race craft and team support compared to 2020 win",
+  "races_analysed": 14,
+  "confidence": "high",
+  "rider_name": "GEOGHEGAN HART Tao",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 16",
+    "2020 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 15",
+    "2020 Giro d'Italia Stage 18",
+    "2020 Giro d'Italia Stage 19",
+    "2022 Tirreno-Adriatico Stage 1",
+    "2022 Tirreno-Adriatico Stage 3",
+    "2023 Giro d'Italia Stage 1",
+    "2023 Giro d'Italia Stage 11",
+    "2023 Giro d'Italia Stage 2",
+    "2023 Giro dItalia Stage 1",
+    "2023 Giro dItalia Stage 11",
+    "2023 Giro dItalia Stage 2",
+    "2023 Tirreno-Adriatico Stage 4",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

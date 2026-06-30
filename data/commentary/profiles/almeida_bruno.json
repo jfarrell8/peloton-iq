@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking patterns. Limited observations show reactive rather than proactive racing as GC contender.",
+  "team_tactics": "Insufficient data on team support patterns. Observations focus on individual defensive positioning rather than team-led offensive tactics.",
+  "terrain_preference": "Insufficient data to determine specific terrain strengths. Weakness exposed on selective stages under sustained tempo pressure.",
+  "vulnerability": "Struggles when opponents' teams set sustained tempo on selective terrain. Defensive fragility as GC leader when absorbing pressure from stronger teams.",
+  "key_patterns": [
+    "Vulnerable to organized team tempo tactics, losing 30+ seconds when rivals control pace",
+    "Defensive racing posture under pressure rather than counterattacking when challenged",
+    "First-time GC leadership experience shows gap versus established Grand Tour contenders"
+  ],
+  "form_trajectory": "negative: showed defensive weakness and time losses when facing sustained team-driven pressure from stronger GC rivals",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "ALMEIDA Bruno",
+  "built_from": [
+    "2023 Giro d'Italia Stage 15",
+    "2023 Giro d'Italia Stage 15"
+  ]
+}

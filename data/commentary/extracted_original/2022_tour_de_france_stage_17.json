@@ -1,0 +1,27 @@
+{
+  "label": "2022 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-20",
+  "stage": 17,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR won Stage 17 to Peyragudes with multiple late attacks, gaining only 4 seconds on VINGEGAARD despite UAE's all-day effort with McNulty pacing.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "McNulty's extended pacing through final 30km failed to crack Vingegaard despite UAE numerical disadvantage with only three domestics.",
+      "Pogacar's repeated attacks on penultimate climb summit and final 5km gained zero time, signaling defensive stalemate tactics.",
+      "Jumbo-Visma isolated Vingegaard early but his lone defense matched UAE's coordinated assault, revealing superform sustainability."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: absorbed multiple Pogacar attacks while isolated, maintaining GC gap at 2:18 without team support",
+      "THOMAS Geraint": "positive: rode independently on final climb to secure podium buffer at 4:56, increasing gap to Quintana",
+      "MCNULTY Brandon": "positive: executed extended domestique shift through 30km despite UAE being down to three riders",
+      "YATES Adam": "negative: dropped early on first Pyrenean stage, exposing Ineos weakness before final climbs",
+      "PIDCOCK Tom": "negative: dropped by 30km mark on major mountain stage, revealing grand tour climbing limitations",
+      "GAUDU David": "positive: secured first-ever top-10 position, moving into fifth overall through consistent climbing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:51:26.560348+00:00"
+}

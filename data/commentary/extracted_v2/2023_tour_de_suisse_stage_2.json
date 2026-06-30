@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de Suisse Stage 2",
+  "race_name": "Tour de Suisse",
+  "race_date": "2023-06-12",
+  "stage": 2,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GIRMAY Biniam won the sprint after Jumbo-Visma paced the final climb, taking bonus seconds while KÜNG retained yellow before mountain stages.",
+    "winner": "GIRMAY Biniam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma controlled final classified climb despite having no sprinter, revealing GC defense strategy rather than sprint setup.",
+      "Breakaway ZUKOWSKI prioritized KOM points over stage win, collecting points on all three climbs for jersey calculation.",
+      "EVENEPOEL contested tiso kilometer bonus seconds despite flat sprint stage, signaling early GC time-gathering aggression.",
+      "BALDE (DSM) leadout work 300m from line indicates team prioritized positioning over power for sprint delivery."
+    ],
+    "rider_signals": {
+      "GIRMAY Biniam": "positive: First win since February crash during classics shows form recovery timing perfectly for Tour debut sprint stages.",
+      "VAN AERT Wout": "neutral: Third place suggests decent form but losing sprint to Girmay may indicate incomplete recovery or tactics.",
+      "EVENEPOEL Remco": "positive: Actively hunting tiso kilometer bonus seconds on flat stage reveals opportunistic time-gathering approach before mountains.",
+      "SAGAN Peter": "neutral: Fifth after altitude block on final Tour de Suisse suggests reasonable sharpness but not peak sprint form.",
+      "KÜNG Stefan": "neutral: TT winner defending yellow passively before mountains suggests team knows lead temporary, conserving energy."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:01:19.629216+00:00"
+}

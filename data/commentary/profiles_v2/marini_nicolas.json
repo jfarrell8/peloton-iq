@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Primarily a bunch sprinter who can finish explosively in final meters, not a traditional attacker. Capable of taking stage wins from reduced sprints rather than solo moves.",
+  "team_tactics": "Appears to operate with limited team support given contract-hunting status. Relies on individual positioning and sprint timing rather than lead-out trains. Uses GC positioning opportunistically without dedicated team protection.",
+  "terrain_preference": "Excels in bunch sprint finishes and wet/technical conditions. Can handle short stage races with moderate GC demands. Struggles to convert sprint speed into outright victories against top-tier sprinters.",
+  "vulnerability": "Lacks the ultimate top-end speed to consistently beat elite sprinters like Maricka—repeatedly finishes 2nd-3rd. GC ambitions appear secondary when stage opportunities arise, suggesting limited climbing strength for mountain stages.",
+  "key_patterns": [
+    "Consistently places 2nd-3rd in sprints across multiple stage races (Tour de Suisse, Tour de Pologne)",
+    "Performs under contract pressure, converting desperation into wins in 2017 (Romandie, Tour de Suisse Stage 1)",
+    "Maintains GC positions within 20 seconds without prioritizing overall classification over stage hunting",
+    "Wins from reduced bunch sprints rather than mass field gallops, suggesting positioning over pure speed",
+    "Can perform post-injury or below peak condition, showing resilience and opportunism"
+  ],
+  "form_trajectory": "neutral: Mid-2017 shows consistent placement ability but stagnation at runner-up positions. Early wins demonstrate capability but inability to repeat against top sprinters suggests plateau rather than progression.",
+  "races_analysed": 6,
+  "confidence": "medium",
+  "rider_name": "MARINI Nicolas",
+  "built_from": [
+    "2017 Tour de Pologne Stage 3",
+    "2017 Tour de Pologne Stage 6",
+    "2017 Tour de Romandie Stage 1",
+    "2017 Tour de Romandie Stage 1",
+    "2017 Tour de Romandie Stage 3",
+    "2017 Tour de Suisse Stage 3",
+    "2017 Tour de Suisse Stage 6"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Commits to long-range breakaways spanning multiple days, prioritizing classification points over stage wins. Lacks selectivity in break composition, often ending in low-reward efforts despite high energy expenditure.",
+  "team_tactics": "Team deploys rider for extended TV exposure through breakaway participation, accumulating 800km+ breaks across multi-stage periods. Classification hunting appears secondary to sponsor visibility objectives.",
+  "terrain_preference": "Mountainous stages where KOM points are available. Capable of sustaining multi-day breakaway efforts but lacks punch for stage victories from these moves.",
+  "vulnerability": "Weak break selection judgment leads to low-percentage efforts. Unable to convert KOM jersey opportunities into meaningful points hauls, suggesting poor tactical reading of competition dynamics.",
+  "key_patterns": [
+    "Participates in extremely long breakaways (800km accumulated) prioritizing visibility over results (2 observations)",
+    "Targets KOM classification from breaks but achieves minimal points return despite high effort investment (2 observations)",
+    "Multi-day breakaway commitment pattern suggests team directive rather than rider-initiated tactics (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent breakaway role across 2018-2019 Giro appearances suggests stable domestique function rather than developing threat",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "FRAPPORTI Marco",
+  "built_from": [
+    "2018 Giro d'Italia Stage 3",
+    "2019 Giro d'Italia Stage 11"
+  ]
+}

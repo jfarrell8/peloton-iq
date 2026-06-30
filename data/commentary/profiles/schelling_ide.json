@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Not an attacker - pure leadout specialist who works in final kilometers to set up team sprinters, particularly in reduced bunch scenarios after selective stages.",
+  "team_tactics": "Operates as final leadout man in sprint train, capable of initiating winning sequences. Teams deploy him for pacing work earlier in stages, sometimes at cost of own sprint result.",
+  "terrain_preference": "Selective stages that reduce peloton but still produce sprint finishes. Can survive challenging terrain while retaining enough to deliver leadout efforts. Pure sprint stages less clear.",
+  "vulnerability": "Teams struggle to optimize his dual utility - strong enough to place top-10 without leadout support, but often committed to domestique duties that compromise personal result. Route selection critical.",
+  "key_patterns": [
+    "Demonstrates leadout specialist role across teams (Bora-Hansgrohe, Alpecin), initiating winning sprint trains (2 observations)",
+    "Capable of top-10 finishes (4th, 7th) when riding for self after team duties (2 observations)",
+    "Extended pacing work earlier in stages, suggesting tactical misallocation of strong finishing ability (2 observations)",
+    "Performs in Catalunya's selective terrain repeatedly, indicating diesel engine resilience over multiple days (3 observations)"
+  ],
+  "form_trajectory": "neutral: Recent 2023 observations show consistent role execution but team tactical confusion about whether to use him as leadout or contender",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "SCHELLING Ide",
+  "built_from": [
+    "2021 Volta Ciclista a Catalunya Stage 1",
+    "2023 Volta Ciclista a Catalunya Stage 4",
+    "2023 Volta Ciclista a Catalunya Stage 6"
+  ]
+}

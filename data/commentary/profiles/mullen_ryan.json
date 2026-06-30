@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Not an attacker; primarily operates as leadout train component in sprint finishes. Breakaway appearances appear tactical misuse rather than deliberate strategy.",
+  "team_tactics": "Bora-hansgrohe deploys him as penultimate leadout man, executing critical positioning phase before final launcher engages. Late-engaging sprint train architecture.",
+  "terrain_preference": "Flat sprint stages where time trial power translates to high-speed leadout work. Exposed in breakaways requiring tactical racing instincts.",
+  "vulnerability": "Lacks ability to contribute meaningfully in breakaway scenarios despite TT engine. Misused when deployed outside structured sprint train role.",
+  "key_patterns": [
+    "Functions as penultimate leadout positioning specialist in sprint train, not final launcher.",
+    "Time trial power base utilized for sustained high-speed leadout work in flat finales.",
+    "Ineffective when deployed in breakaway scenarios requiring tactical racing beyond pure power."
+  ],
+  "form_trajectory": "positive: Evolution from misused breakaway rider (2020) to defined, effective leadout role (2023)",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MULLEN Ryan",
+  "built_from": [
+    "2020 Paris - Nice Stage 5",
+    "2023 Criterium du Dauphine Stage 3"
+  ]
+}

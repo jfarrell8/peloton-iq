@@ -1,0 +1,24 @@
+{
+  "label": "2022 Tour de France Stage 19",
+  "race_name": "Tour de France",
+  "race_date": "2022-07-22",
+  "stage": 19,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "LAPORTE Christophe bridged to a late breakaway at 1.4km, refused to work, then outsprint the cooperating riders for France's first stage win in 38 stages.",
+    "winner": "LAPORTE Christophe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "LAPORTE bridged at 1.4km without pulling through, exploiting LUTSENKO/PHILIPSEN/WRIGHT cooperation to steal victory via selective non-work.",
+      "Quick-Step exhausted chasing with CATTANEO last to quit, proving domestiques' depth limitations in crosswind-threatened flat stages.",
+      "POGACAR attacked 35km out despite 3:26 deficit showing continued aggression signals even when mathematically eliminated from GC."
+    ],
+    "rider_signals": {
+      "LAPORTE Christophe": "positive: executed perfect late-bridge non-cooperation tactic, saving energy while others worked, revealing elite tactical judgment in chaotic finales",
+      "POGACAR Tadej": "neutral: attacking 35km out when down 3:26 shows either poor race calculation or team directive to maintain aggressive image",
+      "CATTANEO Mattia": "negative: Quick-Step's last domestique abandoned chase proving team lacked depth to control crosswind-threatened sprint stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:51:51.954110+00:00"
+}

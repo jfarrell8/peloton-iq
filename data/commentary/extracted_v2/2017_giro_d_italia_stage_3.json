@@ -1,0 +1,24 @@
+{
+  "label": "2017 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-07",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won Stage 3 sprint after Quick-Step exploited crosswinds 5-8km out to create gaps, with Ewan's Orica-BikeExchange leading too early into headwind.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step forced splits at 5-8km during crosswind section before right turn, creating time gaps despite headwind finish.",
+      "Teams chose shallow-rim wheels yet still struggled with bike handling, indicating unusually severe crosswind conditions compromised positioning.",
+      "Lead-out teams caught in timing dilemma: headwind finish required late sprint but crosswind section forced early positioning commitment."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "negative: Orica-BikeExchange positioned perfectly on left to shield from right crosswinds but opened sprint too early into headwind, losing to later kick",
+      "HAAS Nathan": "neutral: attacked 400m out into headwind, immediately marked by Richeze showing limited surprise potential in these wind conditions",
+      "GAVIRIA Fernando": "positive: Quick-Step team tactics created time gaps on exposed coastal sections, Gaviria positioned late enough to overcome headwind deficit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:57:55.903429+00:00"
+}

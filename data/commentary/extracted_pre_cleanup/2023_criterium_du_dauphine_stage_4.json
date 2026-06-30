@@ -1,0 +1,34 @@
+{
+  "label": "2023 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2023-06-07",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BJERG Mikkel claimed first pro victory in 31km rolling ITT, beating VINGEGAARD Jonas by 12 seconds despite trailing 12 seconds at first checkpoint.",
+    "winner": "BJERG Mikkel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BJERG overturned 12-second deficit to VINGEGAARD after first checkpoint, suggesting superior pacing strategy on climbing/technical sectors.",
+      "CAVAGNA Rémi rode unsustainably fast early split at 49kph average, ultimately fading to third after leading at intermediate.",
+      "YATES Adam matched CAVAGNA's early pace but UAE pacing protocol proved superior to relying on personal power meter targets.",
+      "MAS Enric already hemorrhaged 30 seconds by first checkpoint, confirming TT weakness eliminates him from GC before mountain stages."
+    ],
+    "rider_signals": {
+      "BJERG Mikkel": "positive: First pro win shows UAE domestique has elite TT capability when given freedom, negative pacing discipline beats raw power",
+      "VINGEGAARD Jonas": "neutral: Second place confirms TT strength but inability to beat teammate-level rider suggests vulnerability if Pogacar were present",
+      "O'CONNOR Ben": "positive: Fifth on stage and third overall demonstrates 2022 Tour form returning, TT no longer major weakness",
+      "YATES Adam": "positive: Only one second down at first split shows improved TT form, final placing suggests endurance not power issue",
+      "MAS Enric": "negative: Losing 2.5 minutes eliminates GC threat before mountains, confirming TT remains career-limiting weakness",
+      "CAVAGNA Rémi": "neutral: Leading early split at 49kph unsustainable, revealing overconfidence when setting tempo without rivals visible",
+      "GAUDU David": "negative: Dropped over two minutes confirms individual TT remains critical gap despite team's climbing strength",
+      "MARTÍNEZ Daniel Felipe": "neutral: Colombian ITT champion losing 40 seconds to CAVAGNA suggests form not matching palmares expectations",
+      "HERREGODTS Rune": "positive: Top 10 finish achieves stated goal despite recent crash, showing TT as genuine strength not just climbing",
+      "HINDLEY Jai": "neutral: Finishing with main GC group but no standout performance suggests TT parity not advantage over rivals",
+      "LAPORTE Christophe": "negative: Yellow jersey holder finished 21st at 1:50, losing lead confirms classics specialist cannot defend in stage races with TTs",
+      "WRIGHT Fred": "positive: Fourth on stage and second in young rider classification reveals emerging TT capability beyond breakaway specialist reputation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:59:23.157462+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2021 La Vuelta ciclista a Espana Stage 18",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2021-09-02",
+  "stage": 18,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "LOPEZ Miguel Angel attacked solo from reduced GC group on final climb Gamonitero, gaining 46 seconds on podium rivals while ROGLIC marked BERNAL.",
+    "winner": "LOPEZ Miguel Angel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "STORER attacked 70km out on penultimate climb, forcing rivals to waste energy before folding on final ascent.",
+      "DE LA CRUZ attacked from peloton after MICA paced him, specifically targeting top-10 GC jump from 13th position.",
+      "BERNAL attacked first on Gamonitero forcing ROGLIC to reveal he'd only mark INEOS, allowing LOPEZ freedom to escape.",
+      "Bahrain Victorious missed 32-rider break entirely, forced to chase alone revealing poor team coordination on queen stage."
+    ],
+    "rider_signals": {
+      "LOPEZ Miguel Angel": "positive: First to exploit ROGLIC's selective marking strategy, gaining 46s on podium rivals HAIG/BERNAL after they chased back",
+      "ROGLIC Primoz": "neutral: Only marked BERNAL specifically, ignored LOPEZ attack showing confident 2:30 lead management but risky podium calculus",
+      "BERNAL Egan": "negative: Attacked but immediately covered by ROGLIC, failed to create separation showing declining climbing form late-Vuelta",
+      "STORER Michael": "negative: 70km breakaway for KOM points collapsed on final climb, revealing insufficient depth for sustained efforts",
+      "DE LA CRUZ David": "positive: Used MICA as domestique then attacked from peloton to bridge, gained nearly minute for GC jump",
+      "HAIG Jack": "negative: Lost time to LOPEZ/ROGLIC/MAS despite being on podium, showing vulnerability on steepest gradients"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:43:09.864236+00:00"
+}

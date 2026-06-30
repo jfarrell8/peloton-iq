@@ -1,0 +1,25 @@
+{
+  "label": "2019 Tour de France Stage 21",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-28",
+  "stage": 21,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won Paris sprint by finding gap on right while GROENEWEGEN went left in final 100m, taking third stage victory in debut Tour.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VIVIANI's leadout train (MARKOV-RICHEZE) positioned him fourth wheel but lost cohesion through Place de la Concorde corner.",
+      "EWAN positioned behind GROENEWEGEN then split opposite direction in final 100m when Dutchman committed left.",
+      "DECEUNINCK sprint train completely absent in finale despite ALAPHILIPPE doing early work for VIVIANI kilometers out."
+    ],
+    "rider_signals": {
+      "VIVIANI Elio": "negative: had dedicated leadout from national champions MARKOV and RICHEZE but went too wide on corner and nowhere in finale",
+      "HAGEN Edvald Boasson": "negative: Dimension Data attempted daily stage hunt but failed conversion when leading inside final meters",
+      "GROENEWEGEN Dylan": "negative: committed to left side sprint line allowing EWAN to exploit right gap he created himself",
+      "EWING Caleb": "positive: demonstrated superior positioning instinct by recognizing GROENEWEGEN's directional commitment created exploitable gap opposite side"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:59:30.241162+00:00"
+}

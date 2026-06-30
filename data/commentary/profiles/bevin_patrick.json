@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Excels with explosive accelerations in final 400m from reduced groups after selective racing. Early attacks from large breakaways have proven unsuccessful, showing preference for precision timing over long-range efforts.",
+  "team_tactics": "Limited team-oriented observations; appears to rely on positioning within selective racing rather than dominant team setups. Works from reduced groups created by others' attrition.",
+  "terrain_preference": "Hilly courses with late climbs that create reduced sprints suit him best, combining climbing durability with sprint power. Strong ITT capability enables GC ambitions in stage races. Flat transition stages appear problematic.",
+  "vulnerability": "Crashes when defending leader positions on long transition stages. Premature accelerations from large groups consistently fail. Struggles to convert solid TT performances into podiums against elite specialists.",
+  "key_patterns": [
+    "Explosive sprint from reduced groups: winner at Romandie 2022 from 400m in selective finish",
+    "Strong time trial ability: moved to 2nd GC at Vuelta 2019 via ITT performance",
+    "Poor judgment in large breakaways: faded after early attack from 23-rider group at Giro",
+    "Crash vulnerability when holding leader responsibilities: lost jersey at Tirreno with 30km remaining"
+  ],
+  "form_trajectory": "positive: 2022 Romandie victory shows evolved ability to convert climbing durability into wins, upgrade from 2019's near-misses in TTs",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BEVIN Patrick",
+  "built_from": [
+    "2018 Tirreno-Adriatico Stage 3",
+    "2019 Tour de Romandie Stage 5",
+    "2019 Vuelta a Espana Stage 10",
+    "2021 Giro d'Italia Stage 18",
+    "2022 Tour de Romandie Stage 3",
+    "2022 Tour de Romandie Stage 3"
+  ]
+}

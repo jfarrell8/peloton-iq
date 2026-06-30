@@ -1,0 +1,17 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who saves energy for late sprint execution, launching final effort inside 1.5km and waiting until final 200m to attack companion.",
+  "team_tactics": "Insufficient data to establish team tactical patterns from single race observation.",
+  "terrain_preference": "Capable on uphill sprint finishes where tactical positioning can compensate for pure power deficits.",
+  "vulnerability": "Likely struggles as pure sprinter against top-tier fast finishers; relies on breakaway situations to avoid direct confrontation with peloton sprinters.",
+  "key_patterns": [
+    "Single observation limits pattern identification; requires additional race data for reliable tactical signature."
+  ],
+  "form_trajectory": "unknown: Only one race observation from 2018 prevents meaningful form assessment or trend analysis.",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "DECLERCQ Yves",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 18",
+    "2018 Vuelta a Espana Stage 18"
+  ]
+}

@@ -3,24 +3,31 @@
   "race_name": "Vuelta a Espana",
   "race_date": "2019-08-29",
   "stage": 6,
-  "channel": "GCN Racing",
+  "channel": "playlist_import",
   "extraction": {
-    "one_line_summary": "HARADA Yoshihiko won from breakaway after TEUNS Dylan towed him to leaders with 20km remaining, TEUNS taking red jersey by finishing second",
-    "winner": "HARADA Yoshihiko",
-    "commentary_quality": "moderate",
+    "one_line_summary": "HERRADA Jesús attacked solo with 1.5km remaining on Alto de Javalambre, dropped TEUNS and won by 7 seconds while POGAČAR attacked the GC group in final kilometer",
+    "winner": "HERRADA Jesús",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "TEUNS attacked when CRUZ showed weakness on final climb, bridged 40-second gap solo while carrying passenger HARADA to stage win.",
-      "POGACAR at age 20 launched solo attack from GC group on summit finish, gaining seconds despite no tactical need as white jersey wearer.",
-      "Breakaway formation delayed 50+ kilometers due to peloton aggression, suggesting GC teams uncertain about stage control strategy after Lopez takeover."
+      "GRMAY launched first attack on official climb start, forcing early energy expenditure that eliminated weaker breakaway riders later",
+      "POGAČAR attacked GC group final 100m despite no time gains possible, probing rivals' responses for future stages",
+      "TEUNS sat at back during breakaway attack flurry, then countered when others fatigued—tactical patience nearly worked",
+      "Breakaway gained 3+ minutes after peloton neutralized following mass abandonment crash, teams reassessing rider injuries before chasing"
     ],
     "rider_signals": {
-      "TEUNS Dylan": "positive: Sacrificed stage win to take red jersey, showing ability to bridge 40-second gaps solo on summit finishes",
-      "HARADA Yoshihiko": "positive: Smart wheelsucking allowed fresh sprint after TEUNS did bridging work, first Grand Tour win signals breakaway threat",
-      "CRUZ David de la": "negative: Showed weakness on final climb despite being virtual race leader, cracked when TEUNS attacked with 20km remaining",
-      "POGACAR Tadej": "positive: Unprompted attack from GC group at age 20 gained time on rivals including fourth-place GC rider, exceptional aggression for domestique role",
-      "OLIVEIRA Nelson": "negative: Bridged to GAMAY but couldn't hold pace when TEUNS counter-attacked, suggesting one-move limitation in breakaways"
+      "HERRADA Jesús": "positive: attacked early with 500m remaining and sustained power to win by 7 seconds over chasing TEUNS",
+      "POGAČAR Tadej": "positive: attacked reduced GC group in final kilometer showing aggressive intent despite no time gains available",
+      "TEUNS Dylan": "positive: became race leader and second on stage using tactical patience, sitting back during attacks to counter later",
+      "GRMAY Tsgabu": "neutral: initiated decisive climb attacks but faded when others countered, lacked sustained power for final",
+      "DE LA CRUZ David": "positive: moved to 2nd overall at 38 seconds by infiltrating strong breakaway, Astana willing to relinquish red jersey workload",
+      "FORMOLO Davide": "negative: crashed earlier in stage, mentioned in outstanding form but long-term prospects compromised by injuries",
+      "GODON Dorian": "positive: finished 3rd on stage from breakaway, strong French showing in finale",
+      "URÁN Rigoberto": "negative: abandoned after major crash at 30km into stage, lost top-10 GC position",
+      "ROCHE Nicolas": "negative: abandoned after same crash having started 5th overall and worn leader's jersey previous day",
+      "CARTHY Hugh": "negative: abandoned in mass crash with URÁ and ROCHE, eliminating multiple GC contenders early",
+      "DE LA PARTE Víctor": "negative: abandoned in same crash incident affecting multiple top-10 riders"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:21:50.547549+00:00"
+  "extracted_at": "2026-06-28T22:20:18.810695+00:00"
 }

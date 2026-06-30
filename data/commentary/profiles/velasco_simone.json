@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic break rider who targets intermediate sprints for bonus seconds rather than stage wins. Shows willingness to join breakaways but lacks finishing punch for victories.",
+  "team_tactics": "Astana utilizes him as a placement rider in breakaways to secure team presence and potential GC bonus seconds through intermediate sprints rather than stage victories.",
+  "terrain_preference": "Suited to medium-difficulty stages where breaks have survival chances and intermediate sprints offer tactical value. Exposed on stages requiring explosive finishing power.",
+  "vulnerability": "Lacks final punch to convert breakaway presence into wins when facing strong finishers. Cannot compete in pure sprint finishes even from reduced groups.",
+  "key_patterns": [
+    "Targets intermediate sprints strategically when GC contenders and pure sprinters skip them (2 observations)",
+    "Placed in breakaways by Astana for team positioning but finishes 3rd or lower (2 observations)",
+    "Active at Tirreno-Adriatico specifically, suggesting comfort in Italian week-long stage races (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent role as breakaway placement rider without progression to winning ability shown across 2021-2022",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "VELASCO Simone",
+  "built_from": [
+    "2021 Tirreno-Adriatico Stage 1",
+    "2022 Tirreno-Adriatico Stage 5"
+  ]
+}

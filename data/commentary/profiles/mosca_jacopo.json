@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Breakaway specialist who commits to long-distance efforts, targeting intermediate points rather than stage wins. Willing to negotiate points distribution with breakaway companions.",
+  "team_tactics": "Operates independently in breakaways with minimal visible team support. Engages in tactical agreements with other breakaway riders to divide spoils (KOM, intermediate sprints).",
+  "terrain_preference": "Suited to breakaway-friendly stages where intermediate points are available. Not equipped for finale victories when peloton brings back the break.",
+  "vulnerability": "Lacks finishing speed when caught by peloton or stronger breakaway companions. Unable to convert breakaway presence into stage victories despite accumulating significant distance.",
+  "key_patterns": [
+    "Accumulates extreme breakaway distances (500km+ cumulative) across Grand Tours, prioritizing visibility over results.",
+    "Targets intermediatesprints and minor classifications rather than stage wins in breakaways.",
+    "Negotiates pre-agreements with breakaway companions for points distribution, showing tactical pragmatism."
+  ],
+  "form_trajectory": "neutral: Consistently achieves breakaway presence but without conversion to wins, suggesting stable role as breakaway workhorse",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "MOSCA Jacopo",
+  "built_from": [
+    "2018 Giro d'Italia Stage 12",
+    "2018 Tirreno-Adriatico Stage 4"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-11",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DILLIER won from 190km+ breakaway, outsprinting STUYVEN who had teammate PEDERSEN doing work but couldn't convert superior speed.",
+    "winner": "DILLIER Silvan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PEDERSEN sacrificed own chance doing late pace work for STUYVEN, who still lost sprint—domestique deployment timing error.",
+      "YATES Adam bridged to breakaway late despite being GC contender, suggesting Sky willing to burn matches offensively early.",
+      "QuickStep controlled peloton despite only defending pink, Sky joined pace—both superteams marked each other into neutrality."
+    ],
+    "rider_signals": {
+      "DILLIER Silvan": "positive: converted 200km+ breakaway into win despite inferior sprint credentials, strong late-stage reserves",
+      "STUYVEN Jasper": "negative: failed to win with team support and superior sprint speed after 190km, poor energy management",
+      "PEDERSEN Mads": "neutral: worked for STUYVEN instead of going for own result, reveals Trek hierarchy clear",
+      "YATES Adam": "positive: attacked to join breakaway as GC rider, signals Sky using offensive tactics not just Froome defense",
+      "JUNGELS Bob": "neutral: retained pink jersey by 6 seconds only, vulnerable margin heading into mountains"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:01:17.350745+00:00"
+}

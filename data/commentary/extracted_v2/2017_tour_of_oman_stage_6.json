@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour of Oman Stage 6",
+  "race_name": "Tour of Oman",
+  "race_date": "2017-02-19",
+  "stage": 6,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the sprint after KAISER and DENT's breakaway was caught, with VAN AVERMAET's late attack failing inside 2km",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Kaiser attacked solo with 30s lead in heavy crosswinds after Dent cooperation ended, exploiting final kilometer terrain.",
+      "Van Avermaet bridged to Maes's attack inside 2km despite not being pure sprinter, revealing Olympic champion's aggressive stage-hunting.",
+      "Hermans crashed at 3.5km but remounted without team assistance, indicating GC leader isolated on opening climb approach."
+    ],
+    "rider_signals": {
+      "KRISTOFF Alexander": "positive: Third stage win suggests dominant sprint form throughout week-long stage races with varied terrain",
+      "KAISER Ilio": "positive: Led solo for 123km after dropping breakaway companion, showing QuickStep's aggressive racing even without sprint finisher",
+      "VAN AVERMAET Greg": "positive: Attacked inside 2km despite not contesting sprint, revealing stage-hunting aggression over waiting for peloton",
+      "HERMANS Ben": "neutral: Early crash near climb approach but secured GC safely, suggesting vulnerable positioning at race start"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:11:18.402398+00:00"
+}

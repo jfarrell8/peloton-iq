@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Deploys tactical decoy attacks rather than genuine victory bids, typically launching inside final 2-3km or on climbs to set up teammates. Functions as strategic disruptor rather than primary aggressor.",
+  "team_tactics": "Sacrificial role - leads out teammate attacks from the bunch or launches diversionary moves to isolate team leaders. Expendable early aggressor who creates tactical chaos for others to exploit.",
+  "terrain_preference": "Versatile enough for both flat finales and climbing stages, but role is tactical positioning rather than terrain-specific. Most effective where team can leverage numerical advantage.",
+  "vulnerability": "Not a finishing threat himself - purely a setup rider. Ineffective when team lacks numbers or clear protected rider. Tactical value diminished in solo efforts.",
+  "key_patterns": [
+    "Launches decoy/sacrificial attacks to force rival responses, evidenced across 2 observations spanning 3 years.",
+    "Leads out or enables teammate attacks from bunch rather than seeking personal results (2 instances).",
+    "Deploys tactical moves in critical moments: inside 2km finale or on key climbs (2 observations).",
+    "Functions as tactical disruptor across both Grand Tours and week-long stage races."
+  ],
+  "form_trajectory": "neutral: Role consistency maintained across 2020-2023 observations, suggesting stable tactical function rather than performance evolution",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "SCHÄR Michael",
+  "built_from": [
+    "2020 Tour de France Stage 5",
+    "2023 Tour de Suisse Stage 4"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2021 UAE Tour Stage 1",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-21",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGACAR attacked with 2km remaining on Luz Ardiden after INEOS pace-making, dropped VINGEGAARD and CARAPAZ by 2 seconds for third consecutive stage win",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GAUDU and LATOUR broke clear 35km out on Tourmalet descent, exploiting INEOS tempo setting that neutralized dangerous moves.",
+      "POGACAR waits until MICHAL exhausts pacing duties sub-2km before attacking, refusing to respond to MASS probing move earlier.",
+      "CARAPAZ maintains GC podium despite lacking acceleration to follow POGACAR/VINGEGAARD, defending position rather than attacking for second."
+    ],
+    "rider_signals": {
+      "GAUDU David": "positive: opened minute gap on Tourmalet descent via positioning piloted by MADOUAS, showing descending aggressiveness",
+      "PORTE Richie": "negative: dropped approaching Tourmalet, falling out of top-5 GC on critical mountain stage",
+      "RIGOBERTO Uran": "negative: lost 9 minutes on stage, catastrophic collapse from fourth in GC to tenth overall",
+      "O'CONNOR Ben": "positive: moved up into fourth GC with strong climbing performance while others faltered",
+      "MAS Enric": "positive: attempted probing attack before Pogacar's winning move, rose to fourth on stage and improved GC position",
+      "CAVENDISH Mark": "neutral: collected more green jersey points at intermediate sprint before Tourmalet eliminated him from stage contention"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:56:39.127992+00:00"
+}

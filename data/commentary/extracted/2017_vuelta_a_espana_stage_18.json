@@ -1,0 +1,29 @@
+{
+  "label": "2017 Vuelta a Espana Stage 18",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-07",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ARMÉE Sander attacked from a 5-rider breakaway 600m from finish on 20km at 7% climb, winning solo after forcing others to chase.",
+    "winner": "ARMÉE Sander",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ARU Fabio attacked solo from GC group 25km out, maintaining 1-minute buffer through summit without team support.",
+      "FROOME Chris preserved three teammates including POELS through penultimate climb despite repeated Spanish attacks, then countered at 500m.",
+      "ALAPHILIPPE Julian, LUTSENKO Alexey, and GOUGEARD Alexis reached final 10km together but lost sprint tactics to patient ARMÉE.",
+      "Astana initiated GC attacks on second climb forcing CONTADOR Alberto, DE LA CRUZ David responses before final ascent."
+    ],
+    "rider_signals": {
+      "ARMÉE Sander": "positive: won from patience tactics at age 31 in 8th pro year, suggesting breakaway sprinters need hoarding energy",
+      "ARU Fabio": "negative: lost 18 seconds despite 1-minute solo advantage and 25km effort, revealing insufficient gap-building power",
+      "FROOME Chris": "positive: retained three teammates through attacks then out-sprinted all but ARU at 500m, exposing superior depth",
+      "CONTADOR Alberto": "neutral: followed attacks but only matched FROOME and WOODS in final sprint, showing diminished attacking threat",
+      "NIBALI Vincenzo": "negative: lost 21 seconds to FROOME despite no decisive moves, indicating deteriorating position defense",
+      "LUTSENKO Alexey": "negative: multiple stage wins this Vuelta but dropped before final 600m sprint from five-rider group",
+      "WOODS Michael": "positive: only rider besides CONTADOR matching FROOME's 500m counter-attack on summit finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:17:43.776720+00:00"
+}

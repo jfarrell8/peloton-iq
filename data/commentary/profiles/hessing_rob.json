@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Opportunistic solo accelerations from breakaways when elite climbers neutralize each other. Willing to commit fully despite domestique role, attacks in final kilometers on summit finishes.",
+  "team_tactics": "Given freedom to pursue breakaway opportunities even from domestique position, minimal dedicated team setup required for opportunistic moves.",
+  "terrain_preference": "Summit finishes where tactical racing among favorites creates windows; strong enough on climbs to contend with GC-caliber riders when they mark each other.",
+  "vulnerability": "Insufficient observations to determine consistent vulnerability patterns. Single observation shows ability to compete but not finish against elite climbers.",
+  "key_patterns": [
+    "Seizes solo opportunities when GC favorites stall in tactical stalemates",
+    "Operates effectively from domestique role with autonomy for personal ambitions",
+    "Can sustain efforts to final meters on summit finishes, competitive within 200m"
+  ],
+  "form_trajectory": "positive: demonstrated ability to nearly defeat elite GC climbers from breakaway, showing strong climbing form and tactical awareness",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "HESSING Rob",
+  "built_from": [
+    "2022 La Vuelta ciclista a Espana Stage 18",
+    "2022 La Vuelta ciclista a Espana Stage 18"
+  ]
+}

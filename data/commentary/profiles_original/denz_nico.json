@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Breakaway specialist who wins from large groups (29-30 riders) with strong uphill sprint finishes. Excels in final 800m-1km after surviving climbs rather than attacking on them.",
+  "team_tactics": "BORA leverages team depth to place multiple riders in breaks (Kamna partnership visible). However, hesitates to lead when numerically superior, preferring reactive positioning over proactive pulling.",
+  "terrain_preference": "HC and category climbs with uphill sprint finishes suit best. Survives hard climbs 'by teeth-gritted determination' then unleashes finish speed. Struggles when required to lead/control breakaways on flatter finales.",
+  "vulnerability": "Tactical indecision when holding numerical advantage—hesitates to commit when leadership required. Peloton marks him too dangerous for certain breaks, limiting opportunities when identified as GC-adjacent threat.",
+  "key_patterns": [
+    "Wins from large breakaways (29-30 riders) with uphill finishes, not solo efforts (3 instances)",
+    "Survives climbs marginally then wins sprint, nearly dropped before winning twice at Giro",
+    "Peloton threat assessment limits break inclusion despite teammate allowed forward (Vuelta stage 15)",
+    "Hesitates leading when teammates present, prefers reactive tactics over controlling (Vuelta finale)",
+    "Breakthrough form windows: exceptional clusters like 2 wins in 3 days Giro 2023"
+  ],
+  "form_trajectory": "neutral: 2023 Giro peak (2 wins, age 29 breakthrough) followed by Vuelta tactical hesitation suggests form declining or confidence issues post-success. No 2024 data limits assessment.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "DENZ Nico",
+  "built_from": [
+    "2022 Tour de Suisse Stage 6",
+    "2022 Tour de Suisse Stage 6",
+    "2023 Giro dItalia Stage 12",
+    "2023 Giro dItalia Stage 12",
+    "2023 Giro dItalia Stage 14",
+    "2023 Giro dItalia Stage 14",
+    "2023 La Vuelta Ciclista a Espana Stage 15",
+    "2023 La Vuelta Ciclista a Espana Stage 21"
+  ]
+}

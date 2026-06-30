@@ -1,0 +1,26 @@
+{
+  "label": "2018 Tour of Oman Stage 3",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-15",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN AVERMAET launched an extremely early sprint with 1km to go on the uphill finish at Wadi Dayqah Dam, holding off COSTA to win and take red.",
+    "winner": "VAN AVERMAET Greg",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CHETOUT dominated intermediate sprints from breakaway to secure KOM jersey before peloton caught him pre-final climb.",
+      "KANGERT pulled for LÓPEZ on final climb before BMC took over, suggesting Astana unwilling to commit for uphill sprint.",
+      "VAN AVERMAET's 1km-from-finish sprint launch on uphill gradient caught favorites off-guard, too early for pure climbers to counter."
+    ],
+    "rider_signals": {
+      "VAN AVERMAET Greg": "positive: BMC delayed their lead-out until final kilometer, exploiting classics engine over pure climbers on dragging finish",
+      "CHETOUT Loïc": "positive: aggressive jersey defense through breakaway sprint hunting shows willingness to burn matches for secondary classifications early tour",
+      "LÓPEZ Miguel Ángel": "neutral: Astana protected him on final climb but didn't contest sprint, suggesting team avoiding early GC commitment",
+      "COSTA Rui": "negative: world champion credentials couldn't bridge to VAN AVERMAET's early sprint despite uphill gradient favoring climbers",
+      "KANGERT Tanel": "positive: strong tempo-setting for LÓPEZ on final climb indicates good early-tour form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:44:20.508132+00:00"
+}

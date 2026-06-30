@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Pure sprinter who launches final acceleration in last 200-500m. Does not initiate early; relies on timing and raw power once positioned on rival wheels.",
+  "team_tactics": "Team provides lead-outs (Matthews 2022) but Groves often abandons organized train to freelance onto faster rival wheels, showing independent tactical thinking over team structure reliance.",
+  "terrain_preference": "Flat, pure sprint finishes where raw speed advantage is decisive. Crosswind chaos does not affect him negatively (Catalunya 2022). Exposed by technical finishes requiring precise positioning.",
+  "vulnerability": "Positional errors in final 500m-2.3km consistently negate his superior raw power. Lead-out coordination issues appear chronic across multiple seasons (2023 Vuelta references). Critical corners in sprint finales.",
+  "key_patterns": [
+    "Highest raw speed documented but repeatedly loses due to poor positioning (2023 Vuelta, recurring theme)",
+    "Abandons team lead-out to freelance on faster rival wheels when tactically advantageous (Catalunya 2022)",
+    "Positional errors at technical points 500m-2.3km from finish cost results multiple times",
+    "Demonstrates tactical intelligence reading rival moves but execution consistency lacking in finale chaos"
+  ],
+  "form_trajectory": "neutral: Raw power remains elite (highest speed 2023) but positional/lead-out weaknesses persist unresolved from 2022-2023, suggesting stagnation rather than development",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "GROVES Caden",
+  "built_from": [
+    "2020 UAE Tour Stage 1",
+    "2022 Volta Ciclista a Catalunya Stage 2",
+    "2022 Volta Ciclista a Catalunya Stage 2",
+    "2023 La Vuelta Ciclista a Espana Stage 19",
+    "2023 Vuelta a Espana Stage 12"
+  ]
+}

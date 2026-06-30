@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 8",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-14",
+  "stage": 8,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DEGENT Thomas won from a 4-rider breakaway sprint after FABBERPOOL and GIRMAY's chase group closed to 10 seconds with 2km remaining but couldn't bridge.",
+    "winner": "DEGENT Thomas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FABBERPOOL attacked at 46km on final circuit climb, splitting original 21-rider break and forcing selection before sustained moves.",
+      "DEGENT-VONHOOKER duo controlled final 3-4km of breakaway, allowing DEGENT to launch sprint with 200m remaining from protected position.",
+      "LOPEZ Trek-Segafredo forced to chase despite 4:06 GC buffer when GUILLAUMATA entered break, revealing conservative team GC defense threshold.",
+      "KEMNA attacked inside 10km despite 38-second deficit, but LOPEZ marked wheel directly rather than letting teammates control."
+    ],
+    "rider_signals": {
+      "DEGENT Thomas": "positive: first Grand Tour stage win in 3 years shows renewed breakaway finishing speed at age 35+",
+      "FABBERPOOL Mauro": "positive: initiated decisive 46km attack on climb that shaped final selection, but couldn't match sprint speed",
+      "GIRMAY Biniam": "negative: collected intermediate sprint points but failed to bridge 10-second gap in final 2km despite descent advantage",
+      "LOPEZ Juan Pedro": "positive: marked KEMNA's late attack personally rather than relying on teammates, showing confidence and form pre-Blockhaus",
+      "GUILLAUMATA Guillaume": "positive: infiltrated break at only 4:06 GC gap, forcing race leader's team to work and moved to 4th at 1:06"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:40:52.050311+00:00"
+}

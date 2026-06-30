@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Attacks in final 8km of summit finishes with precise timing to catch solo leaders or dropped breakaway riders. Prefers late-stage aggression over long-range moves.",
+  "team_tactics": "Flexible role player: willing to work as super-domestique even when personally well-placed on GC, suggesting team-first mentality. Can operate without extensive team support on summit finishes.",
+  "terrain_preference": "Summit finishes where tactical timing matters more than raw power. Thrives when catching fatigued breakaway riders in final kilometers rather than pure climbing duels.",
+  "vulnerability": "Exposed when carrying heavy domestique workload before decisive climbs—gets dropped when sacrificed for team leaders. May lack explosiveness for repeated accelerations.",
+  "key_patterns": [
+    "Attacks with 8km or less remaining on summit finishes (2 observations)",
+    "Effective at bridging to and catching solo breakaway riders late (2 observations)",
+    "Functions as GC-caliber domestique, prioritizing team over personal result (2 observations)",
+    "Performs best without heavy pre-climb workload, struggles after domestique duties (2 observations)"
+  ],
+  "form_trajectory": "positive: 2022 Giro stage win shows evolution from domestique role to opportunistic winner, demonstrating improved tactical awareness and finishing power",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "HIRT Jan",
+  "built_from": [
+    "2018 Tour of Oman Stage 5",
+    "2019 Tour de Pologne Stage 7",
+    "2019 Tour de Suisse Stage 7",
+    "2022 Giro d'Italia Stage 16",
+    "2022 Giro d'Italia Stage 16",
+    "2022 UAE Tour Stage 4"
+  ]
+}

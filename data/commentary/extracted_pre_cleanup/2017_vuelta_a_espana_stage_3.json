@@ -1,0 +1,27 @@
+{
+  "label": "2017 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-08-21",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "NIBALI Vincenzo counter-attacked on descent after FROOME Chris attacked Alto de la Comella, winning from select group after Sky's tempo shattered field.",
+    "winner": "NIBALI Vincenzo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FROOME Chris attacked final climb then immediately used descent tactic transplanted from Tour, forcing selection before regrouping.",
+      "Team Sky paced final ascent at tempo high enough to distance CONTADOR Alberto 2.5+ minutes despite no summit finish.",
+      "NIBALI Vincenzo positioned conservatively on climb then exploited regrouping descent chaos, launching late counter-attack from behind chasers.",
+      "Early break with DE GENDT Thomas absorbed exactly at climb base after Sky's 40km chase, timing denial of recovery."
+    ],
+    "rider_signals": {
+      "CONTADOR Alberto": "negative: Lost 2:30+ on first mountain stage despite modest gradients, abandoned GC ambitions by stage 3.",
+      "FROOME Chris": "positive: Seized race lead via descent attack tactic, strong enough to force selection despite regrouping.",
+      "NIBALI Vincenzo": "positive: Struggled on climb but tactical acumen on descent superior, won from vulnerable position.",
+      "CHAVES Esteban": "positive: Only rider following FROOME's descent acceleration, showed comparable descending aggression.",
+      "DE LA CRUZ David": "positive: Second place and Team Sky's tactical depth allows podium position while FROOME takes leadership burden."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:18:42.996284+00:00"
+}

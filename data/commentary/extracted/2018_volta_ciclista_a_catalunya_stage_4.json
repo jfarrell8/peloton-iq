@@ -1,0 +1,29 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 4",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-22",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won Stage 4 after BERNAL Egan initiated late attacks on the final climb but refused to commit, allowing Valverde to outsprint him.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "LATOUR Pierre embedded within Movistar group early to surveil VALVERDE rather than sitting with own team",
+      "BERNAL Egan repeatedly accelerated on final climb but looked back repeatedly, lacking conviction to fully commit solo",
+      "VALVERDE sat on BERNAL's wheel through multiple accelerations, conserving energy for inevitable sprint finish",
+      "MOHORIČ Matej attacked solo before final climb when big teams hesitated to chase, testing peloton's coordination"
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: won despite being forced to respond to multiple BERNAL attacks, showing superior positioning discipline over raw power",
+      "BERNAL Egan": "positive: attacked elite field repeatedly on terrain not suited to him, suggests Tour preparation prioritizing aggression over results",
+      "LATOUR Pierre": "positive: infiltrated rival team group for surveillance rather than pacing own leaders, tactical maturity rare for young rider",
+      "QUINTANA Nairo": "neutral: paced through final climb but never challenged for stage, possibly managing efforts with Movistar having multiple cards",
+      "MARTIN Dan": "negative: struggled to hold contact with lead group on climb he won previous year, form regression evident",
+      "YATES Simon": "neutral: finished in chase group without attempting to bridge, suggests targeting later mountain stages",
+      "MOHORIČ Matej": "positive: launched solo preemptive attack before climb despite being heavy rouleur, tactical intelligence over physiological fit"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:45:57.674438+00:00"
+}

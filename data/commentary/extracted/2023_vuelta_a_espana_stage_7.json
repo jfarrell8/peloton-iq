@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SOUPE Joffrey launched from 250m out with no organized leadout train, capitalizing on disorganized sprint to take first Grand Tour win at age 35.",
+    "winner": "SOUPE Geoffrey",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINGEGAARD sprinted intermediate bonus sprint to claim 2 seconds, closing gap to EVENEPOEL to 3 seconds, signaling aggressive GC tactics.",
+      "SOUPE launched 250m sprint when no single team controlled leadout, exploiting disorganized finale that typically favors organized trains.",
+      "GROVES Kaden lost leadout positioning into final corner despite having teammates earlier, suggesting tactical breakdown under pressure.",
+      "Total Energies placed sprint from distance when traditional leadout trains fractured, rare successful tactic for long-range efforts."
+    ],
+    "rider_signals": {
+      "VINGEGAARD Jonas": "positive: actively contested intermediate sprint for 2-second bonus despite being non-sprinter, showing intent to pressure EVENEPOEL on time.",
+      "GROVES Kaden": "negative: finished fifth with leadout advantage early but lost positioning in final corner, tactical execution failure.",
+      "THOMAS Geraint": "negative: stopped for mechanical with teammates, described as worst GC rider entering race, mental fragility evident after knee crash.",
+      "SOUPE Geoffrey": "positive: veteran leadout man converted disorganized finale into career-best win, opportunistic positioning when favorites lacked organization.",
+      "MARTINEZ Lenny": "positive: Groupama-FDJ successfully protected first-ever Grand Tour leader jersey throughout opening roads, team executed defensive protocol."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:34:55.692496+00:00"
+}

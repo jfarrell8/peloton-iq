@@ -1,0 +1,26 @@
+{
+  "label": "2017 Volta Ciclista a Catalunya Stage 5",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2017-03-24",
+  "stage": 5,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro won after Movistar's SOLER Marc sacrificed himself with surges in final kilometers, distancing FROOME and CONTADOR through strategic rest periods.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "SOLER Marc swung off after hard surges splitting group, creating rest window for VALVERDE before final 300m attack.",
+      "YATES Adam stalked final climb group without contributing work, managing 45+ second gap for GC defense without wasting energy.",
+      "VALVERDE attacked on flattening gradient after hairpin rest, exploiting FROOME's gradual rhythm-based comeback style rather than Spanish reactive surges."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: Proved strongest when attacking post-hairpin on gradient change despite carrying 1-minute penalty grievance as motivation",
+      "FROOME Chris": "neutral: Signature gradual draw-back style worked but predictable non-panic rhythm allows rivals to time recovery windows",
+      "SOLER Marc": "positive: Executed textbook domestique sacrifice with surge-and-swing tactics at precise moment to fragment group",
+      "YATES Adam": "positive: Tactically mature GC defense by refusing to work in chase group, maintained 45s+ gap through energy conservation",
+      "VAN GARDEREN Tejay": "negative: Lost leader's jersey despite BMC being mob-handed, suggesting team strength insufficient when marked"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:12:11.429926+00:00"
+}

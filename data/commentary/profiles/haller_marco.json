@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early-race opportunist targeting breakaways and intermediate sprints rather than late decisive moves. Shows willingness to expend energy in opening phases of races.",
+  "team_tactics": "Limited data on team support; appears to operate independently in early breakaway attempts without clear domestique setup visible in observations.",
+  "terrain_preference": "Insufficient data to establish clear terrain preference. Both observations focus on sprint points rather than selective terrain.",
+  "vulnerability": "Extended recovery from serious injury (broken kneecap, 6-month layoff) - durability and form consistency remain question marks given limited post-injury race sample.",
+  "key_patterns": [
+    "Targets intermediate sprints in early race phases (2 observations across different races)",
+    "Pursues early breakaway opportunities rather than waiting for decisive moments (2 observations)",
+    "Shows aggression immediately post-injury return, suggesting attacking mentality regardless of fitness baseline (2 observations)"
+  ],
+  "form_trajectory": "positive: Successfully returned to racing intensity after 6-month kneecap injury layoff, showing consistent ability to contest sprints across two races spanning six months, suggesting complete recovery",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HALLER Marco",
+  "built_from": [
+    "2018 Tour de Romandie Stage 1",
+    "2018 Tour of Guangxi Stage 1"
+  ]
+}

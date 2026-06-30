@@ -1,0 +1,26 @@
+{
+  "label": "2021 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-10",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MALAMA Bauke soloed 45km to victory after attacking on the category two climb, surprising given limited breakaway opportunities all day.",
+    "winner": "MALAMA Bauke",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Peloton refused to let early 5-rider break establish advantage beyond 40 seconds for over an hour, signaling GC nervousness.",
+      "MALAMA attacked 45km from finish on cat-2 climb while others hesitated despite commentary noting few breakaway opportunities remaining.",
+      "MARTIN Guillaume climbed from 9th to 2nd GC (4 seconds back) exploiting stage chaos, UAE depth controlled without burning matches."
+    ],
+    "rider_signals": {
+      "MALAMA Bauke": "positive: sustained 45km solo after cat-2 attack shows exceptional confidence management on climbing stages despite being Dutch climber",
+      "MARTIN Guillaume": "positive: opportunistic GC jump from 9th to 2nd (4 seconds) suggests he's positioning for podium exploitation if Pogacar weakens",
+      "POGACAR Tadej": "positive: UAE retained full team depth on hard stage while maintaining 4:04 lead, revealing conservative pacing strategy before Pyrenees",
+      "WOODS Michael": "positive: took KOM jersey despite earlier crash, but commentary flags descent weakness as tactical liability for mountain stages",
+      "QUINTANA Nairo": "negative: lost KOM jersey after 5 days, consistently dropping on climbs reveals diminished ability to defend positions"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:51:10.514890+00:00"
+}

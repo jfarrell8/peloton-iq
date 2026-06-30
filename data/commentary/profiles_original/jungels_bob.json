@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive long-range attacks on penultimate climbs with significant distance remaining (65km to go), relying on descending prowess at high speeds (90kph) to establish and maintain gaps.",
+  "team_tactics": "Insufficient data to establish team tactical patterns across multiple races.",
+  "terrain_preference": "Excels on multi-climb stages where descending skills can be weaponized after attacking on earlier climbs; technical descents at high speed favor him decisively over chasers.",
+  "vulnerability": "Insufficient data to identify repeated vulnerability patterns, though historical health problems mentioned suggest potential durability concerns.",
+  "key_patterns": [
+    "Attacks from large breakaway groups rather than peloton, selecting moments on climbs before finale.",
+    "Uses exceptional descending speed (90kph) as primary gap-building weapon after initial attack.",
+    "Capable of sustaining solo efforts over extremely long distances (65km) after initial selection."
+  ],
+  "form_trajectory": "positive: First stage win in years following health problems suggests resurgent form and confidence in 2022",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "JUNGELS Bob",
+  "built_from": [
+    "2022 Tour de France Stage 9",
+    "2022 Tour de France Stage 9"
+  ]
+}

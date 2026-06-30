@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Targets early breakaways specifically for KOM points, attacking on categorized climbs rather than racing for stage wins. Willing to sacrifice overall position to secure climbing jersey, showing pure category-hunting mentality.",
+  "team_tactics": "Operates independently in breakaways without visible team support; self-sufficient racer who positions himself early in breaks and manages own efforts to maximize KOM points rather than stage results.",
+  "terrain_preference": "Categorized climbs in breakaway scenarios where he can accumulate KOM points. Thrives on extended efforts over multiple climbs rather than single explosive summit finishes. Performs best when allowed early freedom.",
+  "vulnerability": "Physical crashes have derailed KOM campaigns (2020 attempt ended in crash). Limited tactical options when stronger climbers sit on his wheel, forced to do the work despite having the strength to win sprints.",
+  "key_patterns": [
+    "KOM jersey priority across three separate Grand Tour attempts (2020, 2021, 2022).",
+    "Joins early breaks targeting polka dots, not stage wins (Paris-Nice, multiple TDF stages).",
+    "Exceptional durability surviving large deficits over penultimate climbs (4-minute gap, TDF 2021).",
+    "Outsprints rivals on climbs even when doing the work (beat COSNEFROY twice 2020).",
+    "Builds commanding KOM leads through volume strategy (29-point lead Paris-Nice 2021)."
+  ],
+  "form_trajectory": "neutral: Consistent KOM-hunting approach from 2020-2022 shows stable tactical identity, but 2022 return to early break suggests no evolution in ambition level",
+  "races_analysed": 4,
+  "confidence": "high",
+  "rider_name": "PEREZ Anthony",
+  "built_from": [
+    "2020 Tour de France Stage 3",
+    "2020 Tour de France Stage 3",
+    "2021 Paris-Nice Stage 6",
+    "2021 Tour de France Stage 17",
+    "2022 Tour de France Stage 4"
+  ]
+}

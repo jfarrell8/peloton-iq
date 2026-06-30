@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Not a primary attacker. Functions as a positioning and tempo asset in valleys and approaches to climbs, rarely initiating decisive moves himself.",
+  "team_tactics": "Deployed as a pre-climb neutralization weapon, controlling tempo in valleys and descents to prevent breakaway advantages before key finale climbs.",
+  "terrain_preference": "Flat to rolling valley sections and descents before mountain finales where his time trial power can control pace. Vulnerable when prolonged steep climbing required.",
+  "vulnerability": "Limited observations show mechanical issues (punctures) can disrupt race flow. Likely struggles when steep gradients require sustained climbing vs tempo riding.",
+  "key_patterns": [
+    "Used as domestique to neutralize pace in valleys before final climbs (2 observations)",
+    "Tactical positioning role rather than personal GC ambitions in stage races (2 observations)",
+    "Mechanical incidents present risk factor requiring team support to recover position (1 observation)"
+  ],
+  "form_trajectory": "unknown: insufficient recent data. Last observation from 2021 shows continued team domestique role at WorldTour level.",
+  "races_analysed": 3,
+  "confidence": "low",
+  "rider_name": "ROHAN Dennis",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 2",
+    "2020 Tour de Pologne Stage 2",
+    "2021 Volta Ciclista a Catalunya Stage 4"
+  ]
+}

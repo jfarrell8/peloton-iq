@@ -1,0 +1,28 @@
+{
+  "label": "2019 Criterium du Dauphine Stage 6",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2019-06-14",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked with MÜHLBERGER and DE MARCHI in early breakaway, survived slide-out on penultimate descent, won photo finish after MÜHLBERGER led out sprint.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE targeted KOM jersey by cresting every climb first in break, then took stage win—dual-objective breakaway strategy.",
+      "DE MARCHI accelerated hard just before summit knowing flat section prevents counter-attacks, tactical timing over raw power.",
+      "MÜHLBERGER refused to take front in final kilometer despite strength, allowing ALAPHILIPPE drafting advantage into sprint.",
+      "YATES team had HAIG pacing on steepest sections while KWIATKOWSKI led later, structured domestique rotation on long climb."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: demonstrated exceptional breakaway range by controlling KOM points across all climbs then still winning sprint after 12+ minute gap.",
+      "MÜHLBERGER Gregor": "positive: matched ALAPHILIPPE on climbs and nearly won sprint, but tactically naive by leading out final 500m.",
+      "DE MARCHI Alessandro": "positive: timed summit acceleration perfectly to exploit terrain transition, cracked only in final 500m after strong climbing.",
+      "YATES Adam": "neutral: defended yellow comfortably with team support but showed no interest attacking despite Jumbo-Visma pacing.",
+      "POELS Wout": "positive: led peloton sprint from favorites group, unusual role suggests targeting stage time bonuses or testing form.",
+      "VAN AERT Wout": "negative: mechanical issue early requiring chain service, lost top-five GC position suggesting cumulative time loss."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:53:44.226680+00:00"
+}

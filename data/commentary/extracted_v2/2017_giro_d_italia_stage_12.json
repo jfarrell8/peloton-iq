@@ -1,0 +1,25 @@
+{
+  "label": "2017 Giro d'Italia Stage 12",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-18",
+  "stage": 12,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won the 229km stage 12 bunch sprint after UAE positioned Ferrari aggressively, neutralizing QuickStep's leadout despite Gaviria wearing pink jersey.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE committed Ferrari to leadout despite Gaviria in maglia rosa, revealing team prioritizes stage wins over conserving leader energy.",
+      "Bora deployed Zuppa as late-race disruption attack just before flamme rouge to disorganize sprint trains on 229km attrition stage.",
+      "QuickStep attempted leadout control but UAE's Ferrari positioning underneath flamme rouge overpowered them in final kilometer compression."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: demonstrated exceptional recovery sprinting after 229km in pink jersey, suggesting GC burden not affecting fast-twitch capacity",
+      "FAGLUM KARLSSON Omar": "neutral: tactically savvy KOM jersey defense via intermediate point collection rather than breakaway commitment",
+      "BENNETT Sam": "negative: third place despite QuickStep leadout suggests team struggled with positioning on ultra-long stage attrition",
+      "ZUPPA Andrea": "neutral: late solo flyer beneath flamme rouge indicates Bora willing to sacrifice sprint positioning for disruption tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T15:55:22.107449+00:00"
+}

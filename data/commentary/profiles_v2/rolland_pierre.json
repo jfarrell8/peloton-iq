@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Long-range attacks (40km to go) on unexpected terrain, targeting KOM points and selective climbs rather than sustained summit finishes. Opportunistic on transitions and flat-to-descent sections when peloton is passive.",
+  "team_tactics": "Minimal team support evident; rides independently with focus on KOM jersey strategy rather than stage wins. Selective breakaway participation, targeting specific climbs for points rather than every opportunity.",
+  "terrain_preference": "Flat-to-descent finales and selective mid-mountain climbs where tactical positioning matters more than pure climbing power. Excels when peloton is disorganized or hesitant. Improved descending ability shown.",
+  "vulnerability": "Hesitates when required to chase alone against strong opposition. Arrives too late when dragging groups rather than attacking solo. Loses effectiveness on pure sustained climbs against superior climbers.",
+  "key_patterns": [
+    "Targets KOM classification through selective climb strategy rather than every breakaway (2022, 2017)",
+    "Long-range solo attacks 40km+ out on unexpected terrain when peloton passive (2017 Giro)",
+    "Shows tactical hesitation when needing to chase strong riders alone, waits for group (2018)",
+    "Improved descending from earlier career weaknesses, can win on downhill finales (2017)",
+    "Positive form building into mountain stages after initially being distanced in GC (2020)"
+  ],
+  "form_trajectory": "neutral: Limited recent data (2022 KOM focus) but historically shows tactical intelligence improving with race progression. Adaptation ability demonstrated but consistency uncertain.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "ROLLAND Pierre",
+  "built_from": [
+    "2017 Giro d'Italia Stage 17",
+    "2017 Giro d'Italia Stage 17",
+    "2018 Vuelta a Espana Stage 4",
+    "2020 Tour de France Stage 12",
+    "2022 Criterium du Dauphine Stage 8"
+  ]
+}

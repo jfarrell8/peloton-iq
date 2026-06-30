@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Not an attacker. Pure leadout specialist who delivers final turn in closing kilometers of sprint stages, typically 1-2km to go.",
+  "team_tactics": "Lotto deploys DE BUYST in extended leadout role, working early then recovering to deliver final turn before sprinter launch. Demonstrates team depth by dual-phase workload.",
+  "terrain_preference": "Hilly sprint stages where diesel engine separates from pure speedmen. Can sustain high pace over undulating circuits before final leadout.",
+  "vulnerability": "Technical finish circuits expose crash risk. Physical sprint confrontations suggest potential positioning conflicts in tight finales.",
+  "key_patterns": [
+    "Dual-phase leadout: works extensively early, then delivers final turn for EWAN (2 instances)",
+    "Excels on hilly sprint stages requiring sustained diesel power before finale (2 stages)",
+    "Crash risk on technical finish circuits compromises team sprint execution (2 incidents)",
+    "Physical confrontations suggest aggressive space-claiming in leadout positioning battles (2 confrontations)"
+  ],
+  "form_trajectory": "positive: most recent races show exceptional endurance delivering high-quality turns despite extended earlier work on demanding terrain",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "DE BUYST Jasper",
+  "built_from": [
+    "2020 Tour de France Stage 1",
+    "2021 Benelux Tour Stage 4",
+    "2021 Benelux Tour Stage 4",
+    "2021 Benelux Tour Stage 5"
+  ]
+}

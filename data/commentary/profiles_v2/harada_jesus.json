@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who operates from distance, controlling tempo from the front rather than explosive late attacks. Finishes with well-timed sprints after terrain selection reduces group size.",
+  "team_tactics": "Limited evidence of team support; appears to function independently in breakaways, using tactical awareness of GC gaps and group dynamics rather than domestique-led setups.",
+  "terrain_preference": "Stages with mid-race climbs that reduce sprint competition but finish on descents or flatter roads where he can deploy his sprint. Avoids pure climbing finishes.",
+  "vulnerability": "High-tempo climbing by GC teams (Trek tempo referenced) stresses him before finishes. Requires breakaway freedom; unlikely to succeed in controlled sprint scenarios.",
+  "key_patterns": [
+    "Wins from small breakaway groups (6 riders), not solo or mass sprints.",
+    "Controls breakaway tempo strategically, positioning as key collaborator to manage threats.",
+    "Sprint finishing ability after climbing selection, not pure climber profile.",
+    "Operates with GC deficit (5:45 referenced), using freedom to animate stages without overall threat."
+  ],
+  "form_trajectory": "positive: victory in 2022 Vuelta shows evolution from tempo worker (2018) to opportunistic winner with refined sprint timing",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HARADA Jesus",
+  "built_from": [
+    "2018 Vuelta a Espana Stage 12",
+    "2018 Vuelta a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 7",
+    "2022 La Vuelta ciclista a Espana Stage 7"
+  ]
+}

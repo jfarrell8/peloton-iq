@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 13",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-14",
+  "stage": 13,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KWIATKOWSKI Michal won from the breakaway after POGACAR attacked in final kilometer, taking time bonus to close on VINGEGAARD's yellow jersey.",
+    "winner": "KWIATKOWSKI Michal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE controlled gap at 1:26-1:27 entire stage to set up Pogacar's late bonus sprint, never allowing break freedom.",
+      "Pogacar left attack until final 500m of Grand Colombier, targeting only time bonus not stage win—energy conservation tactic.",
+      "Vingegaard cracked on Pogacar's final acceleration at finish line, first weakness signal after three mountain stages under pressure.",
+      "POWLESS deliberately sacrificed KOM points on Grand Colombier finish, banking energy for Stage 14's 52-point mountain haul."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "positive: survived despite UAE's sustained pressure on 17.5km climb, beat breakaway companions with 4-second margin in uphill sprint",
+      "POGACAR Tadej": "positive: third consecutive mountain stage taking time from Vingegaard, now using late micro-attacks for bonus seconds rather than sustained efforts",
+      "VINGEGAARD Jonas": "negative: cracked in final 500m kick for first time, lost bonus seconds—Visma relying on higher Alpine stages to reverse trend",
+      "POWLESS Neilson": "positive: tactical maturity to skip finish points, recognizing Stage 14's category one climbs offer superior KOM opportunity",
+      "SHAW James": "positive: breakaway rider salvaged second place and bonus seconds after Kwiatkowski's attack, smart opportunism from domestique role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:56:25.967873+00:00"
+}

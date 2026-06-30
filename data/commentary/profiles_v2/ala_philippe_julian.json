@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Explosive attacks on punchy final climbs (observed winning from late attack with Roglic on final climb). Also opportunistic in technical finales under 3km when positioned for sprint or breakaway scenarios.",
+  "team_tactics": "Versatile role: deployed as leadout man for Viviani but converts to personal opportunities when presented. Not always the protected rider, which creates opportunistic winning chances.",
+  "terrain_preference": "Punchy slopes where he can drop pure climbers (dropped Quintana) combined with technical descents/finales that favor bike handling. Sprint-finish capability after hard efforts distinguishes him from pure climbers.",
+  "vulnerability": "Sprint timing errors in reduced bunch scenarios - opened too early from breakaway chase allowing stronger finisher (van Aert) to come over. May lack sustained climbing power for long mountain stages.",
+  "key_patterns": [
+    "Converts leadout/domestique positioning into personal wins opportunistically when designated leader falters (2 instances)",
+    "Strong in technical finales under 3km, both sprint and post-descent scenarios (2 observations)",
+    "Can outsprint pure climbers after punchy climbs but vulnerable to mistimed efforts against specialists",
+    "Effective in reduced bunch/breakaway scenarios but sprint execution inconsistent compared to pure sprinters"
+  ],
+  "form_trajectory": "neutral: Mixed 2019 results show maintained opportunism (Tirreno win) but execution errors emerging (Dauphine sprint timing). No recent data to confirm trend.",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "ALA PHILIPPE Julian",
+  "built_from": [
+    "2018 Itzulia Basque Country Stage 1",
+    "2019 Criterium du Dauphine Stage 5",
+    "2019 Tirreno-Adriatico Stage 6",
+    "2019 Tirreno-Adriatico Stage 6"
+  ]
+}

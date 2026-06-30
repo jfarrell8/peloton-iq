@@ -1,0 +1,28 @@
+{
+  "label": "2022 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2022-06-08",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 31.9km ITT by 2 seconds over VAN AERT Wout, who lost 22 seconds in the middle sector after dominating early.",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAN AERT lost 22 seconds between splits 1 and 2, then clawed back 9 in final sector—revealing pacing vulnerability mid-effort.",
+      "ROGLIC placed 5th as best GC contender, beating VINGEGAARD by 2 places—signals superior TT form entering Grand Tours.",
+      "CATTANEO took 3rd place and 2nd GC at 53 seconds—QuickStep's hidden ITT weapon unexpectedly competitive against specialists."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "negative: dominated first split by 11 seconds then collapsed in middle sector, suggesting pacing miscalculation or premature exertion",
+      "HAYTER Ethan": "positive: 3rd place in national champ skinsuit at 1:40, strong enough to take white jersey with 5th GC",
+      "ROGLIC Primoz": "positive: 5th place beats fellow GC men VINGEGAARD and CARAPAZ, sits 3rd GC at 56 seconds behind VAN AERT",
+      "VINGEGAARD Jonas": "neutral: 7th place adequate but beaten by ROGLIC, starts 56 seconds down on GC in 4th",
+      "CATTANEO Matteo": "positive: 4th place ITT performance vaults him to 2nd GC, QuickStep domestique unexpectedly competitive against TT specialists",
+      "KWIATKOWSKI Michal": "positive: 5th fastest at second intermediate split indicates sustained power, finished top-10",
+      "GANNA Filippo": "positive: maintained 53.9 km/h average despite technical opening, second split 39 seconds faster than DURBRIDGE benchmark"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:04:58.415578+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KEMNA Leonard won from 7-rider breakaway while Jumbo-Visma created echelons in opening hour at 32mph, splitting peloton before final climb",
+    "winner": "KEMNA Leonard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deployed seven riders into first echelon split, using full squad depth to pressure GC rivals early",
+      "UAE/Soudal drove gutter echelons aggressively rather than fanning out, prioritizing splits over peloton cohesion despite teammates behind",
+      "Time splits taken at 2.6km due to mudslide confusion, creating GC uncertainty between Almeida/Vlasov vs Roglic/Remco/Vingegaard group",
+      "Hamilton bridged solo to established breakaway with 3min advantage already built, signaling poor form entering finale"
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "negative: caught behind initial echelon split, described as 'not where you want to be' minutes back",
+      "SEPKUSS Primoz": "neutral: survived gutter echelons in third wheel with Remco/Vingegaard, but distanced on final 2km steep pitches losing seconds",
+      "ALMEIDA Joao": "positive: came through first of GC group at finish with Vlasov, gaining 5-7 seconds on Roglic/Remco/Vingegaard",
+      "HAMILTON Chris": "negative: required massive solo effort to rejoin breakaway after initial establishment, unlikely to contend after energy expenditure",
+      "ROGLIC Primoz": "negative: finished several seconds behind Almeida despite having teammate Kataneo for support in chase group"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:08:46.219195+00:00"
+}

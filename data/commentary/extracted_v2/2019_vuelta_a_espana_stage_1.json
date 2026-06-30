@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LOPEZ Miguel Angel's Astana won team time trial by 2 seconds over Deceuninck-Quick Step, while Roglic's Jumbo-Visma crashed losing 40 seconds.",
+    "winner": "LOPEZ Miguel Angel",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Astana beat Deceuninck by only 2 seconds despite DQS being sprint-specialized, suggesting course's technical corners favored bike-handling over raw power.",
+      "Jumbo-Visma's crash occurred on painted corners with water, revealing high-speed TTT cornering as major variance creator beyond pure watts.",
+      "EF Education First posted 14:58 with Van Garderen's TT prowess leading, showing non-GC teams can win TTTs when built around specialist.",
+      "Movistar finished only 16 seconds back with Quintana/Valverde sprinting each other at finish, exposing internal leadership tension despite team result."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "negative: Lost 40 seconds and sustained visible hip contusion in Jumbo-Visma crash, physical damage concern beyond time loss",
+      "LOPEZ Miguel Angel": "positive: Astana won TTT making him first leader, team committed solely to his GC bid unlike Movistar's dual leadership",
+      "QUINTANA Nacho": "positive: Led Movistar through finish showing Tour de France recovery complete, asserting team leadership claim over Valverde",
+      "VAN GARDEREN Tejay": "positive: Powered EF to 14:58 third place despite non-GC team composition, confirms TT specialist value in stage-hunting squads",
+      "VALVERDE Alejandro": "neutral: Sprinted Quintana for finish line despite irrelevant time gaps, revealing ego/leadership conflict within Movistar structure"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:06:08.895883+00:00"
+}

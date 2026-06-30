@@ -1,0 +1,26 @@
+{
+  "label": "2018 Paris-Nice Stage 6",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-09",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DEMOULIN Rudy attacked under 2km to go on uphill finish to Vence, holding off favorites after Wellens/Yates earlier bridge failed",
+    "winner": "DEMOULIN Rudy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "WELLENS Tim bridged to YATES Simon on Col d'Eze, but combined effort failed with 5km remaining showing insufficient power advantage.",
+      "AG2R-La Mondiale disrupted peloton rhythm by forcing favorites to chase multiple moves rather than setting single sustained pace.",
+      "PORTE Richie abandoned while second GC with 5km remaining, suggesting illness/mechanical rather than dropped-on-climb weakness pattern."
+    ],
+    "rider_signals": {
+      "DEMOULIN Rudy": "positive: first WorldTour win launching inside 2km on uphill finish suggests similar steep ramps suit him better than classified climbs",
+      "YATES Simon": "neutral: first over final climb but couldn't sustain with Wellens, showing punch without diesel engine on extended efforts",
+      "WELLENS Tim": "positive: bridging ability to reach leaders then still finishing second demonstrates rare diesel-punch combination for future breakaway viability",
+      "PORTE Richie": "negative: abandoning from second GC with 5km left indicates he was already compromised before final climb selection began",
+      "SOLER Marc": "positive: third place in reduced sprint after surviving final climb confirms emerging all-rounder status beyond pure mountain domestique role"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:25:35.898742+00:00"
+}

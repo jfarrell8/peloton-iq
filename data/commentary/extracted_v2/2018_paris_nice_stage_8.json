@@ -1,0 +1,27 @@
+{
+  "label": "2018 Paris-Nice Stage 8",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-11",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SOLER Marc attacked 40km from finish on Col d'Eze/final climbs, overtook YATES Simon for GC by 4 seconds despite starting 37 seconds down.",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SOLER overcame 37-second GC deficit with 40km attack, proving bonus seconds alone insufficient for yellow jersey defense on short mountain stages.",
+      "ISA brothers GIANNI/NIZZOLO coalition targeting YATES yellow jersey backfired when Gianni crashed, dragging brother down and neutralizing team tactics.",
+      "DE LA CRUZ David repeated 2017 stage win strategy, using GC rider SOLER's breakaway as launchpad for stage victory.",
+      "23-rider select group formed before final climb suggesting insufficient pace from YATES' team to control short 110km race."
+    ],
+    "rider_signals": {
+      "YATES Simon": "negative: lost 41 seconds and yellow jersey despite having it at race start, unable to respond to ISA/WELLENS coalition attacks on final climb",
+      "SOLER Marc": "positive: converted 37-second deficit into 4-second victory with sustained 40km effort, showing superior form on consecutive mountain days",
+      "GIANNI Davide": "negative: crashed on final climb while in attacking coalition, taking brother down and destroying ISA's numerical advantage",
+      "DE LA CRUZ David": "positive: won Nice stage finish for second consecutive year, demonstrating repeatable pattern of exploiting GC battles",
+      "HOULE Hugo": "negative: attempted breakaway but suffered weak moment identical to previous day, revealing multi-day fatigue pattern"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:25:59.881204+00:00"
+}

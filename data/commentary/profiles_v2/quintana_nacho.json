@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Does not appear to be an aggressive attacker; focuses on defensive positioning and following moves rather than initiating decisive attacks from distance.",
+  "team_tactics": "Conserves team energy strategically, avoiding unnecessary work in groups. Relies on selective domestique support rather than sustained team tempo control.",
+  "terrain_preference": "Insufficient data to determine specific terrain preference, though capable of defending position on stage race climbs and positioning for GC contention.",
+  "vulnerability": "Limited observations suggest potential weakness in sustained aggressive racing where energy conservation alone is insufficient to gain time.",
+  "key_patterns": [
+    "Tactically conservative: never pulls in groups, relies on wheel-following (Catalunya evidence)",
+    "Asserts team leadership role when in form (Vuelta, Catalunya leadership shown)",
+    "Recovers well between Grand Tours (Tour to Vuelta recovery demonstrated)"
+  ],
+  "form_trajectory": "unknown: 3.5 year gap between observations makes recent trajectory impossible to assess reliably",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "QUINTANA Nacho",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 1",
+    "2022 Volta Ciclista a Catalunya Stage 4"
+  ]
+}

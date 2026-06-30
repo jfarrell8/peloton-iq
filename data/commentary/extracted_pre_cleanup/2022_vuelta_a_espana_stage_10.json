@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 10",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remco destroyed the 19-mile flat time trial by 48 seconds over ROGLIC Primoz, extending GC lead through pure power on pan-flat terrain.",
+    "winner": "EVENEPOEL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL Remco gained 48 seconds on ROGLIC on completely flat terrain, revealing pure power advantage independent of climbing ability.",
+      "BikeExchange team riders HEPBURN and DURBRIDGE placed 2nd/3rd, suggesting their equipment/positioning setup was optimal for this profile.",
+      "YATES Simon lost 50 seconds despite previous TT capability, indicating either illness recovery limitations or equipment mismatch on flat speed parcours."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remco": "positive: 54kph average speed on flat TT at age 22 confirms he possesses diesel engine power rare in climber-weight riders",
+      "ROGLIC Primoz": "neutral: 48-second loss to EVENEPOEL on flat TT larger than expected, suggests his power-to-drag ratio disadvantage on non-technical courses",
+      "YATES Simon": "negative: 50-second deficit indicates post-illness form still compromised despite top-5 GC position after nine stages",
+      "HEPBURN Michael": "positive: BikeExchange equipment/aero setup allowed domestique to briefly hold hot seat at 54kph, revealing team TT optimization",
+      "RODRIGUEZ Carlos": "neutral: Young GC rider maintained fourth overall through rest day, confirming early-race climbing form was genuine not anomaly"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:54:54.544693+00:00"
+}

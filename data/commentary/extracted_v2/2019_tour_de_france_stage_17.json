@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tour de France Stage 17",
+  "race_name": "Tour de France",
+  "race_date": "2019-07-24",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "TRENTIN Matteo attacked just before the final Cat 3 climb (5.2km, 58km to go) from a 33-rider breakaway, soloing to victory with 30 seconds.",
+    "winner": "TRENTIN Matteo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trentin attacked immediately before climb start rather than on it, gaining surprise advantage before chasers organized on gradient.",
+      "Mitchelton-Scott used multi-stage attrition strategy: Trentin previously did 200km break, conditioning field to ignore future moves.",
+      "Sagan deliberately abandoned stage 5 minutes behind peloton after learning heat-based time cut exemption applied to GC group.",
+      "Seven teams without stage wins created desperate 33-rider break on zero kilometer, diluting chase organization from start."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: timed attack precisely before Cat 3 climb after failed earlier efforts, showing tactical patience unusual for breakaway racing",
+      "SAGAN Peter": "neutral: gaming time cut rules by finishing 5min behind after hearing elimination based on contender group, prioritizing tomorrow",
+      "KING Ben": "negative: dropped from decisive Trentin move after executing two hard attacks that emptied him before critical climb",
+      "VAN AVERMAET Greg": "negative: visible in chase behind Trentin but unable to close 30-second gap on Cat 3, questioning climbing form"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:58:15.576333+00:00"
+}

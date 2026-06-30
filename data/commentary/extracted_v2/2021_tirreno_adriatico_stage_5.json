@@ -1,0 +1,27 @@
+{
+  "label": "2021 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2021-03-14",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL survived a 205km solo breakaway by 10 seconds after POGAČAR attacked late and closed a 245-second gap to within striking distance",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Pogačar attacked on the muri finale when Van der Poel was visibly cracking, nearly bridging 4+ minutes in final kilometers alone",
+      "UAE isolated Van der Poel by exhausting him through sustained chase rather than early counterattack on coastal roads",
+      "Formolo's pacing work for UAE proved critical in setting up Pogačar's final acceleration on technical bumpy finishing circuit",
+      "Van der Poel's GC threat forced Pogačar to chase personally rather than delegate, revealing UAE's lack of stage-race climbing depth"
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "negative: admitted being 'completely empty' and unable to process radio information in final kilometers despite winning",
+      "POGAČAR Tadej": "positive: closed 245 seconds to 10 seconds in finale while Van der Poel cracked, showing superior diesel engine on technical punchy walls",
+      "BERNAL Egan": "negative: dropped from contention to lose 1:15 to Pogačar on relatively short punchy climbs, signaling poor form",
+      "LANDA Mikel": "positive: moved to third overall by gaining time on Bernal on punchy terrain, suggesting sharpness for similar profiles",
+      "VAN AERT Wout": "neutral: maintained second at 1:15 but couldn't follow Pogačar's acceleration, establishing ceiling for explosive climbing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:49:38.662586+00:00"
+}

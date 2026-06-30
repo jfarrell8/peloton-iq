@@ -1,0 +1,28 @@
+{
+  "label": "2021 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-12",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb won a chaotic sprint in Cattolica after suffering a dropped chain, passing VIVIANI Elia and NIZZOLO Giacomo in the final meters.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MARENGO Umberto and TAGLIANI Filippo broke early when no other teams wanted energy drain on flat stages before climbs.",
+      "ALPECIN-FENIX led out MERLIER Tim but positioning right-side allowed EWAN Caleb to circumvent organized train despite mechanical.",
+      "NIZZOLO Giacomo sprinted isolated into wind on opposite road side, nearly held on—suggests team lead-out failure critical."
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: recovered from dropped chain to win, shows exceptional bike handling and power reserve in chaotic finale",
+      "NIZZOLO Giacomo": "negative: 11th second place at Giro reveals pattern of strong positioning but insufficient final acceleration to win",
+      "MERLIER Tim": "negative: lost stage despite organized ALPECIN lead-out, suggests vulnerability when train breaks down in final 200m",
+      "LANDA Mikel": "negative: abandoned race in ambulance, removes Bahrain leadership option and elevates CARUSO Damiano importance",
+      "SIVAKOV Pavel": "negative: crashed with nervousness at 5km causing 13-minute loss, confirms GC ambitions over before mountains",
+      "DOMBROWSKI Joe": "negative: crash inside 5km suggests positioning weakness on flat sprint stages, potential GC threat diminished",
+      "VIVIANI Elia": "neutral: strong sprint for third but positioned too early, led out EWAN inadvertently by blocking wind"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:55:16.501050+00:00"
+}

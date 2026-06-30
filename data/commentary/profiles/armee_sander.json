@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Launches final attacks within 600m-6km to go from established breakaways, preferring late decisive accelerations after conserving energy. Targets medium-length climbs (20km at 7%) where breakaway sprinting ability becomes decisive.",
+  "team_tactics": "Minimal team support visible; relies on solo efforts from breakaways rather than team-led setups. Operates independently, conserving energy within break groups before late acceleration.",
+  "terrain_preference": "Medium-gradient sustained climbs (7%) of 20km where breakaway dynamics favor patient, strong finishers. Thrives when sprint speed can be deployed after attrition has reduced competition.",
+  "vulnerability": "Requires breakaway establishment to be effective; no evidence of success from peloton or on explosive/steep gradients. Age (31+ during observations) suggests declining recovery between efforts.",
+  "key_patterns": [
+    "Attacks from established breakaways in final 6km, not from peloton (2 instances)",
+    "Patient energy conservation before late acceleration, described as 'hoarding energy' tactics (2 instances)",
+    "Targets visibility and results through aggressive breakaway participation, contract-motivated riding (2 instances)",
+    "Operates as lone ranger without team support in decisive moments (2 instances)"
+  ],
+  "form_trajectory": "neutral: 3-year gap between observations shows opportunistic wins when breakaways succeed, but no clear progression pattern",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "ARMEE Sander",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 18",
+    "2017 Vuelta a Espana Stage 18",
+    "2020 Giro d'Italia Stage 11"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2020 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2020-08-05",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won Stage 1 Tour Down Under 2020 via MØRKØV Michel leadout, edging PHILIPSEN Jasper after being delivered sub-200m",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "IMPEY Daryl attacked first intermediate sprint at 15km specifically to collect early GC time bonuses before sprinter finale.",
+      "Deceuninck-Quick-Step delivered BENNETT Sam under 200m, timing proved critical as PHILIPSEN Jasper's superior acceleration faded before line.",
+      "STANNARD Ian and INEOS led final circuit pacing, suggesting GC positioning priority despite flat sprint finish expectation."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Power endurance in final 200m overcame PHILIPSEN's acceleration, immediate payoff for Deceuninck move validates sprint leadout compatibility",
+      "PHILIPSEN Jasper": "neutral: Better initial acceleration than BENNETT but lacked power sustainability final 100m, positioning advantage not converted",
+      "IMPEY Daryl": "positive: Proactively hunted bonus seconds 15km in rather than waiting for finish, rare GC aggression on apparent sprint stage",
+      "PEDERSEN Mads": "neutral: Deployed for PORTE Richie protection rather than own sprint ambitions, confirms domestique role despite rainbow jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:39:16.762576+00:00"
+}

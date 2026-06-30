@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Primarily a reduced bunch sprinter rather than attacker; shows willingness to join breakaways on flat stages for tactical positioning rather than solo glory. Most effective in hybrid finales with selective climbs inside final 10km.",
+  "team_tactics": "Quick-Step/Deceuninck frequently misallocates resources around him—placed in breakaways without clear sprint purpose, or left without leadout support despite team numbers. Often used as tactical insurance or GC protection rather than designated finisher.",
+  "terrain_preference": "Thrives in classics-hybrid sprint finales with selective climbs that eliminate pure sprinters (e.g., Oman 2019 win). Exposed on pure flat bunch sprints and uphill power finishes where positioning errors or power limitations become visible.",
+  "vulnerability": "Lacks pure sprint speed in blanket sprints when coming off wheels. Explodes quickly on uphill sprint finishes. Mechanically thin leadout support even within stacked Quick-Step squads. Poor chase contributions when team tactics conflict with breakaway opportunities.",
+  "key_patterns": [
+    "Won reduced bunch sprint after selective climb; struggles in pure flat sprints (Tirreno 2021: 8th)",
+    "Repeatedly left without leadout despite Quick-Step team numbers across multiple races (Tirreno 2021, mechanicals TDF 2021)",
+    "Placed in breakaways on flat stages tactically, not for finishing capability (Giro 2021, Giro 2018)",
+    "Refuses/unable to contribute to chases when Quick-Step has conflicting GC interests (Giro 2020 Sagan chase)",
+    "Power limitations visible: exploded chasing Carapaz uphill, stalled coming off wheel in blanket sprint"
+  ],
+  "form_trajectory": "negative: 2021 shows repeated tactical mismanagement and lack of sprint support, finishing only 8th at Tirreno and suffering mechanical isolation at Tour. No wins since 2019 Oman victory.",
+  "races_analysed": 9,
+  "confidence": "medium",
+  "rider_name": "BALLERINI Davide",
+  "built_from": [
+    "2018 Giro d'Italia Stage 15",
+    "2019 Tirreno-Adriatico Stage 6",
+    "2019 Tour of Oman Stage 4",
+    "2019 Tour of Oman Stage 4",
+    "2020 Giro d'Italia Stage 13",
+    "2020 Tirreno Adriatico Stage 2",
+    "2020 Tour de Pologne Stage 3",
+    "2021 Giro d'Italia Stage 15",
+    "2021 Tirreno-Adriatico Stage 1",
+    "2021 Tour de France Stage 4"
+  ]
+}

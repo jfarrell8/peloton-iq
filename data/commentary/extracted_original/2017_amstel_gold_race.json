@@ -1,0 +1,28 @@
+{
+  "label": "2017 Amstel Gold Race",
+  "race_name": "",
+  "race_date": "",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "GILBERT Philippe won from a quality group sprint after KWIATKOWSKI Michal's 300m attack faded, decisive selection made on Cauberg.",
+    "winner": "GILBERT Philippe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "KWIATKOWSKI attacked 300m out with huge gap but died spectacularly, revealing sprint timing beats explosive power here.",
+      "WELLENS Tim went solo 32km out without followers, suggesting peloton comfortable letting local riders burn matches early.",
+      "Quality selection happened on Cauberg with HAAS Nathan and ALBASINI missing turns, showing wheel positioning trumps pure climbing."
+    ],
+    "rider_signals": {
+      "KWIATKOWSKI Michal": "negative: sailed away from group easily then completely emptied in final 100m, poor sprint management",
+      "GILBERT Philippe": "positive: timed sprint perfectly to overhaul fading attacker, fourth Amstel win confirms course mastery",
+      "WELLENS Tim": "neutral: aggressive 32km solo attempt in home region failed, national jersey didn't inspire tactical fear",
+      "KREUZIGER Roman": "negative: crashed with 32km remaining alongside GASPAROTTO, suggesting positioning issues on technical sections",
+      "VAN AVERMAET Greg": "negative: dropped on Cauberg despite being in quality group, hills too steep for classics engine",
+      "HAAS Nathan": "negative: missed wheel in decisive move despite being present, lacking experience in chaotic finales",
+      "ALBASINI Michael": "neutral: third place but missed key turn earlier, opportunistic rather than controlling"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-13T12:15:35.813190+00:00"
+}

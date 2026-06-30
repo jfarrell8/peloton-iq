@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Launches explosive attacks inside final 600m on uphill finishes, timing moves precisely when favorites hesitate and mark each other. Exploits domestique status to remain unmarked before late kicks.",
+  "team_tactics": "Functions primarily as pace-setter for team leader (Pinot), using domestique role for tactical invisibility before personal opportunities. Works in service until final moments allow opportunistic moves.",
+  "terrain_preference": "Slight uphill finishes requiring short, powerful efforts. Excels on gradient kicks inside final kilometer where positioning and timing trump sustained climbing power.",
+  "vulnerability": "Role as domestique limits personal ambitions; primary tactical vulnerability is team duty constraining freedom to attack earlier or more aggressively.",
+  "key_patterns": [
+    "Attacks inside 600m to go on uphill finishes when leading favorites mark each other (2 observations)",
+    "Leverages domestique invisibility to avoid pre-marking before launching late race-winning moves (2 observations)",
+    "Shows superior finish timing awareness, attacking when favorites hesitate rather than on raw power (2 observations)",
+    "Balances team pacing duties with opportunistic personal attacks in final kilometers (2 observations)"
+  ],
+  "form_trajectory": "positive: Demonstrated race-winning form with perfectly timed attack and continued strong pacing performance day following victory",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "PREIDLER Georg",
+  "built_from": [
+    "2018 Tour de Pologne Stage 6",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Tour de Pologne Stage 6",
+    "2018 Tour de Pologne Stage 7"
+  ]
+}

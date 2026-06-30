@@ -1,0 +1,26 @@
+{
+  "label": "2023 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-13",
+  "stage": 12,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "SOLER Marc won from a breakaway in Belleville-en-Beaujolais, holding off JORGENSON and VERDUGO after a relentlessly aggressive opening.",
+    "winner": "SOLER Marc",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lidl-Trek launched repeated early attacks on Cat-3 climbs forcing break selection before km 140, unusual aggression.",
+      "UAE team radio emphasized GC riders staying vigilant on Cat-3 climbs, treating hilly transition stages as GC threat.",
+      "Polkadot jersey POWLESS abandoned early KOM contest despite points available, prioritizing survival for bigger mountain stages Saturday/Sunday."
+    ],
+    "rider_signals": {
+      "SOLER Marc": "positive: first Tour stage win since 2016, Spanish team manager predicted stage win confidence pre-race",
+      "JORGENSON Matteo": "positive: best Tour finish ever for Boise rider, second place after significant attacking/chasing work",
+      "POWLESS Neilson": "neutral: polkadot lead shrunk 18 to 16 points by choosing survival over contesting Cat-1 climbs early",
+      "PEDERSEN Mads": "positive:sprinter survived relentless Cat-3 attacks to contest finish group, unexpected durability on 3100m elevation gain",
+      "DE LA CRUZ David": "negative: crashed hard on narrow chip-seal descent during early aggressive phase, team car positioning failed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:56:10.792738+00:00"
+}

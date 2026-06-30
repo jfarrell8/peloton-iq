@@ -1,0 +1,28 @@
+{
+  "label": "2021 Tour de France Stage 20",
+  "race_name": "Tour de France",
+  "race_date": "2021-07-17",
+  "stage": 20,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN AERT won the 30.8km ITT by 21 seconds over ASGREEN, while POGACAR rode conservatively to secure his second Tour title by 5:20.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POGACAR rode conservatively to avoid crash risk with 5:45 lead, prioritizing survival over stage hunting despite TT strength.",
+      "KUNG faded in final third despite leading at second check, revealing insufficient three-week endurance for sustained power efforts.",
+      "VAN AERT maintained faster speed through all three time checks showing superior pacing discipline over KUNG's early aggression."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: 51.5kph average speed on rolling TT shows exceptional three-week durability after winning mountain stage",
+      "ASGREEN Kasper": "positive: Danish TT champion at 51kph average suggests underrated stage racing TTer despite no prior GT stage wins",
+      "KUNG Stefan": "negative: European champion faded final third losing to ASGREEN after leading second check, poor three-week pacing strategy",
+      "POGACAR Tadej": "neutral: Eighth place despite TT strength confirms deliberate risk-minimization with large GC margin to defend",
+      "VINGEGAARD Jonas": "positive: Third on stage, second overall debut Tour signals strongest Danish GT rider since RIIS era",
+      "CARAPAZ Richard": "neutral: First Ecuadorian Tour podium but unable to challenge second place, confirming ITT as limiting factor",
+      "BISSEGGER Stefan": "positive: Young Swiss nearly won after first three-week race, early fast time shows emerging TT talent"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:32:15.758830+00:00"
+}

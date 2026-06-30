@@ -1,0 +1,29 @@
+{
+  "attacking_style": "Does not initiate attacks; operates as a positioned finisher relying on team support to place him in decisive selections. Lacks spontaneous offensive action even when within GC striking distance.",
+  "team_tactics": "Teams deploy him as dual-purpose asset: pacing/domestique work for protected leaders (Roglic at Tirreno) or dedicated final-climb positioning when he is the GC option (BORA Vuelta support to 6th). Wind anticipation and split-forcing emphasized.",
+  "terrain_preference": "High-mountain finishes where team tempo can deliver him into top-10 GC positions without requiring individual attacks. Struggles when mechanical reliability or positioning errors matter.",
+  "vulnerability": "Crashes and mechanicals at critical race moments have eliminated him from contention repeatedly (2017 Giro moto crash, 2022 Giro Blockhaus mechanical, 2022 Vuelta crash abandonment, 2023 Tirreno crash into Woods). Lacks recovery form after setbacks.",
+  "key_patterns": [
+    "Crashes/mechanicals ended GC campaigns in 4 of 10 observations across multiple seasons.",
+    "Accepts domestique role for team leaders despite own GC capability (Roglic support, climb pacing).",
+    "Teams commit resources to position him but he shows no attacking initiative himself.",
+    "Wind/echelon anticipation a repeated team tactical emphasis (2019 Vuelta split positioning).",
+    "After time loss, switches to stage-hunting rather than GC recovery (2022 Giro bridging)."
+  ],
+  "form_trajectory": "negative: 2022-2023 marked by crashes, abandonments, and relegation to domestique duties with no GC contention shown",
+  "races_analysed": 10,
+  "confidence": "high",
+  "rider_name": "KELDERMAN Wilco",
+  "built_from": [
+    "2017 Giro d'Italia Stage 10",
+    "2019 Tour de France Stage 5",
+    "2019 Vuelta a Espana Stage 17",
+    "2022 Giro d'Italia Stage 12",
+    "2022 Giro d'Italia Stage 9",
+    "2022 La Vuelta ciclista a Espana Stage 12",
+    "2022 La Vuelta ciclista a Espana Stage 14",
+    "2022 La Vuelta ciclista a Espana Stage 15",
+    "2023 Tirreno-Adriatico Stage 5",
+    "2023 Tirreno-Adriatico Stage 6"
+  ]
+}

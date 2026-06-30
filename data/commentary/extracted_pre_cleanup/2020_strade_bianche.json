@@ -1,0 +1,27 @@
+{
+  "label": "2020 Strade Bianche",
+  "race_name": "Strade Bianche",
+  "race_date": "2020-08-01",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN AERT attacked solo 12km out on the descent after the Colle Pinzuto sector, time-trialed away from SCHACHMANN, FORMOLO, and BETTIOL to win alone.",
+    "winner": "VAN AERT Wout",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN AERT attacked on descent after Tolfe/Pinzuto rather than the climb itself, proving attack-on-descent negates climbing-weight disadvantage.",
+      "VAN AVERMAET rode defensively watching others work, drifting back when FUGLSANG attacked—conservative approach failed in extreme heat conditions.",
+      "Heat-focused hydration strategy gave VAN AERT decisive advantage over final 12km against lighter climbers who traditionally excel here."
+    ],
+    "rider_signals": {
+      "VAN AERT Wout": "positive: attacked 12km out downhill after rivals exhausted on climb, time-trialed 3+ minutes into chasers despite 2019 injury concerns",
+      "FUGLSANG Jakob": "negative: opened gap early on San Martino in Grana sector but quickly caught, lacked punch when SCHACHMANN countered",
+      "SCHACHMANN Maximilian": "neutral: made final selection with VAN AERT, FORMOLO, BETTIOL but unable to respond to descent attack",
+      "BETTIOL Alberto": "neutral: reached final four but faded badly, losing 3+ minutes—defending champion showed form decline in heat",
+      "FORMOLO Davide": "neutral: made podium group but dropped significantly when VAN AERT attacked descent, finished outside top positions",
+      "VAN AVERMAET Greg": "negative: riding conservatively watching others, drifted back when attacks came—passive tactics eliminated him before finale"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:31:28.648909+00:00"
+}

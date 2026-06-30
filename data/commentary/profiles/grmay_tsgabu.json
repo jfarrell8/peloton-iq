@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Initiates attacks on decisive climbs but lacks sustained power to maintain efforts when countered by stronger climbers. Tends to be aggressive early on key ascents rather than waiting for final kilometers.",
+  "team_tactics": "Limited evidence of team support; appears to ride with considerable autonomy. No clear pattern of domestique positioning or tempo control observed in available data.",
+  "terrain_preference": "Mountain stages with decisive climbs where initial aggression can create separation. Struggles on terrain requiring repeated accelerations or sustained high-intensity efforts after initial attacks.",
+  "vulnerability": "Exposed when stronger climbers counter his attacks; lacks the sustained power to respond or follow back when pace intensifies after his initial move. Cannot maintain efforts through to finish.",
+  "key_patterns": [
+    "Attacks decisively on climbs but fades when pace remains high after counters",
+    "Shows aggressive intent but limited ability to convert attacks into sustained advantage"
+  ],
+  "form_trajectory": "neutral: showed attacking intent but clear physical limitations in converting aggression to results",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GRMAY Tsgabu",
+  "built_from": [
+    "2019 Vuelta a Espana Stage 14",
+    "2019 Vuelta a Espana Stage 6"
+  ]
+}

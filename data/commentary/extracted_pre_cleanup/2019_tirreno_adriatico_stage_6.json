@@ -1,0 +1,26 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 6",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-18",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE won a bunch sprint at 187km after BALLERINI's breakaway caught at 3km, exploiting sprinter fatigue and RICHÁRD's leadout",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BALLERINI survived in break until 3km despite peloton hovering 37 seconds back, revealing successful gap management under pressure.",
+      "ALAPHILIPPE positioned as final leadout man for VIVIANI then opportunistically sprinted himself, exposing GC rider versatility in tired peloton.",
+      "RICHEZE delivered final pull for Quick-Step but ALAPHILIPPE on his wheel capitalized, showing designated sprinter VIVIANI was mispositioned.",
+      "Stage 6 fatigue allowed non-sprinter ALAPHILIPPE to win bunch sprint, indicating pure sprinters lose speed advantage in multi-day races."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: gained 10 bonus seconds in GC while winning proper bunch sprint, demonstrating rare versatility when specialists fatigued",
+      "BALLERINI Davide": "positive: survived in breakaway until 3km to go despite peloton at sub-2min gap, showing strong breakaway resilience",
+      "VIVIANI Elia": "negative: mispositioned in own team's leadout while ALAPHILIPPE took wheel of RICHEZE, revealing sprint train coordination failure",
+      "RICHEZE Maximiliano": "positive: delivered massive final pull for Quick-Step despite ALAPHILIPPE rather than VIVIANI capitalizing on positioning"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:04:29.180491+00:00"
+}

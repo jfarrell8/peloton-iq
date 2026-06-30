@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tour de France Stage 10",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-08",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won stage 10 in a technical sprint finale after Michael Morkov delivered a perfectly-timed 100m leadout on narrow roads.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Peloton suppressed breakaway to sub-2min from gun, indicating sprinter teams prioritized control due to scarcity of remaining sprint stages.",
+      "Teams prioritized positioning before km87 right turn onto narrow roads, creating pre-finale bottleneck stress point 80km from finish.",
+      "Morkov's 100m leadout launch point proved optimal against premature Greipel acceleration, suggesting shorter final windups succeed on technical finishes."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: First Irish stage win since Roche 1992, took green jersey with 21-point lead suggesting genuine Sagan threat",
+      "MORKOV Michael": "positive: Perfectly calibrated 100m leadout timing superior to rival trains, critical domestique skill demonstration",
+      "SAGAN Peter": "negative: Finished third but lost green jersey by 21 points on pure sprint stage, signals declining sprint dominance",
+      "GREIPEL Andre": "neutral: Showed return-to-form speed but launched too early, got chopped on corner positioning",
+      "ROGLIC Primoz": "neutral: First Slovenian yellow jersey holder navigated stress-filled flat stage without GC gaps, validated crash-avoidance skills"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:22:24.060965+00:00"
+}

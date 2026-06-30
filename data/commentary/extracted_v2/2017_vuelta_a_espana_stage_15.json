@@ -1,0 +1,26 @@
+{
+  "label": "2017 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2017-09-03",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "LOPEZ Miguel Angel attacked 13km from finish on Monachil climb, dropped Contador from breakaway trio, took his third stage win.",
+    "winner": "LOPEZ Miguel Angel",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lopez systematically attacks breakaways rather than peloton at 2000m+ altitude, conserving energy by avoiding pace-making duties early.",
+      "Zakarin outsprinted Nibali 6km from finish when both marked each other in GC group, showing third-place podium aggression.",
+      "Astana and Bahrain-Merida controlled peloton to keep 17-man break under 3min, suggesting they wanted selective finale not wholesale breakaway success."
+    ],
+    "rider_signals": {
+      "LOPEZ Miguel Angel": "positive: Third stage win in four days at high altitude confirms exceptional adaptation above 2000m compared to GC rivals.",
+      "CONTADOR Alberto": "negative: Dropped by Lopez with 6km remaining and barely held GC group suggests Madrid podium no longer realistic.",
+      "ZAKARIN Ilnur": "positive: Aggressive enough to outsprint Nibali for second shows he's racing for final podium position not defending.",
+      "YATES Simon": "neutral: Gained ground initially on final climb but faded, revealing limits at extreme altitude versus stage-race fatigue.",
+      "FROOME Chris": "positive: Gained 6 seconds on Nibali without attacking on brutal summit finish, signaling superior high-altitude recovery."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:13:30.046666+00:00"
+}

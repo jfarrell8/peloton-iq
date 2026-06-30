@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Attacks solo from established breakaways before final climbs, forcing premature reactions from stronger riders. Prefers initiating moves 20-30km out to build gaps before key terrain.",
+  "team_tactics": "Operates with significant autonomy in breakaways as experienced diesel engine. Minimal team setup required; relies on individual positioning and break management rather than domestique support.",
+  "terrain_preference": "Long-distance breakaways on transitional stages with circuit racing or multi-climb profiles. Thrives in scenarios requiring sustained diesel efforts over 100km+ before selective finales.",
+  "vulnerability": "Poker tactics in breaks can backfire when companions refuse cooperation. Age-related decline limits ability to follow explosive accelerations on steep climbs after long efforts.",
+  "key_patterns": [
+    "Attacks solo from established breaks before final obstacles, documented at Giro and Dauphiné (2 instances)",
+    "Sustains long breakaway efforts 6+ hours, viable diesel engine for marathon breaks (2 instances)",
+    "Tactical experience forces premature GC rider responses, disrupting chase organization (2 instances)",
+    "Operates as break spoiler/aggressor rather than waiting for final sprint (2 instances)"
+  ],
+  "form_trajectory": "negative: Aging diesel (35+ years) still functions for long breaks but tactical gambles increasingly backfire; diminishing returns on experience versus declining physical capacity",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "BAKELANTS Jan",
+  "built_from": [
+    "2019 Giro d'Italia Stage 17",
+    "2019 Giro d'Italia Stage 17",
+    "2021 Tirreno-Adriatico Stage 6",
+    "2022 Criterium du Dauphine Stage 5"
+  ]
+}

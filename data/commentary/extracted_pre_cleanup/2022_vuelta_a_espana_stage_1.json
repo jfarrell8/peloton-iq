@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 1",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GESINK Robert led Jumbo-Visma to TTT victory by 13 seconds over Ineos, claiming his first grand tour leader's jersey at age 36.",
+    "winner": "GESINK Robert",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma deliberately sent GESINK Robert across line first for ceremonial leader's jersey despite not being GC leader.",
+      "BikeExchange sacrificed riders early to maintain pace, losing over 41 seconds, revealing insufficient TTT depth for stage hunting.",
+      "Quick-Step climber-heavy squad finished 1 second behind Ineos, suggesting inexperience or poor pacing cost podium in short TTT.",
+      "Groupama-FDJ unexpectedly fast with 41-second margin over EF, indicating hidden TTT strength despite not bringing pure TT specialists."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: brought exceptionally strong TTT squad (Hamilton, Hepburn, Craddock) suggesting serious GC ambition beyond climbing strength",
+      "ROGLIC Primoz": "positive: positioned in gold helmet with domestiques controlling pace, team prioritized his GC defense over stage result",
+      "EVENEPOEL Remco": "neutral: Quick-Step rode well but 1-second loss to Ineos suggests either pacing error or squad limitation in short TTT",
+      "GESINK Robert": "positive: crossing line first at 36 years old on home roads ceremonial, but reveals Jumbo depth allows GC domestique showcase"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:54:42.195640+00:00"
+}

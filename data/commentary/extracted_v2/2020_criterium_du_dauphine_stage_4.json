@@ -1,0 +1,30 @@
+{
+  "label": "2020 Criterium du Dauphine Stage 4",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2020-08-15",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KÄMNA Lennard won from a 15-rider breakaway after mass GC carnage saw Kruijswijk, Buchmann, and Mühlberger crash out plus Roglic's early crash",
+    "winner": "KÄMNA Lennard",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo visibly vulnerable without Kruijswijk: Roglic survived only because rivals couldn't exploit his crash damage on final climb",
+      "Landa attacked late on Megeve runway but lacked finishing power, revealing his form peak still insufficient despite shedding weaker climbers",
+      "15-rider breakaway given 4+ minutes indicates peloton chaos from crashes disrupted normal chase dynamics throughout stage"
+    ],
+    "rider_signals": {
+      "KÄMNA Lennard": "positive: first WorldTour win at 23 shows Bora found a stage-hunting breakthrough climber post-lockdown",
+      "ROGLIC Primoz": "negative: crashed at km 82 and barely defended on runway despite no attacks, saved only by rivals' passivity",
+      "KRUIJSWIJK Steven": "negative: dislocated shoulder ends Dauphine, compromises Tour selection for Jumbo's co-leadership plan",
+      "BUCHMANN Emanuel": "negative: crashed out while 3rd overall, exposing Bora's Tour depth crisis after losing three riders in one stage",
+      "THOMAS Geraint": "negative: dropped early and sweating profusely signals form far from Tour-ready despite stage race opportunity",
+      "FROOME Chris": "negative: lost 26:30 confirms he's riding into form rather than competing, selection for Tour now questionable",
+      "LANDA Mikel": "neutral: initiated late acceleration on runway but couldn't sustain, showing tactical ambition exceeds current diesel",
+      "ALAPHILIPPE Julian": "positive: attacked for 3rd place after struggling previous day, signals rapid form recovery pattern pre-Tour",
+      "PINOT Thibaut": "positive: moved to 2nd overall and tested Roglic on runway, confirming GC threat status after injury doubts"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:12:15.707092+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Attacks from breakaways with significant distance remaining (18km observed), then extends advantage on final climbs through time trial power. Prefers long-range moves requiring sustained power rather than explosive accelerations.",
+  "team_tactics": "Primarily functions as elevated domestique with chase/tempo duties for UAE, but given freedom in breakaway scenarios. Limited evidence of dedicated leadout support; tactical role flexible based on race situation.",
+  "terrain_preference": "Hybrid stages favoring TT specialists with climbing components. Excels when heat and distance create attrition. Final climbs suit his ability to grind power rather than punchy/steep gradients.",
+  "vulnerability": "Crashes significantly compromise his race effectiveness due to high power expenditure required to rejoin. Stage role becomes compromised when recovering from incidents, suggesting limited explosive reserves.",
+  "key_patterns": [
+    "Time trial power translates to climbing resilience on long, hot stages (2 observations)",
+    "Effective in extended chase/tempo efforts for team, demonstrating domestique versatility (2 observations)",
+    "Breakaway success dependent on solo time trialing ability after attacking from groups (2 observations)",
+    "Stage disruptions via crashes disproportionately affect his performance capacity (observed weakness)"
+  ],
+  "form_trajectory": "positive: 2022 showed evolution from pure domestique to stage-hunting capability, winning from breakaway with climbing resilience that exceeded TT specialist expectations",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "LAENGEN Vegard Stake",
+  "built_from": [
+    "2018 Volta Ciclista a Catalunya Stage 3",
+    "2018 Vuelta a Espana Stage 6",
+    "2022 Tour de Pologne Stage 2",
+    "2022 Tour de Pologne Stage 2"
+  ]
+}

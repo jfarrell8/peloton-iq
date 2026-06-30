@@ -1,0 +1,29 @@
+{
+  "label": "2017 Giro d'Italia Stage 18",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-25",
+  "stage": 18,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN GARDEREN attacked in final kilometers to win Stage 18 while DUMOULIN neutralized multiple QUINTANA attacks to defend maglia rosa",
+    "winner": "VAN GARDEREN Tejay",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "DUMOULIN used time trial power to bridge back immediately after summit rather than chasing before crest",
+      "QUINTANA launched multiple accelerations but never committed fully without ANACONA support failing tactical execution",
+      "PINOT opportunistically gained 90+ seconds on GC rivals by following late moves without initiating work",
+      "ZAKARIN attacked from 2:40 down showing teams outside podium positions willing to gamble late stage"
+    ],
+    "rider_signals": {
+      "VAN GARDEREN Tejay": "positive: won from breakaway outsprinting LANDA showing recovered form after GC ambitions ended",
+      "DUMOULIN Tom": "positive: isolated by team but neutralized attacks through superior pacing judgment on summit transitions",
+      "QUINTANA Nairo": "negative: multiple attacks gained nothing revealing lack of decisive acceleration against DUMOULIN",
+      "NIBALI Vincenzo": "negative: forced to chase for group while DUMOULIN refused work showing tactical weakness at 53s",
+      "PINOT Thibaut": "positive: jumped to 1:36 from distant position by refusing chase work and following late moves",
+      "ZAKARIN Ilnur": "positive: attacked to 1:58 from 2:40+ showing willingness to speculate from non-podium positions",
+      "LANDA Mikel": "neutral: second place again enhancing KOM but still cannot convert breakaway presence to wins"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:59:30.760735+00:00"
+}

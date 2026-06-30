@@ -1,0 +1,30 @@
+{
+  "label": "2022 Tour de Pologne Stage 1",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-07-30",
+  "stage": 1,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "WILLIAMS Stephen won uphill sprint finish after peloton caught break on final climb, with UAE tandem VLASOV/HIRSCHI driving pace before 26-year-old Welsh rider outsprinted SCHACHMANN and KRON",
+    "winner": "WILLIAMS Stephen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VLASOV Alexander and HIRSCHI Marc UAE tandem briefly separated peloton on final climb, revealing coordinated dual-protected leadership structure",
+      "Break caught on final categorized climb rather than descent indicates teams prioritized controlled selective peloton over risky chase",
+      "WILLIAMS Stephen positioned on left in sprint chaos while favorites chose center/right, suggesting underestimation created space for surprise winner"
+    ],
+    "rider_signals": {
+      "WILLIAMS Stephen": "positive: first World Tour win at 26 suggests late development curve, converted positioning advantage when favorites marked each other",
+      "VLASOV Alexander": "positive: attacked with HIRSCHI showing UAE comfortable deploying dual cards on lumpy finishes despite neither finishing top-3",
+      "SCHACHMANN Max": "neutral: second place but failed to cover left side where winner emerged, prioritized wrong positioning in final 200m",
+      "KRON Andreas": "positive: third as best young rider signals climbing punch adequate for lumpy one-week stages despite sprint limitations",
+      "HIRSCHI Marc": "positive: shared attacking duties with VLASOV before leadout work, demonstrating tactical flexibility beyond pure finishing role",
+      "PINOT Thibaut": "negative: dropped on final climb of 180km lumpy stage indicates form deficit even on terrain theoretically suited to his characteristics",
+      "MARTINEZ Daniel": "negative: distanced alongside PINOT on modest gradient suggests insufficient racing load or recovery issues rather than pure form",
+      "SAGAN Peter": "negative: eliminated before final circuit lap confirms complete inability to contest even lumpy sprint stages at this career stage",
+      "KRISTOFF Alexander": "negative: dropped with SAGAN indicates similar decline trajectory, cannot survive selective pace on categorized climbs before sprint"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:46:58.361334+00:00"
+}

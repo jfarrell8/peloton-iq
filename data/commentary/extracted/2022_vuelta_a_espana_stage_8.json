@@ -1,0 +1,28 @@
+{
+  "label": "2022 Vuelta a Espana Stage 8",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 8,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VINE Jay attacked solo from breakaway on final Cat-1 climb, took second stage win while EVENEPOEL Remco distanced ROGLIC Primoz in GC group sprint",
+    "winner": "VINE Jay",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VINE Jay attacked solo 1-2km from summit on Cat-1 finale, held 43s over chasers despite SOLER Marc closing to 20s at 700m.",
+      "EVENEPOEL Remco rode controlled tempo on finale rather than attacking, still gapped ROGLIC Primoz and YATES Simon by seconds.",
+      "JAY VINE secured breakaway after Category 2 opening climb eliminated sprinters, making time cut the secondary race dynamic.",
+      "LOPEZ Miguel Angel and AYUSO Juan chased in separate group 20-40s behind red jersey, revealing cracks in GC cohesion."
+    ],
+    "rider_signals": {
+      "VINE Jay": "positive: second stage win in three days from breakaway, finished 43s ahead despite late fade, emerging Grand Tour climber",
+      "EVENEPOEL Remco": "positive: controlled GC group tempo without attacking, still distanced ROGLIC and YATES, stronger than Stage 6 performance",
+      "ROGLIČ Primož": "negative: dropped by EVENEPOEL's tempo riding on finale, conceded seconds and fell to third overall at 1:01",
+      "SOLER Marc": "positive: closed from 1:46 down to 20s behind VINE with 700m remaining, exceptional late-climb acceleration",
+      "AYUSO Juan": "negative: riding 20-40s behind red jersey group with LOPEZ, lost significant time despite white jersey position",
+      "YATES Simon": "negative: distanced by EVENEPOEL on finale, losing contact with podium contenders on steep gradients"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:57:21.720064+00:00"
+}

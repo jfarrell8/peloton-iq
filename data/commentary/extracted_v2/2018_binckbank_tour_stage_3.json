@@ -1,0 +1,23 @@
+{
+  "label": "2018 BinckBank Tour Stage 3",
+  "race_name": "BinckBank Tour",
+  "race_date": "2018-08-15",
+  "stage": 3,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "VANDERHORN Jakko (Roompot) won Stage 3 by attacking while breakaway companions watched MAHARICH, exploiting focus on the jersey competition.",
+    "winner": "VANDERHORN Jakko",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VANDERHORN exploited MAHARICH jersey calculation paralysis in final 500m while DE BIE tracked wrong wheel, revealing breakaway sprint psychology.",
+      "Roompot executed structured breakaway pacing: two-minute turns early, then accelerated at 70km mark with one-minute rotations into final 30km."
+    ],
+    "rider_signals": {
+      "VANDERHORN Jakko": "positive: 24-year-old ProContinental rider decisively beat WorldTour sprinters by timing attack when they fixated on jersey contender",
+      "MAHARICH Matej": "negative: allowed jersey bonus calculation to distract from stage win, got marked heavily but failed to convert attention",
+      "DE BIE Sean": "negative: marked MAHARICH instead of VANDERHORN despite being fastest breakaway rider, tactical error cost podium position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:16:36.109419+00:00"
+}

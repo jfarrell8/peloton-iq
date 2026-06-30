@@ -1,0 +1,24 @@
+{
+  "label": "2019 Ronde Van Vlaanderen",
+  "race_name": "Ronde Van Vlaanderen",
+  "race_date": "2019-04-07",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "BETTIOL Alberto soloed to his first professional victory from a long-range attack in the final 14km, holding off ASGREEN Kasper by seconds",
+    "winner": "BETTIOL Alberto",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "BETTIOL attacked solo at approximately 14km to go without prior wins, suggesting teams underestimated EF's willingness to gamble.",
+      "ASGREEN chased as an individual rather than organizing group pursuit, revealing lack of coordination behind late solo moves.",
+      "VANMARCKE rode domestique for BETTIOL despite palmares advantage, showing EF committed fully to surprising tactical hierarchy inversion."
+    ],
+    "rider_signals": {
+      "BETTIOL Alberto": "positive: won first career pro race with 14km solo, indicating hidden form peak that betting markets missed",
+      "ASGREEN Kasper": "positive: finished second despite chasing alone in final 14km, showing exceptional time-trialing strength on Vlaanderen finale",
+      "VANMARCKE Sep": "neutral: worked for BETTIOL as domestique suggesting EF recognized his form decline relative to teammates"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:02:52.700110+00:00"
+}

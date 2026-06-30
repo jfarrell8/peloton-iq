@@ -1,0 +1,28 @@
+{
+  "label": "2022 Eschborn-Frankfurt",
+  "race_name": "Eschborn-Frankfurt",
+  "race_date": "2022-05-01",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won from GAVIRIA wheel after VAN POPPEL Danny leadout, surviving late KRISTOFF Alexander charge for fifth title.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bora-Hansgrohe controlled with BENNETT but KRISTOFF positioned independently, showing dual-threat sprinter strategy rather than single leadout train.",
+      "REIJNDERS Jens survived in two sequential breakaways including regaining contact after Mammolshain drop, revealing exceptional diesel endurance pattern.",
+      "Finale attacks on Mammolshain failed to stick before 50km, suggesting sprinter teams now defend earlier than traditional final-lap control.",
+      "DOWSETT Alex stringing out late for Israel-Premier suggests non-sprint teams gambling on attrition rather than accepting bunch kick."
+    ],
+    "rider_signals": {
+      "REIJNDERS Jens": "positive: attacked twice, regained contact after being dropped on Mammolshain, caught only inside final kilometers shows exceptional breakaway durability",
+      "BENNETT Sam": "positive: returned to top form after difficult season, won cleanly from second wheel behind VAN POPPEL",
+      "KRISTOFF Alexander": "positive: positioned himself independently from BENNETT despite same team, nearly won fifth title suggesting protected co-leadership still viable",
+      "BINIAM Girmay": "neutral: animated late but faded, first race back after Giro suggests timing still off",
+      "VAN POPPEL Danny": "positive: executed textbook leadout into headwind finale, could celebrate 200m out showing total control",
+      "BAUHAUS Phil": "neutral: fourth with home crowd suggests still ceiling below top-tier sprinters despite Bahrain support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:06:37.021232+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2023 Vuelta a Espana Stage 15",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2023-01-01",
+  "stage": 15,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COSTA Rui won from the breakaway with a calculated sprint, holding off EVENEPOEL Remco's late charge by two seconds.",
+    "winner": "COSTA Rui",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EVENEPOEL Remco closed 35 seconds in final kilometer on descent, nearly catching breakaway but mistimed effort by two seconds.",
+      "Jumbo-Visma forced to chase when VINGEGAARD Jonas's teammate went in dangerous 25-rider break with SOLER Marc and VLASOV.",
+      "BUITRAGO Santiago gained KOM points despite not contesting sprint, revealing breakaway stage can still serve GC secondary objectives.",
+      "KEMNA Leonard already stage winner got into break but COSTA Rui conserved energy throughout, never panicking despite Evenepoel's charge."
+    ],
+    "rider_signals": {
+      "COSTA Rui": "positive: Former world champion's sprint calculated perfectly, conserving energy through entire stage to hold off Evenepoel by two seconds",
+      "EVENEPOEL Remco": "positive: Closed 35 seconds in final kilometer alone, nearly bridging from peloton to breakaway on descent showing elite time-trial power",
+      "KEMNA Leonard": "positive: Second break entry this Vuelta after already winning stage, consistently reading breakaway-suitable stages correctly",
+      "BUITRAGO Santiago": "neutral: In break but didn't contest sprint, prioritizing KOM points over stage result reveals split objectives",
+      "VINGEGAARD Jonas": "negative: Teammate going in break forced Jumbo to chase, suggesting internal confusion about defending KUSS Sepp's jersey"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:32:32.393187+00:00"
+}

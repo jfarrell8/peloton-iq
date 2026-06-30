@@ -1,0 +1,27 @@
+{
+  "label": "2017 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2017-04-19",
+  "stage": null,
+  "channel": "Tour de France",
+  "extraction": {
+    "one_line_summary": "VALVERDE Alejandro controlled by Movistar team pacing then attacked final 200m of Mur de Huy 10% section, fifth career win.",
+    "winner": "VALVERDE Alejandro",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "JUNGELS Bob bridged to DE MARCHI Alessandro at second Mur passage then soloed 11km out, revealing unsustainable energy expenditure pattern.",
+      "Movistar and Lotto Soudal dual pacing control neutralized six-rider break before second Mur passage, preventing any cooperation zones.",
+      "GAUDU David attacked 200m from finish on steepest Mur section, timing too early against VALVERDE's late acceleration strength."
+    ],
+    "rider_signals": {
+      "VALVERDE Alejandro": "positive: fifth Fleche win, 10th season victory pre-37th birthday shows exceptional Mur de Huy repeatability pattern",
+      "MARTIN Dan": "positive: third podium in four years signals consistent Mur finishing strength despite never winning",
+      "TEUNS Dylan": "positive: biggest classic result suggests BMC rider's Mur climbing improving toward podium-contention tier",
+      "JUNGELS Bob": "neutral: strong enough to solo 11km but caught final climb reveals misjudged effort distribution",
+      "GAUDU David": "neutral: attacked 200m out but lacked finishing punch, positioning correct but acceleration deficit exposed",
+      "DE MARCHI Alessandro": "neutral: led second Mur passage but couldn't sustain when JUNGELS countered, showing one-dimensional pacing"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:02:24.267999+00:00"
+}

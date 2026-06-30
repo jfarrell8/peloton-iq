@@ -1,0 +1,27 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-07",
+  "stage": 1,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "BMC won the TTT in 22:23, beating Mitchelton-Scott by 4 seconds with Dennis driving the final surge.",
+    "winner": "BMC Racing Team",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC gained 4 seconds in final 500m with Dennis pulling, suggesting late-stage power reserves decisive over distributed pacing.",
+      "Mitchelton-Scott unexpectedly matched Sky/BMC power despite lacking traditional TTT pedigree, finishing only 4 seconds off winning time.",
+      "Sky lost TTT despite Froome/Thomas leadership by placing only third at 9 seconds, revealing 2018 depth weakness compared to rivals.",
+      "Cavendish mechanical forced road bike substitution mid-TTT, Dimension Data finished 40+ seconds down, eliminating sprint GC protection strategy."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "neutral: designated lead-out role but Sky only third at +9 seconds suggests team strength deficit not individual form issue",
+      "DENNIS Rohan": "positive: pulled BMC through final meters to overtake Mitchelton-Scott by 4 seconds, demonstrating decisive late-effort capacity",
+      "CAVENDISH Mark": "negative: crashed during TTT with facial injuries and torn kit, compromised sprint preparation and lost 40+ seconds on GC contenders",
+      "ARU Fabio": "neutral: UAE finished respectable 23:04 matching EF times, suggesting adequate form without revealing GC ceiling",
+      "KELDERMAN Wilco": "positive: Sunweb maintained five riders to line including Kelderman, preserving GC position while rivals hemorrhaged time"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:26:53.507483+00:00"
+}

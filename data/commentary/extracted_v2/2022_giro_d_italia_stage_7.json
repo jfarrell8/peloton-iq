@@ -1,0 +1,27 @@
+{
+  "label": "2022 Giro d'Italia Stage 7",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-13",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BALMANN Koen won from 7-rider breakaway after spending time as virtual maglia rosa on 4000m+ climbing stage, attacking repeatedly final 30km.",
+    "winner": "BALMANN Koen",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Trek-Segafredo successfully defended pink with Formolo in break, avoiding full team chase while controlling gap under virtual jersey threshold.",
+      "Ineos prioritized preventing virtual maglia rosa change over break composition, revealing jersey defense takes precedence over stage win opportunities.",
+      "Dumoulin repeatedly dropped then bridged in final 30km attacks, suggesting diesel engine recovering form rather than explosive climbing deficit.",
+      "Seven-rider break required over 30km formation past first climb, indicating peloton reluctance to release quality riders on 4000m stages."
+    ],
+    "rider_signals": {
+      "BALMANN Koen": "positive: First GT stage win ever, became virtual rosa mid-stage, dropped at 25km but bridged back, won uphill sprint at 13% gradient",
+      "DUMOULIN Tom": "neutral: Dropped multiple times in final 30km but consistently bridged back, finished 4th suggesting improving condition but no explosive power",
+      "LOPEZ Juanpe": "positive: Trek's Formolo breakaway protection allowed Lopez group to ride defensively, successfully neutralizing Kemna's late attack despite limited team strength",
+      "VILLELLA Davide": "negative: Ineos rider in break dropped earlier than Dumoulin despite team's controlling tempo, suggesting support role exhausted climbing reserves",
+      "KEMNA Lennard": "negative: Failed to force split despite late attack with Lopez isolated, revealing lack of firepower to exploit numerical disadvantage situations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:10:57.968297+00:00"
+}

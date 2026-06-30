@@ -1,0 +1,27 @@
+{
+  "attacking_style": "Reactive opportunist rather than primary aggressor. Follows moves of stronger GC riders (e.g., Roglic attacks) to gain time on rivals, rarely initiates decisive attacks himself.",
+  "team_tactics": "Functions effectively as super-domestique for team leaders (Pogačar at Catalunya 2023), but when leading GC efforts shows poor domestique management—burns support too early leaving himself isolated on final climbs.",
+  "terrain_preference": "Sustained climbs favor him over short explosive efforts. Vulnerable on steepest gradient changes where he loses time to pure climbers. Capable in breakaway scenarios but shows tactical hesitation in finish execution.",
+  "vulnerability": "Steep gradient sections expose limitations versus elite climbers (Lopez/Roglic/Mas). Poor pacing of domestique support leads to isolation on decisive climbs. Tactical indecision in winning situations.",
+  "key_patterns": [
+    "Burns domestiques prematurely, suffers isolated on final climbs (Vuelta 2021 multiple stages)",
+    "Successfully follows attacks from stronger riders rather than initiating own moves (Roglic 2021)",
+    "Excels as super-domestique for protected leaders, sustaining high tempo on major climbs (Catalunya 2023)",
+    "Strong positioning discipline in GC groups, survives key selections even when not animating",
+    "Tactical hesitation costs stage wins despite strong climbing legs in breakaways"
+  ],
+  "form_trajectory": "neutral: Transitioned to elite domestique role (2023) after mixed GC leadership (2021-2022) where podium potential undermined by tactical errors and team management issues",
+  "races_analysed": 8,
+  "confidence": "medium",
+  "rider_name": "HAIG Jack",
+  "built_from": [
+    "2017 Tour de Pologne Stage 4",
+    "2019 Criterium du Dauphine Stage 8",
+    "2021 La Vuelta ciclista a Espana Stage 10",
+    "2021 La Vuelta ciclista a Espana Stage 18",
+    "2021 La Vuelta ciclista a Espana Stage 20",
+    "2021 Vuelta a Espana Stage 21",
+    "2022 Paris-Nice Stage 7",
+    "2023 Volta Ciclista a Catalunya Stage 2"
+  ]
+}

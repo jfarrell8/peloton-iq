@@ -1,0 +1,29 @@
+{
+  "label": "2019 Giro d'Italia Stage 11",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-22",
+  "stage": 11,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "EWAN Caleb timed his sprint to perfection, jumping ACKERMANN Pascal's train early then waiting until 450m to launch, beating DÉMARE Arnaud on the line at Novi Ligure.",
+    "winner": "EWAN Caleb",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "EWAN deliberately chose ACKERMANN's wheel despite having own train, revealing leadout quality matters more than team loyalty in crosswinds",
+      "CIMA Damiano aggressively accumulated intermediate sprint points from breakaway, suggesting targeted classification hunting rather than stage hunting",
+      "Bora-Hansgrohe deployed five riders mid-pack with 25km remaining, excessive positioning investment that failed to prevent EWAN's wheel-jump",
+      "GUARNIERI Jacopo delivered VIVIANI too far back at 1km, dimension data's leadout timing consistently 200-300m earlier than optimal"
+    ],
+    "rider_signals": {
+      "EWAN Caleb": "positive: Relaxation after first win improved energy conservation; tactical maturity shown by abandoning own train for superior positioning",
+      "ACKERMANN Pascal": "negative: Launched 450m out in crosswind created perfect slipstream for wheel-surfers; train timing vulnerability exposed twice",
+      "VIVIANI Elia": "negative: Fourth stage without win despite Italian champion jersey; positional discipline failures suggest leadout communication breakdown",
+      "DÉMARE Arnaud": "positive: Consistent podium finishes without dedicated train reveal exceptional positioning instincts in chaotic finales",
+      "CIMA Damiano": "positive: Over 700km breakaway distance plus intermediate sprint targeting indicates clear secondary classification strategy, not desperation",
+      "FRAPPORTI Marco": "neutral: 800km breakaway accumulation suggests team directive prioritizing TV exposure over stage results",
+      "CONTI Valerio": "neutral: Retained maglia rosa without defensive effort, confirming peloton's consensus on temporary GC situation"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:55:01.400129+00:00"
+}

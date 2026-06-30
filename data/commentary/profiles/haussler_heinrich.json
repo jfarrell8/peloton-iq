@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Opportunistic counter-attacker willing to go long (39km out) when team tactics require it, but shows tactical restraint in headwinds and doomed moves. Demonstrated unexpected climbing acceleration in final 2-3km.",
+  "team_tactics": "Used as tactical wildcard for long-range counterattacks when favorites neutralize each other. Deployed as leadout/positioning specialist in sprint finales (500m marks) despite team lacking pure sprinter to finish.",
+  "terrain_preference": "Classics specialist with proven cobbled credentials (Omloop, Flanders appearances) but showed surprising climbing ability matching GC specialists in final 2.5km. Favors tactical positioning over pure power.",
+  "vulnerability": "Abandons committed efforts when headwinds expose breakaways. Team roles often position him for sprints without finish capability, wasting positioning work. Sits between domestique and finisher without clear win conditions.",
+  "key_patterns": [
+    "Tactical intelligence over commitment: sits up in headwind at Omloop rather than wasting energy (2 instances of calculated restraint)",
+    "Used for long-range gambits when team lacks sprint firepower (Flanders 39km, Tirreno leadout)",
+    "Climbing form exceeds typical classics specialist profile (matched Hindley, competed in UAE Tour)",
+    "Positioning specialist in final kilometers but team lacks finisher to capitalize on his work"
+  ],
+  "form_trajectory": "neutral: Mixed signals with strong climbing shown in 2020 UAE Tour but subsequent 2020-2021 roles reduced to tactical domestique work rather than personal results",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HAUSSLER Heinrich",
+  "built_from": [
+    "2020 Omloop Het Nieuwsblad",
+    "2020 Tirreno Adriatico Stage 2",
+    "2020 UAE Tour Stage 2",
+    "2021 Ronde van Vlaanderen - Tour des Flandres"
+  ]
+}

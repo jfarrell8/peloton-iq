@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Attacks from breakaways in the final 2km on rolling or false-flat terrain, exploiting subtle gradients rather than steep climbs. Prefers late, decisive accelerations when already in advantageous position.",
+  "team_tactics": "Limited team support visible; operates primarily from established breakaways rather than team-led setups. Self-reliant tactics requiring early positioning in moves.",
+  "terrain_preference": "Rolling false-flat finishes and subtle gradients where power can be sustained. Exposed on steep, punchy climbs where pure climbers can accelerate explosively in final meters.",
+  "vulnerability": "Cannot match explosive accelerations of pure climbers on steep gradients in final 100-200 meters, even when well-positioned. Struggles to follow sharp attacks on steep finishes.",
+  "key_patterns": [
+    "Executes winning moves inside final 2km from breakaways on rolling terrain (2 observations)",
+    "Performs better on false-flat/subtle gradients than steep climbs (2 observations)",
+    "Shows late-race strength after positioning in breakaways rather than attacking from peloton (2 observations)",
+    "Vulnerable to pure climbers' accelerations on steep finishes despite good positioning (1 observation)"
+  ],
+  "form_trajectory": "positive: recovered from Tour illness to win from breakaway at 2018 Vuelta, showing improved strength on rolling terrain",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "GALLOPIN Tony",
+  "built_from": [
+    "2017 Paris-Nice Stage 6",
+    "2018 Vuelta a Espana Stage 7",
+    "2018 Vuelta a Espana Stage 7"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "label": "2019 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2019-05-29",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "PETERS Nans won from an 18-rider breakaway that splintered inside 25km, while LANDA Mikel attacked the GC group in final kilometer gaining 12 seconds on CARAPAZ Richard",
+    "winner": "PETERS Nans",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BAKELANTS Jan attacked solo before final climb from 18-rider break, forcing early selections before companions could regroup and organize chase",
+      "LANDA Mikel attacked final kilometer when LÓPEZ Miguel Ángel went, exploiting lack of cohesion when teammate became threat to GC rivals",
+      "Breakaway riders attacked each other before 25km-to-go mark specifically to secure time bonus eligibility, accelerating fragmentation earlier than terrain demanded",
+      "LÓPEZ Miguel Ángel showed weakness when teammates set him up on final climb but he lacked legs, forcing ROGLIČ Primož to chase LANDA alone"
+    ],
+    "rider_signals": {
+      "PETERS Nans": "positive: Large rider from French Alps made solo move knowing final gradual climb suited time trialing over pure climbers, perfectly timed effort",
+      "LANDA Mikel": "positive: Fourth overall, gained 12 seconds on podium rivals by attacking when LÓPEZ became distraction, hands-on-drops style extracting maximum watts",
+      "LÓPEZ Miguel Ángel": "negative: White jersey holder visibly lacked legs when teammates set him up on final climb, lost 7 seconds and switched positions with LANDA",
+      "BAKELANTS Jan": "positive: Attacked solo from 18-rider break before final climb building 1:03 gap, forcing premature responses from dangerous GC riders like FORMOLO",
+      "CONTI Valerio": "neutral: Conserved energy in break by appearing to lose contact then regaining on descent, tactical hiding before late accelerations began",
+      "CHAVES Esteban": "positive: Attacked breakaway at 7.7km remaining, finished second for Mitchelton-Scott showing recovery strength on gradual gradients",
+      "CARAPAZ Richard": "negative: Had to follow teammate LÓPEZ Miguel Ángel when he became GC threat, conceded 12 seconds to LANDA in compromised tactical position",
+      "ROGLIČ Primož": "negative: Forced to chase LANDA alone when LÓPEZ went, lost time in situation where team coordination broke down among GC contenders",
+      "NIBALI Vincenzo": "negative: Lost 20 seconds on final climb, struggled on gradual gradients suggesting cumulative fatigue rather than explosive weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:56:38.708741+00:00"
+}

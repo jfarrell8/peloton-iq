@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Deploys long-range attacks (13+ km) on flat to rolling stages to disrupt sprint trains, not primarily seeking stage wins but creating tactical chaos for opponents.",
+  "team_tactics": "Functions as aggressive disruptor rather than protected leader; forces rivals to expend domestique resources chasing down extended efforts before key moments.",
+  "terrain_preference": "Time trials remain competitive terrain but showing decline from peak world champion form. Most effective on flat breakaway stages where TT engine sustains long efforts.",
+  "vulnerability": "Pacing judgment in time trials appears inconsistent - fades in final 5km despite leading at intermediate checks. Crash-prone in Grand Tour positioning. Declining TTT and overall TT performance from 2017-2019.",
+  "key_patterns": [
+    "Loses time in final kilometers of time trials despite strong intermediate splits (2 instances)",
+    "Consistently underperforms expectations as former world TT champion, losing 12-25s to top rivals (3 instances)",
+    "Uses long breakaways 13+ km to tactically disrupt sprint teams, not win stages (1 clear instance)",
+    "Crash liability creates team tactical deficits in Grand Tours (1 instance, pattern unclear)",
+    "Form timing misalignment with peak events despite world champion pedigree (2 instances)"
+  ],
+  "form_trajectory": "negative: Clear decline from world champion TT dominance through 2017-2019. Struggles with pacing, crashes, and rejoining efforts in closing kilometers suggest fading top-end form.",
+  "races_analysed": 7,
+  "confidence": "medium",
+  "rider_name": "MARTIN Tony",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 4",
+    "2017 Tour de France Stage 1",
+    "2018 Giro d'Italia Stage 1",
+    "2018 Giro d'Italia Stage 16",
+    "2018 Giro d'Italia Stage 7",
+    "2019 Tour de France Stage 2",
+    "2019 Vuelta a Espana Stage 19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-07",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando took a wind-affected sprint after Quick-Step split the field with 3-8km to go using coastal crosswinds.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step exploited exposed coastal crosswinds between 8-5km to go, creating decisive time gaps before sheltered headwind finish.",
+      "HAAS Nathan attacked with 400m in headwind conditions, forcing RICHEZE Maximiliano to close and disrupting rival sprint trains.",
+      "Teams chose shallow-section wheels yet still struggled with bike control, suggesting wind strength exceeded forecast expectations."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: won after Quick-Step's echelon split the field, showing combination of team tactics and sprint strength",
+      "HAAS Nathan": "positive: aggressive late attack into headwind demonstrated willingness to gamble rather than accept pack sprint defeat",
+      "RICHEZE Maximiliano": "positive: shut down HAAS attack inside 400m, showing leadout riders can neutralize last-minute surprises in headwinds",
+      "EWAN Caleb": "neutral: positioned well through exposed section but lacked Quick-Step's echelon support to challenge for win",
+      "STUYVEN Jasper": "neutral: captured intermediate sprint for Quick-Step, suggesting team already controlled race pace early"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:00:42.142676+00:00"
+}

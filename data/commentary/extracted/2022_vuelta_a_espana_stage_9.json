@@ -1,0 +1,26 @@
+{
+  "label": "2022 Vuelta a Espana Stage 9",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2022-01-01",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POL Remco soloed to victory on 13% average Las Ubiñas finish, extending GC lead by putting 52 seconds into ROGLIC and over 5 minutes into 10th place after only 9 stages.",
+    "winner": "VAN DER POL Remco",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "VAN DER POL Remco dropped all GC rivals on 13% Las Ubiñas finish through seated power, revealing superior steep gradient strength.",
+      "Three mountaintop finishes in week one created unprecedented 5:40 gap to 10th place, suggesting overly difficult parcours degrades competitive racing.",
+      "RODRIGUEZ Carlos emerged as strongest INEOS climber, finishing ahead of MAS Enric despite being young rider on loan jersey."
+    ],
+    "rider_signals": {
+      "VAN DER POL Remco": "positive: Silenced doubters in first Grand Tour GC leadership by matching strength with tactical maturity on brutal gradient",
+      "ROGLIČ Primož": "negative: Lost 52 seconds on steep finish after struggling mid-climb, weakness on extreme gradients exposed",
+      "MAS Enric": "negative: Dropped by RODRIGUEZ despite being established GC contender, form questioned on steepest climbs",
+      "RODRÍGUEZ Carlos": "positive: Best INEOS climber performance confirms breakthrough as legitimate young GC threat",
+      "AYUSO Juan": "positive: Regained form after early climb struggles, returning to competitive GC position"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:57:34.600113+00:00"
+}

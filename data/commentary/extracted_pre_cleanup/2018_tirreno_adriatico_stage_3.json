@@ -1,0 +1,30 @@
+{
+  "label": "2018 Tirreno-Adriatico Stage 3",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2018-03-09",
+  "stage": 3,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ROGLIČ Primož attacked on the steep Trevi finish, held off YATES Adam's late surge by 3 seconds to win while THOMAS Geraint took GC on countback.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ROGLIČ attacked before the steepest 500m finale, forcing chasers to bridge rather than contest from position",
+      "MOSCON Gianni tracked VAN AVERMAET Greg's move but faded, suggesting Sky prioritized THOMAS over stage hunting",
+      "YATES Adam waited for MOSCON's counter before attacking, losing 3 seconds by not bridging directly to ROGLIČ",
+      "THOMAS took GC via fourth-place countback over VAN AVERMAET despite identical time, proving stage positioning matters beyond bonuses"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: sustained power over 500m steep finale after early attack signals exceptional anaerobic capacity on wall finishes",
+      "YATES Adam": "positive: closed massive gap solo after waiting tactically, but conservative timing cost stage win by 3 seconds",
+      "BEVIN Patrick": "negative: crashed in leader's jersey with 30km remaining, highlighting vulnerability leading long transition stages",
+      "MAJKA Rafał": "negative: caught in mid-stage crash, finished with lead group already over line, eliminating GC contention",
+      "THOMAS Geraint": "positive: secured GC via countback despite missing bonus seconds, showing consistent positioning over explosive moves",
+      "BENOOT Tiesj": "positive: third place six days after Strade Bianche win demonstrates recovery and form trajectory continuing",
+      "MOSCON Gianni": "neutral: covered VAN AVERMAET but faded to allow YATES and THOMAS past, possible team tactics for THOMAS GC",
+      "VAN AVERMAET Greg": "neutral: initiated late selection but countered immediately, losing GC to THOMAS on countback despite same time"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:32:16.918924+00:00"
+}

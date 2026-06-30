@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Insufficient data to establish clear attacking pattern. Limited observations show presence in sprint finales rather than proactive attacking.",
+  "team_tactics": "Minimal team tactical data available. Appears to operate without strong leadout support in compressed finales.",
+  "terrain_preference": "Struggles on technical TT courses requiring sustained diesel-engine pacing. Power profile suggests suitability for explosive finishes over time trial efforts.",
+  "vulnerability": "Tactical positioning in compressed sprint finales - lacks race craft to convert finishing speed into victories. Technical time trial courses expose limitations as non-TT specialist.",
+  "key_patterns": [
+    "Tactical positioning errors in decisive moments cost results despite having requisite physical qualities.",
+    "Loses disproportionate time in technical time trials compared to pure power specialists."
+  ],
+  "form_trajectory": "neutral: Shows physical capability (finishing speed) but tactical execution remains underdeveloped, limiting conversion of form into results",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "HERSHEY Mark",
+  "built_from": [
+    "2021 Tour de Pologne Stage 1",
+    "2021 Tour de Pologne Stage 4"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "2017 Tour de Pologne Stage 5",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-02",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "ASTORGA Jon Aberasturi won stage 5 sprint after Israeli Academy team disrupted Maresco tactics in final 600m, boxing him in at the corner.",
+    "winner": "Unable to determine - rider 'Astorga/Aberasturi' not found in roster",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Israeli Academy deployed four riders in final 600m to box in MARICHKA, disrupting Velia Triestina's leadout train.",
+      "LOWNDES Jason sacrificed sprint opportunity to drive tempo for teammate BOUWMAN, revealing Israeli Academy multi-rider sprint depth.",
+      "CARTIER repeatedly animated breakaways across multiple stages, signaling domestique willing to burn matches early for teammate positioning."
+    ],
+    "rider_signals": {
+      "BOUWMAN Koen": "positive: protected by four-man Israeli Academy train in final kilometer, showing team prioritization over other sprinters",
+      "MARINI Nicolas": "negative: boxed in at final corner despite strong positioning earlier, suggesting vulnerability to numerical disadvantage tactics",
+      "CARTIER Alexis": "neutral: consistent breakaway presence across stages but unable to convert, indicating strong diesel engine for team duty",
+      "LOWNDES Jason": "positive: willing to sacrifice personal result driving tempo for 200m+ before finale, showing team-first mentality"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:12:43.207991+00:00"
+}

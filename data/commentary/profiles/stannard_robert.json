@@ -1,0 +1,20 @@
+{
+  "attacking_style": "Early breakaway specialist who targets KOM points and extended efforts from long range. Goes clear well before finals, operating in the first third of stages rather than waiting for decisive moments.",
+  "team_tactics": "Dual role: breakaway hunter in mountain stages and domestique performing pace control work on climbs to burn sprinters. Used as a tempo-setter in the 30-50km before finals when team has GC or sprint objectives.",
+  "terrain_preference": "Minor climbs and rolling terrain where sustained tempo can eliminate pure sprinters. Thrives in breakaway-friendly stages with multiple categorized climbs for KOM opportunities.",
+  "vulnerability": "Not positioned as a stage winner—operates as tactical disruptor or support rider. Breakaway attempts appear more about team tactics (forcing rivals to chase) than personal victory.",
+  "key_patterns": [
+    "Consecutive breakaway attempts across back-to-back stages, showing recovery capacity for repeated efforts",
+    "Targets KOM points early in mountain stages, forcing jersey contenders to react defensively",
+    "Deployed in pace-setting role on minor climbs to tactically eliminate riders before key sections"
+  ],
+  "form_trajectory": "neutral: Still performing core tactical roles (breakaways, KOM hunting, pace-setting) across 2020-2022 Vuelta appearances without apparent decline",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "STANNARD Robert",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 10",
+    "2020 Vuelta a Espana Stage 16",
+    "2022 La Vuelta ciclista a Espana Stage 20"
+  ]
+}

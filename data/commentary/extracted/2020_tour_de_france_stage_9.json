@@ -1,0 +1,32 @@
+{
+  "label": "2020 Tour de France Stage 9",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-06",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGAČAR won with a late sprint after chasing down HIRSCHI's long-range move, while ROGLIČ took yellow jersey by finishing in same group 21 seconds ahead of BERNAL.",
+    "winner": "POGAČAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "HIRSCHI rode entire category-one climb solo from breakaway then contested sprint, nearly stealing stage despite dead legs from effort.",
+      "JUMBO-VISMA controlled peloton tempo to protect ROGLIČ without attacking, forcing chasers to bridge to HIRSCHI and surrender sprint advantage.",
+      "MARTÍNEZ attacked mid-climb for stage win despite losing GC time earlier, revealing EF pivoted individual riders to stage hunting.",
+      "PINOT dropped early on climb then recovered to peloton, signaling inconsistent form rather than complete collapse."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: closed time gap from mechanical losses by attacking for stage win, moved to 7th at 44 seconds",
+      "ROGLIČ Primož": "positive: took yellow with 21-second advantage without needing to attack, JUMBO controlled pace consistently",
+      "HIRSCHI Marc": "positive: soloed category-one climb from breakaway and nearly won sprint despite exhaustion, exceptional strength",
+      "BERNAL Egan": "negative: dropped from yellow to 2nd at 21 seconds, lost time on final kilometers without responding",
+      "YATES Adam": "negative: lost yellow jersey, dropped to 8th at 1:02 after suffering badly in final 2km of climb",
+      "PINOT Thibaut": "negative: dropped early then recovered but clearly not 100 percent, bad back issues persisting",
+      "MARTÍNEZ Daniel Felipe": "neutral: attacked mid-climb for stage but absorbed, showing legs for opportunities not GC",
+      "PORTE Richie": "positive: moved up to 11th overall with strong ride, form improving into second week",
+      "MOLLEMA Bauke": "neutral: present in chase group behind stage winner, consistent positioning",
+      "LANDA Mikel": "neutral: animated in final kilometer but unable to contest sprint effectively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:39:04.201873+00:00"
+}

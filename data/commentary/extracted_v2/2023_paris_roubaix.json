@@ -1,0 +1,26 @@
+{
+  "label": "2023 Paris-Roubaix",
+  "race_name": "Paris-Roubaix",
+  "race_date": "2023-04-09",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won solo after dropping PHILIPSEN Jasper (who flatted while still in contact), recording near-record speed of ~46km/h for Paris-Roubaix.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Alpecin executed team dominance allowing VAN DER POEL to ride away solo while PHILIPSEN salvaged second from remnants.",
+      "VAN AERT Wout attempted late chase with teammate DEVRIENDT trying to bridge, revealing Visma's desperation after missing decisive selection.",
+      "Early crashes (Sagan, Mühlberger, Dillier) before first cobbles suggest positioning panic before sector one creates disproportionate risk."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: won both key Monuments this spring season, showing unprecedented Monument doubling ability",
+      "PHILIPSEN Jasper": "positive: never top-10'd a one-day classic before but took second, revealing sprinter adaptability to cobbles",
+      "VAN AERT Wout": "negative: reduced to chasing for podium and using teammate bridges, sign of form deficit vs VAN DER POEL",
+      "PEDERSEN Mads": "negative: ex-world champion looked over shoulder multiple times in closing kilometers, clear physical capitulation signal",
+      "SAGAN Peter": "negative: crashed twice in two weeks (Flanders then here), pattern suggests positioning decline or mechanical bad luck"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:53:06.688096+00:00"
+}

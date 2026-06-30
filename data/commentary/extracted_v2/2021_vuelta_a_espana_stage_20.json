@@ -1,0 +1,27 @@
+{
+  "label": "2021 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CHAMPOUZAN attacked from breakaway with 1.5km remaining on final climb, stealing stage from GC group led by ROGLIC who accelerated late.",
+    "winner": "CHAMPOUZAN Clément",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS used YATES as battering ram on category-one climb to soften field before BERNAL counter, revealing designated sacrifice tactics.",
+      "ROGLIC attacked personally after KROIWEIJK cracked, abandoning domestique support 30+ miles from finish on steep gradient.",
+      "CHAMPOUZAN stayed invisible mid-breakaway then attacked 1.5km out when GC riders neutralized each other watching for Roglic.",
+      "BERNAL feigned weakness on YATES attack then countered on shallower gradient where drafting negated advantage, showing gradient selection matters."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: attacked repeatedly on category-one despite struggling previous days, effectively weakened field for BERNAL before moving to podium",
+      "KROIWEIJK Steven": "negative: cracked on category-one climb forcing ROGLIC to chase personally, three weeks work load finally showing",
+      "BERNAL Egan": "negative: plummeted out of top-five despite YATES sacrifice tactic, unable to capitalize on manufactured opportunity",
+      "LOPEZ Miguel Angel": "negative: dropped to outside top-ten on penultimate stage despite being in contention at category-one base",
+      "ROGLIC Primož": "positive: closed 23-second gap to CHAMPOUZAN in final kilometer, only 6 seconds short despite no teammates"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:01:49.489764+00:00"
+}

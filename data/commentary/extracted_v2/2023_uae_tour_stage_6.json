@@ -1,0 +1,25 @@
+{
+  "label": "2023 UAE Tour Stage 6",
+  "race_name": "UAE Tour",
+  "race_date": "2023-02-25",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "MERLIER Tim won UAE Tour Stage 6 sprint by exploiting barrier-side opening after pre-race reconnaissance revealed optimal positioning in technical finish.",
+    "winner": "MERLIER Tim",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Soudal Quick-Step pre-race recon identified barrier-side positioning advantage in technical finale, Merlier executed perfectly despite boxed rivals.",
+      "Late puncture for Cavendish and boxed Kooij/Groenewegen reveals positioning chaos in last 2km technical pinch points.",
+      "Blanket secured intermediate sprint jersey by contesting both sprints from three-man break, Zacorato gifted second sprint."
+    ],
+    "rider_signals": {
+      "MERLIER Tim": "positive: Delivered second stage win via recon-based positioning intelligence, clearly superior sprint train execution versus disorganized rivals",
+      "CAVENDISH Mark": "negative: Late rear puncture ruined sprint chance, Astana lead-out disrupted multiple consecutive stages",
+      "KOOIJ Olav": "negative: Boxed and harried again, third straight stage unable to find clean position despite team strength",
+      "BENNETT Sam": "negative: Full bike length behind despite opening, still winless with only one stage remaining"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T19:02:37.797749+00:00"
+}

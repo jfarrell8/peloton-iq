@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tour de France Stage 3",
+  "race_name": "Tour de France",
+  "race_date": "2017-07-03",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter attacked solo in final 800m on uphill finish, bridged to Porte's earlier dig, held off Matthews/Martin despite unclipping mid-sprint",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PORTE Richie attacked 800m out attempting to recover time-trial losses, forcing GC-caliber pace before uphill sprint.",
+      "SAGAN bridged alone to Porte then hesitated mid-effort, yet still accelerated again when caught by chasers.",
+      "BMC positioned both GC rider Porte and sprinter Van Avermaet at front, dual-option tactic on uphill finish.",
+      "Nathan BROWN opportunistically collected KOM points in breakaway, targeting jersey despite team sprint obligations."
+    ],
+    "rider_signals": {
+      "PORTE Richie": "positive: attacked solo 800m out on steep uphill finish to recover time-trial deficit, forcing GC riders into emergency effort",
+      "SAGAN Peter": "positive: bridged alone to Porte attack far from finish then re-accelerated after losing momentum and unclipping",
+      "MATTHEWS Michael": "negative: positioned on Sagan's wheel in final 800m but couldn't come around despite Sagan's mechanical issue",
+      "MARTIN Dan": "positive: Quick-Step rider in blue bridged with Matthews group but couldn't match Sagan's final acceleration",
+      "BROWN Nathan": "positive: Cannondale-Drapac rider collected KOM points in breakaway on first Tour, trading sprint duties for classification"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:06:51.588561+00:00"
+}

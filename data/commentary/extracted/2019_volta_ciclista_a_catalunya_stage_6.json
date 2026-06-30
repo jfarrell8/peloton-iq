@@ -1,0 +1,16 @@
+{
+  "label": "2019 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2019-03-30",
+  "stage": 6,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "This transcript contains no race coverage of 2019 Volta Ciclista a Catalunya Stage 6, only a feature profile on MATTHEWS Michael.",
+    "winner": "Unknown",
+    "commentary_quality": "thin",
+    "tactical_patterns": [],
+    "rider_signals": {},
+    "usable_for_rag": false
+  },
+  "extracted_at": "2026-06-28T22:15:33.487341+00:00"
+}

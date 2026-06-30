@@ -1,0 +1,21 @@
+{
+  "attacking_style": "Does not initiate decisive attacks but responds to accelerations from stronger climbers, typically staying with moves until final 3-4km on summit finishes before being distanced.",
+  "team_tactics": "Israel Premier Tech shows inconsistent coordination; teammates animate early but lack cohesive positioning when key moves happen, forcing Frigo to chase or respond individually rather than launching from organized support.",
+  "terrain_preference": "Mountain stages where resilience and recovery between efforts matter more than explosive power; can survive multiple selections and regain contact after being dropped.",
+  "vulnerability": "Final 3-4km on sustained climbs when stronger pure climbers accelerate; lacks finishing kick to convert disadvantaged positions into wins even when recovering well.",
+  "key_patterns": [
+    "Dropped and regains contact multiple times per stage, showing exceptional recovery ability (2 races)",
+    "Matches stronger climbers deep into climbs but fades inside final 4km (2 observations)",
+    "Team lacks tactical cohesion when decisive moves occur, forcing individual chase efforts (2 instances)",
+    "Competitive in sprint finishes from compromised positions but cannot quite convert (1 near-win)"
+  ],
+  "form_trajectory": "positive: improving stage race durability through Giro, matching stronger climbers deeper into climbs with better resilience",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "FRIGO Marco",
+  "built_from": [
+    "2023 Giro d'Italia Stage 15",
+    "2023 Giro d'Italia Stage 18",
+    "2023 Giro dItalia Stage 15"
+  ]
+}

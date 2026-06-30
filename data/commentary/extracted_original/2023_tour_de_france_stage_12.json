@@ -1,0 +1,24 @@
+{
+  "label": "2023 Tour de France Stage 12",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-13",
+  "stage": 12,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EGUIRE Ion Izagirre soloed to victory from a 15-rider breakaway after attacking with 50km remaining, GC riders finished together with no time gaps.",
+    "winner": "IZAGIRRE Ion",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Breakaway took 90km to form despite constant attacks, indicating GC teams wanted aggressive selection before committing to chase.",
+      "Van der Poel attacked breakaway 50km out but was marked immediately by Jorgenson group, revealing reduced UAE firepower.",
+      "Ineos and Bahrain initiated chase when Pinot/Mas threatened GC positions, showing sub-5-minute gaps trigger team responses."
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "negative: attacking breakaway with 50km remaining but getting caught shows form decline from early Tour dominance",
+      "PINOT Thibaut": "positive: attacking from breakaway gap worried GC teams despite being minutes down, showing climbing resurgence",
+      "JORGENSON Matteo": "positive: marked Van der Poel's attack immediately and finished third, UAE domestique showing unexpected breakaway finishing speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T22:19:50.950720+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 3",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-27",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the sprint after Quick-Step controlled 90% of the stage alone when Sky only briefly contributed on the long climb.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step isolated: controlled all day without assistance except brief Sky work on early climb, revealing sprinter team's burden.",
+      "CONSONNI-VIVIANI pre-race coordination suspected across teams when racing center line together mid-stage, suggesting Italian collusion before finale.",
+      "Caja Rural initiated lead-out but no team had strength to follow, allowing Quick-Step monopoly despite their isolation throughout stage."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: first Grand Tour win despite 3000m altitude making non-easy sprint, suggesting climbing tolerance exceeded expectations",
+      "MORKOV Michael": "positive: Danish champion paced successfully despite team controlling alone entire stage, demonstrating depth beyond just Viviani",
+      "NITZOLO Giacomo": "neutral: challenged Viviani in final but Check team lacked infrastructure to complete lead-out against Quick-Step",
+      "SAGAN Peter": "neutral: Bora protected him entire stage and positioned well but chose not to contest sprint despite being present",
+      "POSTALBERGER Lukas": "negative: attempted motivated solo move at 72kph but Quick-Step easily reimposed control, revealing Bora's backup plan weakness"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:42:14.670249+00:00"
+}

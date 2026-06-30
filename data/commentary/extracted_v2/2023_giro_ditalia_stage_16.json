@@ -1,0 +1,29 @@
+{
+  "label": "2023 Giro dItalia Stage 16",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-23",
+  "stage": 16,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "ALMEIDA João attacked with 6km remaining on Monte Bondone, THOMAS Geraint bridged at 4.5km, both collaborated to put 25 seconds into ROGLIČ Primož who barely survived thanks to KUSS Sepp.",
+    "winner": "ALMEIDA João",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Jumbo-Visma's satellite breakaway tactic with HAGUE and CONRAD at 4:30 GC deficit failed to prevent maglia rosa loss.",
+      "UAE used FORMOLO then VINE as final lead-out before ALMEIDA's 6km attack, burning domestiques deeper than expected.",
+      "THOMAS bridged to ALMEIDA at 4.5km then cooperated rather than attacking, prioritizing time gaps over stage win.",
+      "ROGLIČ cracked to 30 seconds down mid-climb but KUSS's pacing allowed him to limit losses to 25 seconds by finish."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: at 36 years old, bridged a 6km attack on final climb and showed stronger finishing legs than younger rivals",
+      "ALMEIDA João": "positive: initiated winning move with 6km remaining, demonstrated rare combination of climbing power and tactical maturity to accept collaboration",
+      "ROGLIČ Primož": "negative: cracked to 30 seconds deficit mid-climb, entirely dependent on KUSS for damage limitation unlike previous form",
+      "DUNBAR Eddie": "positive: survived breakaway on hardest stage since 2006 to move into fifth overall at 3:03, unexpected GC contender emergence",
+      "KUSS Sepp": "positive: paced ROGLIČ back from 30-second deficit to 25-second loss, proving indispensable domestique value on extreme climbs",
+      "HEALY Ben": "neutral: won maximum KOM points on first climb to take jersey, 20-point lead but focused on classification not GC",
+      "CARTHY Hugh": "negative: cracked on final climb after being protected, exposing limits on 5500m+ climbing stages"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:43:17.476009+00:00"
+}

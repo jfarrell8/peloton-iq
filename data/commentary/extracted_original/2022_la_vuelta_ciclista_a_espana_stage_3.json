@@ -1,0 +1,26 @@
+{
+  "label": "2022 La Vuelta ciclista a Espana Stage 3",
+  "race_name": "La Vuelta ciclista a Espana",
+  "race_date": "2022-08-21",
+  "stage": 3,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BENNETT Sam won his second consecutive sprint via perfect late-race positioning from van Poppel, beating Pedersen and McLay after Ackermann faded from an early jump.",
+    "winner": "BENNETT Sam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Van Poppel's late release at 200m proved superior to Trek's extended color-order leadout, Bennett emerging from apparent invisibility.",
+      "Ackermann's premature acceleration allowed Bennett to exploit slipstream differential before launching, causing Pascal to fade before line.",
+      "Final corner at 750m unwound late enough that sustained leadout trains neutralized—late positioning trump organized trains in compressed finales."
+    ],
+    "rider_signals": {
+      "BENNETT Sam": "positive: Two consecutive wins suggests tactical maturity in positioning behind van Poppel's perfectly-timed late releases rather than leadout dependency.",
+      "VAN POPPEL Danny": "positive: His dual role delivering Bennett to victories while finishing tenth reveals exceptional leadout judgment on timing and placement.",
+      "ACKERMANN Pascal": "negative: Initiated sprint too early despite looking lively, fading before line suggests poor tactical calibration on 750m finishing straight.",
+      "MERLIER Tim": "negative: Out of position on pancake-flat sprint finish indicates positioning deficiency or team support weakness, concerning for future flat sprints.",
+      "COQUARD Bryan": "neutral: Diamond formation trap suggests strong legs but poor positioning awareness in compressed final 200 meters."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:44:25.182282+00:00"
+}

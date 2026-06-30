@@ -1,0 +1,24 @@
+{
+  "label": "2023 Giro dItalia Stage 21",
+  "race_name": "Giro dItalia",
+  "race_date": "2023-05-28",
+  "stage": 21,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "CAVENDISH Mark won the Rome processional stage from distance after COENS successfully disrupted GHIGGI's intermediate sprint hunt in closing kilometers",
+    "winner": "CAVENDISH Mark",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "COENS actively blocked intermediate sprint points to deny GHIGGI the classification, revealing sprinters' willingness to contest secondary competitions on final stages.",
+      "CAVENDISH launched from distance off Colombian GAVILIA's wheel rather than waiting for late-stage positioning, suggesting confidence in sustained power over positioning.",
+      "THOMAS Geraint contributed to leadout work despite no GC incentive, indicating Sky/INEOS cultural patterns persist even on ceremonial stages."
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: first win in four years for team shows sustained sprint power when launching early, not reliant on perfect positioning",
+      "COENS Lars": "positive: tactical awareness to disrupt GHIGGI's intermediate sprint bid demonstrates non-GC riders actively racing secondary classifications on final stages",
+      "GAVILIA Juan Sebastian": "neutral: Colombian provided leadout that CAVENDISH used as launch platform, suggesting domestique role shift from climbing support"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:44:34.020357+00:00"
+}

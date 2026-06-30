@@ -1,0 +1,35 @@
+{
+  "attacking_style": "Pure sprinter who lacks the tactical finesse for modern positioning battles. Shows raw power but frequently mistimes efforts, launching too early or getting trapped in technical finishes.",
+  "team_tactics": "Chronic team support deficit across Cofidis and Direct Energy eras. Teams either lack organized sprint infrastructure entirely or commit resources too early, depleting him before optimal launch point.",
+  "terrain_preference": "Flat sprints only. Exposed and dropped on any lumpy terrain with substantial climbing. Crosswind technical skill deficit negates raw power advantage even on flat stages.",
+  "vulnerability": "Technical finishes with tight turns and barriers cause spatial awareness problems. Gets boxed, trapped, or squeezed repeatedly. Poor crosswind technique despite impressive raw power output.",
+  "key_patterns": [
+    "Repeatedly boxed or trapped in technical finishes due to positioning/spatial awareness deficits (4 instances)",
+    "Team leadout consistently inadequate: isolated, early depletion, or complete infrastructure absence (5 instances)",
+    "Launch timing errors: starts sprint too early, leading out competitors instead (3 instances)",
+    "Dropped on any stage with lumpy profile or sustained climbing requirements (2 instances)",
+    "Crosswind technical skill insufficient despite raw power to bridge gaps solo (2 instances)"
+  ],
+  "form_trajectory": "positive: 2021 Paris-Nice second place shows resurgent sprint form after negative 2017-2019 period plagued by tactical/support issues",
+  "races_analysed": 12,
+  "confidence": "high",
+  "rider_name": "BOUHANNI Nacer",
+  "built_from": [
+    "2017 Criterium du Dauphine Stage 1",
+    "2017 Criterium du Dauphine Stage 2",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 16",
+    "2017 Tour de France Stage 4",
+    "2017 Volta Ciclista a Catalunya Stage 1",
+    "2017 Volta Ciclista a Catalunya Stage 2",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Volta Ciclista a Catalunya Stage 1",
+    "2018 Vuelta a Espana Stage 10",
+    "2018 Vuelta a Espana Stage 10",
+    "2019 Tour of Oman Stage 1",
+    "2019 Tour of Oman Stage 1",
+    "2019 Tour of Oman Stage 6",
+    "2021 Paris-Nice Stage 5"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "label": "2021 UAE Tour Stage 7",
+  "race_name": "UAE Tour",
+  "race_date": "2021-02-27",
+  "stage": 7,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "POGAČAR infiltrated a 29-rider breakaway wearing yellow jersey, then sat in as rivals attacked GC group while MOHORIČ soloed to stage win",
+    "winner": "MOHORIČ Matej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POGAČAR entered 29-rider break as yellow jersey, forcing UAE to abandon chase duty; unprecedented tactical flexibility.",
+      "CARAPAZ attacked main GC group but Movistar chased him down, revealing team's conflicted priorities with multiple leaders.",
+      "ROGLIČ lost 3+ minutes without teammates present, exposing Jumbo-Visma's vulnerability when leader crashes early in Grand Tour.",
+      "MOHORIČ attacked Signal de Uchon (hardest debut climb) sub-50km, exploiting moment when GC teams focused on each other.",
+      "VAN DER POEL and POGAČAR chased bonus seconds in final 8km despite no stage win chance, prioritizing every GC second."
+    ],
+    "rider_signals": {
+      "POGAČAR Tadej": "positive: Joined 29-rider break as race leader, extraordinary tactical aggression revealing team confidence in his superiority",
+      "MOHORIČ Matej": "positive: Won solo after attacking Signal de Uchon sub-50km, redemption stage win after HAIG crash disaster earlier",
+      "ROGLIČ Primož": "negative: Lost 3+ minutes completely isolated from teammates, crash injuries compound but team cohesion badly broken",
+      "CARAPAZ Richard": "neutral: Attacked GC group but own Movistar team chased him down, highlighting multi-leader dysfunction",
+      "VAN DER POEL Mathieu": "positive: Chased bonus seconds in final 8km despite break being caught, showing commitment to GC ambitions",
+      "VAN AERT Wout": "positive: Attempted race-affecting moves inside 8km from break, prioritizing team GC over own sprint opportunities",
+      "KONRAD Patrick": "positive: Countered to front group sub-50km showing strong legs, valuable domestique form emerging",
+      "CAVENDISH Mark": "positive: Made 29-rider break to collect 20 points, extending green jersey lead to 66 through calculated aggression",
+      "NIBALI Vincenzo": "neutral: Made 29-rider break but UAE abandoned chase with Pogačar also there, eliminating stage threat",
+      "POELS Wout": "neutral: In 29-rider break but UAE stopped chasing when Pogačar infiltrated, nullifying his GC danger"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:14:49.389637+00:00"
+}

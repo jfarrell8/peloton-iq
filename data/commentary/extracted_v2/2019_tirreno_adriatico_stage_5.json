@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2019-03-17",
+  "stage": 5,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "FUGLSANG Jakob attacked from the breakaway with 7km to go, holding off YATES Adam who countered ROGLIC Primož on the final circuit to gain 18 seconds.",
+    "winner": "FUGLSANG Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Astana executed identical pressure tactics two consecutive days, indicating repeatable blueprint for attacking favorites on multi-climb circuits.",
+      "YATES attacked ROGLIC multiple times before finally splitting him, revealing ROGLIC unable to respond after sustained accelerations.",
+      "FUGLSANG bridged from original breakaway to leaders 7km out, exploiting descending advantage while GC contenders watched each other."
+    ],
+    "rider_signals": {
+      "YATES Adam": "positive: demonstrated superior form by inflicting 18-second gap on pre-race favorite ROGLIC through repeated accelerations",
+      "ROGLIC Primož": "negative: let YATES wheel slip and could not respond to decisive move, losing 18 seconds despite being race favorite",
+      "FUGLSANG Jakob": "positive: reading race from breakaway perfectly, attacked with 7km remaining and held 38-53 second gaps while descending faster than chasers"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:55:53.087008+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 1",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-07",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ACKERMANN Pascal won from a seemingly hopeless position by threading a late gap on the barrier side inside final 100m, beating GAVIRIA who led out.",
+    "winner": "ACKERMANN Pascal",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Direct Energie's MANZIN premature acceleration under the kite forced Bora-Hansgrohe leadout into recovery mode, disrupting their sprint train.",
+      "ACKERMANN won despite only one training ride in six days from illness, suggesting form peaks despite interrupted preparation.",
+      "Late crash inside 3km scattered leadout trains, favoring individual sprinters over organized teams in the final straight."
+    ],
+    "rider_signals": {
+      "ACKERMANN Pascal": "positive: Won from compromised position after illness (1 ride in 6 days) by exploiting barrier-side gap, shows exceptional finishing speed",
+      "VAN DER POEL Mathieu": "negative: Dropped from contention after early positioning work, couldn't sustain pace into final despite Merlier leadout attempt",
+      "GAVIRIA Fernando": "neutral: Strong leadout execution from UAE got him clear, but lacked acceleration to hold off late-coming ACKERMANN",
+      "MERLIER Tim": "negative: Crashed inside 3km while leading out Van der Poel, team disrupted at critical moment",
+      "MAGNUS CORT Nielsen": "neutral: EF's pink jerseys prominent early but only managed podium finish, leadout insufficiently powerful"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:20:17.121263+00:00"
+}

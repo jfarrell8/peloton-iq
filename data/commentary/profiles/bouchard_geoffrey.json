@@ -1,18 +1,27 @@
 {
-  "attacking_style": "Exploits transitional terrain, particularly descents between climbs, to bridge from favorites group to breakaways. Opportunistic rather than sustained power-based attacks.",
-  "team_tactics": "AG2R utilizes cooperative breakaway strategies with teammates (e.g., Hannan) to maximize stage placement while managing his limitations through numerical advantage in moves.",
-  "terrain_preference": "Descents and transitional sections between climbs where positioning and timing matter more than pure climbing power. Less suited to pure summit finishes.",
-  "vulnerability": "Limited capabilities on sustained climbs suggest he requires tactical positioning and teamwork rather than individual firepower to compete for results.",
+  "attacking_style": "Attacks early from breakaways, often on penultimate climbs or long descents. Targets KOM points and intermediate classifications rather than stage wins, willing to go solo 20+ km from finish.",
+  "team_tactics": "AG2R deploys him in breakaways with strategic freedom to pursue classifications. Team provides markers in breaks (e.g., HÄNNINEN) allowing Bouchard to manage efforts across multi-stage objectives.",
+  "terrain_preference": "Excels on long descents (demonstrated solo bridging ability) and sustained climbs suitable for KOM point accumulation. Strong enough to survive major mountain finishes in reduced groups.",
+  "vulnerability": "Lacks final punch to convert breakaway presence into stage wins when caught late. Classification focus means sacrificing winning opportunities for point accumulation.",
   "key_patterns": [
-    "Bridges from peloton/favorites to breakaways on descents rather than initiating attacks (2 instances)",
-    "AG2R deploys breakaway-focused team tactics recognizing his profile limitations (2 instances)",
-    "Targets transitional terrain windows between major obstacles for positioning moves (2 instances)"
+    "Breakaway specialist: present in early breaks across 6+ race days, fundamental tactical role",
+    "KOM jersey hunter: systematically collects mountain points from breaks, including 45-point haul at 2021 Giro",
+    "Descending weapon: bridges solo from peloton to breaks on technical descents when pace suppressed",
+    "Late-race resilience: survives major climbs to reach final selection but lacks decisive acceleration",
+    "Classification over stages: prioritizes jersey campaigns, going solo early for points rather than win positioning"
   ],
-  "form_trajectory": "neutral: 2023 UAE Tour showed consistent tactical execution with fourth place, but gap between observations too large for trajectory assessment",
-  "races_analysed": 2,
-  "confidence": "low",
+  "form_trajectory": "neutral: 2023 UAE Tour showed tactical maturity (3rd overall) but limited recent race data makes trajectory assessment difficult",
+  "races_analysed": 8,
+  "confidence": "medium",
   "rider_name": "BOUCHARD Geoffrey",
   "built_from": [
+    "2021 Giro d'Italia Stage 12",
+    "2021 Giro d'Italia Stage 14",
+    "2021 Giro d'Italia Stage 17",
+    "2021 Giro d'Italia Stage 20",
+    "2021 Giro d'Italia Stage 6",
+    "2021 Giro d'Italia Stage 9",
+    "2021 La Vuelta ciclista a Espana Stage 9",
     "2021 La Vuelta ciclista a Espana Stage 9",
     "2023 UAE Tour Stage 7"
   ]

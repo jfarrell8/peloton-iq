@@ -1,0 +1,32 @@
+{
+  "label": "2021 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-13",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "MÄDER attacked 3.3km from summit finish, held off BERNAL's chase by 12 seconds to win after being caught on line at Paris-Nice.",
+    "winner": "MÄDER Gino",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "INEOS crosswind acceleration on descent shattered field before climb, pre-positioning BERNAL for reduced group summit sprint.",
+      "MOHORIČ burned himself domestique-style early on final climb, enabling MÄDER's attack 3.3km out against isolated rivals.",
+      "MARTÍNEZ attacked first from peloton triggering cascading responses, tactical error spending energy before steeper gradients.",
+      "MARTIN bridging alone to BERNAL group shows climbing resurgence; positioning himself as GC dark horse.",
+      "VALTER inheriting maglia rosa 15+ minutes down demonstrates Groupama-FDJ sacrificed breakaway stage control for unexpected GC opportunity."
+    ],
+    "rider_signals": {
+      "MÄDER Gino": "positive: finally converted near-miss form into stage win, tactical maturity holding 12s gap final kilometer under BERNAL pressure",
+      "BERNAL Egan": "positive: INEOS crosswind setup and finish sprint strength signals form building, only 16s off lead after aggressive racing",
+      "MARTIN Dan": "positive: only rider bridging to BERNAL group independently shows resurgent climbing, half-minute gap to next favorites",
+      "VALTER Attila": "neutral: inherited rosa 15+ minutes down from breakaway, Groupama gambled stage over GC protection",
+      "EVENEPOEL Remco": "positive: finishing in BERNAL/MARTIN group at half-minute confirms climbing credibility against pure climbers",
+      "VLASOV Aleksandr": "negative: dropped from BERNAL's group on decisive 15km climb, half-minute gap suggests vulnerable on sustained gradients",
+      "ALMEIDA João": "negative: lost 15+ minutes suggests illness/crash/abandon or catastrophic collapse, major pre-race favorite elimination",
+      "MOHORIČ Matej": "positive: pulling breakaway then pacing climbers early reveals exceptional domestique range on mixed terrain",
+      "BOUCHARD Geoffrey": "positive: bridged to early break through odyssey effort then took KOM points, targeting mountains classification aggressively"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:55:35.394881+00:00"
+}

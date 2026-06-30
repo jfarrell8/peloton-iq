@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour de Romandie Stage 1",
+  "race_name": "Tour de Romandie",
+  "race_date": "2018-04-25",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won a chaotic sprint after Lotto-NL Jumbo controlled tightly, never allowing breaks more than one minute",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto-NL Jumbo kept breakaway under one minute throughout, revealing zero risk tolerance for time gaps in flat stages.",
+      "DILLIER Silvan targeted intermediate sprint bonuses for GC positioning, scoring six bonus seconds mid-race as deliberate strategy.",
+      "QuickStep late attacks inside 10km served as lead-out disruption rather than genuine break attempts, clearing path for JAKOBSEN."
+    ],
+    "rider_signals": {
+      "GROENEWEGEN Dylan": "positive: 14th win of season demonstrates consistent top-end sprint speed even after hectic finales",
+      "DILLIER Silvan": "positive: actively hunting intermediate bonuses for GC after finishing 10th overall in 2017, treating sprints stage tactically",
+      "JAKOBSEN Fabio": "neutral: five wins in debut season but positioning failed in final 10km despite QuickStep's disruptive efforts",
+      "ACKERMANN Pascal": "negative: Bora leadout delivered him well but finishing power insufficient against Groenewegen's acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:34:10.785125+00:00"
+}

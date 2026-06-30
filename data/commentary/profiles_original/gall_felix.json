@@ -1,0 +1,30 @@
+{
+  "attacking_style": "Attacks from breakaways on final steep climbs, often coordinated with teammates. Prefers single decisive effort rather than sustained multi-climb battles, typically launching on the ultimate ascent.",
+  "team_tactics": "Relies heavily on teammate setup — O'Connor and Dewulf placed him perfectly for stage wins. When isolated (Movistar days), struggled to sustain attacks against organized chase groups.",
+  "terrain_preference": "Single steep summit finishes at altitude where pure climbing power dominates. Exposed badly on time trials and multi-climb stages requiring sustained efforts across varied terrain.",
+  "vulnerability": "Time trials destroy his GC ambitions (lost 46sec in 8-minute gap at Tour de Suisse). Cannot follow elite climbers across multiple efforts or when pace is relentless rather than explosive.",
+  "key_patterns": [
+    "Breakaway specialist who wins from reduced groups on final climb, not GC contention (3 observations)",
+    "Teammate coordination essential: DEWULF and O'CONNOR setups led to wins; isolation led to failures (4 observations)",
+    "Time trial liability severe enough to collapse GC prospects within single stage (2 observations)",
+    "Form peaks strategically: Tour de Suisse GC run directly preceded Tour stage win (2 observations)",
+    "Single-climb power elite, but multi-climb days expose inability to match top GC riders (3 observations)"
+  ],
+  "form_trajectory": "positive: Won Tour de Suisse stage, took yellow, then won Tour de France stage weeks later showing sustained peak timing",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "GALL Felix",
+  "built_from": [
+    "2023 Paris-Nice Stage 4",
+    "2023 Tour de France Stage 17",
+    "2023 Tour de France Stage 17",
+    "2023 Tour de France Stage 20",
+    "2023 Tour de Suisse Stage 3",
+    "2023 Tour de Suisse Stage 3",
+    "2023 Tour de Suisse Stage 4",
+    "2023 Tour de Suisse Stage 4",
+    "2023 Tour de Suisse Stage 5",
+    "2023 Tour de Suisse Stage 8",
+    "2023 Tour de Suisse Stage 8"
+  ]
+}

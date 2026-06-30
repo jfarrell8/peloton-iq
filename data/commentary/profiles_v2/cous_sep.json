@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Launches decisive attacks in the final 2km of summit finishes, exploiting late-race opportunities when given freedom to hunt stages.",
+  "team_tactics": "Receives stage-hunting freedom when team leadership situation changes (e.g., leader withdrawal). Benefits from team loyalty rewarded with personal opportunities.",
+  "terrain_preference": "Summit finishes and uphill arrivals where late acceleration on climbs can create winning margins. Final climb scenarios suit best.",
+  "vulnerability": "Likely constrained when in pure domestique role supporting GC leader; limited data on abilities in longer-range attacks or flat sprint scenarios.",
+  "key_patterns": [
+    "Attacks in final 2km of climbs when stage opportunity available (1 observation)",
+    "Stage wins come when released from GC support duties (1 observation)",
+    "Executes team plan while others target GC bonuses simultaneously (1 observation)"
+  ],
+  "form_trajectory": "positive: Solo stage win demonstrates strong climbing form and finishing ability when given team freedom",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "COUS Sep",
+  "built_from": [
+    "2020 Criterium du Dauphine Stage 5",
+    "2020 Criterium du Dauphine Stage 5"
+  ]
+}

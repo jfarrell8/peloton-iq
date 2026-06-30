@@ -1,0 +1,25 @@
+{
+  "label": "2022 Giro d'Italia Stage 6",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-12",
+  "stage": 6,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "DEMAR Arnold won a chaotic sprint by bike throw after GAVIRIA and VAN POPPEL were taken out in final kilometer positioning battles",
+    "winner": "DEMAR Arnold",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "QUICKSTEP controlled tempo with inverted tactics—harder to keep gap at four minutes than close it down.",
+      "KÄMNA Leonard contested intermediate sprint at 28km for bonus seconds despite being 39s down on GC overall.",
+      "Final 5km headwind sprint meant late launchers like DEMAR coming from behind had advantage over early movers."
+    ],
+    "rider_signals": {
+      "DEMAR Arnold": "positive: back-to-back wins shows form peak, found clean air after chaos took out lead-out trains",
+      "CAVENDISH Mark": "neutral: launched early possibly due to VAN POPPEL crash disrupting QUICKSTEP train sequencing",
+      "GAVIRIA Fernando": "negative: taken out in final kilometer positioning, suggests positioning vulnerability in messy sprints",
+      "KÄMNA Leonard": "positive: aggressive bonus second hunting at intermediate sprint 28km out while 39s down reveals GC ambition"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:40:23.677540+00:00"
+}

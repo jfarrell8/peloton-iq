@@ -1,0 +1,30 @@
+{
+  "label": "2018 Tour de France Stage 4",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-10",
+  "stage": 4,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GAVIRIA Fernando won Stage 4 sprint with RICHEZE Maximiliano's left-side slingshot leadout, holding off SAGAN Peter and GREIPEL André after RICHEZE exploited right-crosswind positioning advantage.",
+    "winner": "GAVIRIA Fernando",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "RICHEZE Maximiliano's left-side leadout with right-crosswind gave Quick-Step 2-3kmh slingshot advantage over right-positioned trains, decisive positioning tactic.",
+      "Dimension Data burned team catching breakaway but couldn't deliver CAVENDISH Mark, revealing critical error: don't sacrifice leadout train for chase duty.",
+      "GAVIRIA's second acceleration capability after initial kick differentiates him from single-surge sprinters, averaged 58kmh final 500m uphill into headwind.",
+      "EF's immediate bike swap via MARTÍNEZ Daniel Felipe saved URÁN Rigoberto's GC after sub-5km crash, demonstrating time-cut rule exploitation teamwork."
+    ],
+    "rider_signals": {
+      "GAVIRIA Fernando": "positive: Two-kick sprint capacity allows him to counter premature surges, different tactical weapon than SAGAN's sustained power",
+      "RICHEZE Maximiliano": "positive: Executed high-risk no-brakes left-side leadout exploiting crosswind draft, elite tactical awareness under pressure",
+      "CAVENDISH Mark": "negative: Perfectly positioned by RENSHAW Mark but lacked finishing power, suggests declining sprint speed not positioning issues",
+      "SAGAN Peter": "neutral: Nearly won despite suboptimal positioning, green jersey battle will force defensive mountain breakaway tactics unprecedented in recent Tours",
+      "GREIPEL André": "positive: Physical contact aggression final 75m showed desperation tactics work, nearly stole third from poor position",
+      "URÁN Rigoberto": "neutral: Team's bike-swap scramble worked but reliance on sub-5km rule protection reveals GC contenders' crash vulnerability in sprint stages",
+      "ZAKARIN Ilnur": "negative: Lost one minute same crash that URÁN survived, poor team support compared to EF's immediate response",
+      "QUINTANA Nairo": "negative: Referenced earlier time loss from poor decision-making under pressure, mental weakness when crashes occur"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:37:12.269729+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 4",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-28",
+  "stage": 4,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "KING Ben won from early breakaway that gained 10 minutes as Team Sky inexplicably refused to control despite holding leader's jersey through Kwiatkowski",
+    "winner": "KING Ben",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky appeared without GC ambitions, failed to defend Kwiatkowski's jersey despite having resources, suggesting depleted Tour squad.",
+      "Breakaway cohesion broke at 9:45 advantage when Wellens/Movistar stopped working; King forced selection before climb started.",
+      "YATES Simon counter-attacked Lotto's leadout brilliantly with 200m left, exploiting Sky's isolation of Kwiatkowski without teammates."
+    ],
+    "rider_signals": {
+      "KING Ben": "positive: Pre-selected stage from race book, rode climbing bike not aero, forced selection when break fractured at max advantage",
+      "KWIATKOWSKI Michal": "negative: Team Sky left him isolated in leader's jersey on first mountain stage, no A-team support present",
+      "ROLLAND Pierre": "negative: Strongest climber on paper but hesitated to chase King alone, arrived too late after dragging group",
+      "BUCHMANN Emanuel": "positive: Only seconds behind Yates with strong team (Majka/de la Parte/Formolo), potential breakout GC ride underway",
+      "YATES Simon": "positive: Counter-attacked brilliantly despite commentators confusing him with Adam, attacked early unlike passive Giro tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:42:28.704311+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2020 Tirreno Adriatico Stage 7",
+  "race_name": "Tirreno Adriatico",
+  "race_date": "2020-09-13",
+  "stage": 7,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu bridged from chasing group in final 500m on steep Loreto Wall finish to overtake solo leader FABRO who attacked 30km out.",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FABRO Matteo solo attack from 30km+ suited accumulated fatigue conditions where chasers couldn't organize smooth pursuit.",
+      "VAN DER POEL waited until steepest 500m section before launching decisive bridge, using puncheur power when gradient maximized.",
+      "GUERRERO Ruben bridged first but couldn't hold VAN DER POEL's final acceleration, revealing pure classics power differential.",
+      "GC contenders YATES/THOMAS/VLASOV rode together up Loreto Wall, effectively neutralizing time gaps before TT decider."
+    ],
+    "rider_signals": {
+      "FABRO Matteo": "positive: held 30km+ solo break to within 100m of stage win on maximum gradient finish despite accumulated week fatigue",
+      "VAN DER POEL Mathieu": "positive: demonstrated precise tactical patience by waiting for steepest 500m gradient section before committing to bridge effort",
+      "GUERRERO Ruben": "neutral: bridged strongest initially but lacked explosive power to counter VAN DER POEL's final acceleration on maximum gradient",
+      "KELDERMAN Wilco": "positive: finished 4th despite not being breakaway rider, suggesting stronger climbing form than expected on steep finishes",
+      "YATES Simon": "negative: admitted post-race he wants larger GC advantage with only 16sec over MICA before TT, revealing confidence concerns",
+      "THOMAS Geraint": "neutral: rode conservatively with GC group at 39sec deficit, explicitly banking on TT superiority rather than attacking"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:21:36.685240+00:00"
+}

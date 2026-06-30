@@ -1,0 +1,25 @@
+{
+  "label": "2022 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2022-07-31",
+  "stage": 2,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "LEKNESSUND Andreas attacked solo at 18km to go from a dying breakaway, gained time on final climb to win by 38 seconds and take yellow jersey threat to 7 seconds.",
+    "winner": "LEKNESSUND Andreas",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos/Bora/Quick-Step collaboration reduced 6-minute break gap to 90 seconds approaching final climb, showing GC panic threshold around 1-minute buffer.",
+      "Leknessund's 18km solo attack succeeded because peloton switched from chase mode to sprint setup once yellow jersey seemed safe.",
+      "TT specialists like Leknessund can extend gaps on rolling finales when breakaway companions are already cooked from earlier pace-making."
+    ],
+    "rider_signals": {
+      "LEKNESSUND Andreas": "positive: first road win shows TT engine translates to sustained power on rolling terrain, gained time on climb rather than losing",
+      "BETTIOL Alberto": "positive: sprint win over Matthews/Trentin signals Tour de France form despite confusion, unexpected speed for classics rider",
+      "SAGAN Peter": "negative: dropped on final classified climb suggests poor form or positioning, absent from reduced bunch sprint",
+      "KRISTOFF Alexander": "negative: dropped on final classified climb, missing from reduced sprint despite compatriot winning from break"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:25:29.545373+00:00"
+}

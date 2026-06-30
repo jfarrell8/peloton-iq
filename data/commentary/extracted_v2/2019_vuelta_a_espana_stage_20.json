@@ -1,0 +1,27 @@
+{
+  "label": "2019 Vuelta a Espana Stage 20",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2019-09-14",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "POGACAR Tadej attacked 38km out on penultimate Cat-1 climb, soloed to victory while Quintana lost podium by not responding to Valverde's late pace increase.",
+    "winner": "POGACAR Tadej",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "POGACAR attacked 38km from finish during early hesitation on penultimate climb, not waiting for steeper final ramps as expected.",
+      "VALVERDE rode for podium time gaps in final 6km without attacking, forcing Quintana to chase while Roglic wheel-sucked.",
+      "Movistar called QUINTANA to front with 6km left to defend third, but he couldn't match Valverde's sustained pace.",
+      "UAE kept POGACAR tucked/drafting entire descent despite solo lead, prioritizing aero gains over power display."
+    ],
+    "rider_signals": {
+      "POGACAR Tadej": "positive: At 20 years old, attacked 38km out when expected to wait, handled windy descent solo, already signed 5-year UAE extension",
+      "QUINTANA Nairo": "negative: Lost podium position to teammate Valverde by failing to respond when called to front with 6km remaining",
+      "VALVERDE Alejandro": "positive: Rode calculated tempo in final 6km specifically to gain time on Pogacar without attacking, reclaimed podium from Quintana",
+      "ROGLIC Primoz": "neutral: Sat on Valverde's wheel refusing to work despite teammate Lopez behind, purely defensive riding to protect 2:33 lead",
+      "LOPEZ Miguel Angel": "negative: Lost podium contention after teammates Quintana/Valverde rode for themselves, grimacing and unable to follow final pace"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:08:57.039926+00:00"
+}

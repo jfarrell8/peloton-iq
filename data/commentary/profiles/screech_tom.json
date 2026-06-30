@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Deploys repeated counterattacks in the final laps/circuits, not for personal gain but to disrupt the peloton and create confusion for teammate moves.",
+  "team_tactics": "Elite domestique role: uses high-frequency attacking to distract and fatigue opponents, deliberately sacrificing own result to mask protected rider's decisive move",
+  "terrain_preference": "Circuit races with multiple laps where repeated accelerations can compound fatigue in the bunch and create tactical ambiguity",
+  "vulnerability": "Insufficient data from single race observation to identify specific weaknesses or limiting conditions",
+  "key_patterns": [
+    "Executes self-sacrificial repeated attacks to create winning opportunities for protected teammates",
+    "Uses counterattacking pattern on final circuits to fragment and confuse peloton",
+    "Assumes pure domestique role rather than pursuing personal result in key moments"
+  ],
+  "form_trajectory": "positive: demonstrated strong legs and tactical discipline to execute demanding repeated attack strategy effectively",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "SCREECH Tom",
+  "built_from": [
+    "2023 Bretagne Classic - Ouest-France",
+    "2023 Bretagne Classic - Ouest-France"
+  ]
+}

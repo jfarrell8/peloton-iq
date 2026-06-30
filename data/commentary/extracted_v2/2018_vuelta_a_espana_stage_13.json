@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-09-07",
+  "stage": 13,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "RODRIGUEZ Oscar soloed from breakaway to win atop 3km/14% wall; QUINTANA dropped YATES in final 50m for 6-second gain.",
+    "winner": "RODRIGUEZ Oscar",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Movistar controlled pace despite not holding leader's jersey, protecting two top-5 riders like race favorites, revealing confidence hierarchy.",
+      "32-rider breakaway allowed freedom on first of three summit finishes, suggesting GC teams conserving for Sunday's historic Covadonga finish.",
+      "Steep 14% gradient negated traditional attacks; riders forced to maintain threshold rather than explosive accelerations, favoring steady climbers.",
+      "Quintana delayed sprint until final 50m expecting Yates counter-punch; Yates poker-faced weakness until too late to respond."
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: Strongest on terrain matching previous win, chipped 6 seconds despite full team effort suggesting deeper form reserves remain",
+      "YATES Simon": "neutral: Concealed weakness effectively but yielded time on signature steep finish, possibly deliberately conserving for Sunday",
+      "MAJKA Rafal": "negative: First to attack breakaway but dropped by Rodriguez with 1.5km remaining, suggesting insufficient form for pure steep gradient",
+      "RODRIGUEZ Oscar": "positive: Bridged to leaders then immediately dropped them on 14% gradient, revealing exceptional steep-climbing capacity under radar"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:40:23.973457+00:00"
+}

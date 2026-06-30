@@ -1,0 +1,19 @@
+{
+  "attacking_style": "High-volume, persistent attacking from early race through multiple breakaway attempts. Demonstrates willingness to reattack even after being caught or dropped, forcing continuous peloton expenditure.",
+  "team_tactics": "Sport Vlaanderen employs aggressive fatigue tactics, using Reynders as an engine to force peloton work through repeated breakaway insertions regardless of success likelihood.",
+  "terrain_preference": "Suited to attritional one-day races with multiple laps or circuits where repeated efforts can wear down opposition. Thrives in scenarios requiring resilience over explosive power.",
+  "vulnerability": "Ultimate success limited by lack of finishing power after multiple hard efforts. Gets dropped on key climbs but strategy appears to prioritize team disruption over personal result.",
+  "key_patterns": [
+    "Enters multiple breakaways in single race, showing exceptional recovery and commitment.",
+    "Rechases after being dropped from breakaways rather than abandoning effort.",
+    "Continues attacking deep into race despite previous failed attempts."
+  ],
+  "form_trajectory": "neutral: Single race shows strong endurance and tactical discipline but insufficient data for trajectory assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "REYNDERS Jens",
+  "built_from": [
+    "2022 Eschborn-Frankfurt",
+    "2022 Eschborn-Frankfurt"
+  ]
+}

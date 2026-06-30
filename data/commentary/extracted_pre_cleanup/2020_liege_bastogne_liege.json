@@ -1,0 +1,27 @@
+{
+  "label": "2020 Liege-Bastogne-Liege",
+  "race_name": "Liege-Bastogne-Liege",
+  "race_date": "2020-10-04",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ROGLIČ won with a bike throw after ALAPHILIPPE celebrated early and was relegated for dangerous deviation across the sprint line.",
+    "winner": "ROGLIČ Primož",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIČ continued sprinting while ALAPHILIPPE celebrated 50m early, winning by bike throw—stamina in final 200m separates monuments",
+      "ALAPHILIPPE deviated 2-3 meters across road in sprint causing HIRSCHI foot unclip, revealing rainbow jersey pressure affects decision-making",
+      "POGAČAR shifted from victory objective to damage limitation mid-race, suggesting Tour fatigue impacts monument ambition windows"
+    ],
+    "rider_signals": {
+      "ROGLIČ Primož": "positive: First monument win via superior sprint discipline and endurance in final 200m after multi-hour headwind race",
+      "ALAPHILIPPE Julian": "negative: Premature celebration and dangerous sprint deviation resulted in relegation to 5th, tactical composure lacking under rainbow jersey",
+      "HIRSCHI Marc": "positive: Third place despite pulling foot out in sprint shows positioning skill, consistent podium threat in monuments",
+      "POGAČAR Tadej": "neutral: Podium finish but abandoned victory goal mid-race, Tour de France form not translating to monument finishing power",
+      "VAN AVERMAET Greg": "negative: DNF after hitting road furniture hard with head impact, early race crash eliminates pre-race favorite",
+      "MCCARTHY Jay": "neutral: Avoided worst of same crash that ended VAN AVERMAET's race, bike handling under wet conditions critical"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:28:25.248277+00:00"
+}

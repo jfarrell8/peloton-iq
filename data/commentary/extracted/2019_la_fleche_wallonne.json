@@ -1,0 +1,34 @@
+{
+  "label": "2019 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2019-04-24",
+  "stage": null,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE attacked on the final Mur de Huy ascent with 1.3km to go, held off FUGLSANG's late surge to win back-to-back.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "ALAPHILIPPE punctured mid-race but Quick-Step left him with only DEVENYNS for final support, exposing one-leader strategy vulnerability.",
+      "FUGLSANG positioned himself to shadow ALAPHILIPPE before final climb, creating two-rider gap that discouraged chasers.",
+      "WELLENS's team Lotto Soudal attacked repeatedly pre-finale to drain rivals, suggesting they prioritized disruption over positioning.",
+      "VAN AVERMAET crashed twice, revealing fragility of cobbles specialists in positioning wars on technical Ardennes descents.",
+      "WOODS and YATES disappeared from contention despite prominent early positioning, indicating pre-final-climb marking errors cost GC riders."
+    ],
+    "rider_signals": {
+      "ALAPHILIPPE Julian": "positive: won despite mid-race puncture and minimal team support on finale, confirming self-sufficient climbing kick",
+      "FUGLSANG Jakob": "negative: second place despite perfect positioning shadowing winner suggests insufficient explosive power for Mur finish",
+      "ULISSI Diego": "positive: third place salvaged UAE's race after MARTIN dropped early, showing unexpected punch on steepest gradient",
+      "WELLENS Tim": "neutral: team attacked aggressively throughout but rider absent from finale, indicating diesel engine unsuited to Mur",
+      "VAN AVERMAET Greg": "negative: crashed twice in positioning battles, exposing tactical overcommitment before decisive terrain",
+      "WOODS Michael": "negative: prominent at 28km but vanished on final climb despite perfect EF setup",
+      "YATES Adam": "negative: Mitchelton-Scott pulled early but YATES absent from finale, suggesting premature effort expenditure",
+      "VALVERDE Alejandro": "negative: outside top-10 despite teammate VAN AVERMAET's leadout attempt, rare Mur failure for specialist",
+      "SCHACHMANN Maximilian": "positive: top-5 finish without visible team support indicates self-sufficient Ardennes climbing emerging",
+      "LAMBRECHT Bjorg": "positive: top-5 finish signals breakthrough Ardennes potential before tragic later events",
+      "MATTHEWS Michael": "positive: top-10 on Mur despite sprinter profile, confirming expanding range on selective climbs"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:00:15.945042+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Employs long-range attacks on high-mountain stages, willing to sacrifice personal stage victory to facilitate team strategy and consolidate GC positions.",
+  "team_tactics": "Uses aggressive early moves to destabilize race, creating platform for teammates to capitalize while securing classification objectives through bold positioning.",
+  "terrain_preference": "High-mountain stages with HC climbs (e.g., Angliru) where sustained long-range efforts can split the field and create tactical opportunities.",
+  "vulnerability": "Limited data suggests focus on classification defense rather than stage hunting may limit outright winning opportunities when leading.",
+  "key_patterns": [
+    "Long-range attacks used strategically for dual purpose: team support and personal classification gains.",
+    "Willing to play domestique role while simultaneously advancing own GC/classification objectives.",
+    "Aggressive racing on decisive mountain stages to extend classification margins to insurmountable levels."
+  ],
+  "form_trajectory": "positive: Successfully extended white jersey lead while executing team tactics on decisive Angliru stage",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "MOOS Enrique",
+  "built_from": [
+    "2020 Vuelta a Espana Stage 12",
+    "2020 Vuelta a Espana Stage 12"
+  ]
+}

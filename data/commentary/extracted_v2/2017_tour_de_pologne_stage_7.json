@@ -1,0 +1,26 @@
+{
+  "label": "2017 Tour de Pologne Stage 7",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-08-04",
+  "stage": 7,
+  "channel": "inCycle",
+  "extraction": {
+    "one_line_summary": "MARYCHKA Jakob survived being dropped on penultimate climb, relied on teammates to pace back, then sprinted to 5th stage win and overall victory.",
+    "winner": "MARYCHKA Jakob",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Nippo-Vini Fantini isolated Marychka on climbs but teammate pacing neutered attacks when he was visibly dropped mid-stage.",
+      "RIOS Gregor (19yo Colombian) attacked solo with 7km remaining, gained 45 seconds, nearly took overall lead before caught at 1.6km.",
+      "United Healthcare opened sprint early for BOONRATANATHANAKORN, revealing willingness to sacrifice position for visible leadout rather than tactical patience.",
+      "Israeli Academy launched late attacks inside final 2km despite no sprint presence, suggesting deliberate GC disruption tactics."
+    ],
+    "rider_signals": {
+      "MARYCHKA Jakob": "negative-turned-positive: dropped on climb but recovered via team pacing, suggests vulnerable on sustained gradients but strong recovery capacity",
+      "RIOS Gregor": "positive: 19yo Colombian nearly stole overall lead with 7km solo attack gaining 45 seconds, marked as dangerous wildcard",
+      "SZEINA Patrick": "negative: mechanical flat tire with 7km remaining destroyed 4th place GC, terrible timing undermines reliability assessment",
+      "MORINI Nicholas": "negative: dropped immediately when race hit climbs, confirming zero climbing capacity despite 2nd overall at 19 seconds"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:09:47.592144+00:00"
+}

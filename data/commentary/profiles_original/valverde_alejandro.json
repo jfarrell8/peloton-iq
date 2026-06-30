@@ -1,0 +1,38 @@
+{
+  "attacking_style": "Explosive accelerations in final 200-500m on super-steep gradients (12%+), particularly effective at advanced age when races come down to short, punchy finishes rather than sustained climbing efforts.",
+  "team_tactics": "Movistar sets tempo through domestiques (Quintana, Soler, Mas) before Valverde's late attacks, though team hierarchy confusion sometimes burns him on early pace-setting duties, leaving him unsupported in critical moments.",
+  "terrain_preference": "Super-steep pitches (12%+) in final kilometers and attritional one-day races. Excels in reduced bunch sprints and late-race selections. Struggles on sustained altitude climbs and explosive accelerations beyond 3km to go.",
+  "vulnerability": "Age-related decline in repeated accelerations over 3km, wind awareness/positioning in echelon splits, technical descents (crash history), and sustained efforts at altitude. Cannot match young explosive climbers on longer efforts.",
+  "key_patterns": [
+    "Most dangerous within final 500m on super-steep ramps, multiple podiums from late acceleration (3 observations)",
+    "Still competitive in reduced sprints at 41+ years, securing podiums from breakaway remnants (3 observations)",
+    "Vulnerable to echelon splits and positioning errors, loses 20-30s in wind/technical stages (2 observations)",
+    "Cannot sustain repeated accelerations beyond 3km, drops when young climbers attack early (4 observations)",
+    "Team confusion wastes his efforts on domestique duties or leaves him chasing alone (3 observations)",
+    "Performs best in attritional one-day races rather than three-week Grand Tour efforts (2 observations)"
+  ],
+  "form_trajectory": "negative: Clear decline from 2019-2022, dropped on non-selective terrain (2022 Giro), illness-affected performances, though still capable of occasional podiums in suited one-day races (Strade Bianche 2nd at 41)",
+  "races_analysed": 17,
+  "confidence": "high",
+  "rider_name": "VALVERDE Alejandro",
+  "built_from": [
+    "2019 Il Lombardia",
+    "2019 Tour de France Stage 20",
+    "2019 Tour de France Stage 6",
+    "2019 Vuelta a Espana Stage 15",
+    "2019 Vuelta a Espana Stage 16",
+    "2019 Vuelta a Espana Stage 17",
+    "2019 Vuelta a Espana Stage 19",
+    "2019 Vuelta a Espana Stage 20",
+    "2019 Vuelta a Espana Stage 7",
+    "2019 Vuelta a Espana Stage 7",
+    "2019 Vuelta a Espana Stage 9",
+    "2021 La Vuelta ciclista a Espana Stage 7",
+    "2021 Tour de France Stage 15",
+    "2022 Giro d'Italia Stage 14",
+    "2022 La Fleche Wallonne",
+    "2022 Strade Bianche",
+    "2022 Volta Ciclista a Catalunya Stage 3",
+    "2022 Volta Ciclista a Catalunya Stage 4"
+  ]
+}

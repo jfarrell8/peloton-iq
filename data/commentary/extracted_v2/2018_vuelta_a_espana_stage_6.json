@@ -1,0 +1,26 @@
+{
+  "label": "2018 Vuelta a Espana Stage 6",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2018-08-30",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BOUHANNI Nacer won from reduced bunch sprint after late split caused by roadside furniture, Viviani boxed out of position",
+    "winner": "BOUHANNI Nacer",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Team Sky and EF Education First moved to front 3+ km out anticipating street furniture danger, avoiding crash",
+      "Quick-Step lost lead-out train when Sabatini crashed on bollards, leaving Viviani isolated in final 500m",
+      "Bouhanni changed positioning strategy from previous day, entering final km independently rather than relying on train"
+    ],
+    "rider_signals": {
+      "BOUHANNI Nacer": "positive: admitted anger over previous day criticism motivated tactical adjustment, proved veteran sprint positioning skills",
+      "VIVIANI Elia": "negative: lost lead-out when Sabatini crashed, got boxed out despite making front split showing positioning vulnerability",
+      "PORT Richie": "neutral: joined three-man break only to collect KOM points, team allowed polite maximum point-taking",
+      "LAENGEN Vegard": "negative: caught behind furniture crash, wasted energy chasing back compromising UAE sprint support",
+      "BENNETT George": "positive: positioned safely in front group despite team not mentioned among proactive safety-first squads"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:42:53.333411+00:00"
+}

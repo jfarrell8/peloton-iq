@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Attacks on steep lower slopes of long climbs with 10+ km remaining, targeting both stage wins and intermediate bonus/KOM points. Capable of sustaining long-range efforts rather than explosive finale moves.",
+  "team_tactics": "Operates with considerable autonomy when not GC-focused. Team support appears secondary to personal opportunism—will split efforts across stage for KOM points or attack independently on final climbs.",
+  "terrain_preference": "Steep gradients on extended climbs (20+ km) where sustained power advantage matters. Struggles on flat stages and with race management logistics. Not a natural puncher despite climbing strength.",
+  "vulnerability": "Flat stages expose weakness—lost GC time at team car through poor positioning. Form volatility: multi-year poor spell (pre-2022) suggests inconsistency. Less effective in explosive punchy finishes than pure mountain stages.",
+  "key_patterns": [
+    "Targets bonus seconds and KOM points on intermediate climbs tactically, not just stage finish (2 instances)",
+    "Long-range solo attacks 10+ km from finish on steep sections when form present (2 instances)",
+    "Will prioritize KOM jersey tactics over stage result when GC not viable (2 instances)",
+    "Career form volatility: multi-year drought broken 2022, suggesting peaks require specific conditions (2 instances)"
+  ],
+  "form_trajectory": "positive: 2022 Giro win ended years-long drought, suggesting resurgence. 2023 TDF showed tactical intelligence still present even when not targeting stages.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "CICCONE Giulio",
+  "built_from": [
+    "2019 Tour de France Stage 11",
+    "2019 Tour de France Stage 6",
+    "2019 Tour de France Stage 6",
+    "2022 Giro d'Italia Stage 15",
+    "2022 Giro d'Italia Stage 15",
+    "2023 Tour de France Stage 16"
+  ]
+}

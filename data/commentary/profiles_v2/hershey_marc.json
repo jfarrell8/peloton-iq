@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Opportunistic late attacks (1km to go) on steep finishing ramps, targeting visible weakness in rivals. Shows ability to win from long breakaways and short explosive moves on uphill finishes.",
+  "team_tactics": "Operates with significant autonomy, even attacking teammates for bonuses. Limited evidence of structured team support; appears to race independently with aggressive GC priority overriding stage hierarchies.",
+  "terrain_preference": "Steep finishing ramps and punchy uphill sprints where power can be decisive. Capable on Cat-1 climbs with resilience to contest finishes after day-long efforts. Excels when gradients create selection.",
+  "vulnerability": "Unknown sustainability against dedicated GC teams with organized tempo control. Limited observations of how he handles tactical isolation when team support is needed.",
+  "key_patterns": [
+    "Attacks teammates for time bonuses and intermediate sprints when GC opportunity exists (2 instances)",
+    "Reads race situations opportunistically, exploiting visible rival weakness rather than predetermined tactics (2+ instances)",
+    "Wins uphill sprints from breakaways, showing both climbing endurance and final kick (3 instances)",
+    "Demonstrates tactical maturity beyond age: refuses work when tactically sound, attacks at optimal moments (3 instances)",
+    "Repeatedly splits peloton on climbs to reduce final competition before sprint finishes (2 instances)"
+  ],
+  "form_trajectory": "positive: 2021 Poland stage win with yellow jersey capture shows progression from 2019-2020 breakaway specialist to GC threat capable of isolating established leaders",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "HERSHEY Marc",
+  "built_from": [
+    "2019 BinckBank Tour Stage 4",
+    "2019 BinckBank Tour Stage 4",
+    "2019 BinckBank Tour Stage 7",
+    "2020 Tour de France Stage 9",
+    "2021 Tour de Pologne Stage 2",
+    "2021 Tour de Pologne Stage 2"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "label": "2021 Criterium du Dauphine Stage 5",
+  "race_name": "Criterium du Dauphine",
+  "race_date": "2021-06-03",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "THOMAS Geraint attacked solo with 700m remaining on technical corner finish, held off COLBRELLI Sonny by centimeters after what appeared a miscalculated move.",
+    "winner": "THOMAS Geraint",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "THOMAS exploited sharp technical corners in finale to attack solo from GC group, offsetting yesterday's poor TT with 10-second bonus.",
+      "Breakaway self-destructed early when ČERNÝ and MULLEN attacked with 60km remaining, forcing ASGREEN back to peloton, neutralizing time threat.",
+      "PÖSTLBERGER's team controlled all day to protect 1-second GC lead over LUTSENKO, preventing breakaway riders gaining dangerous time gaps.",
+      "Late-race corners created acceleration opportunities too difficult for sprint trains to control, favoring punchy GC riders over pure sprinters like KRISTOFF."
+    ],
+    "rider_signals": {
+      "THOMAS Geraint": "positive: attacked from technical corner with perfect timing despite positioning mid-field, showed recovery and tactical sharpness post-TT disappointment",
+      "COLBRELLI Sonny": "positive: fastest finisher in race so far, nearly closed 700m gap in final sprint, outperformed traditional sprinters on lumpy finale",
+      "ASGREEN Kasper": "negative: early crash weakened him, peloton controlled breakaway specifically to neutralize his time threat, forced back before finale",
+      "KRISTOFF Alexander": "negative: positioned poorly mid-field for technical sprint finish, unable to contest despite being designated top sprinter",
+      "PÖSTLBERGER Lukas": "positive: held yellow by just 1 second over LUTSENKO through team control, four days in yellow exceeds expectations",
+      "BERNARD Julien": "neutral: aggressive in breakaway but neutralized when ASGREEN pulled back, strong Monument winner unable to survive to finale",
+      "CRADDOCK Lawson": "neutral: caught late by peloton after being in breakaway, no impact on final result"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:48:46.474662+00:00"
+}

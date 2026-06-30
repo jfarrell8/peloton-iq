@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Capable of long-range solo efforts (22km at RVV), but also employs late tactical attacks on selective finishes when sprint is compromised. Shows willingness to commit early from distance rather than waiting for reduced sprints.",
+  "team_tactics": "Functions effectively as domestique in breakaways, willing to sacrifice own result for protected riders. Takes leadership in chase organization when team interests align. No clear lead-out train dependency observed.",
+  "terrain_preference": "Cobbled classics and time-trial-like efforts suit best, demonstrated by 22km solo hold at Vlaanderen. Selective finishes preferred over pure sprints. Exposed in fast, organized field sprints.",
+  "vulnerability": "Cracks in high-speed field sprints despite race leader status (BinckBank 14th). Diesel engine lacks explosive acceleration for contested finishes. May adopt passive tactics when chasing from deficit positions.",
+  "key_patterns": [
+    "Underrated time-trial strength allows extended solo efforts on cobbles and selective terrain (RVV evidence)",
+    "Chooses late attacks over sprinting when finish gradient/difficulty eliminates pure sprinters (Oman, BinckBank)",
+    "Strong team player: sacrifices personal placement for protected teammates in key selections (Vuelta)",
+    "Lacks explosive sprint finish despite early acceleration attempts in fast finales (BinckBank 14th)"
+  ],
+  "form_trajectory": "negative: Most recent 2019 observation shows cracking in sprint despite leader jersey, contrasts with 2018 diesel strength",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "TERPSTRA Niki",
+  "built_from": [
+    "2017 Vuelta a Espana Stage 10",
+    "2018 Paris-Roubaix",
+    "2018 Ronde Van Vlaanderen",
+    "2018 Tour of Oman Stage 4",
+    "2019 BinckBank Tour Stage 2"
+  ]
+}

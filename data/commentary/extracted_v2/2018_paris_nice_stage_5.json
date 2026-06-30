@@ -1,0 +1,25 @@
+{
+  "label": "2018 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2018-03-08",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "COUSIN Jérémy won from a breakaway that survived despite Quick-Step and Lotto-Soudal chasing, helped by a late peloton crash.",
+    "winner": "COUSIN Jérémy",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step and Lotto-Soudal chased for sprinters on unsuitable terrain, wasting energy when GC teams stayed passive.",
+      "COUSIN targeting polka-dot points in pre-broadcast phase reveals tactical value of racing before TV coverage begins.",
+      "Late peloton crash with 2km remaining gave marginal 25-second gap decisive buffer, proving breakaway timing luck matters."
+    ],
+    "rider_signals": {
+      "COUSIN Jérémy": "positive: won first 2018 race after only 30 racing days in 2017, showing form recovery timing",
+      "QUINTANA Nairo": "neutral: brother Dayer crashed in descent, but no GC impact suggests family dynamic didn't affect race",
+      "POLITT Nils": "positive: second place after bridging solo in final 15km shows diesel engine strength",
+      "VIVIANI Elia": "negative: ranked only 28th on moderately hilly stage, exposing climbing weakness earlier than expected"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:25:23.639564+00:00"
+}

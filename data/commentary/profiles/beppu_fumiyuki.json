@@ -1,0 +1,18 @@
+{
+  "attacking_style": "Not an attacker; operates as a leadout specialist in sprint finishes, delivering riders in final kilometers.",
+  "team_tactics": "Functions as a high-speed leadout train component, valued enough that rival teams utilize his services when their own trains falter.",
+  "terrain_preference": "Flat sprint stages where leadout work is decisive; likely struggles on climbs given pure leadout specialist profile.",
+  "vulnerability": "Mountain stages and reduced bunch finishes where leadout skills become irrelevant; reliant on team sprint objectives.",
+  "key_patterns": [
+    "Provides leadout services across team boundaries, indicating respected positioning and pace-setting ability.",
+    "Valued by rival sprinters as alternative leadout option when native trains fail."
+  ],
+  "form_trajectory": "unknown: single race observation insufficient to assess trajectory, though leadout capability rated strong",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "BEPPU Fumiyuki",
+  "built_from": [
+    "2017 Tour de Pologne Stage 3",
+    "2017 Tour de Pologne Stage 3"
+  ]
+}

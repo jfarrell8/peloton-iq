@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 17",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-24",
+  "stage": 17,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "ROLLAND Pierre attacked from breakaway on late uncategorized incline with 40km to go, gaining decisive 23-second gap that chasers never closed.",
+    "winner": "ROLLAND Pierre",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROLLAND repeatedly attacked on inclines after struggling on descents earlier, timing final dig when break looked at each other.",
+      "CONTI Valerio forced multiple accelerations working for COSTA Rui, bleeding energy from break before ROLLAND's winning move.",
+      "MOHORIČ Matej isolated doing all front work in break, demonstrating how single worker collapses group cohesion before finale."
+    ],
+    "rider_signals": {
+      "ROLLAND Pierre": "positive: serial attacker transformed weakness (poor descending) into strength by choosing uphill terrain for decisive move",
+      "MOHORIČ Matej": "negative: exhausted himself with excessive front work while others marked, had nothing left for final selection",
+      "BRUTT Pavel": "negative: dropped on second category descent looking white as sheet, confirming descending weakness when in breaks",
+      "QUINTANA Nairo": "negative: laboring and getting out of shape even on transitional stage day after losing time",
+      "COSTA Rui": "neutral: had CONTI working hard to set up sprint but couldn't close 23-second gap to ROLLAND",
+      "CONTI Valerio": "neutral: aggressive domestique work for COSTA depleted him before critical selection moment"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T20:59:16.254565+00:00"
+}

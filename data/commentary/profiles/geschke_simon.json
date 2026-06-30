@@ -1,22 +1,29 @@
 {
-  "attacking_style": "Opportunistic breakaway rider who targets KOM points through early moves rather than sustained climbing accelerations. Shows capability on uphill TT efforts but struggles with repeated late-climb attacks.",
-  "team_tactics": "Operates with autonomy in breakaways, positioning for jersey competitions rather than stage wins. Limited evidence of dedicated team support in observed moves.",
-  "terrain_preference": "Medium-mountain stages with breakaway-friendly profiles and uphill time trials. Struggles on stages requiring multiple hard accelerations or bridge efforts to maintain breakaway position.",
-  "vulnerability": "Cannot sustain both prolonged breakaway efforts and late-climb accelerations when rivals bridge across. Tactical miscalculations in KOM jersey competition leave him exposed to GC riders taking points opportunistically.",
+  "attacking_style": "Breakaway specialist who targets KOM points aggressively, contesting even fourth-category climbs when defending the jersey. Opportunistic in extended, large-group breaks rather than late solo moves.",
+  "team_tactics": "Dual role: capable of critical GC domestique work (pacing leaders back after attacks, even with 30-40km remaining) but given freedom for breakaway hunting when not needed for team leader support.",
+  "terrain_preference": "Mountain time trials reveal hidden strength against pure climbers. Performs best in long breakaways on medium mountain stages. Struggles severely on high-mountain stages in Grand Tours when riding for GC.",
+  "vulnerability": "Catastrophic form collapse on Grand Tour mountain stages when not in breakaways—nearly last overall, struggling for time cuts. Cannot sustain GC efforts across three-week races at high altitude.",
   "key_patterns": [
-    "Targets KOM jersey through breakaway positioning rather than stage wins (3 observations)",
-    "Cracks when required to respond to bridge efforts after extended breakaway work (2 observations)",
-    "Shows opportunistic positioning to follow attacks from other breakaway riders (2 observations)",
-    "Delivers surprising uphill TT performances beyond climbing expectations (1 observation, 33s gain)"
+    "Defends KOM jersey defensively, contesting all points even against teammates (2022 Tour evidence)",
+    "Excels in large breakaways given freedom; 15-rider groups with 5+ minute gaps (2022 examples)",
+    "Strong time trialist on climbing courses, beating pure climbers in mountain TTs (2022 Romandie)",
+    "Willing domestique sacrificing own chances for GC leaders when required (2017 Giro)",
+    "Form collapses dramatically when forced to ride full mountain stages with peloton (2023 Tour)"
   ],
-  "form_trajectory": "negative: Multiple instances of cracking under pressure at Tour de France, tactical failures cost KOM jersey despite breakaway efforts",
-  "races_analysed": 4,
-  "confidence": "medium",
+  "form_trajectory": "negative: 2023 Tour showed catastrophic decline on mountains compared to competitive 2022 KOM campaign, suggesting aging or accumulated fatigue",
+  "races_analysed": 7,
+  "confidence": "high",
   "rider_name": "GESCHKE Simon",
   "built_from": [
-    "2022 Tour de France Stage 18",
-    "2022 Tour de France Stage 7",
-    "2022 Tour de France Stage 9",
-    "2022 Tour de Romandie Stage 5"
+    "2017 Giro d'Italia Stage 19",
+    "2017 Giro d'Italia Stage 19",
+    "2022 Criterium du Dauphine Stage 8",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 16",
+    "2022 Tour de France Stage 17",
+    "2022 Tour de France Stage 21",
+    "2022 Tour de Romandie Stage 5",
+    "2022 Tour de Romandie Stage 5",
+    "2023 Tour de France Stage 18"
   ]
 }

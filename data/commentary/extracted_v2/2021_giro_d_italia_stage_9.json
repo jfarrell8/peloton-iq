@@ -1,0 +1,28 @@
+{
+  "label": "2021 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-16",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked with 1km remaining on gravel climb to Campo Felice, dropped CICCONE who briefly followed, took pink jersey from VALTER",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Ineos delayed their tempo work until final 30km, avoiding early energy expenditure despite gc threats in breakaway.",
+      "BERNAL shifted to big ring on gravel climb, unusual gear choice suggesting pre-recon of surface grip conditions.",
+      "VLASOV attacked before Ineos pace ramped, revealing inability to respond once Moscone-led train began drilling.",
+      "BOUCHARD accumulated mountain points across multiple climbs while in break, targeting jersey not stage win tactically."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: sprinted entire final kilometer uphill on gravel, form clearly superior to recent seasons",
+      "CICCONE Giulio": "positive: only rider who could briefly follow Bernal's acceleration, held second at 7 seconds",
+      "VLASOV Aleksandr": "negative: attacked too early before Ineos tempo, finished third but clearly unable to match Bernal's acceleration",
+      "VALTER Attila": "negative: lost 49 seconds and pink jersey, crossing in 25th suggests inability to handle gravel gradient combination",
+      "CARR Simon": "neutral: animating break from 30km mark shows aggressive racing but lacked power for final gravel pitch",
+      "MOSCON Gianni": "positive: drilling pace for Ineos on gravel approach set up Bernal perfectly, team execution clinical"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:40:40.943442+00:00"
+}

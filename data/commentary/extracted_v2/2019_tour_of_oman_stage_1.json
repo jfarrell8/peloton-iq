@@ -1,0 +1,22 @@
+{
+  "label": "2019 Tour of Oman Stage 1",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-16",
+  "stage": 1,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRISTOFF Alexander won the sprint from a tailwind 1300m straight, holding off CAVENDISH and BOUHANNI after peloton caught break with 5km remaining",
+    "winner": "KRISTOFF Alexander",
+    "commentary_quality": "thin",
+    "tactical_patterns": [
+      "Direct Energy committed full team resources to BOUHANNI but failed, suggesting their sprint train weaker than UAE's setup",
+      "Breakaway absorbed with exactly 5km remaining indicates sprinter teams calibrated catch timing precisely for lead-out optimization"
+    ],
+    "rider_signals": {
+      "CAVENDISH Mark": "positive: second place finish with tailwind positioning suggests he's finding form despite no dedicated train mentioned",
+      "GREIPEL André": "negative: dropped before final 5km on flat stage signals serious deficit compared to top sprinters"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:03:34.745410+00:00"
+}

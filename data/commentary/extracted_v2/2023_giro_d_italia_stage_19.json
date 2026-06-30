@@ -1,0 +1,26 @@
+{
+  "label": "2023 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2023-01-01",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BUITRAGO Santiago won after catching Gee with 1.5km remaining; ROGLIC attacked Thomas inside final kilometer, gained 3 seconds via bonus seconds.",
+    "winner": "BUITRAGO Santiago",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC changed to almost mountain bike gearing (44t largest cog) specifically for Tre Cime, revealing extreme preparation for steep gradients.",
+      "THOMAS attacked inside final 300m for bonus seconds despite leading GC, showing awareness that time gaps mattered more than conserving energy.",
+      "GEE repeatedly joined breakaways for mountain points despite mathematical improbability, prioritizing stage win over jersey competition when tactically eliminated."
+    ],
+    "rider_signals": {
+      "ROGLIC Primoz": "positive: attacked Thomas inside final kilometer on 20% gradient after equipment optimization, showing superior steep-gradient form",
+      "THOMAS Geraint": "negative: could not follow Roglic's final kilometer attack despite being on wheel, forced to counter-attack for bonus seconds afterward",
+      "BUITRAGO Santiago": "positive: caught Gee with 1.5km remaining and rode straight past on high-altitude finish, demonstrating superior climbing at altitude",
+      "ALMEIDA Joao": "negative: lost almost a minute to Thomas/Roglic group on Tre Cime, falling to nearly one minute behind in GC",
+      "ARENSMAN Thymen": "positive: moved into top ten after pacing work earlier, suggesting INEOS had surplus climbing strength"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:39:21.953748+00:00"
+}

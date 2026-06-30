@@ -1,0 +1,25 @@
+{
+  "attacking_style": "Launches decisive solo attacks with 12km remaining on final climb sequences, timing moves after aggressive pace-making has thinned the field. Prefers late-race ambushes over early isolation.",
+  "team_tactics": "Relies on aggressive pace-making from others to set up attacks rather than dedicated team support. Positions conservatively in breakaways, prioritizing cooperation until final climb.",
+  "terrain_preference": "Multi-climb finales with 10-15km technical descents or rolling terrain to finish. Thrives when repeated climbs create selection before final push. Struggles on sustained steep final climbs at high altitude.",
+  "vulnerability": "Age-related decline evident by 2019 (35 years old) with struggles on sustained final climbs. Dropped when pace remains high without tactical variation opportunities.",
+  "key_patterns": [
+    "Attacks with precisely 12km to go on final climbs across multiple wins (2 observations)",
+    "Waits for others to force pace before capitalizing, not initiating selection himself (3 observations)",
+    "Cooperates in breakaways until final climb rather than testing companions early (2 observations)",
+    "Performs best in multi-climb finales versus single sustained efforts (2 observations)"
+  ],
+  "form_trajectory": "negative: Despite 2019 Tour de Suisse wins, age showing with decline on sustained climbs at Paris-Nice. Peak tactical ability but declining physical capacity at 35.",
+  "races_analysed": 4,
+  "confidence": "medium",
+  "rider_name": "LEON SANCHEZ Luis",
+  "built_from": [
+    "2017 Giro d'Italia Stage 8",
+    "2017 Giro d'Italia Stage 8",
+    "2019 Paris-Nice Stage 7",
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 2",
+    "2019 Tour de Suisse Stage 5",
+    "2019 Tour de Suisse Stage 5"
+  ]
+}

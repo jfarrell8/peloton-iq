@@ -5,23 +5,30 @@
   "stage": null,
   "channel": "GCN Racing",
   "extraction": {
-    "one_line_summary": "PHILIPSEN Jasper attacked on Moere de Panne straight in crosswinds, shed all sprinters except KOOIJ/LAMPAERT/FRISON, held off KOOIJ in final.",
+    "one_line_summary": "PHILIPSEN Jasper won after his own team Alpecin-Deceuninck split the race on the Moeren coastal straight, reducing the bunch to 17-18 riders then attacking to form a final four-man group.",
     "winner": "PHILIPSEN Jasper",
-    "commentary_quality": "moderate",
+    "commentary_quality": "rich",
     "tactical_patterns": [
-      "Alpecin pre-emptively drove echelon on Moere straight instead of protecting sprinter, dropped rival leadout trains before final lap.",
-      "Soudal-QuickStep's four-rider numerical advantage paralyzed their chase response, allowing Ballerini's pulling to shed Groenewegen/Demare without closing gap.",
-      "FRISON bridged solo in massive gear after initial split, suggesting reconnaissance riders can exploit hesitant chase dynamics."
+      "PHILIPSEN burned matches splitting the bunch on Moeren straight rather than saving legs, distancing EWAN and others intentionally.",
+      "FRISON Frederik bridged to leading quartet pushing monster gear, demonstrating domestiques can finish top-5 in wind-split classics.",
+      "Soudal-QuickStep with BALLERINI protecting JAKOBSEN inadvertently dropped their own sprinters GROENEWEGEN and DÉMARE through hard chasing pace.",
+      "KOOIJ Olav made final selection despite Jumbo-Visma having no wind-splitting initiative, showing pure engine beats tactical positioning."
     ],
     "rider_signals": {
-      "PHILIPSEN Jasper": "positive: did own echelon work despite being protected sprinter, revealing diesel engine capacity rare among pure fastmen",
-      "KOOIJ Olav": "positive: survived Philipsen-driven echelon and nearly outsprinted him, confirming upgrade from stage race opportunist to Classics contender",
-      "GROENEWEGEN Dylan": "negative: dropped when Ballerini increased pace after bridge, suggesting crosswind positioning deficiency not just bad luck",
-      "DEMARE Arnaud": "negative: shed simultaneously with Groenewegen under same tempo increase, confirming declining ability to handle attritional racing",
-      "ACKERMANN Pascal": "negative: did chase work then abandoned before finale, tactical error suggesting poor form judgment",
-      "FRISON Frederik": "positive: executed high-risk solo bridge that weaker classics riders wouldn't attempt, podium potential in windy one-dayers"
+      "PHILIPSEN Jasper": "positive: willing to work early on Moeren to create selection rather than sit, suggests confidence in form over fresh legs",
+      "EWAN Caleb": "negative: distanced when Alpecin accelerated on Moeren straight before final laps, indicating vulnerability to sustained high-tempo headwind riding",
+      "BENNETT Sam": "negative: climbed off early during Moeren accelerations, major form concern for flat windy races",
+      "FRISON Frederik": "positive: bridged to four-man selection with major gear effort, rare domestique engine in wind",
+      "ACKERMANN Pascal": "negative: did significant work in leading 17-rider group but dropped before finale, suggests poor form management",
+      "LAMPAERT Yves": "positive: podium from leading group that Soudal-QuickStep established, validates aggressive early positioning in wind",
+      "KOOIJ Olav": "positive: second place and made final four selection without team support, pure engine overcame tactical isolation",
+      "GROENEWEGEN Dylan": "negative: dropped by teammate BALLERINI's chasing pace, suggests not in top form despite team numbers",
+      "DÉMARE Arnaud": "negative: dropped by Soudal-QuickStep's defensive pace work, vulnerable to sustained medium-high watts in wind",
+      "MOZZATO Luca": "negative: crashed nasty with one lap to go, chased back but never regained front position",
+      "WELTEN Bram": "negative: punctured and lost contact with leading group in critical wind selection phase",
+      "JAKOBSEN Fabio": "neutral: protected by BALLERINI in 17-rider group but never positioned for finale after wind split"
     },
     "usable_for_rag": true
   },
-  "extracted_at": "2026-06-17T21:59:37.977199+00:00"
+  "extracted_at": "2026-06-28T23:58:18.965710+00:00"
 }

@@ -1,0 +1,25 @@
+{
+  "label": "2021 Vuelta a Espana Stage 13",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2021-01-01",
+  "stage": 13,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SENESCHAL Florian won after teammate Jakobsen abandoned with mechanical/issue, Deceuninck lead-out so fast it dropped their own sprinter.",
+    "winner": "SENESCHAL Florian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Deceuninck's lead-out speed (over 40mph entering final corner) was so extreme it dropped their designated sprinter Jakobsen.",
+      "Time gaps opened on flat sprint finish: 6 seconds to Bernal group, 11-13 seconds to red jersey despite no climb.",
+      "Deceuninck continued full lead-out after recognizing Jakobsen's mechanical rather than soft-pedaling, showing tactical discipline even without main asset."
+    ],
+    "rider_signals": {
+      "JAKOBSEN Fabio": "negative: mechanical or issue forced abandon in final 2km despite being in green jersey and perfectly positioned",
+      "SENESCHAL Florian": "positive: domestique capitalized on unexpected opportunity, showing sprinters don't just work they finish when needed",
+      "TRENTIN Matteo": "neutral: on third wheel in optimal position with 1km to go but couldn't convert against domestique",
+      "DEMARE Arnaud": "negative: dropped by Deceuninck's tempo before final kilometer on flat sprint stage reveals lack of positioning discipline"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:00:14.614050+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "label": "2020 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-27",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "WOODS Michael won from a late breakaway group by counterattacking with ~10km remaining after gambling on catching the earlier escape.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF used COURT Magnus as decoy in early break while WOODS counterattacked from chasing group, splitting opponents' marking responsibilities.",
+      "INEOS committed AMADOR to extended chase work protecting CARAPAZ red jersey, revealing defensive resource allocation for GC stages.",
+      "KOM points contested aggressively 12+ miles from finish despite breakaway context, showing jersey competition overriding stage win tactics."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: attacked from chase group with Valverde/Freila to bridge gap, then won sprint despite sub-4 miler track background suggesting pure power",
+      "AMADOR Andre": "positive: deployed for extended chase work by INEOS protecting CARAPAZ, indicating elite domestique form and team GC protection strategy",
+      "COURT Magnus": "positive: willing to sacrifice own stage chance by staying in early break as decoy for teammate WOODS, demonstrating tactical selflessness",
+      "WELLENS Tim": "negative: burned matches trying to defend KOM jersey at intermediate climb, finished out of winning position despite early break presence",
+      "VALVERDE Alejandro": "positive: moved from 3min GC deficit into breakaway and 9th overall, showing opportunistic placement despite being 40 years old"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:32:17.227681+00:00"
+}

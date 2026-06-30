@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Long-range solo attacks from reduced breakaways, launching with approximately 20-25km remaining to build significant time gaps before chasers can organize.",
+  "team_tactics": "Limited team support evident - relies on breakaway positioning rather than domestique-led setups, suggesting CCC's resource constraints or strategic choices.",
+  "terrain_preference": "Stages suited to breakaways where reduced groups form; capable of sustaining solo efforts over 20+ km distances.",
+  "vulnerability": "Late-career breakthrough (first GT win at 27) suggests previous limitations from equipment/team support rather than physical capacity; may struggle when requiring full team backing.",
+  "key_patterns": [
+    "Executes long-distance solo attacks from breakaways, 20+ km efforts (1 observation, specific tactic)",
+    "Operates effectively without heavy team support in reduced group scenarios (1 observation)",
+    "Breakthrough performance timing suggests previously untapped potential or situational constraints (1 observation)"
+  ],
+  "form_trajectory": "unknown: Single GT stage win shows capability but insufficient data to determine trend; late-career breakthrough complicates assessment",
+  "races_analysed": 1,
+  "confidence": "low",
+  "rider_name": "CHERNY Josef",
+  "built_from": [
+    "2020 Giro d'Italia Stage 19",
+    "2020 Giro d'Italia Stage 19"
+  ]
+}

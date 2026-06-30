@@ -1,0 +1,22 @@
+{
+  "attacking_style": "Pursues long-range breakaways (500km+ cumulative distance) rather than explosive late attacks. Targets stages where breakaway can survive, defending inside final 3km when necessary.",
+  "team_tactics": "Operates with autonomy in breakaways; no evidence of dedicated team setup or domestique support. Appears to be given freedom for opportunistic moves.",
+  "terrain_preference": "Stages where breakaways have mathematical survival chances. Excels in scenarios requiring multi-day recovery and repeated long-distance efforts rather than explosive climbing.",
+  "vulnerability": "Lacks finishing power in reduced sprints; relies on breakaway survival rather than ability to drop companions or win contested finishes. Vulnerable when peloton commits to chase.",
+  "key_patterns": [
+    "Exceptional multi-day breakaway capacity: 500-700km+ cumulative distance across single Grand Tour (2 observations)",
+    "Targets secondary classifications systematically, hunting intermediate sprint points from breakaways (2 observations)",
+    "Opportunistic rather than stage-focused: prioritizes classification points over stage wins (2 observations)",
+    "Requires breakaway survival for success; won by meters when peloton nearly caught group (1 win)"
+  ],
+  "form_trajectory": "positive: demonstrated exceptional recovery capacity and strategic discipline throughout 2019 Giro with sustained breakaway success",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "CIMA Damiano",
+  "built_from": [
+    "2019 Giro d'Italia Stage 11",
+    "2019 Giro d'Italia Stage 11",
+    "2019 Giro d'Italia Stage 18",
+    "2019 Giro d'Italia Stage 18"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 3",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-06",
+  "stage": 3,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "VIVIANI Elia won the bunch sprint after BARBIN Enrico preserved KOM jersey by contesting mid-race mountains points from the breakaway.",
+    "winner": "VIVIANI Elia",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BARBIN Enrico immediately joined break to defend KOM jersey rather than conserve energy, revealing category jersey tactics override stage ambitions.",
+      "BOIVIN Guillaume targeted both intermediate sprint and KOM from break, showing Israeli Academy prioritizes visibility over realistic GC threats.",
+      "VIVIANI pushed rival MODOLO to barriers in intermediate sprint, establishing psychological dominance before final sprint confrontation.",
+      "Bahrain-Merida paced peloton at significantly above approach pace through middle section, fragmenting sprint trains before final positioning phase."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "positive: Won back-to-back stages and demonstrated tactical aggression by forcing MODOLO wide in intermediate sprint before controlling finale.",
+      "BARBIN Enrico": "neutral: Successfully defended KOM jersey from breakaway but revealed willingness to expend significant energy for minor classification prize.",
+      "BENNETT Sam": "neutral: Finished third in sprint despite positioning support, confirming speed deficit to VIVIANI in straight finishing scenarios.",
+      "MODOLO Sacha": "negative: Challenged VIVIANI in intermediate sprint but intimidated to barriers, then launched final sprint too early and faded.",
+      "FRAPPORTI Marco": "neutral: Won KOM from breakaway but two-day effort yielded only one classification point, exposing weak break selection calculus."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:26:06.900319+00:00"
+}

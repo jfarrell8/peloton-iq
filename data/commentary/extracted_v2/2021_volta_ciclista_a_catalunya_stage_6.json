@@ -1,0 +1,27 @@
+{
+  "label": "2021 Volta Ciclista a Catalunya Stage 6",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2021-03-27",
+  "stage": 6,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "SAGAN Peter won a reduced sprint after surviving final climb 14km out, navigating chaos when lead-outs collapsed before final roundabout.",
+    "winner": "SAGAN Peter",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Bora paced entire day despite having best sprinter, revealing confidence in Sagan's no-leadout positioning strategy over energy conservation.",
+      "INEOS used Kelderman and Camna to chase Cavagna despite no GC stakes, protecting against sprint crashes not GC threats.",
+      "Quick-Step overcommitted leadout riders early then abandoned Cavagna in last kilometer, exposing coordination breakdown in dual-objective races.",
+      "Sagan deliberately ignored Meeus's 300m explosion, waiting for top-five wheel positioning rather than following teammate's doomed acceleration."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: First bunch sprint win in two years despite disrupted COVID prep shows form peaks faster than traditional Grand Tour build",
+      "MOLANO Sebastian": "negative: Had speed to beat Sagan but chose Soto's sixth-position wheel over following Sagan fourth-wheel, exposing positioning inexperience",
+      "CAVAGNA Remy": "negative: 7-second maximum gap despite good form shows sprinter teams now instantly shut down any breakaway specialist regardless of climb difficulty",
+      "KELDERMAN Wilco": "positive: Pacing for Sagan sprint despite GC podium position reveals Bora prioritized stage wins over defending third place",
+      "KNOX James": "neutral: INEOS allowed attack over final climb crest then immediately chased, suggesting they tested sprinter team responses not seeking result"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:59:06.148154+00:00"
+}

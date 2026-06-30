@@ -1,0 +1,34 @@
+{
+  "attacking_style": "Opportunistic rather than aggressive — capitalizes on deadlocked GC groups or stage-hunting scenarios rather than initiating attacks. Most effective when racing for stages without GC pressure, avoiding direct confrontation with pure climbers.",
+  "team_tactics": "Often given co-leadership or split focus (BMC with Porte example), diluting dedicated domestique support. Better deployed as TT specialist in non-GC squads where he can target selective stages without sustained climbing defense obligations.",
+  "terrain_preference": "Time trials and moderately difficult stages where TT power compensates for climbing limitations. Exposed on sustained summit finishes and early-stage climbs where pure climbers can apply pressure. Vulnerable in technical/nervous peloton positioning.",
+  "vulnerability": "Significant form volatility across season — multiple abandonments and early-climb drops despite previous strong results at same races. Poor close-quarters positioning leads to crashes/contact with roadside objects. Cracks under sustained GC pressure on climbs.",
+  "key_patterns": [
+    "Form decline trajectory evident: dropped early on climbs at races where previously finished 2nd (Dauphine)",
+    "Crashes/mechanicals in technical sections: face injuries from road signs twice, punctures, finale crashes",
+    "Performs better without GC pressure: strong when stage-hunting versus defending GC positions",
+    "Early-stage vulnerabilities: abandoned/dropped within 100km multiple times despite pre-race leadership status",
+    "Team leadership ambiguity: BMC split focus between multiple riders rather than committing hierarchy"
+  ],
+  "form_trajectory": "negative: Clear decline from 2017-2019. Strong 2019 Dauphine followed by crashes and 2020 Dauphine showed decisive early-climb weakness. Abandonments and drops increased in frequency through career span analyzed.",
+  "races_analysed": 14,
+  "confidence": "high",
+  "rider_name": "VAN GARDEREN Tejay",
+  "built_from": [
+    "2017 Giro d'Italia Stage 11",
+    "2017 Giro d'Italia Stage 18",
+    "2017 Giro d'Italia Stage 18",
+    "2017 Tirreno-Adriatico Stage 6",
+    "2017 Volta Ciclista a Catalunya Stage 2",
+    "2017 Volta Ciclista a Catalunya Stage 3",
+    "2017 Volta Ciclista a Catalunya Stage 5",
+    "2017 Vuelta a Espana Stage 6",
+    "2018 Paris-Nice Stage 1",
+    "2019 Criterium du Dauphine Stage 4",
+    "2019 Tour de France Stage 7",
+    "2019 UAE Tour Stage 7",
+    "2019 Vuelta a Espana Stage 1",
+    "2020 Criterium du Dauphine Stage 1",
+    "2020 Tour de France Stage 13"
+  ]
+}

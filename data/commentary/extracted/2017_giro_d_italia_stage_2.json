@@ -1,0 +1,27 @@
+{
+  "label": "2017 Giro d'Italia Stage 2",
+  "race_name": "Giro d'Italia",
+  "race_date": "2017-05-06",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GREIPEL won sprint after EWAN unclipped mid-sprint; PÖSTLBERGER attacked early for KOM points while in pink to defend GC.",
+    "winner": "GREIPEL André",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "PÖSTLBERGER in pink jersey attacked KOM sprint himself rather than delegating, suggesting teams defend minimal GC gaps personally.",
+      "ZAKARIN required full team chase after distancing on descent, confirming poor descending forces Katusha into defensive resource drain.",
+      "Quick-Step isolated GAVIRIA by forcing him to mark JUNGELS personally, preventing clean leadout despite sprint train presence.",
+      "EWAN launching sprint too early allowed mechanical incident to cost stage; positioning discipline beats raw power in 200km+ stages."
+    ],
+    "rider_signals": {
+      "PÖSTLBERGER Lukas": "positive: attacked KOM sprint while wearing pink to defend 4-second GC gap, showing exceptional condition after long stage",
+      "ZAKARIN Ilnur": "negative: required full team stop-and-wait on descent after distancing himself, confirming chronic descending weakness exploitable in mountains",
+      "GAVIRIA Fernando": "neutral: isolated by JUNGELS presence but stayed positioned, suggesting Quick-Step tactics can neutralize superior sprint trains",
+      "EWAN Caleb": "negative: unclipped during sprint launch after 200km+ stage, indicating possible fatigue-induced technical errors on long stages",
+      "GREIPEL André": "positive: capitalized on EWAN mechanical with 200km in legs, suggesting superior endurance-sprint combination than younger rivals"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:00:03.085940+00:00"
+}

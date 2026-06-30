@@ -1,30 +1,28 @@
 {
-  "attacking_style": "Attacks from breakaways on final steep climbs, often coordinated with teammates. Prefers single decisive effort rather than sustained multi-climb battles, typically launching on the ultimate ascent.",
-  "team_tactics": "Relies heavily on teammate setup — O'Connor and Dewulf placed him perfectly for stage wins. When isolated (Movistar days), struggled to sustain attacks against organized chase groups.",
-  "terrain_preference": "Single steep summit finishes at altitude where pure climbing power dominates. Exposed badly on time trials and multi-climb stages requiring sustained efforts across varied terrain.",
-  "vulnerability": "Time trials destroy his GC ambitions (lost 46sec in 8-minute gap at Tour de Suisse). Cannot follow elite climbers across multiple efforts or when pace is relentless rather than explosive.",
+  "attacking_style": "Launches final climb attacks from reduced groups, typically after domestique leadout. Excels in breakaways on mountain stages, converting positioning into stage wins rather than sustained GC efforts.",
+  "team_tactics": "AG2R sacrifices breakaway teammates to set up his attacks — SCHÄR led him out at Tour de Suisse, O'Connor sacrificed break position at Tour de France to launch him perfectly on stage 17.",
+  "terrain_preference": "Mountain stage finishes from breakaways or reduced groups. Struggles badly on descents and time trials — caught by rider starting 2min behind in TT, dropped by SKJELMOSE group on descent despite holding yellow.",
+  "vulnerability": "Pure climber limitations exposed in TTs and technical descents. Cannot defend when isolated or respond to accelerations without team support, as shown losing Tour de Suisse yellow when caught alone.",
   "key_patterns": [
-    "Breakaway specialist who wins from reduced groups on final climb, not GC contention (3 observations)",
-    "Teammate coordination essential: DEWULF and O'CONNOR setups led to wins; isolation led to failures (4 observations)",
-    "Time trial liability severe enough to collapse GC prospects within single stage (2 observations)",
-    "Form peaks strategically: Tour de Suisse GC run directly preceded Tour stage win (2 observations)",
-    "Single-climb power elite, but multi-climb days expose inability to match top GC riders (3 observations)"
+    "AG2R sacrifices domestiques in breaks/climbs to launch his attacks (3 observations)",
+    "Converts runner-up finishes and near-misses into wins with improved execution (2 observations)",
+    "Struggles when isolated from team support, vulnerable on descents (2 observations)",
+    "Thrives in breakaways on hardest mountain stages rather than GC battles (2 observations)",
+    "Time trial weakness confirms pure climber profile, loses minutes to GC riders (2 observations)"
   ],
-  "form_trajectory": "positive: Won Tour de Suisse stage, took yellow, then won Tour de France stage weeks later showing sustained peak timing",
-  "races_analysed": 7,
+  "form_trajectory": "positive: Won Tour de France stage 17 after earlier success at Tour de Suisse, showing progression from near-misses to converting opportunities despite GC limitations exposed mid-Suisse",
+  "races_analysed": 5,
   "confidence": "high",
   "rider_name": "GALL Felix",
   "built_from": [
-    "2023 Paris-Nice Stage 4",
     "2023 Tour de France Stage 17",
     "2023 Tour de France Stage 17",
-    "2023 Tour de France Stage 20",
     "2023 Tour de Suisse Stage 3",
-    "2023 Tour de Suisse Stage 3",
+    "2023 Tour de Suisse Stage 4",
     "2023 Tour de Suisse Stage 4",
     "2023 Tour de Suisse Stage 4",
     "2023 Tour de Suisse Stage 5",
-    "2023 Tour de Suisse Stage 8",
+    "2023 Tour de Suisse Stage 5",
     "2023 Tour de Suisse Stage 8"
   ]
 }

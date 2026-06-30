@@ -1,0 +1,27 @@
+{
+  "label": "2019 Paris-Nice Stage 4",
+  "race_name": "Paris-Nice",
+  "race_date": "2019-03-13",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CORT NIELSEN Magnus attacked solo inside final kilometer from 4-rider breakaway to win, KWIATKOWSKI takes yellow after GC favorites failed to respond on climbs.",
+    "winner": "CORT NIELSEN Magnus",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Mitchelton-Scott isolated by refusing cooperation in peloton chase, allowing breakaway to succeed despite Trentin in group.",
+      "AG2R Mondiale only committed to chase after final climb started, tactical hesitation gifting breakaway decisive minute margin.",
+      "Cort Nielsen sprung surprise attack inside 1km despite being only natural sprinter, catching stronger climbers unprepared.",
+      "Leukemans at 6min deficit highest-placed GC rider in break, yet no major teams disrupted peloton allowing easy time gain."
+    ],
+    "rider_signals": {
+      "TRENTIN Matteo": "positive: Mitchelton protected him over multiple climbs despite sprint background, reveals GC rather than stage ambitions",
+      "SOLER Marc": "negative: Defending champion dropped on penultimate climb alongside Lopez, serious form deficit apparent",
+      "LOPEZ Miguel Angel": "negative: Third overall and U25 leader from 2018 Giro dropped before final climb, major regression signal",
+      "CRANNE Lawson": "neutral: Attacked with broken shoulder history from 2018 Tour, but initiative failed to bridge gap",
+      "KWIATKOWSKI Michal": "positive: Polish champion takes yellow without attacking, Sky positioning him as unexpected GC option before ITT"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:53:33.401638+00:00"
+}

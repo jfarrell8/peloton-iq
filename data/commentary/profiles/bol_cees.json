@@ -1,0 +1,26 @@
+{
+  "attacking_style": "Pure sprinter who launches from 150-200m after being delivered through final corners. Relies on late positioning advantage rather than raw sustained speed, timing the sprint from the straightaway after technical corners.",
+  "team_tactics": "DSM/Sunweb deploys specialized corner-entry leadouts, with key domestiques (Benoot noted) holding position through final turns at 200m before release. Team struggles when illness or attrition disrupts primary sprint plan, showing limited backup options.",
+  "terrain_preference": "Technical sprint finishes with right-hand corners inside 300m that allow late positioning gains. Exposed on pure power sprints after reduced bunch scenarios or when leadout train is disrupted mid-finale.",
+  "vulnerability": "Cannot contest effectively from reduced bunches after hard stages (213km Paris-Nice). Hesitates when sprint favorites are eliminated mid-effort. Illness and form inconsistency disrupt preparation. Loses to superior raw finishing speed even from optimal position.",
+  "key_patterns": [
+    "Corner-entry leadout specialization: team holds through final turn, releases at 150-200m (2 observations)",
+    "Wins require perfect positioning; unable to salvage results from compromised leadouts (3+ observations)",
+    "Long gaps between wins suggest inconsistent form or limited opportunism (February 2020 to March 2021)",
+    "Team lacks depth: illness or Plan A failure leaves no alternative sprint setup (2 observations)",
+    "Third-wheel position inside 1km is optimal setup, but still loses to faster finishers"
+  ],
+  "form_trajectory": "negative: No wins recorded after March 2021 victory. Showed inability to contest sprints by 2022 Paris-Nice/Giro, suggesting declining competitiveness or persistent form/health issues.",
+  "races_analysed": 5,
+  "confidence": "medium",
+  "rider_name": "BOL Cees",
+  "built_from": [
+    "2020 Paris - Nice Stage 3",
+    "2020 Tour de France Stage 5",
+    "2021 Paris-Nice Stage 2",
+    "2021 Paris-Nice Stage 2",
+    "2021 Paris-Nice Stage 2",
+    "2022 Giro d'Italia Stage 11",
+    "2022 Paris-Nice Stage 6"
+  ]
+}

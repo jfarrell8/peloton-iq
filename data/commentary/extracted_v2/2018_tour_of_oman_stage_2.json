@@ -1,0 +1,24 @@
+{
+  "label": "2018 Tour of Oman Stage 2",
+  "race_name": "Tour of Oman",
+  "race_date": "2018-02-14",
+  "stage": 2,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "HAAS Nathan timed his sprint perfectly on right-hand side after 14-rider selection over Al Jeel climb with 5km to go, beating VAN AVERMAET who led out too early",
+    "winner": "HAAS Nathan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BMC burned matches controlling all day then VAN AVERMAET opened sprint too early, gifting positioning advantage to wheels",
+      "Al Jeel climb at 5km created decisive 14-rider split; late climbs eliminate pure sprinters even on rolling stages",
+      "HAAS specifically studied right-hand-side sprint positioning advantage rather than following BMC leadout train"
+    ],
+    "rider_signals": {
+      "HAAS Nathan": "positive: demonstrated tactical homework studying road furniture while others relied on fitness, positioned away from favorites",
+      "VAN AVERMAET Greg": "negative: BMC team control work appeared strong but Olympic champion mistimed sprint initiation after teammates exhausted",
+      "IRISARRI RINCON Marco": "neutral: Trek veteran showed persistency in breakaway but solo continuation effort predictably failed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:37:49.775409+00:00"
+}

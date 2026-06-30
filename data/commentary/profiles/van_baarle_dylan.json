@@ -1,0 +1,35 @@
+{
+  "attacking_style": "Rarely initiates; exploits tactical stalemates with perfectly timed bridges in final 3-5km. Won Paris-Roubaix reading late chaos, placed 2nd at Flanders bridging to stalled Pogačar/Van der Poel group.",
+  "team_tactics": "Elite super-domestique executing organized chases on key climbs (Paterberg lead-outs) and flat tempo control. INEOS weaponized him via crosswind exploitation before his Paris-Roubaix win. Quick-Step used multi-rider break saturation.",
+  "terrain_preference": "Cobbled classics with late positioning battles suit best. Strong time trialist (Dutch TT champion, early Vuelta TT leader). Can handle steep punchy gradients (pulled Roglič to flamme rouge on climbs).",
+  "vulnerability": "Pure sprint finishes against top-tier fastmen expose form ceiling (relegated to chase group at E3 2022). Cannot produce explosive attacks when teams organize; relies on others' tactical errors.",
+  "key_patterns": [
+    "Transformed from domestique to winner within INEOS system (2021 Roubaix time-cut to 2022 victory).",
+    "Executes organized classic chases on hellingen, reabsorbing breaks via tempo (Paterberg, multiple observations).",
+    "Triple-team loading in breakaways when riding for Quick-Step (Tour/Vuelta flat control, break saturation).",
+    "National TT form translates to early provisional leads but fades against GT specialists.",
+    "Opportunistic podium challenges in stage races when team GC priorities allow (BinckBank, Dauphiné win).",
+    "Very early sprint timing from reduced groups, holding off chasers (Dauphiné uphill finish win)."
+  ],
+  "form_trajectory": "neutral: 2023 showed team domestique reversion (Vuelta flat work), stepping back from 2022 monument breakthrough. No podium signals since spring 2022.",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "VAN BAARLE Dylan",
+  "built_from": [
+    "2018 BinckBank Tour Stage 7",
+    "2018 Paris-Nice Stage 4",
+    "2018 Vuelta a Espana Stage 1",
+    "2019 Criterium du Dauphine Stage 8",
+    "2019 Criterium du Dauphine Stage 8",
+    "2020 Ronde van Vlaanderen",
+    "2020 Tour de France Stage 19",
+    "2021 La Vuelta ciclista a Espana Stage 11",
+    "2021 Ronde van Vlaanderen - Tour des Flandres",
+    "2022 E3 Saxo Bank Classic",
+    "2022 Paris-Roubaix",
+    "2022 Paris-Roubaix",
+    "2022 Ronde van Vlaanderen - Tour des Flandres",
+    "2022 Tour de France Stage 1",
+    "2023 Vuelta a Espana Stage 11"
+  ]
+}

@@ -19,13 +19,6 @@
         "match_score": 78.75
       },
       {
-        "video_id": "o9dxMK7rRZU",
-        "title": "UAE Tour 2021 highlights: Electric sprint on Stage 4",
-        "channel": "Velon",
-        "published": "2021-02-24 15:50:57+00:00",
-        "match_score": 75.0
-      },
-      {
         "video_id": "K4CKCZFbx9E",
         "title": "UAE Tour 2021 - Stage 4 Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
@@ -40,6 +33,13 @@
         "match_score": 75.0
       },
       {
+        "video_id": "o9dxMK7rRZU",
+        "title": "UAE Tour 2021 highlights: Electric sprint on Stage 4",
+        "channel": "Velon",
+        "published": "2021-02-24 15:50:57+00:00",
+        "match_score": 75.0
+      },
+      {
         "video_id": "Pwoyb4dG1bM",
         "title": "Tour de Luxembourg 2021 - Stage 4 | Highlights | Cycling | Eurosport",
         "channel": "TNT Sports",
@@ -47,17 +47,17 @@
         "match_score": 74.58
       },
       {
-        "video_id": "nSqwBf4nIdA",
-        "title": "Tour de France 2021: Stage 4 Race Highlights",
-        "channel": "Velon",
-        "published": "2021-06-29 19:01:15+00:00",
+        "video_id": "pkabx-B_HAQ",
+        "title": "Tour de Romandie 2021 | Stage 4 Highlights | inCycle",
+        "channel": "inCycle",
+        "published": "2021-05-02 13:43:01+00:00",
         "match_score": 72.5
       },
       {
-        "video_id": "wgd_tdlqBTg",
-        "title": "Tour de France 2021: Stage 4 On-Bike Highlights",
+        "video_id": "MrmETeUz3OM",
+        "title": "Tour of Norway 2021: Stage 4 On-Bike Highlights",
         "channel": "Velon",
-        "published": "2021-06-29 18:26:12+00:00",
+        "published": "2021-08-22 17:15:09+00:00",
         "match_score": 72.5
       },
       {
@@ -68,21 +68,29 @@
         "match_score": 72.5
       },
       {
+        "video_id": "1A5RmJJfaDg",
+        "title": "Presidential Cycling Tour of Turkey 2021 - Stage 4 Highlights | Cycling | Eurosport",
+        "channel": "TNT Sports",
+        "published": "2021-04-14 15:30:45+00:00",
+        "match_score": 72.5
+      },
+      {
         "video_id": "Gc8pk7PAj-w",
         "title": "Tour de Suisse 2021: Stage 4 On-bike Highlights",
         "channel": "Velon",
         "published": "2021-06-09 18:10:30+00:00",
         "match_score": 72.5
-      },
-      {
-        "video_id": "MrmETeUz3OM",
-        "title": "Tour of Norway 2021: Stage 4 On-Bike Highlights",
-        "channel": "Velon",
-        "published": "2021-08-22 17:15:09+00:00",
-        "match_score": 72.5
       }
     ]
   },
-  "transcript": null,
-  "status": "video_found"
+  "transcript": {
+    "snippet_count": 78,
+    "raw_chars": 2915,
+    "clean_chars": 2915,
+    "duration_mins": 3.3,
+    "clean_text": "Welcome to the Belgian Ardennes for the fourth stage of the Baloise Belgian Tour with start and finish in Hamoir. 152 km today with some nasty climbs as we know them from the Ardennes, especially on the local circuit with the Côte de Dienne, Côte le Kimon and also the climb near Houmar, just a few kilometers from the finish line. Lots of altitude meters, not a very warm day, so ideal circumstances to go out for a bike ride. We have a breakaway of six riders with Irishman Ryan Mullen, two Dutch riders Taco van der Hoorn and Luke Durbridge, the Belgian rider Jonas Rickaert, Italian Samuele Battistella and from Panama Roberto González. 21 km to go. The golden kilometer, the bonus seconds there, but the best placed rider in the breakaway was Jonas Rickaert. 5 minutes and 4 seconds down on Remco Evenepoel. 8 km to go, last man standing from the original breakaway, Rickaert and van der Hoorn, and dropping from the peloton is Tim Merlier, but still in that first group we have some fast sprinters with Yves Lampaert, Ballerini and Evenepoel at the front of the bunch. Also Danny van Poppel, Dries van Gestel and Bryan Coquard is there as well. And then missing from that first group at the moment are the sprint train of Lotto Soudal, but Caleb Ewan is being brought back expertly by the Australian Harry Sweeney and Tosh van der Zande, meaning that the entire sprint lead out is still here. With Tosh van der Zande and Jasper De Buyst still with Caleb Ewan. Also in this group is European champion Giacomo Nizzolo and Danny van Poppel, Bryan Coquard and also Davide Ballerini. After all the work that he did, he is going for that sprint, but going into the final turn with a fantastic lead out by Jasper De Buyst is Caleb Ewan on his way to a second win in 2 days. Look at the pure speed there of the Australian. Nobody can match him. He wins stage four of the Baloise Belgium Tour after fantastic teamwork by the entire Lotto-Soudal team yet again. All of them worked on this win. Congratulations here by Jasper De Buyst and Florian Sénéchal and look at the pure speed of Caleb Ewan. Winning by a few bike lengths. He is ready for the Tour de France starting 2 weeks from today. The results of the fourth stage where the Caleb Ewan, Coquard, and Ballerini on the podium. Also Nizzolo, De Buyst, Schelling, Flieger, Fiorelli, Livins, and Cyril Bart today in the top 10. Remco Evenepoel still leads the overall classification with one more rather flat stage to go with 45 seconds on his teammate Yves Lampaert and 53 on Gianni Moscon. And the top 10 after today's stage in the Belgian Ardennes is exactly the same as it was after yesterday. The course, as Remco Evenepoel said, was just not difficult enough to make a difference in the GC. So, what's left in the Baloise Belgium Tour is one more chance for the sprinters and the opportunity for Caleb Ewan to go for the hat-trick in the Baloise Belgium Tour.",
+    "preview_start": "Welcome to the Belgian Ardennes for the fourth stage of the Baloise Belgian Tour with start and finish in Hamoir. 152 km today with some nasty climbs as we know them from the Ardennes, especially on the local circuit with the Côte de Dienne, Côte le Kimon and also the climb near Houmar, just a few kilometers from the finish line. Lots of altitude meters, not a very warm day, so ideal circumstances to go out for a bike ride. We have a breakaway of six riders with Irishman Ryan Mullen, two Dutch r",
+    "preview_end": "ll classification with one more rather flat stage to go with 45 seconds on his teammate Yves Lampaert and 53 on Gianni Moscon. And the top 10 after today's stage in the Belgian Ardennes is exactly the same as it was after yesterday. The course, as Remco Evenepoel said, was just not difficult enough to make a difference in the GC. So, what's left in the Baloise Belgium Tour is one more chance for the sprinters and the opportunity for Caleb Ewan to go for the hat-trick in the Baloise Belgium Tour."
+  },
+  "status": "transcript_saved"
 }

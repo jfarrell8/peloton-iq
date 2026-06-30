@@ -1,0 +1,26 @@
+{
+  "label": "2022 Giro d'Italia Stage 10",
+  "race_name": "Giro d'Italia",
+  "race_date": "2022-05-17",
+  "stage": 10,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "GIRMAY Biniam became the first Eritrean Grand Tour stage winner by outsprinting VONDERPOOL in Jesi after final-kilometer GC probing attacks neutralized",
+    "winner": "GIRMAY Biniam",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "POZZOVIVO led out GIRMAY from deep, suggesting Intermarché committed domestique firepower specifically for reduced-bunch sprint finishes.",
+      "CARAPAZ and CARTHY attacked inside 1km despite no GC time gaps available, revealing nerves about positioning loss.",
+      "Pure sprinters YUEN and CAVENDISH dropped 76km and 60km out respectively on minor gradient before classified climb began."
+    ],
+    "rider_signals": {
+      "GIRMAY Biniam": "positive: Won from reduced bunch after nearly taking wrong turn 6km out, showing composure recovery under pressure",
+      "VONDERPOOL Mathieu": "neutral: Attacked final 6km but refused cooperation from YATES/FORMOLO/CICCONE, suggesting unfamiliarity with breakaway negotiation tactics",
+      "YUEN Caleb": "negative: First sprinter dropped 76km from finish before main classified climb, exposing weakness on extended false-flat approaches",
+      "CAVENDISH Mark": "negative: Mechanical at 60km required chase despite easier gradient than subsequent climbs, fitness/positioning vulnerability signal",
+      "POZZOVIVO Domenico": "positive: Deployed as leadout man instead of GC support, indicating Intermarché tactical flexibility for opportunistic stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:07:01.996200+00:00"
+}

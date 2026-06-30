@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Designated finisher for intermediate sprints and bonus opportunities rather than a pure stage winner. Positioned for controlled efforts in organized scenarios.",
+  "team_tactics": "Gazprom deploys minimal resources strategically, using Kochetkov as primary option for bonus seconds and intermediate sprints even with skeleton squads. Shares bonus hunting duties with teammates like Strakhov.",
+  "terrain_preference": "Flatter stages and intermediate sprint points where positioning and timing matter more than pure power. Less effective in high-intensity finishes against younger, explosive riders.",
+  "vulnerability": "Vulnerable to younger, faster finishers in the final meters despite good positioning. Struggles when the pace becomes explosive after controlled approaches.",
+  "key_patterns": [
+    "Designated as team's primary finisher for bonus opportunities in stage races (2 observations)",
+    "Works within small team structures, often 4-rider squads, requiring tactical efficiency (2 observations)",
+    "Beaten by younger riders in direct sprint confrontations despite proper positioning (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistently used in tactical bonus-hunting role but showing limitations against younger competition in final execution",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "KOCHETKOV Pavel",
+  "built_from": [
+    "2022 UAE Tour Stage 1",
+    "2022 UAE Tour Stage 6"
+  ]
+}

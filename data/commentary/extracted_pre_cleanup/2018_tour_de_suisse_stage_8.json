@@ -1,0 +1,32 @@
+{
+  "label": "2018 Tour de Suisse Stage 8",
+  "race_name": "Tour de Suisse",
+  "race_date": "2018-06-16",
+  "stage": 8,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DÉMARE Arnaud won the final sprint stage after FDJ held the front from 4km out, surviving KRISTOFF/SAGAN disrupting GAVIRIA's leadout.",
+    "winner": "DÉMARE Arnaud",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "FDJ controlled from 4km unusually early, no team countered, allowing DÉMARE to freeload on Quick-Step's late surge.",
+      "KRISTOFF physically pushed SAGAN off Quick-Step train in final kilometer, eliminating both from contention through infighting.",
+      "DUNBAR most aggressive from break on sprint stage, Aqua Blue Pro Continental strategy targets every breakaway for exposure.",
+      "Sprinter teams collectively leashed break under 90 seconds early, preventing any upset on penultimate flat stage."
+    ],
+    "rider_signals": {
+      "DÉMARE Arnaud": "positive: Capitalized on team control and rival disruption, fastest in drag race with GAVIRIA from 200m",
+      "GAVIRIA Fernando": "neutral: Quick-Step train executed perfectly but DÉMARE matched speed in final straight after slotting behind",
+      "KRISTOFF Alexander": "negative: Desperate pre-Tour tactics, physically disrupting SAGAN showed lack of speed confidence rather than smart positioning",
+      "SAGAN Peter": "negative: Freelancing without train, eliminated by KRISTOFF's interference, lost key positioning battle at 5km",
+      "GREIPEL André": "negative: Tenth place with PORTE twelfth demonstrates severe form deficit heading into Tour de France",
+      "MATTHEWS Michael": "negative: Tenth without leadout reveals Sunweb lacks sprint organization if splitting resources between GC and sprints",
+      "DUNBAR Eddie": "positive: New Aqua Blue signing most tenacious in breakaway survival battle, team executing Pro Continental visibility strategy",
+      "BROWN Nathan": "neutral: Attacked once from doomed sprint-stage break then abandoned effort, efficient TV time strategy",
+      "PORTE Richie": "positive: Twelfth in sprint finish while leading GC signals excellent form before 34km TT",
+      "ŠPILAK Simon": "neutral: 1:28 down but 55s lost in Astana TTT failure, actual form closer to PORTE than GC suggests"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:42:05.208253+00:00"
+}

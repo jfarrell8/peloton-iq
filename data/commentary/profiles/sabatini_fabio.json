@@ -1,0 +1,28 @@
+{
+  "attacking_style": "Not a personal attacker. Functions as penultimate lead-out man, releasing sprinters 200-400m from finish, though timing varies strategically by course geometry and conditions.",
+  "team_tactics": "Executes Quick-Step lead-out train as penultimate rider before final launcher. Controls tempo through finale rather than pure power lead-out, deliberately stringing peloton to optimize sprinter positioning.",
+  "terrain_preference": "Flat sprint finales with technical closing circuits. Adapts lead-out release point based on corner placement - releases before final corner rather than traditional latest-possible handoff to prevent wheel-surfing.",
+  "vulnerability": "Distance judgment on lead-out timing - released sprinter 500m out in Paris-Nice causing premature wind exposure, suggesting pacing miscalculations on unfamiliar courses.",
+  "key_patterns": [
+    "Releases sprinter earlier than traditional lead-out men, prioritizing clean acceleration over maximum speed transfer (4 observations)",
+    "Uses tempo control and peloton-stringing rather than pure power lead-out approach (3 observations)",
+    "Adapts release point based on technical features: drops before corners to prevent counterattacks (2 observations)",
+    "Functions in dual lead-out capacity, demonstrates Quick-Step sprint train depth beyond single configuration (2 observations)",
+    "Initiates winning sequences with early positioning moves, not just final lead-out execution (2 observations)"
+  ],
+  "form_trajectory": "neutral: Consistent lead-out execution across 2017-2018 with tactical sophistication shown in 2018 Pologne early-move initiative, but limited recent data",
+  "races_analysed": 7,
+  "confidence": "high",
+  "rider_name": "SABATINI Fabio",
+  "built_from": [
+    "2017 Paris-Nice Stage 3",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 10",
+    "2017 Tour de France Stage 11",
+    "2017 Tour de France Stage 6",
+    "2017 Tour de France Stage 7",
+    "2017 Tour de France Stage 7",
+    "2018 Giro d'Italia Stage 17",
+    "2018 Tour de Pologne Stage 3"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "label": "2022 Dwars door Vlaanderen",
+  "race_name": "Dwars door Vlaanderen",
+  "race_date": "2022-03-30",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "VAN DER POEL Mathieu won from a late two-up with BENOOT Tiesj after CAMPENAERTS Victor's 62-tooth chainring descent attack regrouped, outsprinting Benoot in final 250m",
+    "winner": "VAN DER POEL Mathieu",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "CAMPENAERTS Victor used 62t chainring on descent after climb 13 to solo, chipped tooth from effort, shows equipment gambles viable",
+      "INEOS riders TURNER Ben and PIDCOCK Thomas bridged early on Oudenaardeberg cobbles, creating platform that held despite subsequent attacks",
+      "BENOOT Tiesj made multiple late accelerations inside 4km forcing VAN DER POEL to chase repeatedly, inverting sprint freshness dynamics",
+      "POGAČAR Tadej closed 10s gap solo after caught out of position but stalled at that deficit, cobble inexperience showed in positioning not power"
+    ],
+    "rider_signals": {
+      "VAN DER POEL Mathieu": "positive: nearly overcooked final corner at 250m from overpowering, suggesting peak form but marginal bike handling sharpness",
+      "CAMPENAERTS Victor": "positive: willing to use extreme gearing (62t) and solo descent from climb 13, tactically aggressive beyond pure classics specialist role",
+      "BENOOT Tiesj": "positive: initiated multiple accelerations inside 4km including one with CAMPENAERTS that gained gap, more aggressive than typical domestique role",
+      "PIDCOCK Thomas": "positive: bridged to leaders early on Oudenaardeberg then survived all regroupings for podium, showing cobbled maturity beyond expectations",
+      "POGAČAR Tadej": "neutral: power closed gap to 10s solo but couldn't bridge final seconds, positioning errors costly despite physical capability on cobbles debut",
+      "KÜNG Stefan": "neutral: attacked on climb 13 but couldn't sustain, suggests time trial power insufficient without positioning advantage on cobbles",
+      "NAESEN Oliver": "negative: crashed hard mid-race from touch of wheels, vulnerability in bunch positioning during nervous phase",
+      "TURNER Ben": "positive: co-initiated decisive INEOS move on Oudenaardeberg with PIDCOCK, unusual aggression for domestique suggests protected status",
+      "VAN MUER Brent": "neutral: bridged early with 90km remaining but faded from decisive selection, early effort timing misjudged",
+      "VAN AVERMAET Greg": "negative: attempted bridge on Kanarieberg but failed while POGAČAR nearly succeeded, age showing in acceleration capacity"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T23:24:09.878460+00:00"
+}

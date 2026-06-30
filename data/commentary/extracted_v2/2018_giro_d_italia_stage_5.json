@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 5",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-09",
+  "stage": 5,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BATTAGLIN Enrico won Stage 5 sprint from reduced group after peloton caught break at 3.5km, ARU maintaining maglia rosa",
+    "winner": "BATTAGLIN Enrico",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Quick-Step drove tempo with KIRY anchoring, collapsing 5+ minute break in final 5km demonstrating late-stage pursuit dominance.",
+      "UAE Emirates isolated ULISSI for attack with 1km remaining, but effort failed when ARU immediately marked the move.",
+      "Multiple domestiques sequentially dropped back to pace VIVIANI after split, revealing Quick-Step's delayed reaction protocol for leader rescues.",
+      "Sky positioned FROOME aggressively inside final 3km on home roads despite no summit finish, signaling GC nervousness even on transitional stages."
+    ],
+    "rider_signals": {
+      "VIVIANI Elia": "negative: caught behind peloton split requiring multiple teammate rescues, suggesting positioning vulnerability on technical run-ins",
+      "ARU Fabio": "positive: immediately marked ULISSI attack at 1km with sprint to bonus seconds, showing aggressive race-leading rather than defensive riding",
+      "ULISSI Diego": "neutral: UAE committed to attack with 1km but ARU's marking negated advantage, revealing team willing to gamble on uphill kicks",
+      "BENNETT George": "negative: lost teammates inside final 3km suggesting Lotto-NL struggling with technical positioning despite previous day's success",
+      "YATES Simon": "positive: finished top-5 again in uphill finish, confirming consistent positioning on varied terrain types"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:22:05.553400+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "label": "2018 Tour de France Stage 6",
+  "race_name": "Tour de France",
+  "race_date": "2018-07-12",
+  "stage": 6,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "MARTIN Dan attacked early on the final climb into a headwind, holding off THOMAS Geraint and PORTE Richie who couldn't bridge despite fresh legs.",
+    "winner": "MARTIN Dan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "MARTIN Dan attacked when teammates exhausted on first part of climb, exploiting lack of organized chase structure despite headwind.",
+      "PORTE Richie worked for VAN AVERMAET's yellow jersey rather than GC ambitions, revealing BMC prioritized jersey defense over stage.",
+      "Quick-Step's early aggression drained rival teams, allowing BMC to conserve firepower for finale and protect VAN AVERMAET's yellow.",
+      "SKUJIŅŠ Toms positioned at front when breakaway caught, opportunistically collecting KOM points through tactical awareness not strength."
+    ],
+    "rider_signals": {
+      "MARTIN Dan": "positive: won into headwind after long solo effort despite terrible season form, legs suddenly matched mental strength",
+      "THOMAS Geraint": "positive: couldn't bridge to Martin but showed exceptional power trying, signaling strong GC form ahead of mountains",
+      "PORTE Richie": "neutral: rode for VAN AVERMAET's yellow instead of own ambitions, team strategy overriding personal GC opportunity",
+      "VAN AVERMAET Greg": "positive: retained yellow through BMC tactics when appeared likely to lose it, cobbles stage looming suits him",
+      "SAGAN Peter": "neutral: extended green jersey record to 91 days but wasn't present in finale, prioritizing points over stage result",
+      "SKUJIŅŠ Toms": "positive: second consecutive day collecting points through positioning intelligence, predicted easy KOM retention before stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:37:45.878873+00:00"
+}

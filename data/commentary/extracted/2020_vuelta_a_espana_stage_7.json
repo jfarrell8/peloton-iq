@@ -1,0 +1,26 @@
+{
+  "label": "2020 Vuelta a Espana Stage 7",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-10-27",
+  "stage": 7,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "WOODS Michael won stage 7 after gambling on a 10km solo bridge to the remnants of a 32-rider breakaway, collecting the leaders while late attacker CORT Magnus was caught.",
+    "winner": "WOODS Michael",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "EF gambled WOODS bridging solo to remnant breakaway while CORT Magnus attacked, WOODS collected late chasers for stage win.",
+      "INEOS defended CARAPAZ with AMADOR working despite losing RIVERA, showing depth even with depleted roster for red jersey defense.",
+      "WELLENS Tim spent too much energy entering initial 32-rider break, finished at back on KOM losing polka dots by fifth place."
+    ],
+    "rider_signals": {
+      "WOODS Michael": "positive: Won from solo bridge to breakaway remnants at 34 years old, two months post-leg fracture, showing elite rehab execution.",
+      "AMADOR Andrey": "positive: Spectacular ride defending CARAPAZ red jersey with strong chase group work, key domestique showing form depth.",
+      "CORT Magnus": "negative: Late attack from breakaway neutralized by WOODS' superior timing, celebrated teammate win not realizing his own loss.",
+      "VALVERDE Alejandro": "positive: Jumped to ninth GC from remnant break, still competitive at career twilight showing positioning instincts.",
+      "MARTIN Guillaume": "neutral: Present in late break moves but unable to contest sprint, held position without gaining ground."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:45:27.416469+00:00"
+}

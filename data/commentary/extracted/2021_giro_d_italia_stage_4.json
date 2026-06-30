@@ -1,0 +1,37 @@
+{
+  "label": "2021 Giro d'Italia Stage 4",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-11",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "DOMBROWSKI Joe attacked from 25-rider break on final climb, won by 13 seconds over DE MARCHI Alessandro who took maglia rosa",
+    "winner": "DOMBROWSKI Joe",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "25-rider fuga bidone formation after long early stalemate signals peloton's willingness to concede 6+ minutes on weather stages",
+      "LANDA Mikel attacking peloton on final climb with GC group responding shows hierarchy already established despite minimal time gaps",
+      "DE MARCHI Alessandro targeting pink jersey seconds rather than stage win from break reveals Israel team's strategic priority shift"
+    ],
+    "rider_signals": {
+      "DOMBROWSKI Joe": "positive: First European win after years of Giro stage hunting, former Baby Giro winner rediscovering climbing form",
+      "DE MARCHI Alessandro": "positive: First career pink jersey at age 34, tactically chose GC seconds over stage victory",
+      "LANDA Mikel": "positive: Initiated GC group acceleration on final climb, showing early race aggression despite flat stage following",
+      "VLASOV Aleksandr": "positive: Best-placed major GC contender, taking white jersey and limiting losses in chaotic conditions",
+      "ALMEIDA João": "negative: Lost significant time compared to GC rivals, unexpected weakness on modest Apennine finish",
+      "BERNAL Egan": "neutral: Protected by peloton but didn't distance rivals, pink jersey team working despite leader losing jersey",
+      "GANNA Filippo": "neutral: Lost pink jersey as expected while working for BERNAL, fulfilling domestique role on climbing stage",
+      "CICCONE Giulio": "positive: In elite group with LANDA on final climb, positioning well among GC contenders",
+      "CARTHY Hugh": "neutral: Followed key moves in GC group, maintaining position without showing exceptional form",
+      "NIBALI Vincenzo": "negative: Lost more time than primary GC group, distanced from favorites on moderate climb",
+      "SIVAKOV Pavel": "negative: Gapped from main GC group, unexpected time loss for protected rider",
+      "POZZOVIVO Domenico": "negative: Distanced with NIBALI group, concerning deficit on relatively modest summit finish",
+      "TAARAMÄE Rein": "positive: Bridged to lead break trio targeting pink jersey, strong opportunistic positioning before final climb",
+      "FIORELLI Filippo": "positive: Third place from break, outperformed expectations on uphill finish",
+      "FORMOLO Davide": "positive: Break performance into third on GC, exploiting chaotic stage for position",
+      "TRATNIK Jan": "positive: Top five from break on uphill finish, showing climbing form beyond expectations"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:55:03.489513+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Does not typically initiate attacks; rides defensively to limit losses on steep uphill finishes. Focuses on maintaining contact with accelerations rather than launching own moves.",
+  "team_tactics": "Movistar appears to position him for final climbs but lacks the domestique support to control tempo or launch sustained attacks. Relies on individual positioning rather than team-led setups.",
+  "terrain_preference": "Can handle steep climbs at steady tempo but struggles with explosive gradients and sudden accelerations. Super-steep finishes consistently expose limitations rather than showcase strengths.",
+  "vulnerability": "Completely unable to respond to explosive accelerations on super-steep finishes, particularly against Roglic. Lacks the punch needed when gradient spikes or pace suddenly intensifies.",
+  "key_patterns": [
+    "Consistently reactive rather than proactive on climbs, never initiating decisive moves (3 observations).",
+    "Roglic accelerations repeatedly cause significant time losses, especially on steep finishes (3 observations).",
+    "Establishes as secondary GC contender but unable to close gap to winner (2 observations).",
+    "Time losses escalate dramatically when explosive power required: 7s to 2:43 margin (2 observations)."
+  ],
+  "form_trajectory": "negative: Progressive deterioration evident across observations, from losing 7s while staying competitive to completely detaching and losing 2:43 on similar terrain",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "MAS Enrique",
+  "built_from": [
+    "2021 Vuelta a Espana Stage 11",
+    "2021 Vuelta a Espana Stage 11",
+    "2022 Vuelta a Espana Stage 14",
+    "2022 Vuelta a Espana Stage 14",
+    "2022 Vuelta a Espana Stage 4"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "attacking_style": "Rarely attacks for personal result; when aggressive, initiates decisive moves on cobbled climbs (Oudenaardeberg) to create platforms for teammates. Attack timing aligns with team strategy rather than individual ambition.",
+  "team_tactics": "Elite domestique delivering sustained destructive pace-making on critical sectors. Sacrifices positioning late in races after exhaustive lead-out work. Bridges gaps early on key cobbled climbs to establish team control.",
+  "terrain_preference": "Excels on cobbled classics terrain with sustained power demands. Particularly effective on cobbled climbs (Oudenaardeberg) where power and positioning intersect. Capable on both extended sectors and technical sequences.",
+  "vulnerability": "Late-race crashes after exhaustive domestique work (Paris-Roubaix). Personal result capacity compromised by complete sacrifice for team objectives, leaving nothing for final positioning.",
+  "key_patterns": [
+    "Delivers exceptional sustained pace-making that destroys fields (Amstel, Paris-Roubaix pre-positioning dominance)",
+    "Sacrifices position and result late in races after maximizing leader setup (10th-11th finishes)",
+    "Co-initiates early decisive moves on cobbled climbs with protected teammates (Oudenaardeberg with Pidcock)",
+    "Crashes occur after exhaustive work completed, suggesting full effort commitment (Paris-Roubaix late crash)",
+    "Unusual aggression when shown suggests protected status or platform-building role (Dwars door Vlaanderen)"
+  ],
+  "form_trajectory": "positive: Consistent high-level domestique performances across cobbled classics, executing critical team tactics with exceptional power output",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "TURNER Ben",
+  "built_from": [
+    "2022 Amstel Gold Race",
+    "2022 Dwars door Vlaanderen",
+    "2022 Dwars door Vlaanderen",
+    "2022 Paris-Roubaix",
+    "2022 Paris-Roubaix"
+  ]
+}

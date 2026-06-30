@@ -1,0 +1,27 @@
+{
+  "label": "2020 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2020-09-12",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "KRAGH ANDERSEN Søren won from a reduced group sprint after BORA drove the peloton hard over climbs to shed BENNETT Sam before intermediate sprint, nearly succeeding in green jersey takeover.",
+    "winner": "KRAGH ANDERSEN Søren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "BORA deployed entire team on Cat-4 climb before intermediate sprint specifically to drop BENNETT Sam and harvest points.",
+      "KÜNG Stefan's explosive TT acceleration bridged early gaps, showing time trial power translates to breakaway selection aggression.",
+      "BENNETT Sam's team fought hard on 6-mile climb to protect sprint points, revealing green jersey defense requires GC-level climbing domestiques."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "positive: BORA orchestrated full team climb tempo before intermediate sprint, tactical sophistication shows desperation translating to coordinated attacks",
+      "BENNETT Sam": "negative: struggled on climbs when BORA pressured before intermediate sprint, green jersey vulnerable on hilly sprint stages",
+      "KÜNG Stefan": "positive: used TT power for violent acceleration to bridge breakaway gaps, time trial specialists underrated for breakaway formation",
+      "TRENTIN Matteo": "positive: held intermediate sprint position despite early climb pressure, positioning discipline under duress",
+      "KRAGH ANDERSEN Søren": "positive: second stage win shows SUNWEB building momentum despite losing DUMOULIN Tom, team depth compensating GC loss",
+      "PORTE Richie": "negative: mechanical/positioning issue nearly cost time, curse continues with timing vulnerabilities"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:34:41.663624+00:00"
+}

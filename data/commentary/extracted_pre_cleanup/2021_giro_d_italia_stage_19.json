@@ -1,0 +1,30 @@
+{
+  "label": "2021 Giro d'Italia Stage 19",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-28",
+  "stage": 19,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "YATES Simon attacked with 6.5km to go on the Alpe Mottarone finish, gaining 30 seconds on BERNAL Egan who was isolated but limited losses.",
+    "winner": "YATES Simon",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ALMEIDA João attacked in final 500m when BERNAL isolated, reducing time loss—calculated aggression from second-place rider.",
+      "INEOS bringing back MARTÍNEZ Daniel Felipe split at 60km showed panic management; GANNA Filippo's domestique work critical pre-climb.",
+      "BikeExchange controlled four-minute maximum gap from 70km out, forcing early splits on descent before final climb.",
+      "YATES attacked solo at 6.5km remaining, not on steepest gradients—choosing psychological moment over pure gradient maximization."
+    ],
+    "rider_signals": {
+      "YATES Simon": "positive: attacked isolated GC leader on 10% gradient and gained 30 seconds, showing recovered form after earlier struggles",
+      "BERNAL Egan": "neutral: lost 30 seconds when isolated in final 500m but defended maglia rosa; unable to respond when ALMEIDA attacked",
+      "ALMEIDA João": "positive: opportunistically attacked BERNAL when isolated, demonstrating tactical awareness to claw back GC time in finale",
+      "CARUSO Damiano": "positive: followed YATES initial move, maintaining GC position while others dropped",
+      "VLASOV Aleksandr": "negative: had to work back to chase group after being distanced, showing vulnerability on steep 10% gradients",
+      "CARTHY Hugh": "negative: dropped from chase group entirely, losing ground on 10% climb despite earlier form",
+      "MARTÍNEZ Daniel Felipe": "positive: missed early split but returned to pace BERNAL on final climb, showing diesel recovery capacity",
+      "MARTIN Dan": "positive: rode into top 10 GC on stage, indicating late-race form improvement"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:52:48.296946+00:00"
+}

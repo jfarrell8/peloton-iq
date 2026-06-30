@@ -1,0 +1,33 @@
+{
+  "label": "2021 Giro d'Italia Stage 9",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-16",
+  "stage": 9,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BERNAL Egan attacked the final gravel climb at Campo Felice, overtaking the breakaway at top speed to take his first Grand Tour stage win.",
+    "winner": "BERNAL Egan",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "BERNAL attacked in big ring on gravel climb, sprinting through breakaway riders rather than tempo increase—extreme power display.",
+      "INEOS used MOSCON domestique pace on final climb to launch BERNAL, classic team tempo-to-attack sequence controlling GC group.",
+      "BOUCHARD built virtual mountains lead over penultimate climb before stage attack, suggesting jersey calculus influenced break composition timing.",
+      "Break took 70km to form with GC riders involved, revealing teams uncertain whether to control or gamble early.",
+      "VLASOV attacked before BERNAL moved, forcing pink jersey's hand rather than waiting—Astana probing INEOS strength."
+    ],
+    "rider_signals": {
+      "BERNAL Egan": "positive: sprinted big ring on 14% gravel finish overtaking breakaway, exceptional climbing power suggests peak form return",
+      "CICCONE Giulio": "positive: only rider briefly holding BERNAL's initial acceleration, marked resurgence on hard gravel gradient",
+      "VLASOV Aleksandr": "positive: third on stage attacking before BERNAL, showing willingness to race aggressively despite GC deficit",
+      "BOUCHARD Geoffrey": "positive: went solo from break on penultimate climb targeting mountains jersey, strong enough nearly to hold stage",
+      "VALTER Attila": "negative: lost 49 seconds and pink jersey on gravel climb, lacks explosive power on steep irregular gradients",
+      "MOSCON Gianni": "positive: paced final climb for BERNAL showing INEOS depth, critical domestique work setting decisive tempo",
+      "EVENEPOEL Remco": "neutral: fourth at 7 seconds, limited time loss but unable to follow BERNAL's acceleration",
+      "MARTIN Dan": "neutral: fifth at 7 seconds, solid GC defense but no punch to contest stage",
+      "CARUSO Damiano": "positive: tenth on stage in GC group despite earlier being in break, exceptional recovery suggests deep fitness",
+      "CARR Simon": "neutral: attacked first from break but caught, classic move timing without legs to finish"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:56:20.870236+00:00"
+}

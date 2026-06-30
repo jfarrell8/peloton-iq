@@ -1,0 +1,27 @@
+{
+  "label": "2018 Giro d'Italia Stage 16",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-22",
+  "stage": 16,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "DENNIS Rohan won the Stage 16 ITT by 1:14 over MARTIN Tony, while DUMOULIN Tom limited losses to YATES Simon to retain GC contention at 2:11.",
+    "winner": "DENNIS Rohan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "DUMOULIN Tom finished 22 seconds behind DENNIS Rohan despite time trial specialty, suggesting accumulated fatigue from previous mountain stages.",
+      "YATES Simon's 2:11 gap post-ITT prompted tactical shift to defensive riding, revealing team confidence threshold for summit finish protection.",
+      "ARU Fabio posted surprisingly slow time relative to MARTIN Tony baseline, signaling deeper GC collapse than mountain stage losses alone suggested."
+    ],
+    "rider_signals": {
+      "DENNIS Rohan": "positive: dominant ITT victory by 1:14 margin confirms peak time trial form",
+      "DUMOULIN Tom": "positive: limited GC damage to 2:11 while finishing third in ITT maintains realistic podium threat",
+      "YATES Simon": "neutral: survived ITT test but explicit defensive shift indicates team fears time gaps insufficient for remaining mountain stages",
+      "FROOME Chris": "positive: strong ITT performance closing gap on DUMOULIN Tom suggests building form after earlier weakness",
+      "ARU Fabio": "negative: unexpectedly slow ITT relative to capabilities confirms comprehensive collapse from GC contention",
+      "MARTIN Tony": "positive: second place by 1:14 demonstrates sustained time trial class despite race fatigue"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:24:36.551462+00:00"
+}

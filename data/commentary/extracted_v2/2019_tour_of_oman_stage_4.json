@@ -1,0 +1,24 @@
+{
+  "label": "2019 Tour of Oman Stage 4",
+  "race_name": "Tour of Oman",
+  "race_date": "2019-02-19",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "BALLERINI Davide won a reduced bunch sprint after CCC paced on the climb to eliminate pure sprinters, catching three breakaway riders inside final kilometer.",
+    "winner": "BALLERINI Davide",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CCC paced hard on late climb to string out peloton, favoring classics specialists over pure sprinters before catch.",
+      "Three-rider break caught inside final kilometer despite crosswinds suggesting peloton misjudged gap with tailwind finish assistance.",
+      "Bahrain-Merida positioned Ballerini perfectly without visible leadout work, exploiting Van Avermaet's early Olympic champion sprint initiation."
+    ],
+    "rider_signals": {
+      "BALLERINI Davide": "positive: Won from reduced bunch sprint after surviving CCC's climb pacing, showing classics-hybrid sprint capability",
+      "VAN AVERMAET Greg": "negative: Initiated sprint too early despite classics experience, finished second after leading out rivals",
+      "LAVEAU Jeremy": "negative: First rider dropped from breakaway on climb despite being Delko's representative in move"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:04:03.903058+00:00"
+}

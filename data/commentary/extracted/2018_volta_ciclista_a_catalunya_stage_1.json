@@ -1,0 +1,28 @@
+{
+  "label": "2018 Volta Ciclista a Catalunya Stage 1",
+  "race_name": "Volta Ciclista a Catalunya",
+  "race_date": "2018-03-19",
+  "stage": 1,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "HODEG Álvaro José won the sprint after Quickstep took control at 3km, with MØRKØV delivering the leadout through final 800m.",
+    "winner": "HODEG Álvaro José",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "Quickstep deployed three-rider train (JUNGELS-MØRKØV-HODEG) from 3km out, overwhelming teams that waited for traditional final kilometer leadouts.",
+      "MOVISTAR set early pace then surrendered to Quickstep at 3km, revealing their tactical hierarchy prioritizes GC over stage hunting.",
+      "BORA's leadout with BENNETT Sam and MCCARTHY Jay collapsed inside 1km when attacking Quickstep's established train rather than positioning earlier.",
+      "BOUHANNI Nacer wheel-surfed without teammates, confirming Cofidis lacks organized sprint infrastructure even on flat finishes."
+    ],
+    "rider_signals": {
+      "HODEG Álvaro José": "positive: explosive finishing speed from third wheel confirms he can win even without perfect positioning",
+      "MØRKØV Michael": "positive: held 60kph leadout through 800m, demonstrates sustained power differentiates elite from competent leadout men",
+      "JUNGELS Bob": "positive: executed transition role at 800m after pulling from 3km, showing dual-threat domestique capacity",
+      "BENNETT Sam": "negative: BORA's leadout disintegrated when positioned too far back entering final kilometer against organized Quickstep train",
+      "BOUHANNI Nacer": "negative: isolated without leadout support, suggests team selection or commitment issues rather than form deficit",
+      "BONIFAZIO Niccolò": "neutral: positioned fourth wheel but unable to come around HODEG, confirms top-10 sprint capability without top-5 acceleration"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:45:10.740888+00:00"
+}

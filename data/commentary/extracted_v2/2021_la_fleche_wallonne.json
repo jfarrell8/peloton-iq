@@ -1,0 +1,27 @@
+{
+  "label": "2021 La Fleche Wallonne",
+  "race_name": "La Fleche Wallonne",
+  "race_date": "2021-04-21",
+  "stage": null,
+  "channel": "TNT Sports",
+  "extraction": {
+    "one_line_summary": "ALAPHILIPPE Julian used ROGLIC's slipstream on the final Mur de Huy ascent, sat on VALVERDE's attack, then timed his acceleration to perfection for his third win.",
+    "winner": "ALAPHILIPPE Julian",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "ROGLIC went early on final Mur ascent, forcing tempo but leaving him vulnerable to slipstream exploitation by followers.",
+      "ALAPHILIPPE refused to panic when VALVERDE moved alongside, demonstrating superior race craft by delaying final acceleration.",
+      "CARAPAZ attacked on Cote de Cherave as decoy/setup for PIDCOCK or YATES rather than personal victory attempt.",
+      "VALVERDE used pavement to reposition before final climb, showing positioning desperation typically punished but here yielded podium."
+    ],
+    "rider_signals": {
+      "PIDCOCK Tom": "negative: crashed and required GEOGHEGAN HART relay back, yet still finished sixth showing remarkable recovery capacity",
+      "WELLENS Tim": "negative: bridged to break on Cote de Cherave but move immediately neutralized showing poor timing judgment",
+      "ROGLIC Primoz": "negative: forced to lead out final climb suggesting tactical isolation or misread of Alaphilippe's positioning threat",
+      "WOODS Michael": "positive: fourth place finish demonstrates Mur de Huy suitability beyond typical palmares expectations",
+      "UAE Team Emirates": "negative: entire team DNS due to COVID protocol revealing organizational vulnerability"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T17:41:10.479337+00:00"
+}

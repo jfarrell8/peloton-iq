@@ -1,0 +1,27 @@
+{
+  "label": "2022 Liege - Bastogne - Liege",
+  "race_name": "Liege - Bastogne - Liege",
+  "race_date": "2022-04-24",
+  "stage": null,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "EVENEPOEL Remko attacked solo 30km out on La Redoute, maintained 40-second gap through tactical hesitation behind, won by 48 seconds.",
+    "winner": "EVENEPOEL Remko",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Bahrain Victorious burned matches through Landa/Caruso early attacks at 45km, softening field for Evenepoel's later move.",
+      "Chase group tactical paralysis on Roche-aux-Faucons allowed 18-second gap to balloon back over 30 seconds despite brief acceleration.",
+      "Evenepoel attacked seated on double-digit gradients La Redoute, suggesting power-based rather than explosive acceleration was the winning formula.",
+      "Quick-Step survived Alaphilippe crash/abandonment at 60km by pivoting immediately to Evenepoel as sole leader with no team support needed."
+    ],
+    "rider_signals": {
+      "EVENEPOEL Remko": "positive: Won monument debut at 22 with 30km solo effort, showing grand tour-level sustained power reserves unprecedented for his age.",
+      "ALAPHILIPPE Julian": "negative: Crash at 60km forced abandonment, rivals were so concerned about him Wellens checked his condition before rejoining race.",
+      "VLASOV Alexander": "neutral: Attacked at 8.5km during chase hesitation but couldn't bridge to Evenepoel, suggesting strong but not decisive climbing.",
+      "TEUNS Dylan": "neutral: Led chase effort midway up Roche-aux-Faucons but gap only briefly reduced to 18 seconds before tactical games resumed.",
+      "LANDA Mikel": "neutral: Initiated Bahrain's early attacking strategy at 45km, role as pace-setter rather than winner despite being former LBL champion."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:45:58.667970+00:00"
+}

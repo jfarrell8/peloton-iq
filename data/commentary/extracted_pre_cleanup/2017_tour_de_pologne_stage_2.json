@@ -1,0 +1,28 @@
+{
+  "label": "2017 Tour de Pologne Stage 2",
+  "race_name": "Tour de Pologne",
+  "race_date": "2017-07-30",
+  "stage": 2,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "MODOLO Sacha won a chaotic sprint after VAKOČ Petr's late attack was caught inside final kilometer, SAGAN Peter boxed and unable to contest.",
+    "winner": "MODOLO Sacha",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "VAKOČ Petr's solo attack absorbed Sky's four-man leadout 1km out, destroying BORAhansgrohe's positioning for SAGAN Peter.",
+      "Seven-rider teams created control vacuum; teams with 3-4 leadout men gained no advantage in final 700m chaos.",
+      "Sky committed four riders for VAN POPPEL Danny yet still couldn't prevent messy finish; numerical superiority ineffective here.",
+      "SAGAN boxed 15th with 900m remaining couldn't recover; sprinters beyond 10th wheel at final roundabout eliminated from contention."
+    ],
+    "rider_signals": {
+      "SAGAN Peter": "negative: boxed in 15th position with 900m remaining, unable to move up despite having legs, finished 8th",
+      "MODOLO Sacha": "positive: excels in chaotic sprints, found gap through center when organization collapsed, first World Tour win in two years",
+      "VAN POPPEL Danny": "positive: took race lead despite second place; Sky's four-man train still delivered him to podium through chaos",
+      "VAKOČ Petr": "neutral: late solo move disrupted sprint but caught inside 1km, tactical impact greater than result",
+      "HAAS Nathan": "neutral: positioned near front multiple times suggesting form/intent but finished 10th without contesting sprint",
+      "REGUIGUI Youcef": "neutral: Algerian champion well-positioned for Dimension Data but faded to fifth in final meters"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:12:09.560772+00:00"
+}

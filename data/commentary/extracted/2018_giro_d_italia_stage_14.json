@@ -1,0 +1,28 @@
+{
+  "label": "2018 Giro d'Italia Stage 14",
+  "race_name": "Giro d'Italia",
+  "race_date": "2018-05-19",
+  "stage": 14,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "FROOME attacked twice in final 4km of Zoncolan, held off YATES who closed hard to limit losses and extend GC lead over DUMOULIN",
+    "winner": "FROOME Chris",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "FROOME's double-acceleration strategy at 4km and again inside 2km isolated POZZOVIVO/LÓPEZ/YATES, proving first attack was range-finder.",
+      "YATES prioritized time gaps on DUMOULIN over chasing stage win, tactical maturity rarely seen in maglia rosa defense on summit finishes.",
+      "POZZOVIVO remains closest GC threat at 23 seconds, outclimbing LÓPEZ when FROOME's second surge shattered chase group.",
+      "Sky's willingness to burn FROOME for stage rather than pacing suggests lack of confidence in TT to recover time on YATES."
+    ],
+    "rider_signals": {
+      "FROOME Chris": "positive: Double-attack execution on Zoncolan shows form recovery after early-race struggles, confidence reset before final TT",
+      "YATES Simon": "positive: Controlled effort closing 1-minute gap shows exceptional form management, prioritizing GC over stage vanity",
+      "POZZOVIVO Domenico": "positive: Only 23 seconds behind FROOME at finish, podium threat if he survives final time trial",
+      "DUMOULIN Tom": "negative: Losing significant time to YATES on Zoncolan confirms mountain deficit too large for TT specialty to overcome",
+      "WOODS Michael": "neutral: Early attack attempt on lower slopes faded, lacked acceleration to follow when FROOME launched decisive move",
+      "LÓPEZ Miguel Ángel": "negative: Dropped by both FROOME's second attack and YATES' chase effort, losing podium position to POZZOVIVO"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T21:24:08.485005+00:00"
+}

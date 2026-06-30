@@ -1,19 +1,19 @@
 {
-  "attacking_style": "Not a primary attacker; converts from lead-out duties to opportunistic sprint when designated sprinter fails to hold position.",
-  "team_tactics": "Functions as lead-out man for designated sprinter (Modolo), but team coordination shows fragility with disconnection issues at critical moments.",
-  "terrain_preference": "Sprint stages where lead-out work transitions to personal opportunities; struggles when team cohesion breaks down in finale.",
-  "vulnerability": "Dependent on team sprint structure; exposed when lead-out plans collapse and forced into reactive rather than planned sprint positioning.",
+  "attacking_style": "Not a primary attacker; functions as leadout man in sprint trains. When forced to sprint independently due to team disorganization, lacks the finishing speed of designated sprinters.",
+  "team_tactics": "Designated leadout rider for Quick-Step sprint train, specifically tasked with delivering MODOLO to final positioning. Team execution shows vulnerability to miscommunication in final positioning.",
+  "terrain_preference": "Flat sprint stages where leadout work is required. Not suited for solo efforts or complex finishes requiring independent decision-making under pressure.",
+  "vulnerability": "Exposed when sprint train breaks down or miscommunication occurs regarding protected sprinter position. Lacks adaptability when forced into unplanned sprint role without designated finisher on wheel.",
   "key_patterns": [
-    "Transitions from lead-out to personal sprint when primary sprinter disconnects from train.",
-    "BikeExchange sprint coordination failures create unplanned opportunities rather than structured finishes.",
-    "Strong enough individually to contest sprints but lacks independent positioning framework."
+    "Functions as dedicated leadout rider in Quick-Step sprint train, specifically for MODOLO (2 instances)",
+    "Sprint train suffered positioning breakdowns with wrong riders on wheel in critical moments (2 instances)",
+    "Forced into improvised sprinting when designated finisher not in position, suggesting limited finishing capability (2 instances)"
   ],
-  "form_trajectory": "neutral: showed individual strength to contest sprint opportunistically but within dysfunctional team context",
-  "races_analysed": 1,
+  "form_trajectory": "neutral: Limited data shows consistent role execution issues rather than individual form decline. Problems stem from team coordination rather than personal performance degradation.",
+  "races_analysed": 2,
   "confidence": "low",
   "rider_name": "KRIEGER Alexander",
   "built_from": [
     "2021 La Vuelta ciclista a Espana Stage 13",
-    "2021 La Vuelta ciclista a Espana Stage 13"
+    "2021 La Vuelta ciclista a Espana Stage 16"
   ]
 }

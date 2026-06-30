@@ -1,23 +1,37 @@
 {
-  "attacking_style": "Launches long-range solo efforts (25km+) from reduced groups late in stages, willing to commit to extended time trials in unfavorable conditions like headwinds. Attacks when opportunities arise from race chaos rather than planned positioning.",
-  "team_tactics": "Given freedom to exploit opportunistic situations when accidentally gapped or when race circumstances allow. Team shows confidence in his diesel engine to commit to extended solo efforts rather than pull him back.",
-  "terrain_preference": "Flat to rolling stages where time trial power can be sustained over distance. Excels in reduced bunch scenarios where pure power matters more than climbing. Struggles when immediate recovery is needed after hard efforts.",
-  "vulnerability": "Cannot recover within 24 hours after major efforts (bridging, punctures). Lacks explosive acceleration to create decisive gaps against organized chases from fresh riders, even when wearing national champion jersey.",
+  "attacking_style": "Powerful diesel rouleur who attacks solo from breakaways on moderate climbs or mid-race (typically 60km+ out), relying on sustained pace rather than explosive acceleration. Frequently goes solo at 1.5-5km from breakaway groups to exploit time trial strength.",
+  "team_tactics": "Quick-Step/Deceuninck uses him as sacrificial domestique for early race control, willing to burn him at record pace to disrupt rival leadout trains or protect teammates like Bennett/Alaphilippe. Rarely receives direct team support when attacking solo.",
+  "terrain_preference": "Moderate climbs and rolling terrain where sustained power trumps punch. Excels in breakaway scenarios on moderate gradients; struggles on punchy climbs requiring repeated accelerations. Corniche-style circuits and time trial-like efforts suit best.",
+  "vulnerability": "Cannot sustain efforts on punchy climbs after initial surge—cracks completely when caught after solo attacks. Reputation now triggers immediate peloton response even with minimal gaps, preventing breakaway tolerance. Prone to going too hard too early (unsustainable 49kph+ averages leading to fade).",
   "key_patterns": [
-    "Commits to 20km+ solo breakaways, willing to ride extended time trials alone (2 instances)",
-    "Attacks late in Grand Tours despite domestique duties, suggesting exceptional diesel reserves (2 observations)",
-    "Struggles with next-day recovery after maximal bridging or puncture efforts (2 confirmations)",
-    "Exploits opportunistic situations from race chaos rather than executing planned attacks (3 instances)"
+    "Attacks solo from breakaways at distance (5+ instances 60km-120km out), signature early move pattern.",
+    "Used tactically by Quick-Step to disrupt rival sprint trains through suicidal early pace (4 instances).",
+    "Immediately marked by peloton despite small gaps due to reputation, preventing breakaway tolerance (3 instances).",
+    "Collects intermediate bonus seconds showing GC awareness even in stage-hunting mode (2 instances).",
+    "Fades after unsustainable early efforts or cracks when caught after solo surges (3 instances).",
+    "Goes solo from small breakaways on final climb/circuit rather than contesting group sprint (4 instances)."
   ],
-  "form_trajectory": "neutral: 2022 showed ability to reach late-stage selection groups but lost finishing punch to hold off chases, suggesting maintained endurance but reduced explosive power compared to 2019 Grand Tour performances",
-  "races_analysed": 4,
-  "confidence": "medium",
-  "rider_name": "CAVAGNA Remi",
+  "form_trajectory": "negative: 2023 showing unsustainable pacing leading to fade and isolated attacks gaining minimal time, suggesting declining capacity compared to 2019-2020 record-breaking Tour efforts",
+  "races_analysed": 17,
+  "confidence": "high",
+  "rider_name": "CAVAGNA Rémi",
   "built_from": [
-    "2019 Vuelta a Espana Stage 11",
-    "2019 Vuelta a Espana Stage 19",
-    "2019 Vuelta a Espana Stage 19",
+    "2018 Tour de Suisse Stage 6",
+    "2018 Tour of Guangxi Stage 2",
+    "2018 Tour of Guangxi Stage 6",
+    "2018 Tour of Oman Stage 6",
+    "2019 Vuelta a Espana Stage 21",
     "2019 Vuelta a Espana Stage 4",
-    "2022 Criterium du Dauphine Stage 1"
+    "2020 Bretagne Classic - Ouest France",
+    "2020 Criterium du Dauphine Stage 1",
+    "2020 Tour de France Stage 19",
+    "2020 Vuelta a Espana Stage 16",
+    "2021 Giro d'Italia Stage 18",
+    "2021 Giro d'Italia Stage 21",
+    "2021 Volta Ciclista a Catalunya Stage 5",
+    "2021 Volta Ciclista a Catalunya Stage 6",
+    "2022 Tour de Romandie Stage 1",
+    "2023 Criterium du Dauphine Stage 4",
+    "2023 Tour de France Stage 10"
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "label": "2017 Paris-Nice Stage 5",
+  "race_name": "Paris-Nice",
+  "race_date": "2017-03-09",
+  "stage": 5,
+  "channel": "NBC Sports",
+  "extraction": {
+    "one_line_summary": "GREIPEL Andre won the sprint with minimal team support after surviving the final climb, beating DEGENKOLB and GROENEWEGEN in the finale",
+    "winner": "GREIPEL Andre",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "GREIPEL won without organized leadout train in final 5km, self-positioning proves decisive when team infrastructure unavailable",
+      "GROENEWEGEN struggled on final climb then faded in sprint, confirming climbing weakness compromises sprint power even on mild gradients",
+      "QUICKSTEP's KITTEL received SABATINI leadout but still lost, suggesting their sprint train assembly failed at critical juncture"
+    ],
+    "rider_signals": {
+      "GREIPEL Andre": "positive: Won without team support in final kilometers, demonstrating superior tactical self-sufficiency and positioning instincts",
+      "GROENEWEGEN Dylan": "negative: Struggled on final climb and faded badly after fighting back, showing insufficient recovery capacity for undulating sprint stages",
+      "MATTHEWS Michael": "neutral: Positioned perfectly behind DEGENKOLB but failed to convert, suggesting positioning skill exceeds finishing punch",
+      "DEMARE Arnaud": "negative: Led out sprint but immediately swamped, indicating poor timing judgment or insufficient peak speed",
+      "ALAPHILIPPE Julian": "neutral: Yellow jersey focused solely on avoiding splits rather than contesting sprint, revealing conservative GC protection tactics"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-17T21:07:50.861085+00:00"
+}

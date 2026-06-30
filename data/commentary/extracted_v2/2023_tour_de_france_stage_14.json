@@ -1,0 +1,27 @@
+{
+  "label": "2023 Tour de France Stage 14",
+  "race_name": "Tour de France",
+  "race_date": "2023-07-15",
+  "stage": 14,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "RODRIGUEZ Carlos soloed to victory on descent to Morzine while POGAČAR took 2nd place bonus to cut VINGEGAARD's GC lead to 10 seconds",
+    "winner": "RODRIGUEZ Carlos",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE sent YATES Adam back to pace POGAČAR in final kilometer, sacrificing teammate GC position for leader's bonus seconds.",
+      "RODRIGUEZ attacked on descent after Joux Plane summit, taking 10-second win bonus while GC contenders marked each other.",
+      "POGAČAR sprinted early for 6-second bonus with VINGEGAARD forced to follow, revealing UAE prioritizes time gaps over stage wins.",
+      "VINGEGAARD's team rode tempo all day to control break, showing Jumbo-Visma defending rather than attacking with slim lead."
+    ],
+    "rider_signals": {
+      "RODRIGUEZ Carlos": "positive: 22-year-old Tour rookie won solo after descending away from GC group, now third overall",
+      "POGAČAR Tadej": "positive: fought for every bonus second available, reduced gap to 10 seconds despite not winning stage",
+      "YATES Adam": "neutral: dropped back from podium positions to pace POGAČAR in finale, clear domestique role despite high GC",
+      "VINGEGAARD Jonas": "negative: only gained one second overall on huge mountain stage, forced into defensive racing for bonus seconds",
+      "POWLESS Neilson": "negative: lost polka dot jersey on tiebreaker to VINGEGAARD despite matching points, indicating missed intermediate opportunities"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:56:39.710992+00:00"
+}

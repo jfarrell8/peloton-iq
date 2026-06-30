@@ -1,0 +1,25 @@
+{
+  "label": "2018 Tour of Guangxi Stage 1",
+  "race_name": "Tour of Guangxi",
+  "race_date": "2018-10-16",
+  "stage": 1,
+  "channel": "Velon",
+  "extraction": {
+    "one_line_summary": "GROENEWEGEN Dylan won bunch sprint after Team Lotto NL-Jumbo controlled entire stage, never allowing break more than one minute gap",
+    "winner": "GROENEWEGEN Dylan",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "Lotto NL-Jumbo kept break under 60 seconds entire race on shortest stage, revealing high-speed control template for sprint stages.",
+      "DILLIER Silvan targeted intermediate sprint bonuses strategically, winning first sprint for GC time gains rather than stage positioning.",
+      "Late Quick-Step attack inside 10km served as lead-out disruption tactic for JAKOBSEN Fabio, not genuine breakaway attempt."
+    ],
+    "rider_signals": {
+      "DILLIER Silvan": "positive: Aggressively hunted intermediate sprint bonuses for GC time, replicating his 10th overall strategy from 2017 edition",
+      "HALLER Marco": "neutral: Contested intermediate sprint after six-month injury layoff from broken kneecap, testing race fitness",
+      "ACKERMANN Pascal": "negative: Clear positioning in finale but unable to match GROENEWEGEN's final acceleration despite Bora lead-out",
+      "JAKOBSEN Fabio": "neutral: Quick-Step's late attack gave armchair ride but positioning insufficient against GROENEWEGEN's speed"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:36:32.862030+00:00"
+}

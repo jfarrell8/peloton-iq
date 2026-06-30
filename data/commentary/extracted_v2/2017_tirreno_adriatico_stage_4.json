@@ -1,0 +1,27 @@
+{
+  "label": "2017 Tirreno-Adriatico Stage 4",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2017-03-11",
+  "stage": 4,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "QUINTANA Nairo attacked multiple times on the final climb, dropped THOMAS with 3km to go after repeated accelerations, caught and dropped ŠPILAK who attacked earlier",
+    "winner": "QUINTANA Nairo",
+    "commentary_quality": "rich",
+    "tactical_patterns": [
+      "QUINTANA launched repeated accelerations to isolate THOMAS from teammates YATES and URAN who couldn't respond to surges",
+      "ŠPILAK attacked three times early on climb to gain isolation, but this strategy left him exposed when caught",
+      "THOMAS deliberately dropped into tempo mode when seeing YATES/QUINTANA/URAN together, controlling through pacing rather than matching surges",
+      "Headwind on 8% gradient made sitting wheel more valuable than typical, rewarding QUINTANA's surge-and-wait tactic over sustained efforts"
+    ],
+    "rider_signals": {
+      "QUINTANA Nairo": "positive: showed unprecedented early-season form, climbing dominance suggests Giro potential on queen stages with repeated accelerations",
+      "THOMAS Geraint": "positive: strong GC development, controlled group through tempo riding but lacks explosive response to multiple accelerations",
+      "YATES Adam": "negative: couldn't follow THOMAS when he bridged to QUINTANA, exposed gap between British teammates on steep climbs",
+      "ŠPILAK Simon": "negative: three early accelerations exhausted him before summit, couldn't sustain effort when caught by fresh QUINTANA",
+      "URAN Rigoberto": "neutral: content to sit on wheels rather than contribute, tactical waiting game failed when pace ramped"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T16:02:43.525950+00:00"
+}

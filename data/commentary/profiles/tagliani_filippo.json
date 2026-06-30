@@ -1,0 +1,19 @@
+{
+  "attacking_style": "Early breakaway specialist on flat or transitional stages, typically launching before categorized climbs when peloton motivation is low. Lacks power to sustain efforts over extended climbing.",
+  "team_tactics": "Opportunistic early breaks on stages where GC teams prefer energy conservation. Minimal domestique support visible, suggesting independent breakaway attempts rather than coordinated team plays.",
+  "terrain_preference": "Flat to rolling terrain before mountain stages where peloton reluctance creates breakaway opportunities. Struggles significantly on categorized climbs, particularly medium-mountain passes like Colle di Nava.",
+  "vulnerability": "Gets dropped when breakaways encounter sustained climbing. Insufficient power reserves to survive in breaks once gradient increases, exposing limited climbing capacity on even moderate ascents.",
+  "key_patterns": [
+    "Targets early breaks on flat stages preceding mountain days when peloton conserves energy (2 instances)",
+    "Gets dropped from breakaways on categorized climbs, unable to sustain climbing efforts (2 instances)",
+    "Operates without significant team support in breakaway attempts, suggesting opportunistic tactics (2 instances)"
+  ],
+  "form_trajectory": "neutral: limited data but consistent pattern of gaining breaks then struggling on climbs suggests stable but limited climbing capacity rather than declining form",
+  "races_analysed": 2,
+  "confidence": "low",
+  "rider_name": "TAGLIANI Filippo",
+  "built_from": [
+    "2021 Giro d'Italia Stage 5",
+    "2022 Giro d'Italia Stage 13"
+  ]
+}

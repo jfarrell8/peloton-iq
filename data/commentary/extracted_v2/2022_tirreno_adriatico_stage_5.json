@@ -1,0 +1,26 @@
+{
+  "label": "2022 Tirreno-Adriatico Stage 5",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2022-03-11",
+  "stage": 5,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "BARGHEE Warren soloed from 12-rider breakaway on final circuit climbs with ramps to 21%, held off late chasers Pogacar/Evenepoel by 10 seconds",
+    "winner": "BARGHEE Warren",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "UAE Emirates surrendered chase control mid-race when Benjamin Thomas (GC threat at +1:08) sat in 12-rider break threatening overall.",
+      "Pogacar/Evenepoel/Vingegaard launched GC attack after UAE exhausted themselves chasing, but missed corner and lost coordination attempting time gain.",
+      "Barghee delayed final move until last circuit climbs after teammate Rousseau sacrificed for earlier pace-setting in breakaway."
+    ],
+    "rider_signals": {
+      "BARGHEE Warren": "positive: first win in 5 years on 21% ramps suggests rediscovered climbing form at age 30",
+      "EVENEPOEL Remco": "negative: missed critical corner during GC attack, struggled most of three chasers to regain contact with Pogacar",
+      "POGACAR Tadej": "positive: UAE exhausted but still strong enough to attack late and recover fastest from missed corner",
+      "THOMAS Benjamin": "neutral: sat in threatening break at +1:08 GC but couldn't contest final climbs when pace went nuclear",
+      "PORTE Richie": "positive: described as lively despite finishing same time as GC contenders, unexpected at this career stage"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T18:20:01.432550+00:00"
+}

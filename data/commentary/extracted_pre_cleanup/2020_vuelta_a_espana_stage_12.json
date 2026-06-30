@@ -1,0 +1,27 @@
+{
+  "label": "2020 Vuelta a Espana Stage 12",
+  "race_name": "Vuelta a Espana",
+  "race_date": "2020-11-01",
+  "stage": 12,
+  "channel": "manual",
+  "extraction": {
+    "one_line_summary": "CARTHY Hugh won Stage 12 by attacking inside final kilometer on Alto de Angliru, gaining 16 seconds on VLASOV/MAS and taking 10 seconds on CARAPAZ who seized the overall lead from ROGLIČ.",
+    "winner": "CARTHY Hugh",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "CARAPAZ nearly bridged to CARTHY at 800m to go but CARTHY's redoubled acceleration created decisive 16-second gap at finish.",
+      "MAS attacked from long range as most aggressive GC rider, enabling CARTHY's later winning move rather than winning himself.",
+      "ROGLIČ defended passively on Angliru despite only 10-second deficit, suggesting confidence in upcoming time trial over climbing duel."
+    ],
+    "rider_signals": {
+      "CARTHY Hugh": "positive: First grand tour stage win shows he can finish climbs harder than established GC riders, gained 16s on MAS/VLASOV.",
+      "CARAPAZ Richard": "positive: Nearly caught CARTHY at 800m despite no stage win, took jersey with offensive riding rather than defensive time management.",
+      "MAS Enric": "neutral: Long-range aggression as most attacking rider failed to produce stage win, but defended podium position effectively.",
+      "ROGLIČ Primož": "negative: Lost jersey without visible response on final climb, banking strategy entirely on Tuesday time trial rather than defending.",
+      "POELS Wout": "positive: Moved to 6th overall despite difficult conditions, showing consistent GC form beyond domestique expectations.",
+      "VLASOV Aleksandr": "positive: Finished 3rd on stage only seconds behind CARTHY, moved into top 10 overall with strong climbing performance."
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:42:17.227797+00:00"
+}

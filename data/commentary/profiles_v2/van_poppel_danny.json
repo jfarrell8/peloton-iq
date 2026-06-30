@@ -1,0 +1,32 @@
+{
+  "attacking_style": "Not an attacker; operates exclusively in sprint finales, typically launching or positioning in final 200m. When sprinting for himself, struggles with timing—either goes too early or hesitates fatally.",
+  "team_tactics": "Elite leadout pilot holding pace to 200m barrier, delivering textbook positioning even into headwind finales. Team invests heavily (3+ riders through final corner) but conversion rate is inconsistent.",
+  "terrain_preference": "Pure flat sprint stages only. Exposed immediately on any categorized climb (dropped on Cat-3). Executes well in technical/headwind finales requiring sustained power through 200m mark.",
+  "vulnerability": "Poor positioning and race craft when sprinting for himself—boxing/hesitation costs him despite superior raw speed. Completely non-functional on any climbing terrain. Timing errors frequent when not in leadout role.",
+  "key_patterns": [
+    "Holds leadout pace to exactly 200m, textbook execution documented across multiple Grand Tours",
+    "Disappears or mistimes sprint when riding for own result despite possessing raw speed",
+    "Gets boxed/positioned poorly in chaotic finales, hesitates when decisive action needed",
+    "Dropped immediately on any climb, zero climbing capacity even Cat-3 efforts",
+    "Can finish high (2nd without leadout) but inconsistent converting positioning to results"
+  ],
+  "form_trajectory": "neutral: 2022 shows dual capacity (elite leadout + occasional own finish) but persistent positioning errors and total climbing weakness unchanged from 2018",
+  "races_analysed": 13,
+  "confidence": "high",
+  "rider_name": "VAN POPPEL Danny",
+  "built_from": [
+    "2018 Giro d'Italia Stage 13",
+    "2018 Giro d'Italia Stage 17",
+    "2018 Giro d'Italia Stage 7",
+    "2018 Tour de Pologne Stage 2",
+    "2018 Vuelta a Espana Stage 15",
+    "2020 BinckBank Tour Stage 1",
+    "2022 Eschborn-Frankfurt",
+    "2022 La Vuelta ciclista a Espana Stage 11",
+    "2022 La Vuelta ciclista a Espana Stage 2",
+    "2022 Tour de France Stage 13",
+    "2022 Vuelta a Espana Stage 11",
+    "2022 Vuelta a Espana Stage 13",
+    "2022 Vuelta a Espana Stage 3"
+  ]
+}

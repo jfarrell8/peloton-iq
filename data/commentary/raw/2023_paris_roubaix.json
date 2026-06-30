@@ -5,34 +5,11 @@
   "stage": null,
   "video": {
     "video_id": "L10sAuX4pP4",
-    "title": "Paris–Roubaix | EXTENDED HIGHLIGHTS | 4/9/2023 | Cycling on NBC Sports",
+    "title": "manually provided",
     "url": "https://youtube.com/watch?v=L10sAuX4pP4",
-    "channel": "NBC Sports",
-    "published": "2023-04-09T21:10:16Z",
-    "match_score": 113.08,
-    "all_candidates": [
-      {
-        "video_id": "L10sAuX4pP4",
-        "title": "Paris–Roubaix | EXTENDED HIGHLIGHTS | 4/9/2023 | Cycling on NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2023-04-09T21:10:16Z",
-        "match_score": 113.08
-      },
-      {
-        "video_id": "sVqmRgsLmbA",
-        "title": "Paris–Roubaix Femmes | EXTENDED HIGHLIGHTS | 4/8/2023 | Cycling on NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2023-04-08T22:16:19Z",
-        "match_score": 73.08
-      },
-      {
-        "video_id": "_JXI_8rxZqI",
-        "title": "Liège-Bastogne-Liège | EXTENDED HIGHLIGHTS | 4/23/2023 | Cycling on NBC Sports",
-        "channel": "NBC Sports",
-        "published": "2023-04-23T22:17:14Z",
-        "match_score": 39.52
-      }
-    ]
+    "channel": "manual",
+    "published": "",
+    "match_score": 999
   },
   "transcript": {
     "snippet_count": 1089,

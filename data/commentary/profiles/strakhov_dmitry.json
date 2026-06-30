@@ -1,0 +1,23 @@
+{
+  "attacking_style": "Opportunistic breakaway rider who targets early moves for intermediate sprint bonuses and classification points rather than stage victories. Calculated exits from breaks once objectives are secured.",
+  "team_tactics": "Gazprom deploys him strategically in breakaways despite small squad sizes to control secondary classifications. Willingly sacrifices personal stage ambitions to deliver teammates when holding classification jerseys.",
+  "terrain_preference": "Flat to rolling stages with intermediate sprints where breakaways can survive long enough to accumulate points. Thrives in scenarios where secondary classifications are available.",
+  "vulnerability": "Not a pure stage winner—lacks finishing power to convert breakaway presence into victories. Prioritizes classification points over stage glory, limiting aggressive racing in finals.",
+  "key_patterns": [
+    "Dominates intermediate sprint classifications through calculated breakaway participation (41 vs 14 points UAE Tour)",
+    "Uses tactical exits (fake punctures) from breakaways after securing bonuses across multiple stages",
+    "Consistently sacrifices stage winning opportunities to optimize GC/classification position or deliver teammates",
+    "Gazprom relies on him for bonus/classification control even with minimal team numbers present"
+  ],
+  "form_trajectory": "neutral: Executing assigned tactical roles effectively but not showing ambition beyond secondary classifications",
+  "races_analysed": 3,
+  "confidence": "medium",
+  "rider_name": "STRAKHOV Dmitry",
+  "built_from": [
+    "2022 UAE Tour Stage 1",
+    "2022 UAE Tour Stage 1",
+    "2022 UAE Tour Stage 1",
+    "2022 UAE Tour Stage 5",
+    "2022 UAE Tour Stage 6"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "2023 Tirreno-Adriatico Stage 1",
+  "race_name": "Tirreno-Adriatico",
+  "race_date": "2023-03-06",
+  "stage": 1,
+  "channel": "GCN Racing",
+  "extraction": {
+    "one_line_summary": "GANNA Filippo won the 11.5km flat time trial by 28 seconds over KÄMNA Lennard, with SHEFFIELD Magnus third at 29 seconds",
+    "winner": "GANNA Filippo",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "SHEFFIELD Magnus set early benchmark suggesting young emerging TTers can hold top-5 against established specialists",
+      "MCNULTY Brandon seeded 40 seconds on YATES Adam, revealing clear UAE GC hierarchy before mountain stages",
+      "KÄMNA Lennard nearly matched GANNA despite reinventing himself from climbing specialist, validates cross-discipline training approach",
+      "Late starters benefited from improved weather conditions as rain abated, suggesting starting order bias in variable conditions"
+    ],
+    "rider_signals": {
+      "GANNA Filippo": "positive: 28-second margin on pan-flat course demonstrates dominance extends beyond track pursuits to short road TTs",
+      "SHEFFIELD Magnus": "positive: third place finish ahead of established specialists shows breakthrough WT-level time trialing capability",
+      "KÄMNA Lennard": "positive: second place demonstrates successful transformation from youth climber to elite TTer, German TT champion credentials validated",
+      "MCNULTY Brandon": "positive: seeded two seconds to SHEFFIELD at turn, confirmed as UAE's protected GC rider over YATES",
+      "YATES Adam": "negative: 40 seconds lost to teammate MCNULTY eliminates him from GC contention before mountains begin",
+      "HEPBURN Michael": "positive: slotted between two Americans suggests Jayco have deeper TT strength than expected beyond GC leaders",
+      "ARENSMAN Thymen": "positive: third quickest at checkpoint eight seconds down reveals hidden TT strength for climber-classified rider",
+      "ROGLIČ Primož": "neutral: seeded alongside LUTSENKO and KELDERMAN, suggesting conservative ride rather than stage hunting"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-29T00:19:29.355991+00:00"
+}

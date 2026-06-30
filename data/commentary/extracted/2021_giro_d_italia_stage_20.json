@@ -1,0 +1,28 @@
+{
+  "label": "2021 Giro d'Italia Stage 20",
+  "race_name": "Giro d'Italia",
+  "race_date": "2021-05-29",
+  "stage": 20,
+  "channel": "playlist_import",
+  "extraction": {
+    "one_line_summary": "CARUSO attacked with BARDET and team support on Splügen descent, held 24s over BERNAL's MARTÍNEZ-driven chase on Alpe Motta.",
+    "winner": "CARUSO Damiano",
+    "commentary_quality": "moderate",
+    "tactical_patterns": [
+      "MARTÍNEZ paced so hard on final climb ALMEIDA cracked despite starting with BERNAL, exposing podium weakness.",
+      "Team DSM caught break on Bernardino descent then facilitated CARUSO/BARDET bridge, orchestrating entire move without GC threat.",
+      "CARUSO attacked without waiting for final climb, using descent/valley to build gap before gradient nullified time gains.",
+      "BILBAO brought CARUSO across on Splügen while INEOS still had numbers, revealing BERNAL team's poor positioning awareness."
+    ],
+    "rider_signals": {
+      "CARUSO Damiano": "positive: offensive ride unprecedented for career domestique, strongest legs all race enabled solo finish climb",
+      "MARTÍNEZ Daniel Felipe": "positive: paced final climb so hard only BERNAL survived, demonstrated lieutenant capable of destroying GC riders",
+      "ALMEIDA João": "negative: dropped by MARTÍNEZ pace despite sitting BERNAL's wheel, fourth three consecutive mountain stages signals podium vulnerability",
+      "YATES Simon": "negative: struggled with MARTÍNEZ tempo suggesting 2021 form insufficient for top-tier GC finishing",
+      "BARDET Romain": "neutral: sat CARUSO wheel entire finale prioritizing stage over time, tactical discipline without punch",
+      "BOUCHARD Geoffrey": "neutral: swept remaining KOM points after break caught, jersey tactics rather than stage ambition"
+    },
+    "usable_for_rag": true
+  },
+  "extracted_at": "2026-06-28T22:53:20.301496+00:00"
+}
